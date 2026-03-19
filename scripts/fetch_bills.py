@@ -182,10 +182,10 @@ def get_bill_text_url(congress: int, bill_type: str, bill_number: str) -> str | 
     formats = latest.get("formats", [])
 
     for fmt in formats:
-        if fmt.get("type", "").upper() == "Formatted Text":
+        if fmt.get("type", "").upper() == "FORMATTED TEXT":
             return fmt.get("url")
     for fmt in formats:
-        if fmt.get("type", "").upper() in ("XML", "Formatted XML"):
+        if fmt.get("type", "").upper() in ("XML", "FORMATTED XML"):
             return fmt.get("url")
     return None
 
