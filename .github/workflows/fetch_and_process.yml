@@ -1,0 +1,67 @@
+name: Fetch and Process Bills
+
+on:
+  schedule:
+    # Run at 7am and 7pm Eastern (12:00 and 00:00 UTC)
+    - cron: '0 12 * * *'
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Allow manual trigger from the GitHub Actions UI
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed to commit the processed files back to the repo
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch bills that have cleared committee
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+        run: python scripts/fetch_bills.py
+
+      - name: Process queued bills through Claude
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+        run: python scripts/process_bill.py
+
+      - name: Rebuild the bill index
+        run: python scripts/build_index.py
+
+      - name: Copy bill data into site folder for Cloudflare Pages
+        run: |
+          mkdir -p site/src/bills
+          for dir in data/bills/*/; do
+            bill_id=$(basename "$dir")
+            if [ -f "$dir/simplified.json" ]; then
+              mkdir -p "site/src/bills/$bill_id"
+              cp "$dir/simplified.json" "site/src/bills/$bill_id/simplified.json"
+            fi
+          done
+          cp site/public/index.json site/src/index.json 2>/dev/null || true
+
+      - name: Commit and push any new or updated files
+        run: |
+          git config user.name "Congressional Bill Reader Bot"
+          git config user.email "bill-reader-bot@users.noreply.github.com"
+          git add data/ site/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto: update bills $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

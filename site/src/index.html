@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Congressional Bill Reader - Plain Language US Legislation</title>
+  <style>
+    :root {
+      --bg: #f9f9f7;
+      --surface: #ffffff;
+      --border: #e0ddd8;
+      --primary: #1a4a7a;
+      --primary-light: #e8f0f8;
+      --text: #1a1a1a;
+      --muted: #666;
+      --stage-badge: #2e7d32;
+      --radius: 8px;
+      --max-width: 780px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.75;
+      font-size: 18px;
+    }
+
+    header {
+      background: var(--primary);
+      color: white;
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    header h1 { font-size: 1.3rem; font-weight: bold; letter-spacing: 0.02em; }
+    header p { font-size: 0.85rem; opacity: 0.8; margin-top: 2px; }
+
+    .container { max-width: var(--max-width); margin: 0 auto; padding: 24px 20px; }
+
+    /* Search */
+    .search-container {
+      margin-bottom: 20px;
+    }
+    .search-input {
+      width: 100%;
+      padding: 12px 16px;
+      font-size: 1rem;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--surface);
+      font-family: inherit;
+    }
+    .search-input:focus {
+      outline: none;
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px var(--primary-light);
+    }
+    .search-info {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-top: 8px;
+      font-family: sans-serif;
+    }
+
+    /* Bill list */
+    #bill-list { display: flex; flex-direction: column; gap: 16px; }
+
+    .bill-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px;
+      cursor: pointer;
+      transition: box-shadow 0.15s;
+    }
+    .bill-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.1); }
+    .bill-card h2 { font-size: 1.05rem; color: var(--primary); margin-bottom: 6px; }
+    .bill-meta { font-size: 0.8rem; color: var(--muted); margin-bottom: 10px; display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+    .stage-badge {
+      background: var(--stage-badge);
+      color: white;
+      font-size: 0.7rem;
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-family: sans-serif;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .policy-badge {
+      background: var(--primary-light);
+      color: var(--primary);
+      font-size: 0.7rem;
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-family: sans-serif;
+    }
+    .bill-summary { font-size: 0.95rem; color: #333; }
+    .sponsor-line { font-size: 0.8rem; color: var(--muted); margin-top: 8px; font-family: sans-serif; }
+
+    /* Bill reader */
+    #reader-view { display: none; }
+
+    .back-btn {
+      background: none;
+      border: none;
+      color: var(--primary);
+      font-size: 0.9rem;
+      cursor: pointer;
+      padding: 0 0 16px 0;
+      font-family: sans-serif;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .back-btn:hover { text-decoration: underline; }
+
+    .bill-title-block { margin-bottom: 24px; }
+    .bill-title-block h1 { font-size: 1.4rem; color: var(--primary); line-height: 1.4; margin-bottom: 8px; }
+    .bill-title-block .meta { font-size: 0.85rem; color: var(--muted); font-family: sans-serif; }
+
+    .summary-box {
+      background: var(--primary-light);
+      border-left: 4px solid var(--primary);
+      border-radius: 0 var(--radius) var(--radius) 0;
+      padding: 16px 20px;
+      margin-bottom: 28px;
+      font-size: 0.95rem;
+    }
+    .summary-box strong { display: block; font-family: sans-serif; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--primary); margin-bottom: 6px; }
+
+    /* TTS controls */
+    .tts-bar {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 18px;
+      margin-bottom: 28px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      flex-wrap: wrap;
+      font-family: sans-serif;
+      font-size: 0.85rem;
+    }
+    .tts-btn {
+      background: var(--primary);
+      color: white;
+      border: none;
+      border-radius: 6px;
+      padding: 8px 18px;
+      font-size: 0.9rem;
+      cursor: pointer;
+      font-family: sans-serif;
+    }
+    .tts-btn:hover { background: #163d66; }
+    .tts-btn.secondary {
+      background: none;
+      color: var(--primary);
+      border: 1px solid var(--primary);
+    }
+    .tts-btn.secondary:hover { background: var(--primary-light); }
+    label { color: var(--muted); }
+    input[type=range] { width: 90px; }
+
+    /* Sections */
+    .section-block {
+      margin-bottom: 32px;
+      padding-bottom: 32px;
+      border-bottom: 1px solid var(--border);
+    }
+    .section-block:last-child { border-bottom: none; }
+    .section-block h3 {
+      font-size: 1.05rem;
+      color: var(--primary);
+      margin-bottom: 12px;
+      font-family: sans-serif;
+      font-weight: bold;
+    }
+    .section-text { font-size: 1rem; line-height: 1.8; }
+    .section-text p { margin-bottom: 12px; }
+
+    .section-block.speaking {
+      background: #fffde7;
+      border-radius: var(--radius);
+      padding: 16px;
+      margin-left: -16px;
+      margin-right: -16px;
+    }
+
+    .loading { text-align: center; padding: 48px; color: var(--muted); font-family: sans-serif; }
+    .error { color: #c62828; font-family: sans-serif; padding: 20px; }
+
+    @media (max-width: 500px) {
+      body { font-size: 16px; }
+      .tts-bar { gap: 10px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Congressional Bill Reader</h1>
+    <p>US legislation in plain language, read aloud</p>
+  </div>
+</header>
+
+<div class="container">
+  <!-- Bill list view -->
+  <div id="list-view">
+    <div class="search-container">
+      <input type="text" id="search-input" class="search-input"
+        placeholder="Search bills by topic, keyword, sponsor, or bill number..."
+        oninput="handleSearch(this.value)">
+      <div id="search-info" class="search-info"></div>
+    </div>
+    <div id="bill-list"><div class="loading">Loading bills...</div></div>
+  </div>
+
+  <!-- Reader view -->
+  <div id="reader-view">
+    <button class="back-btn" onclick="showList()">Back to all bills</button>
+    <div id="reader-content"></div>
+  </div>
+</div>
+
+<!-- Fuse.js for fuzzy search -->
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+
+<script>
+  // ---- State ----
+  let allBills = [];
+  let fuse = null;
+  let currentUtterance = null;
+  let isPaused = false;
+  let currentSections = [];
+  let currentSectionIndex = 0;
+  let speechRate = 1.0;
+
+  // ---- Fuse.js configuration ----
+  const fuseOptions = {
+    keys: [
+      { name: 'plain_keywords_str', weight: 1.0 },
+      { name: 'short_title', weight: 0.8 },
+      { name: 'plain_summary', weight: 0.8 },
+      { name: 'subjects_str', weight: 0.6 },
+      { name: 'policy_area', weight: 0.6 },
+      { name: 'title', weight: 0.5 },
+      { name: 'sponsor_name', weight: 0.3 },
+      { name: 'sponsor_state', weight: 0.3 },
+      { name: 'bill_number', weight: 0.3 },
+    ],
+    threshold: 0.4,
+    ignoreLocation: true,
+    includeScore: true,
+  };
+
+  // ---- Fetch and render bill list ----
+  async function loadBillList() {
+    try {
+      const resp = await fetch('index.json');
+      if (!resp.ok) throw new Error('Could not load bill index.');
+      const data = await resp.json();
+      allBills = data.bills || [];
+      fuse = new Fuse(allBills, fuseOptions);
+      renderBillList(allBills);
+      updateSearchInfo(allBills.length, allBills.length);
+    } catch (e) {
+      document.getElementById('bill-list').innerHTML =
+        '<div class="error">Could not load bills. ' + e.message + '</div>';
+    }
+  }
+
+  function handleSearch(query) {
+    if (!query.trim()) {
+      renderBillList(allBills);
+      updateSearchInfo(allBills.length, allBills.length);
+      return;
+    }
+
+    const results = fuse.search(query);
+    const matchedBills = results.map(r => r.item);
+    renderBillList(matchedBills);
+    updateSearchInfo(matchedBills.length, allBills.length);
+  }
+
+  function updateSearchInfo(showing, total) {
+    const el = document.getElementById('search-info');
+    if (showing === total) {
+      el.textContent = `Showing all ${total} bill${total !== 1 ? 's' : ''}`;
+    } else {
+      el.textContent = `Found ${showing} of ${total} bills`;
+    }
+  }
+
+  function renderBillList(bills) {
+    const el = document.getElementById('bill-list');
+    if (!bills.length) {
+      el.innerHTML = '<div class="loading">No bills match your search.</div>';
+      return;
+    }
+    el.innerHTML = bills.map(b => {
+      const sponsorInfo = b.sponsor_name ?
+        `<div class="sponsor-line">Sponsored by ${escapeHtml(b.sponsor_name)} (${b.sponsor_party || '?'}-${b.sponsor_state || '??'})${b.cosponsor_count > 0 ? ` + ${b.cosponsor_count} cosponsors` : ''}</div>` : '';
+
+      return `
+      <div class="bill-card" onclick="loadBill('${b.bill_id}')">
+        <h2>${escapeHtml(b.short_title || b.title)}</h2>
+        <div class="bill-meta">
+          <span>${escapeHtml(b.bill_number || '')}</span>
+          <span>${formatDate(b.introduced_date)}</span>
+          <span class="stage-badge">${escapeHtml(b.stage_label || 'Committee')}</span>
+          ${b.policy_area ? `<span class="policy-badge">${escapeHtml(b.policy_area)}</span>` : ''}
+        </div>
+        <div class="bill-summary">${escapeHtml(b.plain_summary || '')}</div>
+        ${sponsorInfo}
+      </div>
+    `}).join('');
+  }
+
+  // ---- Load and render a single bill ----
+  async function loadBill(billId) {
+    stopTTS();
+    document.getElementById('list-view').style.display = 'none';
+    document.getElementById('reader-view').style.display = 'block';
+    document.getElementById('reader-content').innerHTML = '<div class="loading">Loading bill...</div>';
+
+    try {
+      const resp = await fetch(`bills/${billId}/simplified.json`);
+      if (!resp.ok) throw new Error('Could not load bill.');
+      const data = await resp.json();
+      renderBill(data);
+    } catch (e) {
+      document.getElementById('reader-content').innerHTML =
+        '<div class="error">Could not load bill. ' + e.message + '</div>';
+    }
+  }
+
+  function renderBill(data) {
+    currentSections = data.sections || [];
+
+    const sectionsHtml = currentSections.map((s, i) => `
+      <div class="section-block" id="section-${s.id}" data-index="${i}">
+        <h3>${escapeHtml(s.title)}</h3>
+        <div class="section-text">${formatSectionText(s.text)}</div>
+      </div>
+    `).join('');
+
+    const sponsorInfo = data.sponsor_name ?
+      `Sponsored by ${escapeHtml(data.sponsor_name)} (${data.sponsor_party || '?'}-${data.sponsor_state || '??'})` : '';
+
+    document.getElementById('reader-content').innerHTML = `
+      <div class="bill-title-block">
+        <h1>${escapeHtml(data.short_title || data.title)}</h1>
+        <div class="meta">
+          ${escapeHtml(data.bill_number || '')}
+          &nbsp; Introduced ${formatDate(data.introduced_date)}
+          &nbsp; Updated ${formatDate(data.last_updated)}
+          &nbsp; <span class="stage-badge">${escapeHtml(data.stage_label || '')}</span>
+          ${data.policy_area ? `&nbsp; <span class="policy-badge">${escapeHtml(data.policy_area)}</span>` : ''}
+        </div>
+        ${sponsorInfo ? `<div class="meta" style="margin-top:4px">${sponsorInfo}</div>` : ''}
+      </div>
+
+      <div class="summary-box">
+        <strong>Plain Language Summary</strong>
+        ${escapeHtml(data.plain_summary || '')}
+      </div>
+
+      <div class="tts-bar">
+        <button class="tts-btn" id="play-btn" onclick="startTTS()">Listen to bill</button>
+        <button class="tts-btn secondary" id="pause-btn" onclick="togglePause()" style="display:none">Pause</button>
+        <button class="tts-btn secondary" onclick="stopTTS()">Stop</button>
+        <label>Speed
+          <input type="range" min="0.5" max="2" step="0.1" value="1.0"
+            oninput="updateRate(this.value)" title="Playback speed">
+        </label>
+        <span id="rate-label" style="color:var(--muted)">1.0x</span>
+        <span id="tts-status" style="color:var(--muted);font-style:italic"></span>
+      </div>
+
+      <div id="sections-container">${sectionsHtml}</div>
+    `;
+  }
+
+  function formatSectionText(text) {
+    return text.split(/\n\n+/)
+      .map(p => p.trim())
+      .filter(p => p.length > 0)
+      .map(p => '<p>' + escapeHtml(p) + '</p>')
+      .join('');
+  }
+
+  // ---- TTS ----
+  function startTTS(fromIndex) {
+    if (!window.speechSynthesis) {
+      alert('Text to speech is not supported in this browser. Please try Chrome or Edge.');
+      return;
+    }
+    stopTTS();
+    currentSectionIndex = fromIndex !== undefined ? fromIndex : 0;
+    speakSection(currentSectionIndex);
+  }
+
+  function speakSection(index) {
+    if (index >= currentSections.length) {
+      setTTSStatus('');
+      highlightSection(null);
+      return;
+    }
+
+    const section = currentSections[index];
+    highlightSection(index);
+    scrollToSection(section.id);
+    setTTSStatus('Reading: ' + section.title);
+
+    const text = section.title + '. ' + section.text;
+    currentUtterance = new SpeechSynthesisUtterance(text);
+    currentUtterance.rate = speechRate;
+    currentUtterance.onend = () => {
+      currentSectionIndex++;
+      speakSection(currentSectionIndex);
+    };
+    currentUtterance.onerror = () => {
+      setTTSStatus('');
+      highlightSection(null);
+    };
+
+    document.getElementById('play-btn').style.display = 'none';
+    document.getElementById('pause-btn').style.display = 'inline-block';
+    window.speechSynthesis.speak(currentUtterance);
+  }
+
+  function togglePause() {
+    if (!window.speechSynthesis) return;
+    if (isPaused) {
+      window.speechSynthesis.resume();
+      isPaused = false;
+      document.getElementById('pause-btn').textContent = 'Pause';
+      setTTSStatus('Reading...');
+    } else {
+      window.speechSynthesis.pause();
+      isPaused = true;
+      document.getElementById('pause-btn').textContent = 'Resume';
+      setTTSStatus('Paused');
+    }
+  }
+
+  function stopTTS() {
+    if (window.speechSynthesis) window.speechSynthesis.cancel();
+    isPaused = false;
+    highlightSection(null);
+    setTTSStatus('');
+    const playBtn = document.getElementById('play-btn');
+    const pauseBtn = document.getElementById('pause-btn');
+    if (playBtn) playBtn.style.display = 'inline-block';
+    if (pauseBtn) pauseBtn.style.display = 'none';
+  }
+
+  function updateRate(val) {
+    speechRate = parseFloat(val);
+    document.getElementById('rate-label').textContent = speechRate.toFixed(1) + 'x';
+    if (window.speechSynthesis && window.speechSynthesis.speaking) {
+      const resumeAt = currentSectionIndex;
+      stopTTS();
+      startTTS(resumeAt);
+    }
+  }
+
+  function highlightSection(index) {
+    document.querySelectorAll('.section-block').forEach(el => el.classList.remove('speaking'));
+    if (index !== null) {
+      const el = document.querySelector(`.section-block[data-index="${index}"]`);
+      if (el) el.classList.add('speaking');
+    }
+  }
+
+  function scrollToSection(sectionId) {
+    const el = document.getElementById('section-' + sectionId);
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  function setTTSStatus(msg) {
+    const el = document.getElementById('tts-status');
+    if (el) el.textContent = msg;
+  }
+
+  // ---- Navigation ----
+  function showList() {
+    stopTTS();
+    document.getElementById('reader-view').style.display = 'none';
+    document.getElementById('list-view').style.display = 'block';
+  }
+
+  // ---- Helpers ----
+  function escapeHtml(str) {
+    if (!str) return '';
+    return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function formatDate(dateStr) {
+    if (!dateStr) return '';
+    try {
+      return new Date(dateStr).toLocaleDateString('en-US', { year:'numeric', month:'short', day:'numeric' });
+    } catch { return dateStr; }
+  }
+
+  // ---- Init ----
+  loadBillList();
+</script>
+</body>
+</html>
