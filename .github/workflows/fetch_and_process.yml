@@ -58,7 +58,9 @@ jobs:
         run: |
           git config user.name "Congressional Bill Reader Bot"
           git config user.email "bill-reader-bot@users.noreply.github.com"
-          git add data/ site/
+          # Add directories only if they exist (handles first run with no bills)
+          [ -d data ] && git add data/
+          [ -d site ] && git add site/
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
