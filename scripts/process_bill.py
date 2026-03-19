@@ -32,7 +32,7 @@ from utils import hash_text, chunk_text, compute_offsets, slugify
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 DATA_DIR = Path(__file__).parent.parent / "data" / "bills"
-MODEL = "claude-sonnet-4-20250514"
+MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-4-20250514")
 
 SYSTEM_PROMPT = """You are a plain language editor. Your job is to take sections of US congressional bill text
 and rewrite them so that any person with a sixth-grade reading level can understand them.
@@ -202,6 +202,7 @@ def process_bill(folder: Path, client: anthropic.Anthropic):
     meta_path = folder / "meta.json"
     if not meta_path.exists():
         print(f"  No meta.json found in {folder.name}, skipping.")
+        (folder / "needs_processing").unlink(missing_ok=True)
         return
 
     with open(meta_path) as f:
@@ -218,6 +219,13 @@ def process_bill(folder: Path, client: anthropic.Anthropic):
         raw_text = fetch_text(text_url)
     except Exception as e:
         print(f"  ERROR fetching text: {e}")
+        # Record the failure to prevent infinite retry loops
+        meta["fetch_failed"] = True
+        meta["fetch_error"] = str(e)
+        meta["last_fetch_attempt"] = datetime.now(timezone.utc).isoformat()
+        with open(meta_path, "w") as f:
+            json.dump(meta, f, indent=2)
+        (folder / "needs_processing").unlink(missing_ok=True)
         return
 
     with open(folder / "original.txt", "w", encoding="utf-8") as f:
@@ -244,7 +252,20 @@ def process_bill(folder: Path, client: anthropic.Anthropic):
             result = call_anthropic(client, chunk, i, len(chunks), bill_title)
         except Exception as e:
             print(f"    FAILED on chunk {i}: {e}")
+            # Record the failure to prevent infinite retry loops
+            meta["process_failed"] = True
+            meta["process_error"] = str(e)
+            meta["failed_chunk"] = i
+            meta["last_process_attempt"] = datetime.now(timezone.utc).isoformat()
+            with open(meta_path, "w") as f:
+                json.dump(meta, f, indent=2)
+            (folder / "needs_processing").unlink(missing_ok=True)
             return
+
+        # Validate that we got valid data from Claude
+        if not result or not isinstance(result, dict):
+            print(f"    WARNING: Empty or invalid response from Claude on chunk {i}")
+            result = {"sections": [], "plain_summary": ""}
 
         sections = result.get("sections", [])
         chunk_summary = result.get("plain_summary", "")

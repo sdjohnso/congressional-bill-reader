@@ -26,8 +26,12 @@ def build_index():
         if not simplified_path.exists():
             continue
 
-        with open(simplified_path) as f:
-            data = json.load(f)
+        try:
+            with open(simplified_path) as f:
+                data = json.load(f)
+        except json.JSONDecodeError as e:
+            print(f"WARNING: Skipping {folder.name} - malformed JSON: {e}")
+            continue
 
         # Get subjects as a searchable string for Fuse.js
         subjects = data.get("subjects", [])

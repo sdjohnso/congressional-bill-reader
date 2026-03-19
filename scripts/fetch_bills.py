@@ -41,7 +41,7 @@ COMMITTEE_CLEARED_ACTIONS = [
 ]
 
 PAGE_SIZE = 50
-TARGET_CONGRESS = 119
+TARGET_CONGRESS = int(os.environ.get("TARGET_CONGRESS", 119))
 
 
 def fetch_json(url: str, params: dict) -> dict:
