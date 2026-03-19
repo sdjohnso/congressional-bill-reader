@@ -19,6 +19,20 @@ OUTPUT_PATH = Path(__file__).parent.parent / "site" / "public" / "index.json"
 def build_index():
     bills = []
 
+    # Handle case where no bills have been fetched yet
+    if not DATA_DIR.exists():
+        print("No bills directory found - creating empty index.")
+        OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+        index = {
+            "generated_at": datetime.now(timezone.utc).isoformat(),
+            "bill_count": 0,
+            "bills": [],
+        }
+        with open(OUTPUT_PATH, "w") as f:
+            json.dump(index, f, indent=2)
+        print(f"Empty index written to {OUTPUT_PATH}")
+        return
+
     for folder in sorted(DATA_DIR.iterdir()):
         if not folder.is_dir():
             continue

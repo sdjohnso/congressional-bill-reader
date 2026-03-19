@@ -349,6 +349,12 @@ def run(specific_bill_id: str | None = None):
 
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
+    # Handle case where no bills have been fetched yet
+    if not DATA_DIR.exists():
+        print("No bills to process - data/bills directory does not exist yet.")
+        print("This is normal on first run if no bills matched the filter criteria.")
+        return
+
     if specific_bill_id:
         folders = [DATA_DIR / specific_bill_id]
     else:
