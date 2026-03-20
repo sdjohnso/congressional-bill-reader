@@ -223,6 +223,102 @@
     .loading { text-align: center; padding: 48px; color: var(--muted); font-family: sans-serif; }
     .error { color: #c62828; font-family: sans-serif; padding: 20px; }
 
+    /* Info button in header */
+    .info-btn {
+      margin-left: auto;
+      background: rgba(255,255,255,0.2);
+      border: 2px solid rgba(255,255,255,0.5);
+      color: white;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      font-size: 1rem;
+      font-weight: bold;
+      cursor: pointer;
+      font-family: sans-serif;
+      transition: background 0.15s;
+    }
+    .info-btn:hover {
+      background: rgba(255,255,255,0.3);
+    }
+
+    /* Modal overlay */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0,0,0,0.6);
+      z-index: 200;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+    }
+    .modal-overlay.visible {
+      display: flex;
+    }
+
+    .modal-content {
+      background: var(--surface);
+      border-radius: var(--radius);
+      max-width: 640px;
+      max-height: 85vh;
+      overflow-y: auto;
+      padding: 28px;
+      position: relative;
+      font-family: sans-serif;
+      line-height: 1.6;
+      font-size: 0.95rem;
+    }
+    .modal-content h2 {
+      color: var(--primary);
+      margin-bottom: 20px;
+      font-size: 1.4rem;
+    }
+    .modal-content h3 {
+      color: var(--primary);
+      margin: 20px 0 10px 0;
+      font-size: 1rem;
+    }
+    .modal-content p {
+      margin-bottom: 12px;
+      color: var(--text);
+    }
+    .modal-content a {
+      color: var(--primary);
+    }
+    .modal-close {
+      position: absolute;
+      top: 12px;
+      right: 16px;
+      background: none;
+      border: none;
+      font-size: 1.8rem;
+      cursor: pointer;
+      color: var(--muted);
+      line-height: 1;
+    }
+    .modal-close:hover {
+      color: var(--text);
+    }
+
+    .prompt-box {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px;
+      font-size: 0.85rem;
+      margin: 12px 0;
+    }
+    .prompt-box ul {
+      margin: 10px 0 0 20px;
+    }
+    .prompt-box li {
+      margin-bottom: 6px;
+    }
+
     @media (max-width: 600px) {
       body { font-size: 16px; }
       .tts-bar {
@@ -234,6 +330,7 @@
       .speed-control { margin-left: 8px; }
       .speed-control input[type=range] { width: 60px; }
       #reader-view { padding-bottom: 100px; }
+      .modal-content { padding: 20px; }
     }
   </style>
 </head>
@@ -244,7 +341,45 @@
     <h1>Congressional Bill Reader</h1>
     <p>US legislation in plain language, read aloud</p>
   </div>
+  <button class="info-btn" onclick="openInfoModal()" title="How it works">?</button>
 </header>
+
+<!-- Info Modal -->
+<div id="info-modal" class="modal-overlay" onclick="closeInfoModal(event)">
+  <div class="modal-content" onclick="event.stopPropagation()">
+    <button class="modal-close" onclick="closeInfoModal()">&times;</button>
+    <h2>How It Works</h2>
+
+    <h3>AI-Powered Simplification</h3>
+    <p>Each bill is processed through Claude (Anthropic's AI) with instructions to rewrite the legal text at a sixth-grade reading level while preserving accuracy.</p>
+
+    <h3>Chunking for Long Bills</h3>
+    <p>Bills longer than ~14,000 words are split into chunks at section boundaries (SEC., SECTION, Title, DIVISION). Each chunk has a 150-word overlap to preserve context across splits.</p>
+
+    <h3>The Prompt</h3>
+    <div class="prompt-box">
+      <p>You are a plain language editor. Your job is to take sections of US congressional bill text and rewrite them so that any person with a sixth-grade reading level can understand them.</p>
+      <p><strong>Rules:</strong></p>
+      <ul>
+        <li>Use simple everyday words. Replace legal and technical terms with plain explanations.</li>
+        <li>Write in complete sentences and short paragraphs.</li>
+        <li>Do not use bullet points, numbered lists, dashes, asterisks, or special characters.</li>
+        <li>Do not use bold, italic, or any markdown formatting.</li>
+        <li>If a term must be kept because there is no plain equivalent, explain it in parentheses the first time it appears.</li>
+        <li>Preserve the section structure exactly.</li>
+        <li>Keep the tone neutral and factual. Do not editorialize.</li>
+        <li>Do not summarize so aggressively that important details are lost.</li>
+        <li>Numbers, dates, and dollar amounts should be written out in plain words where possible.</li>
+      </ul>
+    </div>
+
+    <h3>Data Sources</h3>
+    <p>Bill text and metadata come from the <a href="https://api.congress.gov/" target="_blank">Congress.gov API</a>. Only bills that have cleared committee are included.</p>
+
+    <h3>Open Source</h3>
+    <p>This project is open source. <a href="https://github.com/sdjohnso/congressional-bill-reader" target="_blank">View the code on GitHub</a>.</p>
+  </div>
+</div>
 
 <div class="container">
   <!-- Bill list view -->
@@ -583,6 +718,23 @@
       return new Date(dateStr).toLocaleDateString('en-US', { year:'numeric', month:'short', day:'numeric' });
     } catch { return dateStr; }
   }
+
+  // ---- Modal ----
+  function openInfoModal() {
+    document.getElementById('info-modal').classList.add('visible');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeInfoModal(event) {
+    if (event && event.target !== event.currentTarget) return;
+    document.getElementById('info-modal').classList.remove('visible');
+    document.body.style.overflow = '';
+  }
+
+  // Close modal on Escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeInfoModal();
+  });
 
   // ---- Init ----
   loadBillList();
