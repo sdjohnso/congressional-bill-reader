@@ -1,0 +1,83 @@
+{
+  "bill_id": "119-hr-209",
+  "title": "Inaction Has Consequences Act",
+  "short_title": "Inaction Has Consequences Act",
+  "congress": 119,
+  "bill_number": "HR.209",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on House Administration.",
+  "version_hash": "3ac0b441e0699c4d",
+  "last_updated": "2026-03-20T01:22:27.463291+00:00",
+  "plain_summary": "This bill says that members of Congress will not get their paychecks if their part of Congress does not pass all the yearly spending bills on time. The House and Senate each have to pass these bills before October 1st, which is when the government's budget year starts. If they don't finish the work on time, their pay gets put aside and they can't have it until they pass all the bills or until their time in Congress ends. This rule would start in 2026 and is meant to make Congress members work harder to avoid government shutdowns.",
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Appropriations",
+    "Budget process",
+    "Executive agency funding and structure",
+    "Government employee pay, benefits, personnel management",
+    "Legislative rules and procedure",
+    "Members of Congress"
+  ],
+  "sponsor_name": "Rep. Wittman, Robert J. [R-VA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress pay",
+    "government shutdown",
+    "spending bills",
+    "congressional salary",
+    "budget deadline",
+    "october 1st",
+    "house senate pay",
+    "government funding",
+    "congress paycheck",
+    "lawmakers salary",
+    "federal budget",
+    "government money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Inaction Has Consequences Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-holding-salaries-of-members-of-congress-in-escrow-upon-failure-to-pass-regular-appropriation-bills",
+      "title": "Section 2 Holding Salaries of Members of Congress in Escrow Upon Failure to Pass Regular Appropriation Bills",
+      "text": "If either the House of Representatives or the Senate does not pass all their required spending bills by the start of the government's budget year, then the members of that chamber will not get their paychecks on time. Starting with the budget year that begins October first two thousand twenty five, this is what will happen. The person who handles paychecks for that chamber must put all the salary payments into a special holding account called an escrow account. The members will only get their money back when one of two things happens. Either their chamber passes all the required spending bills for that budget year, or the current session of Congress ends completely. A regular appropriation bill means any yearly spending bill that is handled by just one subcommittee in the House Appropriations Committee and just one subcommittee in the Senate Appropriations Committee according to their rules.",
+      "word_offset": 10,
+      "char_offset": 58
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-administration-of-escrow",
+      "title": "Section 3 Administration of Escrow",
+      "text": "Even when paychecks are held in the escrow account, the payroll administrator must still take out taxes and other deductions just like they normally would. The Secretary of the Treasury will help the payroll administrators of both chambers of Congress with whatever they need to make this law work properly.",
+      "word_offset": 158,
+      "char_offset": 963
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-release-of-amounts-at-end-of-a-congress",
+      "title": "Section 4 Release of Amounts at End of a Congress",
+      "text": "To follow the Twenty Seventh Amendment to the Constitution, any money still held in escrow accounts must be given back to the members on the last day of the current Congress session. This means members will always get their pay before a new Congress begins, even if their chamber never passed the required spending bills.",
+      "word_offset": 208,
+      "char_offset": 1271
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-definitions",
+      "title": "Section 5 Definitions",
+      "text": "In this law, the word Member includes Delegates and the Resident Commissioner who represent territories in Congress. The payroll administrator means the Chief Administrative Officer of the House of Representatives or someone they choose to handle this job for the House. For the Senate, it means the Secretary of the Senate or someone they choose to handle this job.",
+      "word_offset": 263,
+      "char_offset": 1593
+    }
+  ]
+}

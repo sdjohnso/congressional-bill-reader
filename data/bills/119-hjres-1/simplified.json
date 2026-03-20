@@ -1,0 +1,46 @@
+{
+  "bill_id": "119-hjres-1",
+  "title": "Proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.1",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "518e49593f898b82",
+  "last_updated": "2026-03-20T01:21:47.680822+00:00",
+  "plain_summary": "This bill wants to change the Constitution to make sure the Supreme Court always has exactly nine judges. Right now, the Constitution doesn't say how many judges the Supreme Court must have, so Congress could change that number if they wanted to. The bill says there should be one Chief Justice and eight other justices, and that number could never be changed. To make this part of the Constitution, two thirds of Congress and three fourths of all the states would have to agree to it.",
+  "policy_area": "Law",
+  "subjects": [
+    "Constitution and constitutional amendments",
+    "Judges",
+    "Supreme Court"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "supreme court size",
+    "nine justices",
+    "court packing",
+    "supreme court judges",
+    "constitutional amendment",
+    "fix supreme court number",
+    "limit supreme court justices",
+    "supreme court reform",
+    "nine judge limit",
+    "court expansion ban"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution",
+      "title": "Joint Resolution",
+      "text": "This joint resolution proposes to change the Constitution of the United States. Both the Senate and the House of Representatives must agree to this change, with at least two thirds of each house voting yes. The proposed change would add a new article to the Constitution that says the Supreme Court of the United States must have exactly nine justices. These nine justices would include one chief justice (the head judge) and eight associate justices (the other judges). This change would only become part of the Constitution if the state legislatures in at least three fourths of all states approve it within seven years after Congress sends it to them.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

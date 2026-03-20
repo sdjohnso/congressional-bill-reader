@@ -1,0 +1,55 @@
+{
+  "bill_id": "119-hr-144",
+  "title": "Tennessee Valley Authority Salary Transparency Act",
+  "short_title": "Tennessee Valley Authority Salary Transparency Act",
+  "congress": 119,
+  "bill_number": "HR.144",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+  "version_hash": "b8158873c3ad71f8",
+  "last_updated": "2026-03-20T01:21:36.389727+00:00",
+  "plain_summary": "This bill makes the Tennessee Valley Authority report more information to Congress each year. The Tennessee Valley Authority is a government company that provides electricity to Tennessee and nearby states. Starting again, they must file a yearly financial report with Congress every March. The report must include the names, salaries, and job duties of management workers who earn more than a certain government pay level, but this salary information stays private and is not shared with the public.",
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Government employee pay, benefits, personnel management",
+    "Government information and archives",
+    "Personnel records",
+    "Tennessee Valley Authority"
+  ],
+  "sponsor_name": "Rep. Cohen, Steve [D-TN-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "TN",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "TVA salaries",
+    "Tennessee Valley Authority pay",
+    "government employee salaries",
+    "electricity company wages",
+    "Tennessee power company",
+    "executive compensation",
+    "management salaries",
+    "government transparency",
+    "public utility pay",
+    "congressional reporting"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Tennessee Valley Authority Salary Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-salary-disclosure-exception-to-report-elimination",
+      "title": "Section 2 Salary Disclosure; Exception to Report Elimination",
+      "text": "This section changes the Tennessee Valley Authority Act of nineteen thirty-three. The changes require the Tennessee Valley Authority to create a report about employee pay. The report must list the total number of management-level employees and above, including all executives and board members. For each person, the report must show their name, salary, and job duties. This applies to all employees who earn at least as much as the highest pay level for a GS-15 government worker (a specific government pay grade). The report information about employee salaries cannot be shared with the public under the Freedom of Information Act. The salary information also does not have to follow the rules of the Access to Congressionally Mandated Reports Act, which is a law that requires certain government reports to be made available to Congress and the public.",
+      "word_offset": 12,
+      "char_offset": 79
+    }
+  ]
+}
