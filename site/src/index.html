@@ -130,6 +130,14 @@
       border-radius: 10px;
       font-family: sans-serif;
     }
+    .status-badge {
+      background: #f0f0f0;
+      color: #555;
+      font-size: 0.7rem;
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-family: sans-serif;
+    }
     .sponsor-info {
       color: var(--muted);
     }
@@ -138,6 +146,9 @@
     }
     .bill-policy {
       margin-top: 4px;
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
     }
 
     /* Sponsor link on bill page */
@@ -673,7 +684,10 @@
           <span class="separator">·</span>
           <span class="sponsor-info">${sponsorText}</span>
         </div>
-        ${b.policy_area ? `<div class="bill-policy"><span class="policy-badge">${escapeHtml(b.policy_area)}</span></div>` : ''}
+        <div class="bill-policy">
+          ${b.policy_area ? `<span class="policy-badge">${escapeHtml(b.policy_area)}</span>` : ''}
+          ${b.current_status ? `<span class="status-badge">${formatStatus(b.current_status)}</span>` : ''}
+        </div>
       </div>
     `}).join('');
   }
@@ -913,6 +927,21 @@
     try {
       return new Date(dateStr).toLocaleDateString('en-US', { year:'numeric', month:'short', day:'numeric' });
     } catch { return dateStr; }
+  }
+
+  function formatStatus(status) {
+    const labels = {
+      'introduced': 'Introduced',
+      'referred_to_committee': 'In Committee',
+      'committee_reported': 'Passed Committee',
+      'passed_house': 'Passed House',
+      'passed_senate': 'Passed Senate',
+      'resolving_differences': 'In Conference',
+      'to_president': 'To President',
+      'signed_into_law': 'Signed Into Law',
+      'vetoed': 'Vetoed'
+    };
+    return labels[status] || status || '';
   }
 
   // ---- Info Modal ----
