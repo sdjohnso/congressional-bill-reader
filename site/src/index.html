@@ -99,8 +99,7 @@
       border-radius: 12px;
       font-family: sans-serif;
     }
-    .bill-summary { font-size: 0.95rem; color: #333; }
-    .sponsor-line { font-size: 0.8rem; color: var(--muted); margin-top: 8px; font-family: sans-serif; }
+    .sponsor-line { font-size: 0.8rem; color: var(--muted); margin-top: 6px; font-family: sans-serif; }
 
     /* Bill reader */
     #reader-view { display: none; }
@@ -316,7 +315,12 @@
       const resp = await fetch('index.json');
       if (!resp.ok) throw new Error('Could not load bill index.');
       const data = await resp.json();
-      allBills = data.bills || [];
+      // Sort by introduced date, newest first
+      allBills = (data.bills || []).sort((a, b) => {
+        const dateA = new Date(a.introduced_date || 0);
+        const dateB = new Date(b.introduced_date || 0);
+        return dateB - dateA;
+      });
       fuse = new Fuse(allBills, fuseOptions);
       renderBillList(allBills);
       updateSearchInfo(allBills.length, allBills.length);
@@ -356,7 +360,7 @@
     }
     el.innerHTML = bills.map(b => {
       const sponsorInfo = b.sponsor_name ?
-        `<div class="sponsor-line">Sponsored by ${escapeHtml(b.sponsor_name)} (${b.sponsor_party || '?'}-${b.sponsor_state || '??'})${b.cosponsor_count > 0 ? ` + ${b.cosponsor_count} cosponsors` : ''}</div>` : '';
+        `<div class="sponsor-line">${escapeHtml(b.sponsor_name)} (${b.sponsor_party || '?'}-${b.sponsor_state || '??'})${b.cosponsor_count > 0 ? ` + ${b.cosponsor_count} cosponsors` : ''}</div>` : '';
 
       return `
       <div class="bill-card" onclick="loadBill('${b.bill_id}')">
@@ -364,10 +368,8 @@
         <div class="bill-meta">
           <span>${escapeHtml(b.bill_number || '')}</span>
           <span>${formatDate(b.introduced_date)}</span>
-          <span class="stage-badge">${escapeHtml(b.stage_label || 'Committee')}</span>
           ${b.policy_area ? `<span class="policy-badge">${escapeHtml(b.policy_area)}</span>` : ''}
         </div>
-        <div class="bill-summary">${escapeHtml(b.plain_summary || '')}</div>
         ${sponsorInfo}
       </div>
     `}).join('');
