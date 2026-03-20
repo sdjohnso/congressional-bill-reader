@@ -28,64 +28,94 @@
       font-size: 18px;
     }
 
+    /* Sticky header bar */
     header {
       background: var(--primary);
       color: white;
-      padding: 16px 24px;
+      padding: 10px 20px;
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+    .header-inner {
+      max-width: var(--max-width);
+      margin: 0 auto;
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 16px;
     }
-    header h1 { font-size: 1.3rem; font-weight: bold; letter-spacing: 0.02em; }
-    header p { font-size: 0.85rem; opacity: 0.8; margin-top: 2px; }
-
-    .container { max-width: var(--max-width); margin: 0 auto; padding: 24px 20px; }
-
-    /* Search */
-    .search-container {
-      margin-bottom: 20px;
+    .header-brand {
+      flex-shrink: 0;
     }
-    .search-input {
+    header h1 { font-size: 1.1rem; font-weight: bold; letter-spacing: 0.02em; }
+    header p { font-size: 0.75rem; opacity: 0.8; margin-top: 1px; }
+
+    .header-search {
+      flex: 1;
+      max-width: 500px;
+    }
+    .header-search .search-input {
       width: 100%;
-      padding: 12px 16px;
-      font-size: 1rem;
-      border: 1px solid var(--border);
+      padding: 8px 14px;
+      font-size: 0.9rem;
+      border: none;
       border-radius: var(--radius);
-      background: var(--surface);
-      font-family: inherit;
+      background: rgba(255,255,255,0.95);
+      font-family: sans-serif;
     }
-    .search-input:focus {
+    .header-search .search-input:focus {
       outline: none;
-      border-color: var(--primary);
-      box-shadow: 0 0 0 3px var(--primary-light);
+      box-shadow: 0 0 0 3px rgba(255,255,255,0.3);
+    }
+    .header-search .search-input::placeholder {
+      color: var(--muted);
+    }
+
+    .container { max-width: var(--max-width); margin: 0 auto; padding: 16px 20px; }
+
+    /* Search info below header */
+    .list-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--border);
     }
     .search-info {
       font-size: 0.85rem;
       color: var(--muted);
-      margin-top: 8px;
       font-family: sans-serif;
     }
 
-    /* Bill list */
-    #bill-list { display: flex; flex-direction: column; gap: 16px; }
+    /* Bill list - clean lines, no cards */
+    #bill-list { display: flex; flex-direction: column; }
 
-    .bill-card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 20px;
+    .bill-item {
+      padding: 16px 0;
+      border-bottom: 1px solid var(--border);
       cursor: pointer;
-      transition: box-shadow 0.15s;
+      transition: background 0.15s;
     }
-    .bill-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.1); }
-    .bill-card h2 { font-size: 1.05rem; color: var(--primary); margin-bottom: 6px; }
-    .bill-meta { font-size: 0.8rem; color: var(--muted); margin-bottom: 10px; display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+    .bill-item:hover { background: var(--primary-light); margin: 0 -20px; padding: 16px 20px; }
+    .bill-item:last-child { border-bottom: none; }
+    .bill-item h2 { font-size: 1rem; color: var(--primary); margin-bottom: 4px; line-height: 1.4; }
+    .bill-meta {
+      font-size: 0.8rem;
+      color: var(--muted);
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+      font-family: sans-serif;
+    }
+    .bill-meta .separator { color: var(--border); }
     .stage-badge {
       background: var(--stage-badge);
       color: white;
-      font-size: 0.7rem;
-      padding: 2px 8px;
-      border-radius: 12px;
+      font-size: 0.65rem;
+      padding: 2px 6px;
+      border-radius: 10px;
       font-family: sans-serif;
       font-weight: bold;
       text-transform: uppercase;
@@ -96,10 +126,15 @@
       color: var(--primary);
       font-size: 0.7rem;
       padding: 2px 8px;
-      border-radius: 12px;
+      border-radius: 10px;
       font-family: sans-serif;
     }
-    .sponsor-line { font-size: 0.8rem; color: var(--muted); margin-top: 6px; font-family: sans-serif; }
+    .sponsor-info {
+      color: var(--muted);
+    }
+    .cosponsor-count {
+      color: #888;
+    }
 
     /* Bill reader */
     #reader-view { display: none; }
@@ -225,21 +260,22 @@
 
     /* Info button in header */
     .info-btn {
+      flex-shrink: 0;
       margin-left: auto;
-      background: rgba(255,255,255,0.2);
-      border: 2px solid rgba(255,255,255,0.5);
+      background: rgba(255,255,255,0.15);
+      border: 1.5px solid rgba(255,255,255,0.4);
       color: white;
-      width: 32px;
-      height: 32px;
+      width: 28px;
+      height: 28px;
       border-radius: 50%;
-      font-size: 1rem;
+      font-size: 0.85rem;
       font-weight: bold;
       cursor: pointer;
       font-family: sans-serif;
       transition: background 0.15s;
     }
     .info-btn:hover {
-      background: rgba(255,255,255,0.3);
+      background: rgba(255,255,255,0.25);
     }
 
     /* Modal overlay */
@@ -319,6 +355,32 @@
       margin-bottom: 6px;
     }
 
+    @media (max-width: 700px) {
+      .header-inner {
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+      .header-brand {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      .header-brand h1 { font-size: 1rem; }
+      .header-search {
+        flex: 1;
+        max-width: none;
+        order: 3;
+        width: 100%;
+      }
+      .info-btn {
+        position: absolute;
+        top: 10px;
+        right: 20px;
+      }
+      header { position: relative; }
+    }
+
     @media (max-width: 600px) {
       body { font-size: 16px; }
       .tts-bar {
@@ -331,17 +393,26 @@
       .speed-control input[type=range] { width: 60px; }
       #reader-view { padding-bottom: 100px; }
       .modal-content { padding: 20px; }
+      .bill-item h2 { font-size: 0.95rem; }
+      .bill-meta { font-size: 0.75rem; gap: 6px; }
     }
   </style>
 </head>
 <body>
 
 <header>
-  <div>
-    <h1>Congressional Bill Reader</h1>
-    <p>US legislation in plain language, read aloud</p>
+  <div class="header-inner">
+    <div class="header-brand">
+      <h1>Congressional Bill Reader</h1>
+      <p>US legislation in plain language, read aloud</p>
+    </div>
+    <div class="header-search">
+      <input type="text" id="search-input" class="search-input"
+        placeholder="Search bills..."
+        oninput="handleSearch(this.value)">
+    </div>
+    <button class="info-btn" onclick="openInfoModal()" title="How it works">?</button>
   </div>
-  <button class="info-btn" onclick="openInfoModal()" title="How it works">?</button>
 </header>
 
 <!-- Info Modal -->
@@ -384,10 +455,7 @@
 <div class="container">
   <!-- Bill list view -->
   <div id="list-view">
-    <div class="search-container">
-      <input type="text" id="search-input" class="search-input"
-        placeholder="Search bills by topic, keyword, sponsor, or bill number..."
-        oninput="handleSearch(this.value)">
+    <div class="list-header">
       <div id="search-info" class="search-info"></div>
     </div>
     <div id="bill-list"><div class="loading">Loading bills...</div></div>
@@ -494,18 +562,28 @@
       return;
     }
     el.innerHTML = bills.map(b => {
-      const sponsorInfo = b.sponsor_name ?
-        `<div class="sponsor-line">${escapeHtml(b.sponsor_name)} (${b.sponsor_party || '?'}-${b.sponsor_state || '??'})${b.cosponsor_count > 0 ? ` + ${b.cosponsor_count} cosponsors` : ''}</div>` : '';
+      // Build sponsor string
+      let sponsorStr = '';
+      if (b.sponsor_name) {
+        // Extract just last name for brevity
+        const nameParts = b.sponsor_name.split(' ');
+        const lastName = nameParts[nameParts.length - 1].replace(/[\[\]]/g, '');
+        sponsorStr = `${lastName} (${b.sponsor_party || '?'}-${b.sponsor_state || '??'})`;
+        if (b.cosponsor_count > 0) {
+          sponsorStr += ` <span class="cosponsor-count">+${b.cosponsor_count}</span>`;
+        }
+      }
 
       return `
-      <div class="bill-card" onclick="loadBill('${b.bill_id}')">
+      <div class="bill-item" onclick="loadBill('${b.bill_id}')">
         <h2>${escapeHtml(b.short_title || b.title)}</h2>
         <div class="bill-meta">
           <span>${escapeHtml(b.bill_number || '')}</span>
+          <span class="separator">·</span>
           <span>${formatDate(b.introduced_date)}</span>
-          ${b.policy_area ? `<span class="policy-badge">${escapeHtml(b.policy_area)}</span>` : ''}
+          ${b.policy_area ? `<span class="separator">·</span><span class="policy-badge">${escapeHtml(b.policy_area)}</span>` : ''}
+          ${sponsorStr ? `<span class="separator">·</span><span class="sponsor-info">${sponsorStr}</span>` : ''}
         </div>
-        ${sponsorInfo}
       </div>
     `}).join('');
   }
