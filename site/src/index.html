@@ -157,24 +157,44 @@
     /* Add padding to bottom of reader content so it doesn't get hidden behind sticky bar */
     #reader-view { padding-bottom: 80px; }
     .tts-btn {
+      background: var(--surface);
+      color: var(--primary);
+      border: 1px solid var(--border);
+      border-radius: 50%;
+      width: 44px;
+      height: 44px;
+      font-size: 1.2rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.15s, border-color 0.15s;
+    }
+    .tts-btn:hover {
+      background: var(--primary-light);
+      border-color: var(--primary);
+    }
+    .tts-btn:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+    .tts-btn.play {
       background: var(--primary);
       color: white;
-      border: none;
-      border-radius: 6px;
-      padding: 8px 18px;
-      font-size: 0.9rem;
-      cursor: pointer;
-      font-family: sans-serif;
+      width: 52px;
+      height: 52px;
+      font-size: 1.4rem;
     }
-    .tts-btn:hover { background: #163d66; }
-    .tts-btn.secondary {
-      background: none;
-      color: var(--primary);
-      border: 1px solid var(--primary);
+    .tts-btn.play:hover { background: #163d66; }
+    .speed-control {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-left: 12px;
+      color: var(--muted);
+      font-size: 0.85rem;
     }
-    .tts-btn.secondary:hover { background: var(--primary-light); }
-    label { color: var(--muted); }
-    input[type=range] { width: 90px; }
+    .speed-control input[type=range] { width: 80px; }
 
     /* Sections */
     .section-block {
@@ -207,12 +227,14 @@
     @media (max-width: 600px) {
       body { font-size: 16px; }
       .tts-bar {
-        gap: 8px;
-        padding: 10px 12px;
-        flex-wrap: wrap;
-        justify-content: flex-start;
+        gap: 10px;
+        padding: 10px 16px;
       }
-      #reader-view { padding-bottom: 120px; }
+      .tts-btn { width: 40px; height: 40px; font-size: 1.1rem; }
+      .tts-btn.play { width: 48px; height: 48px; font-size: 1.3rem; }
+      .speed-control { margin-left: 8px; }
+      .speed-control input[type=range] { width: 60px; }
+      #reader-view { padding-bottom: 100px; }
     }
   </style>
 </head>
@@ -246,14 +268,15 @@
 
 <!-- Sticky TTS Bar (outside container for full-width) -->
 <div class="tts-bar" id="tts-bar">
-  <button class="tts-btn" id="play-btn" onclick="startTTS()">Listen to bill</button>
-  <button class="tts-btn secondary" id="pause-btn" onclick="togglePause()" style="display:none">Pause</button>
-  <button class="tts-btn secondary" onclick="stopTTS()">Stop</button>
-<label>Speed
+  <button class="tts-btn" id="prev-btn" onclick="prevSection()" title="Previous section">⏮</button>
+  <button class="tts-btn play" id="play-btn" onclick="togglePlay()" title="Play">▶</button>
+  <button class="tts-btn" id="next-btn" onclick="nextSection()" title="Next section">⏭</button>
+  <div class="speed-control">
+    <span>Speed</span>
     <input type="range" min="0.5" max="2" step="0.1" value="1.0"
       oninput="updateRate(this.value)" title="Playback speed">
-  </label>
-  <span id="rate-label" style="color:var(--muted)">1.0x</span>
+    <span id="rate-label">1.0x</span>
+  </div>
 </div>
 
 <!-- Fuse.js for fuzzy search -->
@@ -413,25 +436,46 @@
   }
 
   // ---- TTS ----
-  function startTTS(fromIndex) {
+  let isPlaying = false;
+
+  function togglePlay() {
     if (!window.speechSynthesis) {
       alert('Text to speech is not supported in this browser. Please try Chrome or Edge.');
       return;
     }
-    stopTTS();
-    currentSectionIndex = fromIndex !== undefined ? fromIndex : 0;
-    speakSection(currentSectionIndex);
+
+    if (isPlaying) {
+      if (isPaused) {
+        window.speechSynthesis.resume();
+        isPaused = false;
+        updatePlayButton(true);
+      } else {
+        window.speechSynthesis.pause();
+        isPaused = true;
+        updatePlayButton(false);
+      }
+    } else {
+      // Start from beginning or current section
+      speakSection(currentSectionIndex);
+    }
   }
 
   function speakSection(index) {
     if (index >= currentSections.length) {
-      highlightSection(null);
+      // Reached the end
+      stopTTS();
+      currentSectionIndex = 0;
       return;
     }
+    if (index < 0) index = 0;
+    currentSectionIndex = index;
 
     const section = currentSections[index];
     highlightSection(index);
     scrollToSection(section.id);
+
+    // Cancel any current speech before starting new
+    window.speechSynthesis.cancel();
 
     const text = section.title + '. ' + section.text;
     currentUtterance = new SpeechSynthesisUtterance(text);
@@ -441,44 +485,61 @@
       speakSection(currentSectionIndex);
     };
     currentUtterance.onerror = () => {
-      highlightSection(null);
+      stopTTS();
     };
 
-    document.getElementById('play-btn').style.display = 'none';
-    document.getElementById('pause-btn').style.display = 'inline-block';
+    isPlaying = true;
+    isPaused = false;
+    updatePlayButton(true);
     window.speechSynthesis.speak(currentUtterance);
   }
 
-  function togglePause() {
-    if (!window.speechSynthesis) return;
-    if (isPaused) {
-      window.speechSynthesis.resume();
-      isPaused = false;
-      document.getElementById('pause-btn').textContent = 'Pause';
+  function prevSection() {
+    if (currentSections.length === 0) return;
+    const newIndex = Math.max(0, currentSectionIndex - 1);
+    if (isPlaying) {
+      speakSection(newIndex);
     } else {
-      window.speechSynthesis.pause();
-      isPaused = true;
-      document.getElementById('pause-btn').textContent = 'Resume';
+      currentSectionIndex = newIndex;
+      highlightSection(newIndex);
+      scrollToSection(currentSections[newIndex].id);
+    }
+  }
+
+  function nextSection() {
+    if (currentSections.length === 0) return;
+    const newIndex = Math.min(currentSections.length - 1, currentSectionIndex + 1);
+    if (isPlaying) {
+      speakSection(newIndex);
+    } else {
+      currentSectionIndex = newIndex;
+      highlightSection(newIndex);
+      scrollToSection(currentSections[newIndex].id);
     }
   }
 
   function stopTTS() {
     if (window.speechSynthesis) window.speechSynthesis.cancel();
+    isPlaying = false;
     isPaused = false;
     highlightSection(null);
-    const playBtn = document.getElementById('play-btn');
-    const pauseBtn = document.getElementById('pause-btn');
-    if (playBtn) playBtn.style.display = 'inline-block';
-    if (pauseBtn) pauseBtn.style.display = 'none';
+    updatePlayButton(false);
+  }
+
+  function updatePlayButton(playing) {
+    const btn = document.getElementById('play-btn');
+    if (btn) {
+      btn.textContent = playing ? '⏸' : '▶';
+      btn.title = playing ? 'Pause' : 'Play';
+    }
   }
 
   function updateRate(val) {
     speechRate = parseFloat(val);
     document.getElementById('rate-label').textContent = speechRate.toFixed(1) + 'x';
-    if (window.speechSynthesis && window.speechSynthesis.speaking) {
-      const resumeAt = currentSectionIndex;
-      stopTTS();
-      startTTS(resumeAt);
+    if (isPlaying && !isPaused) {
+      // Restart current section with new rate
+      speakSection(currentSectionIndex);
     }
   }
 
