@@ -1,0 +1,99 @@
+{
+  "bill_id": "119-hr-667",
+  "title": "Noncontiguous Shipping Relief Act of 2024",
+  "short_title": "Noncontiguous Shipping Relief Act of 2024",
+  "congress": 119,
+  "bill_number": "HR.667",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.",
+  "version_hash": "f020e66e79805c7d",
+  "last_updated": "2026-03-20T12:10:43.000491+00:00",
+  "plain_summary": "This bill changes shipping rules to allow foreign ships to carry goods between the mainland United States and places like Hawaii, Alaska, and Puerto Rico. Right now, only American-built ships with mostly American crews can do this kind of shipping. The foreign ships would still have to follow American safety and environmental rules and meet worker protection standards. They would also have to hire American crew members and follow other US laws. This could help reduce shipping costs to these areas that are not connected to the mainland by land.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-24",
+  "last_action_date": "2025-02-04",
+  "last_action_text": "Sponsor introductory remarks on measure. (CR E90-91)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Case, Ed [D-HI-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "HI",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "shipping costs Hawaii",
+    "foreign ships Alaska",
+    "Puerto Rico shipping",
+    "expensive shipping island states",
+    "Jones Act changes",
+    "mainland to Hawaii shipping",
+    "Alaska shipping prices",
+    "non-contiguous states shipping",
+    "foreign vessels domestic routes",
+    "island shipping relief",
+    "reduce shipping costs territories"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Noncontiguous Shipping Relief Act of two thousand twenty four.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-transportation-of-certain-merchandise",
+      "title": "Section 2 Transportation of Certain Merchandise",
+      "text": "This section changes the shipping laws to allow foreign ships to carry goods between places that are not connected to the main United States by land. These places include Hawaii, Alaska, Puerto Rico, and other US territories. Under current law, only ships built in America and owned by American companies can carry goods between US ports. This section creates an exception for certain foreign freight ships. These foreign ships must weigh at least one thousand gross tons. They must be registered in another country and not built in America. However, they must hire American citizens as crew members just like American ships do. The Transportation Secretary must give these foreign ships a special certificate to operate. The section also updates rules about ship documentation and allows these foreign ships to be transferred to foreign countries more easily after getting their certificates.",
+      "word_offset": 15,
+      "char_offset": 90
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-citizenship-and-transfer-provisions",
+      "title": "Section 3 Citizenship and Transfer Provisions",
+      "text": "This section changes rules about who can own ships. Usually, only American citizens and companies controlled by Americans can own ships that carry goods between US ports. This section creates exceptions for the special foreign freight ships described in Section 2. Companies that are not fully American can own these ships as long as they only use them to carry goods to and from noncontiguous places like Hawaii and Alaska. The section also lets the Transportation Secretary approve transfers of foreign ships before they get their US certificates. This makes it easier for foreign shipping companies to bring their ships into this new program.",
+      "word_offset": 156,
+      "char_offset": 984
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-labor-provisions",
+      "title": "Section 4 Labor Provisions",
+      "text": "This section sets rules to protect workers on ships. If a ship worker gets hurt or killed while working, their employer might have to pay money to the worker or their family. When the employer is a foreign company that does not have an office in America, the worker can sue in the US court closest to where the injury happened. The section also lets ship employers choose to join the Longshore and Harbor Workers Compensation program. This is an insurance program that helps workers who get hurt on the job. If an employer joins this program, they cannot be sued in other ways for worker injuries. All ships carrying goods between US ports must follow international labor standards that protect workers. The Transportation Secretary will work with the Labor Secretary and Defense Secretary to make sure these standards are followed.",
+      "word_offset": 260,
+      "char_offset": 1630
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-regulations-regarding-vessels",
+      "title": "Section 5 Regulations Regarding Vessels",
+      "text": "This section sets safety standards for ships. All ships carrying goods between US ports must meet recognized international safety standards. The Coast Guard will decide what these standards are and may ask other government agencies for advice. However, if foreign ships are held to higher standards than American ships, then American ships must meet those same higher standards. This ensures that all ships are treated fairly and meet the same safety requirements.",
+      "word_offset": 401,
+      "char_offset": 2463
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-environmental-standards",
+      "title": "Section 6 Environmental Standards",
+      "text": "All ships carrying goods between US ports must follow all American and international environmental protection rules. This applies to both American ships and foreign ships. The ships must meet standards that help protect the air, water, and environment.",
+      "word_offset": 473,
+      "char_offset": 2928
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-requirements-for-certain-noncitizens-irregularly-engaging-in-domestic-coastwise-trade",
+      "title": "Section 7 Requirements for Certain Noncitizens Irregularly Engaging in Domestic Coastwise Trade",
+      "text": "This section sets rules for foreign companies that sometimes use ships to carry goods between US ports. These companies must name a person in America who can receive legal papers if someone wants to sue them. They must follow all American laws including environmental protection and tax laws. They must also post information on their ships showing who owns the ships and how many trips the ships have made to US ports each year. If several companies are owned by the same people or work together closely, they are treated as one company for counting trips.",
+      "word_offset": 511,
+      "char_offset": 3181
+    }
+  ]
+}

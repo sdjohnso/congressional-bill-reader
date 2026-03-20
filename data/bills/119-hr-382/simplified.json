@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-382",
+  "title": "Exported Carbon Emissions Report Act of 2025",
+  "short_title": "Exported Carbon Emissions Report Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.382",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "c0c9d3df2438f92c",
+  "last_updated": "2026-03-20T10:48:43.405572+00:00",
+  "plain_summary": "This law tells the Environmental Protection Agency to keep track of pollution from oil, gas, and coal. The agency must count how much harmful gases like carbon dioxide and methane come from using these fuels in America. They also have to count pollution that happens in other countries when those countries use American oil, gas, and coal that we sold to them. The EPA must write a report about this pollution every year and share the information with everyone. The reports must include pollution numbers from the past 10 years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Casten, Sean [D-IL-6]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "carbon emissions tracking",
+    "pollution from oil and gas",
+    "exported fossil fuels pollution",
+    "EPA pollution reports",
+    "carbon dioxide methane tracking",
+    "overseas pollution from US exports",
+    "fossil fuel emissions monitoring",
+    "climate pollution reporting",
+    "US oil gas coal exports",
+    "greenhouse gas tracking"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Exported Carbon Emissions Report Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-comparison-of-trends-in-domestic-and-exported-carbon-emissions",
+      "title": "Section 2 Comparison of Trends in Domestic and Exported Carbon Emissions",
+      "text": "The head of the Environmental Protection Agency must collect information and do math to figure out how much pollution comes from fossil fuels. They must do this within one hundred eighty days after this law passes and then every year after that. They must look at the past ten years of information each time. They must calculate two types of pollution. First, they must find out how much carbon dioxide and methane gas is released inside the United States and its territories from digging up fossil fuels, processing them, moving them around, burning them, and using them in other ways. Second, they must find out how much carbon dioxide and methane gas is released outside the United States from fossil fuels that were made or cleaned in America and then sent to other countries. This includes gas that leaks out and gas from burning these fuels. When collecting this information, the Environmental Protection Agency head must use the best science available. This includes information from direct testing and measurements when possible. It also includes reports about carbon dioxide and methane pollution from other national and local governments. They must follow the rules set up by international groups that keep track of greenhouse gas pollution. These include the protocols from the Greenhouse Gas Protocol of the World Business Council for Sustainable Development and the World Resources Institute. The Environmental Protection Agency head must work with the head of the Energy Information Administration and the executive director of the International Energy Agency when doing this work. The Environmental Protection Agency head must make all this information easy for the public to find. This includes putting the information on the Environmental Protection Agency website. In this section, fossil fuel means any material that contains carbon and was formed in the Earth from dead plants and animals from long ago. This includes coal, oil, and natural gas.",
+      "word_offset": 15,
+      "char_offset": 87
+    }
+  ]
+}

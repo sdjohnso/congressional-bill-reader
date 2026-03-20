@@ -1,0 +1,108 @@
+{
+  "bill_id": "119-s-113",
+  "title": "Promoting New Bank Formation Act of 2025",
+  "short_title": "Promoting New Bank Formation Act of 2025",
+  "congress": 119,
+  "bill_number": "S.113",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "version_hash": "ab93dfe97e60d75f",
+  "last_updated": "2026-03-20T13:14:29.578291+00:00",
+  "plain_summary": "This law makes it easier to start new banks by giving them three years to slowly build up the money they need to keep on hand instead of having it all right away. It also helps small banks in rural areas by lowering the amount of money they need compared to their loans for the first three years. The law lets federal savings banks make loans to farmers, which they couldn't do as much before. Finally, it requires the government to study why so few new banks have opened in recent years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Sen. Hyde-Smith, Cindy [R-MS]",
+  "sponsor_party": "R",
+  "sponsor_state": "MS",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "new banks",
+    "starting a bank",
+    "bank formation",
+    "small banks",
+    "rural banks",
+    "community banks",
+    "banking requirements",
+    "bank capital",
+    "farm loans",
+    "agricultural lending",
+    "banking study",
+    "bank startup"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Promoting New Bank Formation Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2 Findings",
+      "text": "Congress has found these facts. Many communities do not have access to banking services because banks have closed or merged together. This problem especially hurts rural areas and underserved city neighborhoods. Very few new banks have been created since the financial crisis. A November two thousand nineteen report by the Federal Reserve System found that forty-four counties in the United States were deeply affected by bank closures and mergers. This means these counties had fewer than ten bank branches in two thousand twelve and lost at least half of them by two thousand seventeen. Eighty-nine percent of these deeply affected counties were rural. Rural counties that lost many bank branches had higher poverty rates, lower average incomes, and more African-American residents compared to all rural communities.",
+      "word_offset": 15,
+      "char_offset": 89
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-definitions",
+      "title": "Section 3 Definitions",
+      "text": "In this law, these terms mean the following. Appropriate federal banking agency, depository institution, and depository institution holding company have the same meanings as given in section three of the Federal Deposit Insurance Act. Community Bank Leverage Ratio has the meaning given in section two hundred one of the Economic Growth, Regulatory Relief, and Consumer Protection Act. Financial institution means a depository institution or depository institution holding company. Rural community bank means a financial institution that has total combined assets of less than ten billion dollars and is located in a rural area as defined in federal regulations.",
+      "word_offset": 141,
+      "char_offset": 909
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-phase-in-of-capital-standards",
+      "title": "Section 4 Phase-in of Capital Standards",
+      "text": "The appropriate federal banking agencies must create rules that give new financial institutions a three-year period to gradually meet federal capital requirements. Capital requirements are rules about how much money banks must keep as a safety cushion. This three-year period starts on the date when the financial institution's deposit insurance from the Federal Deposit Insurance Corporation becomes active.",
+      "word_offset": 239,
+      "char_offset": 1572
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-changes-to-business-plans",
+      "title": "Section 5 Changes to Business Plans",
+      "text": "During the three-year period that starts when a financial institution's deposit insurance becomes active, the institution may ask to change from its approved business plan by submitting a request to the appropriate federal banking agency. The agency must approve, conditionally approve, or deny the request within thirty days of receiving it. The agency must notify the financial institution of its decision. If the agency denies the request, it must tell the institution why and suggest changes that would make the request acceptable. If the agency does not approve or deny the request within thirty days, the request is automatically approved.",
+      "word_offset": 297,
+      "char_offset": 1981
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-rural-community-bank-leverage-ratio",
+      "title": "Section 6 Rural Community Bank Leverage Ratio",
+      "text": "During the three-year period that starts when a rural community bank's deposit insurance becomes active, the Community Bank Leverage Ratio for that bank must be eight percent. The Community Bank Leverage Ratio is a measure of how much capital a bank has compared to its assets. The appropriate federal banking agencies must create rules to phase in this ratio by setting lower percentages during the first two years of the three-year period.",
+      "word_offset": 397,
+      "char_offset": 2627
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-agricultural-loan-authority-for-federal-savings-associations",
+      "title": "Section 7 Agricultural Loan Authority for Federal Savings Associations",
+      "text": "This section changes the Home Owners' Loan Act to allow federal savings associations to make agricultural loans. These can be secured or unsecured loans for agricultural purposes. The section also removes the word agricultural from another part of the law about business and agricultural loans.",
+      "word_offset": 469,
+      "char_offset": 3069
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-study-on-de-novo-financial-institutions",
+      "title": "Section 8 Study on De Novo Financial Institutions",
+      "text": "The appropriate federal banking agencies must work together to study two things. First, they must find the main reasons why so few new financial institutions have been created in the ten years before this law was passed. De novo means newly created. Second, they must find ways to encourage more new financial institutions in areas that do not have enough banking services. The agencies must give Congress a report with all their findings within one year after this law is passed.",
+      "word_offset": 514,
+      "char_offset": 3364
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "bill_id": "119-hr-358",
+  "title": "No Corruption in Government Act",
+  "short_title": "No Corruption in Government Act",
+  "congress": 119,
+  "bill_number": "HR.358",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on House Administration, and in addition to the Committees on Ways and Means, the Judiciary, a",
+  "version_hash": "e8a2cfe887f8c386",
+  "last_updated": "2026-03-20T15:34:57.877006+00:00",
+  "plain_summary": "The No Corruption in Government Act makes new rules to reduce corruption in Congress. It stops Members of Congress and their spouses from buying or selling stocks and other investments while they serve in office. Former Members must wait longer before they can work as lobbyists - House members must wait three years instead of one year, and Senators must wait six years instead of two years. The bill also gets rid of automatic yearly pay raises for Congress members.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the Committee on House Administration, and in addition to the Committees on Ways and Means, the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined b",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Commodities markets",
+    "Family relationships",
+    "Financial services and investments",
+    "Government ethics and transparency, public corruption",
+    "Government information and archives",
+    "Inflation and prices",
+    "Members of Congress",
+    "Securities",
+    "Wages and earnings"
+  ],
+  "sponsor_name": "Rep. Nunn, Zachary [R-IA-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress stock trading",
+    "politicians buying stocks",
+    "congressional insider trading",
+    "members of congress investments",
+    "lobbying waiting period",
+    "revolving door congress",
+    "congressional pay raises",
+    "government corruption prevention",
+    "politician financial conflicts",
+    "congress ethics rules",
+    "legislative branch reform",
+    "congressional accountability"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Corruption in Government Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-101-short-title",
+      "title": "Section 101  Short Title",
+      "text": "This part of the law can be called the Prohibit Insider Trading Act.",
+      "word_offset": 11,
+      "char_offset": 60
+    },
+    {
+      "id": "s3",
+      "slug": "section-102-prohibiting-transactions-and-ownership-of-certain-financial-instruments",
+      "title": "Section 102  Prohibiting Transactions and Ownership of Certain Financial Instruments by Members of Congress and Their Spouses",
+      "text": "This section creates new rules about what kinds of investments Members of Congress and their spouses can own or trade. A covered financial instrument means any investment in stocks, bonds that companies issue, futures contracts, or commodities like oil or wheat. It also includes similar investments made through complex financial tools called derivatives. However, it does not include diversified mutual funds, diversified exchange-traded funds, investments in the government employee retirement plan called the Thrift Savings Plan, or United States Treasury bills, notes, or bonds. Members of Congress and their spouses cannot buy, sell, or own any covered financial instruments while the Member is serving in Congress. This rule starts seven days after a new Member begins their first term. The rule does not apply if the investments are held in a qualified blind trust, which is a special arrangement where someone else manages the investments without telling the Member what they own. If someone breaks these rules, they must give any profits to the United States Treasury. They also cannot claim any losses on their taxes. They may also have to pay a fine. Each Member of Congress must submit a written statement within seven days of each new session of Congress saying that they and their spouse are following these rules. The ethics office must publish these statements on a public website. The ethics office must also check at least every two years to make sure Members are following these rules. These new rules will start on the first day of the second session of the One Hundred Nineteenth Congress.",
+      "word_offset": 24,
+      "char_offset": 129
+    },
+    {
+      "id": "s4",
+      "slug": "section-201-short-title",
+      "title": "Section 201  Short Title",
+      "text": "This part of the law can be called the Ban Members From Lobbying Act.",
+      "word_offset": 285,
+      "char_offset": 1741
+    },
+    {
+      "id": "s5",
+      "slug": "section-202-increase-in-length-of-post-employment-ban",
+      "title": "Section 202  Increase in Length of Post-Employment Ban on Lobbying of Congress by Former Members",
+      "text": "This section makes former Members of Congress wait longer before they can work as lobbyists. Former Senators must wait six years after leaving office before they can lobby any Member or employee of Congress. Former House Representatives must wait three years after leaving office before they can lobby any Member or employee of Congress. Former elected officers of the House of Representatives must wait one year after leaving office before they can lobby any Member or employee of the House of Representatives. Lobbying means trying to influence government officials on behalf of someone else. Anyone who breaks these rules can be punished as provided in existing law. These new waiting periods apply to anyone who leaves Congress on or after the date this law is passed.",
+      "word_offset": 299,
+      "char_offset": 1811
+    },
+    {
+      "id": "s6",
+      "slug": "section-301-elimination-of-automatic-pay-adjustments",
+      "title": "Section 301  Elimination of Automatic Pay Adjustments for Members of Congress",
+      "text": "This section removes the automatic yearly pay increases for Members of Congress. Currently, Members of Congress get automatic cost of living adjustments to their salaries each year unless Congress specifically votes to stop them. This section eliminates those automatic increases. Instead, any changes to Congressional pay must be specifically approved by law. This change will take effect when the One Hundred Twentieth Congress begins.",
+      "word_offset": 425,
+      "char_offset": 2584
+    }
+  ]
+}

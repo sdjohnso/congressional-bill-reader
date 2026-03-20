@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-253",
+  "title": "Bipartisan Restoring Faith in Government Act",
+  "short_title": "Bipartisan Restoring Faith in Government Act",
+  "congress": 119,
+  "bill_number": "HR.253",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on House Administration, and in addition to the Committee on Ways and Means, for a period to b",
+  "version_hash": "3ab2a18c838aff94",
+  "last_updated": "2026-03-20T14:37:00.458118+00:00",
+  "plain_summary": "This bill stops members of Congress, their spouses, and children from buying or selling individual stocks and similar investments. They can still own things like mutual funds and government bonds. Current members have 90 days to sell their banned investments or put them in a special trust where they cannot control the decisions. If they break these rules, they have to pay fines and cannot claim tax losses on those investments.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the Committee on House Administration, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Family relationships",
+    "Financial services and investments",
+    "Government ethics and transparency, public corruption",
+    "Government information and archives",
+    "Members of Congress",
+    "Securities"
+  ],
+  "sponsor_name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 14,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress stock trading",
+    "lawmakers buying stocks",
+    "politicians investments",
+    "congress members trading ban",
+    "government officials stock market",
+    "congressional ethics",
+    "politician financial conflicts",
+    "lawmakers personal investments",
+    "congress trading rules",
+    "government transparency stocks"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Bipartisan Restoring Faith in Government Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-of-congressional-ownership-of-financial-investments",
+      "title": "Section 2 Prohibition of Congressional Ownership of Financial Investments",
+      "text": "This section changes the United States Code to add new rules about what financial investments members of Congress and their families can own. The new rules define covered financial instruments as stocks, bonds, commodities, and similar investments including those made through complex financial tools like derivatives and options. Covered individuals include members of Congress, their spouses, and their dependent children. These covered individuals are not allowed to own or trade these financial instruments with some exceptions. They can still own widely held mutual funds, United States Treasury bills and bonds, state and local government bonds, and investments in the Thrift Savings Plan which is the federal employee retirement plan. If someone already owns these investments when the law starts, they have ninety days to sell them or put them in a qualified blind trust which is a special trust where they cannot control the investments. If someone gets these investments as a gift or inheritance after the law starts, they also have ninety days to sell them. If someone becomes a member of Congress after the law starts, they have ninety days from when they take office to get rid of these investments. Special rules apply to spouses who get company stock as part of their job compensation. A blind trust must be approved by the ethics office and the trustee must sell the investments within six months and cannot tell the member of Congress what is in the trust. Members of Congress cannot deduct losses from investments they own illegally when they file their taxes. When a spouse or dependent is no longer covered by these rules, they can get control of investments that were put in a blind trust. Members of Congress must sign a pledge saying they will follow these rules and prove they are following them when asked. The ethics office will give certificates to members who follow the rules and post these certificates on a public website. If someone breaks these rules on purpose, the ethics office will tell the Attorney General who can sue them for up to fifty thousand dollars. Members of Congress cannot use their office budgets or campaign money to pay these fines. The section also changes tax rules so that people required to sell investments under this law can get special tax treatment to avoid paying capital gains taxes immediately if they get a certificate from the congressional ethics committee and reinvest the money in approved investments like Treasury bonds.",
+      "word_offset": 12,
+      "char_offset": 73
+    }
+  ]
+}

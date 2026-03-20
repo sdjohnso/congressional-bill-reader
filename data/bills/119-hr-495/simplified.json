@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-495",
+  "title": "Subterranean Border Defense Act",
+  "short_title": "Subterranean Border Defense Act",
+  "congress": 119,
+  "bill_number": "HR.495",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "a806e7bbc08e7e0e",
+  "last_updated": "2026-03-20T14:13:14.957032+00:00",
+  "plain_summary": "This bill is about stopping illegal tunnels that people dig under the US border. The government already has a plan to find and stop these tunnels, but they only had to write one report about it. Now this bill says they must write a report every single year about how well their plan is working. The reports will help Congress know if the government is doing a good job stopping the illegal tunnels.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-11",
+  "last_action_date": "2025-03-11",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Government information and archives"
+  ],
+  "sponsor_name": "Rep. Crane, Elijah [R-AZ-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "underground tunnels",
+    "border tunnels",
+    "illegal border crossing",
+    "smuggling tunnels",
+    "border security",
+    "Mexico border",
+    "tunnel detection",
+    "underground smuggling",
+    "border patrol",
+    "illegal immigration tunnels",
+    "drug tunnels",
+    "border monitoring"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Subterranean Border Defense Act. Subterranean means underground.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-annual-reports-on-counter-illicit-cross-border-tunnel-operations",
+      "title": "Section 2 Annual Reports on Counter Illicit Cross-Border Tunnel Operations",
+      "text": "This section changes an existing law about fighting illegal tunnels that cross the border. The existing law already requires the government to make a plan and write a report about stopping these tunnels. This new law adds a requirement that the government must write a new report every year after they finish making their plan. These reports will explain what the government is doing to find and stop illegal tunnels that people use to cross the border without permission.",
+      "word_offset": 13,
+      "char_offset": 92
+    }
+  ]
+}

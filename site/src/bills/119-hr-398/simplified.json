@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-398",
+  "title": "Geothermal Cost-Recovery Authority Act of 2025",
+  "short_title": "Geothermal Cost-Recovery Authority Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.398",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Ordered to be Reported by Unanimous Consent.",
+  "version_hash": "d9fe350001252a8c",
+  "last_updated": "2026-03-20T13:26:18.301729+00:00",
+  "plain_summary": "This bill gives the Department of the Interior permission to charge fees to companies that want to drill for geothermal energy on government land. The companies will have to pay back the government for the costs of reviewing their applications and checking on their work. The government can lower these fees if paying the full amount would be too hard for a company or if lower fees would help more geothermal projects get started. This new rule will last until September 2032, and the government must write a report in five years about how well it is working.",
+  "current_status": "committee_reported",
+  "status_date": "2026-03-05",
+  "last_action_date": "2026-03-05",
+  "last_action_text": "Ordered to be Reported by Unanimous Consent.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [
+    "Alternative and renewable resources",
+    "Electric power generation and transmission",
+    "Environmental assessment, monitoring, research",
+    "Land use and conservation",
+    "Mining",
+    "Pollution liability",
+    "User charges and fees"
+  ],
+  "sponsor_name": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "geothermal energy",
+    "drilling fees",
+    "government land",
+    "renewable energy costs",
+    "energy company charges",
+    "geothermal drilling permits",
+    "clean energy fees",
+    "public land drilling",
+    "geothermal projects",
+    "energy development costs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Geothermal Cost-Recovery Authority Act of twenty twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-cost-recovery-from-geothermal-leasing-permitting-and-inspections",
+      "title": "Section 2 Cost Recovery from Geothermal Leasing, Permitting, and Inspections",
+      "text": "This section changes an existing law called the Geothermal Steam Act of nineteen seventy. It adds new rules about cost recovery. From when this law starts until September thirtieth twenty thirty-two, the Secretary of the Interior can make people who apply for or hold geothermal leases pay back the United States government. These people must pay for all reasonable costs that the government spends on their applications and oversight. The costs include processing applications for geothermal leases and all related permits like operations plans, drilling permits, use plans, site licenses, construction permits, and commercial use permits. The costs also include inspecting and watching over exploration activities, well drilling and abandonment, and building and operating facilities that use geothermal energy. Before requiring payment, the Secretary must consider if there is already a cost-sharing agreement between the government and the lease holder. The Secretary can reduce the amount people have to pay if full payment would cause financial hardship or if lower payment would encourage more geothermal energy development. Any money collected this way goes to the Department of the Interior and can only be used for processing geothermal applications and conducting inspections and monitoring as approved by Congress.",
+      "word_offset": 13,
+      "char_offset": 89
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-report",
+      "title": "Section 3 Report",
+      "text": "The Secretary of the Interior must create a report within five years after this law takes effect. The Secretary must work with the geothermal industry and other interested groups to make this report. The report must be given to two Congressional committees and posted on the Department of the Interior website for everyone to see. The report must include three things. First, it must assess how the changes in section two affected the Bureau of Land Management's geothermal program. Second, it must give recommendations about whether to continue the cost recovery authority after twenty thirty-two. Third, it must suggest any other updates needed for the cost recovery rules and the geothermal program. When making this report, the Secretary must ask the geothermal industry and other stakeholders for facts and information.",
+      "word_offset": 210,
+      "char_offset": 1416
+    }
+  ]
+}

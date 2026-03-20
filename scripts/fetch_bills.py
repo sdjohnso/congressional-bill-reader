@@ -44,8 +44,113 @@ PAGE_SIZE = 50
 TARGET_CONGRESS = int(os.environ.get("TARGET_CONGRESS", 119))
 
 # Only process bills introduced on or after this date (YYYY-MM-DD)
-# Set to None to process all bills
-MIN_INTRODUCED_DATE = os.environ.get("MIN_INTRODUCED_DATE", "2026-01-01")
+# Set to None or empty string to process all bills
+MIN_INTRODUCED_DATE = os.environ.get("MIN_INTRODUCED_DATE", "")
+
+
+# Status progression - ordered from earliest to latest in legislative process
+STATUS_PROGRESSION = [
+    "introduced",
+    "referred_to_committee",
+    "committee_reported",
+    "passed_house",
+    "passed_senate",
+    "resolving_differences",
+    "to_president",
+    "signed_into_law",
+    "vetoed",
+]
+
+
+def derive_bill_status(actions: list[dict]) -> dict:
+    """
+    Analyze bill actions to determine current status and key dates.
+    Returns dict with current_status, status_date, and milestone flags.
+    """
+    status_info = {
+        "current_status": "introduced",
+        "status_date": "",
+        "last_action_date": "",
+        "last_action_text": "",
+        "passed_house": False,
+        "passed_house_date": "",
+        "passed_senate": False,
+        "passed_senate_date": "",
+        "became_law": False,
+        "became_law_date": "",
+        "vetoed": False,
+        "vetoed_date": "",
+    }
+
+    if not actions:
+        return status_info
+
+    # Actions are typically newest first, so reverse for chronological processing
+    # But we also need to track the latest action for display
+    latest_action = actions[0] if actions else {}
+    status_info["last_action_date"] = latest_action.get("actionDate", "")
+    status_info["last_action_text"] = latest_action.get("text", "")[:200]
+
+    # Process all actions to find milestones
+    best_status = "introduced"
+    best_status_date = ""
+
+    for action in actions:
+        text = action.get("text", "").lower()
+        action_type = action.get("type", "")
+        action_date = action.get("actionDate", "")
+
+        # Check for each status milestone (in order of progression)
+        if "referred to" in text and "committee" in text:
+            if STATUS_PROGRESSION.index("referred_to_committee") > STATUS_PROGRESSION.index(best_status):
+                best_status = "referred_to_committee"
+                best_status_date = action_date
+
+        if any(kw in text for kw in ["reported by", "ordered to be reported", "reported (amended)"]):
+            if STATUS_PROGRESSION.index("committee_reported") > STATUS_PROGRESSION.index(best_status):
+                best_status = "committee_reported"
+                best_status_date = action_date
+
+        if "passed house" in text or "passed the house" in text:
+            status_info["passed_house"] = True
+            status_info["passed_house_date"] = action_date
+            if STATUS_PROGRESSION.index("passed_house") > STATUS_PROGRESSION.index(best_status):
+                best_status = "passed_house"
+                best_status_date = action_date
+
+        if "passed senate" in text or "passed the senate" in text:
+            status_info["passed_senate"] = True
+            status_info["passed_senate_date"] = action_date
+            if STATUS_PROGRESSION.index("passed_senate") > STATUS_PROGRESSION.index(best_status):
+                best_status = "passed_senate"
+                best_status_date = action_date
+
+        if action_type == "ResolvingDifferences" or "conference" in text:
+            if STATUS_PROGRESSION.index("resolving_differences") > STATUS_PROGRESSION.index(best_status):
+                best_status = "resolving_differences"
+                best_status_date = action_date
+
+        if "presented to president" in text or "sent to president" in text:
+            if STATUS_PROGRESSION.index("to_president") > STATUS_PROGRESSION.index(best_status):
+                best_status = "to_president"
+                best_status_date = action_date
+
+        if action_type == "BecameLaw" or "became public law" in text or "signed by president" in text:
+            status_info["became_law"] = True
+            status_info["became_law_date"] = action_date
+            best_status = "signed_into_law"
+            best_status_date = action_date
+
+        if action_type == "Veto" or "vetoed" in text:
+            status_info["vetoed"] = True
+            status_info["vetoed_date"] = action_date
+            best_status = "vetoed"
+            best_status_date = action_date
+
+    status_info["current_status"] = best_status
+    status_info["status_date"] = best_status_date
+
+    return status_info
 
 
 def fetch_json(url: str, params: dict) -> dict:
@@ -272,6 +377,9 @@ def run(dry_run: bool = False, limit: int = 0):
                 skipped_no_committee += 1
                 continue
 
+            # Derive status from actions
+            status_info = derive_bill_status(actions)
+
             # Get the text URL
             text_url = get_bill_text_url(congress, bill_type, number)
             if not text_url:
@@ -289,11 +397,10 @@ def run(dry_run: bool = False, limit: int = 0):
             introduced_date = detail.get("introducedDate", "")
             time.sleep(0.3)
 
-            # Skip bills introduced before minimum date
-            if MIN_INTRODUCED_DATE and introduced_date:
-                if introduced_date < MIN_INTRODUCED_DATE:
-                    skipped_too_old += 1
-                    continue
+            # Skip bills introduced before minimum date (if filter is set)
+            if MIN_INTRODUCED_DATE and introduced_date and introduced_date < MIN_INTRODUCED_DATE:
+                skipped_too_old += 1
+                continue
 
             # Get subjects and policy area
             subject_data = get_bill_subjects(congress, bill_type, number)
@@ -319,7 +426,7 @@ def run(dry_run: bool = False, limit: int = 0):
                 sponsor_name = f"{first} {last}".strip()
 
             print(f"  QUEUED: {bill_type.upper()}.{number} - {title[:50]}")
-            print(f"    Stage: {stage_label[:60]}")
+            print(f"    Status: {status_info['current_status']}")
             if subject_data["policy_area"]:
                 print(f"    Policy Area: {subject_data['policy_area']}")
 
@@ -345,6 +452,19 @@ def run(dry_run: bool = False, limit: int = 0):
                     "subjects": subject_data.get("subjects", []),
                     "crs_summary": crs_summary,
                     "cosponsor_count": cosponsor_count,
+                    # Status tracking
+                    "current_status": status_info["current_status"],
+                    "status_date": status_info["status_date"],
+                    "last_action_date": status_info["last_action_date"],
+                    "last_action_text": status_info["last_action_text"],
+                    "passed_house": status_info["passed_house"],
+                    "passed_house_date": status_info["passed_house_date"],
+                    "passed_senate": status_info["passed_senate"],
+                    "passed_senate_date": status_info["passed_senate_date"],
+                    "became_law": status_info["became_law"],
+                    "became_law_date": status_info["became_law_date"],
+                    "vetoed": status_info["vetoed"],
+                    "vetoed_date": status_info["vetoed_date"],
                     # Processing state
                     "simplified_complete": False,
                     "queued_at": datetime.now(timezone.utc).isoformat(),

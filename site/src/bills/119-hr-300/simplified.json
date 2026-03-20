@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-300",
+  "title": "Daylight Act",
+  "short_title": "Daylight Act",
+  "congress": 119,
+  "bill_number": "HR.300",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "24502ddfa4af3a94",
+  "last_updated": "2026-03-20T13:12:48.848240+00:00",
+  "plain_summary": "The Daylight Act would let states choose to keep daylight saving time all year long. Right now, most states have to change their clocks twice a year, moving them forward in spring and back in fall. States can already choose to stay on standard time all year, but this new law would also let them stay on daylight saving time all year instead. This means states could avoid changing their clocks twice a year if they want to.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Maloy, Celeste [R-UT-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "daylight saving time",
+    "clock changes",
+    "spring forward fall back",
+    "time zones",
+    "permanent daylight time",
+    "stop changing clocks",
+    "year round daylight saving",
+    "standard time",
+    "clock switching",
+    "time change laws",
+    "seasonal time change",
+    "daylight hours"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Daylight Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-optional-year-long-application-of-daylight-savings-time",
+      "title": "Section 2 Optional Year Long Application of Daylight Savings Time",
+      "text": "This section changes an existing law called the Uniform Time Act of nineteen sixty six. The changes allow states to choose to use daylight saving time all year long instead of just part of the year. Currently, states can only choose to not use daylight saving time at all and stick with standard time. With these changes, states will have three choices. They can follow the normal schedule of switching between standard time and daylight saving time twice a year. They can choose to never use daylight saving time and stay on standard time all year. Or they can choose to use daylight saving time for the entire year without switching back to standard time.",
+      "word_offset": 8,
+      "char_offset": 41
+    }
+  ]
+}

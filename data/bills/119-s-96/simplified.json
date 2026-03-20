@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-s-96",
+  "title": "FAIR PREP Act of 2025",
+  "short_title": "FAIR PREP Act of 2025",
+  "congress": 119,
+  "bill_number": "S.96",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Finance.",
+  "version_hash": "2d5ffc681da21da2",
+  "last_updated": "2026-03-20T12:26:01.473249+00:00",
+  "plain_summary": "The FAIR PREP Act of 2025 stops the IRS from preparing tax returns for people, including through its Direct File program that lets people file taxes for free on the government's website. The bill says the IRS cannot fill out tax forms or file tax returns for taxpayers. However, the IRS can still help people through programs where they work with private companies or community groups to offer free tax help. The Treasury Department also cannot spend money to create new tax preparation services without permission from Congress.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Blackburn, Marsha [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "IRS tax preparation",
+    "government filing taxes",
+    "Direct File program",
+    "IRS doing tax returns",
+    "free tax filing",
+    "government tax software",
+    "IRS preparing returns",
+    "tax return preparation ban",
+    "government tax services",
+    "IRS tax help programs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Fostering Autonomy in Independent Returns by Prohibiting Redundant and Extralegal Programs Act of two thousand twenty five. It can also be called the FAIR PREP Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-of-certain-return-preparation",
+      "title": "Section 2 Prohibition of Certain Return Preparation",
+      "text": "This section changes the tax law to stop the Treasury Secretary from preparing tax returns in certain ways. The Treasury Secretary cannot prepare tax returns or refund claims except in specific cases that are already allowed by law. This includes the Treasury Secretary's direct file program where people can prepare their taxes directly through a government website. The Treasury Secretary started this program in December two thousand twenty three. However, the Treasury Secretary can still work with outside companies through the IRS Free File Program that was created in November two thousand two. The Treasury Secretary can also work with other qualified return preparation programs. When this section talks about preparing a tax return, it means filling out tax forms and schedules to calculate taxes owed and filing those forms with the government. It does not mean simple math corrections or providing blank forms that do math automatically. This new rule applies to tax returns filed more than thirty days after this law is passed. This section does not change what the Treasury Secretary was allowed to do before this law was passed.",
+      "word_offset": 37,
+      "char_offset": 220
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-limitation-on-further-expenditures-circumventing-congressional-authority",
+      "title": "Section 3 Limitation on Further Expenditures Circumventing Congressional Authority",
+      "text": "After this law is passed, the Treasury Secretary cannot give out grants or make contracts to develop or run electronic tax preparation services unless Congress specifically allows it through another law.",
+      "word_offset": 220,
+      "char_offset": 1364
+    }
+  ]
+}

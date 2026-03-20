@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-104",
+  "title": "Overturn Biden’s Offshore Energy Ban Act",
+  "short_title": "Overturn Biden’s Offshore Energy Ban Act",
+  "congress": 119,
+  "bill_number": "S.104",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Energy and Natural Resources.",
+  "version_hash": "40da262c0662240a",
+  "last_updated": "2026-03-20T13:35:00.577433+00:00",
+  "plain_summary": "This bill cancels two orders that President Biden made on January 6, 2025 that stopped oil and gas drilling in ocean areas off the US coast. The orders banned drilling in waters in the Gulf of Mexico, Atlantic Ocean, Pacific Ocean, and Bering Sea. By canceling these orders, the bill would allow the government to give companies permission to drill for oil and gas in these ocean areas again.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Sen. Cruz, Ted [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "offshore drilling",
+    "ocean oil drilling",
+    "gas drilling ban",
+    "Biden drilling ban",
+    "Gulf of Mexico drilling",
+    "Atlantic Ocean drilling",
+    "Pacific Ocean drilling",
+    "oil companies permits",
+    "coastal drilling",
+    "seawater oil exploration",
+    "marine gas extraction",
+    "overturn drilling ban"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Overturn Biden's Offshore Energy Ban Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-rescission-of-presidential-memoranda",
+      "title": "Section 2 Rescission of Presidential Memoranda on the Withdrawal of Certain Areas of the Outer Continental Shelf",
+      "text": "The following presidential orders will no longer have any legal power or effect. First, the presidential order called Memorandum on the Withdrawal of Certain Areas of the United States Outer Continental Shelf from Oil or Natural Gas Leasing, dated January sixth two thousand twenty five, about the Gulf of Mexico, Atlantic, and Pacific areas of the outer Continental Shelf (the underwater land owned by the federal government that extends from state waters out into the ocean). Second, the presidential order called Memorandum on the Withdrawal of Certain Areas of the United States Outer Continental Shelf from Oil or Natural Gas Leasing, dated January sixth two thousand twenty five, about the Bering Sea areas of the outer Continental Shelf.",
+      "word_offset": 12,
+      "char_offset": 69
+    }
+  ]
+}

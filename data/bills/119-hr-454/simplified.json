@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-454",
+  "title": "Safe Bases Act of 2025",
+  "short_title": "Safe Bases Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.454",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Armed Services.",
+  "version_hash": "202a558075881a99",
+  "last_updated": "2026-03-20T11:36:59.727396+00:00",
+  "plain_summary": "The Safe Bases Act of 2025 lets active duty military members carry hidden guns on military bases if they get a permit. The Department of Defense must create a special office to give out these permits. To get a permit, a service member must be on active duty and be legally allowed to own guns under federal law. This means they cannot have broken certain laws that would stop them from buying or owning firearms.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Armed Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Firearms and explosives",
+    "Military facilities and property",
+    "Military personnel and dependents"
+  ],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "military guns",
+    "soldiers carrying weapons",
+    "concealed carry military",
+    "guns on base",
+    "armed service members",
+    "military firearm permits",
+    "weapons on military property",
+    "soldiers self defense",
+    "military gun rights",
+    "base security armed personnel"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Safe Bases Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-permits-to-carry-concealed-firearms-on-military-installations",
+      "title": "Section 2  Permits to Carry Concealed Firearms on Military Installations",
+      "text": "Within one year after this law is passed, the Secretary of Defense must create a single office within the Department of Defense. This office will give out permits to qualifying service members who ask for them. These permits will allow those service members to carry hidden guns while they are on any military base. A qualifying service member is someone who serves in the Armed Forces and meets two requirements. First, they must be legally allowed to buy, own, or have a gun under federal law found in section nine hundred twenty two of title eighteen of the United States Code. Second, they must be currently serving on active duty.",
+      "word_offset": 14,
+      "char_offset": 71
+    }
+  ]
+}

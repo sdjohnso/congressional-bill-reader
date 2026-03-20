@@ -1,0 +1,145 @@
+{
+  "bill_id": "119-hr-206",
+  "title": "Landlord Accountability Act of 2025",
+  "short_title": "Landlord Accountability Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.206",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, and the Judiciary,",
+  "version_hash": "5a9a1464845e5acf",
+  "last_updated": "2026-03-20T14:07:51.286714+00:00",
+  "plain_summary": "This bill makes new rules to protect renters and hold landlords accountable. It makes it illegal for landlords to refuse to rent to people just because their money comes from government help like housing vouchers, Social Security, or disability payments. Landlords also cannot damage their buildings on purpose or leave apartments empty for more than 60 days to avoid renting to people who get government assistance. The bill creates ways for tenants to complain about bad landlords and gives tax credits to good landlords who fix problems quickly and take care of their buildings.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for con",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [
+    "Civil actions and liability",
+    "Congressional oversight",
+    "Department of Housing and Urban Development",
+    "Employee hiring",
+    "Government employee pay, benefits, personnel management",
+    "Government information and archives",
+    "Housing discrimination",
+    "Income tax credits",
+    "Intergovernmental relations",
+    "Landlord and tenant",
+    "Low- and moderate-income housing",
+    "Residential rehabilitation and home repair"
+  ],
+  "sponsor_name": "Rep. Velázquez, Nydia M. [D-NY-7]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "landlord discrimination",
+    "housing vouchers",
+    "rental discrimination",
+    "tenant rights",
+    "government assistance housing",
+    "landlord accountability",
+    "rental property laws",
+    "housing discrimination",
+    "disability payments housing",
+    "social security rental",
+    "tenant protection",
+    "landlord tax credits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Landlord Accountability Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibiting-housing-discrimination-based-on-source-of-income",
+      "title": "Section 2 Prohibiting Housing Discrimination Based on Source of Income",
+      "text": "This section changes the Fair Housing Act to make it illegal for landlords to refuse to rent to people because of where their money comes from. Source of income means many things. It includes housing vouchers from the government that help people pay rent. It also includes Social Security payments, disability payments, child support, money from family members, and any other way people get money including savings and investments. The law now says landlords cannot discriminate against people based on their source of income when renting homes or providing housing services. This change also applies to laws about threatening people for filing housing complaints. The government will spend ninety million dollars each year from twenty twenty six through twenty thirty five for programs that help enforce fair housing laws. It will spend forty seven million dollars each year for the same time period to help state and local agencies enforce these laws. The government will also spend three million dollars each year from twenty twenty six through twenty twenty eight for a national advertising campaign to teach people about their new rights and how to report housing discrimination.",
+      "word_offset": 13,
+      "char_offset": 78
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-penalties-for-intentional-acts-to-disqualify-dwelling-units",
+      "title": "Section 3 Penalties for Intentional Acts to Disqualify Dwelling Units from Eligibility for Federal Housing Programs",
+      "text": "Landlords cannot purposely damage their rental units or let them fall apart so that the units no longer qualify for government housing programs. If a landlord does this on purpose, the government can fine them one hundred thousand dollars for each time they do it. The government will hold a hearing before imposing this fine. Tenants who live in units where this happens can also sue the landlord. They can get fifty thousand dollars for each violation plus any actual costs they had to pay because of what the landlord did, including costs to find a new place to live.",
+      "word_offset": 201,
+      "char_offset": 1263
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-penalties-for-vacant-units",
+      "title": "Section 4 Penalties for Vacant Units",
+      "text": "If a landlord owns an apartment building with five or more units that qualify for government housing programs, they cannot leave units empty on purpose for more than sixty days. For new units that have never been rented, the sixty day period starts when the unit is ready to be lived in. For units that had tenants before, the sixty day period starts when the last tenant moved out. If a landlord leaves a unit empty on purpose for longer than this, they must pay a fine of one hundred thousand dollars for every thirty days the unit stays empty. The government assumes that empty units between tenants are being repaired, but if someone can prove that enough time has passed for normal repairs, the landlord can still be fined.",
+      "word_offset": 301,
+      "char_offset": 1834
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-resources-for-receiving-and-resolving-complaints",
+      "title": "Section 5 Resources for Receiving and Resolving Complaints Regarding Multifamily Housing Projects",
+      "text": "The government will hire more staff within one hundred eighty days of this law passing to handle phone calls on the complaint line for apartment buildings. This will help people get through without waiting too long. The government will also create a new program to handle complaints about apartment buildings from people who use housing vouchers and from local government officials. This program will gather information about complaints, figure out if landlords are breaking rules, tell landlords about the complaints, and try to fix the problems including through mediation. The government can use regional offices or hire local organizations to help resolve complaints. The program will use money that is already set aside for administrative fees in the housing voucher program. The government must create rules for this program within twelve months of this law passing.",
+      "word_offset": 431,
+      "char_offset": 2563
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-hud-disclosure-of-landlord-complaints",
+      "title": "Section 6 HUD Disclosure of Landlord Complaints",
+      "text": "The government will publish information about all complaints against landlords on its website. For each complaint, they will share what the complaint was about, when it was filed, what has been done about it, and which apartment building it involves. The government will also send a report every year to Congress that summarizes all the complaints they received and what happened with each one.",
+      "word_offset": 567,
+      "char_offset": 3436
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-tax-credit-incentive-for-maintenance",
+      "title": "Section 7 Tax Credit Incentive for Maintenance of Multifamily Housing with Voucher User Tenants",
+      "text": "Landlords who own apartment buildings with five or more units where at least one tenant uses a housing voucher can get tax credits for maintaining their buildings. They can get money back on their taxes equal to what they spend on repairs and improvements. However, there are limits. They can get no more than twenty five hundred dollars per unit, one hundred thousand dollars per building, and five hundred thousand dollars total per year. To qualify, landlords must fix any tenant complaints within thirty days or have no complaints at all during the year. Landlords must also agree to keep rents at or below fair market rates set by the government. This tax credit program ends after December thirty first, twenty thirty five.",
+      "word_offset": 631,
+      "char_offset": 3831
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-public-display-of-tenants-rights",
+      "title": "Section 8 Public Display of Tenant's Rights and Complaint Line",
+      "text": "Landlords who own apartment buildings that qualify for government housing programs must post signs on every floor that has apartments. These signs must explain tenant rights under federal law, give the phone number for the complaint line, and provide the phone number for local government offices that can help tenants. The signs must be in English and Spanish, and landlords can add other languages if they want. If landlords do not post these signs, they can be fined five hundred dollars per day for each day they do not have the signs up. However, the government will not charge this fine if landlords fix the problem within five days of being told about it. The government will create a sample sign within twelve months and make copies available to landlords. Landlords must start posting these signs sixty days after the government publishes the sample sign. The government must create rules for this requirement within one hundred eighty days of this law passing.",
+      "word_offset": 754,
+      "char_offset": 4561
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-grants-for-tenant-harassment-prevention",
+      "title": "Section 9 Grants for Tenant Harassment Prevention Programs",
+      "text": "The government can give money to states, tribal governments, local governments, and nonprofit housing organizations to create or expand programs that prevent tenant harassment. Tenant harassment prevention programs are designed to protect tenants from landlords who try to force them to move out or give up their rights through illegal behavior. These programs can provide legal help, counseling, education, intervention, and complaint processes. The government can pay up to seventy five percent of the cost of these programs. Organizations must apply for this money and explain what they plan to do and how much it will cost. The government will choose who gets grants based on rules they create. Twenty five million dollars is available each year from twenty twenty four through twenty twenty eight for these grants.",
+      "word_offset": 916,
+      "char_offset": 5532
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-definitions",
+      "title": "Section 10 Definitions",
+      "text": "This section explains what certain terms mean in this law. A multifamily housing project is a building or group of buildings with five or more apartments. A rental assistance voucher is a government voucher that helps families pay rent under a specific federal program. Secretary means the Secretary of Housing and Urban Development. A voucher user is a family that rents an apartment using a rental assistance voucher.",
+      "word_offset": 1044,
+      "char_offset": 6352
+    },
+    {
+      "id": "s11",
+      "slug": "section-11-regulations",
+      "title": "Section 11 Regulations",
+      "text": "The Secretary of Housing and Urban Development can create any rules needed to carry out this law.",
+      "word_offset": 1112,
+      "char_offset": 6772
+    }
+  ]
+}

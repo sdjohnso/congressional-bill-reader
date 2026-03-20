@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-640",
+  "title": "Chemical Tax Repeal Act",
+  "short_title": "Chemical Tax Repeal Act",
+  "congress": 119,
+  "bill_number": "HR.640",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "e6e6c6fb60dc5cdc",
+  "last_updated": "2026-03-20T15:28:37.300644+00:00",
+  "plain_summary": "The Chemical Tax Repeal Act is a law that would stop the government from charging special taxes on certain chemicals and substances. Right now, companies have to pay extra money to the government when they make or use these chemicals. This bill would remove those extra taxes so companies would not have to pay them anymore. The new rule would start on January 1, 2024.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Van Duyne, Beth [R-TX-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 9,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "chemical taxes",
+    "remove taxes on chemicals",
+    "tax repeal",
+    "chemical industry taxes",
+    "manufacturing taxes",
+    "business tax relief",
+    "chemical company taxes",
+    "industrial taxes",
+    "eliminate chemical fees",
+    "chemical tax removal",
+    "reduce business costs",
+    "manufacturing tax cuts"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Chemical Tax Repeal Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-excise-taxes-on-certain-chemicals-and-substances",
+      "title": "Section 2 Repeal of Excise Taxes on Certain Chemicals and Substances",
+      "text": "This section removes special taxes on certain chemicals and substances. The law removes two whole sections from Chapter thirty-eight of the Internal Revenue Code of nineteen eighty-six. These sections are called subchapters B and C, and they contain the taxes on chemicals and substances that this bill eliminates. The changes made by this section start working on January first, twenty twenty-four.",
+      "word_offset": 10,
+      "char_offset": 52
+    }
+  ]
+}

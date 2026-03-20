@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-44",
+  "title": "Rural 340B Access Act of 2025",
+  "short_title": "Rural 340B Access Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.44",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "3cf84312348bcf56",
+  "last_updated": "2026-03-20T14:21:58.554267+00:00",
+  "plain_summary": "This bill lets rural emergency hospitals join a special program that helps them buy prescription drugs at lower prices. To be part of this program, these hospitals must be owned by the government, be nonprofit organizations with government powers, or be private nonprofits that have contracts to help low-income patients who don't have Medicare or Medicaid. Rural emergency hospitals are a special type of hospital that mainly provides emergency care and short-term services to patients in rural areas. This change would help these hospitals save money on the drugs they need to treat patients.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Health care costs and insurance",
+    "Health care coverage and access",
+    "Hospital care",
+    "Prescription drugs",
+    "Rural conditions and development"
+  ],
+  "sponsor_name": "Rep. Bergman, Jack [R-MI-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "rural hospitals",
+    "prescription drug discounts",
+    "emergency hospitals",
+    "340B program",
+    "drug prices",
+    "rural healthcare",
+    "hospital medication costs",
+    "rural emergency care",
+    "cheap prescription drugs",
+    "hospital drug savings"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Rural 340B Access Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-including-rural-emergency-hospitals",
+      "title": "Section 2  Including Rural Emergency Hospitals as Covered Entities for Purposes of the 340B Drug Discount Program",
+      "text": "This section changes an existing law called the Public Health Service Act. It adds a new type of hospital that can participate in a program called 340B. The 340B program helps certain hospitals and clinics buy prescription drugs at lower prices. The new type of hospital that can join this program is called a rural emergency hospital. These are hospitals in rural areas that mainly provide emergency care services. To qualify for the drug discount program, a rural emergency hospital must meet one of these requirements. It must be owned or run by a state or local government. It must be a public or private nonprofit organization that has been given government powers by a state or local government. Or it must be a private nonprofit rural emergency hospital that has a contract with a state or local government to provide health care to low income people who do not have Medicare benefits or state Medicaid assistance.",
+      "word_offset": 12,
+      "char_offset": 58
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "bill_id": "119-hr-380",
+  "title": "Affordable Shipping for All Act",
+  "short_title": "Affordable Shipping for All Act",
+  "congress": 119,
+  "bill_number": "HR.380",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Government Reform, f",
+  "version_hash": "d7dbe9ade8e27f91",
+  "last_updated": "2026-03-20T14:03:32.976055+00:00",
+  "plain_summary": "This bill makes shipping companies charge the same prices to send packages to Alaska, Hawaii, and US territories like Puerto Rico as they charge to send packages anywhere in the other 48 states. Shipping companies also cannot refuse to deliver to these places. The rule applies to both private companies like FedEx and the US Postal Service. However, very expensive items that cost more than ten thousand dollars do not have to follow these rules.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consi",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Rep. Case, Ed [D-HI-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "HI",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "shipping costs",
+    "Alaska shipping",
+    "Hawaii shipping",
+    "Puerto Rico shipping",
+    "package delivery",
+    "mail prices",
+    "FedEx UPS prices",
+    "postal service rates",
+    "territory shipping",
+    "remote area delivery",
+    "shipping discrimination",
+    "equal shipping rates"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Affordable Shipping for All Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-higher-shipping-fees",
+      "title": "Section 2  Prohibition on Higher Shipping Fees",
+      "text": "Shipping companies cannot charge more money to send packages to places like Alaska, Hawaii, Puerto Rico, or other US territories than they charge to send the same package anywhere in the lower forty eight states or Washington DC.",
+      "word_offset": 11,
+      "char_offset": 60
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-on-excluding-noncontiguous-areas",
+      "title": "Section 3  Prohibition on Excluding Noncontiguous Areas",
+      "text": "Shipping companies cannot refuse to deliver packages to Alaska, Hawaii, Puerto Rico, or other US territories. They also cannot leave these places out of their shipping rules and policies.",
+      "word_offset": 49,
+      "char_offset": 290
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-exemptions",
+      "title": "Section 4  Exemptions",
+      "text": "This law does not apply to items that cost more than ten thousand dollars.",
+      "word_offset": 78,
+      "char_offset": 478
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-definitions",
+      "title": "Section 5  Definitions",
+      "text": "In this law, consumer products means finished items that regular people buy and use directly. Contiguous United States means the forty eight states that touch each other plus Washington DC. Noncontiguous area means any part of the United States that is not physically connected to those forty eight states, including Alaska, Hawaii, Puerto Rico, Guam, the US Virgin Islands, American Samoa, and the Northern Mariana Islands. Producer goods means raw materials that companies use to make other products. Shipping services means private companies whose main business is moving packages for stores and businesses, and this also includes the United States Postal Service.",
+      "word_offset": 92,
+      "char_offset": 553
+    }
+  ]
+}

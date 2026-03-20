@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-336",
+  "title": "HEADWAY Act",
+  "short_title": "HEADWAY Act",
+  "congress": 119,
+  "bill_number": "HR.336",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "acc91099c8d77109",
+  "last_updated": "2026-03-20T13:14:56.789772+00:00",
+  "plain_summary": "The HEADWAY Act changes the rules for teachers in Early Head Start programs that help very young children. Right now, all teachers must have finished their Child Development Associate training before they can teach. This new law would let some teachers work in classrooms while they are still learning and getting their training. Each classroom would need at least one teacher who has finished all their training, and the other teachers would get help from a mentor while they learn. This change would help Early Head Start programs find more teachers to work with babies and toddlers.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Preschool education",
+    "Teaching, teachers, curricula",
+    "Vocational and technical education"
+  ],
+  "sponsor_name": "Rep. Ciscomani, Juan [R-AZ-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 21,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "early childhood teachers",
+    "head start programs",
+    "teacher training requirements",
+    "childcare worker qualifications",
+    "preschool teacher certification",
+    "infant toddler teachers",
+    "teacher shortage solutions",
+    "on the job training teachers",
+    "mentoring new teachers",
+    "childcare staffing problems"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Head Start Education And Development Workforce Advancement and Yield Act or the HEADWAY Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-teachers-in-early-head-start-programs",
+      "title": "Section 2  Teachers in Early Head Start Programs",
+      "text": "This section changes the rules for teachers in Early Head Start programs. Early Head Start programs help very young children get ready for school. Under the new rules, each classroom must have at least one teacher who has a child development associate credential (a special certificate that shows someone knows how to work with young children) or has been trained in early childhood development. Any other teachers in the classroom can work while they are still earning their child development associate credential and completing their training in early childhood development. While these teachers are learning, the Early Head Start program must give them a mentor. A mentor is an experienced person who will watch their progress and help guide their work as they earn their credential and finish their training. The program must also make sure that at least one teacher per classroom has completed specialized training in how young children learn and grow, and that any additional teachers are working toward completing this same training.",
+      "word_offset": 20,
+      "char_offset": 120
+    }
+  ]
+}

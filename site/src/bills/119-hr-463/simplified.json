@@ -1,0 +1,104 @@
+{
+  "bill_id": "119-hr-463",
+  "title": "Lower Your Taxes Act",
+  "short_title": "Lower Your Taxes Act",
+  "congress": 119,
+  "bill_number": "HR.463",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "213ebac69630fe25",
+  "last_updated": "2026-03-20T12:01:27.059804+00:00",
+  "plain_summary": "This bill changes taxes to help working families and make wealthy people and big companies pay more. It gives bigger tax credits to families who work and have children, and it sends monthly payments to families with kids. At the same time, it makes millionaires pay higher taxes on money they make from selling things like stocks. The bill also makes big companies pay more taxes by raising their tax rate from 21 percent to 28 percent.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Income tax credits",
+    "Income tax rates",
+    "Inflation and prices",
+    "State and local taxation",
+    "Tax treatment of families"
+  ],
+  "sponsor_name": "Rep. Sykes, Emilia Strong [D-OH-13]",
+  "sponsor_party": "D",
+  "sponsor_state": "OH",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "tax cuts for families",
+    "child tax credit",
+    "monthly payments for kids",
+    "taxes on rich people",
+    "millionaire taxes",
+    "stock market taxes",
+    "corporate tax rate",
+    "big company taxes",
+    "working family tax relief",
+    "tax credits for parents"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Lower Your Taxes Act. The law contains seven main sections that cover different tax changes including expanding tax credits for working families and children, making some state tax credits refundable through federal payments, and changing tax rates for high earners and corporations.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-sense-of-congress",
+      "title": "Section 2  Sense of Congress",
+      "text": "Congress believes that any extra money the government collects from this law should first be used to reduce how much money the country owes (the national deficit). After that, any remaining money should be used to pay down the country's total debt.",
+      "word_offset": 48,
+      "char_offset": 311
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-expansion-of-earned-income-tax-credit",
+      "title": "Section 3  Expansion of Earned Income Tax Credit",
+      "text": "This section makes the earned income tax credit much larger for working families. The credit percentage rates are doubled from thirty-four percent to sixty-eight percent for families with one child, from forty percent to eighty percent for families with two children, and from forty-five percent to ninety percent for families with three or more children. For workers without children, the rate increases from seven point six five percent to thirty-five percent. The section also makes it easier to qualify by lowering the age requirement from twenty-five to eighteen for workers without children. The amounts of income where people can get the maximum credit are increased significantly. For example, families with one child can earn up to nineteen thousand dollars and still get the full credit, up from six thousand three hundred thirty dollars. The income levels where the credit starts to phase out are also increased. Starting in twenty twenty-seven, these dollar amounts will be adjusted each year based on economic growth measured by gross domestic product per person. The Treasury Department must create a program to notify people who might be eligible for this credit but have not claimed it on their tax returns.",
+      "word_offset": 90,
+      "char_offset": 560
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-state-tax-credit-payments",
+      "title": "Section 4  Payments to Taxpayers Determined by Treating State Non-Refundable Earned Income Tax Credits as Refundable",
+      "text": "This section creates a new federal program that gives people money when their state has an earned income tax credit that cannot be refunded. Many states have tax credits similar to the federal earned income tax credit, but some states only let people use these credits to reduce the taxes they owe rather than getting money back if the credit is larger than their tax bill. Under this new program, the federal government will calculate how much extra money a person would have gotten if their state credit was refundable, and then send that amount to the person as a federal payment. To participate, states must have had a non-refundable earned income tax credit when this law was passed and must agree to share information with the federal government. The federal government will treat these payments like tax refunds, meaning they will be processed through the normal tax refund system.",
+      "word_offset": 285,
+      "char_offset": 1784
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-refundable-child-tax-credit",
+      "title": "Section 5  Establishment of Refundable Child Tax Credit with Monthly Advance Payment",
+      "text": "This section creates a new monthly child tax credit system starting in twenty twenty-six. Families will receive three hundred dollars per month for each child age six through seventeen and three hundred fifty dollars per month for each child under age six. These payments will be sent monthly instead of waiting until tax filing time. The credit starts to decrease for families earning more than one hundred fifty thousand dollars if married filing jointly or one hundred twelve thousand five hundred dollars for single parents. Families can receive the full credit even if they owe no federal income taxes. To get monthly payments, families must establish what the law calls presumptive eligibility, which means proving they expect to remain eligible for at least two more months. The government will create an online portal where families can sign up for monthly payments and update their information when circumstances change. If multiple people claim the same child, the government will have procedures to quickly decide who should receive the payments. At tax time, families will reconcile the monthly payments they received with the actual credit they earned. If they received too much, they may have to pay some back depending on their circumstances. The law also creates a smaller five hundred dollar credit for other dependents who do not qualify for the main child credit. This entire new system replaces the current child tax credit for tax years beginning after twenty twenty-five.",
+      "word_offset": 435,
+      "char_offset": 2673
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-capital-gains-rates",
+      "title": "Section 6  Capital Gains Rates Not Applicable to Certain High Income Taxpayers",
+      "text": "This section changes how investment profits called capital gains are taxed for high earners. Currently, people pay lower tax rates on profits from selling investments like stocks compared to regular income. Under this change, people with taxable income over one million dollars (five hundred thousand dollars if married filing separately) will no longer get these lower capital gains tax rates. Instead, their investment profits will be taxed at the same rates as their regular income. The one million dollar threshold will be adjusted for inflation starting in twenty twenty-seven. This change applies to tax years beginning after December thirty-first, twenty twenty-five.",
+      "word_offset": 675,
+      "char_offset": 4167
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-corporate-tax-increases",
+      "title": "Section 7  Increase in Rates of Certain Corporate Taxes",
+      "text": "This section raises several taxes that corporations pay. The main corporate income tax rate increases from twenty-one percent to twenty-eight percent. The tax on corporate stock buybacks (when companies buy back their own shares) increases from one percent to four percent. For very large corporations, there is a special minimum tax called the corporate alternative minimum tax. This section creates a two-tier system where corporations pay fifteen percent on their first five billion dollars of income and twenty-five percent on income above that amount. These changes apply to tax years beginning after December thirty-first, twenty twenty-five.",
+      "word_offset": 776,
+      "char_offset": 4842
+    }
+  ]
+}

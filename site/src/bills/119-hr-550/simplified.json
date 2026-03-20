@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-550",
+  "title": "Wildfire Insurance Coverage Study Act of 2025",
+  "short_title": "Wildfire Insurance Coverage Study Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.550",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "21c48e75fa38a060",
+  "last_updated": "2026-03-20T12:59:39.962361+00:00",
+  "plain_summary": "This bill tells the Government Accountability Office to study wildfire insurance problems across the United States. The study must look at wildfire risks, how much insurance costs, what coverage is available for homes and businesses, and what problems insurance companies face when covering wildfire damage. The study also needs to examine how states are dealing with rising insurance costs and what the federal government is doing about wildfire risks. The Government Accountability Office must give a report with all their findings to Congress within one year.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Waters, Maxine [D-CA-43]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "wildfire insurance",
+    "fire damage coverage",
+    "homeowners insurance wildfire",
+    "insurance costs wildfires",
+    "fire insurance study",
+    "wildfire coverage problems",
+    "insurance companies wildfires",
+    "fire damage insurance costs",
+    "wildfire insurance availability",
+    "home insurance fire damage",
+    "business fire insurance",
+    "government wildfire insurance study"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Wildfire Insurance Coverage Study Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-gao-study-regarding-insurance-for-wildfire-damage",
+      "title": "Section 2 GAO Study Regarding Insurance for Wildfire Damage",
+      "text": "The head of the Government Accountability Office (an agency that studies government programs) must work with the Director of the Federal Insurance Office and state insurance regulators to conduct a study. This study must look at four main areas. First, the study must examine wildfire risk in the United States. This includes looking at patterns in wildfire disaster declarations under a federal grant program, finding ways to reduce wildfire insurance costs and risks, reviewing existing government programs that measure wildfire risk, and deciding if we need a national wildfire risk map. Second, the study must examine the current state of homeowner and business property insurance coverage for wildfire damage. This includes how much insurance companies have raised rates or increased what customers pay out of pocket in the past ten years, how often insurance companies have refused to renew policies, what caused these rate increases and policy cancellations, how much insurance companies have stopped offering wildfire coverage completely, and under what conditions insurance companies still provide wildfire coverage. Third, the study must look at how state insurance agencies have responded to higher premiums and excluded wildfire coverage. This includes how states have used their power to control rate increases, whether states have temporarily banned rate increases or policy cancellations, whether states require homeowner insurance to include wildfire coverage, whether states have created special insurance programs for wildfire coverage, what other actions states have taken in response to wildfire insurance problems, how these state actions have affected the availability and cost of homeowner insurance, and how effective and sustainable these state actions have been. Fourth, the study must examine the challenges private insurance companies face when providing wildfire coverage. This includes what related risks exist, what factors affect insurance companies ability to predict future wildfires and damages, how the need for more affordable housing in high risk wooded areas affects insurance, whether wildfire losses could be large enough to bankrupt insurance companies, where risk based premiums make coverage unaffordable or unavailable, how various government responses might help address these challenges, what options exist if private insurance companies stop offering wildfire coverage, how wildfire coverage availability and cost affects vulnerable communities and rebuilding efforts, how potential state bans on policy cancellations due to wildfire claims might affect insurance company finances, and how private insurance companies are estimating future wildfire risk. The head of the Government Accountability Office must submit a report to Congress with the findings and conclusions of this study within twelve months after this law is passed.",
+      "word_offset": 16,
+      "char_offset": 94
+    }
+  ]
+}

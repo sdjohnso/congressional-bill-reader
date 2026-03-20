@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-575",
+  "title": "Increased TSP Access Act of 2025",
+  "short_title": "Increased TSP Access Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.575",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+  "version_hash": "f919d12830d09064",
+  "last_updated": "2026-03-20T11:17:52.113712+00:00",
+  "plain_summary": "This bill changes how farmers can get help with conservation practices on their land. Instead of only getting technical help from government workers, farmers can now also get certified help from private companies and other non-government groups. The bill requires these private helpers to be properly trained and certified, and they must be paid the same rates as government workers. The government must also keep public records showing how well this program is working and which helpers are available to farmers.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-28",
+  "last_action_date": "2025-02-28",
+  "last_action_text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Baird, James R. [R-IN-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 27,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "farm conservation help",
+    "private company farm assistance",
+    "farmer technical support",
+    "conservation practices",
+    "agricultural assistance program",
+    "farm land conservation",
+    "certified farm advisors",
+    "government farm help",
+    "conservation technical assistance",
+    "private agricultural consultants",
+    "farm conservation services",
+    "agricultural conservation support"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law may be called the Increased TSP Access Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-delivery-of-technical-assistance",
+      "title": "Section 2 Delivery of Technical Assistance",
+      "text": "This section changes how the government provides technical help to farmers and landowners for conservation practices. Technical assistance means help with planning and putting conservation practices in place on farms and other land. The changes add a new definition for non-federal certifying entity, which means a private organization or state agency that can approve third-party providers to give technical help. Third-party providers are private companies or individuals who help farmers with conservation instead of government employees. The law requires that technical help be timely, based on science, and specific to each location. It allows private sector companies to be third-party providers. The government must set up a process within one hundred eighty days for non-federal organizations to certify third-party providers. This is meant to increase the number of qualified people who can help farmers. The law creates a faster certification process for people who already have special certifications, like certified crop advisors or professional engineers. The government must review certification requirements within one year and can make changes to improve how well the program works. The Secretary of Agriculture must set fair payment rates for third-party providers that are equal to but do not cost more than government technical assistance. The law requires the government to provide public information about how much money goes to third-party providers, how many get certified, and how well the program works. Payment from other federal programs for technical assistance cannot count toward cost-sharing requirements and cannot be more than one hundred percent of the fair payment amount.",
+      "word_offset": 14,
+      "char_offset": 75
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-69",
+  "title": "Freedom to Petition the Government Act",
+  "short_title": "Freedom to Petition the Government Act",
+  "congress": 119,
+  "bill_number": "HR.69",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "700f7b353bcc8cd5",
+  "last_updated": "2026-03-20T14:50:19.920169+00:00",
+  "plain_summary": "This bill makes it easier for nonprofit groups from outside Washington DC to meet with government officials. Right now, these groups have to register as businesses in DC before they can do work there, including meeting with federal officials. The new law would let nonprofit organizations meet with government workers in federal buildings without having to register first. This helps nonprofit groups talk to the government about issues they care about without extra paperwork.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "District of Columbia",
+    "Government buildings, facilities, and property",
+    "Government employee pay, benefits, personnel management",
+    "Members of Congress",
+    "Social work, volunteer service, charitable organizations"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "nonprofit lobbying",
+    "charity meeting government",
+    "DC registration requirements",
+    "nonprofit advocacy",
+    "government building access",
+    "charity lobbying rules",
+    "nonprofit petition government",
+    "Washington DC nonprofit rules",
+    "charity government meetings",
+    "nonprofit paperwork requirements",
+    "advocacy group registration",
+    "charity DC business license"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Freedom to Petition the Government Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-treatment-of-meetings-between-nonprofit-organizations-and-federal-officials",
+      "title": "Section 2 Treatment of Meetings Between Nonprofit Organizations and Federal Officials as Activities Not Constituting Doing Business in District of Columbia",
+      "text": "This section changes the law for Washington DC. It adds a new rule about nonprofit organizations (groups that do not make profit and do not pay taxes). When these nonprofit groups meet with members of Congress or other federal government workers at government buildings or places the government rents, this does not count as doing business in Washington DC. This means these nonprofit groups do not have to register with Washington DC just because they had these meetings at government locations.",
+      "word_offset": 12,
+      "char_offset": 67
+    }
+  ]
+}

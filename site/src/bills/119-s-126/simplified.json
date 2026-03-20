@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-s-126",
+  "title": "FAIR Act",
+  "short_title": "FAIR Act",
+  "congress": 119,
+  "bill_number": "S.126",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "e55b9cdaad40e13a",
+  "last_updated": "2026-03-20T16:01:41.403541+00:00",
+  "plain_summary": "The FAIR Act gives federal employees a pay raise in 2026. Most federal workers will get a 3.3 percent increase in their basic pay. All federal employees will also get an extra 1 percent increase in their locality pay, which is based on where they work. This means federal workers will earn more money to help keep up with rising costs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Government employee pay, benefits, personnel management"
+  ],
+  "sponsor_name": "Sen. Schatz, Brian [D-HI]",
+  "sponsor_party": "D",
+  "sponsor_state": "HI",
+  "cosponsor_count": 16,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal employee pay raise",
+    "government worker salary increase",
+    "federal pay raise 2026",
+    "government employee wages",
+    "federal worker pay bump",
+    "locality pay increase",
+    "federal job salary",
+    "government pay scale",
+    "federal employee benefits",
+    "cost of living adjustment federal workers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Federal Adjustment of Income Rates Act or the FAIR Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-adjustment-to-rates-of-pay",
+      "title": "Section 2 Adjustment to Rates of Pay",
+      "text": "In calendar year two thousand twenty six, federal employee pay will increase by three point three percent. This applies to employees who work under the standard government pay systems. This also applies to prevailing rate employees, who are workers whose pay is based on what similar jobs pay in their local area. The government will not need to do the usual wage surveys to make this pay increase happen for prevailing rate employees.",
+      "word_offset": 16,
+      "char_offset": 83
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-adjustment-to-locality-pay",
+      "title": "Section 3 Adjustment to Locality Pay",
+      "text": "In calendar year two thousand twenty six, locality pay will increase by one percent. Locality pay is extra money that federal employees get because living costs are higher in certain areas of the country.",
+      "word_offset": 89,
+      "char_offset": 519
+    }
+  ]
+}

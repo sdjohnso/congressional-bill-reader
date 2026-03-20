@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-s-144",
+  "title": "Farm to Fly Act of 2025",
+  "short_title": "Farm to Fly Act of 2025",
+  "congress": 119,
+  "bill_number": "S.144",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "version_hash": "b62f975c40291a60",
+  "last_updated": "2026-03-20T15:52:21.669574+00:00",
+  "plain_summary": "The Farm to Fly Act of 2025 tells the Department of Agriculture to help farmers make special airplane fuel from plants and other natural materials. This fuel must be much cleaner than regular airplane fuel and cut pollution by at least half. The law adds this airplane fuel to existing farm programs that help farmers grow crops for energy. The Department of Agriculture will work with businesses and farmers to make more of this clean airplane fuel and help rural communities make money from it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Sen. Moran, Jerry [R-KS]",
+  "sponsor_party": "R",
+  "sponsor_state": "KS",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "airplane fuel from plants",
+    "clean aviation fuel",
+    "sustainable jet fuel",
+    "biofuel for airplanes",
+    "farm-based airplane fuel",
+    "green aviation fuel",
+    "plant-based jet fuel",
+    "alternative airplane fuel",
+    "renewable aviation fuel",
+    "eco-friendly jet fuel"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Farm to Fly Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-purposes-and-findings",
+      "title": "Section 2  Purposes and Findings",
+      "text": "The goals of this law are to help sustainable aviation fuels get access to Department of Agriculture bioenergy programs. This will help create alternative biofuels for airplanes, expand fuel supplies, promote clean energy sources, and support United States agriculture. The law also recognizes that United States farmers play an important role in making sustainable aviation fuel and that this fuel is important for reaching the goals of the Sustainable Aviation Fuel Grand Challenge. Congress has found several important facts. Sustainable aviation fuels can increase domestic energy security, support the agricultural sector, and help the farm economy by speeding up the creation of a commercially viable and sustainable aviation biofuel industry in the United States. These fuels provide a critical opportunity to support United States farmers and the rest of the agricultural sector as they partner with the aviation sector to support rural economic development. Raw materials called feedstocks have been identified for sustainable aviation fuels because these feedstocks are abundant and have sustainability qualities. Sustainable aviation fuels will increase domestic energy security and create new markets for United States farmers while providing a new energy resource for the aviation sector.",
+      "word_offset": 14,
+      "char_offset": 66
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-definitions",
+      "title": "Section 3  Definitions",
+      "text": "This section changes the Farm Security and Rural Investment Act of two thousand two by updating the definition of biofuels. The changes add sustainable aviation fuel to the types of diesel equivalent fuel. The changes also add biofuel, including sustainable aviation fuel, produced from an intermediate ingredient or feedstock to the list of biofuels. The section adds a new definition for sustainable aviation fuel. Sustainable aviation fuel means liquid fuel where the portion that is not kerosene meets certain requirements. It must meet ASTM International Standard D seven five six six or the Fischer Tropsch provisions of ASTM International Standard D one six five five, Annex A one. It cannot be made by mixing an applicable material with a feedstock that is not biomass. It cannot come from palm fatty acid distillates or petroleum. It must be certified as having a lifecycle greenhouse gas emissions reduction percentage of at least fifty percent. The section defines other important terms. Applicable material means monoglycerides, diglycerides, triglycerides, free fatty acids, and fatty acid esters. Biomass has the same meaning as in section forty five K of the Internal Revenue Code. Lifecycle greenhouse gas emissions reduction percentage means the percentage reduction in lifecycle greenhouse gas emissions achieved by the fuel compared to petroleum based jet fuel, as defined by the most recent Carbon Offsetting and Reduction Scheme for International Aviation adopted by the International Civil Aviation Organization with United States agreement, or the most recent determinations under the GREET model developed by Argonne National Laboratory.",
+      "word_offset": 204,
+      "char_offset": 1368
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-farm-to-fly-collaboration-initiative",
+      "title": "Section 4  Farm to Fly Collaboration Initiative",
+      "text": "The Secretary of Agriculture must take necessary actions to carry out a comprehensive and integrated pursuit of all Department of Agriculture mission areas for advancing sustainable aviation fuels. This includes ensuring leadership works across Department of Agriculture agencies to maximize effectiveness. The Secretary must identify opportunities to maximize sustainable aviation fuels development and commercialization. The Secretary must leverage the capabilities of American farmers, foresters, and the agricultural sector to capture opportunities presented by the emerging sustainable aviation fuels market. The Secretary must support rural economic development through improved sustainability for aviation. The Secretary must advance public private partnerships through collaboration that complements Federal Government efforts.",
+      "word_offset": 455,
+      "char_offset": 3030
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-biorefinery-renewable-chemical-and-biobased-product-manufacturing-assistance",
+      "title": "Section 5  Biorefinery, Renewable Chemical, and Biobased Product Manufacturing Assistance",
+      "text": "This section changes the Farm Security and Rural Investment Act of two thousand two by adding a new purpose to foster and advance sustainable aviation fuels. The section also adds sustainable aviation fuel to two lists of eligible projects under the biorefinery assistance program. These changes ensure that sustainable aviation fuel projects can receive the same assistance as other biofuel and renewable chemical projects.",
+      "word_offset": 560,
+      "char_offset": 3866
+    }
+  ]
+}

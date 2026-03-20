@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-577",
+  "title": "Treatment and Homelessness Housing Integration Act of 2024",
+  "short_title": "Treatment and Homelessness Housing Integration Act of 2024",
+  "congress": 119,
+  "bill_number": "HR.577",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "234c26b52d348c8f",
+  "last_updated": "2026-03-20T13:35:16.691612+00:00",
+  "plain_summary": "This bill creates a new program to help homeless people who have disabilities get mental health treatment. The government will give money to organizations that help homeless people in states where there are lots of homeless people. These organizations will connect homeless people to mental health clinics so they can get the help they need. Congress is giving fifty million dollars over five years to pay for this program.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [
+    "Congressional oversight",
+    "Disability assistance",
+    "Drug, alcohol, tobacco use",
+    "Health facilities and institutions",
+    "Homelessness and emergency shelter",
+    "Housing and community development funding",
+    "Mental health",
+    "Performance measurement"
+  ],
+  "sponsor_name": "Rep. Calvert, Ken [R-CA-41]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "homeless mental health",
+    "housing for disabled people",
+    "mental health treatment homeless",
+    "government funding homelessness",
+    "homeless services program",
+    "mental health clinics",
+    "disability housing assistance",
+    "homeless people help",
+    "mental health support",
+    "housing integration program"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Treatment and Homelessness Housing Integration Act of two thousand twenty four.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-integration-of-treatment-plans-for-homeless-individuals",
+      "title": "Section 2  Integration of Treatment Plans for Homeless Individuals",
+      "text": "The Secretary of Housing and Urban Development must create a test program within one hundred eighty days after this law passes. This program will give up to ten grants to help homeless people get mental health and drug treatment. The grants will go to groups called Continuum of Care organizations that help homeless people in their local area. These organizations must be in one of the five states that have the most homeless people compared to their total population. They also must be within fifty miles of a Certified Community Behavioral Health Clinic, which is a special type of mental health treatment center. The program will help connect qualified homeless people to these clinics for mental health care, behavioral health care, and substance abuse treatment. Only certain homeless people can participate in this program. They must either get supportive housing through an existing homeless assistance program, qualify for disability benefits from Social Security, or be considered a homeless person with a disability under federal law. Within one hundred eighty days after the test program ends, the Secretary must write a report to Congress. This report must explain how well the program worked and count how many participants also receive disability payments from Social Security. Congress is allowing fifty million dollars to be spent on this program from fiscal year two thousand twenty five through two thousand twenty nine. The Secretary can use up to ten percent of this money to help the organizations run the program properly and to write the required report.",
+      "word_offset": 17,
+      "char_offset": 107
+    }
+  ]
+}

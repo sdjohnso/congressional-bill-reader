@@ -1,0 +1,80 @@
+{
+  "bill_id": "119-hr-138",
+  "title": "Lowering Costs for Caregivers Act of 2025",
+  "short_title": "Lowering Costs for Caregivers Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.138",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "f0bbc9449639af4c",
+  "last_updated": "2026-03-20T16:08:01.481875+00:00",
+  "plain_summary": "This bill changes the rules about health savings accounts and other tax-free health benefit plans. Starting in 2025, people can use money from these accounts to pay for their parents' medical bills. Before this change, people could only use the money for their own medical costs or their spouse and children. Now parents are included too. This will help people take care of their aging parents without paying extra taxes on the money they use for medical expenses.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Bank accounts, deposits, capital",
+    "Family relationships",
+    "Health care costs and insurance",
+    "Income tax deductions",
+    "Income tax exclusion"
+  ],
+  "sponsor_name": "Rep. Buchanan, Vern [R-FL-16]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 17,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "health savings account",
+    "pay for parents medical bills",
+    "tax free medical expenses",
+    "caring for aging parents",
+    "family medical costs",
+    "health insurance for parents",
+    "medical expenses tax deduction",
+    "take care of elderly parents",
+    "family healthcare costs",
+    "medical bills tax free"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Lowering Costs for Caregivers Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-health-savings-accounts",
+      "title": "Section 2 Health Savings Accounts",
+      "text": "This section changes the rules for Health Savings Accounts. A Health Savings Account is a special savings account that lets you pay for medical costs without paying taxes on that money. Right now, you can use this money to pay for medical costs for yourself and your spouse. This new law adds that you can also use this money to pay for medical costs for your parents or your spouse's parents. This change applies to money you spend after December thirty first, twenty twenty four.",
+      "word_offset": 15,
+      "char_offset": 84
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-flexible-spending-and-health-reimbursement-arrangements",
+      "title": "Section 3 Flexible Spending and Health Reimbursement Arrangements",
+      "text": "This section changes the rules for two types of health benefit plans. A Flexible Spending Arrangement lets you set aside money from your paycheck to pay for medical costs without paying taxes on that money. A Health Reimbursement Arrangement is when your employer gives you money to pay for medical costs. Right now, these plans can be used to pay for medical costs for you and your spouse. This new law says these plans can also be used to pay for medical costs for your parents or your spouse's parents. The government will not tax this money when it is used for your parents' medical care. This change applies to medical costs you have after December thirty first, twenty twenty four.",
+      "word_offset": 100,
+      "char_offset": 566
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-archer-msas",
+      "title": "Section 4 Archer MSAs",
+      "text": "This section changes the rules for Archer Medical Savings Accounts. These are older types of health savings accounts that work similar to Health Savings Accounts. Right now, you can use this money to pay for medical costs for yourself and your spouse. This new law adds that you can also use this money to pay for medical costs for your parents or your spouse's parents. This change applies to money you spend after December thirty first, twenty twenty four.",
+      "word_offset": 221,
+      "char_offset": 1254
+    }
+  ]
+}

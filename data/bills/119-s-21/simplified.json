@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-s-21",
+  "title": "REMOTE Act",
+  "short_title": "REMOTE Act",
+  "congress": 119,
+  "bill_number": "S.21",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "ba4847a9ee0a1a87",
+  "last_updated": "2026-03-20T14:34:10.517520+00:00",
+  "plain_summary": "The REMOTE Act requires government agencies to track how much their employees use computer networks and login systems, whether they work from home or in the office. Agencies must collect this data and compare how often remote workers and office workers log in to their computers each day. When a manager stops letting an employee work from home, they must write down exactly why they made this decision and what other steps they tried first. The government must also report if working from home is causing any problems with how well agencies do their jobs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Commuting",
+    "Computers and information technology",
+    "Government employee pay, benefits, personnel management",
+    "Government information and archives",
+    "Public contracts and procurement"
+  ],
+  "sponsor_name": "Sen. Ernst, Joni [R-IA]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "remote work",
+    "work from home",
+    "government employees",
+    "telework",
+    "employee tracking",
+    "computer login monitoring",
+    "federal workers",
+    "remote work policy",
+    "government telecommuting",
+    "workplace flexibility",
+    "employee productivity tracking",
+    "federal telework"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Requiring Effective Management and Oversight of Teleworking Employees Act or the REMOTE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-utilization-data-and-reporting",
+      "title": "Section 2. Utilization Data and Reporting",
+      "text": "This section explains important terms and requires government departments to collect data about employees who work from home. An agency office means any office space that the government owns or rents where at least one employee regularly works. Budget justification materials are documents that explain how government money will be spent. A computer network is software or a system run by a government department that employees must connect to in order to do their work, like accessing email or files. A contract employee is someone who works for a company that has a contract with the government but is not directly employed by the government. An Executive department means the main departments of the federal government like the Department of Defense or Department of Education. A login means when an employee connects to a computer network. Network traffic means the amount of data moving through a computer network. A teleworking employee is someone who works for the government and has an agreement to work from home sometimes. Working remotely means doing work on a computer while physically located outside of a government office. Government department heads must create policies within one hundred eighty days of this law passing that require tracking when teleworking employees log into computer systems and how much network traffic they generate. Managers must regularly check the network activity of employees working from home. Within one year, departments must start keeping records that show for each teleworking employee how many times per day they log in on average, how long they stay connected to the network each day on average, and how much network traffic they create while working from home. This data must be kept for at least three years before it can be deleted. Starting one hundred eighty days after this law passes, departments must also track employees who work at the main government building. These employees must use a Personal Identity Verification Card or Common Access Card to log in. The same type of data must be collected about their computer use while working from the main building. This data must also be kept for at least three years. Each year, departments must publish this data in their budget documents. The published information must protect personal details but show how often remote workers log in compared to how many are approved to work remotely, and compare remote worker login rates to those working in the main building.",
+      "word_offset": 19,
+      "char_offset": 120
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-chief-human-capital-officer-reports",
+      "title": "Section 3. Chief Human Capital Officer Reports",
+      "text": "This section changes an existing law about reports on telework programs. Each year, the Chief Human Capital Officer of each government agency must work with the Telework Managing Officer to submit a report to the Chief Human Capital Officers Council. The report must describe efforts to make telework more efficient and include any negative effects of telework policies on the agency's performance, including any increase in disciplinary actions against employees. Within sixty days of this law passing, Chief Human Capital Officers must create a policy for when managers take away an employee's right to work from home. When this happens for reasons specific to that employee, the manager must give written information to the human resources office and to the employee explaining why. This information must include the employee's name, job title, office, years of service, official workplace, and yearly salary. It must also show how many days the employee worked from home in the six work periods before losing telework privileges, listing each specific day. The explanation must include a brief summary with enough detail to show the decision was proper under agency rules. It must also describe any disciplinary steps the manager took before removing telework privileges. The human resources office must keep this information for a reasonable time even after the employee no longer works for the agency.",
+      "word_offset": 422,
+      "char_offset": 2596
+    }
+  ]
+}

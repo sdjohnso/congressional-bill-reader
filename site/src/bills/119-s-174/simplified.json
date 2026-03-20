@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-s-174",
+  "title": "Amtrak Transparency Act",
+  "short_title": "Amtrak Transparency Act",
+  "congress": 119,
+  "bill_number": "S.174",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "version_hash": "83e7bd854ee3a62f",
+  "last_updated": "2026-03-20T15:33:21.555126+00:00",
+  "plain_summary": "This bill makes Amtrak more open to the public by requiring their board meetings to follow the same rules as other government meetings. Amtrak must post meeting announcements and agendas at least 30 days ahead of time so people know what they will discuss. The company also has to tell the public how much bonus money they pay their executives and other employees who are not in unions. When states ask, Amtrak must share information about contracts worth $250,000 or more that affect train routes in those states.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Sen. Fischer, Deb [R-NE]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Amtrak transparency",
+    "train company meetings",
+    "railroad public information",
+    "Amtrak executive bonuses",
+    "passenger rail accountability",
+    "government train service",
+    "Amtrak board meetings",
+    "railroad contract disclosure",
+    "train service transparency",
+    "public transportation openness"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Amtrak Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-board-of-directors-meetings",
+      "title": "Section 2 Board of Directors Meetings",
+      "text": "This section changes the rules for how Amtrak's board of directors holds meetings. First, it removes old language that required meetings to be open to the public. Then it creates new rules for meetings. More than half of the voting board members must be present to conduct business. The board must announce any meeting on a public website at least thirty days before the meeting happens. The announcement must include what topics will be discussed. All board meetings must follow the open meeting laws found in section five hundred fifty-two b of title five of federal law. This means the meetings must generally be open to the public. At least once every year, the board must hold a special meeting and invite the transportation department head from each state that has Amtrak long-distance routes or state-supported routes. If the department head cannot attend, they can send someone else to represent them.",
+      "word_offset": 9,
+      "char_offset": 52
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-discretionary-bonus-disclosure-requirement",
+      "title": "Section 3 Discretionary Bonus Disclosure Requirement",
+      "text": "This section requires Amtrak to tell the public how much money it pays in extra bonuses to its officers and employees who are not part of a union bargaining unit. Amtrak must publicly share the dollar amount of each bonus it gives to these workers.",
+      "word_offset": 160,
+      "char_offset": 962
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-disclosure-of-vendor-agreements",
+      "title": "Section 4 Disclosure of Vendor Agreements",
+      "text": "This section requires Amtrak to share information about contracts with outside companies. When a state government or the State-Amtrak Intercity Passenger Rail Committee asks for it, Amtrak must show them any contract worth two hundred fifty thousand dollars or more. These contracts must be for services that help run trains on state-supported routes.",
+      "word_offset": 205,
+      "char_offset": 1211
+    }
+  ]
+}

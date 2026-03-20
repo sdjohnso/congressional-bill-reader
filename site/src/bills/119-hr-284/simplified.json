@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-284",
+  "title": "GLRI Act of 2025",
+  "short_title": "GLRI Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.284",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Water Resources and Environment.",
+  "version_hash": "5ae31e58a3c7b4b5",
+  "last_updated": "2026-03-20T15:10:28.770719+00:00",
+  "plain_summary": "The GLRI Act of 2025 continues a program that works to protect and clean up the Great Lakes. The bill gives this program a new official name called the Great Lakes Restoration Initiative. It provides 500 million dollars every year from 2027 through 2031 to fund projects that help restore the lakes and keep them healthy. This money will be used to continue important work protecting one of America's most valuable water resources.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-10",
+  "last_action_date": "2025-01-10",
+  "last_action_text": "Referred to the Subcommittee on Water Resources and Environment.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Rep. Joyce, David P. [R-OH-14]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 42,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Great Lakes",
+    "water cleanup",
+    "lake restoration",
+    "environmental protection",
+    "water pollution",
+    "lake funding",
+    "clean water",
+    "Great Lakes pollution",
+    "water conservation",
+    "lake health",
+    "environmental funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Great Lakes Restoration Initiative Act of twenty twenty five or the GLRI Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-great-lakes-restoration-initiative-reauthorization",
+      "title": "Section 2 Great Lakes Restoration Initiative Reauthorization",
+      "text": "This section changes an existing law called the Federal Water Pollution Control Act. It adds new funding amounts to the Great Lakes Restoration Initiative. The new funding will provide five hundred million dollars each year from twenty twenty seven through twenty thirty one. This money will be used to continue work on restoring and protecting the Great Lakes.",
+      "word_offset": 23,
+      "char_offset": 127
+    }
+  ]
+}

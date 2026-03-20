@@ -1,0 +1,92 @@
+{
+  "bill_id": "119-s-63",
+  "title": "CBW Fentanyl Act",
+  "short_title": "CBW Fentanyl Act",
+  "congress": 119,
+  "bill_number": "S.63",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Foreign Relations.",
+  "version_hash": "e2a52a9afa766b02",
+  "last_updated": "2026-03-20T12:49:56.078488+00:00",
+  "plain_summary": "This bill lets the United States punish other countries when their government workers help make or spread dangerous chemicals like fentanyl that hurt people in other countries. If a country's officials do these harmful things, the President must first stop buying certain products from that country and end science partnerships with them. If the country doesn't fix the problem, the President can stop giving them aid money and eventually block all money deals with that country. The President can remove these punishments when the country stops the bad behavior and follows international rules. The President can temporarily pause these punishments if it's really important for America's safety.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Foreign Relations.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Banks, Jim [R-IN]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "fentanyl",
+    "drug trafficking",
+    "punish countries",
+    "sanctions",
+    "government officials",
+    "dangerous chemicals",
+    "international drug trade",
+    "foreign aid restrictions",
+    "trade sanctions",
+    "chemical weapons",
+    "drug smuggling",
+    "country punishment"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Countering Beijing's Weaponization of Fentanyl Act or the CBW Fentanyl Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-purposes",
+      "title": "Section 2 Purposes",
+      "text": "This section changes the purposes of an existing law from nineteen ninety-one. The old law was meant to punish countries that use chemical or biological weapons or help terrorists get these weapons. Now the law will also punish countries whose officials take actions involving chemical or biological programs that hurt other countries. The changes expand what the government can respond to beyond just weapons use to include other harmful activities related to chemical and biological programs.",
+      "word_offset": 17,
+      "char_offset": 103
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-presidential-reporting-requirements",
+      "title": "Section 3 Presidential Reporting Requirements",
+      "text": "This section changes the rules about when the President must investigate and report on harmful activities. Now the President must investigate within sixty days when there is credible information that a foreign government official has committed a covered act involving chemical or biological programs that hurt another country. A covered act means an action by a foreign government official who knew or should have known their action would cause injury or damage to another country, and the action involves a chemical or biological program controlled by their government. When making these investigations, the President must consider physical evidence, whether the program has civilian or military uses, whether the foreign government tried to hide information, whether they shared information with international organizations, and whether they follow international treaties. The President must then report the findings to Congress and impose sanctions if someone committed a covered act.",
+      "word_offset": 93,
+      "char_offset": 598
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-required-sanctions-on-foreign-countries",
+      "title": "Section 4 Required Sanctions on Foreign Countries in Response to Certain Acts Concerning Chemical or Biological Program",
+      "text": "This section creates a new section three hundred ten in the existing law that sets up a system of penalties against countries whose officials commit covered acts. When the President determines that a foreign government official committed a covered act, the President must impose initial sanctions within thirty days. These include stopping all scientific cooperation programs with that country, blocking exports of certain controlled items, and banning purchases from companies in that country's chemical or biological sectors. After one hundred twenty days, the President must report to Congress whether the foreign government has properly addressed the problem, shared information, and taken steps to prevent future violations. If not, the President must impose at least two additional sanctions including ending most foreign aid, blocking controlled exports, or stopping weapons export licenses. After two hundred ten days, if the country still has not complied, the President must block all financial transactions involving that country that are under United States jurisdiction. Sanctions can be removed after one year if the country fixes the problem, pays damages to victims, shares information, prevents future violations, and follows international treaties. The President can temporarily waive sanctions for up to one hundred eighty days if vital to national security, but this power expires five years after this law takes effect.",
+      "word_offset": 238,
+      "char_offset": 1586
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-definitions",
+      "title": "Section 5 Definitions",
+      "text": "This section creates a new section three hundred eleven that defines important terms used in this law. A chemical or biological program means a program to make, develop, or distribute chemical or biological weapons or specific fentanyl-related chemicals including benzylfentanyl, four-anilinopiperidine, or norfentanyl precursors. The Commerce Control List is a government list of items that need special permission to export. A covered act means an action by a foreign government official involving a chemical or biological program where the official knew or should have known the action would hurt another country. Covered treaties include the Biological Weapons Convention from nineteen seventy-two and the Chemical Weapons Convention from nineteen ninety-two. Export Administration Regulations are the government rules that control what can be exported. A foreign governmental entity includes foreign governments, their agencies, entities they control, entities that act for them, or entities that get significant support from them and are involved in commercial services, shipping, manufacturing, producing, or exporting.",
+      "word_offset": 451,
+      "char_offset": 3027
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-conforming-amendment",
+      "title": "Section 6 Conforming Amendment",
+      "text": "This section makes a small technical change to section three hundred seven of the existing law to make sure it refers to the correct part of section three hundred six after the changes made by this new law.",
+      "word_offset": 609,
+      "char_offset": 4154
+    }
+  ]
+}

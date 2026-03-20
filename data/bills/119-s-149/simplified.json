@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-149",
+  "title": "Public Safety First Act",
+  "short_title": "Public Safety First Act",
+  "congress": 119,
+  "bill_number": "S.149",
+  "introduced_date": "2025-01-17",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "af06958e5632c6fc",
+  "last_updated": "2026-03-20T13:25:25.886665+00:00",
+  "plain_summary": "This bill says that the government must arrest and hold certain people who are not US citizens. If these people are in the country illegally or without proper papers and have been charged with stealing, burglary, shoplifting, or attacking police officers, they must be kept in jail. The Department of Homeland Security has to take these people into custody and cannot let them go free. The bill also applies to people charged with crimes that cause death or serious injury to others.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-17",
+  "last_action_date": "2025-01-17",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Cornyn, John [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigration detention",
+    "illegal immigrants jail",
+    "immigrant arrest bill",
+    "deportation custody",
+    "undocumented immigrants prison",
+    "immigrant crime detention",
+    "homeland security arrests",
+    "immigration enforcement",
+    "immigrant shoplifting arrest",
+    "foreign nationals detention",
+    "immigration jail time",
+    "non-citizen arrest"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Public Safety First Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-detention-of-certain-aliens-who-commit-theft",
+      "title": "Section 2  Detention of Certain Aliens Who Commit Theft",
+      "text": "This section changes the Immigration and Nationality Act. The law already requires the government to hold certain non-citizens in custody. This bill adds a new group of people who must be held. The new group includes non-citizens who cannot legally enter the United States for certain reasons and who have been charged with or arrested for specific crimes. These crimes include burglary, theft, stealing from stores, taking someone else's property, attacking a police officer, or any crime that kills someone or causes serious harm to their body. The meanings of these crime words will be based on the laws of the place where the crime happened. When someone fits this description, the Secretary of Homeland Security must issue a detainer. A detainer is an official request to hold someone. If the person is not already being held by federal, state, or local officials, the Secretary must quickly take them into custody.",
+      "word_offset": 10,
+      "char_offset": 52
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-s-170",
+  "title": "BIG OIL from the Cabinet Act",
+  "short_title": "BIG OIL from the Cabinet Act",
+  "congress": 119,
+  "bill_number": "S.170",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "e0afe5889d99e7cd",
+  "last_updated": "2026-03-20T13:06:04.451729+00:00",
+  "plain_summary": "The BIG OIL from the Cabinet Act would stop certain people from getting important jobs in the government. If someone worked as a top boss at an oil or gas company, or if they worked as a lobbyist for these companies, they could not be chosen for key government positions. This ban would apply to anyone who had these jobs in the ten years before they might be picked for government work. The banned positions include jobs like being the Chief of Staff to the President, running the Environmental Protection Agency, or being the Secretary of Energy.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Coal",
+    "Executive agency funding and structure",
+    "Federal officials",
+    "Oil and gas",
+    "Public participation and lobbying"
+  ],
+  "sponsor_name": "Sen. Markey, Edward J. [D-MA]",
+  "sponsor_party": "D",
+  "sponsor_state": "MA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "oil company executives",
+    "gas company lobbyists",
+    "government jobs ban",
+    "cabinet positions",
+    "energy secretary",
+    "EPA administrator",
+    "presidential staff",
+    "oil industry influence",
+    "lobbying restrictions",
+    "government ethics",
+    "corporate revolving door",
+    "energy company conflicts"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Banning In Government Oil Industry Lobbyists from the Cabinet Act or the BIG OIL from the Cabinet Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, these terms mean the following. A covered department head means the Chief of Staff to the President, Chief of Staff to the Vice President, Director of the Office of Management and Budget, Chairman of the Council on Environmental Quality, Director of the Office of Science and Technology Policy, Executive Director of the United States Global Change Research Program, Secretary of Energy, Administrator of the Energy Information Administration, Administrator of the National Oceanic and Atmospheric Administration, Administrator of the National Aeronautics and Space Administration, Secretary of Transportation, Deputy Administrator of the National Highway Traffic Safety Administration, Administrator of the Pipeline and Hazardous Materials Safety Administration, Chairman of the Federal Energy Regulatory Commission, Secretary of Agriculture, Secretary of the Interior, Secretary of Defense, Administrator of the Environmental Protection Agency, and Secretary of State. A covered political appointee means a political appointee at the Department of the Interior, the Environmental Protection Agency, the Department of Energy, the Federal Energy Regulatory Commission, the National Oceanic and Atmospheric Administration, the Council on Environmental Quality, the Office of Science and Technology Policy, the Office of Management and Budget, and the Department of State. An executive officer means the president of a company, any vice president in charge of a major business unit like sales or finance, any other officer who makes policy decisions, or an executive officer of a subsidiary company if they make policy decisions for the parent company. This does not include employees of fossil fuel companies who work in divisions that mainly focus on research or development of wind energy, solar energy, or other renewable energy sources. Fossil fuel means natural gas, coal, oil, gasoline, diesel fuel, or jet fuel. A fossil fuel entity means a company that extracts or produces fossil fuels. A fossil fuel lobbyist means a registered lobbyist who mainly lobbies for one or more fossil fuel companies or fossil fuel trade associations on issues related to extracting or producing fossil fuels. A fossil fuel trade association means a trade association that mainly represents one or more fossil fuel companies on issues related to extracting or producing fossil fuels.",
+      "word_offset": 24,
+      "char_offset": 130
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-of-appointment-of-fossil-fuel-executives-and-lobbyists",
+      "title": "Section 3  Prohibition of Appointment of Fossil Fuel Executives and Lobbyists",
+      "text": "No person who has worked as an executive officer of a fossil fuel company, a fossil fuel lobbyist, or an executive officer of a fossil fuel trade association during the ten years before their appointment can be appointed to serve as a covered department head or covered political appointee. They also cannot perform the duties of these positions in a temporary acting capacity.",
+      "word_offset": 376,
+      "char_offset": 2513
+    }
+  ]
+}

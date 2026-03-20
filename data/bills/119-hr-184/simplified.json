@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-184",
+  "title": "Action Versus No Action Act",
+  "short_title": "Action Versus No Action Act",
+  "congress": 119,
+  "bill_number": "HR.184",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Forestry and Horticulture.",
+  "version_hash": "95beba9de6998407",
+  "last_updated": "2026-03-20T13:56:44.349692+00:00",
+  "plain_summary": "This bill changes how government agencies study the environmental effects of forest management projects on public lands. Instead of looking at many different ways to manage the forest, agencies can only study two choices: doing the proposed forest work or doing nothing at all. This rule applies to forest projects that involve cutting trees and are in areas with insect problems, disease issues, or wildfire risks. When agencies study the \"do nothing\" option, they must look at how this might affect forest health, wildfire danger, and threats to people's lives and property.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-07",
+  "last_action_date": "2025-02-07",
+  "last_action_text": "Referred to the Subcommittee on Forestry and Horticulture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Environmental assessment, monitoring, research",
+    "Forests, forestry, trees",
+    "Wildlife conservation and habitat protection"
+  ],
+  "sponsor_name": "Rep. McClintock, Tom [R-CA-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "forest management",
+    "tree cutting",
+    "environmental study",
+    "wildfire prevention",
+    "forest health",
+    "insect damage",
+    "tree disease",
+    "public lands",
+    "forest projects",
+    "wildfire risk",
+    "forest conservation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Action Versus No Action Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-analysis-of-only-two-alternatives-action-versus-no-action-in-proposed-collaborative-forest-management-activities",
+      "title": "Section 2 Analysis of Only Two Alternatives (Action Versus No Action) in Proposed Collaborative Forest Management Activities",
+      "text": "When government officials want to do forest management work on certain public lands, they must study the environmental effects. This section tells them they can only look at two choices when studying these effects. This rule applies when the Secretary of Agriculture or Secretary of the Interior writes an environmental assessment or environmental impact statement (these are reports that study how projects might affect the environment) under the National Environmental Policy Act. The forest management work must happen on lands that the government has said are good for growing and cutting timber. The work must also meet at least one of these conditions. First, the work happens on lands that were designated under the Healthy Forests Restoration Act. Second, the work was developed through a collaborative process (this means the government worked with interested people and groups to plan the project). Third, the work was proposed by a resource advisory committee (this is a group of local people who advise the government on how to manage public lands). Fourth, the work is covered by a community wildfire protection plan (this is a local plan to reduce wildfire risks). When writing these environmental reports, government officials can only study and describe two alternatives. The first alternative is doing the proposed forest management activity. The second alternative is taking no action at all. When looking at the no action choice, officials should consider whether to study several things. They should look at how taking no action would affect forest health, potential losses of life and property, habitat diversity (the variety of places where animals and plants can live), wildfire potential, insect and disease potential, and timber production. They should also look at what happens if forest health gets worse, habitat diversity is lost, or wildfires or insect and disease problems occur. This includes studying potential losses of life and property, effects on local water supplies, wildlife habitat loss, and other economic and social factors. This section defines several important terms. A collaborative process means a way of managing National Forest System lands or public lands where the government works with interested people to develop and carry out projects. A community wildfire protection plan has the same meaning as defined in the Healthy Forests Restoration Act. A resource advisory committee has the same meaning as defined in the Secure Rural Schools and Community Self Determination Act. The Secretary concerned means the Secretary of Agriculture for National Forest System lands and the Secretary of the Interior for other public lands.",
+      "word_offset": 11,
+      "char_offset": 56
+    }
+  ]
+}

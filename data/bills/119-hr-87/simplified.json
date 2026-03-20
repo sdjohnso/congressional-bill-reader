@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-87",
+  "title": "Protecting Our Children from the CDC Act",
+  "short_title": "Protecting Our Children from the CDC Act",
+  "congress": 119,
+  "bill_number": "HR.87",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "33174b17bf53c898",
+  "last_updated": "2026-03-20T14:44:12.214692+00:00",
+  "plain_summary": "This bill says the CDC must publish all research data about COVID-19 vaccines on their website before they can recommend these shots for kids and teens. The research data must show how safe the vaccines are and how well they work. If any COVID-19 vaccines are already on the list of recommended shots for children, they would be taken off until all the data is made public. The bill is meant to make sure parents and doctors have access to all the vaccine information before children get these shots.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Cardiovascular and respiratory health",
+    "Child health",
+    "Government information and archives",
+    "Health information and medical records",
+    "Immunology and vaccination",
+    "Infectious and parasitic diseases",
+    "Internet, web applications, social media"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "CDC vaccine data",
+    "COVID vaccine kids",
+    "vaccine safety information",
+    "children coronavirus shots",
+    "CDC research transparency",
+    "vaccine data public",
+    "kids COVID vaccination",
+    "vaccine safety studies",
+    "children vaccine recommendations",
+    "COVID shot safety data",
+    "vaccine research disclosure",
+    "pediatric COVID vaccines"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting Our Children from the CDC Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-posting-of-all-clinical-data",
+      "title": "Section 2 Posting of All Clinical Data for COVID-19 Vaccines Before Placement on Child and Adolescent Schedule",
+      "text": "This section adds new rules to existing health laws. The Secretary of Health and Human Services and any part of the Department of Health and Human Services cannot put any COVID-19 vaccine on the list of recommended shots for children and teenagers. This includes the Centers for Disease Control and Prevention and the Advisory Committee of Immunization Practices (a group that makes recommendations about vaccines). They can only add a COVID-19 vaccine to this list after they post all the research data they have about how safe the vaccine is and how well it works. This includes information about any bad side effects. The Secretary must put all this data on the public website of the Centers for Disease Control and Prevention. When they post this information, they must remove any details that could identify specific people or the names of agency workers and companies that were involved in the research. Any COVID-19 vaccine that is already on the recommended shot list for children and teenagers when this law starts is automatically taken off that list. The Secretary must do whatever is needed to remove these vaccines from the list. Taking a vaccine off the list does not stop the Secretary from putting it back on the list later, as long as they follow the new rules in this law and other laws that apply. In this section, the words child and adolescent immunization schedule means the list of recommended vaccines for children and teenagers that is made by the Advisory Committee of Immunization Practices or any group that replaces it in the future.",
+      "word_offset": 13,
+      "char_offset": 69
+    }
+  ]
+}

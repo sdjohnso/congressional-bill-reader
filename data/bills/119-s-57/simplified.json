@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-s-57",
+  "title": "MAPLE Act",
+  "short_title": "MAPLE Act",
+  "congress": 119,
+  "bill_number": "S.57",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "version_hash": "b9f4aaa8d07dd59a",
+  "last_updated": "2026-03-20T14:57:24.262928+00:00",
+  "plain_summary": "The MAPLE Act changes a government program that helps low-income seniors buy food. The program gives seniors special coupons to shop at farmers markets and local farm stands. Right now, seniors can use these coupons to buy fresh fruits, vegetables, herbs, and honey. This new law adds maple syrup to the list of foods that seniors can buy with their coupons.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [
+    "Aging",
+    "Agricultural marketing and promotion",
+    "Food assistance and relief",
+    "Food supply, safety, and labeling",
+    "Fruit and vegetables",
+    "Poverty and welfare assistance",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Sen. Welch, Peter [D-VT]",
+  "sponsor_party": "D",
+  "sponsor_state": "VT",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "senior food assistance",
+    "farmers market coupons",
+    "elderly nutrition program",
+    "low income seniors food",
+    "maple syrup benefits",
+    "farm stand vouchers",
+    "senior citizen food stamps",
+    "fresh produce for seniors",
+    "local farm food program",
+    "elderly farmers market program"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Making Agricultural Products Locally Essential Act or the MAPLE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-maple-syrup-under-the-seniors-farmers-market-nutrition-program",
+      "title": "Section 2  Maple Syrup Under the Seniors Farmers' Market Nutrition Program",
+      "text": "This section changes an existing law called the Farm Security and Rural Investment Act of two thousand and two. The change adds maple syrup to the list of foods that seniors can buy with help from the seniors farmers' market nutrition program. The program already lets seniors buy herbs and other foods. Now maple syrup will be added to that list.",
+      "word_offset": 16,
+      "char_offset": 96
+    }
+  ]
+}

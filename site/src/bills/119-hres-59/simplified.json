@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hres-59",
+  "title": "Expressing the sense of the House of Representatives that the sermon given by the Right Reverend Mariann Edgar Budde at the National Prayer Service on January 21st, 2025, at the National Cathedral was a display of political activism and condemning its distorted message.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.59",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "1e5f6d6ea881bd19",
+  "last_updated": "2026-03-20T15:13:48.649829+00:00",
+  "plain_summary": "This resolution is about a sermon given by Bishop Mariann Edgar Budde at a prayer service on January 21, 2025. The House of Representatives believes the bishop's sermon was too political instead of being a proper religious message. The House is officially condemning what the bishop said during her sermon. They think she was acting more like a political activist than a religious leader during the prayer service.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "subjects": [
+    "Religion"
+  ],
+  "sponsor_name": "Rep. Brecheen, Josh [R-OK-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 22,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "bishop sermon controversy",
+    "National Cathedral prayer service",
+    "political activism church",
+    "Mariann Edgar Budde",
+    "House condemns bishop",
+    "religious leader politics",
+    "National Prayer Service 2025",
+    "church political speech",
+    "bishop criticism Congress",
+    "religious sermon backlash",
+    "National Cathedral January 2025"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "whereas-clauses",
+      "title": "Background Information",
+      "text": "The National Prayer Service is a long tradition where the United States publicly states that it depends on God and prays for the success of our President and Vice President. On January twenty first, two thousand twenty five, President Donald J. Trump and Vice President J.D. Vance attended the National Prayer Service at the National Cathedral in Washington, DC. The Right Reverend Mariann Edgar Budde is the bishop who led the prayer service at the inauguration. The House believes she used her position inappropriately by promoting political bias instead of teaching the full message of the Bible.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "resolution",
+      "title": "House Resolution",
+      "text": "The House of Representatives believes that the sermon given at the National Prayer Service on January twenty first, two thousand twenty five, at the National Cathedral was a display of political activism. The House of Representatives condemns the Right Reverend Mariann Edgar Budde's distorted message.",
+      "word_offset": 97,
+      "char_offset": 600
+    }
+  ]
+}

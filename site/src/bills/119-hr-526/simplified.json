@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-526",
+  "title": "Declaration of Energy Independence Act",
+  "short_title": "Declaration of Energy Independence Act",
+  "congress": 119,
+  "bill_number": "HR.526",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "1cd02cea19ca17c5",
+  "last_updated": "2026-03-20T11:12:41.393845+00:00",
+  "plain_summary": "This bill makes it much cheaper for oil and gas companies to drill on government land. It cuts the money companies have to pay the government from about 17% down to 12.5% of what they earn from the oil and gas. The bill also lowers the cost to rent the land from $15 per acre to just $1.50 per acre for the first five years. Companies can also get leases more easily without having to compete with other companies, and they can restart old canceled leases at lower costs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Ogles, Andrew [R-TN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "oil drilling",
+    "gas drilling",
+    "government land",
+    "public land",
+    "energy companies",
+    "drilling costs",
+    "oil leases",
+    "gas leases",
+    "energy independence",
+    "cheaper drilling",
+    "land rental fees",
+    "oil and gas profits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Declaration of Energy Independence Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amendments-to-mineral-leasing-act",
+      "title": "Section 2 Amendments to Mineral Leasing Act",
+      "text": "This section makes several changes to the existing Mineral Leasing Act, which controls how companies can lease federal land to extract oil and gas. The changes lower the royalty rate that companies must pay from sixteen and two-thirds percent to twelve and one-half percent of the oil and gas they extract. When companies want to bid on federal land for oil and gas extraction, the minimum bid amount is lowered from ten dollars per acre to two dollars per acre. The yearly rental fees companies pay are also reduced. For the first five years of a lease, companies will pay one dollar and fifty cents per acre per year instead of three dollars. After five years, they will pay two dollars per acre per year instead of fifteen dollars. The law removes a fee that people had to pay just to express interest in leasing land. Companies can now get non-competitive leases more easily. If no one bids on land at auction or the highest bid is too low, that land becomes available for non-competitive leasing within thirty days. Non-competitive leases allow qualified applicants to get leases without having to compete against other bidders. All leases under this system will last for ten years as the primary term and continue as long as oil or gas is being produced in paying quantities. The law also makes it easier to restart old leases that were canceled and creates new options for converting old mining claims into oil and gas leases.",
+      "word_offset": 11,
+      "char_offset": 67
+    }
+  ]
+}

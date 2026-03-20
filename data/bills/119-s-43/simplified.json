@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-43",
+  "title": "Skinny Labels, Big Savings Act",
+  "short_title": "Skinny Labels, Big Savings Act",
+  "congress": 119,
+  "bill_number": "S.43",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "7fcdb377dd6a0835",
+  "last_updated": "2026-03-20T14:46:38.836597+00:00",
+  "plain_summary": "The Skinny Labels, Big Savings Act protects generic drug companies from being sued for patent violations when they use special labels called \"skinny labels.\" These labels let generic companies sell their drugs by only listing the medical uses that are no longer protected by patents, while leaving out the uses that still have patent protection. A court case made it risky for companies to use skinny labels because they could still get sued, even when following the rules. This new law makes it clear that generic and biosimilar drug companies cannot be sued for patent violations when they properly use skinny labels approved by the FDA. This protection helps keep generic drugs available and affordable for patients.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Sen. Hickenlooper, John W. [D-CO]",
+  "sponsor_party": "D",
+  "sponsor_state": "CO",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "generic drugs",
+    "cheaper medicine",
+    "drug prices",
+    "affordable medication",
+    "patent lawsuits",
+    "generic drug companies",
+    "biosimilar drugs",
+    "FDA approved drugs",
+    "prescription drug costs",
+    "medicine patents",
+    "drug labeling rules",
+    "lower cost prescriptions"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Skinny Labels, Big Savings Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-safe-harbor-from-infringement",
+      "title": "Section 2 Safe Harbor from Infringement of a Method of Use Patent",
+      "text": "This section changes the existing patent law to protect generic drug and biosimilar companies from certain patent lawsuits. The new rules say that generic drug companies cannot be sued for patent infringement when they apply to make generic versions of brand name drugs, as long as they avoid the specific medical uses that are still under patent protection. They also cannot be sued for marketing their generic drugs or calling them generic versions of the original drug, as long as their labeling and advertising do not mention the patented medical uses. The same protections apply to biosimilar drugs, which are copies of complex biological medicines. These companies can apply for approval, market their products, and call them biosimilar to the original product without being sued for patent infringement, as long as they do not promote the specific medical uses that are still patented. The law defines several important terms including biological product, biosimilar, interchangeable, reference product, commercial marketing, labeling, and promoting using definitions from existing federal regulations. These new protections apply to all conduct that happened before, on, or after this law takes effect, and also apply to any court cases that are already in progress when the law goes into effect.",
+      "word_offset": 11,
+      "char_offset": 59
+    }
+  ]
+}

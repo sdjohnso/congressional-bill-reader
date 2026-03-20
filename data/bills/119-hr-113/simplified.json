@@ -1,0 +1,99 @@
+{
+  "bill_id": "119-hr-113",
+  "title": "Budget Process Enhancement Act",
+  "short_title": "Budget Process Enhancement Act",
+  "congress": 119,
+  "bill_number": "HR.113",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on the Budget, and in addition to the Committees on House Administration, and Oversight and Go",
+  "version_hash": "69fccc6ccda06b50",
+  "last_updated": "2026-03-20T13:35:43.694207+00:00",
+  "plain_summary": "This bill changes how Congress handles the federal budget in two main ways. First, it removes automatic increases for inflation when calculating how much the government expects to spend each year. Second, it creates penalties for Congress members and budget officials who miss important budget deadlines by holding back or canceling their paychecks. The goal is to make the budget process more accurate and encourage lawmakers to meet their deadlines.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on the Budget, and in addition to the Committees on House Administration, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in e",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Budget deficits and national debt",
+    "Budget process",
+    "Congressional oversight",
+    "Federal officials",
+    "Government employee pay, benefits, personnel management",
+    "Government studies and investigations",
+    "Members of Congress",
+    "Office of Management and Budget (OMB)"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal budget deadlines",
+    "congress paycheck penalties",
+    "budget process changes",
+    "lawmakers missing deadlines",
+    "government spending calculations",
+    "congressional budget reform",
+    "federal budget accuracy",
+    "congress member salaries",
+    "budget deadline enforcement",
+    "government budget improvements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Budget Process Enhancement Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-101-changes-in-the-baseline",
+      "title": "Section 101 Changes in the Baseline",
+      "text": "This section changes how the government calculates its baseline budget (the starting point for budget planning each year). The changes remove automatic increases that used to be built into the baseline. Now the baseline will only include money from the current year, not counting emergency funds or extra money from special laws. The section removes several paragraphs that used to allow for different types of adjustments. Most importantly, it adds a new rule that says no adjustments can be made for inflation or any other factors that might increase costs over time.",
+      "word_offset": 10,
+      "char_offset": 59
+    },
+    {
+      "id": "s3",
+      "slug": "section-201-holding-salaries-of-members-of-congress-in-escrow",
+      "title": "Section 201 Holding Salaries of Members of Congress in Escrow Upon Failure to Agree to Budget Resolution",
+      "text": "If either the House of Representatives or the Senate fails to agree on a budget plan for fiscal year two thousand twenty six by April fifteenth, two thousand twenty five, then the members of that chamber will not get their paychecks on time. Instead, their pay will be held in a special account (called an escrow account). The payroll office will keep their paychecks there starting April sixteenth, two thousand twenty five. The members will get their money back only when their chamber agrees to a budget plan or when the current Congress ends, whichever happens first. The payroll office will still take out the usual taxes and other deductions from the paychecks while they are being held. To follow the Constitution, any money still being held must be released to the members on the last day of the One Hundred Eighteenth Congress. The Treasury Secretary will help the payroll offices carry out this rule. This rule applies to all members of Congress, including delegates and the resident commissioner. The payroll administrator means the Chief Administrative Officer for the House of Representatives and the Secretary of the Senate for their respective chambers.",
+      "word_offset": 102,
+      "char_offset": 629
+    },
+    {
+      "id": "s4",
+      "slug": "section-202-determination-of-compliance-with-statutory-requirement",
+      "title": "Section 202 Determination of Compliance with Statutory Requirement to Submit the President's Budget",
+      "text": "The Inspector General of the Office of Personnel Management (a government watchdog official) must check whether the President and the Director of the Office of Management and Budget have submitted the required budget on time. The Inspector General has three days after the budget deadline to make this determination. The Inspector General must then write a letter explaining whether they followed the law and send it to the leaders of the budget and spending committees in both the House of Representatives and the Senate.",
+      "word_offset": 294,
+      "char_offset": 1798
+    },
+    {
+      "id": "s5",
+      "slug": "section-203-no-pay-upon-failure-to-timely-submit-budget",
+      "title": "Section 203 No Pay Upon Failure to Timely Submit the President's Budget to Congress",
+      "text": "If the Inspector General determines that the President's budget was submitted late, then three specific officials will not receive their paychecks during the period of noncompliance. These officials are the Director of the Office of Management and Budget, the Deputy Director of that office, and the Deputy Director for Management of that office. No money from the Treasury can be used to pay these officials during this time period. Even after the late period ends, these officials cannot receive back pay for the time when they were not in compliance with the budget submission deadline.",
+      "word_offset": 378,
+      "char_offset": 2321
+    },
+    {
+      "id": "s6",
+      "slug": "section-204-effective-date",
+      "title": "Section 204 Effective Date",
+      "text": "Sections two hundred two and two hundred three will start working as soon as this law is signed and enacted.",
+      "word_offset": 473,
+      "char_offset": 2911
+    }
+  ]
+}

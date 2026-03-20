@@ -1,0 +1,90 @@
+{
+  "bill_id": "119-hr-147",
+  "title": "FinCEN Oversight and Accountability Act of 2025",
+  "short_title": "FinCEN Oversight and Accountability Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.147",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "43f22db0e9714852",
+  "last_updated": "2026-03-20T13:38:28.827781+00:00",
+  "plain_summary": "This bill makes new rules for FinCEN, which is a government office that fights money crimes. The Treasury Department must tell Congress about what FinCEN is doing and share important FinCEN documents with the public. The bill also says Treasury officials must testify to Congress about FinCEN's money crime programs for five more years. Finally, FinCEN must meet with small business owners every year to help them understand the rules about reporting who owns their companies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [
+    "Congressional oversight",
+    "Congressional-executive branch relations",
+    "Fraud offenses and financial crimes",
+    "Government ethics and transparency, public corruption",
+    "Government information and archives",
+    "Government studies and investigations"
+  ],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "money laundering oversight",
+    "financial crimes reporting",
+    "small business ownership rules",
+    "government transparency",
+    "treasury department accountability",
+    "business reporting requirements",
+    "money crime investigation",
+    "congressional oversight",
+    "financial regulation",
+    "anti money laundering",
+    "business compliance help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-table-of-contents",
+      "title": "Section 1  Short Title; Table of Contents",
+      "text": "This law can be called the FinCEN Oversight and Accountability Act of twenty twenty five. FinCEN is short for Financial Crimes Enforcement Network, which is a government agency that fights financial crimes. The law has three main parts. The first part is about Congress watching over FinCEN. The second part is about making FinCEN more accountable to the public. The third part is about creating working groups for small businesses.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-101-information-for-constitutional-functions-of-congress",
+      "title": "Section 101  Information for Constitutional Functions of Congress",
+      "text": "The Secretary of the Treasury must keep two important Congressional committees fully informed about what FinCEN is doing. These committees are the House Committee on Financial Services and the Senate Committee on Banking, Housing, and Urban Affairs. The Secretary must tell them about any major activities that FinCEN plans to do. If FinCEN does anything illegal, the Secretary must quickly report this to both committees. The Secretary must also explain what steps have been taken or will be taken to fix the problem and prevent it from happening again.",
+      "word_offset": 70,
+      "char_offset": 433
+    },
+    {
+      "id": "s3",
+      "slug": "section-201-transparency-with-controlling-documents",
+      "title": "Section 201  Transparency with Controlling Documents",
+      "text": "A controlling document is any official record created by high level Treasury Department officials that gives power to FinCEN or its Director. These documents relate to how FinCEN carries out certain banking and financial crime laws, including the Bank Secrecy Act. The Secretary of the Treasury must quickly give copies of these documents to the two Congressional committees mentioned earlier. This includes documents that exist when this law starts, any new ones created later, and any changes made to existing documents. The Secretary must also make these documents available to the public, except for parts that contain sensitive information that the law allows to be kept secret. The Bank Secrecy Act includes several specific laws that require banks and other financial institutions to report certain transactions and keep records to help catch financial crimes.",
+      "word_offset": 159,
+      "char_offset": 988
+    },
+    {
+      "id": "s4",
+      "slug": "section-202-testimony-by-director-of-fincen",
+      "title": "Section 202  Testimony by the Director of FinCEN",
+      "text": "This section changes an existing law to extend how long the Director of FinCEN can serve in their position. The current law allows the Director to serve for up to five years. This new law changes that time limit to ten years.",
+      "word_offset": 293,
+      "char_offset": 1856
+    },
+    {
+      "id": "s5",
+      "slug": "section-301-small-business-working-groups",
+      "title": "Section 301  Small Business Working Groups",
+      "text": "This section requires FinCEN to hold a small business working group meeting every year. During these meetings, FinCEN will share information about how well beneficial ownership information is working. Beneficial ownership information means details about who really owns and controls a company. The meetings will help FinCEN and small businesses work together better. FinCEN will also use these meetings to help small businesses understand what they need to report about who owns their companies. No extra government money will be set aside to pay for these working group meetings.",
+      "word_offset": 335,
+      "char_offset": 2082
+    }
+  ]
+}

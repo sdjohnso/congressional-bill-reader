@@ -1,0 +1,98 @@
+{
+  "bill_id": "119-hr-312",
+  "title": "Restoring Vehicle Market Freedom Act of 2025",
+  "short_title": "Restoring Vehicle Market Freedom Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.312",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "cdb1d3df4edefb42",
+  "last_updated": "2026-03-20T11:23:24.073997+00:00",
+  "plain_summary": "This bill gets rid of tax credits that help people buy clean cars like electric vehicles and hybrid cars. Right now, people can get up to $4,000 off when buying a used clean car and up to $7,500 off a new one. Businesses can get up to $40,000 off when buying clean commercial vehicles. The bill also removes tax credits for installing charging stations and other refueling equipment for these clean vehicles.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Perry, Scott [R-PA-10]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "electric car tax credit",
+    "hybrid car discount",
+    "clean vehicle rebate",
+    "EV tax incentive",
+    "electric vehicle subsidy",
+    "car buying tax break",
+    "charging station tax credit",
+    "electric car savings",
+    "green vehicle incentive",
+    "clean car tax benefit"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Restoring Vehicle Market Freedom Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amendment-of-1986-code",
+      "title": "Section 2  Amendment of 1986 Code",
+      "text": "Unless this law says something different, when this law changes or removes a section, it is talking about a section in the Internal Revenue Code of nineteen eighty six. The Internal Revenue Code is the main tax law book that tells people and businesses how much tax they need to pay.",
+      "word_offset": 15,
+      "char_offset": 87
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-repeal-of-previously-owned-clean-vehicle-credit",
+      "title": "Section 3  Repeal of Previously Owned Clean Vehicle Credit",
+      "text": "This section removes the tax credit that people could get when they bought a used clean vehicle like an electric car. A tax credit is money that people can subtract from the taxes they owe. The law completely deletes section twenty five E from the tax code, which was the rule that allowed this credit. The law also removes references to this deleted section from other parts of the tax code to keep everything consistent. This change applies to any used clean vehicles that people buy after this law is passed.",
+      "word_offset": 66,
+      "char_offset": 371
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-repeal-of-alternative-motor-vehicle-credit",
+      "title": "Section 4  Repeal of Alternative Motor Vehicle Credit",
+      "text": "This section removes the tax credit for alternative motor vehicles. Alternative motor vehicles include cars that use different types of fuel or power instead of regular gasoline, like hybrid cars or fuel cell vehicles. The law completely deletes section thirty B from the tax code, which was the rule that allowed this credit. The law also removes references to this deleted section from other parts of the tax code to keep everything consistent. This change applies to any alternative vehicles that people buy after this law is passed.",
+      "word_offset": 157,
+      "char_offset": 883
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-repeal-of-alternative-fuel-vehicle-refueling-property-credit",
+      "title": "Section 5  Repeal of Alternative Fuel Vehicle Refueling Property Credit",
+      "text": "This section removes the tax credit for alternative fuel vehicle refueling property. This credit was for things like electric car charging stations or hydrogen fuel stations that people installed to refuel alternative vehicles. The law completely deletes section thirty C from the tax code, which was the rule that allowed this credit. The law also removes references to this deleted section from other parts of the tax code to keep everything consistent. This change applies to any refueling equipment that people install after this law is passed.",
+      "word_offset": 245,
+      "char_offset": 1420
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-repeal-of-new-qualified-plug-in-electric-drive-motor-vehicle-credit",
+      "title": "Section 6  Repeal of New Qualified Plug In Electric Drive Motor Vehicle Credit",
+      "text": "This section removes the tax credit for new electric cars that plug in to charge their batteries. This was one of the main tax credits that made electric cars cheaper for people to buy. The law completely deletes section thirty D from the tax code, which was the rule that allowed this credit. The law also removes references to this deleted section from many other parts of the tax code to keep everything consistent. However, the law keeps references to the old rules in a few places by adding notes that say the rules existed before this law was passed. This change applies to any new electric cars that people buy after this law is passed.",
+      "word_offset": 332,
+      "char_offset": 1969
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-repeal-of-credit-for-qualified-commercial-clean-vehicles",
+      "title": "Section 7  Repeal of Credit for Qualified Commercial Clean Vehicles",
+      "text": "This section removes the tax credit for qualified commercial clean vehicles. These are clean vehicles that businesses use for work, like electric delivery trucks or clean buses. The law completely deletes section forty five W from the tax code, which was the rule that allowed this credit. The law also removes references to this deleted section from other parts of the tax code to keep everything consistent. This change applies to any commercial clean vehicles that businesses buy after this law is passed.",
+      "word_offset": 448,
+      "char_offset": 2613
+    }
+  ]
+}

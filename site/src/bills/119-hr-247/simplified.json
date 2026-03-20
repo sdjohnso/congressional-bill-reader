@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-247",
+  "title": "Health Care Affordability Act of 2025",
+  "short_title": "Health Care Affordability Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.247",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "f8f03f6320cc673b",
+  "last_updated": "2026-03-20T14:49:11.296470+00:00",
+  "plain_summary": "The Health Care Affordability Act of 2025 makes it easier and cheaper for people to buy health insurance. Right now, only people who make less than a certain amount of money can get help paying for their health insurance, but this bill removes that limit so anyone can get help. The bill also makes sure people pay less of their own money for health insurance by keeping the payment amounts low. These changes were temporary before, but this bill makes them last forever.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Health care costs and insurance",
+    "Income tax credits",
+    "Tax administration and collection, taxpayers"
+  ],
+  "sponsor_name": "Rep. Underwood, Lauren [D-IL-14]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 165,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "health insurance help",
+    "cheaper health insurance",
+    "health insurance subsidies",
+    "lower health insurance costs",
+    "affordable healthcare",
+    "health insurance tax credits",
+    "health insurance for everyone",
+    "reduce health insurance payments",
+    "healthcare affordability",
+    "health insurance financial assistance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Health Care Affordability Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-in-eligibility-for-credit",
+      "title": "Section 2 Increase in Eligibility for Credit",
+      "text": "This section changes who can get help paying for health insurance through tax credits. Right now, people can only get this help if their income is less than four hundred percent of the poverty line (which means four times the official poverty income level). This bill removes that limit so people with higher incomes can also get help. The section also sets up a new table that shows how much people have to pay for health insurance based on their income. People earning up to one hundred fifty percent of the poverty line pay nothing. People earning between one hundred fifty and two hundred percent pay between zero and two percent of their income. People earning between two hundred and two hundred fifty percent pay between two and four percent. People earning between two hundred fifty and three hundred percent pay between four and six percent. People earning between three hundred and four hundred percent pay between six and eight and a half percent. People earning four hundred percent or more pay eight and a half percent of their income. The amount each person pays increases gradually within each income range. This section also removes some old rules that are no longer needed. These changes will start for tax years beginning after December thirty first, two thousand twenty five.",
+      "word_offset": 15,
+      "char_offset": 86
+    }
+  ]
+}

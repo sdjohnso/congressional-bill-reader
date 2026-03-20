@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-106",
+  "title": "LIST Act of 2025",
+  "short_title": "LIST Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.106",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "20627de584632285",
+  "last_updated": "2026-03-20T15:42:16.251766+00:00",
+  "plain_summary": "The LIST Act of 2025 changes the rules for the endangered species list. It requires the government to remove animals from the list when they have recovered or when the original decision to list them was based on wrong information. The bill also makes it easier to take species off the list by simplifying the removal process. If someone knowingly gives false information when asking to list a species, they cannot submit another request for 10 years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Administrative remedies",
+    "Department of the Interior",
+    "Endangered and threatened species",
+    "Government information and archives",
+    "Judicial review and appeals",
+    "Scientific communication"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "endangered species removal",
+    "taking animals off endangered list",
+    "species recovery",
+    "delisting animals",
+    "endangered species reform",
+    "removing species protections",
+    "wildlife list changes",
+    "species recovery rules",
+    "endangered animals list",
+    "wildlife protection changes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Less Imprecision in Species Treatment Act of 2025 or the LIST Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirement-to-initiate-delisting",
+      "title": "Section 2. Requirement to Initiate Delisting",
+      "text": "This section changes the Endangered Species Act by adding new requirements for removing animals and plants from the endangered species list. The Secretary (the government official in charge) must start the process to remove a species from the list if the recovery plan goals have been met or if there is no recovery plan but the Secretary decides the species has recovered enough that it no longer needs protection. The Secretary must also remove a species from the list if the Department of the Interior has strong scientific or business information showing that the species has recovered or met its recovery goals. When a species is removed for these reasons, the government only needs to publish a simple notice of removal. The section also requires that within ninety days of receiving information that shows a species was listed based on wrong, fake, or misleading scientific or business information, the Secretary must decide if the species would likely not have been listed if this bad information had not been used. If the Secretary finds that bad information was used, the species must be removed from the list and a notice must be published. People cannot challenge this positive finding in court, but they can challenge a negative finding. If someone knowingly submitted a petition with bad information that led to a positive finding, that person cannot submit petitions for ten years.",
+      "word_offset": 20,
+      "char_offset": 102
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-expanded-consideration-during-5-year-review",
+      "title": "Section 3. Expanded Consideration During 5-Year Review",
+      "text": "This section changes how the government reviews endangered species every five years. When making decisions during these reviews, the government must consider one of several things. First, they must look at the specific goals listed in the recovery plan for that species. If there are no clear measurable goals in the recovery plan, they must look at the original factors that made the species endangered or threatened in the first place. They can also look for errors in the original decision to list the species as endangered, threatened, or extinct. Finally, they can determine that the species is no longer endangered or threatened based on analyzing the same factors that were used to originally put it on the list.",
+      "word_offset": 250,
+      "char_offset": 1499
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "bill_id": "119-hres-19",
+  "title": "Providing the sense of the House of Representatives that the House should not adjourn until the annual appropriation bills within the jurisdiction of all the subcommittees of the Committee on Appropriations for the current fiscal year are enacted into law.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.19",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Appropriations.",
+  "version_hash": "4a00aa9f4be0e598",
+  "last_updated": "2026-03-20T14:12:10.598710+00:00",
+  "plain_summary": "This resolution says the House of Representatives should not go on break until they finish passing all the yearly spending bills for the government. The spending bills decide how much money the government can spend on different programs and services. Three representatives introduced this idea in January 2025 because they want to make sure Congress finishes this important work before taking time off. The resolution is meant to pressure lawmakers to complete their job of deciding how to spend taxpayer money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Referred to the House Committee on Appropriations.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Appropriations",
+    "Congressional operations and organization"
+  ],
+  "sponsor_name": "Rep. Ogles, Andrew [R-TN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government spending bills",
+    "congress vacation break",
+    "house representatives recess",
+    "taxpayer money budget",
+    "government funding",
+    "congress work schedule",
+    "spending bills deadline",
+    "house adjournment",
+    "government budget process",
+    "congressional breaks",
+    "yearly spending plans"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-text",
+      "title": "Resolution Text",
+      "text": "The House of Representatives believes that Congress should not take a break or end its work session until all the yearly spending bills are passed into law. These spending bills are created by different smaller groups within the Committee on Appropriations (the committee that decides how the government spends money). All of these spending bills must be finished and signed into law for the current budget year before the House can adjourn (officially end its work session).",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

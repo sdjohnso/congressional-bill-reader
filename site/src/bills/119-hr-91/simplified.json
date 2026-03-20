@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-hr-91",
+  "title": "Freedom for Farmers Act of 2025",
+  "short_title": "Freedom for Farmers Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.91",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "fae66ef49f1b6297",
+  "last_updated": "2026-03-20T12:43:26.624320+00:00",
+  "plain_summary": "This bill will shut down a government agency called the Agency for Toxic Substances and Disease Registry. This agency currently helps communities when they are exposed to dangerous chemicals or toxic substances. The agency will close one year after this law is passed. The bill moves the job of keeping records about diseases and toxic exposure to a different government agency. The bill also changes many other laws to remove mentions of the agency that will no longer exist.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Department of Health and Human Services",
+    "Environmental health",
+    "Executive agency funding and structure",
+    "Hazardous wastes and toxic substances"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "toxic substances agency",
+    "chemical exposure help",
+    "government agency shutdown",
+    "farmer regulations",
+    "environmental health agency",
+    "disease registry",
+    "toxic waste cleanup",
+    "chemical safety agency",
+    "environmental protection",
+    "hazardous materials",
+    "community health protection",
+    "government deregulation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law may be called the Freedom for Farmers Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-abolishment-of-agency-for-toxic-substances-and-disease-registry",
+      "title": "Section 2 Abolishment of Agency for Toxic Substances and Disease Registry",
+      "text": "The Agency for Toxic Substances and Disease Registry will be shut down one year after this law is passed. All of the work that this agency does will stop on that date, except for one specific job that will be moved to another part of the government. Before the agency is shut down, the Secretary of Health and Human Services must move one important job to another agency within the Department of Health and Human Services. This job involves keeping records of serious diseases and illnesses across the country and keeping records of people who have been exposed to toxic substances. The Secretary can also move money, employees, records, and other things needed to do this job to the new agency. During the year between when this law is passed and when the agency is shut down, the Secretary of Health and Human Services will be responsible for finishing up all the agency's work. This includes handling any remaining government promises or contracts the agency had and taking care of any other unfinished business before the agency closes completely.",
+      "word_offset": 14,
+      "char_offset": 80
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-conforming-amendments",
+      "title": "Section 3 Conforming Amendments",
+      "text": "This section changes many other existing laws to remove references to the Agency for Toxic Substances and Disease Registry since it will no longer exist. The changes update laws about environmental cleanup, toxic substances, fire safety, water pollution, public health, chemical testing, water infrastructure, port security, and waste disposal. In most cases, the changes simply remove mentions of the agency from lists of government organizations. In some cases, the changes shift responsibilities that the agency used to have to other parts of the government, particularly the Secretary of Health and Human Services or the Centers for Disease Control and Prevention. All of these changes will take effect on the same date that the agency is shut down, which is one year after this law is passed.",
+      "word_offset": 193,
+      "char_offset": 1132
+    }
+  ]
+}

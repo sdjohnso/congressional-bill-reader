@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-455",
+  "title": "Protecting Higher Education from Foreign Threats Act",
+  "short_title": "Protecting Higher Education from Foreign Threats Act",
+  "congress": 119,
+  "bill_number": "HR.455",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "f3f9e8337f8bdb0b",
+  "last_updated": "2026-03-20T12:10:13.112971+00:00",
+  "plain_summary": "This bill stops colleges and universities from getting federal money if they have teachers who are paid by the Chinese Communist Party while teaching students. If a school has teachers getting money from the Chinese Communist Party, the school will lose all federal funding. Schools can get their federal money back if they prove they no longer employ these teachers. The new rule starts 180 days after the law is signed.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Asia",
+    "China",
+    "Education programs funding",
+    "Higher education",
+    "Teaching, teachers, curricula"
+  ],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "chinese teachers",
+    "college funding",
+    "university money",
+    "foreign influence schools",
+    "china communist party",
+    "federal education funding",
+    "teachers paid by china",
+    "college professors china",
+    "university federal money",
+    "schools lose funding",
+    "chinese government teachers",
+    "education funding ban"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting Higher Education from Foreign Threats Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-employment-of-instructors-funded-by-the-chinese-communist-party",
+      "title": "Section 2  Prohibition on Employment of Instructors Funded by the Chinese Communist Party",
+      "text": "This section adds new rules to the Higher Education Act of nineteen sixty-five. The new rule says that colleges and universities cannot receive federal government money if they employ teachers who are paid by the Chinese Communist Party. A teacher paid by the Chinese Communist Party means any professor, teacher, or other person who teaches students at the college and who receives money directly or indirectly from the Chinese Communist Party while working at that college. If a college loses its federal funding because it employs such a teacher, it can get its funding back in a later year. To get funding back, the college must prove to the Secretary of Education that it no longer employs any teachers funded by the Chinese Communist Party.",
+      "word_offset": 13,
+      "char_offset": 81
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-effective-date",
+      "title": "Section 3  Effective Date",
+      "text": "The new rules in section two will start working one hundred eighty days after this law is signed.",
+      "word_offset": 138,
+      "char_offset": 828
+    }
+  ]
+}

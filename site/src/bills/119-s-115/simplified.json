@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-s-115",
+  "title": "GATE CRASHERS Act",
+  "short_title": "GATE CRASHERS Act",
+  "congress": 119,
+  "bill_number": "S.115",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "13b3180fe945481c",
+  "last_updated": "2026-03-20T12:54:47.092537+00:00",
+  "plain_summary": "The GATE CRASHERS Act makes it a federal crime to go onto Department of Defense property without permission when signs clearly show the area is closed or restricted. People who break this law will face jail time that gets longer with each offense. First-time offenders can get up to six months in jail, while repeat offenders can face up to ten years in prison. This law is meant to protect important military areas from people who should not be there.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Crimes against property",
+    "Criminal procedure and sentencing",
+    "Military facilities and property"
+  ],
+  "sponsor_name": "Sen. Cruz, Ted [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "military base trespassing",
+    "sneaking onto army base",
+    "illegal entry military property",
+    "pentagon security breach",
+    "defense department intrusion",
+    "unauthorized access military facilities",
+    "breaking into military areas",
+    "jail time trespassing army",
+    "prison sentence military property",
+    "repeat offender military crimes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Guarding and Administering Trespass Enforcement, Controlling Restricted Areas, and Stopping High-risk Encroachment Recidivism and Sabotage Act. It can also be called the GATE CRASHERS Act for short.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-unauthorized-access-to-department-of-defense-facilities",
+      "title": "Section 2  Unauthorized Access to Department of Defense Facilities",
+      "text": "This section adds a new crime to the federal law books. It will be against the law for anyone to go onto property that belongs to the Department of Defense without permission. This only applies to property that has clear signs showing it is closed or restricted to the public. People who break this law will face different punishments depending on how many times they have done it. For a first offense, a person can be fined or sent to jail for up to one hundred eighty days, or both. For a second offense, they can be fined or sent to prison for up to three years, or both. For a third offense or any time after that, they can be fined or sent to prison for up to ten years, or both. This new crime will be added to chapter sixty-seven of title eighteen of the United States Code as section thirteen ninety.",
+      "word_offset": 33,
+      "char_offset": 226
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-594",
+  "title": "Detain and Deport Illegal Aliens Who Assault Cops Act",
+  "short_title": "Detain and Deport Illegal Aliens Who Assault Cops Act",
+  "congress": 119,
+  "bill_number": "HR.594",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "944d0a7b7e191a55",
+  "last_updated": "2026-03-20T13:13:49.387725+00:00",
+  "plain_summary": "This bill says that if someone is in the United States without permission and hurts a police officer, firefighter, or other emergency worker, they must be arrested and held by immigration officials. The government cannot let these people go free while they wait for their court cases. The Department of Homeland Security would be in charge of holding these people instead of the Department of Justice. The goal is to make sure people who attack first responders are kept in jail and removed from the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Van Drew, Jefferson [R-NJ-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "illegal immigrants",
+    "undocumented immigrants",
+    "police officers",
+    "assault on cops",
+    "attacking police",
+    "emergency workers",
+    "firefighters",
+    "first responders",
+    "immigration detention",
+    "deportation",
+    "removing criminals",
+    "homeland security"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Detain and Deport Illegal Aliens Who Assault Cops Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-detention-of-certain-aliens-who-commit-assault-against-law-enforcement-officers",
+      "title": "Section 2 Detention of Certain Aliens Who Commit Assault Against Law Enforcement Officers",
+      "text": "This section changes an existing immigration law to require that certain people who are not US citizens must be held in detention if they assault police officers or other law enforcement. The changes apply to people who are not allowed to be in the United States under immigration law and who have been charged with, arrested for, convicted of, or admit to assaulting a law enforcement officer. The assault must happen while the officer was doing their job, because they were doing their job, or because of their role as a law enforcement officer. For this law, assault means whatever that word means in the place where it happened. Law enforcement officer means any person legally allowed to prevent crime, investigate crimes, arrest people, prosecute criminals, supervise people in jail, or work as a firefighter or other first responder. The Department of Homeland Security must issue a detainer order for these people and take them into custody quickly and effectively if they are not already being held by federal, state, or local authorities.",
+      "word_offset": 15,
+      "char_offset": 82
+    }
+  ]
+}

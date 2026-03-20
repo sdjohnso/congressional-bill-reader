@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-551",
+  "title": "Make the Migrant Protection Protocols Mandatory Act of 2025",
+  "short_title": "Make the Migrant Protection Protocols Mandatory Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.551",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "770dee93498f3e15",
+  "last_updated": "2026-03-20T13:11:14.529921+00:00",
+  "plain_summary": "This bill changes the rules about what happens to people who come to the US border from Mexico or Canada while they wait for their immigration case to be decided. Right now, the government can choose to either keep these people in detention centers in the US or send them back to Mexico or Canada to wait. This bill would require the government to always send them back to the neighboring country to wait instead of giving them a choice. The change is made by switching one word in the current law from \"may\" to \"shall\" which makes it required instead of optional.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Williams, Roger [R-TX-25]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 39,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border policy",
+    "immigration waiting",
+    "asylum seekers",
+    "Mexico border",
+    "Canada border",
+    "immigration detention",
+    "migrant protection",
+    "border security",
+    "immigration cases",
+    "asylum waiting period",
+    "border crossing",
+    "immigration court"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Make the Migrant Protection Protocols Mandatory Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-mandatory-implementation-of-the-migrant-protection-protocols",
+      "title": "Section 2. Mandatory Implementation of the Migrant Protection Protocols",
+      "text": "This section changes a rule in the Immigration and Nationality Act. The rule is found in section two hundred thirty five part b paragraph two subparagraph C. The change removes the word may and replaces it with the word shall. This means that the government must use the Migrant Protection Protocols instead of having a choice about whether to use them.",
+      "word_offset": 17,
+      "char_offset": 102
+    }
+  ]
+}

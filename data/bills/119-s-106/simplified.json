@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-s-106",
+  "title": "Chiropractic Medicare Coverage Modernization Act of 2025",
+  "short_title": "Chiropractic Medicare Coverage Modernization Act of 2025",
+  "congress": 119,
+  "bill_number": "S.106",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Finance.",
+  "version_hash": "0317b136ad09f0b6",
+  "last_updated": "2026-03-20T11:17:33.744114+00:00",
+  "plain_summary": "This bill changes Medicare rules to cover more services from chiropractors. Right now, Medicare only pays for chiropractors to adjust people's spines. The new law would let Medicare pay for any service that chiropractors are allowed to do in their state. Chiropractors would need to take a training class online before they can provide these extra services to Medicare patients.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Alternative treatments",
+    "Health care coverage and access",
+    "Health personnel",
+    "Licensing and registrations",
+    "Medicare",
+    "Musculoskeletal and skin diseases",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Sen. Cramer, Kevin [R-ND]",
+  "sponsor_party": "R",
+  "sponsor_state": "ND",
+  "cosponsor_count": 15,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "medicare chiropractor coverage",
+    "chiropractor medicare benefits",
+    "spine adjustment medicare",
+    "chiropractic services insurance",
+    "medicare alternative medicine",
+    "chiropractor training requirements",
+    "back pain medicare coverage",
+    "chiropractic care expansion",
+    "medicare modernization",
+    "chiropractor state licensing",
+    "medicare healthcare access"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Chiropractic Medicare Coverage Modernization Act of two thousand and twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings-statement-of-purpose",
+      "title": "Section 2  Findings and Statement of Purpose",
+      "text": "Congress has found several important facts. In nineteen seventy two, Medicare started covering chiropractic care for people who receive Medicare benefits. However, the old law limits people to only one type of service at chiropractic clinics. Medicare coverage for chiropractic services has not kept up with private insurance coverage or other government health programs. Today, there is good scientific evidence that chiropractic services work well and save money. Because of this, private insurance companies now cover more chiropractic services. States have also updated their rules about what chiropractors can do to better help patients and improve health results. This law would make Medicare coverage for chiropractic care more similar to what the Department of Veterans Affairs, Department of Defense, Federal Employee Health Benefits Program, and private health insurance companies provide. The purpose of this law is to expand how Medicare recognizes and covers doctors of chiropractic as physicians under the Medicare program. This would include not just the current service of using hands to adjust the spine to fix a misalignment, but any function or action that the state legally allows that doctor to perform.",
+      "word_offset": 17,
+      "char_offset": 109
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-providing-medicare-coverage-for-all-physicians-services-furnished-by-doctors-of-chiropractic-within-the-scope-of-their-license",
+      "title": "Section 3  Providing Medicare Coverage for All Physicians' Services Furnished by Doctors of Chiropractic Within the Scope of Their License",
+      "text": "The law changes how Medicare defines doctors of chiropractic. Instead of the current limited definition, it will now include any doctor of chiropractic who has a license from the state where they work. Their license must legally allow them to perform the function or action they are doing in that state or area. However, there are some limits on payment for services from doctors of chiropractic. Medicare will only pay for these services if one of two conditions is met. First, the services must be provided by a doctor of chiropractic who has completed a training webinar or similar online program designed by the Secretary of Health and Human Services. This training only needs to be completed once and verified through a process the Secretary creates. Second, the services can be the traditional treatment of using hands to adjust the spine to fix a misalignment, which was already covered before.",
+      "word_offset": 202,
+      "char_offset": 1334
+    }
+  ]
+}

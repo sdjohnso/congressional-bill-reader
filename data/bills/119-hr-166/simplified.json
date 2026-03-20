@@ -1,0 +1,92 @@
+{
+  "bill_id": "119-hr-166",
+  "title": "Fair Lending for All Act",
+  "short_title": "Fair Lending for All Act",
+  "congress": 119,
+  "bill_number": "HR.166",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "721304c54c062745",
+  "last_updated": "2026-03-20T13:24:42.566866+00:00",
+  "plain_summary": "The Fair Lending for All Act makes it illegal for lenders to treat people unfairly based on who they are or where they live. The law adds new protections for people based on their sexual orientation, gender identity, and location. It creates criminal punishments for lenders who break these rules. The bill also creates a new government office to test whether lenders are following the law and gives regulators more power to check loan applications.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Green, Al [D-TX-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "lending discrimination",
+    "loan fairness",
+    "LGBTQ lending rights",
+    "mortgage discrimination",
+    "bank loan equality",
+    "credit discrimination",
+    "fair housing loans",
+    "sexual orientation lending",
+    "gender identity loans",
+    "neighborhood redlining",
+    "loan application bias",
+    "banking equality"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Fair Lending for All Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-office-of-fair-lending-testing",
+      "title": "Section 2 Office of Fair Lending Testing",
+      "text": "This section creates a new office called the Office of Fair Lending Testing. This office will be part of the Bureau of Consumer Financial Protection. The office will have a director who serves for five years. The director will be chosen by the head of the Consumer Financial Protection Bureau. The director can hire workers and ask for money to run the office. The director's job is a permanent government position. The office will test whether lenders follow the Equal Credit Opportunity Act. They will do this by having people pretend to apply for loans to see if lenders treat people fairly. These test applicants will not actually want loans. They will just gather information about how lenders behave. If the office finds that a lender broke the law, they must tell the Attorney General in writing so the Attorney General can take action. The office must also report to Congress each year about their testing work and any criminal cases that happened.",
+      "word_offset": 11,
+      "char_offset": 53
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-on-credit-discrimination",
+      "title": "Section 3 Prohibition on Credit Discrimination",
+      "text": "This section changes the Equal Credit Opportunity Act to make the rules against unfair lending stronger. It will be illegal to treat people unfairly when they apply for credit based on their race, color, religion, national origin, sex including sexual orientation and gender identity, marital status, or age if they are old enough to sign contracts. It will also be illegal to discriminate based on someone's ZIP code or census tract where they live. Lenders cannot treat people badly because some of their income comes from government assistance programs. Lenders also cannot punish people for using their rights under consumer credit protection laws. The section also changes some words in the law. Instead of just protecting applicants, the law will protect any person. It creates a new definition for aggrieved person which means someone who was hurt by unfair credit practices or someone who believes they will be hurt by such practices.",
+      "word_offset": 174,
+      "char_offset": 1010
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-criminal-penalties",
+      "title": "Section 4 Criminal Penalties for Violations of the Equal Credit Opportunity Act",
+      "text": "This section adds criminal punishments for people who break the Equal Credit Opportunity Act on purpose. If someone knowingly and willfully violates the law, they can be fined up to fifty thousand dollars or sent to prison for up to one year or both. If someone repeatedly breaks the law as a pattern, they can be fined up to one hundred thousand dollars for each violation or sent to prison for up to twenty years or both. Company executives and board members who cause their companies to repeatedly break the law on purpose can face special punishments. They can be fined up to one hundred percent of their pay including stock options from the time they broke the law or from one to three years before the violations were discovered. They can also be sent to prison for up to five years.",
+      "word_offset": 326,
+      "char_offset": 1953
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-review-of-loan-applications",
+      "title": "Section 5 Review of Loan Applications",
+      "text": "This section gives the Consumer Financial Protection Bureau new power to review loan applications and the process lenders use to handle applications. The Bureau must check that these applications and processes do not break the Equal Credit Opportunity Act or other federal consumer financial laws. If the Bureau finds that a loan application or process breaks the law, they can stop the lender from using it. The Bureau can also take other enforcement actions against the lender as they think is appropriate.",
+      "word_offset": 468,
+      "char_offset": 2743
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-mortgage-data-collection",
+      "title": "Section 6 Mortgage Data Collection",
+      "text": "This section changes the Home Mortgage Disclosure Act to require lenders to collect more information about mortgage applicants and borrowers. Lenders must now collect data about applicants' ZIP codes, census tracts, income levels, race, color, religion, national origin, sex, marital status, sexual orientation, gender identity, and age. The Bureau can decide what specific data is needed and how to protect people's privacy while still meeting the law's goals.",
+      "word_offset": 550,
+      "char_offset": 3252
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-128",
+  "title": "Fentanyl is a WMD Act",
+  "short_title": "Fentanyl is a WMD Act",
+  "congress": 119,
+  "bill_number": "HR.128",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Emergency Management and Technology.",
+  "version_hash": "540a46fbc23a3ef7",
+  "last_updated": "2026-03-20T11:01:55.018673+00:00",
+  "plain_summary": "This bill says that illegal fentanyl must be treated as a weapon of mass destruction. A special office at the Department of Homeland Security has to classify fentanyl this way. Once fentanyl gets this classification, the government will handle it using the same rules they use for other dangerous weapons that can hurt many people. This means the government will use stronger methods to fight against illegal fentanyl.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Subcommittee on Emergency Management and Technology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [
+    "Chemical and biological weapons",
+    "Drug, alcohol, tobacco use",
+    "Law enforcement administration and funding"
+  ],
+  "sponsor_name": "Rep. Boebert, Lauren [R-CO-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "CO",
+  "cosponsor_count": 11,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "fentanyl",
+    "drug crisis",
+    "opioid epidemic",
+    "deadly drugs",
+    "drug trafficking",
+    "homeland security",
+    "weapon of mass destruction",
+    "illegal drugs",
+    "drug enforcement",
+    "dangerous substances",
+    "drug deaths",
+    "overdose crisis"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Fentanyl is a WMD Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-treatment-of-illicit-fentanyl-as-a-weapon-of-mass-destruction",
+      "title": "Section 2 Treatment of Illicit Fentanyl as a Weapon of Mass Destruction",
+      "text": "The Assistant Secretary for the Countering Weapons of Mass Destruction Office at the Department of Homeland Security must treat illegal fentanyl as a weapon of mass destruction. This person must follow the rules in title nineteen of the Homeland Security Act of two thousand and two when dealing with illegal fentanyl. A weapon of mass destruction is something that can cause widespread death and destruction.",
+      "word_offset": 11,
+      "char_offset": 50
+    }
+  ]
+}

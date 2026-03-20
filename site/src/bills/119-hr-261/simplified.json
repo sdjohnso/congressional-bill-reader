@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-hr-261",
+  "title": "Undersea Cable Protection Act of 2025",
+  "short_title": "Undersea Cable Protection Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.261",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "version_hash": "1a92b4b3eba537d0",
+  "last_updated": "2026-03-20T11:57:11.539724+00:00",
+  "plain_summary": "This bill makes it easier to install and maintain underwater internet and phone cables in protected ocean areas called national marine sanctuaries. If another government agency has already given permission for cable work, the Department of Commerce cannot require extra permits or stop the work. The bill covers activities like putting in new cables, fixing broken cables, and removing old cables from these protected waters. It also lets government agencies work together better when cable projects might affect protected ocean resources.",
+  "current_status": "committee_reported",
+  "status_date": "2025-07-02",
+  "last_action_date": "2026-02-12",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Broadcasting, cable, digital technologies",
+    "Marine and coastal resources, fisheries"
+  ],
+  "sponsor_name": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "underwater internet cables",
+    "ocean cable protection",
+    "marine sanctuary permits",
+    "undersea fiber optic cables",
+    "internet cable repairs",
+    "protected ocean areas",
+    "underwater phone cables",
+    "ocean cable installation",
+    "marine sanctuary regulations",
+    "submarine cable maintenance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Undersea Cable Protection Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-prohibiting-or-requiring-permits-for-undersea-fiber-optic-cables",
+      "title": "Section 2  Prohibition on Prohibiting, or Requiring Permits or Other Authorizations for, Undersea Fiber Optic Cables Authorized by a Federal or State Agency",
+      "text": "This section changes the National Marine Sanctuaries Act by adding a new section called three hundred ten A. The new section says that the Secretary of Commerce cannot stop or require special permits for undersea fiber optic cables in national marine sanctuaries (protected ocean areas) under certain conditions. If a federal or state agency has already given permission through a license, lease, or permit for installing, keeping, operating, maintaining, fixing, or removing undersea fiber optic cables, then the Secretary of Commerce cannot block these activities or demand additional permits. The cables that carry internet and phone signals under the ocean would be protected from extra government restrictions. However, this new rule does not change existing requirements for government agencies to work together when making decisions about cable activities in marine sanctuaries.",
+      "word_offset": 14,
+      "char_offset": 80
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-removing-restrictions-on-activities-covered-by-sanctuary-special-use-permits",
+      "title": "Section 3  Removing Restrictions on Activities Covered by Sanctuary Special Use Permits",
+      "text": "This section changes section three hundred ten of the National Marine Sanctuaries Act by removing some restrictions. It strikes out two paragraphs that limited what activities could be covered by special use permits in marine sanctuaries. The changes make it easier to get special permits for activities in these protected ocean areas by removing some of the previous limitations.",
+      "word_offset": 145,
+      "char_offset": 966
+    }
+  ]
+}

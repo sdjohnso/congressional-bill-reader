@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-623",
+  "title": "LICENSE Act of 2025",
+  "short_title": "LICENSE Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.623",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Highways and Transit.",
+  "version_hash": "f5fafdbce9d941c8",
+  "last_updated": "2026-03-20T14:50:05.507722+00:00",
+  "plain_summary": "The LICENSE Act of 2025 makes it easier to get a commercial driver's license by changing the testing rules. The bill lets more people give the written test to truck drivers, including anyone who already has the right training and certification. It also lets any state give the driving test to commercial license applicants, even if they live in a different state. The Transportation Secretary has ninety days to update these rules to make the whole process work better.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the Subcommittee on Highways and Transit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. LaHood, Darin [R-IL-16]",
+  "sponsor_party": "R",
+  "sponsor_state": "IL",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "commercial driver's license",
+    "truck driver license",
+    "CDL testing",
+    "driver license test",
+    "trucking license requirements",
+    "commercial driving test",
+    "truck driver certification",
+    "easier CDL process",
+    "driver testing rules",
+    "commercial license across states"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Licensing Individual Commercial Exam-takers Now Safely and Efficiently Act of twenty twenty-five or the LICENSE Act of twenty twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modifications-to-certain-commercial-drivers-license-regulations",
+      "title": "Section 2 Modifications to Certain Commercial Driver's License Regulations",
+      "text": "Within ninety days after this law is passed, the Secretary of Transportation must work with the Administrator of the Federal Motor Carrier Safety Administration to make two changes to the rules. First, they must change the rules about who can give the written test for a commercial driver's license (a special license needed to drive large trucks and buses). The person giving the test must have three things: a valid certification to give commercial driver's license tests, completion of a training course for testing commercial driving skills that meets specific requirements, and completion of one unit of special instruction. Second, they must change the rules to allow any state to give the actual driving test to anyone applying for a commercial driver's license, no matter which state the person lives in or where they learned to drive.",
+      "word_offset": 25,
+      "char_offset": 166
+    }
+  ]
+}

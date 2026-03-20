@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-535",
+  "title": "Inaugural Fund Integrity Act",
+  "short_title": "Inaugural Fund Integrity Act",
+  "congress": 119,
+  "bill_number": "HR.535",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, ",
+  "version_hash": "1e466a6aa7e3b7b0",
+  "last_updated": "2026-03-20T13:07:19.495981+00:00",
+  "plain_summary": "This bill creates new rules for the groups that organize presidential inauguration ceremonies. These committees can no longer accept money from businesses or people from other countries. Individual people can only donate up to fifty thousand dollars, and the committees must keep detailed records of all the money they receive and spend. The committees also have to report this information to the Federal Election Commission and cannot use the donated money for personal expenses.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for cons",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Elections, voting, political campaign regulation",
+    "Government ethics and transparency, public corruption",
+    "Government information and archives",
+    "Presidents and presidential powers, Vice Presidents"
+  ],
+  "sponsor_name": "Rep. Scanlon, Mary Gay [D-PA-5]",
+  "sponsor_party": "D",
+  "sponsor_state": "PA",
+  "cosponsor_count": 13,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "presidential inauguration",
+    "inauguration donations",
+    "foreign money ban",
+    "campaign finance",
+    "donation limits",
+    "presidential ceremony funding",
+    "inauguration committees",
+    "political donations",
+    "election money rules",
+    "inauguration spending"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Inaugural Fund Integrity Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitations-and-disclosure-of-certain-donations",
+      "title": "Section 2 Limitations and Disclosure of Certain Donations to, and Disbursements by, Inaugural Committees",
+      "text": "This section changes the Federal Election Campaign Act of 1971 by adding new rules for inaugural committees. Inaugural committees are groups that raise money to pay for presidential inauguration ceremonies. The new rules say inaugural committees cannot take money from businesses, organizations, labor unions, or foreign citizens. Only individual Americans can donate money to these committees. It is also against the law for someone to donate money using another person's name, or to use donated money for personal expenses. However, inaugural committees can still give leftover money to tax-exempt charities. Individual people can donate no more than fifty thousand dollars total to an inaugural committee. This amount will be adjusted for inflation starting in two thousand thirty two. Inaugural committees must report any donation of one thousand dollars or more within twenty four hours of receiving it. The report must include how much money was donated, when it was received, and the name and address of the person who gave it. Within ninety days after the inauguration ceremony, the committee must file a final report. This report must list all donations of two hundred dollars or more with the donor's name and address. It must also list all money spent by the committee, including operating expenses, loan payments, refunds, and any other spending over two hundred dollars. The report must include the names and addresses of people who received these payments. A donation means any gift of money or valuable items, loans, or paying someone else's salary to work for the committee without charge. It does not include volunteer work done for free. A foreign national means someone who is not a United States citizen. This law removes an old reporting requirement and makes it so committees can only be official inaugural committees if they follow these new rules. These changes will apply to inaugural committees for inaugurations starting in two thousand twenty nine.",
+      "word_offset": 10,
+      "char_offset": 57
+    }
+  ]
+}

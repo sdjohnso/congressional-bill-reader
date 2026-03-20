@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-267",
+  "title": "Health Care PRICE Transparency Act",
+  "short_title": "Health Care PRICE Transparency Act",
+  "congress": 119,
+  "bill_number": "HR.267",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "286febfdf787a8e8",
+  "last_updated": "2026-03-20T11:28:00.009138+00:00",
+  "plain_summary": "This bill makes hospitals and insurance companies share their prices with the public. Hospitals must post online what they charge for medical services, including the prices they give to insurance companies and people who pay cash. Insurance companies must create online tools that let people look up how much medical care will cost them before they get treatment. The goal is to help people understand and compare healthcare prices so they can make better choices about their medical care.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Civil actions and liability",
+    "Consumer affairs",
+    "Health care costs and insurance",
+    "Health care coverage and access",
+    "Hospital care",
+    "Prescription drugs"
+  ],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "hospital prices",
+    "healthcare costs",
+    "medical bills",
+    "insurance prices",
+    "price transparency",
+    "healthcare pricing",
+    "medical expenses",
+    "hospital charges",
+    "insurance coverage costs",
+    "healthcare price comparison",
+    "medical cost lookup",
+    "health insurance prices"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Health Care Prices Revealed and Information to Consumers Explained Transparency Act or the Health Care PRICE Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-price-transparency-requirements",
+      "title": "Section 2 Price Transparency Requirements",
+      "text": "This section changes existing healthcare laws to make hospitals and insurance companies share their prices with the public. For hospitals, they must post a list of their standard prices in plain language that anyone can read and access for free. The list must be in a computer-readable format. Hospitals must include a description of each service they provide, their full price before any discounts, the special prices they negotiate with different insurance companies, the lowest and highest negotiated prices without naming the insurance companies, the cash price for people paying out of pocket, and any billing codes they use. Hospitals must also create online price tools for at least three hundred services that people can shop around for, or as many services as they offer if they provide fewer than three hundred. These tools must let people estimate what they will have to pay without requiring them to give personal information or pay fees. The tools must be easy to find on the hospital's website. If hospitals do not follow these rules, they can be fined up to three hundred dollars per day until they fix the problem. For insurance companies, they must provide detailed cost information to their members including what they pay doctors and hospitals for services, what they allow for out-of-network care, and drug prices. Insurance companies must create online tools that let people search for cost information by provider or service area and see what their out-of-pocket costs will be. They must also provide this information in paper form within two business days if someone requests it. The tools must show people their estimated costs, how much they have already spent toward their deductible, the rates the insurance company pays providers, and important warnings about billing and coverage limits. These rules apply to all group health plans and individual insurance policies, not just those sold on government exchanges.",
+      "word_offset": 24,
+      "char_offset": 154
+    }
+  ]
+}

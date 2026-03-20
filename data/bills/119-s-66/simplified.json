@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-66",
+  "title": "Transparency in Bureaucratic Communications Act",
+  "short_title": "Transparency in Bureaucratic Communications Act",
+  "congress": 119,
+  "bill_number": "S.66",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "6d60ba2cfa6d51fe",
+  "last_updated": "2026-03-20T14:52:22.147216+00:00",
+  "plain_summary": "This bill makes government watchdogs called Inspector Generals write reports about talks between government agencies and social media companies. The reports must tell Congress about any conversations government workers had with companies like Facebook or Twitter about removing posts or changing what people can see online. The government must also report if they talked to these companies about the computer programs and tools the companies use to decide what content to show users. These reports will help Congress know when the government is talking to social media companies about controlling what people post or see online.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Sen. Schmitt, Eric [R-MO]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government social media censorship",
+    "facebook twitter government talks",
+    "social media content removal",
+    "inspector general reports",
+    "government agency communications",
+    "social media company meetings",
+    "online content control",
+    "transparency in government",
+    "social media oversight",
+    "government influence social media",
+    "content moderation government",
+    "bureaucracy social media"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Transparency in Bureaucratic Communications Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-inspector-general-act-of-1978",
+      "title": "Section 2 Inspector General Act of 1978",
+      "text": "This section changes the law that governs Inspector Generals. Inspector Generals are government watchdogs who investigate problems in government agencies. The law is being changed to add a new requirement. Inspector Generals must now report to Congress about any communications between their government agency and social media companies or internet service providers. These reports must include detailed descriptions of what was said and the specific situations when these communications happened. The reports must cover three types of communications. First, any discussions about content moderation, which means decisions about what posts or content to remove or keep on social media platforms. Second, any communications about user content like posts, photos, and videos that people share online. Third, any other communications about how these internet companies handle data, use computer programs called algorithms to make decisions, create models and simulations, use analysis tools, or any similar technology tools.",
+      "word_offset": 11,
+      "char_offset": 76
+    }
+  ]
+}

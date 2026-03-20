@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-558",
+  "title": "Tip Tax Termination Act",
+  "short_title": "Tip Tax Termination Act",
+  "congress": 119,
+  "bill_number": "HR.558",
+  "introduced_date": "2025-01-20",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "6efea061f7d978a8",
+  "last_updated": "2026-03-20T13:17:34.338855+00:00",
+  "plain_summary": "This bill lets workers who get tips pay less in taxes. If you work in jobs like restaurants, hotels, or hair salons where tips are part of your pay, you can exclude up to twenty thousand dollars of your tips from being taxed each year. The tax break only lasts for five years, from two thousand twenty five to two thousand twenty nine. The government will also change how much tax is taken out of your paycheck to account for this new rule.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-20",
+  "last_action_date": "2025-01-20",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Bacon, Don [R-NE-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "tip tax relief",
+    "restaurant worker tax break",
+    "waitress tax exemption",
+    "server tips not taxed",
+    "hotel worker tax benefits",
+    "hair salon tip taxes",
+    "service worker tax cut",
+    "twenty thousand tip exclusion",
+    "tip income tax free",
+    "food service tax relief"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Tip Tax Termination Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exclusion-from-gross-income-of-certain-tipped-wages",
+      "title": "Section 2 Exclusion From Gross Income Of Certain Tipped Wages",
+      "text": "This section changes the tax code to help workers who receive tips. Workers can exclude up to twenty thousand dollars of their eligible tips from their income when calculating their taxes each year. Eligible tips are money received while working in jobs that normally depend on tips as part of pay. This includes jobs in cosmetology (hair and beauty services), hospitality (hotels and similar services), and food service (restaurants and similar businesses). Workers cannot use the same tip money that is excluded from taxes to claim other tax deductions or credits, with two exceptions. They can still count this tip money when calculating the child tax credit and the earned income credit. This tax benefit ends on December thirty first, two thousand twenty nine, meaning it only applies to tips received through that date. The Treasury Department must update the tax withholding tables and procedures to account for this new tip exclusion. The changes apply to tips received after December thirty first, two thousand twenty four.",
+      "word_offset": 10,
+      "char_offset": 52
+    }
+  ]
+}

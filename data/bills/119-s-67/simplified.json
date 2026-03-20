@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-s-67",
+  "title": "Censorship Accountability Act",
+  "short_title": "Censorship Accountability Act",
+  "congress": 119,
+  "bill_number": "S.67",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "61838f1949d2fd63",
+  "last_updated": "2026-03-20T15:16:53.049685+00:00",
+  "plain_summary": "The Censorship Accountability Act lets people sue federal government workers who violate their free speech rights. If a government employee stops someone from speaking or expressing themselves when they should be allowed to under the First Amendment, that person can take the employee to court. The law applies to most government workers except the President and Vice President. If someone wins their case, the court can make the government worker pay their lawyer fees.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "Civil actions and liability",
+    "First Amendment rights",
+    "Government employee pay, benefits, personnel management",
+    "Lawyers and legal services"
+  ],
+  "sponsor_name": "Sen. Schmitt, Eric [R-MO]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government censorship",
+    "free speech violation",
+    "sue government workers",
+    "first amendment lawsuit",
+    "government employee accountability",
+    "censorship lawsuit",
+    "free speech rights",
+    "government silencing people",
+    "federal worker censorship",
+    "speech violation lawsuit",
+    "government restricting speech",
+    "first amendment protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Censorship Accountability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-right-of-action-against-federal-employees",
+      "title": "Section 2 Right of Action Against Federal Employees for Violations of Rights Secured by the First Amendment to the Constitution of the United States",
+      "text": "This section explains who counts as a federal employee and what happens when they violate someone's free speech rights. A federal employee means any person who works for the federal government in the executive branch (the part of government that includes the President and all government agencies), except for the President and Vice President themselves. This includes people who work for independent agencies within the executive branch. If a federal employee uses their government position or authority to take away or harm someone's First Amendment rights (like free speech, freedom of religion, or freedom of the press), that employee can be personally sued by the person who was harmed. The person who was hurt can take the federal employee to court to get money or other help to fix the harm that was done. However, a federal employee cannot sue their own government agency or the federal government for things they did as part of their job. In court cases under this law, the judge can decide to make the losing side pay the winning side's lawyer fees, unless the United States government is the winning side. If any part of this section is found to be against the Constitution by a court, the rest of the section will still be valid and enforceable.",
+      "word_offset": 9,
+      "char_offset": 58
+    }
+  ]
+}

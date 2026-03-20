@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-131",
+  "title": "Finish the Arkansas Valley Conduit Act",
+  "short_title": "Finish the Arkansas Valley Conduit Act",
+  "congress": 119,
+  "bill_number": "HR.131",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "On motion to refer the bill and the accompanying veto message to the Committee on Natural Resources. Agreed to without o",
+  "version_hash": "4415ac00d88e8085",
+  "last_updated": "2026-03-20T16:01:10.858251+00:00",
+  "plain_summary": "This law is about a water pipeline project in Colorado called the Arkansas Valley Conduit. The pipeline will bring water from a reservoir to communities in the Arkansas River Valley. The law makes it easier for these communities to pay for the pipeline by reducing how much they have to pay and giving them more time to pay it back. Communities will pay thirty five percent of the total cost and have up to seventy five years to pay, with lower interest rates if they have money problems.",
+  "current_status": "vetoed",
+  "status_date": "2025-12-29",
+  "last_action_date": "2026-01-08",
+  "last_action_text": "The Chair directed the Clerk to notify the Senate of the action of the House.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": false,
+  "vetoed": true,
+  "policy_area": "Water Resources Development",
+  "subjects": [
+    "Colorado",
+    "Pipelines",
+    "Water resources funding",
+    "Water use and supply"
+  ],
+  "sponsor_name": "Rep. Boebert, Lauren [R-CO-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "CO",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Arkansas Valley water project",
+    "Colorado water pipeline",
+    "rural water supply",
+    "community water funding",
+    "water infrastructure Colorado",
+    "Arkansas River water",
+    "pipeline payment plan",
+    "water project financing",
+    "Colorado water delivery",
+    "rural communities water access"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Finish the Arkansas Valley Conduit Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-arkansas-valley-conduit-colorado",
+      "title": "Section 2  Arkansas Valley Conduit, Colorado",
+      "text": "This section changes an existing law called Public Law eighty seven dash five ninety. The changes remove some language about payment requirements for the Arkansas Valley Conduit and replace it with new rules. The Arkansas Valley Conduit is a water pipeline project in Colorado. Under the new rules, the conduit will help provide drinking water to communities and homes that do not have reliable water supplies. The contract for building this conduit will require payment of thirty five percent of the total cost, even if other water laws say something different. These payments will come from two sources. First, any money provided by groups other than the federal government during construction. Second, if the Secretary determines there is financial hardship, the remaining balance can be paid back over up to seventy five years. The interest rate will be half of whatever rate the Treasury Secretary sets under a different part of the law. This can include money earned from contracts that use extra capacity in the pipeline or exchange contracts using facilities from the Fryingpan Arkansas project. The contract will also require the parties who sign it to take care of operating, maintaining, and replacing the conduit. The section also makes a small change to refer to the correct part of the law.",
+      "word_offset": 12,
+      "char_offset": 67
+    }
+  ]
+}

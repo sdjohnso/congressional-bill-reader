@@ -1,0 +1,84 @@
+{
+  "bill_id": "119-hjres-13",
+  "title": "Proposing an amendment to the Constitution of the United States limiting the pardon power of the President.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.13",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "6da830a34218fe2c",
+  "last_updated": "2026-03-20T13:41:38.065261+00:00",
+  "plain_summary": "This bill would change the Constitution to limit when the President can pardon people. The President would not be allowed to pardon themselves, their family members, people who work in their administration, or paid campaign workers. The President also could not pardon anyone who committed crimes to help the President or because the President told them to. Any pardons given for corrupt reasons would not count. Congress would have the power to make sure these new rules are followed.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Constitution and constitutional amendments",
+    "Criminal procedure and sentencing",
+    "Elections, voting, political campaign regulation",
+    "Family relationships",
+    "Federal officials",
+    "Government ethics and transparency, public corruption",
+    "Presidents and presidential powers, Vice Presidents"
+  ],
+  "sponsor_name": "Rep. Cohen, Steve [D-TN-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "TN",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "presidential pardons",
+    "president pardon power",
+    "self pardon ban",
+    "family pardon limits",
+    "corrupt pardons",
+    "presidential immunity",
+    "pardon abuse",
+    "constitution amendment pardons",
+    "president cannot pardon themselves",
+    "campaign worker pardons",
+    "government corruption pardons",
+    "pardon reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution-title",
+      "title": "Joint Resolution Title",
+      "text": "This is a joint resolution that proposes changing the Constitution of the United States to limit the President's power to pardon people.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "constitutional-amendment-proposal",
+      "title": "Constitutional Amendment Proposal",
+      "text": "The Senate and House of Representatives agree that the following change should be added to the Constitution. This change will only become part of the Constitution if three fourths of all state legislatures vote to approve it.",
+      "word_offset": 22,
+      "char_offset": 137
+    },
+    {
+      "id": "s3",
+      "slug": "section-1-pardon-restrictions",
+      "title": "Section 1 Pardon Restrictions",
+      "text": "The President cannot grant pardons or reprieves (temporary relief from punishment) to the following people. First, the President cannot pardon himself or herself. Second, the President cannot pardon any family member up to third degree relation or their spouses. Third degree relation means parents, grandparents, children, grandchildren, siblings, aunts, uncles, nieces, and nephews. Third, the President cannot pardon anyone who currently works or used to work in the President's administration. Fourth, the President cannot pardon anyone who worked as a paid employee on the President's campaign for president. Fifth, the President cannot pardon any person or organization for crimes that were done because they would directly and significantly benefit the President personally or financially. Sixth, the President cannot pardon any person or organization for crimes that were done at the President's direction or working together with the President. Any pardon that is given for corrupt purposes will not be valid.",
+      "word_offset": 59,
+      "char_offset": 363
+    },
+    {
+      "id": "s4",
+      "slug": "section-2-enforcement-power",
+      "title": "Section 2 Enforcement Power",
+      "text": "Congress will have the power to make laws to enforce this constitutional amendment.",
+      "word_offset": 209,
+      "char_offset": 1382
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-72",
+  "title": "TBI and PTSD Treatment Act",
+  "short_title": "TBI and PTSD Treatment Act",
+  "congress": 119,
+  "bill_number": "HR.72",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Health.",
+  "version_hash": "5b7215fdbf9816bf",
+  "last_updated": "2026-03-20T14:20:11.484866+00:00",
+  "plain_summary": "This bill requires the Department of Veterans Affairs to provide a special medical treatment called hyperbaric oxygen therapy to veterans. Veterans who have brain injuries or post-traumatic stress disorder would be able to get this treatment. The treatment involves breathing pure oxygen in a special pressurized chamber to help heal the brain. The VA would provide this therapy through approved doctors and healthcare providers in their system.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Alternative treatments",
+    "Health care coverage and access",
+    "Mental health",
+    "Neurological disorders",
+    "Veterans' medical care"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans medical treatment",
+    "brain injury therapy",
+    "PTSD treatment",
+    "oxygen therapy",
+    "veterans healthcare",
+    "traumatic brain injury",
+    "post traumatic stress",
+    "hyperbaric oxygen",
+    "veterans mental health",
+    "alternative medicine veterans",
+    "pressurized oxygen treatment",
+    "brain healing therapy"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the TBI and PTSD Treatment Act. TBI stands for traumatic brain injury, which is damage to the brain from an outside force like a blow or jolt. PTSD stands for post-traumatic stress disorder, which is a mental health condition that can develop after experiencing or witnessing a traumatic event.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-hyperbaric-oxygen-therapy",
+      "title": "Section 2 Hyperbaric Oxygen Therapy for Veterans with Traumatic Brain Injury or Post-Traumatic Stress Disorder",
+      "text": "This section changes the laws about veterans' health care. It adds a new rule that says the Secretary of Veterans Affairs must provide hyperbaric oxygen therapy to certain veterans. Hyperbaric oxygen therapy is a medical treatment where a person breathes pure oxygen while inside a pressurized chamber. The Secretary must provide this treatment to veterans who have either traumatic brain injury or post-traumatic stress disorder. The treatment must be given through approved health care providers that work with the Veterans Affairs system. This section also updates the official list of sections in the veterans' health care law to include this new requirement.",
+      "word_offset": 54,
+      "char_offset": 318
+    }
+  ]
+}

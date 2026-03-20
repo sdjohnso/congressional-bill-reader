@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-34",
+  "title": "LASSO Act",
+  "short_title": "LASSO Act",
+  "congress": 119,
+  "bill_number": "HR.34",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Federal Lands.",
+  "version_hash": "2d820fef4b174a76",
+  "last_updated": "2026-03-20T15:01:47.241481+00:00",
+  "plain_summary": "The LASSO Act is a law that takes some money from federal lands and puts it toward Social Security. Every year, the government collects money from activities like drilling, mining, and logging on public lands owned by the federal government. This new law says that 10 percent of that money must go into the Social Security Trust Fund to help pay benefits to retired people and their families. The law makes sure that agencies cannot raise their prices or take money away from states and local communities to make up for this change.",
+  "current_status": "referred_to_committee",
+  "status_date": "2026-02-03",
+  "last_action_date": "2026-02-10",
+  "last_action_text": "Subcommittee Hearings Held",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Government trust funds",
+    "Social security and elderly assistance"
+  ],
+  "sponsor_name": "Rep. Gosar, Paul A. [R-AZ-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 14,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "social security funding",
+    "public lands money",
+    "drilling revenue",
+    "mining money",
+    "logging fees",
+    "federal land income",
+    "social security benefits",
+    "retirement money",
+    "government land profits",
+    "social security trust fund"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Land And Social Security Optimization Act or the LASSO Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-public-land-revenue-for-social-security-trust-fund",
+      "title": "Section 2 Public Land Revenue For Social Security Trust Fund",
+      "text": "Every year, ten percent of the money that the Department of the Interior and Department of Agriculture collect from activities on covered public lands must be put into the Social Security Trust Fund. This is the special account where Social Security money is kept. This rule applies no matter what other laws say. The money that gets deposited comes from what was collected in the previous year. However, this law does not allow the Secretary of the Interior or Secretary of Agriculture to raise prices for activities that happen on these public lands. It also does not reduce the money that normally goes to states, Indian tribes, territories, or local governments from public land activities. Covered public lands means any land that is managed by the Department of the Interior, including underwater lands on the Outer Continental Shelf, or any land managed by the Forest Service.",
+      "word_offset": 16,
+      "char_offset": 87
+    }
+  ]
+}

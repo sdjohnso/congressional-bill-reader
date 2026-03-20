@@ -1,0 +1,186 @@
+{
+  "bill_id": "119-hr-634",
+  "title": "Ninth Circuit Court of Appeals Judgeship and Reorganization Act of 2025",
+  "short_title": "Ninth Circuit Court of Appeals Judgeship and Reorganization Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.634",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "492f5a51d0951f34",
+  "last_updated": "2026-03-20T11:50:11.285847+00:00",
+  "plain_summary": "This bill breaks up the Ninth Circuit Court of Appeals into two smaller courts because it has become too big. The current Ninth Circuit covers many western states, but this bill would create a new court called the Twelfth Circuit. The new Ninth Circuit would only have California, Hawaii, Guam, and Northern Mariana Islands. The new Twelfth Circuit would have Alaska, Arizona, Idaho, Montana, Nevada, Oregon, and Washington. The bill also adds more judges to both courts and explains how to move existing cases and judges to the right court.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "Alaska",
+    "Arizona",
+    "California",
+    "Federal appellate courts",
+    "Guam",
+    "Hawaii",
+    "Idaho",
+    "Judges",
+    "Judicial procedure and administration",
+    "Montana",
+    "Nevada",
+    "Northern Mariana Islands",
+    "Oregon",
+    "U.S. territories and protectorates",
+    "Washington State"
+  ],
+  "sponsor_name": "Rep. Simpson, Michael K. [R-ID-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "ID",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "ninth circuit court",
+    "split court of appeals",
+    "western states court",
+    "california court system",
+    "federal court reorganization",
+    "too many judges",
+    "court jurisdiction change",
+    "west coast appeals court",
+    "judicial reform",
+    "court system restructure"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Ninth Circuit Court of Appeals Judgeship and Reorganization Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, the following words have special meanings. The former ninth circuit means the ninth judicial circuit of the United States as it existed the day before this law takes effect. The new ninth circuit means the ninth judicial circuit of the United States that is created by the changes made in section three paragraph two part A. The twelfth circuit means the twelfth judicial circuit of the United States that is created by the changes made in section three paragraph two part B.",
+      "word_offset": 19,
+      "char_offset": 114
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-number-and-composition-of-circuits",
+      "title": "Section 3  Number and Composition of Circuits",
+      "text": "Section forty one of title twenty eight of the United States Code is changed as follows. In the part before the table, the word thirteen is removed and replaced with fourteen. In the table, the row about the ninth circuit is removed and replaced with this: Ninth circuit includes California, Guam, Hawaii, and Northern Mariana Islands. After the row about the eleventh circuit, this new row is added: Twelfth circuit includes Alaska, Arizona, Idaho, Montana, Nevada, Oregon, and Washington.",
+      "word_offset": 104,
+      "char_offset": 603
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-judgeships",
+      "title": "Section 4  Judgeships",
+      "text": "For new judgeships, the President must appoint two additional circuit judges for the former ninth circuit, with the advice and consent of the Senate. The official duty station of a judge appointed under this paragraph must be in Arizona, California, or Nevada. The President must also appoint three circuit judges for the new ninth circuit, with the advice and consent of the Senate. The judges authorized by this paragraph cannot be appointed before January twenty first, twenty twenty five. For temporary judgeships, the President must appoint two additional circuit judges for the former ninth circuit, with the advice and consent of the Senate. The official duty station of a judge appointed under this paragraph must be in Arizona, California, or Nevada. The first two vacancies that happen on the new ninth circuit ten years or more after judges are first confirmed to fill both temporary circuit judgeships created by this part will not be filled. This section takes effect on the date this Act is signed into law.",
+      "word_offset": 183,
+      "char_offset": 1094
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-number-of-circuit-judges",
+      "title": "Section 5  Number of Circuit Judges",
+      "text": "The table in section forty four part a of title twenty eight of the United States Code is changed as follows. The row about the ninth circuit is removed and replaced with this: Ninth circuit gets twenty five judges. After the row about the eleventh circuit, this new row is added: Twelfth circuit gets nine judges.",
+      "word_offset": 351,
+      "char_offset": 2116
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-places-of-circuit-court",
+      "title": "Section 6  Places of Circuit Court",
+      "text": "The table in section forty eight part a of title twenty eight of the United States Code is changed as follows. The row about the ninth circuit is removed and replaced with this: Ninth circuit court sits in Honolulu, San Francisco, and Pasadena. After the row about the eleventh circuit, this new row is added: Twelfth circuit court sits in Phoenix and Seattle.",
+      "word_offset": 407,
+      "char_offset": 2431
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-assignment-of-circuit-judges",
+      "title": "Section 7  Assignment of Circuit Judges",
+      "text": "Except as provided in part b, each circuit judge of the former ninth circuit who is in regular active service and whose official duty station on the day before this Act takes effect is in California, Guam, Hawaii, or the Northern Mariana Islands will be a circuit judge of the new ninth circuit as of that effective date. Each circuit judge whose official duty station is in Alaska, Arizona, Idaho, Montana, Nevada, Oregon, or Washington will be a circuit judge of the twelfth circuit as of that effective date. Special rule to ensure proper distribution of judges: If assigning judges under part a would result in too many judges in either the new ninth circuit or the twelfth circuit compared to the number provided for that circuit in the table in section forty four part a of title twenty eight of the United States Code as changed by section five of this Act, then a number of judges equal to that excess who are the least senior in commission will be assigned to the other circuit.",
+      "word_offset": 470,
+      "char_offset": 2792
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-election-of-assignment-by-senior-judges",
+      "title": "Section 8  Election of Assignment by Senior Judges",
+      "text": "Each judge who is a senior circuit judge of the former ninth circuit on the day before this Act takes effect may choose to be assigned to the new ninth circuit or to the twelfth circuit as of that effective date. The judge must notify the Director of the Administrative Office of the United States Courts of this choice.",
+      "word_offset": 646,
+      "char_offset": 3780
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-seniority-of-judges",
+      "title": "Section 9  Seniority of Judges",
+      "text": "The seniority of each judge who is assigned under section seven or who chooses to be assigned under section eight will run from the date of commission of that judge as a judge of the former ninth circuit.",
+      "word_offset": 705,
+      "char_offset": 4101
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-application-to-cases",
+      "title": "Section 10  Application to Cases",
+      "text": "The following rules apply to any case in which, on the day before this Act takes effect, an appeal or other proceeding has been filed with the former ninth circuit. If the matter has been submitted for decision, further proceedings with respect to the matter will be had in the same manner and with the same effect as if this Act had not been enacted. If the matter has not been submitted for decision, the appeal or proceeding, together with the original papers, printed records, and record entries duly certified, will, by appropriate orders, be transferred to the court to which the matter would have been submitted had this Act been in full force and effect at the time such appeal was taken or other proceeding commenced. Further proceedings with respect to the case will be had in the same manner and with the same effect as if the appeal or other proceeding had been filed in such court. A petition for rehearing or a petition for rehearing en banc (by the full court) in a matter decided before this Act takes effect, or submitted before this Act takes effect and decided on or after such effective date as provided in paragraph one, will be treated in the same manner and with the same effect as though this Act had not been enacted. If a petition for rehearing en banc is granted, the matter will be reheard by a court comprised as though this Act had not been enacted.",
+      "word_offset": 743,
+      "char_offset": 4306
+    },
+    {
+      "id": "s11",
+      "slug": "section-11-temporary-assignment-of-circuit-judges-between-circuits",
+      "title": "Section 11  Temporary Assignment of Circuit Judges Between Circuits",
+      "text": "Section two hundred ninety one of title twenty eight of the United States Code is changed by adding the following new parts at the end. The chief judge of the ninth circuit may, in the public interest and upon request by the chief judge of the twelfth circuit, designate and assign temporarily any circuit judge of the ninth circuit to act as circuit judge in the twelfth circuit. The chief judge of the twelfth circuit may, in the public interest and upon request by the chief judge of the ninth circuit, designate and assign temporarily any circuit judge of the twelfth circuit to act as circuit judge in the ninth circuit.",
+      "word_offset": 992,
+      "char_offset": 5686
+    },
+    {
+      "id": "s12",
+      "slug": "section-12-temporary-assignment-of-district-judges-between-circuits",
+      "title": "Section 12  Temporary Assignment of District Judges Between Circuits",
+      "text": "Section two hundred ninety two of title twenty eight of the United States Code is changed by adding the following new parts at the end. The chief judge of the ninth circuit may in the public interest, upon request by the chief judge of the twelfth circuit, designate and assign one or more district judges within the ninth circuit to sit upon the Court of Appeals of the Twelfth Circuit or a division thereof whenever the business of that court so requires. The chief judge may also designate and assign temporarily any district judge of the ninth circuit to hold a district court in any district within the twelfth circuit. The chief judge of the twelfth circuit may in the public interest, upon request by the chief judge of the ninth circuit, designate and assign one or more district judges within the twelfth circuit to sit upon the Court of Appeals of the Ninth Circuit or a division thereof whenever the business of that court so requires. The chief judge may also designate and assign temporarily any district judge of the twelfth circuit to hold a district court in any district within the ninth circuit. Any designation and assignment of a judge under these provisions must follow the rules or orders of the court of appeals of the circuit to which the judge is designated and assigned.",
+      "word_offset": 1103,
+      "char_offset": 6312
+    },
+    {
+      "id": "s13",
+      "slug": "section-13-administrative-coordination",
+      "title": "Section 13  Administrative Coordination",
+      "text": "Section three hundred thirty two of title twenty eight of the United States Code is changed by adding the following new part at the end. Any two neighboring circuits may work together to carry out administrative functions and activities that the judicial councils of the two circuits determine may benefit from coordination or consolidation.",
+      "word_offset": 1330,
+      "char_offset": 7609
+    },
+    {
+      "id": "s14",
+      "slug": "section-14-administration",
+      "title": "Section 14  Administration",
+      "text": "The United States Court of Appeals for the Ninth Circuit as it exists on the day before this Act takes effect may take whatever administrative action is needed to carry out this Act and the changes made by this Act. This court will stop existing for administrative purposes at the end of the two year period beginning on the effective date of this Act.",
+      "word_offset": 1384,
+      "char_offset": 7951
+    },
+    {
+      "id": "s15",
+      "slug": "section-15-effective-date",
+      "title": "Section 15  Effective Date",
+      "text": "Except as provided in section four part c, this Act and the changes made by this Act will take effect on the first day of the first fiscal year that begins after the end of the nine month period beginning on the first date on which five of the judges authorized to be appointed under section four have been confirmed by the United States Senate.",
+      "word_offset": 1448,
+      "char_offset": 8304
+    },
+    {
+      "id": "s16",
+      "slug": "section-16-authorization-of-appropriations",
+      "title": "Section 16  Authorization of Appropriations",
+      "text": "Congress is authorized to provide whatever money is necessary to carry out this Act, including funds for additional court facilities.",
+      "word_offset": 1513,
+      "char_offset": 8650
+    }
+  ]
+}

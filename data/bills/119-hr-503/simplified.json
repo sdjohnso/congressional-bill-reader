@@ -1,0 +1,72 @@
+{
+  "bill_id": "119-hr-503",
+  "title": "Qualified Immunity Act of 2025",
+  "short_title": "Qualified Immunity Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.503",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "391909f64808e2ef",
+  "last_updated": "2026-03-20T13:05:46.177410+00:00",
+  "plain_summary": "This bill makes special legal protection for police officers a permanent law. It says that people cannot sue police officers in court if the officers did not clearly break a well-known rule or if another court already said that what the officers did was okay. The protection applies to all police officers whether they work for cities, states, or the federal government. The bill also says that police departments and local governments cannot be sued if their officers have this protection.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "subjects": [
+    "Civil actions and liability",
+    "Constitution and constitutional amendments",
+    "Due process and equal protection",
+    "Government liability",
+    "Law enforcement officers"
+  ],
+  "sponsor_name": "Rep. Foxx, Virginia [R-NC-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 24,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "police protection from lawsuits",
+    "suing police officers",
+    "police immunity",
+    "can't sue cops",
+    "police legal protection",
+    "government worker immunity",
+    "police department lawsuits",
+    "officer liability protection",
+    "police misconduct lawsuits",
+    "law enforcement immunity"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Qualified Immunity Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress believes the following things. First, qualified immunity is meant to protect all government workers except those who are clearly incompetent or those who know they are breaking the law. It gives government workers room to make reasonable mistakes about facts and law. Second, the Supreme Court has said that qualified immunity balances two important needs. One need is to hold police officers responsible when they use their power badly. The other need is to protect officers from being bothered, distracted, and sued when they do their jobs in a reasonable way.",
+      "word_offset": 14,
+      "char_offset": 79
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-codification-of-qualified-immunity",
+      "title": "Section 3  Codification of Qualified Immunity",
+      "text": "This section changes an existing law called Section nineteen seventy nine of the Revised Statutes. The changes add new rules about when law enforcement officers can be sued. A law enforcement officer being sued personally cannot be found guilty if they can prove one of two things. First, the right protected by the Constitution or federal law was not clearly established when the officer violated it, or the law was not clear enough that every reasonable officer would have known the conduct was wrong. Second, a court with proper authority had made a final decision saying that the specific conduct was allowed under the Constitution and federal laws, and that decision was never overturned or canceled. If the officer cannot be found guilty under these rules, then the police department or local government that employed the officer also cannot be held responsible, as long as the officer was doing their job duties. The law defines law enforcement officer as any federal, state, tribal, or local official who is allowed by law to prevent crime, investigate crime, or put people in jail for breaking laws, and who has the legal power to arrest people. This includes police officers and other law enforcement workers. Law enforcement agency means any federal, state, tribal, or local public agency that supervises, prevents, investigates crime, or puts people in jail for breaking laws, and has the legal power to arrest people. These changes will take effect one hundred eighty days after this law is passed.",
+      "word_offset": 106,
+      "char_offset": 651
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-356",
+  "title": "District of Columbia Prosecutor Home Rule Act",
+  "short_title": "District of Columbia Prosecutor Home Rule Act",
+  "congress": 119,
+  "bill_number": "HR.356",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "930303886f2901e6",
+  "last_updated": "2026-03-20T15:30:41.166334+00:00",
+  "plain_summary": "This bill would give Washington DC the power to handle all criminal cases that happen in the city through their own local prosecutor's office. Right now, the federal government prosecutes most crimes in DC while the local government only handles some cases involving young people and minor violations. Under this new law, DC would take over prosecuting all crimes that break DC laws, just like other cities do. Federal workers who switch to work for the new DC prosecutor's office would still keep their federal health insurance, retirement, and other benefits.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Criminal investigation, prosecution, interrogation",
+    "Criminal procedure and sentencing",
+    "District of Columbia",
+    "Government employee pay, benefits, personnel management",
+    "Intergovernmental relations",
+    "Law enforcement administration and funding",
+    "Legislative rules and procedure",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+  "sponsor_party": "D",
+  "sponsor_state": "DC",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "DC prosecutor",
+    "Washington DC crime",
+    "local prosecutor",
+    "DC criminal cases",
+    "federal prosecution DC",
+    "Washington prosecutor office",
+    "DC local control",
+    "district attorney DC",
+    "DC court system",
+    "Washington crime prosecution",
+    "DC government control",
+    "local vs federal prosecution"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the District of Columbia Prosecutor Home Rule Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-responsibility-of-local-prosecutors-office",
+      "title": "Section 2 Responsibility of Local Prosecutor's Office for Conduct of All District of Columbia Prosecutions",
+      "text": "This section changes who handles criminal cases in Washington DC. Part A changes the DC law to say that all criminal cases for breaking DC laws, city rules, and local regulations must be handled by the head of a local prosecutor's office chosen by DC's own government. This local prosecutor or their assistants will take people to court in the name of the District of Columbia. The local prosecutor's office is whichever office DC's local government picks to handle these cases. This change does not affect the power of the US Attorney General or the federal prosecutor for DC to handle cases involving federal crimes. Part B says these changes will start one year after DC passes a local law choosing which prosecutor's office will handle these cases. Part C protects federal workers who currently work for the federal prosecutor in DC. If these workers move to the new local prosecutor's office, they will keep getting their federal government benefits like health insurance and retirement plans. The new local prosecutor's office will be treated as their employer for these benefits, but the benefits will still be federal benefits.",
+      "word_offset": 13,
+      "char_offset": 74
+    }
+  ]
+}

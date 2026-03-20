@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-357",
+  "title": "Back to Work Act",
+  "short_title": "Back to Work Act",
+  "congress": 119,
+  "bill_number": "HR.357",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "d30f3192563ff87b",
+  "last_updated": "2026-03-20T15:59:43.170373+00:00",
+  "plain_summary": "The Back to Work Act limits how often federal government workers can work from home to no more than 40 percent of their work days. Workers who work from home will have their pay reduced because they will not get certain pay raises that other workers get. The bill requires agencies to watch workers from home using computer monitoring and review their work agreements every year. Government agencies must report to Congress each year about how well working from home is going and what problems they are having. Some workers like military spouses or those with special jobs may be allowed to work from home more often.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Commuting",
+    "Computers and information technology",
+    "Congressional oversight",
+    "Government employee pay, benefits, personnel management"
+  ],
+  "sponsor_name": "Rep. Nunn, Zachary [R-IA-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal employees working from home",
+    "government workers remote work limits",
+    "work from home restrictions",
+    "federal telework rules",
+    "government employee pay cuts",
+    "remote work monitoring",
+    "federal worker home office",
+    "government telework policy",
+    "work from home percentage limits",
+    "federal employee computer surveillance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Back to Work Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modification-of-telework-requirements-for-federal-employees",
+      "title": "Section 2 Modification of Telework Requirements for Federal Employees",
+      "text": "This section changes the rules for federal employees who work from home. Under the new rules, federal employees can only work from home for up to forty percent of their work days in each two-week pay period. This means they must work in the office for at least sixty percent of their work days. The head of each government agency must review and approve telework agreements every year. Agencies must also monitor and check on employees when they are working from home using technology and other methods. Agency heads can make the telework limit even stricter for certain employees. They might limit telework more for employees who need to see classified information often, new employees, or managers. However, agency heads can allow more telework in special cases. These exceptions include employees married to military members or federal law enforcement officers, employees with highly specialized skills or who travel frequently for work, employees in hard-to-fill positions, or when bad weather or emergencies prevent employees from getting to the office. Federal employees who work from home will have restrictions on their pay. They cannot receive annual pay increases that other federal employees get. They will only receive the basic locality pay rate for the Rest of United States area, which is typically lower than rates for specific cities or regions. Each government agency must send a report to Congress every year starting one year after this law takes effect. The report must explain how the agency measures the productivity of employees who work from home, what problems the agency faces in enforcing the forty percent limit, any negative effects of telework like increased costs or security problems, and what actions the agency took based on recommendations from their Inspector General about telework. The Government Accountability Office must review each agency report and write their own report about whether the agency report is accurate and complete. These changes will start one hundred eighty days after this law is signed.",
+      "word_offset": 10,
+      "char_offset": 45
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-346",
+  "title": "Preserving Choice in Vehicle Purchases Act",
+  "short_title": "Preserving Choice in Vehicle Purchases Act",
+  "congress": 119,
+  "bill_number": "HR.346",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "d3fb5fae1652c8c1",
+  "last_updated": "2026-03-20T11:05:32.979492+00:00",
+  "plain_summary": "This bill stops states from making rules that would ban or limit the sale of new cars and trucks that run on gasoline or diesel fuel. It changes the law so that the EPA cannot give permission to states that want to phase out these traditional vehicles. The bill also cancels any permissions the EPA already gave to states between January 2022 and when this bill becomes law if those permissions affect gas and diesel vehicles. The goal is to make sure people can still buy cars and trucks with regular engines instead of being forced to buy only electric vehicles.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Rep. Joyce, John [R-PA-13]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gas cars ban",
+    "diesel truck ban",
+    "electric vehicle mandate",
+    "car purchase choice",
+    "EPA vehicle rules",
+    "state gas car restrictions",
+    "gasoline engine ban",
+    "vehicle sales limits",
+    "electric car requirements",
+    "traditional car sales",
+    "combustion engine vehicles",
+    "automotive freedom"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Preserving Choice in Vehicle Purchases Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-state-standards",
+      "title": "Section 2  State Standards",
+      "text": "This section changes the Clean Air Act to add new rules about what states can do regarding car sales. The changes add a new rule that says the Environmental Protection Agency cannot approve state standards that directly or indirectly limit the sale or use of new cars with internal combustion engines. Internal combustion engines are the traditional engines that burn gasoline or diesel fuel, as defined in federal regulations from January first, two thousand twenty three. The section also says that if states change their standards after this law passes, the EPA cannot automatically approve those changes under any permission they gave before this law was passed. Additionally, the EPA must cancel any permission it gave to states between January first, two thousand twenty two and when this law passes if those permissions allowed states to limit internal combustion engine vehicle sales in ways that would not be allowed under this new law.",
+      "word_offset": 12,
+      "char_offset": 71
+    }
+  ]
+}

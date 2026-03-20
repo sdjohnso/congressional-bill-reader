@@ -1,0 +1,81 @@
+{
+  "bill_id": "119-hr-322",
+  "title": "Import Security and Fairness Act",
+  "short_title": "Import Security and Fairness Act",
+  "congress": 119,
+  "bill_number": "HR.322",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "e2496c3dfacb6f10",
+  "last_updated": "2026-03-20T11:01:23.117276+00:00",
+  "plain_summary": "This bill changes the rules for small packages coming into the United States from other countries. Right now, small shipments can enter without paying taxes, but this bill will stop that for packages from certain countries. It will also require more paperwork and information for all small shipments coming into the country. These new rules will start six months after the bill becomes law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Foreign Trade and International Finance",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Civil actions and liability",
+    "Customs enforcement",
+    "Department of the Treasury",
+    "Government information and archives",
+    "Tariffs"
+  ],
+  "sponsor_name": "Rep. Suozzi, Thomas R. [D-NY-3]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "small packages",
+    "international shipping",
+    "import taxes",
+    "foreign packages",
+    "package duties",
+    "customs fees",
+    "overseas shipments",
+    "mail from abroad",
+    "international mail",
+    "shipping paperwork"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Import Security and Fairness Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-additional-exceptions-to-exemptions-for-de-minimis-treatment-under-the-tariff-act-of-1930",
+      "title": "Section 2 Additional Exceptions to Exemptions for De Minimis Treatment Under the Tariff Act of 1930",
+      "text": "This section changes an existing law about small shipments that do not have to pay import taxes. Currently, items worth eight hundred dollars or less can enter the United States without paying duties or taxes. This section adds new rules that prevent some items from getting this tax-free treatment. Items cannot be admitted without taxes if they come from countries that meet two conditions. First, the country must be a nonmarket economy country (a country where the government controls most business decisions instead of allowing free markets). Second, the country must be on the priority watch list (a list of countries that do not properly protect intellectual property rights like patents and copyrights). These rules apply whether the item was made in such a country or just shipped from such a country.",
+      "word_offset": 11,
+      "char_offset": 61
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-additional-administrative-provisions-relating-to-de-minimis-treatment-under-the-tariff-act-of-1930",
+      "title": "Section 3 Additional Administrative Provisions Relating to De Minimis Treatment Under the Tariff Act of 1930",
+      "text": "This section creates new paperwork requirements for small shipments that might qualify for tax-free treatment. Within one hundred eighty days after this law passes, the Treasury Secretary must create rules requiring people to provide documents and information to Customs and Border Protection. These documents must include at least seven pieces of information about each item. The required information includes a description of the item, its proper classification under trade rules, what country made it, what country shipped it, who shipped it, who is importing it, and how much it is worth in the United States. The rules may also require additional information about buying, selling, transporting, or storing the items, including sales through online platforms. People providing this information must state that it is true and correct to the best of their knowledge, or if they cannot verify it, that they reasonably believe it to be true. Anyone who breaks these rules faces a fine of five thousand dollars for the first violation and ten thousand dollars for each additional violation. The Treasury Secretary can also create rules to deny tax-free treatment for items imported by people who are banned from doing business with the federal government. This section also changes rules about examining merchandise. When Customs decides to hold items that might qualify for small shipment treatment, they must notify everyone who might have an interest in those items. The notice must tell people they can voluntarily abandon the merchandise instead of providing required information. If no one responds within thirty days, the items can either be sent back out of the country at the importer's expense, or they can be abandoned and become property of the United States government.",
+      "word_offset": 143,
+      "char_offset": 872
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-effective-date",
+      "title": "Section 4 Effective Date",
+      "text": "The changes made by this law will start applying to items that enter the United States or are taken out of warehouses for use starting one hundred eighty days after this law is passed.",
+      "word_offset": 424,
+      "char_offset": 2655
+    }
+  ]
+}

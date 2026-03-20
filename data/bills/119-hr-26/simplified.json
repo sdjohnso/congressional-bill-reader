@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-26",
+  "title": "Protecting American Energy Production Act",
+  "short_title": "Protecting American Energy Production Act",
+  "congress": 119,
+  "bill_number": "HR.26",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+  "version_hash": "37e00f57b71de882",
+  "last_updated": "2026-03-20T14:11:32.704607+00:00",
+  "plain_summary": "This law stops the President from banning fracking across the whole country unless Congress agrees to it first. Fracking is a way to get oil and natural gas from underground by pumping water, sand, and chemicals into the ground under high pressure. The law says that state governments should be the ones making rules about fracking on state and private land, not the federal government. This keeps the President from making big decisions about fracking without getting permission from Congress first.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-10",
+  "last_action_date": "2025-02-10",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [
+    "Congressional-executive branch relations",
+    "Mining",
+    "Oil and gas",
+    "Presidents and presidential powers, Vice Presidents",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Pfluger, August [R-TX-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 18,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "fracking ban",
+    "oil drilling",
+    "natural gas",
+    "energy production",
+    "presidential power",
+    "congress approval",
+    "state rights",
+    "hydraulic fracturing",
+    "energy independence",
+    "drilling regulations",
+    "federal control",
+    "gas prices"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting American Energy Production Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-protecting-american-energy-production",
+      "title": "Section 2  Protecting American Energy Production",
+      "text": "Congress believes that state governments should be the main ones in charge of making rules about hydraulic fracturing. Hydraulic fracturing is a process used to get oil and natural gas out of the ground on lands owned by states and private people. The President cannot stop or ban hydraulic fracturing across the country unless Congress passes a new law that gives the President that power. This rule applies even if other laws might say something different.",
+      "word_offset": 11,
+      "char_offset": 70
+    }
+  ]
+}

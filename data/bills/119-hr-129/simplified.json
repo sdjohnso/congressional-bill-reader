@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-129",
+  "title": "Abolish the ATF Act",
+  "short_title": "Abolish the ATF Act",
+  "congress": 119,
+  "bill_number": "HR.129",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "1e57ed0afe4dcf90",
+  "last_updated": "2026-03-20T11:14:20.179838+00:00",
+  "plain_summary": "This bill would shut down the Bureau of Alcohol, Tobacco, Firearms and Explosives, which is also called the ATF. The ATF is a federal agency that enforces laws about guns, explosives, alcohol, and tobacco products. If this bill passes, the ATF would no longer exist and would stop all of its work. The bill is very simple and only does this one thing.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Department of Justice",
+    "Executive agency funding and structure"
+  ],
+  "sponsor_name": "Rep. Boebert, Lauren [R-CO-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "CO",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "shut down ATF",
+    "eliminate ATF",
+    "close ATF",
+    "gun agency",
+    "federal gun bureau",
+    "ATF abolish",
+    "end ATF",
+    "disband ATF",
+    "remove gun enforcement",
+    "stop ATF operations",
+    "ATF shutdown bill"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Abolish the ATF Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-abolishment-of-the-bureau-of-alcohol-tobacco-firearms-and-explosives",
+      "title": "Section 2  Abolishment of the Bureau of Alcohol, Tobacco, Firearms and Explosives",
+      "text": "The Bureau of Alcohol, Tobacco, Firearms and Explosives is ended and will no longer exist.",
+      "word_offset": 10,
+      "char_offset": 48
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-63",
+  "title": "ALVIN Act",
+  "short_title": "ALVIN Act",
+  "congress": 119,
+  "bill_number": "HR.63",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "982d7ac7863f0a54",
+  "last_updated": "2026-03-20T12:27:47.271901+00:00",
+  "plain_summary": "The ALVIN Act is a law that stops the federal government from giving any money to the Manhattan District Attorney's Office in New York. The bill also takes back any federal money that was supposed to go to that office but has not been spent yet. It requires the Manhattan District Attorney's Office to pay back all the federal money they received since January 1, 2022. This means the office will lose federal funding and have to return money they already got from the government.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Lawyers and legal services",
+    "New York State",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Manhattan DA funding",
+    "federal money New York prosecutor",
+    "government funding district attorney",
+    "NYC prosecutor federal grants",
+    "Manhattan district attorney budget cuts",
+    "federal funding withdrawal New York",
+    "government money taken away prosecutor",
+    "district attorney federal support removed",
+    "NYC DA loses federal funding",
+    "Manhattan prosecutor government money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Accountability for Lawless Violence In our Neighborhoods Act or the ALVIN Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-federal-funding-with-respect-to-manhattan-district-attorney",
+      "title": "Section 2 Prohibition on Federal Funding with Respect to Manhattan District Attorney",
+      "text": "The federal government cannot give any money to the Manhattan District Attorney's Office. This rule applies even if other laws say the office should get federal money. Any federal money that has already been set aside for the Manhattan District Attorney's Office but not yet spent must be taken back. The Attorney General (the top law enforcement official in the federal government) must take steps to make the Manhattan District Attorney's Office pay back all the federal money it has received and spent since January first, two thousand twenty two.",
+      "word_offset": 18,
+      "char_offset": 106
+    }
+  ]
+}

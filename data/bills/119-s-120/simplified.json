@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-120",
+  "title": "Disaster Housing Reform for American Families Act",
+  "short_title": "Disaster Housing Reform for American Families Act",
+  "congress": 119,
+  "bill_number": "S.120",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "7fc404ab2e507075",
+  "last_updated": "2026-03-20T15:45:38.011265+00:00",
+  "plain_summary": "This bill creates a five-year test program where FEMA will work with housing companies to quickly build temporary homes for people affected by disasters. These homes must be built within 90 days after the President declares a disaster and can house up to four families. The homes must be safe and meet building standards to protect people from natural disasters. When the disaster emergency ends, these temporary homes can be turned into affordable housing for people to buy or rent permanently. FEMA can also help disaster victims pay closing costs when they buy homes with special government loans.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [],
+  "sponsor_name": "Sen. Cassidy, Bill [R-LA]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "disaster housing",
+    "temporary homes after disasters",
+    "FEMA housing help",
+    "emergency housing program",
+    "disaster relief homes",
+    "affordable housing after emergencies",
+    "hurricane housing assistance",
+    "flood victim housing",
+    "disaster recovery housing",
+    "temporary shelter program"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Disaster Housing Reform for American Families Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-disaster-assistance-housing-pilot-program",
+      "title": "Section 2  Disaster Assistance Housing Pilot Program",
+      "text": "This section changes an existing disaster relief law by adding new rules for temporary housing after disasters. The new program works like this. The President can make contracts with companies that build manufactured homes or modular homes. These companies will build temporary housing for people whose homes were damaged or destroyed in disasters. The housing must have no more than four living units in each building. The housing must be ready within ninety days after the President declares a major disaster. The Secretary can extend this to one hundred twenty days if needed. The Secretary means the person who runs the Department of Housing and Urban Development, working together with the head of the Federal Emergency Management Agency. These temporary homes must meet important safety rules. They must follow flood insurance construction standards. They must meet manufactured housing safety rules. They must follow the International Residential Code. They must meet local building codes where they are built. They must follow federal flood risk management rules. They must follow local zoning laws. They must meet national flood resistant design standards. They must meet manufactured home construction safety rules. The housing must fit the needs of the community based on what type of disaster happened. The housing must provide basic protection against natural disasters to keep people safe and healthy. These temporary homes can be designed to become permanent housing later if needed. The Secretary can give waivers to skip some of the construction requirements when necessary. The President and Secretary must create rules for giving these homes to local affordable housing programs after the disaster declaration ends. This could include giving them to local governments, public housing authorities, nonprofit organizations, or affordable housing developers. This pilot program will end five years after this law is passed. The President can also help disaster victims pay closing costs when they buy a new home using federal affordable financing programs.",
+      "word_offset": 13,
+      "char_offset": 78
+    }
+  ]
+}

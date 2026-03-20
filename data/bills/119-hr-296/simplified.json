@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-296",
+  "title": "Justice for 9/11 Act",
+  "short_title": "Justice for 9/11 Act",
+  "congress": 119,
+  "bill_number": "HR.296",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Armed Services.",
+  "version_hash": "2cdcdf353e2f83ef",
+  "last_updated": "2026-03-20T14:42:16.801803+00:00",
+  "plain_summary": "This bill is about three men who are accused of planning the September 11th terrorist attacks. Even if these men make deals to avoid trial, this bill says they must still go to trial and could get the death penalty. If they are sentenced, they must be kept alone in prison at Guantanamo Bay in Cuba. They cannot talk to people from other countries, can only get limited medical help, and cannot be moved to the United States or anywhere else.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Armed Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Correctional facilities and imprisonment",
+    "Criminal procedure and sentencing",
+    "Terrorism"
+  ],
+  "sponsor_name": "Rep. Lawler, Michael [R-NY-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "9/11 attackers",
+    "September 11 terrorists",
+    "death penalty",
+    "Guantanamo Bay",
+    "terrorist trials",
+    "9/11 plotters",
+    "prison sentences",
+    "terrorism punishment",
+    "September 11 justice",
+    "terrorist detention",
+    "9/11 perpetrators"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Justice for Nine Eleven Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-trial-and-post-trial-matters",
+      "title": "Section 2 Trial and Post-Trial Matters Relating to Certain Individuals Detained at United States Naval Station, Guantanamo Bay, Cuba",
+      "text": "This section sets rules for three specific people being held at the military prison in Guantanamo Bay, Cuba. These people are Khalid Shaikh Mohammad, Walid Muhammad Salih Mubarak Bin Attash, and Mustafa Ahmed Adam al Hawsawi. They are accused of planning the September eleventh, two thousand and one terrorist attacks. Even if these three people make deals to plead guilty to avoid the death penalty, the government can still put them on trial and seek the death penalty for the September eleventh attacks. During any trial for the September eleventh attacks, judges must be allowed to give them the death penalty as punishment. If any of these three people are sentenced to prison, they must be kept at Guantanamo Bay in solitary confinement, which means they are alone in their cells. They cannot have contact with people from other countries. They can only receive mental health treatment if doctors at Guantanamo Bay specifically approve it. These three people cannot be moved to the main United States or to any other country.",
+      "word_offset": 11,
+      "char_offset": 56
+    }
+  ]
+}

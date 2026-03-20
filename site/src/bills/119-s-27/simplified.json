@@ -1,0 +1,88 @@
+{
+  "bill_id": "119-s-27",
+  "title": "Federal Employee Return to Work Act",
+  "short_title": "Federal Employee Return to Work Act",
+  "congress": 119,
+  "bill_number": "S.27",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "0d1b51a89057d560",
+  "last_updated": "2026-03-20T14:08:51.624758+00:00",
+  "plain_summary": "This bill stops federal government workers from getting yearly pay raises if they work from home at least one day per week. These workers would also get paid at the lowest pay rate instead of getting extra money for living in expensive areas. The new rules would not apply to disabled workers, Foreign Service members, law enforcement officers, and military personnel. The bill is meant to encourage federal employees to return to working in their offices instead of at home.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Commuting",
+    "Computers and information technology",
+    "Government employee pay, benefits, personnel management"
+  ],
+  "sponsor_name": "Sen. Cassidy, Bill [R-LA]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal workers",
+    "work from home",
+    "remote work",
+    "government employees",
+    "pay raises",
+    "office return",
+    "telecommuting",
+    "federal pay",
+    "work location",
+    "government jobs",
+    "salary freeze",
+    "back to office"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Federal Employee Return to Work Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, the following terms mean: A covered employee is a government worker who works from home at least one day per week, or at least twenty percent of their work time if they have a different schedule. However, covered employee does not include workers who work from home at least one day per week and are disabled people who get help to do their jobs, people who work for the Foreign Service overseas, federal law enforcement officers, active duty military members, or other workers whose official workplace is not in a regular government office building. An employee means a government worker as defined in section twenty one oh five of title five of the United States Code. Telework means working from home as defined in section sixty five oh one of title five of the United States Code.",
+      "word_offset": 12,
+      "char_offset": 64
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-annual-adjustments-to-pay-schedules",
+      "title": "Section 3  Annual Adjustments to Pay Schedules",
+      "text": "Covered employees cannot receive the yearly pay raises that other government workers get under section fifty three oh three of title five of the United States Code.",
+      "word_offset": 152,
+      "char_offset": 862
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-pay-localities",
+      "title": "Section 4  Pay Localities",
+      "text": "Each covered employee will be paid using the basic pay rate for their job grade and step level from the pay area called Rest of U.S. This pay rate starts on the day the employee becomes a covered employee. This pay rate will not be increased under section fifty three oh four of title five of the United States Code.",
+      "word_offset": 179,
+      "char_offset": 1027
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-effective-date",
+      "title": "Section 5  Effective Date",
+      "text": "This law will start on the first day of the first complete fiscal year that begins after this law is passed.",
+      "word_offset": 239,
+      "char_offset": 1344
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-195",
+  "title": "CBP Relocation Act",
+  "short_title": "CBP Relocation Act",
+  "congress": 119,
+  "bill_number": "HR.195",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Oversight, Investigations, and Accountability.",
+  "version_hash": "f129f4f43a3e97d5",
+  "last_updated": "2026-03-20T13:28:10.443222+00:00",
+  "plain_summary": "The CBP Relocation Act requires the Department of Homeland Security to move the main headquarters of U.S. Customs and Border Protection to Texas by January 1, 2026. This means all the workers, their jobs, and the office buildings will be moved from where they are now to somewhere in Texas. The new location in Texas must be picked to help deal with problems at the border with Mexico. The Secretary of Homeland Security is allowed to buy land in Texas following government rules to make this move happen.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Subcommittee on Oversight, Investigations, and Accountability.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Department of Homeland Security",
+    "Government buildings, facilities, and property",
+    "Land transfers",
+    "Texas"
+  ],
+  "sponsor_name": "Rep. Self, Keith [R-TX-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border patrol headquarters",
+    "customs office moving",
+    "homeland security relocation",
+    "government jobs moving to Texas",
+    "border protection headquarters Texas",
+    "CBP moving to border",
+    "federal offices relocating",
+    "border security headquarters",
+    "customs border protection move",
+    "government relocation Texas"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the U.S. Customs and Border Protection Relocation Act or the CBP Relocation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-relocation-of-headquarters",
+      "title": "Section 2 Relocation of the Headquarters of U.S. Customs and Border Protection",
+      "text": "The Secretary of Homeland Security must move the main offices of U.S. Customs and Border Protection to Texas by January first, two thousand twenty six. This move must include all the work, employees, and property that belong to these main offices. When doing this move, the Secretary must work with the Commissioner of the General Land Office of Texas to make sure the new location meets the requirements. The Secretary can also buy any rights to land in Texas by signing a written contract with whoever is allowed to sell those rights. The new main offices must be placed in a smart location that helps handle emergencies at the border between the United States and Mexico. Any land ownership papers given to the Secretary must follow the same rules that the Attorney General uses when the federal government buys land.",
+      "word_offset": 18,
+      "char_offset": 104
+    }
+  ]
+}

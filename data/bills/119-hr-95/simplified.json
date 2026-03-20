@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hr-95",
+  "title": "One Bill, One Subject Transparency Act",
+  "short_title": "One Bill, One Subject Transparency Act",
+  "congress": 119,
+  "bill_number": "HR.95",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "ff6d61a5154cb138",
+  "last_updated": "2026-03-20T15:10:16.391040+00:00",
+  "plain_summary": "This bill says that Congress can only put one topic in each new law they make. The topic must be clearly explained in the law's title so people know what it's about. If a law tries to cover more than one topic or has a confusing title, that law becomes invalid and can't be used. People who are hurt by these invalid laws can sue the government to stop them from being enforced.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Appropriations",
+    "Civil actions and liability",
+    "Government liability",
+    "Legislative rules and procedure"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "single topic laws",
+    "one subject per bill",
+    "clear law titles",
+    "transparent legislation",
+    "prevent hidden provisions",
+    "sue invalid laws",
+    "congress transparency",
+    "simple government laws",
+    "honest lawmaking",
+    "no bundled bills"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the One Bill One Subject Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-one-subject-per-bill",
+      "title": "Section 2 One Subject Per Bill",
+      "text": "Each bill or joint resolution (a type of proposed law) can only deal with one topic or subject. The subject of the bill must be clearly and clearly described in the title of the bill. Spending bills (laws that give money to government programs) cannot contain general laws or changes to existing laws that are not related to the main purpose of the spending bill. However, spending bills can still include rules that limit how the money can be spent.",
+      "word_offset": 12,
+      "char_offset": 66
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-enforcement",
+      "title": "Section 3 Enforcement",
+      "text": "If a law's title talks about two or more unrelated subjects, then the entire law becomes invalid and has no legal effect. If a law contains parts that deal with subjects not clearly described in the title, those parts become invalid. If a spending law contains a provision that falls outside the authority of the relevant spending subcommittee (a smaller group within the spending committees), then that provision becomes invalid. If a spending law contains general legislation or changes to existing law that are not related to the main subject of the spending bill, then those parts become invalid. Any person, including members of the House of Representatives or Senate, who is harmed by the enforcement of laws that do not follow these rules can file a lawsuit against the United States government. They can ask a court for appropriate relief, including stopping the enforcement of any law that was not passed according to these rules. This right to sue only applies to laws signed after this act becomes law. In any court case filed under these rules, judges must review the case completely from the beginning without giving special weight to previous decisions (this is called de novo review).",
+      "word_offset": 92,
+      "char_offset": 517
+    }
+  ]
+}

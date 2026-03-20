@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-hr-611",
+  "title": "Justice for Victims of Sanctuary Cities Act of 2025",
+  "short_title": "Justice for Victims of Sanctuary Cities Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.611",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "version_hash": "ce11e33470176761",
+  "last_updated": "2026-03-20T12:31:15.637371+00:00",
+  "plain_summary": "This bill lets victims of serious crimes sue local and state governments that have sanctuary city policies if those policies helped a non-citizen criminal avoid being caught by federal immigration officers. To win the lawsuit, the victim must show that the local government did not cooperate with federal requests to hold or notify them about releasing the criminal. Local governments that take certain federal grant money cannot claim they are protected from these lawsuits. The bill also protects local officials from being sued if they do help federal immigration officers by treating them as if they work for the federal government.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Edwards, Chuck [R-NC-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "sanctuary cities",
+    "immigration crime victims",
+    "suing local government",
+    "federal immigration cooperation",
+    "crime victim lawsuits",
+    "sanctuary policy liability",
+    "immigration enforcement",
+    "local government responsibility",
+    "victim compensation",
+    "sanctuary city consequences",
+    "immigration detainer requests",
+    "federal grant restrictions"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Justice for Victims of Sanctuary Cities Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, these words mean the following. The word alien means a person who is not a United States citizen, as defined in immigration law. A sanctuary jurisdiction means any state or local government area like a city or county that has a law, rule, or practice that stops government workers from sharing information about whether someone is a citizen or immigrant with federal, state, or local agencies. It also means stopping workers from following requests from the Department of Homeland Security to hold someone in jail or tell them when someone is being released from jail. However, a place is not considered a sanctuary jurisdiction just because its workers will not share information about someone who comes forward as a victim or witness to a crime. A sanctuary policy means the laws, rules, or practices described above. A sanctuary-related civil action means a lawsuit brought against a sanctuary jurisdiction by a person or their family members who was hurt or harmed by an alien who benefited from that sanctuary policy. The person would not have been hurt if the alien had not received that benefit.",
+      "word_offset": 17,
+      "char_offset": 100
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-civil-action-for-harm",
+      "title": "Section 3 Civil Action for Harm by an Alien That Benefitted from a Sanctuary Policy",
+      "text": "Any person who is the victim of murder, rape, or any serious crime can sue a state or local government for money damages if certain conditions are met. The person can also be represented by their spouse, parent, or child if they are dead or permanently unable to act for themselves. The crime must have been committed by an alien who was arrested, convicted, or sentenced to at least one year in prison. The state or local government must have failed to follow a legal request from the Department of Homeland Security to either hold the alien in jail or tell the Department when the alien was being released. A lawsuit must be filed within ten years of when the crime happened or when someone died from the crime, whichever is later. If the victim wins the lawsuit, the court must order the state or local government to pay the victim's attorney fees and other legal costs. Any state or local government that accepts certain federal grants must agree to give up their legal immunity from these types of lawsuits as a condition of getting the grant money. The grants include public works and economic development grants, planning grants, supplemental grants, training and research grants, and community development block grants. However, disaster relief grants are not included in this requirement.",
+      "word_offset": 204,
+      "char_offset": 1216
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-ensuring-cooperation",
+      "title": "Section 4 Ensuring Cooperation Between Federal and Local Law Enforcement Officers to Safeguard Our Communities",
+      "text": "When a state, local government, or their workers follow a request from the Department of Homeland Security to hold someone in jail, they are considered to be acting as agents of the federal government. They must follow federal immigration law rules. If someone sues a state, local government, or their workers for holding or detaining someone based on a federal immigration request, the state or local government cannot be held responsible for following that request properly. If the workers acted according to the federal request, they are treated as federal employees who were doing their job properly. In this case, the lawsuit can only proceed under federal law that covers federal employee actions, and the United States government becomes the defendant instead of the state or local government. This section does not protect anyone who knowingly violates someone's civil rights or constitutional rights.",
+      "word_offset": 424,
+      "char_offset": 2514
+    }
+  ]
+}

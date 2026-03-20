@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-237",
+  "title": "Paws Off Act of 2025",
+  "short_title": "Paws Off Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.237",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "96a049aab892b60e",
+  "last_updated": "2026-03-20T14:11:58.993185+00:00",
+  "plain_summary": "The Paws Off Act of 2025 makes a new rule about foods that contain xylitol. Xylitol is a sweetener that can be very dangerous and even deadly to dogs if they eat it. Under this new law, any food with xylitol in it must have a warning label that tells people it is toxic to dogs. The Food and Drug Administration has six months to one year to create the rules for how these warning labels should work. This law is meant to help keep dogs safe by making sure pet owners know which foods could hurt their pets.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Animal protection and human-animal relationships",
+    "Department of Health and Human Services",
+    "Food supply, safety, and labeling"
+  ],
+  "sponsor_name": "Rep. Schweikert, David [R-AZ-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "dog safety",
+    "xylitol warning labels",
+    "toxic food dogs",
+    "pet poisoning prevention",
+    "dangerous sweeteners pets",
+    "dog food safety",
+    "xylitol toxic dogs",
+    "pet owner warnings",
+    "food labels dogs",
+    "artificial sweetener danger pets",
+    "protect dogs from food"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Paws Off Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-xylitol-label-and-labeling-requirements",
+      "title": "Section 2  Xylitol Label and Labeling Requirements",
+      "text": "This section changes the Federal Food, Drug, and Cosmetic Act. Any food that contains xylitol (a type of artificial sweetener) must have a warning label. The warning must explain that xylitol is poisonous to dogs if they eat it. Without this warning, the food would be considered mislabeled and illegal to sell. The Secretary of Health and Human Services, working through the head of the Food and Drug Administration, must create rules to make this happen. The Secretary must issue a temporary rule within six months after this law is passed. The Secretary must also issue a final rule within one year after this law is passed.",
+      "word_offset": 14,
+      "char_offset": 69
+    }
+  ]
+}

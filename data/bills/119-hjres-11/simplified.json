@@ -1,0 +1,121 @@
+{
+  "bill_id": "119-hjres-11",
+  "title": ".Proposing a balanced budget amendment to the Constitution requiring that each agency and department's funding is justified.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.11",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "11fbc25a658f29d6",
+  "last_updated": "2026-03-20T11:13:28.628281+00:00",
+  "plain_summary": "This constitutional amendment would require the federal government to spend no more money than it takes in each year, creating a balanced budget. The government could only spend more than it earns if three out of five members in both the House and Senate vote to allow it, and total spending cannot be more than a certain percentage of what the entire country produces. Any tax increases or borrowing more money would also need approval from three out of five members of Congress. The President would have to create a budget that does not spend more than the government earns and explain why each government agency needs the money it is asking for. The rules could be ignored only during wars, military threats, or natural disasters.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Budget deficits and national debt",
+    "Budget process",
+    "Constitution and constitutional amendments",
+    "Executive agency funding and structure",
+    "Income tax rates",
+    "Legislative rules and procedure"
+  ],
+  "sponsor_name": "Rep. Perry, Scott [R-PA-10]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "balanced budget",
+    "government spending",
+    "constitutional amendment",
+    "federal budget",
+    "government debt",
+    "tax increases",
+    "congressional approval",
+    "agency funding",
+    "budget deficits",
+    "government borrowing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-spending-limits",
+      "title": "Section 1 Spending Limits",
+      "text": "The government cannot spend more money than it takes in during any year, unless three out of five members in both the House and Senate vote to allow extra spending in a recorded vote. Even then, government spending cannot be more than twenty percent of the country's total economic output in the first year this rule takes effect. Each year after that, the spending limit goes down by one tenth of a percentage point. However, spending never has to be less than sixteen percent of the country's total economic output.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-debt-limit",
+      "title": "Section 2 Debt Limit",
+      "text": "The government cannot borrow more money from the public unless three out of five members in both the House and Senate vote to allow it in a recorded vote.",
+      "word_offset": 90,
+      "char_offset": 518
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-balanced-budget-requirement",
+      "title": "Section 3 Balanced Budget Requirement",
+      "text": "Before each budget year begins, the President must send Congress a proposed budget that does not spend more money than the government expects to collect.",
+      "word_offset": 119,
+      "char_offset": 673
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-tax-increase-requirement",
+      "title": "Section 4 Tax Increase Requirement",
+      "text": "Any law that raises taxes must be approved by three out of five members in both the House and Senate in a recorded vote.",
+      "word_offset": 144,
+      "char_offset": 827
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-budget-justification-requirement",
+      "title": "Section 5 Budget Justification Requirement",
+      "text": "When the President sends a budget plan to Congress, every government department and agency must explain why they need the money they are asking for. They must justify each specific item in their budget by explaining how it helps them do their job and how it might affect the country's economy. They must also show a lower funding amount that would still let them complete their most important tasks.",
+      "word_offset": 168,
+      "char_offset": 948
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-definitions",
+      "title": "Section 6 Definitions",
+      "text": "Total receipts means all money the government collects except money it borrows. Total outlays means all money the government spends except money used to pay back loans.",
+      "word_offset": 237,
+      "char_offset": 1348
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-enforcement",
+      "title": "Section 7 Enforcement",
+      "text": "Congress has the power to make laws to enforce this amendment. These laws can use estimated numbers for income and spending.",
+      "word_offset": 264,
+      "char_offset": 1517
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-exceptions",
+      "title": "Section 8 Exceptions",
+      "text": "Congress can ignore these budget rules during any year when the country is officially at war. Congress can also ignore these rules during military conflicts, serious military threats to national security, or natural disasters, but only if two thirds of both the House and Senate vote to do so in a joint resolution that becomes law.",
+      "word_offset": 285,
+      "char_offset": 1642
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-effective-date",
+      "title": "Section 9 Effective Date",
+      "text": "This amendment will begin either ten years after it is approved by the states or in the first year after the government has a balanced budget, whichever comes first.",
+      "word_offset": 341,
+      "char_offset": 1975
+    }
+  ]
+}

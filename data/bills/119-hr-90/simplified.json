@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-90",
+  "title": "Health Coverage Choice Act",
+  "short_title": "Health Coverage Choice Act",
+  "congress": 119,
+  "bill_number": "HR.90",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "8f2ac3575be9ef53",
+  "last_updated": "2026-03-20T12:29:18.305935+00:00",
+  "plain_summary": "The Health Coverage Choice Act changes the rules for short-term health insurance plans. Right now, these plans can only last for three months and can be extended to four months total. This new law would let people buy short-term health insurance that lasts for almost a full year and can be renewed for up to three years total. This gives people more time to use temporary health insurance when they need it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Health care costs and insurance",
+    "Health care coverage and access"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "short term health insurance",
+    "temporary health coverage",
+    "health insurance extension",
+    "renew health plan",
+    "affordable health insurance",
+    "health coverage gap",
+    "emergency health insurance",
+    "temporary medical insurance",
+    "health plan renewal",
+    "short term medical coverage"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Health Coverage Choice Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definition-of-short-term-limited-duration-insurance",
+      "title": "Section 2  Definition of Short-Term Limited Duration Insurance",
+      "text": "This section adds a new definition to the Public Health Service Act. It explains what short-term limited duration insurance means. Short-term limited duration insurance is health insurance coverage that an insurance company provides under a contract. This type of insurance must have an end date written in the contract that is less than twelve months from when the coverage first starts. The insurance can last for no more than three years total, even if the person renews it or extends it multiple times. The three-year limit starts counting from the original date when the coverage first began.",
+      "word_offset": 10,
+      "char_offset": 55
+    }
+  ]
+}

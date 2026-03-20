@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hres-7",
+  "title": "Recognizing the importance of access to comprehensive, high-quality, life-affirming medical care for women of all ages.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.7",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "2482ecbfda766536",
+  "last_updated": "2026-03-20T14:15:22.494809+00:00",
+  "plain_summary": "This House resolution says that all women should have access to complete, high-quality medical care that supports life. It praises Pro Women's Healthcare Centers as a good example of the kind of care women should receive. The resolution wants these same high standards to be used across the entire country. The goal is to make sure women everywhere can get compassionate and convenient healthcare services.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Health care coverage and access",
+    "Health care quality",
+    "Health facilities and institutions",
+    "Women's health"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "women's healthcare",
+    "medical care for women",
+    "healthcare access",
+    "quality healthcare",
+    "women's health services",
+    "comprehensive medical care",
+    "healthcare centers",
+    "women's medical treatment",
+    "healthcare coverage",
+    "medical care access"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution is about recognizing how important it is for women of all ages to have access to complete, high-quality medical care that supports and affirms life.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Supporting Statements",
+      "text": "The resolution states several supporting facts. Women of all ages should be able to get complete, convenient, caring, and high-quality medical services that support life. All women should feel confident and have the knowledge they need to listen to their bodies and speak up for their health. Healthcare for women should focus on the whole woman, including her physical health, mental health, and spiritual wellness. Women's healthcare should also consider the needs of men, families, and communities as they connect to women's health. Healthcare centers should provide access to social services that help women take care of their health. Pro Women's Healthcare Centers is a group of medical centers that shows an example of the high-quality, complete, life-affirming care that women deserve. Every Pro Women's Healthcare Center that gets certified has a licensed medical professional on staff. Every Pro Women's Healthcare Center offers complete health services. These services include regular women's health exams, testing and treatment for diseases spread through sex, breast exams, pregnancy testing, care before and during pregnancy, support after losing a pregnancy, teaching about fertility awareness, consultation about infertility, and direct referrals to nearby resources for material, emotional, practical, and spiritual support. Pro Women's Healthcare Centers has certified healthcare centers across the country that meet its standards for high-quality, life-affirming care and continue to meet those standards.",
+      "word_offset": 27,
+      "char_offset": 165
+    },
+    {
+      "id": "s3",
+      "slug": "house-resolution",
+      "title": "House Resolution",
+      "text": "Therefore, the House of Representatives expresses its support for women nationwide to have access to complete, convenient, caring, life-affirming, and high-quality healthcare. The House also recognizes that the high standards created by the Pro Women's Healthcare Centers group are standards worth putting in place across the entire country.",
+      "word_offset": 247,
+      "char_offset": 1689
+    }
+  ]
+}

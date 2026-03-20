@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-hr-599",
+  "title": "Protect Funding for Women’s Health Care Act",
+  "short_title": "Protect Funding for Women’s Health Care Act",
+  "congress": 119,
+  "bill_number": "HR.599",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "54f64f385402af19",
+  "last_updated": "2026-03-20T16:04:12.217157+00:00",
+  "plain_summary": "This bill would stop the government from giving money to Planned Parenthood and any organizations connected to it. The bill says that other doctors and health clinics will still help women with their health care needs. The same amount of government money will still be available for women's health services, but it will go to these other health care providers instead of Planned Parenthood. Congress believes women will still be able to get the health care they need from different places.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Family planning and birth control",
+    "Health facilities and institutions",
+    "Health programs administration and funding",
+    "Sex and reproductive health",
+    "Social work, volunteer service, charitable organizations",
+    "Tax-exempt organizations",
+    "Women's health"
+  ],
+  "sponsor_name": "Rep. Aderholt, Robert B. [R-AL-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "AL",
+  "cosponsor_count": 25,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "planned parenthood funding",
+    "defund planned parenthood",
+    "women's health care funding",
+    "reproductive health services",
+    "family planning money",
+    "abortion provider funding",
+    "health clinic funding",
+    "birth control services",
+    "women's reproductive rights",
+    "healthcare provider funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protect Funding for Women's Health Care Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has found the following facts. First, many different places already provide health care services to women and will keep doing so. These places include state and county health departments, community health centers, hospitals, doctors' offices, and other organizations. They offer services like lab tests, X-rays, well-child checkups, care before and after having babies, shots to prevent disease, family planning services including birth control, testing for diseases spread through sex, screenings for cervical and breast cancer, and referrals to other doctors. Second, many of these places serve all people regardless of whether they can pay for services. They also provide care in areas where medical services are hard to find and to groups of people who have trouble getting medical care. Third, all money that would no longer go to Planned Parenthood Federation of America will still be available for other qualified organizations to provide women's health care services.",
+      "word_offset": 13,
+      "char_offset": 72
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition",
+      "title": "Section 3  Prohibition",
+      "text": "No federal government money may be given to Planned Parenthood Federation of America or to any organization that is connected to it, owned by it, takes its place, or operates as one of its clinics. This rule applies even if other laws say something different. However, this law does not change any rules about abortion funding that are already in spending bills passed by Congress. This law also does not reduce the total amount of federal money available to support women's health care.",
+      "word_offset": 162,
+      "char_offset": 1057
+    }
+  ]
+}

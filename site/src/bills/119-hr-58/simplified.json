@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-58",
+  "title": "Voter Integrity Protection Act",
+  "short_title": "Voter Integrity Protection Act",
+  "congress": 119,
+  "bill_number": "HR.58",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "bdf5104b04c94299",
+  "last_updated": "2026-03-20T14:55:27.021791+00:00",
+  "plain_summary": "This bill makes new punishments for people who are not US citizens but vote in federal elections anyway. If someone is in the country illegally and votes in a federal election, they can now be charged with a serious crime called an aggravated felony. People who do this can also be deported from the United States. The bill is meant to stop non-citizens from voting in elections for Congress and President.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Congressional elections",
+    "Elections, voting, political campaign regulation",
+    "Fraud offenses and financial crimes",
+    "Immigration status and procedures"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "illegal immigrants voting",
+    "non citizens voting",
+    "voter fraud punishment",
+    "deportation for voting illegally",
+    "foreign nationals election crimes",
+    "undocumented immigrants elections",
+    "voting while not citizen",
+    "immigration voting penalties",
+    "stop illegal voting",
+    "election integrity immigration",
+    "felony for voting illegally",
+    "voting rights citizenship"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Voter Integrity Protection Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-unlawful-voting",
+      "title": "Section 2 Unlawful Voting",
+      "text": "This section changes existing immigration laws to add new penalties for voting illegally. First, it adds a new type of serious crime called an aggravated felony. This crime happens when someone who is in the United States illegally votes in a federal election. Federal elections include voting for President, Congress members, or Senators. Second, it makes illegal voting a reason to remove someone from the country. Any person who is in the United States illegally and knowingly votes in a federal election can be deported. The law refers to a specific criminal code that already makes it illegal for non-citizens to vote in federal elections.",
+      "word_offset": 10,
+      "char_offset": 59
+    }
+  ]
+}

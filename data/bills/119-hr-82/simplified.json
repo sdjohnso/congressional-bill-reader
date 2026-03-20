@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-82",
+  "title": "Defund National Endowment for the Humanities Act of 2025",
+  "short_title": "Defund National Endowment for the Humanities Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.82",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "bb1b7dd113a7f037",
+  "last_updated": "2026-03-20T11:29:15.532861+00:00",
+  "plain_summary": "This bill would stop the National Endowment for the Humanities from spending any government money on its programs and activities. The National Endowment for the Humanities is a government agency that gives money to support things like history projects, literature programs, and cultural activities. If this bill becomes law, the agency would not be able to use any of its federal funding to do its normal work. This would essentially shut down the agency's operations starting with the next budget year.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Arts, Culture, Religion",
+  "subjects": [
+    "Executive agency funding and structure",
+    "Humanities programs funding",
+    "National Foundation on the Arts and the Humanities"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "defund humanities",
+    "cut arts funding",
+    "eliminate NEH",
+    "stop government arts money",
+    "humanities budget cuts",
+    "cultural programs funding",
+    "history projects government money",
+    "literature program cuts",
+    "arts agency shutdown",
+    "federal humanities spending"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Defund National Endowment for the Humanities Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation",
+      "title": "Section 2 Limitation",
+      "text": "The National Endowment for the Humanities (a government agency that gives money to support learning about history, literature, and culture) cannot use any of its government funding to carry out section seven of the National Foundation on the Arts and the Humanities Act of nineteen sixty five. This rule applies to all money the agency gets from the government in any budget year.",
+      "word_offset": 17,
+      "char_offset": 99
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-effective-date",
+      "title": "Section 3 Effective Date",
+      "text": "This law will start working on the first day of the first government budget year that begins after this law is officially passed.",
+      "word_offset": 80,
+      "char_offset": 480
+    }
+  ]
+}

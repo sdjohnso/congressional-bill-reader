@@ -1,0 +1,156 @@
+{
+  "bill_id": "119-s-62",
+  "title": "America First Act",
+  "short_title": "America First Act",
+  "congress": 119,
+  "bill_number": "S.62",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Finance.",
+  "version_hash": "4969b0327bc0eb06",
+  "last_updated": "2026-03-20T12:25:34.669962+00:00",
+  "plain_summary": "The America First Act would cut off many government benefits for immigrants who are not full citizens or permanent residents. This includes people seeking asylum, those with temporary protection, and DREAMERS who would lose access to food stamps, Medicaid, housing help, and tax credits. The bill also cuts school funding in half for cities that do not help with immigration enforcement and stops charities from using federal money to help certain immigrants. The law would make the child tax credit permanent for eligible families but would require people to prove their immigration status before getting most government benefits.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Lee, Mike [R-UT]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigrant benefits",
+    "food stamps immigrants",
+    "medicaid immigrants",
+    "dreamers benefits",
+    "asylum seeker benefits",
+    "immigration status requirements",
+    "sanctuary city funding",
+    "child tax credit",
+    "government benefits citizenship",
+    "immigrant assistance programs",
+    "immigration enforcement schools",
+    "federal aid immigrants"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-table-of-contents",
+      "title": "Section 1. Short Title; Table of Contents",
+      "text": "This law can be called the America First Act. The law contains fourteen sections that cover different topics related to limiting benefits for certain immigrants. The sections include changes to public benefits, Head Start programs, health care benefits, housing assistance, tax credits, emergency management programs, education funding, refugee services, citizenship verification, school meal programs, community development grants, and regulations needed to put these changes into effect.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-adjusting-eligibility-non-citizens-federal-public-benefits",
+      "title": "Section 2. Adjusting Eligibility of Certain Non-Citizens for Federal Public Benefits Under the Personal Responsibility and Work Opportunity Reconciliation Act",
+      "text": "This section makes it harder for non-citizens to get federal benefits by changing an existing law from nineteen ninety-six. The changes remove several categories of people who could previously get benefits, including people seeking asylum (protection from persecution in their home country), people with temporary protected status, and people who were paroled into the country for less than one year. The section also removes the ability for people who were granted asylum to be considered qualified aliens for benefit purposes. These changes mean fewer types of immigrants will be able to receive federal public benefits like food assistance or cash aid.",
+      "word_offset": 66,
+      "char_offset": 490
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-verification-citizenship-head-start-agencies",
+      "title": "Section 3. Verification of Citizenship by Head Start Agencies",
+      "text": "This section changes the Head Start program, which provides early childhood education and services to low-income families. Under the new rules, a child cannot participate in Head Start if the child is not a United States citizen or a refugee, and if the child has a parent who falls into certain immigration categories. These categories include parents who are in the country illegally, parents granted asylum, parents with temporary protected status, parents who were paroled into the country, parents with deferred action (including those covered by a program for people who came as children), or parents with withholding of removal. The section also removes language that previously allowed immigrant children to participate in the program.",
+      "word_offset": 167,
+      "char_offset": 1146
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-eligibility-certain-federal-health-care-benefits",
+      "title": "Section 4. Eligibility for Certain Federal Health Care Benefits",
+      "text": "This section restricts health care benefits for several groups of immigrants. It prevents people with asylum, temporary protected status, deferred action (including those who came as children), parole status, or withholding of removal from getting Medicaid or Medicare coverage. It also stops these same groups from getting tax credits to help pay for health insurance purchased through government marketplaces. The section prevents these immigrants from getting cost-sharing reductions that would lower their out-of-pocket medical costs. Additionally, it prohibits federally qualified health centers from receiving federal funding if they provide non-emergency services to people who are not legally present in the United States. All these changes take effect for years beginning after the law is passed.",
+      "word_offset": 282,
+      "char_offset": 1890
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-housing",
+      "title": "Section 5. Housing",
+      "text": "This section makes major changes to federal housing assistance programs. It removes people who were granted asylum from being eligible for assisted housing and eliminates other categories of eligible immigrants. The section requires that every family member must be eligible for housing assistance, not just one member as before. It also changes the process for families with mixed immigration status, requiring immediate action instead of allowing deferrals. The section creates new rules for rural housing loans, limiting them to United States citizens or residents who do not live with anyone in certain immigration categories, including asylum seekers, people with temporary protected status, or those with deferred action. It removes the ability of government officials to create exceptions for housing programs and adds new restrictions to the low-income housing tax credit program to prevent units from being rented to people in excluded immigration categories.",
+      "word_offset": 397,
+      "char_offset": 2696
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-identification-requirements-child-tax-credit-earned-income-tax-credit",
+      "title": "Section 6. Identification Requirements for Child Tax Credit and Earned Income Tax Credit; Permanent Extension of Certain Temporary Rules for Child Tax Credit",
+      "text": "This section changes tax credits that help families with children and working people with low incomes. For the child tax credit, it increases the credit amount to two thousand dollars per child and sets income limits at four hundred thousand dollars for married couples and two hundred thousand dollars for others. It caps the refundable portion at one thousand seven hundred dollars per child and adjusts this amount for inflation each year. The section requires taxpayers to provide social security numbers for themselves, their spouses, and their children to claim the credits. It also requires that taxpayers, their spouses, their children, and their dependents must be United States citizens or legal immigrants to get these credits. The section specifically excludes people with asylum, temporary protected status, parole status, deferred action, withholding of removal, nonimmigrants, and people with employment-based immigrant visas from getting these tax credits. Similar citizenship and legal presence requirements are added to the earned income tax credit for working families. These changes apply to tax years beginning after December thirty-first, two thousand twenty-four.",
+      "word_offset": 540,
+      "char_offset": 3665
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-federal-emergency-management-agency-prohibitions",
+      "title": "Section 7. Federal Emergency Management Agency Prohibitions",
+      "text": "This section prohibits the Federal Emergency Management Agency from using its money for several purposes related to immigrants. The agency cannot fund shelter programs that help relieve overcrowding at border facilities or emergency food and shelter programs that serve families encountered by immigration authorities. The agency also cannot carry out any program that provides assistance to people who are in the country illegally, people with parole status, people granted asylum, people with temporary protected status, people with deferred action (including those who came as children), or people with withholding of removal. This means FEMA cannot use its disaster relief and emergency funds to help these groups of immigrants, even during emergencies or natural disasters.",
+      "word_offset": 715,
+      "char_offset": 4852
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-eligibility-postsecondary-financial-assistance-immigration-status",
+      "title": "Section 8. Eligibility for Postsecondary Financial Assistance Based on Immigration Status",
+      "text": "This section changes the rules for federal financial aid for college and other higher education. The new rule states that only citizens, nationals, or permanent residents of the United States can receive federal student aid. This removes the ability for other categories of immigrants, such as those with temporary status or asylum seekers, to get federal grants, loans, or work-study funds to pay for college. The change makes the eligibility requirements more restrictive by limiting aid to only those with the most permanent legal status in the United States.",
+      "word_offset": 829,
+      "char_offset": 5631
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-reducing-esea-funding-sanctuary-jurisdictions",
+      "title": "Section 9. Reducing ESEA Funding for Sanctuary Jurisdictions",
+      "text": "This section reduces federal education funding for sanctuary jurisdictions by fifty percent. Sanctuary jurisdictions are defined as states or local areas, including cities, counties, townships, and school districts, that have laws, policies, or practices that prevent cooperation with federal immigration enforcement. This includes places that prohibit employees from sharing information about someone's citizenship or immigration status with federal authorities, or places that refuse to comply with federal requests to hold or notify about the release of individuals for immigration purposes. When funding is reduced from these sanctuary jurisdictions, the money is redistributed to other states and local areas that do not have sanctuary policies. Both state education agencies and local school districts in sanctuary jurisdictions face these funding cuts, which apply to all federal education programs covered under the Elementary and Secondary Education Act.",
+      "word_offset": 918,
+      "char_offset": 6194
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-limitation-refugee-resettlement-services-haitian-immigrants",
+      "title": "Section 10. Limitation on Refugee Resettlement and Other Services for Certain Haitian Immigrants",
+      "text": "This section removes references to Haitian immigrants from federal laws that previously provided them with refugee-like benefits and services. The changes affect a nineteen eighty law that had treated Cuban and Haitian entrants similarly for purposes of refugee assistance programs. Under the new rules, only Cuban entrants will continue to receive these services, while Haitian entrants will no longer be eligible. The section also makes similar changes to other federal laws, including welfare reform legislation and Social Security Act provisions, removing Haitian immigrants from programs that previously included them alongside Cuban immigrants. This means Haitian immigrants will lose access to certain federal benefits and services that were previously available to them under these special programs.",
+      "word_offset": 1052,
+      "char_offset": 7158
+    },
+    {
+      "id": "s11",
+      "slug": "section-11-prohibiting-participation-federal-benefit-programs-immigration-status-verified",
+      "title": "Section 11. Prohibiting Participation in Federal Benefit Programs Until a Satisfactory Immigration Status is Verified",
+      "text": "This section changes the process for verifying immigration status before someone can receive federal benefits. It updates references to reflect that the Department of Homeland Security and Department of Justice now handle immigration verification instead of the old Immigration and Naturalization Service. The section limits the time that states can give people to provide proof of their immigration status to no more than thirty days. If someone cannot provide satisfactory evidence of their legal immigration status within that time, states must stop providing benefits immediately and cannot resume benefits until they receive verification from the Department of Homeland Security confirming the person's legal status. The section also removes language that previously allowed states to terminate benefits in some cases, making it mandatory for states to continue seeking verification rather than giving up on unclear cases.",
+      "word_offset": 1167,
+      "char_offset": 7966
+    },
+    {
+      "id": "s12",
+      "slug": "section-12-verification-citizenship-wic-school-meals",
+      "title": "Section 12. Verification of Citizenship for WIC and School Meals",
+      "text": "This section adds citizenship requirements to two nutrition programs for children. For the WIC program (which provides food assistance to pregnant women, new mothers, and young children) and for free and reduced-price school meals, children become ineligible if they are not United States citizens or refugees and if they have a parent in certain immigration categories. The excluded parent categories include those who are in the country illegally, have been granted asylum, have parole status, have temporary protected status, have deferred action (including those who came as children), or have withholding of removal. This means that children who are United States citizens or refugees could still be denied these nutrition benefits if their parents fall into any of these immigration categories. The changes affect both the school breakfast and lunch programs that provide free and reduced-price meals to children from low-income families.",
+      "word_offset": 1302,
+      "char_offset": 8894
+    },
+    {
+      "id": "s13",
+      "slug": "section-13-restrictions-community-development-block-grant-funds-federal-funding-tax-exempt-organizations",
+      "title": "Section 13. Restrictions on Use of Community Development Block Grant Funds and Federal Funding by Tax-Exempt Organizations",
+      "text": "This section creates two new restrictions on how federal money can be used. First, it prohibits recipients of Community Development Block Grants from using any grant money to provide cash, goods, or services to people in certain immigration categories. These categories include people who are in the country illegally, people with parole status, people granted asylum, people with temporary protected status, people with deferred action (including those who came as children), or people with withholding of removal. Second, it removes tax-exempt status from charitable organizations that use any federal funding to provide money, services, or goods to people in these same immigration categories. This means that charitable organizations could lose their tax-exempt status if they use federal grants or other federal money to help people in excluded immigration categories. The changes to tax-exempt status apply to tax years beginning after December thirty-first, two thousand twenty-four.",
+      "word_offset": 1444,
+      "char_offset": 9839
+    },
+    {
+      "id": "s14",
+      "slug": "section-14-implementing-regulations-guidance",
+      "title": "Section 14. Implementing Regulations and Guidance",
+      "text": "This section requires the head of each relevant government agency to create the rules and guidance needed to carry out all the changes made by this law. Government agencies will need to write new regulations and issue guidance documents to implement the restrictions and requirements established in the previous sections of the America First Act.",
+      "word_offset": 1589,
+      "char_offset": 10830
+    }
+  ]
+}

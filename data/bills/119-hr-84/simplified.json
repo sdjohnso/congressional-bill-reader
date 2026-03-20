@@ -1,0 +1,109 @@
+{
+  "bill_id": "119-hr-84",
+  "title": "Native American Education Opportunity Act",
+  "short_title": "Native American Education Opportunity Act",
+  "congress": 119,
+  "bill_number": "HR.84",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "755de3803fdc262b",
+  "last_updated": "2026-03-20T11:59:19.142725+00:00",
+  "plain_summary": "This bill helps Native American students get better education choices by giving them money to spend on school. If a tribe asks for it, the government will give them funds to create special savings accounts that provide up to eight thousand dollars per year for each eligible student. Students can use this money to pay for private school, tutoring, textbooks, online classes, and other learning materials. The bill also lets the Bureau of Indian Education approve charter schools that tribes can run using government buildings and funding.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Native Americans",
+  "subjects": [
+    "Bank accounts, deposits, capital",
+    "Congressional oversight",
+    "Education programs funding",
+    "Educational facilities and institutions",
+    "Educational technology and distance education",
+    "Elementary and secondary education",
+    "Foreign language and bilingual programs",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Higher education",
+    "Indian social and development programs",
+    "Licensing and registrations",
+    "Minority education",
+    "Student aid and college costs",
+    "Teaching, teachers, curricula",
+    "User charges and fees",
+    "Vocational and technical education"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Native American students",
+    "tribal education funding",
+    "school choice for tribes",
+    "Indian education money",
+    "private school vouchers",
+    "Native student scholarships",
+    "tribal charter schools",
+    "education savings accounts",
+    "Bureau of Indian Education",
+    "Native American school options",
+    "tribal education programs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Native American Education Opportunity Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-native-american-education-opportunity-program",
+      "title": "Section 2  Native American Education Opportunity Program",
+      "text": "This section creates a new education savings account program for Native American students. Starting in the twenty twenty five to twenty twenty six school year, the Department of Education and the Department of the Interior will give money to tribes that want to run education savings account programs. Each eligible Native American student would get eight thousand dollars per year put into their education savings account. Students can only get this money if they have not yet earned a regular high school diploma and are enrolled members of a tribe. To be eligible, students must have attended a Bureau of Indian Education school before applying, or be planning to start kindergarten or another elementary grade at a Bureau of Indian Education school, or not be attending any other public school or getting money from another tribe's program. Tribes can hire nonprofit organizations to help run these programs. The money in these accounts can be used for many education expenses including private tutoring, private school tuition, online learning programs, some public school services, textbooks and learning materials, computers and technology for education, educational software, private school uniforms, test fees, summer education programs, therapy services, transportation to educational services, college costs, job training programs, professional certification exam fees, and college savings contributions. Tribes must give out the money twice per year and can only use five percent of the money for running the program. Any unused money stays in the account for future use. The account ends when a student enrolls full time in public school, finishes college or turns twenty five years old, or if they have a disability when they turn twenty six years old, or if no money is used for two years in a row. States must count students with these accounts as meeting school attendance requirements. If a student with an account goes to public school part time, the family must pay for those services using money from the account. Education service providers must talk with tribal officials before serving students and keep records of these meetings. The money given to students is considered help for the student, not for any school they attend, and does not count as income for taxes or other federal programs. This program ends five years after this law is passed.",
+      "word_offset": 11,
+      "char_offset": 70
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-amendments-to-the-elementary-and-secondary-education-act-of-1965",
+      "title": "Section 3  Amendments to the Elementary and Secondary Education Act of 1965",
+      "text": "This section changes an existing education law to set aside half of one percent of certain education funding for tribes that run education savings account programs under this new law.",
+      "word_offset": 390,
+      "char_offset": 2442
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-charter-schools-authorized",
+      "title": "Section 4  Charter Schools Authorized",
+      "text": "This section allows the Bureau of Indian Education to approve and fund charter schools at any school the Bureau operates or funds. Tribes can use existing Bureau buildings to run these charter schools and can hire tribal organizations or other groups to manage them. These Bureau funded charter schools must be approved by both the tribal government and the Bureau of Indian Education. They must be free from many federal, state, and local rules that make school management difficult, but they still have to follow important requirements. The schools must be created by a developer which could be teachers, administrators, parents, or community members with specific education goals agreed to by the tribe and Bureau. These schools can teach elementary or secondary students but cannot be religious schools and cannot charge tuition. They must follow civil rights laws, disability laws, privacy laws, and other federal requirements. Parents choose to send their children to these schools, and if more students apply than can fit, the school must use a lottery system to choose students. The schools must follow the same audit and safety requirements as other Bureau funded schools and must have a written contract with the Bureau that explains how student success will be measured. These charter schools can also serve early childhood education programs.",
+      "word_offset": 420,
+      "char_offset": 2626
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-gao-study",
+      "title": "Section 5  GAO Study",
+      "text": "Within three years after this law is passed, the Government Accountability Office must study how well the new programs created by this law are working. They must look at what factors help or hurt participation in the education savings account programs. The GAO must write a report about what they find and give it to the Senate Committee on Indian Affairs and the House Subcommittee on Indian, Insular and Alaska Native Affairs. They must also make this report available to the public.",
+      "word_offset": 635,
+      "char_offset": 3981
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-severability",
+      "title": "Section 6  Severability",
+      "text": "If any part of this law is found to be invalid by a court, the rest of the law will still be in effect. This means that one bad part cannot make the whole law fail.",
+      "word_offset": 717,
+      "char_offset": 4467
+    }
+  ]
+}

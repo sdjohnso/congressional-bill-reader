@@ -1,0 +1,95 @@
+{
+  "bill_id": "119-hr-487",
+  "title": "Hawaii Invasive Species Protection Act",
+  "short_title": "Hawaii Invasive Species Protection Act",
+  "congress": 119,
+  "bill_number": "HR.487",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Agriculture.",
+  "version_hash": "87aa76cca7e0d946",
+  "last_updated": "2026-03-20T15:01:18.270609+00:00",
+  "plain_summary": "This bill requires the government to carefully check all people, bags, packages, and mail going to or from Hawaii to stop harmful plants and animals from getting to the islands. The checks will happen at airports, shipping ports, and mail centers using visual searches, x-ray machines, and specially trained dogs. The government will work with Hawaii to make a list of dangerous items to watch for. People and businesses will have to pay fees to cover the cost of these inspections.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Agriculture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [
+    "Aviation and airports",
+    "Customs enforcement",
+    "Government information and archives",
+    "Hawaii",
+    "Horticulture and plants",
+    "Intergovernmental relations",
+    "Pest management",
+    "Postal service",
+    "Travel and tourism",
+    "User charges and fees"
+  ],
+  "sponsor_name": "Rep. Case, Ed [D-HI-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "HI",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Hawaii invasive species",
+    "airport inspections Hawaii",
+    "plant quarantine Hawaii",
+    "animal quarantine Hawaii",
+    "Hawaii pest control",
+    "invasive plants animals Hawaii",
+    "Hawaii agriculture protection",
+    "mail inspection Hawaii",
+    "Hawaii border security",
+    "stop invasive species Hawaii",
+    "Hawaii environmental protection",
+    "harmful species Hawaii"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law may be called the Hawaii Invasive Species Protection Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requiring-preclearance-quarantine-inspections-for-all-movement-to-or-from-the-state-of-hawaii",
+      "title": "Section 2 Requiring Preclearance Quarantine Inspections for All Movement to or from the State of Hawaii",
+      "text": "This section changes an existing law about farm security. The Secretary of Agriculture must work with the Animal and Plant Health Inspection Service and cooperate with other government departments including Interior, Homeland Security, Commerce, Treasury, and Hawaii's government. Together they must inspect people, luggage, cargo, and other items going to or from Hawaii on any trip whether from inside the United States or from other countries. They will use visual checks, x-ray machines, and dogs to look for dangerous invasive species and farm materials that could harm Hawaii. These inspections must happen before travel at all airports where flights leave for Hawaii, at ports where ships leave for Hawaii, and at postal service centers that handle mail going to Hawaii. The Secretary of Agriculture working with the Animal and Plant Health Inspection Service and Hawaii's government will create a list of items that need to be checked during these inspections. Within one hundred eighty days after this law is passed, they must publish this list in the Federal Register which is the official government publication. If dangerous invasive species or farm materials are found during inspections, they can be taken away and destroyed following the rules in section ten thousand four hundred seven of existing law.",
+      "word_offset": 11,
+      "char_offset": 67
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-preclearance-quarantine-inspections-for-plants",
+      "title": "Section 3 Preclearance Quarantine Inspections for Plants",
+      "text": "This section changes the Plant Protection Act. It adds new language to three different parts of the law. Each part now includes requirements to check for dangerous invasive species and farm materials going into Hawaii following the rules described in section two of this new law.",
+      "word_offset": 217,
+      "char_offset": 1386
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-collection-of-fees-for-inspection-services",
+      "title": "Section 4 Collection of Fees for Inspection Services",
+      "text": "This section changes an existing law about food, agriculture, conservation, and trade from nineteen ninety. It adds language saying that fees for inspection services must include the cost of services provided when items arrive in Hawaii for checking dangerous invasive species under the new inspection rules. It also adds language about fees for checking imports, entries, and exports to or from Hawaii for dangerous invasive species under the new inspection rules.",
+      "word_offset": 263,
+      "char_offset": 1666
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-fees-for-inspection-of-plants-for-exporting-or-transiting",
+      "title": "Section 5 Fees for Inspection of Plants for Exporting or Transiting",
+      "text": "This section changes the Department of Agriculture Organic Act from nineteen forty four. It adds a new paragraph saying the Secretary of Agriculture must set and collect user fees that cover the full cost of the new quarantine inspections required under this law.",
+      "word_offset": 334,
+      "char_offset": 2132
+    }
+  ]
+}

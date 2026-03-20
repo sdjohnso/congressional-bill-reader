@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-hr-637",
+  "title": "911 SAVES Act",
+  "short_title": "911 SAVES Act",
+  "congress": 119,
+  "bill_number": "HR.637",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "229aefc3d65fcafb",
+  "last_updated": "2026-03-20T14:37:21.240344+00:00",
+  "plain_summary": "The 911 SAVES Act changes how the government officially classifies 911 operators in their job system. Right now, 911 operators are not considered protective service workers, but this bill says they should be because they do important work saving lives and helping during emergencies. The government would have to make this change within 30 days of the law being passed. This new classification would better recognize that 911 operators do much more than just answer phone calls.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Emergency communications systems",
+    "Government employee pay, benefits, personnel management"
+  ],
+  "sponsor_name": "Rep. Torres, Norma J. [D-CA-35]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 70,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "911 operator",
+    "emergency dispatcher",
+    "first responder",
+    "emergency call center",
+    "911 dispatcher benefits",
+    "emergency operator classification",
+    "protective service worker",
+    "government job categories",
+    "emergency response worker",
+    "911 call taker"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Supporting Accurate Views of Emergency Services Act of two thousand twenty five or the nine one one SAVES Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2 Findings",
+      "text": "Congress has found these facts. Public Safety Telecommunicators (the people who answer nine one one calls) play a very important role in emergency response. Their work goes far beyond just passing messages between the public and first responders like police and firefighters. When people call about missing, kidnapped, and sexually abused children, the information that Public Safety Telecommunicators collect and the actions they take form the basis for an effective response. When someone who has taken hostages or wants to harm themselves calls nine one one, the Public Safety Telecommunicator is the first person they talk to. The telecommunicator's ability to talk with them and calm them down can prevent the situation from getting worse. During active shooter incidents, Public Safety Telecommunicators help callers give first aid and tell them how to stay safe. At the same time, they gather important information to help responding officers understand what is happening. When police officers, firefighters, and Emergency Medical Technicians are being shot at, they call Public Safety Telecommunicators for help. Public Safety Telecommunicators often talk with people who are very upset, scared, hurt, or in danger. They use their experience and training to recognize important information. There have been times when Public Safety Telecommunicators heard the sound of a gun being loaded and warned law enforcement officers. This prevented serious harm or death to officers who would have walked into a dangerous trap. This work has a huge emotional and physical impact that gets worse because of long work hours and the fact that the job happens around the clock. Research shows that Public Safety Telecommunicators are exposed to trauma that may cause them to develop posttraumatic stress disorder (a mental health condition caused by experiencing or witnessing traumatic events). Some agencies provide Critical Incident Stress Debriefing teams to help reduce the psychological impact and help Public Safety Telecommunicators and first responders recover faster. The Standard Occupational Classification system is designed and maintained only for collecting statistics. Federal agencies use it to put workers and jobs into occupational categories so they can collect, calculate, analyze, and share data. Jobs in the Standard Occupational Classification are grouped based on the work performed and sometimes on the skills, education, or training needed to do the work. Putting public safety telecommunicators in the Protective Service Occupations category would fix an incorrect representation in the Standard Occupational Classification. It would recognize these professionals for the lifesaving work they do and better align the Standard Occupational Classification with related classification systems.",
+      "word_offset": 25,
+      "char_offset": 138
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-review-of-standard-occupational-classification-system",
+      "title": "Section 3 Review of Standard Occupational Classification System",
+      "text": "The Director of the Office of Management and Budget must categorize public safety telecommunicators as a protective service occupation under the Standard Occupational Classification System. This must happen no later than thirty days after this law is passed.",
+      "word_offset": 440,
+      "char_offset": 2952
+    }
+  ]
+}

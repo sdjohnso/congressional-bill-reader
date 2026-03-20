@@ -1,0 +1,79 @@
+{
+  "bill_id": "119-hr-555",
+  "title": "Veterans Affairs Transfer of Information and Sharing of Disability Examination Procedures With DOD Doctors Act",
+  "short_title": "Veterans Affairs Transfer of Information and Sharing of Disability Examination Procedures With DOD Doctors Act",
+  "congress": 119,
+  "bill_number": "HR.555",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+  "version_hash": "c428b3b47f54d650",
+  "last_updated": "2026-03-20T16:01:28.411293+00:00",
+  "plain_summary": "This bill changes how military members get checked for disabilities when they leave the military. If a service member might have a disability that could get them VA benefits, they must be examined by a doctor who is certified by the VA. The VA has to accept whatever that certified doctor decides about the disability. The bill also requires the military and the VA to work together to create a shared computer system that keeps track of medical records and other important information about service members and veterans.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-20",
+  "last_action_date": "2025-02-20",
+  "last_action_text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Department of Veterans Affairs",
+    "Disability and paralysis",
+    "Disability assistance",
+    "Health information and medical records",
+    "Health personnel",
+    "Medical tests and diagnostic methods",
+    "Military personnel and dependents",
+    "Personnel records",
+    "Veterans' medical care",
+    "Veterans' pensions and compensation"
+  ],
+  "sponsor_name": "Rep. Wittman, Robert J. [R-VA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans disability benefits",
+    "military medical exams",
+    "VA disability rating",
+    "leaving the military",
+    "service connected disability",
+    "military to civilian transition",
+    "veterans medical records",
+    "disability compensation",
+    "military discharge physical",
+    "VA certified doctors",
+    "veterans benefits eligibility",
+    "military disability evaluation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Veterans Affairs Transfer of Information and Sharing of Disability Examination Procedures With DOD Doctors Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-inclusion-of-single-comprehensive-disability-examination",
+      "title": "Section 2 Inclusion of Single Comprehensive Disability Examination as Part of Required Department of Defense Physical Examination for Separating Members of the Armed Forces",
+      "text": "This section changes the rules about medical exams for service members who are leaving the military. When a service member gets their required physical exam before leaving the military, there are new rules if they have or might have a medical condition that could qualify them for disability benefits from the Department of Veterans Affairs. If this happens, the physical exam must be done by a doctor who is certified by the Department of Veterans Affairs to decide if someone qualifies for disability benefits. If a medical condition that might qualify for benefits is found during the exam and the doctor doing the exam is not certified by the Department of Veterans Affairs, then a certified doctor must complete the exam. When a certified doctor decides during this physical exam that someone qualifies for disability benefits, the Department of Veterans Affairs must accept this decision. The Department of Veterans Affairs must use this decision to assign a disability rating to the person leaving the military.",
+      "word_offset": 21,
+      "char_offset": 139
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-joint-recordkeeping-system",
+      "title": "Section 3 Department of Defense and Department of Veterans Affairs Joint Recordkeeping System",
+      "text": "The Secretary of Veterans Affairs and the Secretary of Defense must work together to create a shared computer system. Both the Department of Defense and the Department of Veterans Affairs will use this system to create and store medical records and personnel files for active military members and veterans. This system will let both departments share information with each other.",
+      "word_offset": 186,
+      "char_offset": 1158
+    }
+  ]
+}

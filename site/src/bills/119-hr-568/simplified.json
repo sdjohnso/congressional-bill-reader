@@ -1,0 +1,80 @@
+{
+  "bill_id": "119-hr-568",
+  "title": "Auto Theft Prevention Act",
+  "short_title": "Auto Theft Prevention Act",
+  "congress": 119,
+  "bill_number": "HR.568",
+  "introduced_date": "2025-01-20",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "a14d1b6d4686e54f",
+  "last_updated": "2026-03-20T12:58:52.225391+00:00",
+  "plain_summary": "This bill creates a new program to help police fight car theft. The government will give thirty million dollars each year to state and local police departments. Police can use this money to buy equipment, hire more officers, pay for extra work hours, and train their staff. The money can also help different police groups work together to stop people from stealing cars and selling them to others.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-20",
+  "last_action_date": "2025-01-20",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Crimes against property",
+    "Law enforcement administration and funding",
+    "Motor vehicles",
+    "Smuggling and trafficking",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Sherrill, Mikie [D-NJ-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "car theft",
+    "auto theft",
+    "vehicle theft",
+    "stolen cars",
+    "police funding",
+    "car crime",
+    "theft prevention",
+    "law enforcement money",
+    "stop car thieves",
+    "vehicle crime prevention"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Auto Theft Prevention Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-auto-theft-prevention-grant-program",
+      "title": "Section 2 Auto Theft Prevention Grant Program",
+      "text": "Within sixty days after this law is passed, the Director of the Office of Community Oriented Policing Services at the Department of Justice must create a grant program called the Auto Theft Prevention Grant Program. This program will give money to state and local police departments to fight car theft and the illegal buying and selling of stolen cars. The Director will give grants to each state's Attorney General. States with more car thefts will get more money based on how many cars were stolen in their state the year before the grant is given out. Each state's Attorney General must give at least fifty percent of their grant money to local police departments through competitive grants. Local areas with more car thefts get priority for this money. The state must give at least twenty-five percent of the grant money to state police departments. Any leftover money can go to either local or state police departments, with local departments still getting priority if they have higher car theft rates. Grant money can only be used to fight car theft and stolen car trafficking. This includes buying equipment like police cars and license plate readers, paying for equipment costs like subscription fees and data storage, hiring more police officers and support staff, paying overtime costs for officers working on car theft cases, providing training for officers and staff, supporting joint task forces that work on car theft, funding data collection and research about car theft, and paying administrative costs for applying for and managing the grant up to five percent of the total grant amount. Congress approves spending thirty million dollars each year from fiscal year two thousand twenty-six through two thousand thirty to fund this program.",
+      "word_offset": 10,
+      "char_offset": 54
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-additional-authorized-uses-of-cops-grant-program-funds",
+      "title": "Section 3 Additional Authorized Uses of COPS Grant Program Funds",
+      "text": "This section changes the Omnibus Crime Control and Safe Streets Act of nineteen sixty-eight to add a new allowed use for COPS grant program money. Police departments can now use COPS grants to fight car thefts and stolen car trafficking by buying equipment, hiring police officers and support staff, paying overtime and officer compensation costs, expanding training programs, funding joint task forces, and paying for data collection and research activities related to car thefts.",
+      "word_offset": 296,
+      "char_offset": 1810
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-definitions",
+      "title": "Section 4 Definitions",
+      "text": "In this law, a local law enforcement agency means any organization run by a city, county, or other local government that mainly works to prevent crime, catch criminals, and enforce criminal laws. A locality means any city, county, township, town, borough, parish, village, or other general purpose local government within a state. A state means any of the fifty United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands. A state law enforcement agency means any state government organization that mainly works to prevent crime, catch criminals, and enforce criminal laws.",
+      "word_offset": 370,
+      "char_offset": 2292
+    }
+  ]
+}

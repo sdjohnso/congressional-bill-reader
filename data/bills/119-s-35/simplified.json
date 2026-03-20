@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-s-35",
+  "title": "Homeowners Premium Tax Reduction Act of 2025",
+  "short_title": "Homeowners Premium Tax Reduction Act of 2025",
+  "congress": 119,
+  "bill_number": "S.35",
+  "introduced_date": "2025-01-08",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Finance.",
+  "version_hash": "33d3c51c7e12d939",
+  "last_updated": "2026-03-20T15:08:56.982185+00:00",
+  "plain_summary": "This bill creates a new tax break for homeowners. People who own homes can subtract up to ten thousand dollars from their income when they pay taxes if they bought homeowners insurance for their main home. This deduction helps reduce how much money homeowners have to pay in taxes each year. The new rule starts after the bill becomes law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-08",
+  "last_action_date": "2025-01-08",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Income tax deductions",
+    "Life, casualty, property insurance"
+  ],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "homeowners insurance tax deduction",
+    "home insurance tax break",
+    "property insurance deduction",
+    "homeowners tax relief",
+    "insurance premium deduction",
+    "home insurance write off",
+    "homeowners insurance savings",
+    "property insurance tax credit",
+    "home insurance tax benefits",
+    "homeowners deduction 2025"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Homeowners Premium Tax Reduction Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-deduction-for-homeowners-insurance-premiums",
+      "title": "Section 2 Deduction For Homeowners Insurance Premiums",
+      "text": "This section changes the tax code to let people subtract homeowners insurance costs from their income before calculating taxes. People can deduct up to ten thousand dollars per year that they pay for homeowners insurance on their main home. The main home means the house where someone lives most of the time, using the same definition as other tax rules. This deduction gets subtracted from income early in the tax calculation process, which means it can lower taxes even for people who do not list out other deductions. The new rule applies to tax years that end after this law is signed.",
+      "word_offset": 16,
+      "char_offset": 93
+    }
+  ]
+}

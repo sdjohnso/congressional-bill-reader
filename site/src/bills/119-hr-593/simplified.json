@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-593",
+  "title": "Strengthening Pathways to Health Professions Act",
+  "short_title": "Strengthening Pathways to Health Professions Act",
+  "congress": 119,
+  "bill_number": "HR.593",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "b802a9049f93a467",
+  "last_updated": "2026-03-20T13:17:19.293584+00:00",
+  "plain_summary": "This bill changes tax rules to help people become health care workers. Right now, when someone gets money from government programs to pay for medical school or to pay back medical school loans, they have to pay taxes on that money. This bill says they would not have to pay income tax on that money anymore. The government hopes this will encourage more people to become doctors, nurses, and other health care workers. It especially wants to help areas that do not have enough medical professionals.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Government lending and loan guarantees",
+    "Income tax exclusion",
+    "Medical education",
+    "Student aid and college costs"
+  ],
+  "sponsor_name": "Rep. Tokuda, Jill N. [D-HI-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "HI",
+  "cosponsor_count": 7,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "medical school tax relief",
+    "healthcare worker tax breaks",
+    "doctor loan forgiveness",
+    "nurse education funding",
+    "medical student debt help",
+    "healthcare professional shortage",
+    "tax free medical school aid",
+    "government health worker programs",
+    "medical training incentives",
+    "healthcare career support"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Strengthening Pathways to Health Professions Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-tax-treatment-of-certain-health-professions-education-payments",
+      "title": "Section 2 Tax Treatment of Certain Health Professions Education Payments",
+      "text": "This section changes how the government taxes money that health care workers receive to pay back their student loans or get scholarships. When someone receives money from certain government loan repayment programs, they will not have to pay income tax on that money. This includes money from federal programs that help pay back loans for health workers who agree to work in areas that need more doctors and nurses. It also includes money from similar state programs that try to get more health care workers to serve in areas that do not have enough medical professionals. The law also says that scholarships from certain federal health programs will not count as taxable income. This includes scholarships from programs that train health workers and a special program for Native Hawaiian health care. These tax changes will start applying to money received in tax years that begin after this law is signed.",
+      "word_offset": 12,
+      "char_offset": 77
+    }
+  ]
+}

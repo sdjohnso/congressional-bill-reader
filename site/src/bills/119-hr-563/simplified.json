@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-hr-563",
+  "title": "No Retaining Every Gun In a System That Restricts Your Rights Act",
+  "short_title": "No Retaining Every Gun In a System That Restricts Your Rights Act",
+  "congress": 119,
+  "bill_number": "HR.563",
+  "introduced_date": "2025-01-20",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "daadf5e15de2cfa6",
+  "last_updated": "2026-03-20T16:07:03.083550+00:00",
+  "plain_summary": "This bill changes the rules about gun store records when those stores close down. Right now, when a gun store goes out of business, it has to give all its records about gun sales to the federal government. This bill would stop that from happening in the future. It also requires the government to destroy all the gun store records it has already collected within 90 days. The government must then report to Congress about how many records were destroyed.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-20",
+  "last_action_date": "2025-01-20",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Business records",
+    "Congressional oversight",
+    "Firearms and explosives",
+    "Government information and archives"
+  ],
+  "sponsor_name": "Rep. Cloud, Michael [R-TX-27]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 66,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gun store records",
+    "gun shop paperwork",
+    "firearm purchase records",
+    "gun sale documentation",
+    "gun store closing",
+    "federal gun registry",
+    "gun record destruction",
+    "firearms background check records",
+    "gun shop going out of business",
+    "government gun database",
+    "destroy gun records",
+    "gun store files"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Retaining Every Gun In a System That Restricts Your Rights Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-destruction-of-records",
+      "title": "Section 2 Destruction of Bureau of Alcohol, Tobacco, Firearms and Explosives Firearm Transaction Records of Discontinued Firearms Businesses",
+      "text": "Within ninety days after this law is passed, the Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives (the federal agency that regulates guns) must destroy all gun sale records that were given to the Attorney General when gun stores went out of business. The law also changes the existing rules to stop the federal government from collecting these records in the future when gun stores close down.",
+      "word_offset": 18,
+      "char_offset": 94
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-report-to-congress",
+      "title": "Section 3 Report to the Congress",
+      "text": "The Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives must send a written report to Congress that tells them exactly how many gun sale records were destroyed as required by this law.",
+      "word_offset": 87,
+      "char_offset": 507
+    }
+  ]
+}

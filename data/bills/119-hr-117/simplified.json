@@ -1,0 +1,101 @@
+{
+  "bill_id": "119-hr-117",
+  "title": "Fourth Amendment Restoration Act",
+  "short_title": "Fourth Amendment Restoration Act",
+  "congress": 119,
+  "bill_number": "HR.117",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a p",
+  "version_hash": "876dcc86a3413682",
+  "last_updated": "2026-03-20T11:02:21.872184+00:00",
+  "plain_summary": "This bill would get rid of a law called FISA that lets the government spy on Americans without regular court warrants when they say it's for national security reasons. Instead, government agents would have to get normal warrants from federal judges before they can listen to phone calls, search homes, or watch Americans for foreign intelligence work. If government workers spy on Americans without proper warrants, they could go to jail and pay big fines. The bill also says that information collected about Americans through special spy programs cannot be used against them in court cases or government investigations.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for considerati",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Criminal investigation, prosecution, interrogation",
+    "Criminal procedure and sentencing",
+    "Evidence and witnesses",
+    "Intelligence activities, surveillance, classified information",
+    "Jurisdiction and venue",
+    "Law enforcement officers",
+    "Right of privacy",
+    "Telephone and wireless communication"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government spying",
+    "phone tapping",
+    "surveillance without warrants",
+    "privacy rights",
+    "NSA spying",
+    "FISA court",
+    "government surveillance",
+    "warrantless wiretapping",
+    "constitutional rights",
+    "fourth amendment",
+    "domestic spying",
+    "government monitoring"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Fourth Amendment Restoration Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-foreign-surveillance-authorities",
+      "title": "Section 2  Repeal of Foreign Surveillance Authorities",
+      "text": "The Foreign Intelligence Surveillance Act of nineteen seventy eight is completely removed and no longer a law.",
+      "word_offset": 10,
+      "char_offset": 61
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-definitions",
+      "title": "Section 3  Definitions",
+      "text": "For this law, these terms have specific meanings. A pen register and trap and trace device are surveillance tools that have the same meanings given in section thirty one twenty seven of title eighteen of the United States Code. A United States citizen means any person who is a citizen of the United States. Foreign intelligence information means information about threats from other countries or their agents that could harm the United States through attacks, terrorism, sabotage, weapons of mass destruction, or secret spy activities. It can also mean information about foreign countries or territories that relates to protecting America or conducting foreign affairs. Electronic surveillance means using electronic devices to monitor the communications or activities of a specific American citizen inside the United States when that person would normally expect privacy and when police would need a warrant to do the same thing. Wire communication means any message sent through wires, cables, or similar connections operated by companies that provide communication services between states or countries.",
+      "word_offset": 27,
+      "char_offset": 172
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-prohibitions-on-surveilling-united-states-citizens",
+      "title": "Section 4  Prohibitions on Surveilling United States Citizens",
+      "text": "Any United States government officer must get a warrant from a federal court following normal criminal procedure rules before they can do any of these things to American citizens. They cannot conduct electronic surveillance of an American citizen without a warrant. They cannot physically search property that belongs only to an American citizen without a warrant. They cannot install or use pen registers or trap and trace devices mainly to get foreign intelligence about an American citizen without a warrant. They cannot demand things like books, records, papers, documents, or other items about an American citizen to get foreign intelligence without a warrant. They cannot target an American citizen to gather foreign intelligence without a warrant. Any information about American citizens that the government gets under Executive Order twelve thousand three hundred thirty three cannot be used as evidence against that citizen in any court case or investigation.",
+      "word_offset": 194,
+      "char_offset": 1279
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-limitation-on-use-of-information-concerning-united-states-citizens",
+      "title": "Section 5  Limitation on Use of Information Concerning United States Citizens",
+      "text": "If the government is watching someone who is not an American citizen and accidentally gathers information about an American citizen, that information cannot be used as evidence against the American citizen in any court case or investigation.",
+      "word_offset": 342,
+      "char_offset": 2248
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-criminal-sanctions",
+      "title": "Section 6  Criminal Sanctions",
+      "text": "A person commits a crime if they intentionally do surveillance activities described in section four without proper authorization from this law, title eighteen, or other specific laws that allow electronic surveillance. A person also commits a crime if they share or use information obtained through unauthorized surveillance methods, knowing the information was gathered illegally. It is a defense to these charges if the person was a law enforcement officer doing their official job and had proper authorization through a search warrant or court order from a proper court. Anyone who commits these crimes can be fined up to ten thousand dollars or sent to prison for at least five years, or both. Federal courts have the power to handle these cases if the person who committed the crime was working for the United States government when they did it.",
+      "word_offset": 379,
+      "char_offset": 2490
+    }
+  ]
+}

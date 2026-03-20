@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-102",
+  "title": "American Sovereignty and Species Protection Act of 2025",
+  "short_title": "American Sovereignty and Species Protection Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.102",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "9580294656f60842",
+  "last_updated": "2026-03-20T12:54:14.750954+00:00",
+  "plain_summary": "This bill changes the rules about protecting endangered animals and plants. It says the government can only protect species that naturally come from the United States, not animals or plants from other countries. The bill also stops the government from using money meant for protecting endangered species to buy or rent land in foreign countries. This means all the protection efforts and money would focus only on American species and American land.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "endangered species",
+    "protecting animals",
+    "wildlife protection",
+    "american animals only",
+    "foreign species",
+    "government spending wildlife",
+    "buying land animals",
+    "native species protection",
+    "us animals plants",
+    "wildlife funding",
+    "species protection money",
+    "american wildlife"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the American Sovereignty and Species Protection Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-listing-of-nonnative-species-and-provision-of-certain-financial-assistance",
+      "title": "Section 2  Limitation on Listing of Nonnative Species and Provision of Certain Financial Assistance",
+      "text": "This section changes the Endangered Species Act of nineteen seventy three in two ways. First, it adds a new rule that says the Secretary cannot put any animal or plant on the endangered or threatened species list if that animal or plant is not originally from the United States. An endangered species is one that is in danger of dying out completely. A threatened species is one that might become endangered soon. Second, it changes the rules about money the government gives to help protect species. The law already lets the government give money to help protect endangered species around the world. But this new rule says none of that money can be used to buy, rent, or get control of any land or water in foreign countries.",
+      "word_offset": 17,
+      "char_offset": 104
+    }
+  ]
+}

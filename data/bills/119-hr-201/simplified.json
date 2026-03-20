@@ -1,0 +1,107 @@
+{
+  "bill_id": "119-hr-201",
+  "title": "Federal Employee Performance and Accountability Act of 2025",
+  "short_title": "Federal Employee Performance and Accountability Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.201",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "d6912ffee962476c",
+  "last_updated": "2026-03-20T14:10:25.756845+00:00",
+  "plain_summary": "This bill creates a test program for five years that changes how some federal workers get paid based on how well they do their jobs. Workers at higher levels who do really well can get up to 10% more pay, workers who do okay get no extra pay, and workers who do poorly get 10% less pay and extra training. Each government agency has to pick between 1% and 10% of their eligible workers to try this new system. Agencies have to report each year on how well the program is working, and at the end there will be a final report on whether it was successful.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Employment and training programs",
+    "Government employee pay, benefits, personnel management",
+    "Government information and archives",
+    "Performance measurement",
+    "Wages and earnings"
+  ],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal employee pay",
+    "government worker performance",
+    "merit based pay",
+    "federal job performance",
+    "government employee raises",
+    "pay for performance",
+    "federal worker salaries",
+    "government job evaluation",
+    "federal employee bonuses",
+    "performance review pay",
+    "government worker accountability",
+    "federal pay system"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Federal Employee Performance and Accountability Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, certain words have specific meanings. Director means the Director of the Office of Management and Budget. Eligible employee means a federal worker in an executive agency who has a job at the GS-eleven, GS-twelve, GS-thirteen, GS-fourteen, or GS-fifteen pay level, or a senior level position above GS-fifteen. The employee must also have a job where their work can be clearly measured, such as project management, policy analysis, information technology, finance, procurement, team leadership, customer service, or claims processing. Executive agency means federal departments and agencies as defined in section one hundred five of title five of the United States Code. Participating agency means an executive agency that has at least one employee taking part in the program. Participating employee means an eligible employee who takes part in the program. Performance metrics means the standards that participating agencies create for their employees. These standards are tailored to each agency's specific work and may include productivity standards that measure completed work like cases or projects per quarter, quality standards that measure following rules and customer satisfaction, and timeliness standards that measure meeting deadlines and completing tasks on time. Program means the pilot program created under section three.",
+      "word_offset": 17,
+      "char_offset": 108
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-pilot-program-eligibility-and-program-scope",
+      "title": "Section 3 Pilot Program Eligibility and Program Scope",
+      "text": "The Director will run a pilot program for five years starting one hundred eighty days after this law is passed. This program will create a pay system based on how well employees perform their jobs. Each executive agency must have at least one percent but no more than ten percent of their eligible employees participate in the program. However, the head of an executive agency can choose not to participate if they decide it could create risks to national security or public safety. If an agency head makes this choice, they must give the Director a written explanation for their decision.",
+      "word_offset": 215,
+      "char_offset": 1457
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-performance-measurement-and-accountability",
+      "title": "Section 4 Performance Measurement and Accountability",
+      "text": "Each participating agency must create yearly performance standards for each participating employee. These standards relate to their main job duties and how they serve the public, focusing on productivity, quality, and timeliness. The Director will create a standard, fair performance review system that all participating agencies must use. This system will include regular reviews of how well participating employees are doing. Participating agencies must provide training and resources to help participating employees understand and meet their performance standards. This includes an introductory training course and feedback meetings every three months.",
+      "word_offset": 316,
+      "char_offset": 2047
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-incentive-pay-structure-and-non-monetary-benefits",
+      "title": "Section 5 Incentive Pay Structure and Non-Monetary Benefits",
+      "text": "Participating agencies will use a system with different levels of pay changes based on yearly performance reviews. Starting in the second year of the program and each year after, agencies will adjust employee pay if needed. Tier one employees who significantly exceeded their performance standards will get a pay increase of up to ten percent. Tier two employees who met their performance standards will not get a pay change. Tier three employees who did not meet their performance standards will have their pay reduced by ten percent and will receive training to help them improve. Agency heads can give bonuses to tier one employees if they choose. Agency heads can also give tier one and tier two employees benefits like flexible schedules, the option to work from home, technology upgrades, and parking options. Participating employees cannot receive any other pay increases, step increases, bonuses, or other money from the regular federal pay system while they are in this program. This includes regular cost of living increases, within grade pay increases, performance bonuses, and performance awards that are normally available under federal law.",
+      "word_offset": 406,
+      "char_offset": 2703
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-reporting-and-accountability",
+      "title": "Section 6 Reporting and Accountability",
+      "text": "Each year the program runs, participating agencies must send a report to the Director. The report must include data on cost savings, efficiency improvements, and overall productivity measures. It must also include examples of how productivity improvements helped public service and employee satisfaction. The Director will review these reports and recommend changes to participating agencies when needed. Each year, the Director must evaluate how well the program is working regarding productivity, budget impact, and employee satisfaction. The Director will publish this evaluation and send it to Congress. Within one year after the program ends, both the Comptroller General of the United States and the Director must evaluate how successful the program was and send Congress a report about how the program affected productivity, budgets, and employee engagement.",
+      "word_offset": 588,
+      "char_offset": 3858
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-funding",
+      "title": "Section 7 Funding",
+      "text": "No extra money is approved to carry out this law. The Office of Management and Budget, the Government Accountability Office, and each participating agency must use money that is already available to them to do their duties under this law.",
+      "word_offset": 715,
+      "char_offset": 4724
+    }
+  ]
+}

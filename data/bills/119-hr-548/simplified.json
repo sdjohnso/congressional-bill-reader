@@ -1,0 +1,124 @@
+{
+  "bill_id": "119-hr-548",
+  "title": "HSA Modernization Act",
+  "short_title": "HSA Modernization Act",
+  "congress": 119,
+  "bill_number": "HR.548",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "8c869b539f04b73e",
+  "last_updated": "2026-03-20T13:34:28.796893+00:00",
+  "plain_summary": "This bill changes the rules for Health Savings Accounts to make them easier to use for more people. It lets veterans, older people with Medicare Part A, and people who can use Indian Health Service put money into these special savings accounts for medical costs. The bill also makes it so more types of health insurance plans can work with these accounts. Finally, it increases how much money people can put into their Health Savings Accounts each year.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Van Duyne, Beth [R-TX-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 4,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "health savings account",
+    "medical savings",
+    "healthcare costs",
+    "veterans health benefits",
+    "medicare savings",
+    "indian health service",
+    "health insurance plans",
+    "medical expenses",
+    "tax free savings",
+    "healthcare funding",
+    "retirement health costs",
+    "medical account limits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law may be called the HSA Modernization Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-veterans-without-service-connected-disability",
+      "title": "Section 2. Individuals Without Service-Connected Disability and Eligible for Certain Veterans Benefits Permitted to Contribute to Health Savings Accounts",
+      "text": "This section changes the tax code to allow more veterans to put money into Health Savings Accounts (HSAs). Currently, veterans who get medical care from the Veterans Administration cannot contribute to HSAs unless their medical care is for an injury or illness caused by their military service. This law removes that restriction. Now any veteran who gets VA medical care can contribute to an HSA, even if their medical care is not related to their military service. This change will start on January first, two thousand twenty six.",
+      "word_offset": 9,
+      "char_offset": 50
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-medicare-part-a-eligibility",
+      "title": "Section 3. Individuals Entitled to Part A of Medicare by Reason of Age Allowed to Contribute to Health Savings Accounts",
+      "text": "This section allows people who have Medicare Part A because of their age to still put money into Health Savings Accounts. Currently, if you have Medicare Part A hospital insurance, you cannot contribute to an HSA. This law creates an exception for people who have Medicare Part A just because they turned sixty five years old. The law also makes changes to how these people can use their HSA money to buy health insurance and removes early withdrawal penalties for them. However, people who are not eligible to contribute to HSAs will still face penalties if they use HSA money for non-medical expenses. These changes will start on January first, two thousand twenty six.",
+      "word_offset": 97,
+      "char_offset": 582
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-indian-health-service-eligibility",
+      "title": "Section 4. Individuals Eligible for Indian Health Service Assistance Not Disqualified from Health Savings Accounts",
+      "text": "This section allows people who can get medical care from the Indian Health Service to still contribute to Health Savings Accounts. Currently, if you have other health coverage besides a high deductible health plan, you cannot contribute to an HSA. This law says that getting medical care from the Indian Health Service or from a tribal organization does not count as other health coverage. This means Native Americans and others who can use Indian Health Service programs can still put money into HSAs. This change will start on January first, two thousand twenty six.",
+      "word_offset": 211,
+      "char_offset": 1254
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-bronze-and-catastrophic-plans",
+      "title": "Section 5. Allowance of Bronze and Catastrophic Plans in Connection with Health Savings Accounts",
+      "text": "This section allows people with Bronze level or Catastrophic health plans sold through the Affordable Care Act marketplaces to use Health Savings Accounts. Currently, only high deductible health plans can be paired with HSAs. This law expands the definition of high deductible health plans to include Bronze and Catastrophic plans from the health insurance marketplaces. Bronze plans have lower monthly payments but higher out of pocket costs when you need care. Catastrophic plans have very low monthly payments but very high deductibles and are mainly for emergencies. This change will start on January first, two thousand twenty six.",
+      "word_offset": 305,
+      "char_offset": 1823
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-mental-health-services-safe-harbor",
+      "title": "Section 6. Safe Harbor for Absence of Deductible for Mental Health Services",
+      "text": "This section allows health plans to cover up to five hundred dollars of mental health services without requiring people to meet their deductible first, while still qualifying as a high deductible health plan for HSA purposes. Normally, high deductible health plans must make people pay the full deductible before the insurance starts covering costs. This law creates an exception for mental health benefits. Insurance companies can choose to cover the first five hundred dollars of mental health care right away without making people pay their deductible first. The plan will still count as a high deductible health plan that can be used with an HSA. This change will start on January first, two thousand twenty six.",
+      "word_offset": 403,
+      "char_offset": 2460
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-medical-expenses-before-account-establishment",
+      "title": "Section 7. Special Rule for Certain Medical Expenses Incurred Before Establishment of Health Savings Account",
+      "text": "This section allows people to use HSA money to pay for medical bills they had before they opened their HSA account, as long as they open the account within sixty days of when their high deductible health plan coverage started. Currently, you can only use HSA money to pay for medical expenses that happen after you open the account. This law gives people a sixty day window to open an HSA account and then use the money to pay for medical bills from the time their insurance coverage began, even if those bills came before they actually opened the HSA. This helps people who need medical care right when their insurance starts but have not opened an HSA yet. This change applies to insurance coverage that begins after December thirty first, two thousand twenty five.",
+      "word_offset": 519,
+      "char_offset": 3177
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-spousal-catch-up-contributions",
+      "title": "Section 8. Allow Both Spouses to Make Catch-Up Contributions to the Same Health Savings Account",
+      "text": "This section changes the rules for married couples who both want to put extra money into their Health Savings Account because they are fifty five or older. Currently, if both spouses are over fifty five and want to make these extra contributions called catch up contributions, they each need their own separate HSA. This law allows both spouses to make catch up contributions to the same HSA account if they both qualify. The law also clarifies how married couples should split their total HSA contribution limit between them. If both spouses have family health insurance coverage, they still only get one family contribution limit total, but they can divide it between them however they agree. If they cannot agree, the limit gets split equally. This change will start on January first, two thousand twenty six.",
+      "word_offset": 654,
+      "char_offset": 3945
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-increased-contribution-limits",
+      "title": "Section 9. Maximum Contribution Limit to Health Savings Account Increased to Amount of Deductible and Out-of-Pocket Limitation",
+      "text": "This section increases how much money people can put into their Health Savings Accounts each year. Currently, there are set dollar limits on HSA contributions that are lower than what people might actually have to pay out of pocket for medical care. This law changes the contribution limits to match the maximum out of pocket costs that people with high deductible health plans can be required to pay. For people with individual coverage, they can now contribute up to their plan's maximum out of pocket limit. For people with family coverage, they can contribute up to their family plan's maximum out of pocket limit. This means people can save enough in their HSA to cover all the medical costs they might have to pay themselves. These new higher contribution limits will start on January first, two thousand twenty six.",
+      "word_offset": 789,
+      "char_offset": 4758
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-long-term-care-services-clarification",
+      "title": "Section 10. Clarification of Treatment of Distributions from Health Savings Account for Long-Term Care Services",
+      "text": "This section makes it clear that people can use money from their Health Savings Account to pay for qualified long term care services without paying taxes or penalties on that money. Long term care services include things like help with daily activities such as bathing, dressing, and eating, or nursing home care for people who cannot live independently. The law clarifies that these services count as qualified medical expenses that can be paid for with HSA money. This clarification applies to payments made after this law is signed. The law also states that this clarification does not change how payments made before this law was signed should be treated for tax purposes.",
+      "word_offset": 928,
+      "char_offset": 5581
+    }
+  ]
+}

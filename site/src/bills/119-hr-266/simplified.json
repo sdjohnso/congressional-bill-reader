@@ -1,0 +1,85 @@
+{
+  "bill_id": "119-hr-266",
+  "title": "Educational Opportunity and Success Act of 2025",
+  "short_title": "Educational Opportunity and Success Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.266",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "7facfd998108964e",
+  "last_updated": "2026-03-20T11:54:18.291196+00:00",
+  "plain_summary": "This bill extends funding for TRIO programs through 2030 and makes several improvements to help more students succeed. TRIO programs help first-generation college students, low-income students, and students with disabilities get support and services they need for education. The bill makes it easier for organizations to apply for grants to run these programs and prevents applications from being rejected for small mistakes. It also increases the monthly payments that students in Upward Bound and McNair programs can receive and allows programs to use recent financial aid forms to determine if students qualify for help.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Academic performance and assessments",
+    "Adult education and literacy",
+    "Education of the disadvantaged",
+    "Education programs funding",
+    "Elementary and secondary education",
+    "Higher education",
+    "Student aid and college costs",
+    "Veterans' education, employment, rehabilitation"
+  ],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "college support programs",
+    "first generation college students",
+    "low income student help",
+    "TRIO programs",
+    "college prep assistance",
+    "student disability services",
+    "Upward Bound",
+    "college readiness programs",
+    "education funding 2025",
+    "college access programs",
+    "student financial aid",
+    "college success support"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Educational Opportunity and Success Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-program-authority-and-authorization-of-appropriations-for-federal-trio-programs",
+      "title": "Section 2  Program Authority and Authorization of Appropriations for Federal TRIO Programs",
+      "text": "This section makes changes to the Federal TRIO programs. These programs help students who are the first in their family to go to college, students from low income families, and students with disabilities get ready for and succeed in college. The minimum grant amounts are increased from two hundred thousand dollars to two hundred twenty thousand dollars for some grants, and from one hundred seventy thousand dollars to one hundred ninety thousand dollars for others. When organizations apply for grants, they will be judged on their past success in providing high quality services, not just their past experience. The Department of Education must give clearer guidance to people applying for grants at least ninety days before each competition begins. This guidance must explain the rights and responsibilities of applicants and describe how applications are submitted, processed, and scored. The Department can only suggest page limits and formatting requirements for applications but cannot reject applications that do not follow these suggestions. If there are small errors like typos or rounding mistakes in budget sections, the Department must give applicants at least fourteen days to fix these errors before rejecting the application. Organizations can request a review if they believe the Department or peer reviewers made technical, administrative, or scoring errors. If the Department made an error, they must fix it and adjust the score accordingly. If a peer reviewer made an error, a new panel of reviewers who did not review the original application must conduct a secondary review. The Department must provide at least one virtual training session using technology to help interested applicants get technical assistance. The ways to prove someone is a low income individual are expanded to include students who qualify for Federal Pell Grants or students who attend schools with high percentages of students receiving free or reduced lunch. The definition of low income individual is changed to include families whose income is up to one hundred fifty percent of the poverty level instead of the current lower threshold. One billion one hundred million dollars is authorized for fiscal year two thousand twenty five, with additional amounts as needed for the next five years. Up to one percent of this money can be used by the Department to hire more application reviewers, increase oversight, conduct studies, and provide technical assistance.",
+      "word_offset": 16,
+      "char_offset": 96
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-upward-bound",
+      "title": "Section 3  Upward Bound",
+      "text": "This section increases the monthly payments that students in Upward Bound programs can receive. The amounts increase from sixty dollars to ninety dollars per month, from three hundred dollars to four hundred fifty dollars per month, and from forty dollars to sixty dollars per month depending on the type of participation. Veterans who participate in special Upward Bound programs designed for them can receive up to one hundred dollars per month during the year.",
+      "word_offset": 400,
+      "char_offset": 2558
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-postbaccalaureate-achievement-program-authority",
+      "title": "Section 4  Postbaccalaureate Achievement Program Authority",
+      "text": "This section makes changes to programs that help students prepare for graduate school after they finish their bachelor's degree. The programs can now offer internships or faculty led research experiences instead of just summer internships. The monthly payments to students in these programs increase from two thousand eight hundred dollars to four thousand dollars.",
+      "word_offset": 474,
+      "char_offset": 3022
+    }
+  ]
+}

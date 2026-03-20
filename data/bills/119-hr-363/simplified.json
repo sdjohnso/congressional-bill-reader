@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-363",
+  "title": "Territorial Economic Recovery Act",
+  "short_title": "Territorial Economic Recovery Act",
+  "congress": 119,
+  "bill_number": "HR.363",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "fbf56ed5df641790",
+  "last_updated": "2026-03-20T13:08:25.228219+00:00",
+  "plain_summary": "This bill helps US territories like Puerto Rico and the Virgin Islands by changing tax rules for American companies. When American companies own foreign businesses that do most of their work in these territories, they will get special tax breaks. Starting in 2024, some of the money these businesses make will not be counted in certain tax calculations. This should help the economies of US territories grow and recover.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "American Samoa",
+    "Guam",
+    "Income tax exclusion",
+    "Northern Mariana Islands",
+    "Puerto Rico",
+    "Taxation of foreign income",
+    "U.S. territories and protectorates",
+    "Virgin Islands"
+  ],
+  "sponsor_name": "Del. Plaskett, Stacey E. [D-VI]",
+  "sponsor_party": "D",
+  "sponsor_state": "VI",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Puerto Rico tax relief",
+    "US territories economic help",
+    "Virgin Islands business tax breaks",
+    "American companies overseas tax",
+    "territorial recovery funding",
+    "Guam economic development",
+    "US territory tax incentives",
+    "foreign business tax exclusion",
+    "island economies recovery",
+    "American Samoa business support"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Territorial Economic Recovery Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-income-exclusion",
+      "title": "Section 2 Income of Certain Qualified Possession Corporations Excluded from Tested Income",
+      "text": "This section changes the tax code to help businesses in US territories like Puerto Rico and the Virgin Islands. When US companies own foreign companies that do most of their business in these territories, some of their income will not count toward a special tax calculation. To qualify, the foreign company must get at least eighty percent of its money from sources in US territories over a three year period. Also, at least seventy five percent of its money must come from actually running a business in these territories, not just from investments. A possession of the United States means Puerto Rico, the Virgin Islands, and other US territories listed in the tax code. A qualified possession corporation is a foreign company owned by US shareholders that meets these territory business requirements. These changes will apply to tax years starting after December thirty first, two thousand twenty three.",
+      "word_offset": 10,
+      "char_offset": 62
+    }
+  ]
+}

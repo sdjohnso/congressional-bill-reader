@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-s-22",
+  "title": "SWAMP Act",
+  "short_title": "SWAMP Act",
+  "congress": 119,
+  "bill_number": "S.22",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "c543960e621171fe",
+  "last_updated": "2026-03-20T12:05:36.003617+00:00",
+  "plain_summary": "The SWAMP Act would force most government agency headquarters to move out of the Washington DC area. States and local governments could compete to have these agencies move to their areas instead. Agencies that are already in DC cannot build new buildings or sign new leases for their offices. The government would pay for these moves by using money it already has and by selling buildings.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Building construction",
+    "District of Columbia",
+    "Executive agency funding and structure",
+    "Government buildings, facilities, and property",
+    "Maryland",
+    "Virginia"
+  ],
+  "sponsor_name": "Sen. Ernst, Joni [R-IA]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government agencies leaving Washington",
+    "federal offices moving out of DC",
+    "relocate government headquarters",
+    "move federal agencies to states",
+    "government buildings Washington DC",
+    "federal workforce relocation",
+    "decentralize government agencies",
+    "move bureaucracy out of capital",
+    "federal offices in other states",
+    "government agency headquarters move",
+    "relocate federal departments"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Strategic Withdrawal of Agencies for Meaningful Placement Act or the SWAMP Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-relocation-of-headquarters-of-executive-agencies",
+      "title": "Section 2 Relocation of Headquarters of Executive Agencies",
+      "text": "This section explains how government agency headquarters must be moved out of the Washington DC area. An executive agency means a government department or office that works under the President, but this law does not apply to certain important agencies like the Department of Defense, Department of Energy, Department of State, CIA, and others that handle national security. Headquarters means the main office building where an agency's managers and administrators work, but does not include separate offices that agency leaders might keep in the Washington area. The Washington metropolitan area includes Washington DC and nearby counties in Maryland and Virginia like Montgomery County, Prince George's County, Arlington County, Fairfax County, Loudoun County, Prince William County, and the City of Alexandria. Starting when this law takes effect, no executive agency headquarters can be located in the Washington metropolitan area. However, agencies that already have their headquarters there can stay, but they cannot build new buildings, do major renovations, renew their lease agreements, or sign new lease agreements. Within one year of this law taking effect, the Administrator of General Services must create a process where agency heads can ask to move their headquarters or where the Administrator can require an agency to move. Any state or local government can submit a proposal to host an agency headquarters. The public must be given notice and a chance to comment on these proposals. The Administrator will work with the agency head to pick the best location using a competitive process that considers how the move would help the local economy and job market, whether the area has experience with work similar to what the agency does, and whether the move would affect national security. Areas in Maryland or Virginia that are outside the Washington metropolitan area can still submit proposals. The Administrator can use money from selling federal buildings or land to help pay for moving agency headquarters. The Administrator must use money that is already available and cannot request additional funding for this law.",
+      "word_offset": 18,
+      "char_offset": 107
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "bill_id": "119-s-163",
+  "title": "Protecting Students on Campus Act of 2025",
+  "short_title": "Protecting Students on Campus Act of 2025",
+  "congress": 119,
+  "bill_number": "S.163",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Committee on Health, Education, Labor, and Pensions. Committee consideration and Mark Up Session held.",
+  "version_hash": "5c80f8c7b4a97b9c",
+  "last_updated": "2026-03-20T11:05:01.737723+00:00",
+  "plain_summary": "This bill makes colleges tell students about their rights to not face discrimination based on race, color, or national origin. Colleges must put information on their websites and around campus about how students can file complaints if they experience discrimination. The Department of Education must create a public campaign to teach people about these rights and give monthly reports to Congress about discrimination complaints. The bill also stops the Department of Education from closing complaints too quickly and requires colleges to report on discrimination issues every year.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-04-30",
+  "last_action_text": "Committee on Health, Education, Labor, and Pensions. Committee consideration and Mark Up Session held.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Congressional oversight",
+    "Education programs funding",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Higher education",
+    "Racial and ethnic relations"
+  ],
+  "sponsor_name": "Sen. Cassidy, Bill [R-LA]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "college discrimination",
+    "campus civil rights",
+    "student rights",
+    "racial discrimination college",
+    "discrimination complaints",
+    "campus safety",
+    "college website requirements",
+    "student protection",
+    "education department oversight",
+    "discrimination reporting",
+    "campus equality",
+    "student complaint process"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting Students on Campus Act of two thousand and twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-title-vi-awareness-campaign",
+      "title": "Section 2  Title VI Awareness Campaign",
+      "text": "The Secretary of Education must create a public information campaign about the rights people have under Title VI of the Civil Rights Act of nineteen sixty four. Title VI is a law that protects people from discrimination based on race, color, or national origin. The person in charge of civil rights at the Department of Education will run this campaign. The campaign must include attractive pictures and sounds that catch people's attention. It must be updated every year and given to colleges and universities. Schools must put these materials in busy public places like student centers and on popular web pages like student services pages. The materials must be easy for students to access and understand. The Secretary can do this work directly or hire a nonprofit organization that knows how to create public awareness campaigns. All colleges and universities that take federal student aid money must follow new rules. They must put a link on their main website homepage that goes directly to the Office for Civil Rights webpage where people can file complaints about discrimination based on race, color, or national origin. They must also display and post the awareness campaign materials every year in busy places on campus and on popular school web pages.",
+      "word_offset": 17,
+      "char_offset": 94
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-congressional-briefings",
+      "title": "Section 3  Congressional Briefings",
+      "text": "Starting no later than thirty days after this law is passed and continuing for one full year, the person in charge of civil rights at the Department of Education must give a briefing to Congress every month. In each briefing, they must explain how many complaints the Office for Civil Rights received in the previous month about discrimination based on race, color, or national origin. They must break down these numbers by the type of discrimination. They must describe how the Office plans to handle these complaints and any investigations that were started because of them. They must also provide information about how long these complaints stay open after the Office receives them. No later than forty eight hours before each briefing, this official must give Congress a written report with all the same information that will be presented. This report must protect people's personal information according to privacy laws.",
+      "word_offset": 224,
+      "char_offset": 1357
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-audit-and-study",
+      "title": "Section 4  Audit and Study",
+      "text": "Every college and university that receives federal money must send an annual report to the Inspector General of the Department of Education. The Inspector General is an independent official who investigates problems in government agencies. Each report must include how many complaints about discrimination based on race, color, or national origin the school received in the previous year. It must analyze these complaints and explain what they were about. It must also describe what actions the school took to address these complaints. The Inspector General must complete an annual audit of the schools that have the highest number of complaints per student. The audit will look at the top five percent of schools based on how many complaints they get compared to their student population. The audit will examine how these schools handle complaints and whether any cases should be sent to the Office for Civil Rights. The Inspector General must also conduct a study to understand why there is a difference between the number of discrimination complaints that students file with their schools and the number they file directly with the Office for Civil Rights. The study must measure this difference with specific numbers.",
+      "word_offset": 374,
+      "char_offset": 2283
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-ocr-process-reforms",
+      "title": "Section 5  OCR Process Reforms",
+      "text": "The Office for Civil Rights of the Department of Education cannot close or dismiss any complaint just because another federal, state, or local civil rights agency handled it or because the school tried to resolve it through their own internal complaint process.",
+      "word_offset": 569,
+      "char_offset": 3505
+    }
+  ]
+}

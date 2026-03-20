@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-s-133",
+  "title": "Fire Suppression and Response Funding Assurance Act",
+  "short_title": "Fire Suppression and Response Funding Assurance Act",
+  "congress": 119,
+  "bill_number": "S.133",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "dc1f50d59248c682",
+  "last_updated": "2026-03-20T13:54:34.997362+00:00",
+  "plain_summary": "This law helps states and local communities pay for fighting fires by requiring the federal government to cover at least three-quarters of the costs. The government will also create new rules within three years about when they might pay even more money to help with fires. Additionally, the law allows communities to get money back for things they do to prepare for fires before the fires actually happen.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [],
+  "sponsor_name": "Sen. Padilla, Alex [D-CA]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 5,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "fire fighting funding",
+    "wildfire costs",
+    "federal money for fires",
+    "state fire assistance",
+    "local fire departments",
+    "fire prevention money",
+    "government pays fire expenses",
+    "firefighting budget help",
+    "emergency fire response",
+    "forest fire funding",
+    "fire suppression costs",
+    "disaster fire relief"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Fire Suppression and Response Funding Assurance Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-fire-management-assistance-cost-share",
+      "title": "Section 2  Fire Management Assistance Cost Share",
+      "text": "This section changes an existing law called the Robert T. Stafford Disaster Relief and Emergency Assistance Act. The change adds a new rule about fire management assistance. Under the new rule, the federal government must pay at least seventy-five percent of the costs when providing fire management assistance to states and local communities. The remaining twenty-five percent or less would be paid by the state or local government receiving the help. This new rule only applies to money that Congress approves for spending on or after the day this law is signed.",
+      "word_offset": 13,
+      "char_offset": 80
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-rulemaking",
+      "title": "Section 3  Rulemaking",
+      "text": "Within three years after this law is signed, the President must work with the head of the Federal Emergency Management Agency to create new rules. These rules will explain when the agency leader can ask the President to pay an even higher share of fire management costs than the minimum seventy-five percent. The Federal Emergency Management Agency is the government agency that helps with disasters and emergencies.",
+      "word_offset": 105,
+      "char_offset": 645
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-policy-update",
+      "title": "Section 4  Policy Update",
+      "text": "The head of the Federal Emergency Management Agency must update the rules for fire management grants. The new rules should match the way help is provided during major disasters and emergencies. The updated rules must allow states, local governments, and tribal governments to get their money back for fire fighting resources they move into position before a fire actually starts. This means they can be reimbursed for getting ready ahead of time, not just for fighting fires after they begin.",
+      "word_offset": 172,
+      "char_offset": 1062
+    }
+  ]
+}

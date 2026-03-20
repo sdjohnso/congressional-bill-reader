@@ -1,0 +1,84 @@
+{
+  "bill_id": "119-s-53",
+  "title": "PRINTS Act",
+  "short_title": "PRINTS Act",
+  "congress": 119,
+  "bill_number": "S.53",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "fcb9ca15dd5ee5ac",
+  "last_updated": "2026-03-20T12:29:39.969369+00:00",
+  "plain_summary": "The PRINTS Act helps protect children who might be victims of human trafficking at the US border. It requires border agents to fingerprint children under 14 years old if they suspect the child is being trafficked or used by adults who are not their real family members. The bill makes it a crime for adults to use children who are not their close relatives to help them enter the country illegally. Government agencies must share information about these children with each other and report to Congress about how many children are fingerprinted and how many fake families are caught.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Blackburn, Marsha [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 11,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "child trafficking",
+    "border protection",
+    "fake families",
+    "fingerprinting children",
+    "human trafficking",
+    "immigration fraud",
+    "children at border",
+    "trafficked kids",
+    "border security",
+    "protecting minors",
+    "illegal immigration children",
+    "child exploitation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-titles",
+      "title": "Section 1 Short Titles",
+      "text": "This law can be called the Preventing the Recycling of Immigrants is Necessary for Trafficking Suspension Act or the PRINTS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-authorization-of-fingerprinting",
+      "title": "Section 2 Authorization of Fingerprinting of Noncitizen Children Entering the United States to Reduce Child Trafficking",
+      "text": "This section changes an existing immigration law. The Secretary of Homeland Security must work with U.S. Customs and Border Protection (the agency that guards the border) to take fingerprints from children under fourteen years old who are entering the United States. They only need to do this if a border officer thinks the child might be a victim of human trafficking (when people are forced or tricked into working against their will). The rules for deciding when a child might be trafficked come from a law called the Trafficking Victims Protection Act of two thousand.",
+      "word_offset": 21,
+      "char_offset": 129
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-criminalizing-recycling-of-minors",
+      "title": "Section 3 Criminalizing Recycling of Minors",
+      "text": "This section creates a new crime. Any person who is eighteen years old or older cannot use a child to help them get into the United States unless that child is their relative or someone they legally take care of. A relative means someone related by blood within two generations, like a grandparent, parent, child, grandchild, sibling, aunt, uncle, niece, or nephew. If someone breaks this rule, they can be fined money, sent to prison for up to ten years, or both. This new crime will be added to the federal criminal code as section one thousand four hundred thirty.",
+      "word_offset": 116,
+      "char_offset": 702
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-information-sharing",
+      "title": "Section 4 Information Sharing",
+      "text": "When a child enters the United States alone and is moved from the care of the Department of Homeland Security to the Department of Health and Human Services, the fingerprints collected under this new law must be shared. The Secretary of Homeland Security must give these fingerprints to the Secretary of Health and Human Services when asked.",
+      "word_offset": 216,
+      "char_offset": 1270
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-reports",
+      "title": "Section 5 Reports",
+      "text": "The Secretary of Homeland Security must write a report to Congress every year. This report must say how many children had their fingerprints taken during the past year under this new law. The Secretary must also post information on a public U.S. Customs and Border Protection website every month. This information must show how many child traffickers were caught in the previous month who lied and said a child with them was their close relative when it was not true.",
+      "word_offset": 273,
+      "char_offset": 1612
+    }
+  ]
+}

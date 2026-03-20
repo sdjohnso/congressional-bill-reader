@@ -1,0 +1,91 @@
+{
+  "bill_id": "119-hr-271",
+  "title": "Defund Planned Parenthood Act of 2025",
+  "short_title": "Defund Planned Parenthood Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.271",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "9f8fa5ed5c374129",
+  "last_updated": "2026-03-20T14:59:31.009672+00:00",
+  "plain_summary": "This bill stops the federal government from giving money to Planned Parenthood for one year. Planned Parenthood can only get federal money if they promise not to do abortions, except in cases of rape, incest, or when the mother's life is in danger. The bill gives 235 million dollars to community health centers instead so women can still get health care. These community health centers must follow the same rules about abortions as Planned Parenthood.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Family planning and birth control",
+    "Health facilities and institutions",
+    "Health programs administration and funding",
+    "Sex and reproductive health",
+    "Women's health"
+  ],
+  "sponsor_name": "Rep. Fischbach, Michelle [R-MN-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "MN",
+  "cosponsor_count": 59,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "defund planned parenthood",
+    "stop funding planned parenthood",
+    "planned parenthood money",
+    "abortion funding ban",
+    "federal money abortion",
+    "community health centers funding",
+    "women's health care funding",
+    "planned parenthood federal funds",
+    "abortion exceptions rape incest",
+    "reproductive health funding",
+    "family planning money",
+    "health center grants"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Defund Planned Parenthood Act of two thousand and twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has found these facts. First, many places already provide health care services to women and will keep doing so. These places include state and county health departments, community health centers, hospitals, doctor offices, and other medical facilities. They offer services like medical tests, lab work, x-rays, child checkups, pregnancy care before and after birth, vaccinations, family planning help including birth control, cancer screenings for the cervix and breast with referrals for treatment, and testing for diseases spread through sex. Second, many of these places provide services to all people no matter if they can pay or not. They also serve areas and people who have trouble getting medical care. Third, all money that Planned Parenthood Federation of America Incorporated and its connected groups and clinics cannot get because of this law will still be given to other qualified organizations to provide women's health care services. Fourth, the money that section four allows and provides is balanced out by the funding limit in section three part a.",
+      "word_offset": 15,
+      "char_offset": 90
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-moratorium-on-federal-funding",
+      "title": "Section 3  Moratorium on Federal Funding to Planned Parenthood Federation of America, Inc.",
+      "text": "Starting on the day this law takes effect and continuing for one year, with the exception explained below, no money allowed or provided by federal law can be given for any reason to Planned Parenthood Federation of America Incorporated or any group or clinic connected to Planned Parenthood Federation of America Incorporated. The only way they can get federal money is if they promise in writing that Planned Parenthood groups and clinics will not perform abortions and will not give any money to any other organization that performs abortions during this one year period. There is an exception to this rule. The funding ban does not apply to abortions if the pregnancy happened because of rape or incest, or if a woman has a physical problem, injury, or illness that would put her life in danger if she does not have an abortion. A doctor must confirm in writing that her life is in danger. This includes life threatening conditions caused by the pregnancy itself. If Planned Parenthood Federation of America Incorporated or any connected group or clinic breaks the written promise during this one year period, the Secretary of Health and Human Services and the Secretary of Agriculture must try to get back any federal money they received.",
+      "word_offset": 182,
+      "char_offset": 1166
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-funding-for-community-health-center-program",
+      "title": "Section 4  Funding for Community Health Center Program",
+      "text": "The government allows and provides two hundred and thirty-five million dollars for the community health center program. This program is found in section three hundred and thirty of the Public Health Service Act in the United States Code section two hundred and fifty-four b. This money is in addition to any other money already given to this program. This extra funding lasts for the same time period that the funding limit in section three part a applies. None of this money can be spent on abortions except in the cases described in section three part b, which are rape, incest, or when the mother's life is in danger.",
+      "word_offset": 391,
+      "char_offset": 2409
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-rule-of-construction",
+      "title": "Section 5  Rule of Construction",
+      "text": "Nothing in this law should be understood as reducing the total amount of federal money available to support women's health care.",
+      "word_offset": 499,
+      "char_offset": 3030
+    }
+  ]
+}

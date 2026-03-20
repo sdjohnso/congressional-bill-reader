@@ -1,0 +1,180 @@
+{
+  "bill_id": "119-hr-14",
+  "title": "John R. Lewis Voting Rights Advancement Act of 2025",
+  "short_title": "John R. Lewis Voting Rights Advancement Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.14",
+  "introduced_date": "2025-03-05",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "2a8834e9c8395c5d",
+  "last_updated": "2026-03-20T11:38:56.928674+00:00",
+  "plain_summary": "This bill strengthens voting rights laws to make sure all Americans can vote fairly. It requires certain states and local areas to get permission from the federal government before they change their voting rules, especially if they have a history of making it harder for people to vote. These places must also tell the public about any voting changes they want to make. The bill makes it easier for people to go to court if they think voting rules are unfair or discriminatory. The goal is to protect everyone's right to vote and prevent discrimination at the polls.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-05",
+  "last_action_date": "2025-03-05",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Sewell, Terri A. [D-AL-7]",
+  "sponsor_party": "D",
+  "sponsor_state": "AL",
+  "cosponsor_count": 219,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "voting rights",
+    "voter discrimination",
+    "ballot access",
+    "voting laws",
+    "election fairness",
+    "voting restrictions",
+    "civil rights voting",
+    "poll access",
+    "voting equality",
+    "election discrimination",
+    "voter protection",
+    "voting barriers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the John R. Lewis Voting Rights Advancement Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-vote-dilution-denial-and-abridgment-claims",
+      "title": "Section 2  Vote Dilution, Denial, and Abridgment Claims",
+      "text": "This section changes the Voting Rights Act of 1965 to make it clearer when voting rights have been violated. It creates three main types of violations. First, vote dilution happens when a group's voting power is weakened unfairly. To prove this, people must show that their protected group is big enough and lives close together to form a majority in one voting district. They must also show that their group votes together and that other voters usually vote against their preferred candidates. Second, vote denial or restriction happens when laws or practices make it harder for protected groups to vote than for other people. These barriers must be connected to past or present discrimination. Third, there is also a violation if the purpose of a voting law or practice is to make it harder for minority voters to participate, even if it also helps a political party. The section lists many factors courts should consider when deciding if voting rights have been violated, including the history of discrimination, whether voting is split along racial lines, and whether minority group members have been elected to office.",
+      "word_offset": 15,
+      "char_offset": 80
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-retrogression",
+      "title": "Section 3  Retrogression",
+      "text": "This section adds a new rule that says it is illegal for states or local governments to make changes that reduce the ability of racial minorities or language minority groups to participate in elections or elect their preferred candidates. This rule applies to any actions taken on or after January first, two thousand twenty one. However, if a federal court in Washington D.C. has already approved changes under the old preclearance system, those approvals take priority over this new rule.",
+      "word_offset": 200,
+      "char_offset": 1204
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-violations-triggering-authority-of-court-to-retain-jurisdiction",
+      "title": "Section 4  Violations Triggering Authority of Court to Retain Jurisdiction",
+      "text": "This section expands when federal courts can keep watching over states or local governments that have violated voting rights laws. Courts can now supervise not just violations of the Fourteenth or Fifteenth Amendments to the Constitution, but also violations of the Voting Rights Act itself or any other federal law that protects voting rights based on race, color, or language minority status.",
+      "word_offset": 280,
+      "char_offset": 1695
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-criteria-for-coverage-of-states-and-political-subdivisions",
+      "title": "Section 5  Criteria for Coverage of States and Political Subdivisions",
+      "text": "This section creates new rules for which states and local governments must get federal permission before changing their voting laws. A state must follow these rules if it has fifteen or more voting rights violations in twenty five years, or ten or more violations with at least one by the state itself, or three or more violations when the state runs elections where violations occurred. Individual cities or counties must follow these rules if they have three or more violations in twenty five years. Once these rules apply, they last for ten years. The section defines voting rights violations to include court decisions against discrimination, objections by the Attorney General, and agreements to change discriminatory practices. Each different voting law or practice that violates voting rights counts as a separate violation. The section also creates a way for local governments to get exemptions if they can prove they have not discriminated and have made good faith efforts to protect voting rights.",
+      "word_offset": 342,
+      "char_offset": 2090
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-determination-of-states-and-political-subdivisions-subject-to-preclearance-for-covered-practices",
+      "title": "Section 6  Determination of States and Political Subdivisions Subject to Preclearance for Covered Practices",
+      "text": "This section requires all states and local governments to get federal approval before implementing certain specific voting changes that could harm minority voters. These covered practices include switching from individual districts to at-large elections in areas with significant minority populations, changing boundaries that reduce minority voting power, redistricting when minority populations have grown significantly, requiring new types of voter identification that are stricter than current state law, reducing language assistance for voters, closing or moving polling places or reducing voting hours including on Sundays, and changing voter registration list maintenance in ways that disproportionately affect minorities. States and localities must either get approval from a federal court in Washington D.C. or from the Attorney General within sixty days. These rules apply in areas where racial or language minority groups make up at least twenty percent of the voting age population, or fifteen percent for redistricting cases involving population growth.",
+      "word_offset": 503,
+      "char_offset": 3098
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-promoting-transparency-to-enforce-the-voting-rights-act",
+      "title": "Section 7  Promoting Transparency to Enforce the Voting Rights Act",
+      "text": "This section requires states and local governments to publicly announce voting changes within forty eight hours of making them. They must post this information where the public can see it and on their websites in formats that people with disabilities can access. Before elections, they must also publish detailed information about polling places, including locations, hours, number of voting machines, poll workers, and demographic information about voters assigned to each location. When changing electoral districts or switching between different types of elections, they must publish demographic data and voting results from the past five years for affected areas within ten days. The Attorney General can create rules about the format for this information. If governments do not follow these transparency requirements, people cannot be denied the right to vote for failing to follow changes they were not properly told about.",
+      "word_offset": 652,
+      "char_offset": 4165
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-authority-to-assign-observers",
+      "title": "Section 8  Authority to Assign Observers",
+      "text": "This section gives the Attorney General broader authority to send federal election observers to monitor voting. The Attorney General can now send observers whenever necessary to enforce voting rights laws, not just in specific limited situations. The Attorney General can also send observers to enforce requirements for bilingual election materials when receiving complaints from residents, officials, or civic groups about likely violations, or when the Attorney General believes observers are needed. The section also transfers authority over observers from the Office of Personnel Management to the Attorney General.",
+      "word_offset": 792,
+      "char_offset": 5095
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-clarification-of-authority-to-seek-relief",
+      "title": "Section 9  Clarification of Authority to Seek Relief",
+      "text": "This section allows both affected individuals and the Attorney General to file lawsuits to enforce voting rights. Previously, only the Attorney General could file some types of voting rights lawsuits. Now private citizens who have been harmed can also sue to stop poll taxes, enforce the twenty sixth Amendment giving eighteen year olds the right to vote, stop violations of bilingual voting requirements, and challenge other voting rights violations. The Attorney General can still file these lawsuits as well.",
+      "word_offset": 880,
+      "char_offset": 5715
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-preventive-relief",
+      "title": "Section 10  Preventive Relief",
+      "text": "This section makes it easier for courts to temporarily block harmful voting changes while lawsuits are ongoing. Courts should grant temporary relief if the person suing raises a serious question about whether the voting change violates the law and if blocking the change would cause less harm than allowing it to continue. Courts must consider whether the previous voting rule was adopted to fix past discrimination, whether it helped resolve discrimination claims, whether the change was made close to an election, and whether proper notice was given. The section also says that a government's inability to enforce its voting laws by itself is not a good enough reason to deny relief to voting rights victims.",
+      "word_offset": 959,
+      "char_offset": 6227
+    },
+    {
+      "id": "s11",
+      "slug": "section-11-relief-for-violations-of-voting-rights-laws",
+      "title": "Section 11  Relief for Violations of Voting Rights Laws",
+      "text": "This section makes it easier to get court orders protecting voting rights and allows winning parties to recover attorney fees. Courts should not deny relief just because an election is coming up, unless the other side proves by clear and convincing evidence that granting relief so close to the election would cause irreparable harm to the public or impose serious burdens that outweigh voting rights. The section creates a safe harbor where timing concerns are presumed not to matter if the lawsuit is filed within thirty days of a voting change being announced or more than forty five days before an election. Courts must give substantial weight to expanding voting access when deciding cases. When reviewing appeals of voting rights orders, courts must protect people who relied on previous court orders and cannot deny anyone the vote who acted based on those orders.",
+      "word_offset": 1074,
+      "char_offset": 6938
+    },
+    {
+      "id": "s12",
+      "slug": "section-12-enforcement-of-voting-rights-by-attorney-general",
+      "title": "Section 12  Enforcement of Voting Rights by Attorney General",
+      "text": "This section gives the Attorney General power to demand documents and information from states and local governments when investigating potential voting rights violations before filing a lawsuit. The Attorney General can require the production of documents, written answers to questions, or both, as long as the request is reasonably related to the voting rights investigation. The demand must identify what voting practice is being investigated and what law might have been violated. Governments have at least twenty days to respond and must provide a sworn statement about their compliance. If governments refuse to cooperate, the Attorney General can ask a federal court to force compliance. Governments can also ask a court to modify or throw out the Attorney General's demands if they believe the demands are improper.",
+      "word_offset": 1217,
+      "char_offset": 7810
+    },
+    {
+      "id": "s13",
+      "slug": "section-13-definitions",
+      "title": "Section 13  Definitions",
+      "text": "This section defines important terms used throughout the Voting Rights Act. It defines Indian as a member of a federally recognized tribe. Indian lands include tribal territories, Alaska Native corporation lands, tribal government locations, and census areas associated with tribes. Indian tribe means federally recognized tribes. Tribal government means the official governing body of a tribe. Voting age population means people eighteen years old or older as counted in the most recent census.",
+      "word_offset": 1344,
+      "char_offset": 8633
+    },
+    {
+      "id": "s14",
+      "slug": "section-14-attorneys-fees",
+      "title": "Section 14  Attorneys' Fees",
+      "text": "This section defines when someone can recover attorney fees in voting rights cases. A prevailing party means someone who gets at least some of what they asked for in their lawsuit, had a valid legal claim, and can show that their lawsuit significantly caused a change in the situation.",
+      "word_offset": 1417,
+      "char_offset": 9129
+    },
+    {
+      "id": "s15",
+      "slug": "section-15-other-technical-and-conforming-amendments",
+      "title": "Section 15  Other Technical and Conforming Amendments",
+      "text": "This section makes various technical corrections to align the Voting Rights Act with the changes made by this bill. It clarifies that court supervision can be triggered by any lawsuit seeking to enforce voting rights, not just those filed by the Attorney General. It removes outdated language about language minority groups and updates the effective dates for when states and localities need federal approval for voting changes. For jurisdictions already covered, the date remains June twenty fifth, two thousand thirteen. For new jurisdictions, the date is when they are first determined to need federal oversight.",
+      "word_offset": 1466,
+      "char_offset": 9415
+    },
+    {
+      "id": "s16",
+      "slug": "section-16-severability",
+      "title": "Section 16  Severability",
+      "text": "This section ensures that if any part of this law is found unconstitutional or unenforceable by a court, the rest of the law remains in effect. The remaining parts of this Act and the existing Voting Rights Act will continue to operate normally even if some provisions are struck down.",
+      "word_offset": 1561,
+      "char_offset": 10031
+    },
+    {
+      "id": "s17",
+      "slug": "section-17-grants-to-assist-with-notice-requirements-under-the-voting-rights-act-of-1965",
+      "title": "Section 17  Grants to Assist with Notice Requirements Under the Voting Rights Act of 1965",
+      "text": "This section allows the Attorney General to give grants to small local governments to help them comply with the new requirements to notify the public about voting changes. Small jurisdictions are defined as local governments with ten thousand people or fewer. These governments can apply for grants to help cover the costs of meeting the transparency and notice requirements created by this law.",
+      "word_offset": 1611,
+      "char_offset": 10317
+    }
+  ]
+}

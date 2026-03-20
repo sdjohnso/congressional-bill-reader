@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-395",
+  "title": "Justice for Rape Survivors Act",
+  "short_title": "Justice for Rape Survivors Act",
+  "congress": 119,
+  "bill_number": "HR.395",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "8ca9a2b42faf78b3",
+  "last_updated": "2026-03-20T15:51:14.130391+00:00",
+  "plain_summary": "This bill creates a new rule that anyone found guilty of rape or sexual assault in federal court must go to prison for at least 30 years. The law covers different types of sexual crimes including forcing someone to have sex, having sex with someone who is unconscious or too drunk to say no, and having sex without the other person's permission. Before this bill, judges could give shorter sentences, but now they would have to give at least 30 years or life in prison. The bill is meant to make punishments stronger for people who commit these serious crimes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Crime victims",
+    "Criminal procedure and sentencing",
+    "Sex offenses"
+  ],
+  "sponsor_name": "Rep. Luna, Anna Paulina [R-FL-13]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "rape punishment",
+    "sexual assault prison time",
+    "minimum sentence rape",
+    "30 year prison rape",
+    "stronger penalties sex crimes",
+    "rape sentencing law",
+    "sexual assault mandatory prison",
+    "justice for rape victims",
+    "harsher punishment sexual assault",
+    "federal rape sentences"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Justice for Rape Survivors Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-mandatory-minimums-for-sexual-abuse",
+      "title": "Section 2 Mandatory Minimums for Sexual Abuse",
+      "text": "This section changes the punishment rules for sexual abuse crimes in federal law. For aggravated sexual abuse, the law currently allows judges to sentence people to any number of years in prison or life in prison. This bill changes that rule so judges must sentence people to at least thirty years in prison or life in prison. The same change applies to regular sexual abuse crimes. Under current law, judges can give any prison sentence they think is right. This bill requires that anyone convicted of sexual abuse must serve at least thirty years in prison or get a life sentence.",
+      "word_offset": 11,
+      "char_offset": 59
+    }
+  ]
+}

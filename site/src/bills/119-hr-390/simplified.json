@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-390",
+  "title": "ACERO Act",
+  "short_title": "ACERO Act",
+  "congress": 119,
+  "bill_number": "HR.390",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "version_hash": "0b4d739b4cb89a36",
+  "last_updated": "2026-03-20T13:09:15.832081+00:00",
+  "plain_summary": "The ACERO Act creates a new NASA program to help fight wildfires using drones and other advanced aircraft technology. NASA will research better ways for aircraft to work together during wildfire emergencies and help different government agencies share information in real time. The program will develop new tools to track where all the aircraft are during a wildfire so they don't crash into each other. NASA must work with other government agencies and report their progress to Congress every year until 2030. NASA cannot buy drones from foreign countries like China for this program.",
+  "current_status": "committee_reported",
+  "status_date": "2026-02-20",
+  "last_action_date": "2026-02-24",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [
+    "Asia",
+    "Aviation and airports",
+    "China",
+    "Emergency planning and evacuation",
+    "Fires",
+    "Intergovernmental relations",
+    "Public contracts and procurement",
+    "Research and development"
+  ],
+  "sponsor_name": "Rep. Fong, Vince [R-CA-20]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "wildfire drones",
+    "NASA firefighting",
+    "aircraft wildfire response",
+    "drone wildfire technology",
+    "government wildfire coordination",
+    "fire emergency aircraft",
+    "wildfire aircraft safety",
+    "NASA wildfire program",
+    "drone firefighting research",
+    "wildfire air support",
+    "fire aircraft tracking"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Advanced Capabilities for Emergency Response Operations Act or the ACERO Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-advanced-capabilities-for-emergency-response-operations",
+      "title": "Section 2 Advanced Capabilities for Emergency Response Operations",
+      "text": "The head of NASA must use tools and technology that NASA has developed to do research and development work. This work is part of a project called Advanced Capabilities for Emergency Response Operations or ACERO. The goal is to make airplane and helicopter responses to wildfires better. The research and development work can include several things. First, it can work on better aircraft technology and ways to manage airspace. This helps manage, prevent conflicts, and coordinate aircraft during wildfire fighting efforts. Second, it can work on sharing information and exchanging real time data for wildfire response teams. Third, it can develop a platform that works with different systems to help people understand what aircraft are doing during wildfire response. Fourth, it can create a plan for multiple agencies to work together. This plan may involve federal agencies, state agencies, and local government agencies to help coordinate aircraft activities for wildfire response. When doing this work, the NASA Administrator can coordinate and work together with other federal agencies, state and local government agencies, regional organizations, commercial partners, and colleges and universities that are involved in wildfire management. The Administrator must also talk with the heads of other federal departments and agencies as much as possible to avoid doing the same work twice. The Administrator cannot buy an unmanned aircraft system to do the activities described in this section if the unmanned aircraft system is made or put together by a covered foreign entity. However, the Administrator can ignore this rule on a case by case basis if two things happen. First, the Administrator decides that buying an unmanned aircraft system is in the national interest of the United States and is necessary only for the purpose of improving airplane responses to wildfires. Second, the Administrator tells the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate no later than thirty days after making that decision. Starting one year after this law is passed and then every year after that until December thirty first two thousand thirty, the Administrator must send a report to the Committee on Science, Space and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. The report must describe the activities and results done under this section. Each report must contain at least five things. First, a description of any research and development activities. Second, a description of what the Administrator did to work with other agencies and organizations. Third, a list of any topics related to improving airplane responses to wildfires that could benefit from more research. Fourth, a description of any continuing efforts under this section. Fifth, any other information the Administrator thinks is appropriate. In this section, several terms have specific meanings. Administrator means the Administrator of the National Aeronautics and Space Administration. Covered foreign entity has the same meaning as defined in section eighteen twenty two of the National Defense Authorization Act for Fiscal Year two thousand twenty four. NASA means the National Aeronautics and Space Administration. Unmanned aircraft system has the same meaning as defined in section forty four thousand eight hundred one of title forty nine of the United States Code.",
+      "word_offset": 17,
+      "char_offset": 105
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-678",
+  "title": "Expression of Interest Sensibility Act",
+  "short_title": "Expression of Interest Sensibility Act",
+  "congress": 119,
+  "bill_number": "HR.678",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "504aab60d3ef81c0",
+  "last_updated": "2026-03-20T15:26:46.154116+00:00",
+  "plain_summary": "This bill changes when people have to pay fees for asking the government to sell them rights to drill for oil and gas on federal land. Right now, people pay a fee just for asking, even if the government never actually sells the land. Under this new bill, people only pay fees if they win the auction to lease the land, or if they were the first to ask about land that nobody else wanted to buy. The bill also says that requests to lease land must stay active for at least five years unless the land gets sold to someone else.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "oil drilling fees",
+    "gas drilling rights",
+    "federal land leasing",
+    "government land auction",
+    "drilling permits cost",
+    "oil lease payments",
+    "gas exploration fees",
+    "public land drilling",
+    "energy lease bidding",
+    "oil gas federal property"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Expression of Interest Sensibility Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-fee-for-expression-of-interest",
+      "title": "Section 2 Fee for Expression of Interest",
+      "text": "This section changes the rules about fees that people must pay when they want to lease government land for oil and gas drilling. When someone shows interest in leasing land, they submit what is called an expression of interest. The government now has two different ways to charge fees for these expressions of interest. If the government offers the land at an auction but nobody bids on it, then the first person who showed interest in that land must pay a fee. If someone does bid successfully on the land at an auction, then the winning bidder must pay the expression of interest fee instead. The government must collect these fees at the time of the auction. When someone submits an expression of interest, it stays active for at least five years unless the government offers that specific piece of land for sale at an auction during that time.",
+      "word_offset": 11,
+      "char_offset": 67
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "bill_id": "119-hr-383",
+  "title": "End Oil and Gas Tax Subsidies Act of 2025",
+  "short_title": "End Oil and Gas Tax Subsidies Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.383",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "0ac67fccc4bf3edb",
+  "last_updated": "2026-03-20T11:10:03.839729+00:00",
+  "plain_summary": "This bill removes special tax breaks that oil and gas companies have been getting for years. It ends tax credits for certain types of oil drilling, stops companies from using helpful accounting methods, and makes them pay taxes on more of their income. The bill also changes rules about how companies can count expenses and makes it harder for big oil companies to reduce their taxes. These changes are meant to make oil and gas companies pay more in taxes by taking away benefits that other businesses do not get.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Accounting and auditing",
+    "Administrative law and regulatory procedures",
+    "Business expenses",
+    "Department of the Treasury",
+    "Income tax credits",
+    "Income tax deductions",
+    "Motor fuels",
+    "Oil and gas",
+    "Pipelines",
+    "Sales and excise taxes",
+    "Tax administration and collection, taxpayers",
+    "Taxation of foreign income"
+  ],
+  "sponsor_name": "Rep. Casten, Sean [D-IL-6]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 15,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "oil company taxes",
+    "gas company tax breaks",
+    "remove oil subsidies",
+    "end gas subsidies",
+    "oil drilling tax credits",
+    "corporate tax loopholes",
+    "big oil taxes",
+    "petroleum company benefits",
+    "energy company tax breaks",
+    "oil industry subsidies"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the End Oil and Gas Tax Subsidies Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amortization-of-geological-and-geophysical-expenditures",
+      "title": "Section 2  Amortization of Geological and Geophysical Expenditures",
+      "text": "This section changes how oil and gas companies can deduct the costs they spend on studying the ground to find oil and gas. Right now, companies can spread these costs over twenty four months when calculating their taxes. This law changes that time period to seven years instead. It also removes a special rule that gave some companies extra benefits. These changes apply to money spent starting January first, two thousand twenty five.",
+      "word_offset": 18,
+      "char_offset": 90
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-producing-oil-and-gas-from-marginal-wells",
+      "title": "Section 3  Producing Oil and Gas from Marginal Wells",
+      "text": "This section eliminates a tax credit that oil and gas companies could claim for producing oil and gas from marginal wells. Marginal wells are oil or gas wells that produce small amounts. Companies could get tax credits to help make these wells profitable. This law removes that tax credit completely. The change applies to tax credits for years starting after December thirty first, two thousand twenty four.",
+      "word_offset": 91,
+      "char_offset": 526
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-enhanced-oil-recovery-credit",
+      "title": "Section 4  Enhanced Oil Recovery Credit",
+      "text": "This section removes a tax credit for enhanced oil recovery. Enhanced oil recovery means using special techniques to get more oil out of wells that are already being used. Companies could get tax credits for the costs of these techniques. This law eliminates that tax credit. The changes apply to money spent starting after December thirty first, two thousand twenty four.",
+      "word_offset": 158,
+      "char_offset": 935
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-intangible-drilling-and-development-costs",
+      "title": "Section 5  Intangible Drilling and Development Costs in the Case of Oil and Gas Wells",
+      "text": "This section changes how oil and gas companies can deduct intangible drilling costs. Intangible drilling costs are expenses for drilling wells that do not have physical value, like labor costs and fuel costs for drilling equipment. Right now, companies can deduct these costs immediately instead of spreading them over many years. This law stops oil and gas companies from taking this immediate deduction for costs paid after December thirty first, two thousand twenty four.",
+      "word_offset": 219,
+      "char_offset": 1308
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-repeal-of-percentage-depletion-for-oil-and-gas-wells",
+      "title": "Section 6  Repeal of Percentage Depletion for Oil and Gas Wells",
+      "text": "This section eliminates percentage depletion for oil and gas wells. Percentage depletion is a tax deduction that lets companies reduce their taxable income by a percentage of their gross income from oil and gas production, even if this amount is more than what they actually spent to develop the wells. This law removes this deduction completely and makes related changes to other parts of the tax code. The changes apply to property put into service after December thirty first, two thousand twenty four.",
+      "word_offset": 293,
+      "char_offset": 1783
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-repeal-of-deduction-for-tertiary-injectants",
+      "title": "Section 7  Repeal of Deduction for Tertiary Injectants",
+      "text": "This section eliminates a tax deduction for tertiary injectants. Tertiary injectants are substances that oil companies inject into oil wells to help recover more oil from the ground. Companies could deduct the costs of these substances. This law removes that deduction. The change applies to tax years beginning after December thirty first, two thousand twenty four.",
+      "word_offset": 376,
+      "char_offset": 2289
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-repeal-of-exception-to-passive-loss-limitations",
+      "title": "Section 8  Repeal of Exception to Passive Loss Limitations for Working Interests in Oil and Gas Properties",
+      "text": "This section removes a special exception for oil and gas investments from passive loss rules. Passive loss rules normally limit how much people can deduct from losses on investments they do not actively manage. Oil and gas working interests had a special exception that let people deduct these losses even if they were not actively involved in the business. This law eliminates that exception for tax years beginning after December thirty first, two thousand twenty four.",
+      "word_offset": 432,
+      "char_offset": 2656
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-deduction-for-qualified-business-income-not-allowed",
+      "title": "Section 9  Deduction for Qualified Business Income Not Allowed with Respect to Oil and Gas Activities",
+      "text": "This section stops oil and gas companies from claiming the qualified business income deduction. The qualified business income deduction lets many business owners reduce their taxable income by up to twenty percent. This law adds oil and gas activities to the list of businesses that cannot claim this deduction. This includes producing, refining, processing, transporting, or distributing oil, gas, or products made from them. The change applies to tax years beginning after December thirty first, two thousand twenty four.",
+      "word_offset": 508,
+      "char_offset": 3128
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-prohibition-on-using-last-in-first-out-accounting",
+      "title": "Section 10  Prohibition on Using Last In First Out Accounting for Oil and Gas Companies",
+      "text": "This section stops major integrated oil companies from using a specific accounting method called last in first out or LIFO. LIFO lets companies assume that the most recently acquired inventory items are sold first, which can reduce taxes when costs are rising. A major integrated oil company is defined as a crude oil producer that produces at least five hundred thousand barrels per day worldwide, has gross receipts over one billion dollars per year, and has average daily refinery runs over seventy five thousand barrels per day. Companies that must change their accounting method because of this law can spread the tax impact over up to eight years. The change applies to tax years beginning after December thirty first, two thousand twenty four.",
+      "word_offset": 587,
+      "char_offset": 3652
+    },
+    {
+      "id": "s11",
+      "slug": "section-11-modifications-of-foreign-tax-credit-rules",
+      "title": "Section 11  Modifications of Foreign Tax Credit Rules Applicable to Dual Capacity Taxpayers",
+      "text": "This section changes foreign tax credit rules for dual capacity taxpayers. A dual capacity taxpayer is a person who pays taxes to a foreign country and also receives specific economic benefits from that same country. Under this law, oil and gas companies cannot claim foreign tax credits for amounts they pay to foreign countries that exceed what they would have paid if they were regular taxpayers without the special economic benefits. This prevents companies from claiming tax credits for payments that are really fees for special treatment rather than true taxes. The changes apply to taxes paid in tax years beginning after December thirty first, two thousand twenty four, unless doing so would violate a treaty.",
+      "word_offset": 710,
+      "char_offset": 4403
+    },
+    {
+      "id": "s12",
+      "slug": "section-12-clarification-of-tar-sands-as-crude-oil",
+      "title": "Section 12  Clarification of Tar Sands as Crude Oil for Excise Tax Purposes",
+      "text": "This section expands the definition of crude oil for federal excise tax purposes. The new definition includes crude oil condensates, natural gasoline, any bitumen or bituminous mixture, oil from tar sands, and oil from oil shale. This means these substances will be subject to the same excise taxes as regular crude oil. The section also gives the Secretary of the Treasury authority to include other fuel products as crude oil or petroleum products subject to tax if they are commonly transported and pose environmental risks similar to oil under the Oil Pollution Act of nineteen ninety. These changes take effect immediately when the law is enacted.",
+      "word_offset": 826,
+      "char_offset": 5121
+    }
+  ]
+}

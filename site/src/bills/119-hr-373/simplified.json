@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-373",
+  "title": "SAGA Act",
+  "short_title": "SAGA Act",
+  "congress": 119,
+  "bill_number": "HR.373",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "54a5a2f95a59e67f",
+  "last_updated": "2026-03-20T14:00:30.461116+00:00",
+  "plain_summary": "The SAGA Act stops states and cities from making stricter rules about rifles and shotguns than the federal government has. This means local governments cannot charge higher taxes or fees on these guns or create tougher penalties than federal law allows. If states or cities already have stricter gun laws for rifles and shotguns, those laws would no longer work under this bill. The law is meant to make sure federal rules are the strongest rules that can apply to rifles and shotguns anywhere in the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Civil actions and liability",
+    "Federal preemption",
+    "Firearms and explosives",
+    "Legal fees and court costs",
+    "Licensing and registrations",
+    "Manufacturing",
+    "State and local government operations",
+    "Trade restrictions"
+  ],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gun laws",
+    "rifle regulations",
+    "shotgun rules",
+    "federal gun control",
+    "state gun laws",
+    "local gun ordinances",
+    "gun tax fees",
+    "firearm preemption",
+    "gun law override",
+    "hunting rifle laws",
+    "second amendment",
+    "gun rights"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Second Amendment Guarantee Act or the SAGA Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-authority-of-states-and-localities-to-regulate-conduct-in-relation-to-rifles-or-shotguns",
+      "title": "Section 2. Limitation on Authority of States and Localities to Regulate Conduct in Relation to Rifles or Shotguns",
+      "text": "This section changes an existing federal law about firearms. It adds new rules that limit what state and local governments can do regarding rifles and shotguns. States and cities cannot make laws about rifles or shotguns that are stricter than federal law. This includes rules about how rifles and shotguns are designed, made, brought into the country, sold, transferred from one person to another, owned, or marked. States and cities also cannot charge higher penalties, taxes, fees, or other charges for rifles and shotguns than what federal law allows. This rule applies to rifles and shotguns that have been shipped between states or between countries, or any actions that affect trade between states or countries. If any state or local law violates these new rules, that law will have no power and cannot be enforced. This applies to laws that were made before this new rule, on the same day, or after this new rule takes effect. For this law, rifle or shotgun means the whole gun, any parts of the gun, any removable magazines or devices that hold ammunition, and any type of pistol grip or shoulder stock design. If someone sues because a state or local government violated these rules and wins the case, the court must make the government pay the winner's legal fees along with any other money or relief awarded.",
+      "word_offset": 14,
+      "char_offset": 75
+    }
+  ]
+}

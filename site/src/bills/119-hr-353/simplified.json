@@ -1,0 +1,108 @@
+{
+  "bill_id": "119-hr-353",
+  "title": "Family First Act",
+  "short_title": "Family First Act",
+  "congress": 119,
+  "bill_number": "HR.353",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "312db20f937211e1",
+  "last_updated": "2026-03-20T13:27:53.686858+00:00",
+  "plain_summary": "The Family First Act changes how families pay taxes by giving them bigger tax credits for children. Parents can get up to $4,200 for each child and pregnant women can get up to $2,800 for unborn babies that are at least 20 weeks old. The bill also makes some tax rules simpler by getting rid of certain filing options and deductions that families used before. However, it keeps the limit on how much people can deduct for state and local taxes forever instead of letting it end in 2026.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Moore, Blake D. [R-UT-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "child tax credit",
+    "tax breaks for families",
+    "tax credits for kids",
+    "pregnant women tax benefits",
+    "unborn baby tax credit",
+    "family tax relief",
+    "bigger child tax credits",
+    "state and local tax deduction",
+    "SALT deduction cap",
+    "simplify tax filing",
+    "family tax changes",
+    "tax help for parents"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law may be called the Family First Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-101-permanent-expansion-of-child-tax-credit",
+      "title": "Section 101 Permanent Expansion of Child Tax Credit",
+      "text": "This section changes how the child tax credit works. For children under six years old, families can get up to four thousand two hundred dollars per child. For children six to seventeen years old, families can get up to three thousand dollars per child. Families with income of twenty thousand dollars or more get the full credit amount. Families with income below twenty thousand dollars get a smaller amount based on their income level. The credit starts to go down for high-income families. Married couples filing together lose fifty dollars of credit for every one thousand dollars of income over four hundred thousand dollars. Single parents lose fifty dollars of credit for every one thousand dollars of income over two hundred thousand dollars. To get this credit, families can have no more than six children. They must provide Social Security numbers for themselves and their children. This credit becomes fully refundable, meaning families can get money back even if they owe no taxes. The changes take effect for tax years starting after December thirty-first, two thousand twenty-five.",
+      "word_offset": 9,
+      "char_offset": 45
+    },
+    {
+      "id": "s3",
+      "slug": "section-102-tax-credit-for-pregnant-mothers",
+      "title": "Section 102 Tax Credit for Pregnant Mothers",
+      "text": "This section creates a new tax credit for pregnant women. Eligible mothers can receive up to two thousand eight hundred dollars for each unborn child that is at least twenty weeks along in pregnancy. A doctor must certify the pregnancy and gestational age (how far along the pregnancy is). Families with income of ten thousand dollars or more get the full credit. Families with lower income get a smaller amount. The credit starts to go down for high-income families at the same levels as the child tax credit. To be eligible, the mother must be carrying the child and be either the biological mother or have started the pregnancy intending to keep the child. If an unborn child dies naturally or due to medical treatment to save the mother's life, the family can still get the credit. However, no credit is allowed if the unborn child dies from an induced abortion, except for treatments to save the mother's life or treat an ectopic pregnancy (pregnancy outside the womb). This credit is separate from and does not affect the regular child tax credit that parents can claim after the child is born. The changes take effect for tax years starting after December thirty-first, two thousand twenty-five.",
+      "word_offset": 186,
+      "char_offset": 1141
+    },
+    {
+      "id": "s4",
+      "slug": "section-201-simplification-of-earned-income-credit-for-taxpayers-with-children",
+      "title": "Section 201 Simplification of Earned Income Credit for Taxpayers with Children",
+      "text": "This section simplifies the Earned Income Tax Credit (a credit that helps working families with low to moderate income). The new rules treat all families with children the same way, whether they have one child or many children. Families with children can get up to four thousand three hundred dollars if single or five thousand dollars if married filing jointly. Families without children can get up to seven hundred dollars if single or one thousand four hundred dollars if married filing jointly. The credit percentage increases to twenty-five percent for families with children and stays at seven point six five percent for families without children. The income limits where the credit starts to phase out also change. These changes take effect for tax years starting after December thirty-first, two thousand twenty-five, but some children may be exempt from these new rules.",
+      "word_offset": 391,
+      "char_offset": 2344
+    },
+    {
+      "id": "s5",
+      "slug": "section-202-elimination-of-additional-exemption-for-dependents",
+      "title": "Section 202 Elimination of Additional Exemption for Dependents",
+      "text": "This section eliminates the additional tax exemption that taxpayers could claim for their dependents. Starting with tax years after December thirty-first, two thousand twenty-five, the exemption amount for dependents becomes zero. However, other parts of the tax code that refer to this exemption will still work the same way for determining if people qualify for other tax benefits.",
+      "word_offset": 532,
+      "char_offset": 3224
+    },
+    {
+      "id": "s6",
+      "slug": "section-203-elimination-of-head-of-household-filing-status",
+      "title": "Section 203 Elimination of Head of Household Filing Status",
+      "text": "This section eliminates the head of household filing status. People who previously filed as head of household will now need to file as either single or married filing jointly or separately. The tax code is updated throughout to remove references to head of household status. Various other tax provisions are adjusted to account for this change, including standard deduction amounts and income thresholds for certain credits and deductions. These changes take effect for tax years starting after December thirty-first, two thousand twenty-five.",
+      "word_offset": 590,
+      "char_offset": 3608
+    },
+    {
+      "id": "s7",
+      "slug": "section-204-exclusion-of-children-from-credit-for-expenses-for-household-and-dependent-care-services-necessary-for-gainful-employment",
+      "title": "Section 204 Exclusion of Children from Credit for Expenses for Household and Dependent Care Services Necessary for Gainful Employment",
+      "text": "This section changes the dependent care credit rules. Families can no longer claim the dependent care credit for expenses related to caring for their children under eighteen years old. The credit will only apply to care expenses for dependents who are eighteen or older and are physically or mentally unable to care for themselves. Care services outside the home can only be counted if the dependent spends at least eight hours each day in the taxpayer's household. These changes take effect for tax years starting after December thirty-first, two thousand twenty-five.",
+      "word_offset": 672,
+      "char_offset": 4152
+    },
+    {
+      "id": "s8",
+      "slug": "section-205-limitation-on-deduction-for-state-and-local-taxes-of-individuals",
+      "title": "Section 205 Limitation on Deduction for State and Local Taxes of Individuals",
+      "text": "This section makes permanent the limit on how much people can deduct for state and local taxes on their federal tax returns. The current rule that limits this deduction to ten thousand dollars per year, which was set to expire after two thousand twenty-five, will now continue indefinitely. This change takes effect for tax years starting after December thirty-first, two thousand twenty-five.",
+      "word_offset": 763,
+      "char_offset": 4722
+    }
+  ]
+}

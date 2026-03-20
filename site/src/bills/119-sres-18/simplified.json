@@ -1,0 +1,53 @@
+{
+  "bill_id": "119-sres-18",
+  "title": "A resolution providing for sufficient time for legislation to be read.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.18",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Rules and Administration. (text: CR S80)",
+  "version_hash": "836f2b8713ce1451",
+  "last_updated": "2026-03-20T14:26:24.215070+00:00",
+  "plain_summary": "This resolution creates a new rule for how long the Senate must wait before voting on bills. For every 20 pages in a bill, senators must wait at least one day before they can vote on it. If a bill has extra pages that don't add up to 20, they still have to wait one more day for those pages too. Any senator can object if they think the Senate is trying to vote too quickly without enough waiting time. The only way to skip this waiting period is if three-fifths of all senators vote to override the rule.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the Committee on Rules and Administration. (text: CR S80)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Legislative rules and procedure",
+    "Senate"
+  ],
+  "sponsor_name": "Sen. Paul, Rand [R-KY]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "senate reading time",
+    "congress bill waiting period",
+    "senators must read bills",
+    "how long before voting",
+    "20 pages one day rule",
+    "time to read legislation",
+    "senate voting delay",
+    "congress reading requirements",
+    "bill review time",
+    "senators reading bills before vote"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-time-for-reading-of-legislation",
+      "title": "Section 1 Time for Reading of Legislation",
+      "text": "The Senate cannot vote on any bill, resolution, message, conference report, amendment between the Houses, amendment, treaty, or other measure until enough time has passed for people to read it. For every twenty pages in the document, the Senate must wait one session day (a day when the Senate meets). If there are fewer than twenty pages left over, the Senate must still wait one more session day. Any Senator can object and say that not enough time has passed for reading. No one can make a motion to table this objection (which means to set it aside without discussing it). The only way to ignore this rule is if three out of every five Senators vote to waive it. When someone wants to waive this rule, Senators can debate it for up to three hours total. The time gets split equally between the Senator who objected and the Senator who wants to waive the rule, or people they choose to speak for them. No one can change the motion to waive the rule. This resolution is allowed under Article One, Section Five, Clause Two of the Constitution, which gives each house of Congress the power to make its own rules.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

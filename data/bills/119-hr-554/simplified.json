@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-554",
+  "title": "Veteran’s Choice Accountability Act",
+  "short_title": "Veteran’s Choice Accountability Act",
+  "congress": 119,
+  "bill_number": "HR.554",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Health.",
+  "version_hash": "6e5a5fd4f39c38b2",
+  "last_updated": "2026-03-20T15:49:04.234720+00:00",
+  "plain_summary": "This bill makes the Department of Veterans Affairs look at all their healthcare programs for veterans. They must find which specialized care programs are used the most and keep them running as top-quality centers. The VA also has to write a report for Congress within two years about how well they followed an earlier law called the VA Budget and Choice Improvement Act. The goal is to make sure veterans get the best possible healthcare services.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-20",
+  "last_action_date": "2025-02-20",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Congressional oversight",
+    "Health care quality",
+    "Health facilities and institutions",
+    "Hospital care",
+    "Long-term, rehabilitative, and terminal care",
+    "Performance measurement",
+    "Veterans' medical care"
+  ],
+  "sponsor_name": "Rep. Wittman, Robert J. [R-VA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans healthcare",
+    "VA medical care",
+    "veteran hospital services",
+    "military healthcare benefits",
+    "VA accountability",
+    "veteran medical programs",
+    "VA hospital quality",
+    "veterans choice program",
+    "military medical benefits",
+    "VA healthcare report"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Veteran's Choice Accountability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-evaluation-of-fee-basis-care-provided-by-department-of-veterans-affairs",
+      "title": "Section 2  Evaluation of Fee-Basis Care Provided by Department of Veterans Affairs",
+      "text": "The Secretary of Veterans Affairs must review all programs run by the Department of Veterans Affairs that provide hospital care, medical services, and nursing home care to veterans. The Secretary must find out which specialized care programs are used the most often. The Secretary must also make sure these most-used programs continue to operate as centers of excellence (places that provide the highest quality care).",
+      "word_offset": 10,
+      "char_offset": 64
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-evaluation-of-implementation-of-va-budget-and-choice-improvement-act",
+      "title": "Section 3  Evaluation of Implementation of VA Budget and Choice Improvement Act",
+      "text": "Within two years after this law is passed, the Secretary of Veterans Affairs must give Congress a report. This report must evaluate how well the Secretary has put into action the VA Budget and Choice Improvement Act (which is title four of Public Law one hundred fourteen dash forty-one). The report must explain what has been done and how well it is working.",
+      "word_offset": 75,
+      "char_offset": 483
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-190",
+  "title": "SEND THEM BACK Act of 2025",
+  "short_title": "SEND THEM BACK Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.190",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "6ad3a150bb1c85df",
+  "last_updated": "2026-03-20T15:32:03.964174+00:00",
+  "plain_summary": "The SEND THEM BACK Act of 2025 allows the government to quickly remove people from the United States who entered the country illegally starting January 20, 2021. These people can be removed even if they say they are afraid of being hurt or killed if they go back to their home country. The only people this law does not apply to are those who were serving in the US military as of January 1, 2025. This means these removals can happen without giving people a hearing or letting them go through the normal court process.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Ogles, Andrew [R-TN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "deportation",
+    "remove immigrants",
+    "send people back",
+    "illegal immigration",
+    "border control",
+    "asylum seekers",
+    "immigration enforcement",
+    "kick out immigrants",
+    "expel foreigners",
+    "immigration removal",
+    "undocumented immigrants",
+    "immigration crackdown"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Sending Evading Non-Documented Threats Home Especially Migrants Biden Accepted Carelessly and Knowingly Act of two thousand twenty five. It can also be called the SEND THEM BACK Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expedited-removal-of-certain-illegal-aliens",
+      "title": "Section 2  Expedited Removal of Certain Illegal Aliens",
+      "text": "Any person who entered the United States without permission on or after January twentieth, two thousand twenty one, must be sent back to their home country quickly. This fast removal process applies even if the person said they wanted to ask for asylum (protection because they fear harm in their home country) or said they were afraid of being hurt if they went back. However, this rule does not apply to any person who was serving in the United States military as of January first, two thousand twenty five. No other laws can override these requirements.",
+      "word_offset": 39,
+      "char_offset": 238
+    }
+  ]
+}

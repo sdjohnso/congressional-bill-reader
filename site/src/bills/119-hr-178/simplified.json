@@ -1,0 +1,57 @@
+{
+  "bill_id": "119-hr-178",
+  "title": "To require the Secretary of Agriculture to carry out activities to suppress wildfires, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.178",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-429, Part I.",
+  "version_hash": "bc81027533ca690a",
+  "last_updated": "2026-03-20T13:38:59.205461+00:00",
+  "plain_summary": "This bill requires the Forest Service to quickly put out wildfires on high-risk forest lands within 24 hours using all available resources. The rules apply to areas with severe drought or very high wildfire danger. The Forest Service cannot stop state and local firefighters from helping fight fires on these lands. The bill also limits when the Forest Service can use controlled burns and requires them to put out any controlled fire that gets too big.",
+  "current_status": "committee_reported",
+  "status_date": "2026-01-08",
+  "last_action_date": "2026-01-08",
+  "last_action_text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-429, Part I.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Emergency planning and evacuation",
+    "Fires",
+    "First responders and emergency personnel",
+    "Forests, forestry, trees"
+  ],
+  "sponsor_name": "Rep. McClintock, Tom [R-CA-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "wildfire suppression",
+    "forest fires",
+    "firefighting",
+    "drought areas",
+    "fire danger",
+    "controlled burns",
+    "prescribed burns",
+    "24 hour fire response",
+    "state firefighters",
+    "local firefighters",
+    "forest service fires",
+    "high risk forests"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-suppression-of-wildfires",
+      "title": "Section 1  Suppression of Wildfires",
+      "text": "This section tells the Secretary of Agriculture what they must do about wildfires on certain national forest lands. The Secretary works through the Chief of the Forest Service to carry out these rules.\n\nThe Secretary must use all available resources to put out wildfires within twenty four hours of when the fire is first spotted on these lands. If a controlled burn (called a prescribed fire) gets bigger than planned, the Secretary must put it out right away.\n\nThe Secretary cannot stop state or local fire departments from fighting fires on these lands if those departments are allowed to respond there.\n\nThe Secretary can only use fire as a tool to manage the forest if it is a controlled burn that follows all laws and rules.\n\nDuring a wildfire, the Secretary can only start a backfire or burnout (fires set on purpose to help control the main fire) if the person in charge of fighting the fire orders it or if it is needed to keep firefighters safe. When these fires are started, the Secretary must use all available resources to control them until they are completely put out.\n\nThis section applies to covered National Forest System lands. These are areas within national forest lands that meet one of three conditions. First, the area has been rated by the U.S. Drought Monitor as having severe drought, extreme drought, or exceptional drought. Second, the National Interagency Fire Center has declared the area has a National Wildland Fire Preparedness level of five. Third, the Forest Service has identified the area as being in a fireshed (area where fires could spread) that ranks in the top ten percent for wildfire exposure based on the most recent Forest Service risk models.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

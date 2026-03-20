@@ -1,0 +1,89 @@
+{
+  "bill_id": "119-hr-675",
+  "title": "Domestic SUPPLY Act of 2025",
+  "short_title": "Domestic SUPPLY Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.675",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Government Reform, f",
+  "version_hash": "a1be69457eddd97f",
+  "last_updated": "2026-03-20T12:33:55.510152+00:00",
+  "plain_summary": "The Domestic SUPPLY Act of 2025 creates a new program to help American companies that make protective equipment like masks and gloves. The government will make agreements to buy this equipment from these companies to prepare for health emergencies. Only American-owned companies that make most of their products in the United States can join this program, and by 2028 they must make all their products here. The law also says the federal government and states using federal money can only buy protective equipment made in America. Finally, the government must write a report about how the rules for protective equipment changed during COVID-19 and how those changes affected healthcare workers.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consi",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Buy American requirements",
+    "Cardiovascular and respiratory health",
+    "Congressional oversight",
+    "Emergency medical services and trauma care",
+    "Health personnel",
+    "Health promotion and preventive care",
+    "Health technology, devices, supplies",
+    "Infectious and parasitic diseases",
+    "Manufacturing",
+    "Product safety and quality",
+    "Public contracts and procurement",
+    "Public-private cooperation",
+    "State and local government operations",
+    "Worker safety and health"
+  ],
+  "sponsor_name": "Rep. Griffith, H. Morgan [R-VA-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "American made masks",
+    "buy American medical supplies",
+    "protective equipment manufacturing",
+    "PPE made in USA",
+    "coronavirus supply chain",
+    "medical equipment shortages",
+    "domestic manufacturing incentives",
+    "healthcare worker protection",
+    "emergency preparedness supplies",
+    "government contracts medical supplies"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Domestic Security Using Production Partnerships and Lessons from Yesterday Act of two thousand twenty five or the Domestic SUPPLY Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-national-defense-and-health-security-domestic-manufacturing-partnership-program",
+      "title": "Section 2 National Defense and Health Security Domestic Manufacturing Partnership Program",
+      "text": "The Secretary of Health and Human Services must work with other government officials to create a program. This program will partner with American companies that make protective equipment. The goal is to make sure we have enough masks, gloves, and other safety gear when health emergencies happen. Within one year of this law starting, the Secretary must create a process for making contracts with these American companies. These contracts will promise that companies can make the protective equipment we need during emergencies. To join this program, companies must have their main office in the continental United States. They must make fifty percent of their products in America by two thousand twenty six, seventy five percent by two thousand twenty seven, and one hundred percent by two thousand twenty eight. The companies must be owned and run mostly by American citizens. They must have agreements that prove their supply chains are secure. They must promise in writing that all their products meet the safety rules set by the Centers for Disease Control and Prevention and the Occupational Safety and Health Administration. The Secretary will keep a list of protective equipment that qualifies for this program. To be on this list, products must meet all safety rules from the Centers for Disease Control and Prevention and the Occupational Safety and Health Administration. They must be approved under the Federal Food Drug and Cosmetic Act. They must be priced fairly based on market standards the Secretary sets. In this section, public health emergency means an emergency officially declared under the Public Health Service Act. Secretary means the Secretary of Health and Human Services.",
+      "word_offset": 31,
+      "char_offset": 190
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-domestic-procurement-of-clothing-or-equipment-used-to-prevent-transmission-of-infectious-disease",
+      "title": "Section 3 Domestic Procurement of Clothing or Equipment Used to Prevent the Transmission of Infectious Disease",
+      "text": "Starting when this law takes effect, no federal, state, or local government agency can use federal money to buy protective clothing or equipment that was made outside the United States. This equipment includes things used to prevent the spread of infectious diseases. There are some exceptions to this rule. The same exceptions that apply to other Buy American laws in title forty one of the United States Code also apply here. When an agency uses one of these exceptions, the official making that decision must write detailed paperwork explaining why the exception was necessary.",
+      "word_offset": 301,
+      "char_offset": 1891
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-report-on-impact-of-changes-to-ppe-requirements-on-frontline-worker-safety",
+      "title": "Section 4 Report on the Impact of Changes to PPE Requirements on Frontline Worker Safety",
+      "text": "Within one year of this law starting, the Secretary of Health and Human Services must work with the Assistant Secretary of Labor for Occupational Safety and Health to write a report for Congress. This report must explain how the federal rules for personal protective equipment (safety gear like masks and gloves) changed during the COVID nineteen pandemic. It must also explain how these changes affected the safety of doctors and other medical workers who cared for patients face to face during two thousand twenty and two thousand twenty one.",
+      "word_offset": 395,
+      "char_offset": 2472
+    }
+  ]
+}

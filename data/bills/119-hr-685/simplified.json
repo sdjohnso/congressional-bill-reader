@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-685",
+  "title": "SAVE Moms and Babies Act of 2025",
+  "short_title": "SAVE Moms and Babies Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.685",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "0755b837d9890eec",
+  "last_updated": "2026-03-20T15:24:32.982830+00:00",
+  "plain_summary": "The SAVE Moms and Babies Act of 2025 stops the FDA from approving any new drugs that end pregnancies. For abortion drugs that are already approved, the bill creates much stricter rules. Doctors would need special training and certification to prescribe these drugs, and they must give the medicine to patients in person instead of mailing it. The bill also requires doctors to be able to do surgery if needed and to report any problems that happen to patients.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Drug safety, medical device, and laboratory regulation",
+    "Health information and medical records",
+    "Health personnel",
+    "Health technology, devices, supplies",
+    "Marketing and advertising",
+    "Prescription drugs"
+  ],
+  "sponsor_name": "Rep. Latta, Robert E. [R-OH-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 29,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "abortion pills",
+    "pregnancy ending drugs",
+    "FDA drug approval",
+    "abortion medication rules",
+    "doctor certification requirements",
+    "prescription drug safety",
+    "maternal health",
+    "baby protection",
+    "medical abortion restrictions",
+    "drug prescribing rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Support And Value Expectant Moms and Babies Act of two thousand twenty-five or the SAVE Moms and Babies Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-abortion-drugs-prohibited",
+      "title": "Section 2 Abortion Drugs Prohibited",
+      "text": "This section changes the Federal Food, Drug, and Cosmetic Act to add new rules about abortion drugs. The Food and Drug Administration (FDA) cannot approve any new abortion drugs or allow testing of abortion drugs. The FDA also cannot allow any research that knowingly destroys an unborn child when a woman is known to be pregnant.\n\nFor abortion drugs that were already approved before this law takes effect, the FDA must follow these rules. The FDA cannot approve any changes to the drug label that would allow the drug to be used after seventy days of pregnancy. The FDA also cannot approve changes that would let the drug be given any way other than by the doctor who prescribed it giving it to the patient in person. These drugs must be treated as prescription drugs that can only be given by certain licensed healthcare providers.\n\nThese already approved abortion drugs must have a special safety plan called a risk evaluation and mitigation strategy. This safety plan must require doctors who prescribe these drugs to get certified and cannot be pharmacists. To get certified, doctors must be able to accurately figure out how far along a pregnancy is, diagnose pregnancies that happen outside the womb, perform surgery if the abortion is not complete or if there is heavy bleeding, and make sure patients can get to medical facilities that can give blood transfusions and emergency care if needed. Doctors must also report any deaths or other serious problems from using the drug to the FDA and the drug company, but without using the patient's name.\n\nThese drugs can only be given to patients in a clinic, medical office, or hospital by the prescribing doctor in person. They cannot be given at pharmacies or anywhere else. The prescribing doctor must give the patient written information about serious risks from using the drug and get written proof that the patient received this information. All known serious problems from these drugs must be reported to the FDA by both drug companies and prescribing doctors, but without including information that could identify specific patients. The use of these drugs must be reported as required by state law, or if there is no state law, in the same way as surgical abortions.\n\nAll other healthcare providers must report to the FDA any serious problems their patients have that are connected to using an abortion drug, but without including information that could identify specific patients.\n\nNothing in this section stops the federal government or states from making additional rules and restrictions about abortion drugs under other laws.\n\nFor purposes of this section, an abortion drug means any drug or combination of drugs that is meant to be used or is actually used to intentionally kill an unborn child of a woman known to be pregnant, or to intentionally end the pregnancy of a woman known to be pregnant, unless the purpose is to produce a live birth, remove a dead unborn child, or treat a pregnancy that happens outside the womb. An adverse event includes death, pregnancy outside the womb, hospitalization, blood loss requiring a transfusion, infections including womb lining infection and pelvic inflammatory disease, and severe infections. Gestation means the number of days starting from the first day of the last menstrual period. Healthcare practitioner means any person who is licensed or permitted to prescribe certain prescription drugs. Unborn child means an individual human organism from fertilization until being born alive.\n\nFor any drug testing that was allowed before this law takes effect, that permission is canceled three years after this law takes effect if the FDA would be prohibited from allowing such testing under the new rules.",
+      "word_offset": 29,
+      "char_offset": 164
+    }
+  ]
+}

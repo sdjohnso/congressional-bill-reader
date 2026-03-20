@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-276",
+  "title": "Gulf of America Act",
+  "short_title": "Gulf of America Act",
+  "congress": 119,
+  "bill_number": "HR.276",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Mr. Huffman moved to recommit to the Committee on Natural Resources. (text: CR H1920)",
+  "version_hash": "99e78e2da773a802",
+  "last_updated": "2026-03-20T14:55:51.835019+00:00",
+  "plain_summary": "This bill changes the name of the Gulf of Mexico to the Gulf of America. All government agencies must update their official papers and maps to show the new name. They have 180 days to make these changes. The Gulf of Mexico is the large body of water between the United States and Mexico.",
+  "current_status": "committee_reported",
+  "status_date": "2025-04-30",
+  "last_action_date": "2025-05-12",
+  "last_action_text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Geography and mapping",
+    "Gulf of Mexico"
+  ],
+  "sponsor_name": "Rep. Greene, Marjorie Taylor [R-GA-14]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 17,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "rename Gulf of Mexico",
+    "Gulf of America",
+    "change name of gulf",
+    "Mexico gulf name change",
+    "government maps update",
+    "ocean name change",
+    "Gulf of Mexico new name",
+    "federal agencies update maps",
+    "body of water rename",
+    "gulf between US and Mexico"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Gulf of America Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-renaming-of-gulf-of-mexico-as-gulf-of-america",
+      "title": "Section 2 Renaming of Gulf of Mexico as Gulf of America",
+      "text": "The Gulf of Mexico will now be called the Gulf of America. Whenever any United States law, map, rule, document, paper, or other official record mentions the Gulf of Mexico, it will now mean the Gulf of America instead. The Secretary of the Interior will work with the Chairman of the Board on Geographic Names to make sure this name change happens on all federal documents and maps. The Board on Geographic Names is a government group that decides the official names of places in the United States. Within one hundred eighty days after this law is passed, the head of every federal agency must update all of their documents and maps to use the new name Gulf of America instead of Gulf of Mexico.",
+      "word_offset": 10,
+      "char_offset": 48
+    }
+  ]
+}

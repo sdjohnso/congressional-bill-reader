@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-71",
+  "title": "Veterans Health Care Freedom Act",
+  "short_title": "Veterans Health Care Freedom Act",
+  "congress": 119,
+  "bill_number": "HR.71",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Health.",
+  "version_hash": "b102792bcef1f0b5",
+  "last_updated": "2026-03-20T11:26:20.767582+00:00",
+  "plain_summary": "This bill creates a three-year test program that gives veterans more freedom to choose where they get their health care. Veterans can pick any VA hospital or doctor, or go to approved private doctors, without having to meet the usual rules about where they live or other requirements. After the test program ends, these new choices will become permanent for all veterans. The goal is to make it easier for veterans to get the medical care they need.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Congressional oversight",
+    "Health care coverage and access",
+    "Health facilities and institutions",
+    "Hospital care",
+    "Veterans' medical care"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 13,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans healthcare choice",
+    "VA hospital options",
+    "private doctor veterans",
+    "military healthcare freedom",
+    "veterans medical care",
+    "VA benefits expansion",
+    "veteran doctor choice",
+    "military hospital access",
+    "veterans private healthcare",
+    "VA medical options"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Veterans Health Care Freedom Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-pilot-program-on-ability-of-veterans-to-choose-health-care-providers",
+      "title": "Section 2  Pilot Program on Ability of Veterans to Choose Health Care Providers",
+      "text": "The Secretary of Veterans Affairs must create a test program to make it easier for veterans to get medical care. This program will let veterans choose their own doctors and hospitals. The Secretary will work with the Center for Innovation for Care and Payment to run this test program.\n\nThe Secretary must pick at least four Veterans Integrated Service Networks (groups of VA medical centers in different regions) to test this program. The chosen areas must include both rural areas and cities.\n\nDuring this test program, the Secretary will provide hospital care, medical services, and long-term care services to veterans in new ways. Veterans can get care at any VA medical facility, even if it is not in their home region. Veterans can also get care at private hospitals and clinics without meeting the usual requirements that normally limit this option.\n\nVeterans in the test program can choose to get care from any provider in the covered care system (all VA facilities and approved private providers). Each veteran must pick one primary care doctor who will coordinate all their care and refer them to specialists when needed. The Secretary will set up systems to help primary care doctors coordinate care properly.\n\nVeterans can choose any specialist they want from the covered care system, but they need a referral from their primary care doctor first. The Secretary can designate a specialist as a veteran's primary care doctor if that makes sense for their health condition. For example, a diabetes doctor could be the main doctor for a veteran with diabetes.\n\nVeterans can choose any mental health provider in the covered care system for mental health care.\n\nThe Secretary must give veterans information about costs, treatments, and providers so they can make good decisions about their care and choose the right doctors.\n\nThe test program will last for three years, starting one year after this law is passed. After the test program ends, the new choice rules will become permanent for all veterans four years after this law is passed.\n\nThe Secretary must send reports to Congress every three months for the first two years about how the program is being set up. Then the Secretary must send yearly reports about how well the program is working until it ends.\n\nThe Secretary can make rules to carry out this program after talking with the Veterans Affairs Committees in Congress. No extra money is approved for this program. It must be paid for using money already given to the Veterans Health Administration.\n\nIn this law, covered care system means all VA medical facilities, private doctors and hospitals that work with the VA under existing programs, and providers that have Veterans Care Agreements. Eligible veteran means any veteran who is enrolled in the VA health care system. Non-Department facility means any hospital or clinic that is not run by the VA.",
+      "word_offset": 11,
+      "char_offset": 61
+    }
+  ]
+}

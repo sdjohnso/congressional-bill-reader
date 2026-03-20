@@ -1,0 +1,92 @@
+{
+  "bill_id": "119-hr-302",
+  "title": "Water Rights Protection Act",
+  "short_title": "Water Rights Protection Act",
+  "congress": 119,
+  "bill_number": "HR.302",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Committee on Agriculture discharged.",
+  "version_hash": "2eee3beb3a3594e6",
+  "last_updated": "2026-03-20T15:48:48.416662+00:00",
+  "plain_summary": "This bill stops two federal agencies, the Department of the Interior and the Department of Agriculture, from forcing people to give up their water rights when they apply for permits to use federal land. The agencies cannot make people transfer their water rights to the government or make them get water rights in the government's name. The bill also says these federal agencies cannot put stricter limits on how people use water than what their state already requires. The agencies must respect each state's authority to control water rights and cannot interfere with how states manage water usage.",
+  "current_status": "committee_reported",
+  "status_date": "2025-11-25",
+  "last_action_date": "2025-11-25",
+  "last_action_text": "Placed on the Union Calendar, Calendar No. 334.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Department of Agriculture",
+    "Department of the Interior",
+    "Indian lands and resources rights",
+    "Intergovernmental relations",
+    "Land use and conservation",
+    "Licensing and registrations",
+    "State and local government operations",
+    "Water use and supply"
+  ],
+  "sponsor_name": "Rep. Maloy, Celeste [R-UT-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "water rights",
+    "federal land permits",
+    "government taking water",
+    "state water control",
+    "ranching water rights",
+    "farming water permits",
+    "public land grazing",
+    "water ownership protection",
+    "federal overreach water",
+    "state vs federal water"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Water Rights Protection Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, Secretary means either the Secretary of Agriculture or the Secretary of the Interior, depending on which one applies. Water right means any legal right to use surface water, groundwater, or stored water that has been filed, permitted, or officially recognized by a court or by a state government. This includes situations where the water user has taken possession of the water or put it to good use. It also includes water rights that belong to federally recognized Indian tribes.",
+      "word_offset": 10,
+      "char_offset": 56
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-policy-development",
+      "title": "Section 3 Policy Development",
+      "text": "When creating any rule, policy, directive, management plan, or similar federal action related to giving out, renewing, changing, or extending permits, approvals, licenses, leases, allotments, easements, rights of way, or other land use agreements, the Secretary must recognize that states have long held authority over evaluating, protecting, allocating, regulating, permitting, and deciding disputes about water use. The Secretary must work with states to make sure any federal action is consistent with state water law and does not create stricter restrictions or requirements than state law requires. The Secretary cannot claim a connection between surface water and groundwater unless state water law recognizes that same connection. The Secretary also cannot take any action that hurts a state's authority to permit beneficial water use or decide water rights disputes. The Secretary cannot interfere with definitions that states have established for beneficial use, priority of water rights, or terms of use. The Secretary cannot harm any other rights or duties that states have under state law.",
+      "word_offset": 92,
+      "char_offset": 550
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-treatment-of-water-rights",
+      "title": "Section 4 Treatment of Water Rights",
+      "text": "The Secretary cannot make the giving out, renewal, change, or extension of any permit, approval, license, lease, allotment, easement, right of way, or other land use agreement depend on transferring any water right to the United States government. This includes both joint and sole ownership of water rights. The Secretary cannot require this transfer directly or indirectly, and cannot harm the title or interest in water rights that are granted or recognized under state law, federal or state court decisions, or interstate water compacts (agreements between states about water). The Secretary cannot require any water user, including federally recognized Indian tribes, to apply for or get a water right in the name of the United States under state law as a condition for getting permits or agreements. The Secretary also cannot condition or refuse to give out permits or agreements based on limiting when, how much, where, or how a state water right can be used beyond what state water law already requires. The Secretary cannot base decisions on changing the terms for groundwater withdrawal, guidance and reporting procedures, or conservation and source protection measures that a state has established.",
+      "word_offset": 255,
+      "char_offset": 1652
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-effect",
+      "title": "Section 5 Effect",
+      "text": "This law does not interfere with any existing or future contracts made by the Bureau of Reclamation under federal reclamation law, which started with a law passed on June seventeenth, nineteen oh two. This law does not affect how the Endangered Species Act of nineteen seventy three is carried out. This law does not limit or expand any existing or future reserved water rights that the federal government has on land managed by the Secretary. This law does not limit or expand authorities under sections four e, ten j, or eighteen of the Federal Power Act. This law does not limit or expand any existing or future reserved water right or treaty right of any federally recognized Indian tribe. This law does not limit the Secretary's ability to acquire, use, enforce, or protect a state water right owned by the United States through proper state procedures. This law does not affect any allocation contained in interstate water compacts or requirements and limitations from those compacts, including Supreme Court decisions that interpret or enforce interstate water compacts.",
+      "word_offset": 445,
+      "char_offset": 2862
+    }
+  ]
+}

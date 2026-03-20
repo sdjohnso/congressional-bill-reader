@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-s-78",
+  "title": "TRUE Accountability Act",
+  "short_title": "TRUE Accountability Act",
+  "congress": 119,
+  "bill_number": "S.78",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "a26574c901dd7785",
+  "last_updated": "2026-03-20T11:57:30.433349+00:00",
+  "plain_summary": "The TRUE Accountability Act requires government agencies to create special plans that help prevent fraud and waste when emergencies happen. The Office of Management and Budget must give agencies clear instructions on how to make these plans. Agencies have one year to create their plans and submit them. The plans must follow special rules from government reports about preventing fraud and improper payments during emergencies. This helps make sure taxpayer money is protected even during crisis situations.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Disaster relief and insurance",
+    "Government information and archives",
+    "Health programs administration and funding"
+  ],
+  "sponsor_name": "Sen. Lankford, James [R-OK]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "fraud prevention",
+    "government waste",
+    "emergency spending",
+    "taxpayer money protection",
+    "disaster relief accountability",
+    "crisis funding oversight",
+    "prevent government fraud",
+    "emergency response waste",
+    "taxpayer fraud protection",
+    "disaster spending controls",
+    "government emergency plans",
+    "crisis money oversight"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Taxpayer Resources Used in Emergencies Accountability Act or the TRUE Accountability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-omb-guidance",
+      "title": "Section 2 OMB Guidance",
+      "text": "In this section, covered agency means any government agency listed in section nine hundred one part b of title thirty one of the United States Code. Director means the Director of the Office of Management and Budget. Internal control means a system that is managed by the people who work at an organization and is designed to make sure the organization achieves its goals for running operations well, reporting finances correctly, and following the law.\n\nWithin one hundred eighty days after this law is passed, the Director must give instructions to covered agencies about how to create plans for internal controls that can be used right away during future emergencies or crises. These instructions must match the guidance from the Government Accountability Office called A Framework for Managing Improper Payments in Emergency Assistance Programs and A Framework for Managing Fraud Risks in Federal Programs. The instructions must require each agency plan to name a senior official who will be responsible for carrying out the plan. The plans must also include rules and steps to quickly figure out the risks of wrong payments and fraud when the agency gets extra money for disaster relief or emergency response. The plans must show how to respond to these risks by changing internal controls so that proper safeguards are in place before spending the money.\n\nEvery three years after the first instructions are given, the Director must review and update the instructions if needed.\n\nWithin one year after this law is passed, the head of each covered agency must send their plan to the Director. Every three years after submitting their first plan, each agency head must review their plan, change it if needed, and send any updated plan to the Director.\n\nWithin one year after this law is passed and every year after that, the Director must send all the agency plans to Congress, the Senate Committee on Homeland Security and Governmental Affairs, and the House Committee on Oversight and Government Reform.\n\nNo court can review any decisions, findings, actions, or failures to act under this section by the Director or any agency head. No extra money is approved to be spent to carry out this law.",
+      "word_offset": 18,
+      "char_offset": 117
+    }
+  ]
+}

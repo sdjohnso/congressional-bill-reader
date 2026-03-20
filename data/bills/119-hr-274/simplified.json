@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hr-274",
+  "title": "Sunset Chevron Act",
+  "short_title": "Sunset Chevron Act",
+  "congress": 119,
+  "bill_number": "HR.274",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Government Reform, and Ru",
+  "version_hash": "49815882f8e5f4f1",
+  "last_updated": "2026-03-20T12:44:10.023025+00:00",
+  "plain_summary": "This bill requires the Government Accountability Office to make a list of all federal agency rules that courts allowed to stay in place because of something called Chevron deference. Each rule on this list will get a date when it automatically expires, with the newest rules expiring first and older rules expiring 30 days later in order. The Supreme Court recently said courts should not automatically trust agency interpretations of laws like they used to under Chevron deference. Congress can also vote to cancel any of these rules without the usual time limits that normally apply.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures"
+  ],
+  "sponsor_name": "Rep. Green, Mark E. [R-TN-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 16,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government rules expire",
+    "federal agency regulations",
+    "court decisions overturned",
+    "Supreme Court ruling",
+    "automatic expiration dates",
+    "government agency power",
+    "rule cancellation",
+    "federal regulations sunset",
+    "agency interpretation limits",
+    "government accountability office",
+    "congressional oversight rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Sunset Chevron Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, these terms mean the following. Chevron deference means a legal rule that courts follow when they decide whether to trust government agencies to interpret laws. This rule comes from a court case called Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc. from nineteen eighty-four. Sunset date means the day when a rule will stop working and no longer have power. Rule means the same thing it means in section five hundred fifty-one of title five of the United States Code, which is basically any government regulation or requirement.",
+      "word_offset": 9,
+      "char_offset": 47
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-gao-review-of-rules-upheld-by-chevron-deference",
+      "title": "Section 3  GAO Review of Rules Upheld by Chevron Deference",
+      "text": "The head of the Government Accountability Office (GAO) must make and publish a list within one hundred eighty days after this law is passed. This list must include every court decision that supported a government rule because of Chevron deference, was never overturned by a higher court, and involves a rule that is still active when this law is passed. The list must be organized by which government agency made each rule. For each agency, the rules must be listed starting with the newest rule first and going backward in time. The list must also show a sunset date for each rule. The GAO head must figure out sunset dates this way. The newest rule from each agency gets a sunset date that is thirty days after the list is published. Each older rule from that same agency gets a sunset date that is thirty days after the sunset date of the rule that came right before it on the list.",
+      "word_offset": 101,
+      "char_offset": 606
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-exception-to-the-cra-to-the-6-legislative-day-window-for-certain-rules",
+      "title": "Section 4  Exception to the CRA to the 6-Legislative-Day Window for Certain Rules",
+      "text": "Chapter eight of title five of the United States Code will apply to each rule listed in section three. This chapter is called the Congressional Review Act (CRA) and it lets Congress vote to cancel government rules. However, the normal sixty-day time limit for Congress to file a resolution to cancel a rule will not apply to these rules.",
+      "word_offset": 262,
+      "char_offset": 1492
+    }
+  ]
+}

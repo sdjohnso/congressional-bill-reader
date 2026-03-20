@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-569",
+  "title": "Birthright Citizenship Act of 2025",
+  "short_title": "Birthright Citizenship Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.569",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "ef2c2cfb19abb686",
+  "last_updated": "2026-03-20T13:13:33.343521+00:00",
+  "plain_summary": "This bill would change who automatically becomes a U.S. citizen when born in America. Under the new law, babies born in the United States would only become citizens if at least one parent is already a U.S. citizen, a legal permanent resident, or someone serving in the U.S. military. Right now, almost all babies born in America automatically become citizens regardless of their parents' status. The change would only apply to people born after the law goes into effect, so it would not affect anyone who has already been born.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Babin, Brian [R-TX-36]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 81,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "birthright citizenship",
+    "automatic citizenship",
+    "born in America citizenship",
+    "citizenship for babies",
+    "immigrant children citizenship",
+    "anchor babies",
+    "14th amendment citizenship",
+    "citizenship requirements",
+    "parent citizenship status",
+    "born in US citizen",
+    "citizenship law changes",
+    "immigration citizenship rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Birthright Citizenship Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-citizenship-at-birth-for-certain-persons-born-in-the-united-states",
+      "title": "Section 2  Citizenship at Birth for Certain Persons Born in the United States",
+      "text": "This section changes the Immigration and Nationality Act to add new rules about who becomes a US citizen when born in America. The law recognizes that the Fourteenth Amendment to the Constitution gives birthright citizenship. However, it adds that a person born in the United States is only considered under US legal control if at least one parent meets certain requirements. The parent must be either a US citizen, a legal permanent resident living in the US, or a non-citizen with legal status who is actively serving in the US military. The military service definition comes from title ten of the United States Code. These new rules will not change the citizenship status of anyone who was born before this law goes into effect.",
+      "word_offset": 14,
+      "char_offset": 83
+    }
+  ]
+}

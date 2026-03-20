@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-s-151",
+  "title": "Protecting Americans from Tax Hikes on Imported Goods Act of 2025",
+  "short_title": "Protecting Americans from Tax Hikes on Imported Goods Act of 2025",
+  "congress": 119,
+  "bill_number": "S.151",
+  "introduced_date": "2025-01-17",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "version_hash": "ecf322ea9fb065f9",
+  "last_updated": "2026-03-20T14:02:36.162869+00:00",
+  "plain_summary": "This bill limits what the President can do during a national emergency when it comes to taxes on goods from other countries. Currently, the President has broad powers during emergencies to control trade and money matters. Under this new law, the President would not be allowed to add new taxes or raise existing taxes on imported goods during an emergency. However, the President could still completely ban all products or certain types of products from entering the US from specific countries. The goal is to protect Americans from having to pay higher prices on imported goods due to emergency tax increases.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-17",
+  "last_action_date": "2025-01-17",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Foreign Trade and International Finance",
+  "subjects": [
+    "Presidents and presidential powers, Vice Presidents",
+    "Tariffs"
+  ],
+  "sponsor_name": "Sen. Shaheen, Jeanne [D-NH]",
+  "sponsor_party": "D",
+  "sponsor_state": "NH",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "president emergency powers",
+    "import taxes",
+    "tariffs on foreign goods",
+    "higher prices on imports",
+    "national emergency trade rules",
+    "president raising taxes on imports",
+    "emergency tariff increases",
+    "protecting consumers from import taxes",
+    "presidential powers during emergencies",
+    "foreign goods price increases"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting Americans from Tax Hikes on Imported Goods Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exclusion-of-authority-to-impose-duties-and-tariff-rate-quotas-from-international-emergency-economic-powers-act",
+      "title": "Section 2  Exclusion of Authority to Impose Duties and Tariff-Rate Quotas from International Emergency Economic Powers Act",
+      "text": "This section changes the International Emergency Economic Powers Act by adding new rules about what the President can do during emergencies. The law currently lets the President take economic actions during national emergencies. This bill adds a new part that says the President cannot use emergency powers to put new taxes called duties on goods coming into the United States from other countries. The President also cannot use emergency powers to set up tariff-rate quotas, which are limits on how much of certain goods can come in at lower tax rates. However, the President can still completely stop all goods or certain types of goods from a specific country from entering the United States during an emergency.",
+      "word_offset": 20,
+      "char_offset": 114
+    }
+  ]
+}

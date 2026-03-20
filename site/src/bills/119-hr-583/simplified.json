@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-583",
+  "title": "BEACH Act of 2025",
+  "short_title": "BEACH Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.583",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Water Resources and Environment.",
+  "version_hash": "995f0589b6b426e8",
+  "last_updated": "2026-03-20T13:34:47.918815+00:00",
+  "plain_summary": "The BEACH Act of 2025 gives money to states and local governments to test water quality at beaches and other places where people swim and play in the water. The bill extends this funding through 2029 and adds new things states can do with the money, like testing waters upstream from beaches and finding out what is making the water dirty. When the water is not safe, states must tell the public and government agencies so people know not to swim there. The EPA will also help states learn about new ways to test water quality.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the Subcommittee on Water Resources and Environment.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Rep. Joyce, David P. [R-OH-14]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 36,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "beach water safety",
+    "swimming water testing",
+    "beach pollution",
+    "water quality testing",
+    "beach closures",
+    "unsafe swimming water",
+    "beach water contamination",
+    "public beach safety",
+    "dirty beach water",
+    "beach water monitoring",
+    "swimming advisories",
+    "polluted beaches"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Beaches Environmental Assessment and Coastal Health Act of 2025 or the BEACH Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-coastal-recreation-water-quality-monitoring-and-notification",
+      "title": "Section 2 Coastal Recreation Water Quality Monitoring and Notification",
+      "text": "This section changes an existing law called the Federal Water Pollution Control Act. The changes update how the government gives money to states and local governments to test water quality at beaches. The updated rules now include testing shallow waters upstream that are near beaches, not just the beach waters themselves. States can now use grant money to find exactly where pollution is coming from in these waters. When states find pollution sources, they must share information about what they discovered. The amount of money available for these grants stays at thirty million dollars each year, but the years change from 2001 through 2005 to 2025 through 2029. The law also updates another section to include the same expanded water testing areas and extends its funding from 2001 through 2005 to 2025 through 2029.",
+      "word_offset": 21,
+      "char_offset": 117
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-guidance",
+      "title": "Section 3 Guidance",
+      "text": "The Environmental Protection Agency must provide guidance to states and local governments that receive beach monitoring grants. This guidance must include information about new and improved ways to test water for contamination.",
+      "word_offset": 155,
+      "char_offset": 939
+    }
+  ]
+}

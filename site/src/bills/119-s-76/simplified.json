@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-s-76",
+  "title": "SMART Act of 2025",
+  "short_title": "SMART Act of 2025",
+  "congress": 119,
+  "bill_number": "S.76",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "1d2af70617d3b9c1",
+  "last_updated": "2026-03-20T11:50:59.571577+00:00",
+  "plain_summary": "The SMART Act of 2025 makes government agencies create plans to check if their big rules are working properly. These big rules are ones that cost at least 100 million dollars per year or have major effects on things like jobs, prices, or safety. Agencies must review these rules within the time they set in their plans and compare what they expected to happen with what actually happened. They also have to decide if the rules need to be changed, removed, or if there are better ways to reach their goals. The agencies must share their review results with the public.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Competition and antitrust",
+    "Competitiveness, trade promotion, trade deficits",
+    "Economic performance and conditions",
+    "Inflation and prices",
+    "Judicial review and appeals"
+  ],
+  "sponsor_name": "Sen. Lankford, James [R-OK]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government rules review",
+    "federal regulations cost",
+    "100 million dollar rules",
+    "agency rule checking",
+    "government oversight",
+    "regulatory review process",
+    "federal rule effectiveness",
+    "government accountability",
+    "expensive regulations",
+    "rule impact analysis",
+    "federal agency transparency"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Setting Manageable Analysis Requirements in Text Act of two thousand twenty five or the SMART Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-incorporating-retrospective-review-into-new-major-rules",
+      "title": "Section 2  Incorporating Retrospective Review Into New Major Rules",
+      "text": "This section changes the federal law that governs how government agencies make rules. It adds new definitions and requirements for major rules. An Administrator means the person who runs the Office of Information and Regulatory Affairs in the Office of Management and Budget. A major rule is any rule that the Administrator decides has or will likely have an annual effect on the economy of one hundred million dollars or more, causes big cost increases for consumers or industries or governments, or has significant bad effects on competition, jobs, investment, productivity, innovation, health, safety, the environment, or the ability of American companies to compete with foreign companies. Starting one year after this law passes, agencies must do several new things when they make major rules. For proposed major rules, agencies must include a potential plan for checking how well the rule works after it is put in place. For final major rules, agencies must include a complete framework that explains the rule's goals, how they will measure if the rule is working, their plan for collecting data and public input, and a timeline of no more than ten years for reviewing the rule. Agencies must then actually review their major rules using this framework. They must check if the rule is meeting its goals, if it is still needed, if it needs changes, or if other approaches might work better. If an agency uses a different method than planned, it must explain why. If a rule stays in effect, the agency must list what events would require another review. Agencies must publish their review results on their websites within one hundred eighty days of finishing the review. The head of each agency must make sure their agency follows these requirements and publishes results quickly. The Administrator will provide guidance to agencies, help them coordinate reviews of similar rules, and can excuse agencies from some requirements in emergencies or for routine rules. This law does not apply to rules that were already reviewed before this law passed, rules that already have other review requirements that are similar or better, rules whose laws get renewed by Congress every ten years or less, or rules for interpretation or agency procedures. Courts can only check if agencies published the required frameworks and reviews, not judge the quality of the work. If agencies do not follow the requirements, courts can only order them to publish what is required, but the rules still take effect. There is money authorized to pay for carrying out these changes.",
+      "word_offset": 27,
+      "char_offset": 154
+    }
+  ]
+}

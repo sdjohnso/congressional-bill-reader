@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-294",
+  "title": "Dairy Farm Resiliency Act",
+  "short_title": "Dairy Farm Resiliency Act",
+  "congress": 119,
+  "bill_number": "HR.294",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+  "version_hash": "c6a38084f616a62e",
+  "last_updated": "2026-03-20T11:25:13.195903+00:00",
+  "plain_summary": "The Dairy Farm Resiliency Act makes changes to a government program that helps dairy farmers protect themselves from losing money when milk prices drop or feed costs go up. The bill changes how the government calculates a farm's milk production history by using the most recent three years of data and updating it every five years. It also raises the limit for getting cheaper insurance rates from farms that produce up to 5 million pounds of milk per year to those that produce up to 6 million pounds per year. These changes will help more dairy farmers get better protection at lower costs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "dairy farmers",
+    "milk prices",
+    "farm insurance",
+    "dairy protection",
+    "milk production",
+    "feed costs",
+    "farm subsidies",
+    "dairy industry help",
+    "milk price insurance",
+    "dairy farm support",
+    "agricultural insurance",
+    "farmer financial protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Dairy Farm Resiliency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-dairy-margin-coverage-program",
+      "title": "Section 2 Dairy Margin Coverage Program",
+      "text": "This section makes changes to a government program that helps dairy farmers when their costs are too high compared to milk prices. First, it changes how the government calculates how much milk a farm produced in the past. Instead of looking at milk production from two thousand eleven, two thousand twelve, or two thousand thirteen, the government will now look at the most recent three years of production. This calculation will be updated once every five years. Second, it increases the amount of milk production that gets the lowest insurance rates from five million pounds per year to six million pounds per year. This means more dairy farmers can get cheaper insurance coverage for their milk production.",
+      "word_offset": 10,
+      "char_offset": 54
+    }
+  ]
+}

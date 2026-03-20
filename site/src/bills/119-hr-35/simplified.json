@@ -1,0 +1,83 @@
+{
+  "bill_id": "119-hr-35",
+  "title": "Agent Raul Gonzalez Officer Safety Act",
+  "short_title": "Agent Raul Gonzalez Officer Safety Act",
+  "congress": 119,
+  "bill_number": "HR.35",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "32b91574444a20ff",
+  "last_updated": "2026-03-20T15:29:13.732540+00:00",
+  "plain_summary": "This bill makes it a federal crime to run away from Border Patrol agents or other officers helping them while driving a car within 100 miles of the US border. People who break this law can go to prison for up to two years, and they must serve even longer prison sentences if someone gets badly hurt or dies. If someone who is not a US citizen commits this crime, they cannot enter the United States, can be deported, and cannot get asylum or other immigration help.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-13",
+  "last_action_date": "2025-02-13",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Congressional oversight",
+    "Criminal investigation, prosecution, interrogation",
+    "Criminal procedure and sentencing",
+    "Immigration status and procedures",
+    "Motor vehicles"
+  ],
+  "sponsor_name": "Rep. Ciscomani, Juan [R-AZ-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 32,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border patrol",
+    "running from police",
+    "fleeing officers",
+    "driving away from cops",
+    "border crimes",
+    "immigration punishment",
+    "deportation laws",
+    "asylum restrictions",
+    "border security",
+    "illegal immigration penalties",
+    "car chase laws",
+    "border enforcement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Agent Raul Gonzalez Officer Safety Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-criminal-penalties-for-evading-arrest-or-detention",
+      "title": "Section 2 Criminal Penalties for Evading Arrest or Detention",
+      "text": "This section adds a new crime to federal law. It is now illegal to drive a car or truck within one hundred miles of the United States border while purposely running away from a Border Patrol agent who is chasing you. It is also illegal to run away from any federal, state, or local police officer who is helping the Border Patrol or working under their command. If someone commits this crime, they can be sent to prison for up to two years or fined, or both. If someone gets seriously hurt because of this crime, the person who committed it must go to prison for at least five years and up to twenty years. They can also be fined. If someone dies because of this crime, the person who committed it must go to prison for at least ten years and could be sentenced to life in prison. They can also be fined.",
+      "word_offset": 12,
+      "char_offset": 67
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-inadmissibility-deportability-and-ineligibility-related-to-evading-arrest-or-detention-while-operating-a-motor-vehicle",
+      "title": "Section 3 Inadmissibility, Deportability, and Ineligibility Related to Evading Arrest or Detention While Operating a Motor Vehicle",
+      "text": "This section changes immigration law. Anyone who is not a United States citizen and has been convicted of this new crime cannot enter the United States. This also applies to people who admit they committed this crime or admit to doing actions that make up this crime. Any non-citizen who has been convicted of this crime or admits to committing it can be deported from the United States. Non-citizens who have been convicted of this crime or admit to committing it cannot get help under immigration laws. This includes being denied asylum, which is protection given to people fleeing danger in their home countries.",
+      "word_offset": 166,
+      "char_offset": 872
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-annual-report",
+      "title": "Section 4 Annual Report",
+      "text": "Every year, the Attorney General and the Secretary of Homeland Security must work together to write a report for Congress. The report must go to the judiciary committees in both the Senate and House of Representatives. The report must count how many people committed this new crime. It must also summarize how many people were charged with this crime, how many were caught but not charged, how many committed the crime but were not caught, what punishments prosecutors asked for, and what punishments were actually given.",
+      "word_offset": 270,
+      "char_offset": 1488
+    }
+  ]
+}

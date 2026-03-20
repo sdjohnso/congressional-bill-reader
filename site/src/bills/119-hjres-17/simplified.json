@@ -1,0 +1,98 @@
+{
+  "bill_id": "119-hjres-17",
+  "title": "Proposing a balanced budget amendment to the Constitution of the United States.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.17",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "0fb59109007f151d",
+  "last_updated": "2026-03-20T10:50:18.886559+00:00",
+  "plain_summary": "This bill wants to add a new rule to the Constitution that says the government cannot spend more money than it takes in each year. If Congress wants to spend more money than the government receives, two-thirds of both the House and Senate would have to vote yes to allow it. The President would also have to propose budgets that don't spend more than the government gets. This new rule would not count money used to pay back loans the government already owes. The rule would start working five years after enough states agree to make it part of the Constitution.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Budget deficits and national debt",
+    "Budget process",
+    "Constitution and constitutional amendments",
+    "Legislative rules and procedure",
+    "Presidents and presidential powers, Vice Presidents"
+  ],
+  "sponsor_name": "Rep. Obernolte, Jay [R-CA-23]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "balanced budget",
+    "government spending limit",
+    "constitutional amendment",
+    "federal budget",
+    "government debt",
+    "spending more than income",
+    "budget deficit",
+    "Congress spending rules",
+    "government financial rules",
+    "national spending limit",
+    "federal spending cap",
+    "government budget balance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution",
+      "title": "Joint Resolution",
+      "text": "This joint resolution proposes adding a new article to the United States Constitution. The Senate and House of Representatives must both agree to this proposal with a two-thirds vote in each chamber. If they do, the proposed amendment will be sent to the state legislatures. Three-fourths of the states must approve it within seven years for it to become part of the Constitution.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "article-section-1",
+      "title": "Article Section 1",
+      "text": "The government cannot spend more money in any fiscal year (the government's budget year) than it takes in during that same year. The only exception is if two-thirds of all members in both the House and Senate vote by roll call to allow spending more than the government receives.",
+      "word_offset": 63,
+      "char_offset": 381
+    },
+    {
+      "id": "s3",
+      "slug": "article-section-2",
+      "title": "Article Section 2",
+      "text": "Before each fiscal year begins, the President must send Congress a proposed budget plan for the United States Government. This budget plan must not spend more money than the government expects to receive.",
+      "word_offset": 112,
+      "char_offset": 661
+    },
+    {
+      "id": "s4",
+      "slug": "article-section-3",
+      "title": "Article Section 3",
+      "text": "Congress has the power to pass laws to enforce and carry out this amendment. These laws can be based on estimates of how much money the government will spend and receive.",
+      "word_offset": 145,
+      "char_offset": 866
+    },
+    {
+      "id": "s5",
+      "slug": "article-section-4",
+      "title": "Article Section 4",
+      "text": "Total receipts means all money the United States Government receives, except money from borrowing. Total outlays means all money the United States Government spends, except money used to pay back the main amount of debts.",
+      "word_offset": 176,
+      "char_offset": 1037
+    },
+    {
+      "id": "s6",
+      "slug": "article-section-5",
+      "title": "Article Section 5",
+      "text": "This amendment will start working beginning with the fifth fiscal year after it is ratified by the states.",
+      "word_offset": 211,
+      "char_offset": 1259
+    }
+  ]
+}

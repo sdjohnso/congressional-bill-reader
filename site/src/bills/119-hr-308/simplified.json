@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-308",
+  "title": "Low Income Housing for Defense Communities Act",
+  "short_title": "Low Income Housing for Defense Communities Act",
+  "congress": 119,
+  "bill_number": "HR.308",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "736e1fab10346431",
+  "last_updated": "2026-03-20T12:56:59.522238+00:00",
+  "plain_summary": "This bill makes it easier for military members to find affordable housing near their bases. It does this by not counting the housing money that service members get from the military when deciding if they qualify for low income housing programs. The bill also gives special tax breaks to companies that build affordable homes within fifteen miles of big military bases. This should help create more cheap housing options for military families who need them.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Moore, Blake D. [R-UT-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "military housing",
+    "affordable housing",
+    "low income housing",
+    "military families",
+    "housing near military bases",
+    "cheap housing for soldiers",
+    "military housing assistance",
+    "tax breaks for housing",
+    "housing allowance",
+    "defense community housing",
+    "military base housing",
+    "affordable homes for troops"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-sense-of-congress",
+      "title": "Section 1 Short Title; Sense of Congress",
+      "text": "This law can be called the Low Income Housing for Defense Communities Act. Congress believes that besides helping military members get affordable housing through this law, the country should take more steps to help build affordable housing for all workers and families. This includes supporting other housing laws like the Affordable Housing Credit Improvement Act of two thousand twenty three.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-tax-incentives-for-rental-housing-for-members-of-the-armed-forces",
+      "title": "Section 2 Tax Incentives for Rental Housing for Members of the Armed Forces",
+      "text": "This section makes two main changes to help military members get affordable housing. First, when determining if military members qualify for low income housing programs, the government will not count the basic housing allowance that military members receive as part of their income. This housing allowance is money the military gives service members to help pay for housing. By not counting this money as income, more military members will qualify for affordable housing programs. This change applies to both low income housing tax credit programs and tax free bonds used to build affordable rental housing. These changes take effect after this law is signed. Second, any apartment building built within fifteen miles of a large military base will get extra tax credits to help developers build more affordable housing. A large military base is one that the Secretary of Defense says is worth more than two billion eight hundred thirty three million dollars to replace. This extra help makes it easier and cheaper to build affordable housing near military bases where service members live. This change applies to buildings completed after this law is signed. The law makes clear that these apartment buildings do not have to be used only by military members. Anyone who qualifies can live there.",
+      "word_offset": 60,
+      "char_offset": 395
+    }
+  ]
+}

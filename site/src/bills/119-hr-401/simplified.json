@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-401",
+  "title": "No Taxpayer Funding for the World Health Organization Act",
+  "short_title": "No Taxpayer Funding for the World Health Organization Act",
+  "congress": 119,
+  "bill_number": "HR.401",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Foreign Affairs.",
+  "version_hash": "740b7588e8224e52",
+  "last_updated": "2026-03-20T11:46:43.330381+00:00",
+  "plain_summary": "This bill would completely stop the United States from giving money to the World Health Organization. The US would not pay the membership fees that countries are required to pay. The US would also not give any extra money that it chooses to donate. This ban on funding would start right away when the bill becomes law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Roy, Chip [R-TX-21]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 17,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "stop funding WHO",
+    "defund World Health Organization",
+    "US quit WHO",
+    "America leave World Health Organization",
+    "no money to WHO",
+    "withdraw from WHO",
+    "stop paying WHO dues",
+    "cut WHO funding",
+    "US exit World Health Organization",
+    "defund WHO bill"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Taxpayer Funding for the World Health Organization Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-assessed-and-voluntary-contributions-to-the-world-health-organization",
+      "title": "Section 2  Prohibition on Assessed and Voluntary Contributions to the World Health Organization",
+      "text": "Starting on the day this law is passed, the United States cannot give any money to the World Health Organization. This includes both required payments that member countries must pay and optional donations that the United States chooses to give. No other law can override this rule.",
+      "word_offset": 15,
+      "char_offset": 86
+    }
+  ]
+}

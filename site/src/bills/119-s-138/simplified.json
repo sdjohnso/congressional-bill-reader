@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-s-138",
+  "title": "VA Home Loan Awareness Act of 2025",
+  "short_title": "VA Home Loan Awareness Act of 2025",
+  "congress": 119,
+  "bill_number": "S.138",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "version_hash": "d984c2a45ce545b1",
+  "last_updated": "2026-03-20T10:59:11.104814+00:00",
+  "plain_summary": "This bill requires mortgage companies to add a notice to home loan applications that tells people with military service they might be able to get a VA home loan. The notice must be added to the standard forms that most lenders use when people apply for home loans. The government will check in 18 months to see if at least 80 percent of lenders are actually including this notice on their forms. This is meant to help veterans and people who served in the military learn about VA loans they might qualify for.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [
+    "Congressional oversight",
+    "Department of Veterans Affairs",
+    "Government lending and loan guarantees",
+    "Government studies and investigations",
+    "Housing finance and home ownership",
+    "Veterans' loans, housing, homeless programs"
+  ],
+  "sponsor_name": "Sen. Sheehy, Tim [R-MT]",
+  "sponsor_party": "R",
+  "sponsor_state": "MT",
+  "cosponsor_count": 26,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "VA home loan",
+    "veterans mortgage",
+    "military home buying",
+    "veteran benefits",
+    "home loan notice",
+    "mortgage application",
+    "veterans housing help",
+    "military service benefits",
+    "VA loan eligibility",
+    "veteran homeowner assistance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the VA Home Loan Awareness Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-military-service-question",
+      "title": "Section 2 Military Service Question",
+      "text": "Part A explains the main requirement. Within six months of this law being passed, the Director must create a rule that requires housing companies called enterprises to add a special notice to a home loan form. This form is called the Uniform Residential Loan Application and it is used when people apply for home loans. The form already has a question asking if someone served in the military. The new notice must be placed right below that military service question. The notice must say exactly this: If yes, you may qualify for a VA Home Loan. Consult your lender regarding eligibility. Part B requires a study to check if the rule is working. Within eighteen months after this law passes, the Comptroller General of the United States must do a study. The study will check if at least eighty percent of lenders who use the Uniform Residential Loan Application form have actually added the required notice to their forms. The Comptroller General must then write a report about what they found and give that report to Congress.",
+      "word_offset": 15,
+      "char_offset": 77
+    }
+  ]
+}

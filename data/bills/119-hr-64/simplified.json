@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-64",
+  "title": "Grant’s Law",
+  "short_title": "Grant’s Law",
+  "congress": 119,
+  "bill_number": "HR.64",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "c3fa042058e81e4b",
+  "last_updated": "2026-03-20T12:29:07.205765+00:00",
+  "plain_summary": "Grant's Law says that when someone who is in the United States illegally gets arrested for certain crimes, the government must keep them in jail even before they are found guilty. The Department of Homeland Security has to hold these people until their immigration case is finished, which must happen within 90 days. If the person is let out for their criminal court case, the government has to take them back into custody right after. Even if the person is found not guilty of the crime they were arrested for, they still have to stay in jail until their immigration case is done.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Detention of persons",
+    "Immigration status and procedures"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "illegal immigrants jail",
+    "undocumented immigrants detention",
+    "immigration crimes arrest",
+    "deportation jail time",
+    "illegal alien custody",
+    "immigration court detention",
+    "border security arrests",
+    "undocumented workers jail",
+    "immigration enforcement detention",
+    "illegal immigrants must stay jail"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called Grant's Law.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-mandatory-detention-for-certain-aliens-arrested-for-the-commission-of-certain-offenses",
+      "title": "Section 2 Mandatory Detention for Certain Aliens Arrested for the Commission of Certain Offenses",
+      "text": "This section changes an existing immigration law. The Secretary of Homeland Security must now keep in custody any person who is in the United States without legal permission and gets arrested for certain crimes. These are crimes that could make someone unable to enter the country or could get them kicked out of the country under current immigration rules. The Secretary can let the person go to local authorities for court cases about their arrest. But the Secretary must take the person back into custody whenever the local authorities are not holding them. If the person is found not guilty of the crime they were arrested for, the Secretary must still keep holding them until their immigration case is finished and they are removed from the country.",
+      "word_offset": 7,
+      "char_offset": 36
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-expedited-initiation-of-removal-proceedings",
+      "title": "Section 3 Expedited Initiation of Removal Proceedings",
+      "text": "This section adds a new rule about how fast immigration cases must be handled. For people who are being held under the new rules in Section 2, the Secretary of Homeland Security must finish their removal case within ninety days of when they were first detained.",
+      "word_offset": 134,
+      "char_offset": 791
+    }
+  ]
+}

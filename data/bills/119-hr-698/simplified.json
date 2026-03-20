@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-698",
+  "title": "Asylum Accountability Act",
+  "short_title": "Asylum Accountability Act",
+  "congress": 119,
+  "bill_number": "HR.698",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "8a2ff2b7e0f633cf",
+  "last_updated": "2026-03-20T14:11:45.127012+00:00",
+  "plain_summary": "This bill changes the rules for people who miss their immigration court hearings. Right now, if someone doesn't show up to court and gets ordered to leave the country, they can't get certain types of help with their immigration case for 10 years. This bill would make that ban last forever instead of just 10 years. The only way someone could get help after missing court would be if something very unusual happened that wasn't their fault.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Rouzer, David [R-NC-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigration court",
+    "missing court hearing",
+    "asylum seekers",
+    "deportation orders",
+    "immigration help ban",
+    "skipping immigration court",
+    "asylum penalties",
+    "immigration consequences",
+    "deportation relief",
+    "immigration court no show",
+    "asylum restrictions",
+    "permanent immigration ban"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Asylum Accountability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-permanent-ineligibility-for-adjustment-of-status-after-failure-to-appear-at-removal-proceeding",
+      "title": "Section 2 Permanent Ineligibility for Adjustment of Status After Failure to Appear at Removal Proceeding",
+      "text": "This section changes an existing immigration law. Right now, if someone does not show up to their immigration court hearing and a judge orders them to leave the country, they cannot apply to become a permanent resident for ten years. This law removes that ten year time limit. This means that if someone misses their court hearing and gets ordered to leave, they can never apply to become a permanent resident unless there were very unusual circumstances that caused them to miss court.",
+      "word_offset": 9,
+      "char_offset": 54
+    }
+  ]
+}

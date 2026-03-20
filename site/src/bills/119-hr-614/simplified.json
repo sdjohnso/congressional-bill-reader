@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-614",
+  "title": "SAFE Grilling Act",
+  "short_title": "SAFE Grilling Act",
+  "congress": 119,
+  "bill_number": "HR.614",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "b249a670329d17fc",
+  "last_updated": "2026-03-20T15:10:47.877903+00:00",
+  "plain_summary": "The SAFE Grilling Act requires the Consumer Product Safety Commission to create a public education campaign about grill safety within one year. Congress found that grills cause thousands of injuries and fires each year because of problems like gas leaks, dirty grills, and putting grills in unsafe places. The campaign will teach people how to use grills safely and prevent accidents from happening.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Rep. Gottheimer, Josh [D-NJ-5]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "grill safety",
+    "barbecue accidents",
+    "grilling fires",
+    "gas grill dangers",
+    "backyard grilling",
+    "BBQ safety tips",
+    "grill injury prevention",
+    "outdoor cooking safety",
+    "propane grill hazards",
+    "grilling education campaign"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Strengthening Awareness and Funding Education for Grilling Act or the SAFE Grilling Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has learned important facts from the National Fire Protection Association and the Consumer Product Safety Commission about grill accidents between two thousand seventeen and two thousand twenty one. Each year, an average of twenty two thousand one hundred fifty five people went to emergency rooms because of grill injuries. Gas grills caused an average of nine thousand seventy nine home fires each year. This included four thousand four hundred fifty four fires in buildings and four thousand six hundred twenty five outdoor fires. Gas leaks or breaks were a big problem. Six percent of building fires from gas grills and fifteen percent of outdoor fires from gas grills happened because of leaks or breaks. More than twenty five percent of building fires from grills started on outside balconies or porches. Eight percent started when an outside wall caught fire. Four percent started with building parts like frames catching fire. July was the worst month for grill fires with sixteen percent of all grill fires. June had fourteen percent, May had twelve percent, and August had eleven percent. About twenty percent of grill fires involved grills that had not been cleaned properly.",
+      "word_offset": 19,
+      "char_offset": 116
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-public-awareness-campaign",
+      "title": "Section 3  Public Awareness Campaign With Respect to Grill Safety",
+      "text": "The Consumer Product Safety Commission must create and start a public education campaign within one year after this law is passed. The campaign must teach people about the dangers of cooking with grills and the best ways to use grills safely to prevent injuries and fires. Congress approves spending up to five million dollars to pay for this campaign.",
+      "word_offset": 211,
+      "char_offset": 1312
+    }
+  ]
+}

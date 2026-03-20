@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-59",
+  "title": "Mens Rea Reform Act of 2025",
+  "short_title": "Mens Rea Reform Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.59",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 15 - 13.",
+  "version_hash": "3789b9ae50fbbf4e",
+  "last_updated": "2026-03-20T15:15:56.232760+00:00",
+  "plain_summary": "This bill changes the rules for federal crimes by requiring the government to prove what was going on in a person's mind when they committed a crime. When a law does not say what mental state is needed to convict someone, the government must now prove the person knew what they were doing was wrong. This applies to all federal crimes written in laws and government rules. The bill creates a standard rule that says people must have acted knowingly to be found guilty of crimes where the mental requirement is not clearly stated.",
+  "current_status": "committee_reported",
+  "status_date": "2025-06-10",
+  "last_action_date": "2025-06-10",
+  "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 15 - 13.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Criminal investigation, prosecution, interrogation",
+    "Criminal procedure and sentencing"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "criminal intent",
+    "proving someone knew they broke the law",
+    "mental state in crimes",
+    "federal crime prosecution",
+    "knowing right from wrong",
+    "criminal mind requirements",
+    "government proving guilt",
+    "federal criminal cases",
+    "crime conviction standards",
+    "legal mental state",
+    "criminal responsibility laws",
+    "proving criminal knowledge"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Mens Rea Reform Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-state-of-mind-element-for-criminal-offenses",
+      "title": "Section 2 State of Mind Element for Criminal Offenses",
+      "text": "This section adds a new rule to federal criminal law about what the government must prove regarding a person's state of mind when they commit a crime. The new rule creates definitions for key terms. A covered offense means any crime listed in federal law, regulations, or state laws that federal law refers to, and that can be punished by jail time or a fine of at least two thousand five hundred dollars. It does not include military crimes or certain other specific types of offenses. The term knowingly means that a person was aware of what they were doing or aware that their actions would almost certainly cause a particular result. State of mind refers to words like willfully, intentionally, knowingly, recklessly, or negligently that describe how a person was thinking when they acted. The term willfully means that a person knew their conduct was against the law and they intended to do what they did or cause the result that happened. The new rule says that for any covered offense, the government must prove beyond a reasonable doubt that the defendant acted with whatever state of mind the law specifically requires for each part of the crime. For any part of a crime where the law does not specify a state of mind, the government must prove the defendant acted knowingly. If a law mentions a state of mind but does not say which parts of the crime it applies to, then that state of mind applies to all parts of the crime unless the law clearly means something else. There are exceptions to these rules. The requirements do not apply when Congress clearly intended that the government should not have to prove any particular state of mind, or for parts of crimes that deal with which court has authority to hear the case or where the trial should take place. The requirements also do not apply if following them would make it easier for the government to prove someone committed a crime than what the Supreme Court or other laws already require. Just because a law does not mention a state of mind does not mean Congress intended the government should not have to prove one. These rules apply to all covered offenses regardless of when the laws creating them were written. They apply to crimes committed on or after this law takes effect. They also apply to crimes committed before this law takes effect, unless doing so would punish innocent conduct, increase punishment, take away defenses, or interfere with cases already in progress. Future laws cannot change or override this section unless they specifically mention this section by name and explicitly say they are changing it.",
+      "word_offset": 15,
+      "char_offset": 76
+    }
+  ]
+}

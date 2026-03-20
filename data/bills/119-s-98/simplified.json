@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-s-98",
+  "title": "Rural Broadband Protection Act of 2025",
+  "short_title": "Rural Broadband Protection Act of 2025",
+  "congress": 119,
+  "bill_number": "S.98",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. ",
+  "version_hash": "e8574b9dc734d348",
+  "last_updated": "2026-03-20T12:30:00.463574+00:00",
+  "plain_summary": "This bill makes the Federal Communications Commission create new rules to check if companies are ready before giving them government money to build internet in rural areas. Companies that want this money must show they have the right skills, enough money, and good plans to actually build the internet networks they promise. The FCC will look at how well these companies did with other government programs in the past. Companies that lie or fail during this checking process will have to pay fines. Only companies that pass all these tests can get the government money to build rural internet.",
+  "current_status": "passed_senate",
+  "status_date": "2025-06-26",
+  "last_action_date": "2025-07-03",
+  "last_action_text": "Held at the desk.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [
+    "Internet, web applications, social media",
+    "Rural conditions and development",
+    "Telephone and wireless communication"
+  ],
+  "sponsor_name": "Sen. Capito, Shelley Moore [R-WV]",
+  "sponsor_party": "R",
+  "sponsor_state": "WV",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "rural internet",
+    "broadband funding",
+    "internet in rural areas",
+    "government money for internet",
+    "rural internet companies",
+    "internet service providers",
+    "broadband subsidies",
+    "rural connectivity",
+    "internet infrastructure",
+    "broadband grants",
+    "rural telecommunications"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Rural Broadband Protection Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-vetting-process",
+      "title": "Section 2 Vetting Process for Prospective High-Cost Universal Service Fund Applicants",
+      "text": "This section adds new rules to a law from nineteen thirty four that governs communications. The new rules create a process to check if companies are qualified before they get government money to build internet networks in rural areas. The term covered funding means any new government money offered to help build internet networks that can provide broadband service in areas where it costs a lot to provide service. This includes money given out through a bidding process where companies compete by offering to do the work for less money. The term new covered funding award means money given to a company based on an application they submitted after the government writes the new rules. The Federal Communications Commission (the government agency that regulates communications) must start writing these new rules within one hundred eighty days after this law is passed. When writing the rules, the Commission must make sure that only companies that meet certain requirements can get the government money. The Commission cannot favor one type of technology over another when making these decisions. Companies that want the money must include a detailed plan in their application that shows they have the technical skills, enough money, and the ability to actually build the network and provide internet service as promised. The Commission will judge these plans based on reasonable standards that are already well established in the industry. This includes technical standards the Commission has already adopted for companies that must report where broadband internet is available. The Commission will also look at whether the company has followed the rules in past government programs that funded broadband projects. The Commission must set a penalty of at least nine thousand dollars for each violation when a company fails to meet requirements before getting final approval for the money. The Commission cannot set the basic penalty at less than thirty percent of the total amount of money the company would have received, unless the Commission can show why lower penalties are needed in a specific case.",
+      "word_offset": 15,
+      "char_offset": 87
+    }
+  ]
+}

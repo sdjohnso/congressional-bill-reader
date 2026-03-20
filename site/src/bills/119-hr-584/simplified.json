@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-584",
+  "title": "No Medicaid for Illegal Immigrants Act of 2025",
+  "short_title": "No Medicaid for Illegal Immigrants Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.584",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "33ee99e07a265cb4",
+  "last_updated": "2026-03-20T13:33:44.317821+00:00",
+  "plain_summary": "This bill would stop states from giving Medicaid health insurance to people who are in the United States without legal permission. The only time these people could still get help would be for emergency medical care, which is already allowed under current rules. If this bill becomes law, states would not be able to use Medicaid to pay for regular doctor visits or other non-emergency health care for people who are not legally allowed to be in the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Immigrant health and welfare",
+    "Medicaid"
+  ],
+  "sponsor_name": "Rep. Kiley, Kevin [R-CA-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "medicaid immigrants",
+    "illegal immigrants healthcare",
+    "undocumented immigrants medical care",
+    "medicaid illegal aliens",
+    "immigrant health benefits",
+    "medicaid citizenship requirements",
+    "healthcare for undocumented",
+    "immigrant medicaid ban",
+    "illegal immigration health insurance",
+    "undocumented workers healthcare",
+    "medicaid eligibility immigration status"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Medicaid for Illegal Immigrants Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibiting-states-from-making-medical-assistance-available-to-certain-individuals-under-the-medicaid-program",
+      "title": "Section 2  Prohibiting States From Making Medical Assistance Available to Certain Individuals Under the Medicaid Program",
+      "text": "This section changes the rules for Medicaid (a government health insurance program for low-income people). It adds a new requirement that states must follow. States cannot give Medicaid benefits to people who are not legal permanent residents or who are not legally living in the United States permanently. The only exception is for emergency medical care that the federal government already pays for under existing emergency rules. This rule applies to all state Medicaid plans and any special permission (called waivers) that states might have to change their Medicaid programs.",
+      "word_offset": 16,
+      "char_offset": 95
+    }
+  ]
+}

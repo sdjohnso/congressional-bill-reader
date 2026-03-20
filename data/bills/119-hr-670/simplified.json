@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-670",
+  "title": "Lady Liberty Act of 2025",
+  "short_title": "Lady Liberty Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.670",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "0bf97476ef708fd4",
+  "last_updated": "2026-03-20T15:05:53.530026+00:00",
+  "plain_summary": "The Lady Liberty Act of 2025 requires the United States to accept at least 125,000 refugees every year starting in 2027. Right now, the President decides how many refugees can come to America each year. This new law would change that by setting a minimum number that must be allowed in no matter what the President wants. The law makes sure America will always take in at least 125,000 people who are fleeing danger in their home countries.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2026-01-08",
+  "last_action_text": "ASSUMING FIRST SPONSORSHIP - Mr. Walkinshaw asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 670, a bill originally introduced by Representative Connolly, for t",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Congressional oversight",
+    "Immigration status and procedures",
+    "Presidents and presidential powers, Vice Presidents",
+    "Refugees, asylum, displaced persons"
+  ],
+  "sponsor_name": "Rep. Connolly, Gerald E. [D-VA-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "VA",
+  "cosponsor_count": 12,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "refugees",
+    "immigration",
+    "minimum refugee admissions",
+    "refugee quotas",
+    "asylum seekers",
+    "displaced persons",
+    "immigration policy",
+    "refugee resettlement",
+    "125000 refugees",
+    "mandatory refugee intake",
+    "presidential immigration powers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Lady Liberty Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-minimum-number-of-refugees-to-be-admitted",
+      "title": "Section 2  Minimum Number of Refugees to Be Admitted",
+      "text": "This section changes an existing immigration law. The law currently says the President can decide how many refugees (people fleeing danger in their home countries) can come to the United States each year. This change adds a new rule. Starting after the year two thousand twenty six, the United States must accept at least one hundred twenty five thousand refugees every year. This minimum number applies no matter what the President decides.",
+      "word_offset": 14,
+      "char_offset": 73
+    }
+  ]
+}

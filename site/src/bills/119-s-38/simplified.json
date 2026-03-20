@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-s-38",
+  "title": "Preserving Safe Communities by Ending Swatting Act of 2025",
+  "short_title": "Preserving Safe Communities by Ending Swatting Act of 2025",
+  "congress": 119,
+  "bill_number": "S.38",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "fdc75200be1d91b2",
+  "last_updated": "2026-03-20T12:11:55.066157+00:00",
+  "plain_summary": "This bill makes it a federal crime to make fake emergency reports that trick police or other first responders into rushing to a location. This practice is called swatting and it wastes resources and can put people in danger. If someone gets hurt or killed because of a fake report, the person who made it could go to prison for life. People and cities can also sue to get their money back for the costs of responding to these fake emergencies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Civil actions and liability",
+    "Criminal procedure and sentencing",
+    "Emergency communications systems",
+    "First responders and emergency personnel",
+    "Fraud offenses and financial crimes",
+    "Postal service"
+  ],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "swatting",
+    "fake 911 calls",
+    "false emergency reports",
+    "police response scam",
+    "prank emergency calls",
+    "fake bomb threats",
+    "hoax emergency calls",
+    "wasting police time",
+    "dangerous pranks",
+    "fake crisis reports",
+    "emergency services fraud"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Preserving Safe Communities by Ending Swatting Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-false-communications-to-cause-an-emergency-response",
+      "title": "Section 2 False Communications to Cause an Emergency Response",
+      "text": "This section changes the federal law about making false reports that cause emergency responses. The new law says that anyone who purposely gives false or misleading information will be punished if they do either of these two things. First, they give false information that people would reasonably believe, and this information says that someone has committed, is committing, or will commit certain serious federal crimes like terrorism or attacks on aircraft. Second, they use mail, internet, phone, or other communication methods that cross state lines to give false information that would reasonably be expected to cause an emergency response, and this information says that someone has committed or will commit any crime under state or federal law or that puts public safety or any person's safety in danger. If someone does either of these things, they can be fined or sent to prison for up to five years, or both. If their false report causes someone to get seriously hurt, they can be fined or sent to prison for up to twenty years, or both. If their false report causes someone to die, they can be fined or sent to prison for any number of years up to life, or both. The law also says that anyone who makes these kinds of false reports can be sued in civil court by people who had to spend money because of the emergency response. These people can get back the money they spent responding to the fake emergency. The law defines emergency response as any time government agencies or certain nonprofit groups that handle emergencies send out people or equipment, tell people to evacuate an area, or issue warnings to the public because of a reported threat. This includes police, fire departments, rescue teams, and other agencies that work to keep people safe.",
+      "word_offset": 18,
+      "char_offset": 107
+    }
+  ]
+}

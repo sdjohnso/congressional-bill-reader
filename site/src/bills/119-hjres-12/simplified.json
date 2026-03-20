@@ -1,0 +1,89 @@
+{
+  "bill_id": "119-hjres-12",
+  "title": "Proposing an amendment to the Constitution of the United States to limit the number of terms that a Member of Congress may serve.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.12",
+  "introduced_date": "2025-01-06",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "4a8a87b6a1fed8d7",
+  "last_updated": "2026-03-20T14:01:30.238792+00:00",
+  "plain_summary": "This bill proposes changing the Constitution to limit how long people can serve in Congress. Under the new rules, a person could only serve up to six years in the House of Representatives, which equals three terms. They could only serve up to twelve years in the Senate, which equals two terms. The limits would only apply to terms that start after the amendment becomes law. To become part of the Constitution, three-fourths of all state governments would need to approve this change within seven years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-06",
+  "last_action_date": "2025-01-06",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional elections",
+    "Constitution and constitutional amendments",
+    "House of Representatives",
+    "Members of Congress",
+    "Senate"
+  ],
+  "sponsor_name": "Rep. Norman, Ralph [R-SC-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "SC",
+  "cosponsor_count": 111,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "term limits",
+    "congress term limits",
+    "limit congressional terms",
+    "how long can congressman serve",
+    "senate term limits",
+    "house term limits",
+    "congressional service limits",
+    "politician term limits",
+    "congress time limits",
+    "lawmakers term limits",
+    "constitutional amendment term limits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution-title",
+      "title": "Joint Resolution Title",
+      "text": "This is a joint resolution that proposes to change the Constitution of the United States. The change would set limits on how many terms members of Congress can serve.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "resolution-text",
+      "title": "Resolution Text",
+      "text": "The Senate and House of Representatives, with two thirds of each chamber agreeing, propose the following change to the Constitution. This change will become part of the Constitution if three fourths of all state legislatures approve it within seven years after Congress sends it to them for approval.",
+      "word_offset": 29,
+      "char_offset": 167
+    },
+    {
+      "id": "s3",
+      "slug": "section-1-house-term-limits",
+      "title": "Section 1 House Term Limits",
+      "text": "No person who has already served three terms as a Representative can run for election to the House of Representatives again. If someone is elected to fill an empty seat in the House and serves in that seat for more than one year, that counts as one full term when deciding how many terms they have served.",
+      "word_offset": 77,
+      "char_offset": 468
+    },
+    {
+      "id": "s4",
+      "slug": "section-2-senate-term-limits",
+      "title": "Section 2 Senate Term Limits",
+      "text": "No person who has already served two terms as a Senator can run for election or be appointed to the Senate again. If someone is elected or appointed to fill an empty seat in the Senate and serves in that seat for more than three years, that counts as one full term when deciding how many terms they have served.",
+      "word_offset": 134,
+      "char_offset": 774
+    },
+    {
+      "id": "s5",
+      "slug": "section-3-existing-terms-not-counted",
+      "title": "Section 3 Existing Terms Not Counted",
+      "text": "Any terms that someone served before this constitutional change is approved will not count toward their term limits. Only terms that begin after this change becomes part of the Constitution will count toward the limits.",
+      "word_offset": 194,
+      "char_offset": 1086
+    }
+  ]
+}

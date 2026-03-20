@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-335",
+  "title": "Repeal the NFA Act",
+  "short_title": "Repeal the NFA Act",
+  "congress": 119,
+  "bill_number": "HR.335",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "7165ab1cd9a75124",
+  "last_updated": "2026-03-20T16:07:31.147712+00:00",
+  "plain_summary": "This bill would get rid of a law called the National Firearms Act. The National Firearms Act is a tax law that controls certain types of guns and requires people to pay special taxes on them. The bill would remove this entire law from the tax code. If this bill passes, the government would no longer collect these special gun taxes or have these gun rules.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Burlison, Eric [R-MO-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 22,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "gun tax repeal",
+    "firearm tax removal",
+    "gun control laws",
+    "weapon taxes",
+    "gun registration requirements",
+    "firearm regulations",
+    "gun law changes",
+    "weapon permit fees",
+    "gun ownership rules",
+    "firearm tax code"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Repeal the NFA Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-national-firearms-act",
+      "title": "Section 2  Repeal of National Firearms Act",
+      "text": "Chapter fifty three of the Internal Revenue Code of nineteen eighty six is completely removed. This chapter contains the National Firearms Act. The reference to this chapter in the table of contents is also removed.",
+      "word_offset": 10,
+      "char_offset": 47
+    }
+  ]
+}

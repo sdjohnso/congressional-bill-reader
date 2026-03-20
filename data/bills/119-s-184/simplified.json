@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-s-184",
+  "title": "CURD Act",
+  "short_title": "CURD Act",
+  "congress": 119,
+  "bill_number": "S.184",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "version_hash": "448becb2a4eb2dde",
+  "last_updated": "2026-03-20T13:06:27.372346+00:00",
+  "plain_summary": "The CURD Act creates a legal definition for what can be called \"natural cheese.\" Natural cheese must be made from animal milk using traditional cheese-making methods. Foods like processed cheese, cheese spreads, and cheese foods cannot be labeled as natural cheese. Companies that put \"natural cheese\" on their labels when their product does not meet this definition would be breaking the law. This helps shoppers know what they are really buying when they see \"natural cheese\" on food packages.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Food supply, safety, and labeling"
+  ],
+  "sponsor_name": "Sen. Johnson, Ron [R-WI]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "natural cheese",
+    "cheese labeling",
+    "fake cheese",
+    "processed cheese",
+    "cheese definition",
+    "food labeling laws",
+    "what is real cheese",
+    "cheese ingredients",
+    "cheese standards",
+    "grocery store cheese",
+    "cheese packaging"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Codifying Useful Regulatory Definitions Act or the CURD Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2 Findings",
+      "text": "Congress has decided two important things. First, we need to define what natural cheese means so that shoppers can clearly tell the difference between natural cheese and process cheese. Second, the cheese making industry has been using the term natural cheese for more than fifty years, so it is already well known.",
+      "word_offset": 15,
+      "char_offset": 88
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-definition-of-natural-cheese",
+      "title": "Section 3 Definition of Natural Cheese",
+      "text": "This section changes the Federal Food, Drug, and Cosmetic Act by adding a new definition. Natural cheese means cheese that can be aged or fresh, soft or hard, and may have a coating. To be natural cheese, it must be made by turning milk proteins into solid cheese using rennet (a substance that makes milk curdle) or other safe ingredients that do the same job. The liquid part called whey is partly drained away. This process makes the cheese have much more protein than the original milk. Natural cheese can also be made using other methods that create a product with the same texture, chemical makeup, and taste. Safe ingredients that are not from milk can be added if they are the type allowed in government cheese standards. Natural cheese must follow the rules in part one hundred thirty three of title twenty one of the Code of Federal Regulations, which are the government standards for cheese identity. However, natural cheese does not include many processed cheese products. It does not include pasteurized process cheeses, pasteurized process cheese foods, pasteurized cheese spreads, pasteurized process cheese spreads, pasteurized blended cheeses, cold pack cheeses, grated American cheese food, or any other products the Secretary may call process cheese. For this definition, milk means what is defined in the government regulations and includes milk from animals other than cows. The law also adds a new labeling rule. Food labels cannot use the term natural cheese to describe a food unless that food actually meets the definition of natural cheese. However, foods can still use the words natural or all natural in other ways that follow government rules and guidance. Finally, this law makes sure that states cannot make different rules about natural cheese labeling that conflict with this federal rule.",
+      "word_offset": 67,
+      "char_offset": 404
+    }
+  ]
+}

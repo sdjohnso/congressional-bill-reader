@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-s-173",
+  "title": "Fueling Alternative Transportation with a Carbon Aviation Tax Act of 2025",
+  "short_title": "Fueling Alternative Transportation with a Carbon Aviation Tax Act of 2025",
+  "congress": 119,
+  "bill_number": "S.173",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Finance.",
+  "version_hash": "e1d610fb8a401036",
+  "last_updated": "2026-03-20T15:31:36.376486+00:00",
+  "plain_summary": "This bill puts much higher taxes on fuel used by private jets while keeping the same taxes for regular passenger planes that everyone uses. The extra money from these new taxes goes into a special fund that will pay for two main things: watching and measuring air pollution, and making public transportation like buses and trains better. At least half of this money must be used to help communities that have been hurt the most by pollution and don't have as much money. The goal is to make wealthy people who use private jets pay more while using that money to help clean the air and give everyone better ways to get around.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Air quality",
+    "Aviation and airports",
+    "Climate change and greenhouse gases",
+    "Community life and organization",
+    "Environmental assessment, monitoring, research",
+    "Environmental health",
+    "Government trust funds",
+    "Inflation and prices",
+    "Low- and moderate-income housing",
+    "Motor fuels",
+    "Racial and ethnic relations",
+    "Research and development",
+    "Sales and excise taxes"
+  ],
+  "sponsor_name": "Sen. Markey, Edward J. [D-MA]",
+  "sponsor_party": "D",
+  "sponsor_state": "MA",
+  "cosponsor_count": 5,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "private jet tax",
+    "airplane fuel tax",
+    "carbon tax aviation",
+    "public transportation funding",
+    "jet fuel taxes",
+    "private plane taxes",
+    "bus and train funding",
+    "aviation emissions tax",
+    "wealthy jet owners tax",
+    "alternative transportation",
+    "air pollution from planes",
+    "clean air funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Fueling Alternative Transportation with a Carbon Aviation Tax Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-in-excise-tax-for-fuel-used-by-private-jets",
+      "title": "Section 2 Increase in Excise Tax for Fuel Used by Private Jets",
+      "text": "This section changes the tax on airplane fuel to make private jets pay much more than commercial airlines. For commercial aviation like regular passenger flights, the tax stays at four and three tenths cents per gallon. For private jets and other non-commercial aircraft, the tax becomes thirty five and nine tenths cents per gallon plus one dollar and sixty four and one tenth cents per gallon. This extra one dollar and sixty four and one tenth cents part will go up each year after two thousand twenty six to match the cost of living increases. The government can give back some of this extra tax if there is a good reason like using the plane for scientific research, evacuating people from natural disasters, or helping with medical emergencies. This refund option ends on January first, two thousand twenty eight. The section also removes a tax break that private jets currently get on passenger transportation taxes. All these changes start on January first, two thousand twenty six.",
+      "word_offset": 20,
+      "char_offset": 122
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-funding-to-support-clean-communities-trust-fund",
+      "title": "Section 3 Funding to Support Clean Communities Trust Fund",
+      "text": "This section creates a special fund called the Funding to Support Clean Communities Trust Fund. All the extra tax money collected from private jet fuel goes into this fund. The money can only be used for three main purposes. First, it pays for air quality monitoring equipment and programs, especially devices that check pollution levels around communities. Second, it improves public transportation like buses and trains that are within twenty miles of airports. Third, it makes public transportation better in disadvantaged communities by providing safer, more frequent, and more reliable bus service. At least half of all the money must go specifically to disadvantaged communities. These are areas with many low income people or groups that face discrimination and experience worse health or environmental problems. Low income means households earning eighty percent or less of the local average income or twice the federal poverty level, whichever is higher. When spending money in disadvantaged communities, the government must give priority to places that suffer the most from air pollution. This new fund and its rules start on January first, two thousand twenty six.",
+      "word_offset": 186,
+      "char_offset": 1113
+    }
+  ]
+}

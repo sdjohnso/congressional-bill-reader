@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-s-45",
+  "title": "Balanced Budget Accountability Act",
+  "short_title": "Balanced Budget Accountability Act",
+  "congress": 119,
+  "bill_number": "S.45",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "715c34d93a2d6809",
+  "last_updated": "2026-03-20T14:19:44.206767+00:00",
+  "plain_summary": "This bill would hold back Congress members' pay if they don't pass a balanced budget by April 16th each year. A balanced budget means the government can't spend more money than it brings in, and spending can't be more than 18% of what the country produces. The bill also says that any vote to raise taxes or fees must get approval from three-fifths of Congress members, not just a simple majority. For the current Congress, members who miss the deadline would have their pay held until they pass a budget, but starting with future Congresses, they would only get paid one dollar for the rest of that year.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Budget deficits and national debt",
+    "Budget process",
+    "Government employee pay, benefits, personnel management",
+    "Income tax rates",
+    "Legislative rules and procedure",
+    "Members of Congress"
+  ],
+  "sponsor_name": "Sen. Daines, Steve [R-MT]",
+  "sponsor_party": "R",
+  "sponsor_state": "MT",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress pay cut",
+    "balanced budget",
+    "government spending limits",
+    "lawmakers salary",
+    "congressional accountability",
+    "budget deadline",
+    "government can't overspend",
+    "tax increase voting rules",
+    "congress members paycheck",
+    "federal budget balanced",
+    "politicians pay consequences",
+    "government spending cap"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-findings",
+      "title": "Section 1  Short Title and Findings",
+      "text": "This law is called the Balanced Budget Accountability Act. Congress has found several important facts about the country's money situation. The federal debt is more than thirty six trillion dollars and keeps growing fast. This debt is now bigger than the entire United States economy. The federal government has spent more money than it took in for fifty five of the last sixty years. These deficits and the huge debt could hurt people's trust in the economy, reduce job creation and economic growth, and make life harder for future generations of Americans. Members of Congress have a duty to create and carry out policies that help create jobs and grow the economy, including balancing the federal budget. Members of Congress should be held responsible when they fail to pass budgets that balance spending with income.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-effect-of-failure-to-adopt-balanced-budget",
+      "title": "Section 2  Effect of Failure to Adopt Resolution Providing for Balanced Budgets",
+      "text": "This section explains what happens when Congress fails to pass a balanced budget. A balanced budget means a plan where starting in fiscal year two thousand thirty five, the government does not spend more money than it takes in, and total spending is not more than eighteen percent of the country's total economic output. The Director of the Office of Management and Budget will check if each budget plan meets these requirements and tell Congress whether it qualifies as balanced. For fiscal years two thousand twenty six and two thousand twenty seven, if either the House or Senate does not pass a balanced budget by April sixteenth of the year before, then starting on that date, the pay for members of that chamber will be held in a special account called escrow. The members will only get their pay back when they pass a balanced budget or when their term in Congress ends. This escrow system follows the Constitution's rule that member pay cannot change during their current term. For fiscal year two thousand twenty eight and later years, if either chamber fails to pass a balanced budget by the April sixteenth deadline, each member of that chamber will be paid only one dollar per year during pay periods that occur after that deadline in the same calendar year.",
+      "word_offset": 135,
+      "char_offset": 820
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-supermajority-requirement-for-increasing-revenue",
+      "title": "Section 3  Supermajority Requirement for Increasing Revenue",
+      "text": "This section creates a new rule for both the House and Senate. Any bill, joint resolution, amendment, conference report, or amendment between the chambers that increases government revenue can only pass with the support of three fifths of the members in that chamber who are properly chosen and sworn in. This means more than a simple majority is needed to raise taxes or increase other government income. This rule becomes part of the official procedures for each chamber but can be changed in the future using the same process used to change any other procedural rule.",
+      "word_offset": 354,
+      "char_offset": 2091
+    }
+  ]
+}

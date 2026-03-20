@@ -1,0 +1,103 @@
+{
+  "bill_id": "119-hr-56",
+  "title": "Secret Service Prioritization Act of 2025",
+  "short_title": "Secret Service Prioritization Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.56",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "ced528a4bc37578c",
+  "last_updated": "2026-03-20T14:48:40.422419+00:00",
+  "plain_summary": "This bill changes what jobs the Secret Service does by moving most of their crime investigation work to the FBI. The Secret Service will keep doing their main job of protecting the President, Vice President, and other important government leaders, plus investigating threats against these people. The FBI will take over investigating counterfeiting money, computer crimes, identity theft, and other financial crimes that the Secret Service used to handle. This change will happen within thirty days to help the Secret Service focus only on keeping government leaders safe.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Currency",
+    "Federal Bureau of Investigation (FBI)",
+    "Fraud offenses and financial crimes",
+    "Law enforcement administration and funding"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "secret service changes",
+    "fbi takes over crimes",
+    "presidential protection only",
+    "secret service responsibilities",
+    "counterfeiting investigation transfer",
+    "identity theft fbi",
+    "financial crimes investigation",
+    "secret service reform",
+    "government protection focus",
+    "law enforcement reorganization"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Secret Service Prioritization Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-functions-transferred",
+      "title": "Section 2  Functions Transferred",
+      "text": "The Federal Bureau of Investigation will take over certain jobs that the Secret Service currently does. The FBI will get the money, equipment, workers, and duties that the Secret Service uses to catch and arrest people who break specific laws. These laws include rules about counterfeiting money and coins, making fake government papers, stealing money through computers, using fake credit cards, and crimes against banks that are protected by the federal government. However, the FBI can only take on the bank and financial crime work if both the Attorney General and the FBI Director agree to it. This change will not stop other federal police agencies from doing their own work on these same crimes. After this transfer happens, the Secret Service will only be allowed to catch and arrest people who threaten the President or other government officials.",
+      "word_offset": 14,
+      "char_offset": 84
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-transitional-authorities",
+      "title": "Section 3  Transitional Authorities",
+      "text": "While the government is moving these jobs from the Secret Service to the FBI, current Secret Service officials must help the FBI get ready. They must provide workers and equipment when the FBI Director asks for help. Other government agencies can also send workers or services to help with this change, but the FBI must pay them back for the help. When the transfer is complete, the FBI will get all the Secret Service equipment and money that was used for these jobs. The Office of Management and Budget must approve how this equipment and money gets divided up. The FBI Director will then have all the powers and responsibilities that other officials had over the Secret Service for these specific jobs.",
+      "word_offset": 153,
+      "char_offset": 941
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-savings-provisions",
+      "title": "Section 4  Savings Provisions",
+      "text": "Any work that the Secret Service has already finished will continue to be valid even after this law takes effect. This includes contracts, licenses, permits, and other official decisions. These will stay in effect until they are changed or cancelled through normal legal processes. Any ongoing cases or applications that the Secret Service is working on will continue with the FBI taking over. Court cases will proceed normally as if nothing changed. Any laws or rules that mention the Secret Service for these transferred jobs will now apply to the FBI instead. The FBI Director can create new rules for hiring people to do these jobs, and can hire qualified people more quickly than normal government hiring rules usually allow. Any requirements for the Secret Service to report information to Congress will continue to apply to the FBI for these same jobs.",
+      "word_offset": 275,
+      "char_offset": 1647
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-incidental-transfers",
+      "title": "Section 5  Incidental Transfers",
+      "text": "The Director of the Office of Management and Budget, working with the FBI Director, has the authority to move additional workers, equipment, and debts as needed to make this law work properly.",
+      "word_offset": 417,
+      "char_offset": 2507
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-references",
+      "title": "Section 6  References",
+      "text": "After this law takes effect, any mention of the Secret Service in other federal laws will now mean the FBI Director or the appropriate FBI office for the jobs that were transferred.",
+      "word_offset": 449,
+      "char_offset": 2700
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-effective-date",
+      "title": "Section 7  Effective Date",
+      "text": "This law will start working thirty days after it is signed. However, the government can begin preparing for these changes as soon as this law is signed.",
+      "word_offset": 481,
+      "char_offset": 2882
+    }
+  ]
+}

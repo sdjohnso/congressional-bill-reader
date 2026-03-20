@@ -1,0 +1,88 @@
+{
+  "bill_id": "119-hr-140",
+  "title": "Hurricane Helene and Milton Tax Relief Act of 2025",
+  "short_title": "Hurricane Helene and Milton Tax Relief Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.140",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "01a118adaec8e315",
+  "last_updated": "2026-03-20T13:39:37.284517+00:00",
+  "plain_summary": "This bill helps people who were hurt by Hurricanes Helene and Milton by giving them tax breaks. People can give more money to hurricane relief charities and get bigger tax deductions for those donations. The bill also lets hurricane victims take money out of their retirement accounts early without paying extra fees, and they can borrow more money from their retirement plans. Finally, people affected by the hurricanes can use their 2023 income instead of their 2024 income to get a bigger earned income tax credit if that helps them.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Charitable contributions",
+    "Employee benefits and pensions",
+    "Income tax credits",
+    "Income tax deductions",
+    "Natural disasters"
+  ],
+  "sponsor_name": "Rep. Buchanan, Vern [R-FL-16]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "hurricane tax relief",
+    "hurricane victims tax help",
+    "charity donation tax breaks",
+    "retirement account early withdrawal",
+    "hurricane disaster tax benefits",
+    "Milton Helene tax assistance",
+    "earned income credit hurricane",
+    "retirement loan hurricane victims",
+    "disaster tax deductions",
+    "hurricane relief donations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-table-of-contents",
+      "title": "Section 1 Short Title; Table of Contents",
+      "text": "This law can be called the Hurricane Helene and Milton Tax Relief Act of twenty twenty five. The bill includes several sections that provide tax help for people affected by these hurricanes. The sections cover earned income credits, charitable giving, and special rules for retirement accounts.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "For this law, an eligible individual means someone whose main home was at any time during the hurricane period in an area declared a disaster zone by the President. This person must have lost money because of Hurricane Helene or Hurricane Milton. A qualified hurricane disaster area means any area where the President officially declared a major disaster under federal disaster relief law because of Hurricane Helene or Hurricane Milton. This declaration must have happened before this law was signed. The incident period means the time from September twenty eighth, twenty twenty four through November second, twenty twenty four.",
+      "word_offset": 46,
+      "char_offset": 295
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-earned-income-credit-determined-based-on-preceding-taxable-year-income",
+      "title": "Section 3 Earned Income Credit Determined Based on Preceding Taxable Year Income With Respect to Qualified Hurricane Disaster Areas",
+      "text": "If you are an eligible individual and you earned less money in the tax year that includes part of the hurricane period compared to the year before, you can choose to use the higher income from the previous year to calculate your earned income tax credit. This means you might get a bigger tax credit. For married couples filing together, this rule applies if either spouse qualifies. Both spouses' earnings from the previous year get added together. If you use this option incorrectly on your tax return, the IRS will treat it as a math error they can fix without going through the normal dispute process. You can only use this option once. If you or your spouse already used it in a previous year, you cannot use it again. This option only affects your earned income credit calculation and does not change other parts of your taxes.",
+      "word_offset": 145,
+      "char_offset": 926
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-increased-limitation-on-charitable-contributions",
+      "title": "Section 4 Increased Limitation on Charitable Contributions for Qualified Hurricane Disaster Relief; Certain Contributions Paid Before April 15, 2025, Treated as Paid in 2024",
+      "text": "If you make qualified hurricane disaster contributions, you can deduct more of them on your taxes than normal charitable donations. For individuals, you can deduct up to your entire contribution base (which is usually your adjusted gross income) minus other regular charitable contributions. For corporations, you can deduct up to twenty percent of your taxable income minus other regular charitable contributions. If your hurricane disaster contributions exceed these limits, you can carry the extra amount forward and deduct it over the next five years. For individuals, the amount you can deduct above normal limits gets added to your standard deduction, meaning you get the tax benefit even if you do not itemize. You can treat hurricane disaster contributions made between January first, twenty twenty five and April fifteenth, twenty twenty five as if you made them in twenty twenty four. A qualified hurricane disaster contribution must be paid in cash to an eligible charity between September twenty eighth, twenty twenty four and December thirty first, twenty twenty five for hurricane relief efforts. You must get written proof from the charity that your money was used for hurricane relief. You must also choose to apply these special rules to your contribution. Contributions to certain types of organizations like donor advised funds do not qualify for these special rules.",
+      "word_offset": 293,
+      "char_offset": 1760
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-special-hurricane-disaster-related-rules-for-use-of-retirement-funds",
+      "title": "Section 5 Special Hurricane Disaster-Related Rules for Use of Retirement Funds",
+      "text": "Eligible individuals can take up to one hundred thousand dollars from their retirement accounts without paying the usual ten percent early withdrawal penalty. These qualified hurricane disaster distributions must be taken between September twenty eighth, twenty twenty four and December thirty first, twenty twenty five. You can pay this money back to a retirement account within three years without tax consequences. If you do not pay it back, you can spread the income taxes on the withdrawal over three years instead of paying it all at once. If you took money from your retirement account to buy a home in a disaster area but could not complete the purchase because of the hurricanes, you can put that money back into your retirement account by December thirty first, twenty twenty five. The law also makes it easier to borrow from your employer retirement plan. Eligible individuals can borrow up to one hundred thousand dollars instead of the usual fifty thousand dollars limit. They can also borrow up to their full account balance instead of just half. If you already have a loan from your retirement plan, you can delay payments that were due during the hurricane period by one year. These special borrowing rules apply to loans made between when this law is signed and June thirtieth, twenty twenty five. Employers can change their retirement plans to allow these special rules, and the changes can apply retroactively as long as they make the changes by the end of the first plan year starting on or after January first, twenty twenty five.",
+      "word_offset": 510,
+      "char_offset": 3147
+    }
+  ]
+}

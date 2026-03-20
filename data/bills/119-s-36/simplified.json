@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-s-36",
+  "title": "Protect Our Seniors Act",
+  "short_title": "Protect Our Seniors Act",
+  "congress": 119,
+  "bill_number": "S.36",
+  "introduced_date": "2025-01-08",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Rules and Administration.",
+  "version_hash": "039af9d6a4bb51f4",
+  "last_updated": "2026-03-20T12:17:51.535715+00:00",
+  "plain_summary": "This bill creates new rules in the Senate that make it much harder to cut benefits from Medicare or Social Security. If someone wants to reduce these benefits, they would need two-thirds of all senators to vote yes, which is very difficult to get. The bill also stops Congress from taking money that was meant for Medicare and using it to pay for other programs that have nothing to do with Medicare. These rules are meant to protect older Americans who depend on Medicare and Social Security.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-08",
+  "last_action_date": "2025-01-08",
+  "last_action_text": "Read twice and referred to the Committee on Rules and Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [
+    "Legislative rules and procedure",
+    "Medicare",
+    "Senate",
+    "Social security and elderly assistance"
+  ],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "protect medicare",
+    "protect social security",
+    "seniors benefits",
+    "elderly assistance",
+    "medicare cuts",
+    "social security cuts",
+    "senior citizen protection",
+    "retirement benefits",
+    "medicare funding",
+    "social security funding",
+    "congressional voting rules",
+    "two thirds vote requirement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protect Our Seniors Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-point-of-order-for-reductions-in-medicare-and-social-security-benefits",
+      "title": "Section 2  Point of Order for Reductions in Medicare and Social Security Benefits",
+      "text": "This section changes an existing budget law to add new rules for the Senate. Under these new rules, the Senate cannot consider any bill, resolution, amendment, motion, or conference report that would reduce Medicare benefits or Social Security benefits. Medicare is the government health insurance program for seniors and disabled people. Social Security provides monthly payments to retired and disabled workers and their families. The only way the Senate can ignore this rule is if at least two thirds of all Senate members vote to set the rule aside.",
+      "word_offset": 10,
+      "char_offset": 52
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-medicare-point-of-order",
+      "title": "Section 3  Medicare Point of Order",
+      "text": "This section adds another budget rule for the Senate. Under this rule, the Senate cannot consider any bill, resolution, amendment, motion, or conference report that uses Medicare money to pay for things that are not related to Medicare. This means Congress cannot take money from Medicare or raise Medicare taxes to pay for other government programs. The Congressional Budget Office is the nonpartisan office that analyzes the costs of bills for Congress. The only way the Senate can ignore this rule is if at least two thirds of all Senate members vote to set the rule aside. It also takes a two thirds vote to overturn a ruling by the Senate leader about whether this rule applies.",
+      "word_offset": 99,
+      "char_offset": 606
+    }
+  ]
+}

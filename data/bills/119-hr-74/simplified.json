@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hr-74",
+  "title": "Freedom for Families Act",
+  "short_title": "Freedom for Families Act",
+  "congress": 119,
+  "bill_number": "HR.74",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "85f14a293de4b18c",
+  "last_updated": "2026-03-20T14:46:59.496907+00:00",
+  "plain_summary": "The Freedom for Families Act makes it easier for people to use Health Savings Accounts to help their families. Right now, you can only have these accounts if you have a expensive health insurance plan, but this bill would let anyone open one. The bill also lets people take money out of these accounts without paying extra taxes when they need to take time off work to care for a new baby, sick family member, or deal with their own serious health problems. Finally, the bill increases how much money people can put into these accounts each year from about $4,300 to $9,000 for single people and from about $8,550 to $18,000 for families.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Bank accounts, deposits, capital",
+    "Health care costs and insurance",
+    "Income tax deductions",
+    "Income tax exclusion"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "health savings account",
+    "family leave",
+    "medical expenses",
+    "tax free savings",
+    "health insurance costs",
+    "maternity leave",
+    "sick leave",
+    "childcare time off",
+    "health account limits",
+    "medical savings plan"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Freedom for Families Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-distributions-from-health-savings-accounts-during-periods-of-qualified-caregiving",
+      "title": "Section 2 Distributions from Health Savings Accounts During Periods of Qualified Caregiving",
+      "text": "This section changes the rules for Health Savings Accounts (special savings accounts for medical expenses). Right now, you can only take money out of these accounts without paying extra taxes if you use it for medical costs. This law adds a new rule that lets you take money out without extra taxes if you are taking time off work to care for family members. You can take money out during periods when you are on leave from work or not working because of situations covered by the Family and Medical Leave Act of nineteen ninety three. These situations include caring for a new baby, caring for a sick family member, or dealing with your own serious health condition. If you take money out for other reasons, you will still have to pay taxes on it like regular income. These changes will start applying to tax years that begin after this law is passed.",
+      "word_offset": 10,
+      "char_offset": 53
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-no-high-deductible-health-plan-required-for-health-savings-accounts",
+      "title": "Section 3 No High Deductible Health Plan Required for Health Savings Accounts",
+      "text": "This section removes the requirement that you must have a high deductible health plan (a health insurance plan where you pay more out of pocket before insurance kicks in) to open and contribute to a Health Savings Account. Anyone will be able to have a Health Savings Account regardless of what type of health insurance they have. The section also increases how much money people can put into their Health Savings Accounts each year to nine thousand dollars for individuals and eighteen thousand dollars for married couples filing taxes together. The current system that ties contribution amounts to the type of health insurance plan you have will be eliminated. The nine thousand dollar limit will be adjusted for inflation starting from calendar year nineteen ninety seven. These changes will apply to months in tax years that begin after this law is passed.",
+      "word_offset": 163,
+      "char_offset": 906
+    }
+  ]
+}

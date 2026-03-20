@@ -1,0 +1,104 @@
+{
+  "bill_id": "119-hr-27",
+  "title": "HALT Fentanyl Act",
+  "short_title": "HALT Fentanyl Act",
+  "congress": 119,
+  "bill_number": "HR.27",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "cb3111aac1f31914",
+  "last_updated": "2026-03-20T14:29:28.462021+00:00",
+  "plain_summary": "This bill makes all fentanyl-related drugs permanently illegal by putting them in the most restricted category of dangerous substances. People caught with these drugs will face the same serious punishments as those caught with regular fentanyl, including long prison sentences. The bill also makes it easier for scientists and researchers to get permission to study these dangerous drugs safely for medical research. Additionally, the bill supports a court decision that helps law enforcement treat similar deadly drugs as fentanyl when prosecuting drug cases.",
+  "current_status": "passed_house",
+  "status_date": "2025-02-05",
+  "last_action_date": "2025-02-10",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": true,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Department of Justice",
+    "Drug trafficking and controlled substances",
+    "Licensing and registrations",
+    "Research administration and funding"
+  ],
+  "sponsor_name": "Rep. Griffith, H. Morgan [R-VA-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 61,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "fentanyl ban",
+    "drug penalties",
+    "illegal drugs",
+    "fentanyl punishment",
+    "drug research",
+    "deadly drugs",
+    "drug trafficking",
+    "prison sentences",
+    "dangerous substances",
+    "fentanyl laws"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Halt All Lethal Trafficking of Fentanyl Act or the HALT Fentanyl Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-class-scheduling-of-fentanyl-related-substances",
+      "title": "Section 2 Class Scheduling of Fentanyl-Related Substances",
+      "text": "This section changes the Controlled Substances Act by adding all fentanyl-related substances to Schedule I (the most restricted category of drugs). Any material or mixture that contains any amount of a fentanyl-related substance will be controlled. This includes different chemical forms like salts and isomers (different arrangements of the same atoms). A fentanyl-related substance means any drug that is chemically similar to fentanyl in specific ways. This includes substances where scientists have changed the phenyl part by replacing it with other ring-shaped molecules, added different chemical groups to various parts of the fentanyl molecule, replaced the aniline ring with other aromatic rings, or replaced the N-propionyl group with other acyl groups. However, substances already controlled by the Attorney General or specifically listed in other schedules are not included. The Attorney General can publish a list of these substances in the Federal Register (the government's daily publication), but substances can still be controlled even if they are not on the published list as long as they meet the chemical definition.",
+      "word_offset": 18,
+      "char_offset": 97
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-registration-requirements-related-to-research",
+      "title": "Section 3 Registration Requirements Related to Research",
+      "text": "This section makes it easier for researchers to get permission to study Schedule I drugs like fentanyl. It creates a faster process for certain types of research. Researchers who already have permission to study Schedule I or Schedule II drugs can start new research by simply sending a notice to the Attorney General and waiting thirty days. The notice must include the chemical name of the substance, how much they will use, proof that their research fits the approved categories, and proof they are authorized to do the research in their state. For researchers without current permission, they can send the same notice and the Attorney General must either approve them or start proceedings to deny them within forty-five days. The approved categories include research for drugs being tested under FDA investigational exemptions or research conducted or funded by the Department of Health and Human Services, Department of Defense, or Department of Veterans Affairs. The section also allows research institutions to have multiple researchers work under one registration instead of requiring separate permits for each person. It lets researchers use a single registration for multiple research sites in the same city or county if they are all controlled by the same institution. The section reduces inspection requirements for researchers who already have permits and want to study additional substances in the same or less restricted categories. It allows researchers to continue their work for ninety days when a substance they are studying gets moved to Schedule I. Finally, it allows researchers to do small-scale manufacturing activities like making extracts or solutions as part of their research without needing a separate manufacturing permit.",
+      "word_offset": 187,
+      "char_offset": 1233
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-technical-correction-on-controlled-substances-dispensing",
+      "title": "Section 4 Technical Correction on Controlled Substances Dispensing",
+      "text": "This section fixes errors in a previous law by correcting section references from 303(g) to 303(h) in multiple places throughout Public Law 117-328. These are technical corrections to make sure the law references point to the right sections.",
+      "word_offset": 459,
+      "char_offset": 2986
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-rulemaking",
+      "title": "Section 5 Rulemaking",
+      "text": "The Attorney General must create rules to carry out this law within six months of when it becomes law. These rules can be issued as interim final rules, which means they take effect immediately without the normal waiting period for public comments. However, people will still have the chance to comment and request hearings about these interim rules. After considering the public input, the Attorney General must issue final rules following normal government rulemaking procedures.",
+      "word_offset": 497,
+      "char_offset": 3228
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-penalties",
+      "title": "Section 6 Penalties",
+      "text": "This section adds fentanyl-related substances to the existing penalty structure for drug crimes. It changes the Controlled Substances Act so that crimes involving fentanyl-related substances receive the same severe penalties as crimes involving fentanyl analogues. This applies to both domestic drug crimes and crimes involving importing or exporting drugs. The section also adds a definition of fentanyl-related substance to the main definitions section of the Controlled Substances Act, referring back to the definition created in Section 2.",
+      "word_offset": 572,
+      "char_offset": 3710
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-applicability-other-matters",
+      "title": "Section 7 Applicability and Other Matters",
+      "text": "The changes in this law take effect immediately when the law is signed, even if the Attorney General has not finished writing all the required rules yet. However, nothing in this law should be interpreted as proof that fentanyl-related substances were not already considered fentanyl analogues for crimes committed before this law was passed. Congress states that it agrees with the court interpretation in a 2018 case called United States v. McCray about how the Controlled Substances Act should be understood.",
+      "word_offset": 649,
+      "char_offset": 4254
+    }
+  ]
+}

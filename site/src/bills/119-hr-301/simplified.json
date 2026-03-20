@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-301",
+  "title": "GEO Act",
+  "short_title": "GEO Act",
+  "congress": 119,
+  "bill_number": "HR.301",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Ordered to be Reported by Unanimous Consent.",
+  "version_hash": "b3afe47a9a1ce195",
+  "last_updated": "2026-03-20T12:57:15.891023+00:00",
+  "plain_summary": "The GEO Act is a law that helps speed up geothermal energy projects. It says the government must make decisions on geothermal energy applications within 60 days after all the required environmental and safety checks are finished. The only time they can take longer is if a federal court stops the project or cancels the lease. This law prevents lawsuits from slowing down geothermal energy projects for too long.",
+  "current_status": "committee_reported",
+  "status_date": "2026-03-05",
+  "last_action_date": "2026-03-05",
+  "last_action_text": "Ordered to be Reported by Unanimous Consent.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [
+    "Alternative and renewable resources",
+    "Electric power generation and transmission",
+    "Licensing and registrations",
+    "Mining",
+    "Performance measurement"
+  ],
+  "sponsor_name": "Rep. Maloy, Celeste [R-UT-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "geothermal energy",
+    "renewable energy projects",
+    "green energy permits",
+    "government approval process",
+    "energy project delays",
+    "clean energy development",
+    "geothermal power plants",
+    "environmental review timelines",
+    "energy permitting reform",
+    "alternative energy sources",
+    "geothermal drilling permits",
+    "clean power generation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Geothermal Energy Opportunity Act or the GEO Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-effect-of-pending-civil-actions",
+      "title": "Section 2  Effect of Pending Civil Actions on Processing Applications Related to Geothermal Leasing",
+      "text": "This section changes the Geothermal Steam Act of nineteen seventy by adding new rules about how the government must handle applications for geothermal energy projects. Even when there is a lawsuit going on that affects an application for geothermal drilling permits or other approvals, the Secretary must still process these applications. The only exception is if a federal court cancels the geothermal lease or orders the government to stop work on it. The Secretary must approve or deny each application within sixty days after finishing all required reviews under federal laws. These laws include the National Environmental Policy Act of nineteen sixty nine, the Endangered Species Act of nineteen seventy three, and historic preservation laws. This new rule does not give federal courts any new powers to cancel leases or stop projects. An authorization means any license, permit, approval, finding, determination, or other official decision from a federal agency that is needed to build or operate a geothermal energy project.",
+      "word_offset": 14,
+      "char_offset": 77
+    }
+  ]
+}

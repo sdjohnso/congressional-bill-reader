@@ -1,0 +1,98 @@
+{
+  "bill_id": "119-s-88",
+  "title": "No Budget, No Pay Act",
+  "short_title": "No Budget, No Pay Act",
+  "congress": 119,
+  "bill_number": "S.88",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "e98e6d9f73d38150",
+  "last_updated": "2026-03-20T14:46:06.051292+00:00",
+  "plain_summary": "This bill would stop members of Congress from getting their paychecks if they don't do their job of making a budget. Both the House and Senate would need to agree on a budget plan and pass all the spending bills for the year before any member could get paid. If they don't finish this work, they won't get any money during that time and can't get that money back later. The rule would start in 2027.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Appropriations",
+    "Budget process",
+    "Government employee pay, benefits, personnel management",
+    "Legislative rules and procedure",
+    "Members of Congress"
+  ],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 13,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress pay",
+    "congressional salary",
+    "budget deadline",
+    "no budget no paycheck",
+    "lawmakers pay freeze",
+    "congress accountability",
+    "government shutdown pay",
+    "congressional responsibility",
+    "budget failure consequences",
+    "politician pay cut",
+    "government spending deadlines",
+    "congress job performance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Budget, No Pay Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, certain terms have specific meanings. Budget and Appropriations Chairs means the leaders of the committees that handle money matters in both the House and Senate. House Budget and Appropriations Chairs means the person who leads the Budget Committee and the person who leads the Appropriations Committee in the House of Representatives. Member of Congress means any Senator or Representative but does not include the Vice President. Senate Budget and Appropriations Chairs means the person who leads the Budget Committee and the person who leads the Appropriations Committee in the Senate.",
+      "word_offset": 11,
+      "char_offset": 50
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-timely-approval-of-budget",
+      "title": "Section 3 Timely Approval of Concurrent Resolution on the Budget and the Appropriations Bills",
+      "text": "By October first of each fiscal year (the government's yearly budget period), both the House and Senate must complete two important tasks. First, they must approve a concurrent resolution on the budget (a plan that shows how the government will spend money). Second, they must pass all the regular appropriations bills (laws that give permission to spend money on government programs) for that fiscal year.",
+      "word_offset": 104,
+      "char_offset": 653
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-no-pay-without-budget",
+      "title": "Section 4 No Pay Without Concurrent Resolution on the Budget and the Appropriations Bills",
+      "text": "No matter what other laws say, no money can be taken from the US Treasury to pay any Member of Congress during any time when Congress has not completed the requirements in Section three. The Budget and Appropriations Chairs will decide when Congress has not met these requirements as explained in Section five. Members of Congress cannot receive their pay for any period when Congress failed to meet these requirements, even after that period ends.",
+      "word_offset": 169,
+      "char_offset": 1060
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-determinations",
+      "title": "Section 5 Determinations",
+      "text": "For the Senate, on October first of each year, the Secretary of the Senate must ask the Senate Budget and Appropriations Chairs to certify their decisions. The Senate Budget and Appropriations Chairs must decide on October first whether Congress has met the requirements in Section three for that fiscal year and whether Senators should not be paid. They must also decide how many days after October first that Senators cannot be paid. They must quickly provide written certification of these decisions when the Secretary of the Senate asks for it. For the House of Representatives, on October first of each fiscal year, the Chief Administrative Officer of the House must ask the House Budget and Appropriations Chairs to certify their decisions. The House Budget and Appropriations Chairs must decide on October first whether Congress has met the requirements in Section three for that fiscal year and whether House Members should not be paid. They must also decide how many days after October first that House Members cannot be paid. They must quickly provide written certification of these decisions when the Chief Administrative Officer asks for it.",
+      "word_offset": 244,
+      "char_offset": 1509
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-effective-date",
+      "title": "Section 6 Effective Date",
+      "text": "This law will start working on September twenty ninth, two thousand twenty seven.",
+      "word_offset": 430,
+      "char_offset": 2663
+    }
+  ]
+}

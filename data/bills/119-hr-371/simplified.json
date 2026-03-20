@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-371",
+  "title": "No Hires for the Delinquent IRS Act",
+  "short_title": "No Hires for the Delinquent IRS Act",
+  "congress": 119,
+  "bill_number": "HR.371",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "1ce979f04ea76447",
+  "last_updated": "2026-03-20T10:45:21.835030+00:00",
+  "plain_summary": "This bill stops the IRS from hiring any new workers until they can prove none of their current employees owe seriously overdue taxes. Seriously overdue taxes means the government has already put a legal claim on someone's property because they haven't paid. However, it doesn't count people who are already making payment plans, asked for a hearing, or have other special situations. The Treasury Secretary must write an official letter saying all IRS workers have paid their taxes before the agency can hire anyone new.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Rouzer, David [R-NC-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "IRS hiring freeze",
+    "IRS employees owe taxes",
+    "government workers tax debt",
+    "IRS staff unpaid taxes",
+    "Treasury Secretary certification",
+    "federal employees tax liens",
+    "IRS hiring ban",
+    "government agency hiring stop",
+    "tax collectors owing taxes",
+    "IRS worker tax compliance",
+    "federal hiring restrictions",
+    "delinquent taxes IRS staff"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the No Hires for the Delinquent IRS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-irs-hiring",
+      "title": "Section 2. Prohibition on IRS Hiring of New Employees Until Certification That No IRS Employee Has a Seriously Delinquent Tax Debt",
+      "text": "The government cannot hire any new people to work at the Internal Revenue Service until something important happens first. The Secretary of the Treasury must write a public statement saying that no current IRS worker owes seriously overdue tax money. A seriously delinquent tax debt means someone owes a lot of tax money that is very late, and the government has filed a public legal claim against their property because of it. However, this does not count as seriously delinquent if the person is paying their tax debt on time through an official payment plan, if they have asked for a hearing about the debt collection or for tax relief and that request is still being handled, if the government has already started taking their property or wages to pay the debt, or if they got special relief from paying because of hardship.",
+      "word_offset": 13,
+      "char_offset": 64
+    }
+  ]
+}

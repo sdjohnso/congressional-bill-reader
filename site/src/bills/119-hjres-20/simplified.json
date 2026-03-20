@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hjres-20",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters\".",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.20",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "9e79aa301a65973d",
+  "last_updated": "2026-03-20T11:08:05.825768+00:00",
+  "plain_summary": "Congress is using a special power to reject a rule made by the Department of Energy. The rule was about setting new energy standards for instant gas water heaters that would make them use less energy. The Department of Energy said these new standards would save energy and were worth the cost. However, Congress decided to stop this rule from becoming law. This means the new energy standards for these water heaters will not happen.",
+  "current_status": "signed_into_law",
+  "status_date": "2025-05-09",
+  "last_action_date": "2025-05-09",
+  "last_action_text": "Became Public Law No: 119-6.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": true,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Department of Energy",
+    "Energy efficiency and conservation",
+    "Lighting, heating, cooling",
+    "Oil and gas"
+  ],
+  "sponsor_name": "Rep. Palmer, Gary J. [R-AL-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "AL",
+  "cosponsor_count": 29,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gas water heater",
+    "instant water heater",
+    "energy standards",
+    "water heater efficiency",
+    "Department of Energy rules",
+    "congress blocks regulation",
+    "gas appliance standards",
+    "water heater energy requirements",
+    "tankless water heater",
+    "energy conservation standards",
+    "congressional disapproval",
+    "water heater regulations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution",
+      "title": "Joint Resolution",
+      "text": "Congress officially rejects a rule made by the Department of Energy. This rule was about setting energy saving standards for gas water heaters that heat water instantly when you turn on the tap. The rule was published in the Federal Register on December twenty-sixth, two thousand and twenty-four. Because Congress is rejecting this rule, it will not become law and will have no power or effect.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

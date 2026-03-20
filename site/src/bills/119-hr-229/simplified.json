@@ -1,0 +1,57 @@
+{
+  "bill_id": "119-hr-229",
+  "title": "To prohibit the implementation of the Rock Springs Field Office Record of Decision and Approved Resource Management Plan.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.229",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "c50ca931407c7932",
+  "last_updated": "2026-03-20T12:32:46.512212+00:00",
+  "plain_summary": "This bill stops the government from using a new land management plan for public lands in southwestern Wyoming. The plan was published in December 2024 and covers areas in five counties including Lincoln, Sweetwater, Uinta, Sublette, and Fremont. The bill says the Bureau of Land Management cannot put this plan into action or enforce any of its rules. This means the government office that manages these public lands cannot use this particular plan to make decisions about how to take care of the land.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Department of the Interior",
+    "Land use and conservation",
+    "Wyoming"
+  ],
+  "sponsor_name": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Wyoming land management",
+    "public lands Wyoming",
+    "Rock Springs Wyoming",
+    "Bureau of Land Management",
+    "BLM land use",
+    "southwestern Wyoming",
+    "government land plan",
+    "Lincoln County Wyoming",
+    "Sweetwater County",
+    "land management rules",
+    "public land access",
+    "Wyoming counties land"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-prohibition-on-implementation",
+      "title": "Section 1 Prohibition on Implementation",
+      "text": "The Secretary of the Interior cannot put into action, manage, or carry out the Rock Springs Field Office Record of Decision and Approved Resource Management Plan. This plan was published by the Bureau of Land Management in December two thousand twenty four. The Secretary is completely banned from using this plan in any way.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

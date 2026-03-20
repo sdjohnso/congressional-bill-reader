@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-hr-54",
+  "title": "WHO Withdrawal Act",
+  "short_title": "WHO Withdrawal Act",
+  "congress": 119,
+  "bill_number": "HR.54",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Foreign Affairs.",
+  "version_hash": "3e71313b30b60a00",
+  "last_updated": "2026-03-20T12:49:22.571491+00:00",
+  "plain_summary": "This bill makes the President pull the United States out of the World Health Organization right away. The World Health Organization is a group of countries that work together on health problems around the world. The bill also says the US government cannot spend any money to be part of this group or similar health groups. It removes an old law from 1948 that let the US join the World Health Organization in the first place.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [
+    "Diplomacy, foreign officials, Americans abroad",
+    "Foreign aid and international relief",
+    "International law and treaties",
+    "International organizations and cooperation",
+    "Presidents and presidential powers, Vice Presidents",
+    "World health"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 22,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "WHO withdrawal",
+    "leave World Health Organization",
+    "pull out of WHO",
+    "quit international health group",
+    "stop funding WHO",
+    "United States exit WHO",
+    "withdraw from health organization",
+    "end WHO membership",
+    "defund World Health Organization",
+    "US leave global health group"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the WHO Withdrawal Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-withdrawal-of-united-states-from-the-constitution-of-the-world-health-organization-prohibition-on-use-of-funds",
+      "title": "Section 2  Withdrawal of United States from the Constitution of the World Health Organization; Prohibition on Use of Funds",
+      "text": "Starting on the day this law is passed, two things must happen. First, the President must pull the United States out of the Constitution of the World Health Organization. This is the founding document that created the World Health Organization and allows countries to be members. Second, no money from any part of the federal government can be used to help the United States take part in the World Health Organization or any organization that might replace it in the future.",
+      "word_offset": 9,
+      "char_offset": 47
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-repeal-of-the-act-of-june-14-1948",
+      "title": "Section 3  Repeal of the Act of June 14, 1948",
+      "text": "The law passed on June fourteenth, nineteen forty eight is canceled. That old law allowed the United States to join and participate in the World Health Organization. It also gave permission for Congress to set aside money to pay for this membership. This old law will no longer be in effect.",
+      "word_offset": 90,
+      "char_offset": 522
+    }
+  ]
+}

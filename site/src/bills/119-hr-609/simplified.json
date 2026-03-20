@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-hr-609",
+  "title": "Assuring Medicare’s Promise Act of 2025",
+  "short_title": "Assuring Medicare’s Promise Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.609",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "747a9e27a8eb7cb5",
+  "last_updated": "2026-03-20T14:25:12.815254+00:00",
+  "plain_summary": "This bill helps keep Medicare funded by creating new taxes on wealthy people's investments. People who make more than $400,000 per year if single or $500,000 per year if married will have to pay a special tax on money they make from investments and businesses. All the money collected from this tax will go directly to Medicare's trust fund to help pay for healthcare for older Americans. This means Medicare will have more money to keep providing medical care to seniors.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Financial services and investments",
+    "Government trust funds",
+    "Health care costs and insurance",
+    "Health programs administration and funding",
+    "Hospital care",
+    "Income tax rates",
+    "Interest, dividends, interest rates",
+    "Medicare",
+    "Taxation of foreign income"
+  ],
+  "sponsor_name": "Rep. Doggett, Lloyd [D-TX-37]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 57,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "medicare funding",
+    "tax on wealthy investors",
+    "investment tax",
+    "medicare trust fund",
+    "rich people taxes",
+    "capital gains tax",
+    "medicare money",
+    "healthcare for seniors",
+    "investment income tax",
+    "medicare financing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law may be called the Assuring Medicare's Promise Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-inclusion-of-net-investment-income-tax-in-hospital-insurance-trust-fund",
+      "title": "Section 2 Inclusion of Net Investment Income Tax in Hospital Insurance Trust Fund",
+      "text": "This section changes how Medicare gets its money. Medicare is paid for by a trust fund (a special account for holding money). Right now, this trust fund gets money from certain taxes that workers and employers pay. This section adds another source of money to the trust fund. It will also get money from a tax called the net investment income tax. This is a tax that some people pay on money they make from investments like stocks and bonds. The change will start with taxes for the year twenty twenty six.",
+      "word_offset": 14,
+      "char_offset": 82
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-application-of-net-investment-income-tax-to-trade-or-business-income-of-certain-high-income-individuals",
+      "title": "Section 3 Application of Net Investment Income Tax to Trade or Business Income of Certain High Income Individuals",
+      "text": "This section changes how the net investment income tax works for people who make a lot of money. Right now, this tax only applies to certain types of investment income. Under this new rule, people who make more than certain amounts will have to pay this tax on more types of income, including money they make from their businesses. For single people, the limit is four hundred thousand dollars per year. For married couples filing together, the limit is five hundred thousand dollars per year. For married people filing separately, the limit is two hundred fifty thousand dollars per year. The change is gradual. If someone makes just over the limit, they will not pay the full extra tax right away. The extra tax they pay will be based on how much over the limit they are, up to one hundred thousand dollars above the limit. This section also changes the tax for trusts and estates (money left when someone dies) in a similar way. The section makes other changes to clarify what income counts for this tax. It says the tax will not apply to wages that already have other Medicare taxes taken out. It also says that certain foreign income will now count toward this tax. These changes will start with taxes for the year twenty twenty six.",
+      "word_offset": 106,
+      "char_offset": 589
+    }
+  ]
+}

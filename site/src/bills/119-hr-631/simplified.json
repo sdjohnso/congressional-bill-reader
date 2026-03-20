@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-631",
+  "title": "PARTS Act of 2025",
+  "short_title": "PARTS Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.631",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "dbe07ec24a77f2ef",
+  "last_updated": "2026-03-20T14:20:24.611300+00:00",
+  "plain_summary": "The PARTS Act of 2025 changes how the federal government defines firearm silencers and mufflers. The new law says that silencers include not just the complete devices that reduce gun noise, but also certain individual parts like the outer tubes that hold the sound-reducing pieces. This means that some parts of silencers will now be treated the same way as complete silencers under federal law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Firearms and explosives"
+  ],
+  "sponsor_name": "Rep. Pfluger, August [R-TX-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 26,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "gun silencer parts",
+    "firearm muffler components",
+    "silencer definition change",
+    "gun noise reducer parts",
+    "firearm suppressor pieces",
+    "silencer tube regulation",
+    "gun muffler law",
+    "firearm sound reduction parts",
+    "silencer components federal law",
+    "gun suppressor definition"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting Americans' Right To Silence Act of twenty twenty-five or the PARTS Act of twenty twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-firearm-silencers-and-firearm-mufflers",
+      "title": "Section 2  Firearm Silencers and Firearm Mufflers",
+      "text": "This section changes the legal definition of firearm silencer and firearm muffler in federal law. The new definition says these terms mean two types of items. First, any device that is designed or redesigned, made or remade, and intended to silence, muffle, or reduce the sound of a portable firearm when fired. This device must also be intended to attach to a portable firearm either directly or through a mount, adapter, or other connecting device that is not itself a silencer or muffler. Second, the outer tube or other single part of any device that provides the main housing or is the main structure for internal sound-reduction parts. These internal parts must be designed or redesigned, made or remade, and intended to silence, muffle, or reduce the sound of a portable firearm when fired. This outer tube or single part must also attach to a portable firearm either directly or through a mount, adapter, or other connecting device that is not itself a silencer or muffler.",
+      "word_offset": 22,
+      "char_offset": 132
+    }
+  ]
+}

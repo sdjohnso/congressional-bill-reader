@@ -1,0 +1,80 @@
+{
+  "bill_id": "119-hres-24",
+  "title": "Expunging the December 18, 2019, impeachment of President Donald John Trump.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.24",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "7325725b116cc86c",
+  "last_updated": "2026-03-20T12:00:06.718008+00:00",
+  "plain_summary": "This bill would remove President Trump's first impeachment from December 18, 2019 from the official government records. The bill says that the impeachment was wrong and should not have happened. It claims there was not enough evidence to prove Trump committed serious crimes that would require impeachment under the Constitution. If this bill passes, it would be like the impeachment never officially happened.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional-executive branch relations",
+    "Government ethics and transparency, public corruption",
+    "House of Representatives",
+    "Legislative rules and procedure",
+    "Presidents and presidential powers, Vice Presidents"
+  ],
+  "sponsor_name": "Rep. Greene, Marjorie Taylor [R-GA-14]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 11,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Trump impeachment",
+    "remove impeachment records",
+    "erase Trump impeachment",
+    "delete impeachment history",
+    "Trump first impeachment",
+    "December 2019 impeachment",
+    "expunge impeachment",
+    "clear Trump record",
+    "undo impeachment",
+    "impeachment reversal"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution is about removing the December 18, 2019 impeachment of President Donald John Trump from the official record.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "sponsors-and-referral",
+      "title": "Sponsors and Committee Referral",
+      "text": "Representative Marjorie Taylor Greene of Georgia introduced this resolution on January 9, 2025. Nine other House members joined her as co-sponsors. The resolution was sent to the House Judiciary Committee for review.",
+      "word_offset": 19,
+      "char_offset": 125
+    },
+    {
+      "id": "s3",
+      "slug": "whereas-clause",
+      "title": "Reasoning",
+      "text": "The resolution states that President Trump was wrongly accused of bad conduct in House Resolution 755. That earlier resolution impeached Donald John Trump as President for high crimes and misdemeanors (serious wrongdoing by government officials). The sponsors say information in an FBI document called an unclassified FD-1023 shows the accusations were wrong.",
+      "word_offset": 51,
+      "char_offset": 342
+    },
+    {
+      "id": "s4",
+      "slug": "resolved-clause",
+      "title": "What the Resolution Does",
+      "text": "The resolution officially removes the December 18, 2019 impeachment of President Donald John Trump from the record. It says the impeachment should be treated as if the House of Representatives never passed it. The resolution claims the facts used for the impeachment did not prove Trump committed high crimes and misdemeanors as required by Article II, Section 4 of the Constitution.",
+      "word_offset": 103,
+      "char_offset": 702
+    }
+  ]
+}

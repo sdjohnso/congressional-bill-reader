@@ -1,0 +1,98 @@
+{
+  "bill_id": "119-hr-702",
+  "title": "Improving Federal Assistance to Families Act",
+  "short_title": "Improving Federal Assistance to Families Act",
+  "congress": 119,
+  "bill_number": "HR.702",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Ways and Means, for a ",
+  "version_hash": "f74c881854d08c05",
+  "last_updated": "2026-03-20T15:55:34.057986+00:00",
+  "plain_summary": "This bill creates a new way to measure poverty that takes into account how much things cost in different states. The government will compare this new measurement to the current poverty line and use whichever one shows more people are poor in each state. This means more families could qualify for government help programs like food stamps or healthcare. The bill also asks for a study of another poverty measurement called ALICE to see if it might work better for government programs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for considerat",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [
+    "Census and government statistics",
+    "Economic development",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Inflation and prices",
+    "Poverty and welfare assistance",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Sherrill, Mikie [D-NJ-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "poverty measurement",
+    "food stamps eligibility",
+    "government assistance programs",
+    "cost of living differences",
+    "welfare qualification",
+    "healthcare benefits",
+    "family aid programs",
+    "state poverty rates",
+    "government help for families",
+    "low income support"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Improving Federal Assistance to Families Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-new-poverty-line-index",
+      "title": "Section 2 New Poverty Line Index",
+      "text": "The Census Bureau must create and publish a new way to measure poverty. This new measure will be called the Regionally Adjusted Poverty Line. It will be calculated separately for each state every year. This new poverty line will be based on the current poverty line but will be adjusted for each state. First, it will multiply each state's current poverty amounts by a number called Regional Price Parity and then divide by one hundred. Regional Price Parity shows how expensive things are in each state compared to the whole country. Second, it will use these new amounts to figure out what percentage of households in each state are poor.",
+      "word_offset": 12,
+      "char_offset": 73
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-use-of-regionally-adjusted-poverty-line",
+      "title": "Section 3 Use of the Regionally Adjusted Poverty Line in Lieu of the Poverty Line",
+      "text": "The Secretary of Health and Human Services will work with the Secretary of Housing and Urban Development to do three things. First, they will compare the new Regionally Adjusted Poverty Line with the current poverty line for each state every year. They will see which one shows more people as poor in that state. Second, they will announce in the Federal Register which poverty line shows more poor people for each state. This will become the official poverty line for that state instead of the old one. Third, they will use whichever poverty line shows more poor people to decide who qualifies for federal help programs in each state. However, for Premium Tax Credits under the Affordable Care Act, they can choose to use either the new or old poverty line to make sure low income households in states that did not expand Medicaid do not lose their tax credits.",
+      "word_offset": 122,
+      "char_offset": 714
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-gao-study-on-alice-poverty-measure",
+      "title": "Section 4 GAO Study on ALICE Poverty Measure",
+      "text": "Within two years after this law is passed, the Comptroller General of the United States must send a report to certain Senate and House committees. The report must study the ALICE threshold, which is a different way to measure poverty. The study must look at four things. First, it must compare the good and bad points of the ALICE threshold to the current poverty line, including what extra information ALICE gives to lawmakers that the current poverty line does not. Second, it must find ways the ALICE threshold could be improved to better measure what households need or to be better than the current poverty line. Third, it must explain how the government could help develop and publish the ALICE threshold. Fourth, it must explain if and how the ALICE threshold could be used to decide who qualifies for federal programs, either by the Secretary of Health and Human Services or by Congress, to better help households get what they need and improve access to federal programs.",
+      "word_offset": 272,
+      "char_offset": 1577
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-definitions",
+      "title": "Section 5 Definitions",
+      "text": "In this law, certain terms have specific meanings. ALICE threshold means the Asset Limited Income Constrained Employed measure created by the United Way of Northern New Jersey. It is a different way to measure poverty that includes the minimum regional cost of necessities like housing, child care, food, transportation, healthcare, and taxes. Poverty line has the same meaning as in section six hundred seventy three of the Community Services Block Grant Act. Poverty threshold means the dollar amounts that the Census Bureau uses to decide if a household is poor or not. Regional Price Parity means how different the price levels are between a state and the national average. It is shown as a percentage of the overall national price level and is published by the Bureau of Economic Analysis. State means any state in the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.",
+      "word_offset": 439,
+      "char_offset": 2558
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-effective-dates",
+      "title": "Section 6 Effective Dates",
+      "text": "Section two will start working one year after this law is passed. Section three will start working three years after this law is passed.",
+      "word_offset": 594,
+      "char_offset": 3512
+    }
+  ]
+}

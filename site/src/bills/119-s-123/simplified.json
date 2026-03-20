@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-s-123",
+  "title": "Handgun Permit to Purchase Act",
+  "short_title": "Handgun Permit to Purchase Act",
+  "congress": 119,
+  "bill_number": "S.123",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "89a95ca67dcb1919",
+  "last_updated": "2026-03-20T12:59:17.860299+00:00",
+  "plain_summary": "This bill creates a program to give money to states, local governments, and tribes to help them make rules about buying handguns. The money would help these places create systems where people need to get a license before they can buy a handgun. To get the license, people would need to pass background checks and give their fingerprints. Research shows that having these kinds of rules helps reduce gun violence and saves lives.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Criminal justice information and records",
+    "Firearms and explosives",
+    "Law enforcement administration and funding",
+    "Licensing and registrations"
+  ],
+  "sponsor_name": "Sen. Van Hollen, Chris [D-MD]",
+  "sponsor_party": "D",
+  "sponsor_state": "MD",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "handgun license",
+    "gun permit",
+    "background check",
+    "fingerprint requirements",
+    "gun violence prevention",
+    "handgun purchase rules",
+    "gun safety laws",
+    "buying handguns",
+    "gun licensing system",
+    "reduce gun violence"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Handgun Permit to Purchase Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2 Findings",
+      "text": "Congress has found the following facts. In twenty twenty three, gun violence killed forty six thousand seven hundred twenty eight people. This was the third highest number of gun deaths ever recorded in one year in the United States. Between twenty eighteen and twenty twenty two, about ninety percent of gun violence in America involved handguns when the type of gun was known. During those five years, thirty five thousand nine hundred fifty nine people were killed with handguns. Research by top national experts shows that laws requiring people to get licenses before buying handguns lead to fewer gun murders. When these licensing laws are removed, gun murders go up. Research on Connecticut's handgun licensing law from nineteen ninety five showed a twenty seven point eight percent drop in gun murders and a thirty two point eight percent drop in gun suicides. When Missouri got rid of its handgun licensing law in two thousand seven, research showed gun murders went up by forty seven point three percent and gun suicides went up by twenty three point five percent. Maryland adopted a handgun licensing law in twenty thirteen. Research found this led to an eighty two percent drop in handguns recovered by Baltimore police that showed signs of being illegally sold for crimes. Forty one percent of people banned from buying guns in Baltimore said it became harder to get handguns. Research over thirty years found that in cities between nineteen eighty four and twenty fifteen, licensing laws led to eleven percent fewer gun murders. Between nineteen eighty four and twenty seventeen, states with strong licensing laws had fifty six percent fewer deadly mass shootings and sixty seven percent fewer mass shooting victims. In states that have had good handgun licensing laws for decades like Connecticut, Massachusetts, New Jersey, and New York, most guns used in crimes came from states without licensing laws. This shows every state needs licensing laws. Research shows states with licensing laws send far fewer guns to other states for criminal use than states without these laws. On January thirteenth twenty twenty five, the Supreme Court chose not to review a challenge to Maryland's handgun licensing law. This let stand a lower court ruling that said the law follows the Constitution.",
+      "word_offset": 11,
+      "char_offset": 59
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-grant-program-authorized-for-handgun-licensing",
+      "title": "Section 3 Grant Program Authorized for Handgun Licensing",
+      "text": "This section changes an existing federal crime control law by adding a new part about handgun licensing grants. The new part defines handgun using the same meaning as federal gun laws. It creates a grant program where the Attorney General can give money to states, local governments, and Indian tribes to develop, put in place, and study handgun licensing requirements. Within ninety days after Congress provides money for this program, the Attorney General must award grants on a competitive basis to approved applicants. These grants help applicants create and improve handgun licensing programs. To get a grant, states, local governments, or Indian tribes must submit applications at the time and in the way the Attorney General requires. The application must describe the law they passed requiring licenses to buy handguns, including any exceptions. It must also explain how they will use the grant money to run or improve their licensing program. To qualify for grants, applicants must have a handgun licensing law with specific requirements. People applying for licenses must be at least twenty one years old and be US citizens, nationals, or legal permanent residents. They must apply at a law enforcement agency in their home state. Licenses must be renewed at least every five years. Applicants must go through background checks and criminal history checks to make sure they are not banned from having guns under federal law. They must also submit fingerprints and photographs. People who are banned from having guns under federal law cannot get handgun licenses. Grant money must be used to improve the licensing programs. The section also allows Congress to provide whatever money is needed to run this grant program.",
+      "word_offset": 385,
+      "char_offset": 2359
+    }
+  ]
+}

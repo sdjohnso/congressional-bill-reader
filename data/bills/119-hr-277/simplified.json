@@ -1,0 +1,116 @@
+{
+  "bill_id": "119-hr-277",
+  "title": "Matthew Lawrence Perna Act of 2025",
+  "short_title": "Matthew Lawrence Perna Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.277",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a p",
+  "version_hash": "d858b4978e8772bd",
+  "last_updated": "2026-03-20T15:13:33.177220+00:00",
+  "plain_summary": "This bill creates special rules for people charged with crimes during peaceful political protests. These people cannot be held in jail before their trial and must get their trial within 70 days of being charged. The bill also stops the government from using spy agencies against American citizens and makes it easier for people to sue if they think they were unfairly prosecuted. People on trial in Washington D.C. can also ask to have their trial moved to a court closer to where they live.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for considerati",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Administrative remedies",
+    "Civil actions and liability",
+    "Criminal investigation, prosecution, interrogation",
+    "Criminal procedure and sentencing",
+    "Detention of persons",
+    "Due process and equal protection",
+    "Protest and dissent"
+  ],
+  "sponsor_name": "Rep. Greene, Marjorie Taylor [R-GA-14]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "peaceful protest rights",
+    "political protest charges",
+    "pretrial detention",
+    "speedy trial",
+    "government surveillance citizens",
+    "prosecutorial misconduct lawsuit",
+    "unfair prosecution",
+    "trial venue change",
+    "protest criminal charges",
+    "civil liberties protection",
+    "government spying Americans",
+    "political demonstration arrests"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Matthew Lawrence Perna Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-release-of-defendant-pending-trial",
+      "title": "Section 2 Release of a Defendant Pending Trial for Nonviolent Political Protesters; Recovery for Certain Defendants Detained",
+      "text": "This section changes the federal law about keeping people in jail while they wait for trial. Under the new rules, people charged with nonviolent political protest crimes cannot be held in jail before their trial. A covered political protest offense means a crime that comes from political protest activities and is not a violent crime. A crime of violence is defined as a crime that involves using force against another person or property. People who are tried for a federal crime and found not guilty, or people whose charges are dropped, can sue the United States government for money if they were kept in jail during their case. They can ask for payment to make up for the harm caused by being locked up.",
+      "word_offset": 15,
+      "char_offset": 83
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-speedy-trial",
+      "title": "Section 3 Speedy Trial for Nonviolent Political Protesters",
+      "text": "This section makes sure that people charged with covered political offenses get faster trials. The law already requires speedy trials for people charged with crimes, and this adds political protest offenses to that requirement.",
+      "word_offset": 139,
+      "char_offset": 791
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-remedies-for-malicious-overprosecution",
+      "title": "Section 4 Remedies Available for Malicious Overprosecution",
+      "text": "This section allows people to sue the government for malicious overprosecution. Malicious prosecution happens when a government official charges someone with a crime even though they know there is not enough evidence to believe the person did it, and they do it because of personal feelings, political reasons, or other unfair motives. Malicious overprosecution is the same thing but involves charging someone with a crime that is much more serious than what they actually did.",
+      "word_offset": 173,
+      "char_offset": 1019
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-limitation-on-national-security-authority",
+      "title": "Section 5 Limitation on Use of National Security Authority",
+      "text": "Government officials cannot use national security powers against United States citizens unless the citizen is intentionally working as an agent for a foreign country or foreign organization. National security authority includes any powers given by the National Security Act of nineteen forty seven and the departments and agencies it created. It also includes powers used by the National Security Division of the Department of Justice, the National Security Branch of the Federal Bureau of Investigation, and the Intelligence Branch of the Federal Bureau of Investigation.",
+      "word_offset": 248,
+      "char_offset": 1497
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-disclosure-of-investigations",
+      "title": "Section 6 Disclosure of Investigations of Citizens of the United States",
+      "text": "United States citizens have the right to request information about whether the government is watching them or investigating them. The usual rules that let the government keep information secret do not apply when a citizen asks for information about government surveillance or investigations of themselves.",
+      "word_offset": 333,
+      "char_offset": 2070
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-sense-of-congress-sentencing",
+      "title": "Section 7 Sense of Congress Regarding Sentencing Covered Political Protest Offenses",
+      "text": "Congress believes that when judges sentence people for covered political protest offenses, they should give the lightest sentence allowed by the sentencing guidelines. This is Congress expressing their opinion about how judges should handle these cases.",
+      "word_offset": 378,
+      "char_offset": 2376
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-transfer-of-venue",
+      "title": "Section 8 Transfer of Venue",
+      "text": "If someone is put on trial for a crime that happened in Washington DC, they can choose to have their trial moved to the federal court in the area where they live instead of having the trial in Washington DC.",
+      "word_offset": 414,
+      "char_offset": 2630
+    }
+  ]
+}

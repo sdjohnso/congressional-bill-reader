@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-hr-115",
+  "title": "No Free Rent for Freeloaders Act of 2025",
+  "short_title": "No Free Rent for Freeloaders Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.115",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Financial Services, and in addition to the Committee on Appropriations, for a period to be ",
+  "version_hash": "aa1de546e5cb7346",
+  "last_updated": "2026-03-20T13:49:39.773035+00:00",
+  "plain_summary": "This bill makes the Department of Housing and Urban Development track public housing tenants who don't follow work or community service rules. Every year, HUD must figure out how much federal money was spent on housing for these tenants who didn't follow the requirements. That same amount of money gets taken away from HUD's budget for running their programs the next year as a punishment. The goal is to make sure people in public housing follow the work rules or the housing agency loses money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on Financial Services, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such p",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [
+    "Employment and training programs",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Housing and community development funding",
+    "National and community service",
+    "Public housing"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "public housing work requirements",
+    "housing assistance job rules",
+    "government housing penalties",
+    "HUD budget cuts",
+    "public housing tenants work",
+    "housing voucher work rules",
+    "federal housing punishment",
+    "subsidized housing employment",
+    "government housing freeloaders",
+    "public housing community service",
+    "housing assistance consequences",
+    "HUD funding reduction"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Free Rent for Freeloaders Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-monitoring-compliance",
+      "title": "Section 2  Monitoring Compliance",
+      "text": "Every year, the Inspector General of the Department of Housing and Urban Development must check on each public housing agency. A public housing agency is an organization that runs government housing programs for low income people. The Inspector General must find out how many people living in public housing are not following the rules about doing community service work or working toward becoming self sufficient. The Inspector General must also calculate how much money the federal government spent on housing for people who were not following these work requirements. By September thirtieth of each year, the Inspector General must publish this dollar amount in the Federal Register, which is the official daily publication of the federal government.",
+      "word_offset": 17,
+      "char_offset": 89
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-rescission-of-amounts-from-hud-management-and-administration-account",
+      "title": "Section 3  Rescission of Amounts from HUD Management and Administration Account",
+      "text": "Every year on October fifteenth, or later if Congress has not passed the housing budget yet, the government will take away money from the Department of Housing and Urban Development. The amount taken away will equal the dollar amount that was published the year before showing how much was spent on people who did not follow the work requirements. This money will be taken from the Management and Administration account, which is the money the Department uses to run its operations. If Congress has not passed the housing budget by October fifteenth, then the money will be taken away on the day the budget is finally passed.",
+      "word_offset": 134,
+      "char_offset": 843
+    }
+  ]
+}

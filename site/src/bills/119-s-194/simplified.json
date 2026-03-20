@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-194",
+  "title": "HITS Act",
+  "short_title": "HITS Act",
+  "congress": 119,
+  "bill_number": "S.194",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Finance.",
+  "version_hash": "a70e822cc716a251",
+  "last_updated": "2026-03-20T13:58:06.785610+00:00",
+  "plain_summary": "The HITS Act is a law that helps people who make music recordings in the United States save money on their taxes. If someone spends money to record music, they can subtract up to $150,000 of those costs from their taxes right away each year. The law also gives special tax breaks called bonus depreciation benefits to people who make sound recordings. This makes it cheaper and easier for musicians and recording companies to create new music.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Blackburn, Marsha [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "music recording tax breaks",
+    "musician tax deductions",
+    "recording studio tax benefits",
+    "music industry tax relief",
+    "sound recording depreciation",
+    "music production costs",
+    "recording expenses deduction",
+    "music business tax savings",
+    "studio recording write offs",
+    "musician financial help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Help Independent Tracks Succeed Act or the HITS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-treatment-of-certain-qualified-sound-recording-productions",
+      "title": "Section 2 Treatment of Certain Qualified Sound Recording Productions",
+      "text": "This section changes the tax code to help people who make sound recordings. First, it lets people who make qualified sound recordings treat their costs as business expenses instead of capital investments. This means they can deduct these costs from their taxes right away instead of spreading them out over many years. However, there is a limit of one hundred fifty thousand dollars per sound recording or per year for all sound recordings combined. The law defines a qualified sound recording production as any sound recording that is produced and recorded in the United States. Sound recording means the same thing as defined in federal copyright law. The section also allows these sound recordings to qualify for bonus depreciation tax benefits. A sound recording is considered placed in service when it is first released or broadcast. The law changes the heading of section one hundred eighty one in the tax code from qualified film and television productions to qualified productions to include sound recordings. These changes apply to sound recording productions that start in tax years that end after this law is passed.",
+      "word_offset": 15,
+      "char_offset": 80
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-419",
+  "title": "Protecting America From Spies Act",
+  "short_title": "Protecting America From Spies Act",
+  "congress": 119,
+  "bill_number": "HR.419",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "00ed541256eb6dd3",
+  "last_updated": "2026-03-20T15:09:43.703535+00:00",
+  "plain_summary": "This bill makes it harder for people to get permission to enter the United States if they have been involved in spying or breaking laws about sharing secret information with other countries. Right now, people can only be blocked if they plan to spy once they get to America, but this new law would also block people who have already spied in the past or in other countries. The bill also says that if someone is blocked for these reasons, their spouse and children can also be blocked from entering the country if the spying happened within the last five years. The goal is to better protect America from people who might steal secrets or harm national security.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Cline, Ben [R-VA-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "spying",
+    "national security",
+    "border security",
+    "immigration",
+    "foreign agents",
+    "secret information",
+    "visa restrictions",
+    "espionage",
+    "blocking entry",
+    "protecting secrets",
+    "family members blocked",
+    "past spying"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting America From Spies Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expanding-inadmissibility-on-security-and-related-grounds",
+      "title": "Section 2 Expanding Inadmissibility on Security and Related Grounds",
+      "text": "This section changes the rules about who cannot get permission to enter the United States. The law that decides who can and cannot come to America will be updated with new rules. Under these new rules, a person cannot get a visa or permission to enter the United States if government officials know or have good reason to believe that the person has done certain things. These things include spying activities that break American laws or would break American laws if they happened in the United States. It also includes breaking laws that control what goods, technology, or secret information can be sent out of the United States. A person also cannot enter if they want to do other illegal activities, or if they want to use force, violence, or other illegal ways to oppose or take control of the American government. If someone is married to or is the child of a person who did these activities in the last five years, they also cannot enter the United States. The section also changes the rules about when government officials can make exceptions to these restrictions. Officials will not be allowed to make exceptions for people who have done spying, broken export control laws, done other illegal activities, or tried to overthrow the government.",
+      "word_offset": 11,
+      "char_offset": 62
+    }
+  ]
+}

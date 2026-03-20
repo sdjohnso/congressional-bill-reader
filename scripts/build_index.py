@@ -66,6 +66,15 @@ def build_index():
             "last_updated": data.get("last_updated"),
             "plain_summary": data.get("plain_summary"),
             "section_count": len(data.get("sections", [])),
+            # Status tracking
+            "current_status": data.get("current_status", "committee_reported"),
+            "status_date": data.get("status_date", ""),
+            "last_action_date": data.get("last_action_date", ""),
+            "last_action_text": data.get("last_action_text", ""),
+            "passed_house": data.get("passed_house", False),
+            "passed_senate": data.get("passed_senate", False),
+            "became_law": data.get("became_law", False),
+            "vetoed": data.get("vetoed", False),
             # Search/enrichment fields for Fuse.js
             "policy_area": data.get("policy_area", ""),
             "subjects": subjects,

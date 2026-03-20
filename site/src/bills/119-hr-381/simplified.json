@@ -1,0 +1,95 @@
+{
+  "bill_id": "119-hr-381",
+  "title": "LNG Public Interest Determination Act of 2025",
+  "short_title": "LNG Public Interest Determination Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.381",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "27423d207c452e78",
+  "last_updated": "2026-03-20T13:36:22.047516+00:00",
+  "plain_summary": "This bill changes how the government decides whether to allow companies to export natural gas to other countries. Instead of one agency making these decisions, the Department of Energy will now be in charge and must make sure exports won't make climate change much worse, raise energy prices too much for Americans, or hurt the health of poor and minority communities. The government must also do detailed environmental studies before approving any exports, which they didn't always have to do before. Companies will need to get permission from the Department of Energy and prove their exports are good for the public before they can sell natural gas to other nations.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [
+    "Alternative and renewable resources",
+    "Climate change and greenhouse gases",
+    "Department of Energy",
+    "Energy prices",
+    "Environmental assessment, monitoring, research",
+    "Environmental regulatory procedures",
+    "Marine and inland water transportation",
+    "Oil and gas",
+    "Public participation and lobbying",
+    "Trade restrictions"
+  ],
+  "sponsor_name": "Rep. Casten, Sean [D-IL-6]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 31,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "natural gas exports",
+    "LNG exports",
+    "climate change natural gas",
+    "energy prices America",
+    "gas export approval",
+    "environmental review energy",
+    "Department of Energy exports",
+    "natural gas overseas",
+    "gas prices domestic",
+    "minority communities pollution",
+    "energy export permits",
+    "liquefied natural gas"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the LNG Public Interest Determination Act of 2025. LNG stands for liquefied natural gas, which is natural gas that has been cooled down until it becomes a liquid so it can be shipped overseas.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exportation-of-natural-gas",
+      "title": "Section 2  Exportation of Natural Gas",
+      "text": "This section adds new rules to an existing law called the Natural Gas Act. The new rules say that no person or company can export natural gas from the United States to another country without first getting permission from the Secretary of Energy. The Secretary can only give this permission after holding a public hearing and deciding that the export would be good for the public. The Secretary has one year to make this decision after getting the final environmental impact statement from the Federal Energy Regulatory Commission and completing required studies. The Secretary can only approve a natural gas export if it meets three conditions. First, the export must not significantly add to climate change or slow down the world's shift to cleaner energy needed to reduce greenhouse gas pollution by large amounts in the next ten years and reach zero net emissions by 2050. Second, the export must not cause energy prices to go up significantly or become more unpredictable for any group of American consumers. Third, the export must not create unfair burdens of harmful health or environmental effects on rural communities, low income communities, minority communities, or other vulnerable groups. To make these decisions, the Secretary must do three types of studies. The climate change study must look at greenhouse gas pollution from the entire process of getting, moving, and using the natural gas, compare this to goals for reducing pollution, see how the export might hurt clean energy alternatives, calculate the social costs of the pollution, and identify how climate change is already hurting the American economy. The economic study must look at how the export would affect all American consumers, with specific information about low income consumers, working families, small businesses, manufacturers, state and local governments, and fertilizer producers and users. The environmental justice study must look at how the export would affect communities that already face unfair environmental burdens, including effects on local fishing industries, racial and economic disparities, and compliance with civil rights laws. The Secretary must give the public meaningful chances to participate in these decisions, including removing barriers that make it hard for communities with environmental justice concerns to participate due to disability, language, or lack of money. Approving a natural gas export must be treated as a major federal action under environmental law.",
+      "word_offset": 39,
+      "char_offset": 216
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-process-coordination-hearings-rules-of-procedure",
+      "title": "Section 3  Process Coordination; Hearings; Rules of Procedure",
+      "text": "This section makes a small change to the Natural Gas Act to clarify that references to the Commission mean the Federal Energy Regulatory Commission.",
+      "word_offset": 423,
+      "char_offset": 2697
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-termination-of-categorical-exclusion",
+      "title": "Section 4  Termination of Categorical Exclusion for Approval or Disapproval of the Exportation of Natural Gas",
+      "text": "This section cancels an existing rule that allowed natural gas exports by ship to skip certain environmental reviews. This rule will no longer have any legal effect.",
+      "word_offset": 447,
+      "char_offset": 2846
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-rulemaking",
+      "title": "Section 5  Rulemaking",
+      "text": "The Secretary of Energy must create detailed rules to carry out this law within one year after it becomes law.",
+      "word_offset": 474,
+      "char_offset": 3012
+    }
+  ]
+}

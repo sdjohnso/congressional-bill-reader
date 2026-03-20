@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-571",
+  "title": "____ Act",
+  "short_title": "____ Act",
+  "congress": 119,
+  "bill_number": "HR.571",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "3602ffc8cc5c7b67",
+  "last_updated": "2026-03-20T13:50:11.755103+00:00",
+  "plain_summary": "This bill changes the rules for Social Security benefits for students who are 18 or older and still in elementary or high school. These students will not be able to get Social Security child benefits based on their parent's work record if certain conditions are met. The parent must be 67 years old or older, already getting their own Social Security benefits, and have earned more than $125,000 in that year. This new rule starts the month after the bill becomes law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [
+    "Disability assistance",
+    "Social security and elderly assistance"
+  ],
+  "sponsor_name": "Rep. Griffith, H. Morgan [R-VA-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "social security",
+    "child benefits",
+    "student benefits",
+    "high school students",
+    "18 year old benefits",
+    "parent income limit",
+    "social security cutoff",
+    "wealthy parents",
+    "student aid",
+    "$125000 income",
+    "age 67 benefits",
+    "high income families"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the blank Act. The title is not filled in yet.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-means-testing-childs-insurance-benefits",
+      "title": "Section 2 Means-Testing Child's Insurance Benefits",
+      "text": "This section changes the rules for Social Security benefits that go to children who are eighteen years old or older and still in high school. Under the new rule, these older children cannot get Social Security benefits based on their parent's work record if certain conditions are met. The child cannot get benefits if their parent is already getting Social Security retirement or disability payments, the parent is sixty-seven years old or older, and the parent earned more than one hundred twenty-five thousand dollars in that tax year. The way earnings are counted follows the same rules used in other parts of Social Security law. This change applies to benefit payments starting the month after this law is signed.",
+      "word_offset": 15,
+      "char_offset": 70
+    }
+  ]
+}

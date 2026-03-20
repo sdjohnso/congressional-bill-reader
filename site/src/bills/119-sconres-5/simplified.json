@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-sconres-5",
+  "title": "A concurrent resolution expressing the sense of Congress that the proposed \"joint interpretation\" of Annex 14-C of the United States-Mexico-Canada Agreement prepared by United States Trade Representative Katherine Tai is of no legal effect with respect to the United States or any United States person unless it is approved by Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SCONRES.5",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Finance. (text: CR S187)",
+  "version_hash": "0a3d26c890239520",
+  "last_updated": "2026-03-20T11:01:00.207524+00:00",
+  "plain_summary": "Congress is saying that a trade official named Katherine Tai wrote a new rule about how American businesses are protected when they invest money in Canada and Mexico. Congress believes this new rule cannot be used or enforced by any government agency unless Congress votes to approve it first. The rule would change an important part of the trade agreement between the United States, Mexico, and Canada that affects American investors. Until Congress gives permission, no federal agency can use this rule in court cases or claim it has any legal power.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the Committee on Finance. (text: CR S187)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Britt, Katie Boyd [R-AL]",
+  "sponsor_party": "R",
+  "sponsor_state": "AL",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "trade agreement",
+    "Mexico Canada trade deal",
+    "American businesses overseas",
+    "investor protection",
+    "trade representative",
+    "Katherine Tai",
+    "Congress approval",
+    "trade rules",
+    "business investment protection",
+    "USMCA",
+    "trade interpretation",
+    "congressional oversight"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "preamble",
+      "title": "Preamble",
+      "text": "This is a concurrent resolution that expresses what Congress thinks about a proposed trade interpretation. It says that a trade official named Katherine Tai wants to make a new interpretation of part of a trade agreement with Canada and Mexico. Congress believes this interpretation has no legal power unless Congress approves it first.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Information",
+      "text": "The Constitution gives Congress the power to control international trade. Congress has found that the President and other executive officials cannot make binding trade agreements without Congress approving them. Congress has given some of its trade negotiating power to executive officials, but only if those officials work closely with Congress and Congress has final say over any binding trade agreements. The USMCA is a trade agreement between the United States, Mexico, and Canada that Congress approved with support from both political parties. This agreement replaced an older trade agreement called NAFTA. Part of the USMCA called Annex fourteen dash C protects American people and companies who invested money in Canada or Mexico. It gives them ways to get help if those countries treat their investments unfairly or take them away without proper payment. This protection covers investments made when NAFTA was in effect and for three years after that. Katherine Tai, who is the United States Trade Representative, is trying to make a joint interpretation with Canada and Mexico that could limit the rights of American investors under Annex fourteen dash C. Katherine Tai has not properly consulted with Congress about this proposed interpretation. She has used unreasonable procedures that make it hard for members of Congress to even see the text of what she wants to agree to. Congress must approve any joint interpretation that Katherine Tai wants to make with Canada and Mexico under the USMCA.",
+      "word_offset": 53,
+      "char_offset": 337
+    },
+    {
+      "id": "s3",
+      "slug": "resolution",
+      "title": "Congressional Resolution",
+      "text": "The Senate and House of Representatives agree that Congress believes the following. First, the proposed joint interpretation of Annex fourteen dash C of the USMCA that Katherine Tai prepared has no legal effect on the United States or any American person unless Congress approves it. Second, the Office of the United States Trade Representative, the State Department, or any other United States government agency cannot use this joint interpretation in any legal case or claim that it has any legal consequences for claims made by American people unless Congress formally approves the interpretation first.",
+      "word_offset": 291,
+      "char_offset": 1845
+    }
+  ]
+}

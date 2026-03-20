@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-574",
+  "title": "ALIGN Act",
+  "short_title": "ALIGN Act",
+  "congress": 119,
+  "bill_number": "HR.574",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "efd0adc7ba5b0806",
+  "last_updated": "2026-03-20T11:00:40.427734+00:00",
+  "plain_summary": "The ALIGN Act changes a tax rule for businesses to make it permanent. Right now, when businesses buy certain equipment or property, they can subtract the full cost from their taxes right away instead of waiting many years to get the full tax break. This rule only works for property that businesses started using after September 2017. The bill would make this helpful tax rule last forever instead of ending after a few years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Arrington, Jodey C. [R-TX-19]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 34,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "business tax breaks",
+    "equipment tax deduction",
+    "immediate tax writeoff",
+    "business property taxes",
+    "company equipment costs",
+    "tax deduction for businesses",
+    "business expense deduction",
+    "equipment purchase tax relief",
+    "small business tax benefits",
+    "permanent tax breaks"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Accelerate Long-term Investment Growth Now Act or the ALIGN Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-permanent-full-expensing-for-qualified-property",
+      "title": "Section 2 Permanent Full Expensing for Qualified Property",
+      "text": "This section changes the tax code to let businesses deduct the full cost of certain business equipment and property right away when they buy it. Currently, businesses must spread these deductions over several years. Under this new rule, for any qualified property that businesses put into use after September twenty-seventh, two thousand seventeen, they can deduct one hundred percent of the cost immediately. This applies to equipment like machinery and also to certain plants that are planted or grafted. The section also removes various time limits and phase-out rules that currently exist in the tax code. These changes take effect as if they were part of the original tax law passed in two thousand seventeen.",
+      "word_offset": 16,
+      "char_offset": 92
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-52",
+  "title": "Stop Woke Investing Act",
+  "short_title": "Stop Woke Investing Act",
+  "congress": 119,
+  "bill_number": "HR.52",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "d4f53e0153c19f0d",
+  "last_updated": "2026-03-20T12:20:25.654376+00:00",
+  "plain_summary": "This bill changes the rules about what shareholder proposals companies must include when they ask shareholders to vote on things. Right now, companies have to include proposals about social issues, but this bill says they can only include proposals that directly affect how much money the company makes. The bill also limits how many proposals companies have to include based on how big the company is. Board members would not be allowed to submit their own proposals as if they were regular shareholders.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [
+    "Administrative remedies",
+    "Business records",
+    "Corporate finance and management",
+    "Financial services and investments",
+    "Securities and Exchange Commission (SEC)"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "shareholder voting",
+    "company proposals",
+    "social issues investing",
+    "corporate voting rules",
+    "board member proposals",
+    "business profits focus",
+    "investment decisions",
+    "company size limits",
+    "shareholder meetings",
+    "corporate governance",
+    "social responsibility investing",
+    "company money making"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Stop Woke Investing Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-shareholder-proposals",
+      "title": "Section 2 Shareholder Proposals",
+      "text": "In this section, we define important terms. An accelerated filer and large accelerated filer are types of companies that have to file certain reports quickly with the government. These terms have specific meanings in federal regulations. The Commission means the Securities and Exchange Commission, which is the government agency that watches over the stock market. Material means a financial risk or return that would matter to a reasonable investor when deciding whether to invest money or use their rights as a stockholder. Material does not include things like environmental, social, political, or ideological goals. It also does not include financial risks that are very uncertain about the far future and affect everyone generally rather than specific investments. A non-accelerated filer is a company that is not an accelerated filer or large accelerated filer.\n\nWithin one hundred eighty days after this law is passed, the Commission must change its rules about shareholder proposals. Shareholder proposals are suggestions that stockholders can make for companies to consider and vote on. The new rules must work as follows. Companies must decide which proposals to include on their proxy cards and statements based on these limits. Non-accelerated filers do not have to include more than two shareholder proposals for any single meeting. Accelerated filers do not have to include more than four shareholder proposals for any single meeting. Large accelerated filers do not have to include more than seven shareholder proposals for any single meeting. However, a company can only include a proposal if it has a material effect on the company's financial performance. The company gets to decide which proposals to include using their own method, but they must tell the Commission what method they use. The order in which the company receives the proposals does not matter when deciding which ones to include. If two or more proposals are basically the same, they count as just one proposal. Companies cannot include proposals that come from their own board members.\n\nNothing in this section requires a company to include a shareholder proposal if other Commission rules say the proposal does not need to be included. This section does not give the Commission permission to require companies to include shareholder proposals in their proxy statements. This section also does not stop the Commission from getting rid of any rules that require companies to include shareholder proposals in their proxy statements.",
+      "word_offset": 10,
+      "char_offset": 52
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-221",
+  "title": "Abolish the ATF Act",
+  "short_title": "Abolish the ATF Act",
+  "congress": 119,
+  "bill_number": "HR.221",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "591bca66a15eed5a",
+  "last_updated": "2026-03-20T12:11:35.460025+00:00",
+  "plain_summary": "This bill would shut down the Bureau of Alcohol, Tobacco, Firearms and Explosives, which is also called the ATF. The ATF is a government agency that makes sure people follow laws about alcohol, tobacco, guns, and explosives. If this bill becomes law, the ATF would no longer exist. The bill does not say what would happen to the ATF's workers or who would take over their job of enforcing these laws.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Department of Justice",
+    "Executive agency funding and structure"
+  ],
+  "sponsor_name": "Rep. Burlison, Eric [R-MO-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 33,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "shut down ATF",
+    "eliminate gun agency",
+    "close firearms bureau",
+    "abolish ATF",
+    "get rid of gun enforcement",
+    "disband alcohol tobacco firearms",
+    "eliminate federal gun agency",
+    "close down ATF",
+    "end gun bureau",
+    "abolish firearms enforcement agency"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Abolish the ATF Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-abolishment-of-the-bureau-of-alcohol-tobacco-firearms-and-explosives",
+      "title": "Section 2  Abolishment of the Bureau of Alcohol, Tobacco, Firearms and Explosives",
+      "text": "The Bureau of Alcohol, Tobacco, Firearms and Explosives (a federal government agency that enforces laws about alcohol, tobacco, guns, and explosives) is eliminated and will no longer exist.",
+      "word_offset": 10,
+      "char_offset": 48
+    }
+  ]
+}

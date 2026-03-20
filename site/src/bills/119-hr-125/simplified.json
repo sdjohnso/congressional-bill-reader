@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-125",
+  "title": "Limiting Emergency Powers Act of 2025",
+  "short_title": "Limiting Emergency Powers Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.125",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "version_hash": "8b454dba0b415d43",
+  "last_updated": "2026-03-20T13:29:23.537806+00:00",
+  "plain_summary": "This bill changes the rules for when the President declares a national emergency. Under the new rules, Congress must vote to approve any emergency declaration within 30 days, or the emergency will automatically end. If Congress does approve an emergency, it can only last for two years. After two years, the President must ask Congress again if they want to continue the emergency. This gives Congress more control over emergency powers instead of letting the President decide alone.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-04",
+  "last_action_date": "2025-01-04",
+  "last_action_text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [
+    "Abortion",
+    "Health programs administration and funding"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "presidential emergency powers",
+    "congress approval emergency",
+    "national emergency limits",
+    "president declare emergency",
+    "emergency powers congress control",
+    "30 day emergency approval",
+    "two year emergency limit",
+    "presidential authority limits",
+    "congress vote emergency",
+    "national emergency rules",
+    "emergency declaration congress",
+    "limit president emergency powers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Limiting Emergency Powers Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-duration-of-national-emergency-without-congressional-approval",
+      "title": "Section 2 Limitation on Duration of National Emergency Without Congressional Approval",
+      "text": "This section changes the National Emergencies Act. When the President declares a national emergency, that emergency will automatically end thirty days later unless Congress passes a joint resolution (a special type of law that both the House and Senate must approve) that supports the emergency declaration. The emergency will also end if Congress passes a joint resolution to end it, or if the President issues an official statement ending it. When a national emergency ends, the end date will be whichever comes first among these options: thirty days after the declaration if Congress has not approved it, the date listed in a Congressional resolution ending it, or the date the President says it ends. Once an emergency ends, several things happen automatically. Any government money that was moved around because of the emergency but not yet spent must go back to its original purpose. Any construction contracts related to the emergency must be canceled unless construction already started. All special powers the government used because of the emergency must stop being used. However, ending an emergency does not affect legal cases that are still ongoing, legal cases based on things that happened during the emergency, or rights and penalties that were already established during the emergency. If Congress does approve an emergency within thirty days, that emergency will last for two years from when the President first declared it. After two years, the emergency will end unless the President asks to renew it and Congress approves that renewal. For emergencies that were already declared before this new law takes effect, those emergencies will continue but will end two years after this law becomes official unless they are renewed under the new rules.",
+      "word_offset": 15,
+      "char_offset": 86
+    }
+  ]
+}

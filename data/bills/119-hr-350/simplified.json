@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-350",
+  "title": "Prosecutors Need to Prosecute Act",
+  "short_title": "Prosecutors Need to Prosecute Act",
+  "congress": 119,
+  "bill_number": "HR.350",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "dccf2a2c433117cc",
+  "last_updated": "2026-03-20T15:57:21.328605+00:00",
+  "plain_summary": "This bill makes prosecutors in big cities report information about serious crimes to the federal government every year. The prosecutors must tell how many cases they decided not to take to court and give details about defendants who have been arrested or convicted before. The crimes include murder, rape, robbery, assault, burglary, theft, car theft, arson, and gun crimes. This rule only applies to cities with 380,000 or more people that get certain federal money. The reports will be shared with Congress and put online for everyone to see.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Assault and harassment offenses",
+    "Crimes against property",
+    "Criminal investigation, prosecution, interrogation",
+    "Criminal procedure and sentencing",
+    "Government information and archives",
+    "Lawyers and legal services",
+    "Sex offenses"
+  ],
+  "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "prosecutors report crimes",
+    "district attorneys not prosecuting",
+    "crime statistics reporting",
+    "big city crime data",
+    "prosecutors declining cases",
+    "federal crime reporting requirements",
+    "public safety accountability",
+    "crime prosecution transparency",
+    "repeat offender tracking",
+    "local prosecutor oversight",
+    "crime data disclosure"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Prosecutors Need to Prosecute Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-district-attorney-reporting-requirements-for-byrne-grants",
+      "title": "Section 2 District Attorney Reporting Requirements for Byrne Grants",
+      "text": "This section changes a federal law called the Omnibus Crime Control and Safe Streets Act. It adds new rules for district attorneys and prosecutors who work in areas with three hundred eighty thousand or more people. These offices must receive federal grant money called Byrne grants to be covered by these rules. Every year, the head of each qualifying prosecutor office must send a report to the United States Attorney General. The report must include information from the previous year about serious crimes. The report must show how many cases were sent to the prosecutor for serious crimes. It must show how many of those cases the prosecutor decided not to take to court. For cases where the defendant made a deal with the prosecutor called a plea agreement, the report must show the total number of such cases, what crimes the person was first charged with, and what crimes the person was found guilty of in the end. The report must also track cases involving defendants who had previous run-ins with the law for serious crimes. This includes people who were arrested before, convicted before, had other open cases, were on probation, or were on parole for serious crimes that happened at different times. The report must show how many defendants were released without paying bail money, how many could pay bail to get out of jail, and how many times the prosecutor asked the court to require bail. The Attorney General must create standard rules for how these reports should look and how they should be sent in. The Attorney General must then share all this information with the Senate Judiciary Committee and the House Judiciary Committee. The Attorney General must also put this information on a website where anyone can see it. The law defines serious crimes as murder, rape, robbery, serious assault, burglary, stealing, car theft, arson, and any crime involving illegal use or possession of guns.",
+      "word_offset": 11,
+      "char_offset": 62
+    }
+  ]
+}

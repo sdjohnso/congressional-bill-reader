@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-559",
+  "title": "Seniors in the Workforce Tax Relief Act",
+  "short_title": "Seniors in the Workforce Tax Relief Act",
+  "congress": 119,
+  "bill_number": "HR.559",
+  "introduced_date": "2025-01-20",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "5886321c449c714c",
+  "last_updated": "2026-03-20T12:55:26.697836+00:00",
+  "plain_summary": "This bill creates a new tax break for people who are 65 years old or older. It lets them subtract up to $25,000 from their income before calculating taxes if they are single, or up to $50,000 if they are married. The tax break gets smaller for people who make more money, starting at $100,000 for single people or $200,000 for married couples. This tax break will last until the end of 2029.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-20",
+  "last_action_date": "2025-01-20",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Bacon, Don [R-NE-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "seniors tax break",
+    "elderly tax relief",
+    "65 older tax deduction",
+    "retirement age tax benefit",
+    "senior citizen taxes",
+    "older workers tax credit",
+    "retiree income tax",
+    "working seniors taxes",
+    "65 and up tax savings",
+    "elderly employment tax relief"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Seniors in the Workforce Tax Relief Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-deduction-for-seniors",
+      "title": "Section 2 Deduction for Seniors",
+      "text": "This section creates a new tax break for older Americans. If you are sixty five years old or older by the end of the tax year, you can subtract money from your income before calculating your taxes. Single people can deduct up to twenty five thousand dollars from their income. However, this deduction gets smaller if you make more than one hundred thousand dollars per year. For every dollar you earn over one hundred thousand dollars, your deduction goes down. The deduction disappears completely when you earn one hundred twenty five thousand dollars or more. Married couples filing together can deduct up to twenty five thousand dollars, but their deduction starts getting smaller when they earn more than two hundred thousand dollars per year. If both spouses are sixty five or older, they can deduct up to fifty thousand dollars instead. The deduction for married couples disappears completely when they earn two hundred fifty thousand dollars or more. This tax break can be taken whether you itemize your deductions or take the standard deduction. This tax break only lasts until December thirty first, two thousand twenty nine. The new rules start for tax years beginning after December thirty first, two thousand twenty four.",
+      "word_offset": 13,
+      "char_offset": 68
+    }
+  ]
+}

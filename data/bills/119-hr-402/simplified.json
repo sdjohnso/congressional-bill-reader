@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-402",
+  "title": "DEBT Act",
+  "short_title": "DEBT Act",
+  "congress": 119,
+  "bill_number": "HR.402",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "943cbb289600c69c",
+  "last_updated": "2026-03-20T14:40:06.847677+00:00",
+  "plain_summary": "The DEBT Act requires the Treasury Secretary to meet with Congress when the government is getting close to its debt limit. The Secretary must explain what special emergency steps the Treasury will take to avoid running out of money to pay the government's bills. This meeting must happen between 21 and 60 days before these emergency steps are needed. The Secretary has to tell Congress how much these emergency actions will cost and how they will be undone later.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Budget deficits and national debt",
+    "Congressional oversight",
+    "Congressional-executive branch relations",
+    "Department of the Treasury",
+    "House Committee on Ways and Means",
+    "Senate Committee on Finance"
+  ],
+  "sponsor_name": "Rep. Schweikert, David [R-AZ-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "debt ceiling",
+    "government debt limit",
+    "treasury secretary congress meeting",
+    "government borrowing limit",
+    "national debt crisis",
+    "treasury emergency measures",
+    "government shutdown prevention",
+    "debt limit breach",
+    "congressional notification debt",
+    "treasury extraordinary measures"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Debt Explanation Before Taxwriters Act or the DEBT Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-secretary-appearance-requirement",
+      "title": "Section 2 Secretary of Treasury Appearance Before Congress Before Reaching Debt Limit or Extraordinary Measures Taken",
+      "text": "This section changes federal law by adding a new requirement. The Secretary of the Treasury must appear before two important congressional committees when the government is getting close to its debt limit. The Secretary must meet with the House Ways and Means Committee and the Senate Finance Committee between twenty one and sixty days before either the debt limit is reached or before the government takes special emergency steps to avoid not paying its bills. During these meetings, the Secretary must give a detailed explanation of any special emergency actions the government will take to keep paying bills and how much these actions will cost to manage. The Secretary must also explain how these actions will be reversed later and what other changes will be made to how the government pays its bills. The law defines special emergency measures as nine specific actions the Treasury can take. These include stopping sales of certain government bonds to state and local governments, taking money out of federal employee retirement funds temporarily, stopping investments in various government funds like the Exchange Stabilization Fund and Thrift Savings Fund, and selling government securities from retirement funds before they are supposed to mature. The section also makes a technical change to update the table of contents in federal law to include this new requirement.",
+      "word_offset": 15,
+      "char_offset": 83
+    }
+  ]
+}

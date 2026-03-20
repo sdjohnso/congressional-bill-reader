@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-525",
+  "title": "HONDURAS Act",
+  "short_title": "HONDURAS Act",
+  "congress": 119,
+  "bill_number": "HR.525",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Foreign Affairs.",
+  "version_hash": "34cff348fdb0bc30",
+  "last_updated": "2026-03-20T14:00:55.517660+00:00",
+  "plain_summary": "The HONDURAS Act gives the President power to stop sending money and help to Honduras if that country forces American military workers and other US staff to leave Soto Cano Air Base. This would happen if Honduras refuses to let American personnel stay at the base. If the President uses this power, Honduras would lose all aid from the United States, including military help that America has been giving them since 1954.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Ogles, Andrew [R-TN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Honduras aid",
+    "US military base Honduras",
+    "foreign aid cutoff",
+    "American troops Honduras",
+    "Soto Cano Air Base",
+    "Honduras military aid",
+    "US aid suspension",
+    "Central America military base",
+    "Honduras foreign assistance",
+    "American personnel overseas"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Honduras Obstinately Neglects Defense and Risks Alienating Security Act or the HONDURAS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-of-funding",
+      "title": "Section 2 Prohibition of Funding",
+      "text": "No matter what any other law says, if Honduras refuses to let American military and civilian workers stay at Soto Cano Air Base and forces them to leave, the President can stop all aid to Honduras. This includes stopping any help given under the military assistance agreement that the United States and Honduras signed on May twentieth nineteen fifty four, as well as any changes made to that agreement later.",
+      "word_offset": 19,
+      "char_offset": 120
+    }
+  ]
+}

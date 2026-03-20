@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-479",
+  "title": "Healthy SNAP Act of 2025",
+  "short_title": "Healthy SNAP Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.479",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+  "version_hash": "1880bdfcd29f5e7e",
+  "last_updated": "2026-03-20T12:18:12.412456+00:00",
+  "plain_summary": "This bill changes the rules for what food people can buy with SNAP benefits, which are like food stamps that help families buy groceries. People will no longer be able to use SNAP to buy soft drinks, candy, ice cream, or prepared desserts like cookies and cakes. The Department of Agriculture will create a list of healthy foods that SNAP users can buy, focusing on foods that have important nutrients and help people stay healthy. The department will review and update this list every five years to make sure it includes the best food choices. States can ask to include different healthy foods on their lists if they match the nutrition requirements and fit with local eating habits.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Brecheen, Josh [R-OK-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 12,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "food stamps",
+    "SNAP benefits",
+    "healthy food",
+    "junk food ban",
+    "soda restriction",
+    "candy ban",
+    "grocery assistance",
+    "food program",
+    "nutrition requirements",
+    "government food help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Healthy SNAP Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-food-under-supplemental-nutrition-assistance-program",
+      "title": "Section 2  Food Under Supplemental Nutrition Assistance Program",
+      "text": "This section changes what foods can be bought with SNAP benefits (food stamps). The Secretary of Agriculture must create a list of approved foods and food products that people can buy with their SNAP benefits. The approved foods cannot include alcoholic drinks, tobacco, soft drinks, candy, ice cream, or prepared desserts like cakes, pies, cookies, or similar sweet products.\n\nThe Secretary has one hundred eighty days after this law passes to make rules about which foods will be allowed. When deciding which foods to approve, the Secretary must think about foods that contain nutrients that many Americans do not get enough of in their diets. The approved foods should help improve the health of people who use SNAP benefits based on nutrition science, public health needs, and the foods that different cultures traditionally eat. The Secretary should also make sure the approved foods do not have too much fat, sugar, or salt.\n\nThe Secretary must review the approved food list at least once every five years to make sure it follows the newest nutrition science and health information. The Secretary can change the approved foods as needed to reflect new nutrition science, public health concerns, and different cultural eating habits.\n\nPrepared meals that can be bought with SNAP benefits must meet the same nutrition standards that the Secretary creates under these new rules.\n\nTo respect different cultural food traditions, state agencies can ask the Secretary to approve different foods than what is on the main list. The Secretary can say yes as long as the different foods have the same nutritional value as the foods they are replacing.",
+      "word_offset": 14,
+      "char_offset": 73
+    }
+  ]
+}

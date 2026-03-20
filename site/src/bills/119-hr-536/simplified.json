@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-536",
+  "title": "Agricultural Environmental Stewardship Act of 2025",
+  "short_title": "Agricultural Environmental Stewardship Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.536",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "94cd57d252b4a531",
+  "last_updated": "2026-03-20T15:38:55.344448+00:00",
+  "plain_summary": "This bill gives a tax break to farmers and businesses that build special systems called biogas systems. These systems turn farm waste like animal manure into useful energy like methane gas. The tax credit was supposed to end in December 2024, but this bill extends it for one more year until December 2025. This means people who start building these waste-to-energy systems before the end of 2025 can still get money back on their taxes to help pay for the project.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Alternative and renewable resources",
+    "Building construction",
+    "Business investment and capital",
+    "Climate change and greenhouse gases",
+    "Energy efficiency and conservation",
+    "Income tax credits",
+    "Solid waste and recycling"
+  ],
+  "sponsor_name": "Rep. Scholten, Hillary J. [D-MI-3]",
+  "sponsor_party": "D",
+  "sponsor_state": "MI",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "farm tax credit",
+    "biogas energy systems",
+    "manure to energy",
+    "farm waste power",
+    "renewable energy tax break",
+    "methane gas from farms",
+    "agricultural energy incentives",
+    "waste to electricity",
+    "farm methane systems",
+    "green energy tax credit"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Agricultural Environmental Stewardship Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-extension-of-energy-credit-for-qualified-biogas-property",
+      "title": "Section 2  Extension of Energy Credit for Qualified Biogas Property",
+      "text": "This section changes the tax law to help farmers and businesses who build biogas systems. Biogas systems capture gas from farm waste and turn it into energy. Right now, people who build these systems can get a tax credit that helps reduce the taxes they owe. This tax credit was supposed to end on December thirty-first, two thousand twenty-four. This law extends that deadline to December thirty-first, two thousand twenty-five. This means people have one more year to start building biogas systems and still get the tax credit. The change applies to any biogas system where construction begins after December thirty-first, two thousand twenty-four.",
+      "word_offset": 14,
+      "char_offset": 99
+    }
+  ]
+}

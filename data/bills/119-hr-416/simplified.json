@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-416",
+  "title": "No Welfare for the Wealthy Act of 2025",
+  "short_title": "No Welfare for the Wealthy Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.416",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+  "version_hash": "b0493ac51b247e76",
+  "last_updated": "2026-03-20T14:53:59.873082+00:00",
+  "plain_summary": "This bill changes the rules for getting food stamps, also called SNAP benefits. Right now, some people can get food stamps by qualifying for other programs without having to pass income and asset tests. The bill would require everyone who wants food stamps to pass both income tests and asset tests, no matter what other programs they qualify for. The new rules would start one year after the bill becomes law, but people already getting benefits would keep them until their approval period ends.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Cline, Ben [R-VA-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "food stamps",
+    "SNAP benefits",
+    "welfare requirements",
+    "income limits",
+    "asset tests",
+    "government assistance",
+    "food assistance",
+    "welfare reform",
+    "benefit eligibility",
+    "means testing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Welfare for the Wealthy Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amendment",
+      "title": "Section 2  Amendment",
+      "text": "This section changes part of the Food and Nutrition Act of two thousand eight. The law currently has rules about who can get food benefits. This change makes it so that no household can get food benefits unless they meet both the income limits and the resource limits that are already written in other parts of the law.",
+      "word_offset": 17,
+      "char_offset": 87
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-effective-date-application-of-amendment",
+      "title": "Section 3  Effective Date and Application of Amendment",
+      "text": "This law will start working one year after Congress passes it. However, the changes will not affect people who are already getting food benefits during their current certification period (the time period when their benefits are approved). The new rules will only apply to new certification periods that start after the law takes effect.",
+      "word_offset": 75,
+      "char_offset": 407
+    }
+  ]
+}

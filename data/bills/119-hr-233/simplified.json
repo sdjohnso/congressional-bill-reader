@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-233",
+  "title": "HELP PETS Act",
+  "short_title": "HELP PETS Act",
+  "congress": 119,
+  "bill_number": "HR.233",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "d17bd78895abd59f",
+  "last_updated": "2026-03-20T11:42:34.333494+00:00",
+  "plain_summary": "The HELP PETS Act is a new law that stops the government from giving money to colleges and universities that hurt dogs and cats during research experiments. If a school does painful tests on dogs or cats, they cannot get federal funding anymore. This rule starts six months after the law passes. The law does not count certain types of animal care by veterinarians or research with service dogs and military animals.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Animal protection and human-animal relationships",
+    "Education programs funding",
+    "Higher education",
+    "Research and development",
+    "Research ethics"
+  ],
+  "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "animal testing",
+    "dog experiments",
+    "cat experiments",
+    "college animal research",
+    "university funding",
+    "federal money for schools",
+    "painful animal tests",
+    "stop animal cruelty",
+    "research on pets",
+    "government funding rules",
+    "animal protection law",
+    "ban animal experiments"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Higher Education Loses Payments for Painful Experiments, Tests and Studies Act or the HELP PETS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-availability-of-federal-funds",
+      "title": "Section 2 Prohibition on Availability of Federal Funds to Institutions of Higher Education that Conduct Painful Research Using Dogs and Cats",
+      "text": "Starting one hundred eighty days after this law is passed, the federal government cannot give money to any college or university that does or pays for painful research on dogs or cats. However, this rule does not apply to clinical veterinary research or any physical exam, training program, or study relating to service animals or military animals. Clinical veterinary research means research on a dog or cat with a naturally occurring disease or injury that is done for the benefit of the dog or cat and with the goal of studying how a procedure, device, or treatment works. Institution of higher education means what that term means in section one hundred two of the Higher Education Act of nineteen sixty five. Military animal means what that term means in section twenty five eighty three of title ten of the United States Code. Painful research includes any research, medical training, experiments, or biological testing that the Department of Agriculture classifies as pain category D or E. Service animal means what that term means in section thirty seven point three of title forty nine of the Code of Federal Regulations.",
+      "word_offset": 22,
+      "char_offset": 128
+    }
+  ]
+}

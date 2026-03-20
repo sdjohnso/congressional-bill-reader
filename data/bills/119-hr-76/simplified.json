@@ -1,0 +1,120 @@
+{
+  "bill_id": "119-hr-76",
+  "title": "Fund and Complete the Border Wall Act",
+  "short_title": "Fund and Complete the Border Wall Act",
+  "congress": 119,
+  "bill_number": "HR.76",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Border Security and Enforcement.",
+  "version_hash": "3846d7b2fbc8afec",
+  "last_updated": "2026-03-20T11:28:32.209153+00:00",
+  "plain_summary": "This bill creates a special fund to build a wall along the entire border between the United States and Mexico. The money for the wall comes from cutting foreign aid to countries whose citizens illegally cross the border, adding a 5% fee on money sent to other countries, and raising fees for certain people entering the US. The Department of Homeland Security must finish building barriers along the whole southern border by December 2025. The bill also gives Border Patrol agents higher overtime pay when they work more than 80 hours in two weeks.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Subcommittee on Border Security and Enforcement.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Building construction",
+    "Civil actions and liability",
+    "Congressional oversight",
+    "Department of Homeland Security",
+    "Foreign aid and international relief",
+    "Government employee pay, benefits, personnel management",
+    "Government trust funds",
+    "International monetary system and foreign exchange",
+    "Mexico",
+    "User charges and fees"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border wall",
+    "Mexico border",
+    "immigration enforcement",
+    "border security",
+    "wall funding",
+    "foreign aid cuts",
+    "money transfers",
+    "border patrol pay",
+    "southern border",
+    "illegal immigration",
+    "homeland security",
+    "border barriers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Fund and Complete the Border Wall Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-border-wall-trust-fund",
+      "title": "Section 2  Border Wall Trust Fund",
+      "text": "The Treasury Secretary must create a special bank account within sixty days of this law passing. This account will be called the Secure the Southern Border Fund. Money put into this account can be spent on two things only. First, it can pay for planning, designing, building, or fixing barriers along the border between the United States and Mexico. Second, it can buy and maintain vehicles and equipment for Border Patrol agents. However, no more than five percent of the money can be spent on vehicles and equipment. The rest must go toward the border barrier.",
+      "word_offset": 13,
+      "char_offset": 66
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-border-crossing-accountability-and-security",
+      "title": "Section 3  Border Crossing Accountability and Security",
+      "text": "Every year, the Homeland Security Secretary must count how many people were caught crossing the Mexican border illegally. The Secretary must report which countries these people came from to Congress and the State Department. For every person caught, the United States will reduce the foreign aid it gives to that person's home country by two thousand dollars. However, the State Department can choose not to cut certain types of aid to Mexico, including military education funds, drug enforcement funds, and anti-terrorism funds. All the money that gets cut from foreign aid will be moved into the border wall fund.",
+      "word_offset": 109,
+      "char_offset": 629
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-fees-for-certain-remittance-transfers",
+      "title": "Section 4  Fees for Certain Remittance Transfers",
+      "text": "When someone sends money out of the United States to another country, they must pay a fee equal to five percent of the amount being sent. Companies that handle these money transfers must collect this fee and send it to the border wall fund. The Treasury Secretary has ninety days to set up a system for collecting these fees. People who try to avoid paying this fee can be fined up to five hundred thousand dollars or twice the amount of money they tried to send, whichever is more. They can also go to prison for up to twenty years. Countries that help people avoid this fee will lose their foreign aid and cannot participate in programs that let their citizens visit the United States without visas.",
+      "word_offset": 208,
+      "char_offset": 1245
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-fees-for-form-i-94",
+      "title": "Section 5  Fees for Form I-94",
+      "text": "The fee for processing Form I-94, which tracks when people enter and leave the United States, will increase from six dollars to twenty five dollars. Of this fee, six dollars will go to the current border inspection account. Ten dollars will pay salaries for Border Patrol agents, but only if Congress approves this spending in advance. Nine dollars will go to the border wall fund.",
+      "word_offset": 335,
+      "char_offset": 1947
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-construction-of-border-wall",
+      "title": "Section 6  Construction of Border Wall",
+      "text": "By December thirty first, twenty twenty five, the Homeland Security Secretary must build physical barriers along the entire border between the United States and Mexico. These barriers must prevent illegal crossing in all areas. The Secretary can build second barriers behind existing fences where needed. Before building in any area, the Secretary must talk with other government agencies, local governments, tribal governments, and private property owners to reduce harm to the environment, culture, business, and quality of life. However, these consultations cannot stop the Secretary from moving forward with construction. Within sixty days of these consultations, the Secretary must tell Congress what type of barriers will be built and what other options were considered. The Secretary does not have to build barriers where natural geography or existing walls already block crossing, but must notify Congress of such decisions within thirty days. The Secretary can waive any legal requirements that might slow down the design, testing, construction, or operation of barriers, roads, and technology.",
+      "word_offset": 400,
+      "char_offset": 2329
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-fair-labor-standards-act-for-us-border-patrol",
+      "title": "Section 7  Fair Labor Standards Act for U.S. Border Patrol",
+      "text": "Border Patrol agents will get special overtime pay rules. During any fourteen day work period, agents must be paid one and a half times their regular pay rate for all hours worked between eighty and one hundred hours. This payment is in addition to any other overtime pay they already receive and is not limited by normal government pay caps.",
+      "word_offset": 563,
+      "char_offset": 3433
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-severability",
+      "title": "Section 8  Severability",
+      "text": "If any part of this law is found to be invalid by a court, the rest of the law will still remain in effect.",
+      "word_offset": 623,
+      "char_offset": 3776
+    }
+  ]
+}

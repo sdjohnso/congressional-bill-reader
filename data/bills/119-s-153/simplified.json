@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-153",
+  "title": "Repeal the TikTok Ban Act",
+  "short_title": "Repeal the TikTok Ban Act",
+  "congress": 119,
+  "bill_number": "S.153",
+  "introduced_date": "2025-01-20",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "version_hash": "f1d738c72a84f2cc",
+  "last_updated": "2026-03-20T10:48:55.717035+00:00",
+  "plain_summary": "This bill cancels a law that banned certain apps and websites owned by countries that are enemies of the United States. The law had marked some apps and websites as dangerous and banned them from being used. This new bill removes all those bans and makes the old law powerless. It means apps and websites that were banned before can now be used again.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-20",
+  "last_action_date": "2025-01-20",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Sen. Paul, Rand [R-KY]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "TikTok ban",
+    "app ban repeal",
+    "social media restrictions",
+    "foreign app bans",
+    "TikTok allowed again",
+    "banned apps comeback",
+    "enemy country apps",
+    "TikTok unban",
+    "social media freedom",
+    "app store restrictions",
+    "foreign website bans",
+    "digital app access"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Repeal the TikTok Ban Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-protecting-americans-from-foreign-adversary-controlled-applications-act",
+      "title": "Section 2  Repeal of Protecting Americans from Foreign Adversary Controlled Applications Act",
+      "text": "This section removes an existing law called the Protecting Americans from Foreign Adversary Controlled Applications Act. This law is completely canceled and no longer exists. Any app, website, or technology program that was labeled as a foreign adversary controlled application under the old law will no longer have that label. This means those labels have no power and do not matter anymore. This change applies to everything that happened in the past under the old law too.",
+      "word_offset": 11,
+      "char_offset": 54
+    }
+  ]
+}

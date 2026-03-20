@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-552",
+  "title": "Veterans Collaboration Act",
+  "short_title": "Veterans Collaboration Act",
+  "congress": 119,
+  "bill_number": "HR.552",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Economic Opportunity.",
+  "version_hash": "729707e600cdc9c3",
+  "last_updated": "2026-03-20T16:02:29.832249+00:00",
+  "plain_summary": "The Veterans Collaboration Act creates a two-year test program run by the Department of Veterans Affairs. The program helps veteran service groups work together with law schools to give free legal help to veterans. The VA will focus on states that have the most veterans living there and will use social media to tell people about these partnerships. Every three months, the VA must send reports to Congress about how the program is working.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-20",
+  "last_action_date": "2025-02-20",
+  "last_action_text": "Referred to the Subcommittee on Economic Opportunity.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Congressional oversight",
+    "Higher education",
+    "Internet, web applications, social media",
+    "Lawyers and legal services",
+    "Veterans' organizations and recognition"
+  ],
+  "sponsor_name": "Rep. Wittman, Robert J. [R-VA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans legal help",
+    "free lawyers for veterans",
+    "law school veterans program",
+    "veteran service organizations",
+    "VA legal assistance",
+    "veterans collaboration",
+    "law students help veterans",
+    "veteran legal aid",
+    "free legal services veterans",
+    "veterans affairs program",
+    "veteran support groups",
+    "legal help for vets"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Veterans Collaboration Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-department-of-veterans-affairs-pilot-program",
+      "title": "Section 2. Department of Veterans Affairs Pilot Program on Encouragement of Partnerships Between Veterans Service Organizations and Law Schools Providing Pro Bono Services to Veterans",
+      "text": "The Secretary of Veterans Affairs must run a two year test program. This program will help create partnerships between the Department of Veterans Affairs and nonprofit organizations and colleges. The Secretary must encourage partnerships between two types of groups. First, veterans service organizations that have trained staff who can help veterans file claims and appeals with the Department for disability pay and help with other legal problems. Second, law schools that provide free legal help and legal services to veterans. The Secretary must create rules to decide which organizations and colleges are in the best position to help veterans. The Secretary will encourage these groups to join the test program. The Secretary must run this test program in states that have the most veterans living there. The Secretary will decide which states these are. When running this test program, the Secretary must use social media to tell people about these partnerships and to let veterans know about them. The Secretary must write reports about this test program. These reports must be given to the Veterans Affairs Committees in both the Senate and House of Representatives. The Secretary must send a report no later than thirty days after each three month period ends until the test program stops. Each report must describe how social media was used during that three month period. Each report must also include the number of veterans who got help from law schools through the program during that three month period.",
+      "word_offset": 9,
+      "char_offset": 55
+    }
+  ]
+}

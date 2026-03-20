@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-s-95",
+  "title": "Parris Island Protection Act",
+  "short_title": "Parris Island Protection Act",
+  "congress": 119,
+  "bill_number": "S.95",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Armed Services.",
+  "version_hash": "04bf33f82a52460f",
+  "last_updated": "2026-03-20T14:48:54.845728+00:00",
+  "plain_summary": "This bill stops the government from spending any money to close or move the Marine Corps training base at Parris Island in South Carolina. The government also cannot use money to plan for closing or moving the base. Parris Island has been training Marines since 1891 and the bill wants to keep it open. The law would make sure this important military base stays where it is.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Read twice and referred to the Committee on Armed Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Military facilities and property",
+    "South Carolina"
+  ],
+  "sponsor_name": "Sen. Graham, Lindsey [R-SC]",
+  "sponsor_party": "R",
+  "sponsor_state": "SC",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Parris Island",
+    "Marine training base",
+    "military base closure",
+    "South Carolina Marines",
+    "Marine boot camp",
+    "military training facility",
+    "base relocation ban",
+    "Marine Corps training",
+    "military base protection",
+    "government spending military bases"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Parris Island Protection Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has found these facts. The Marine Corps Recruit Depot at Parris Island, South Carolina has been home to the Marine Corps since eighteen ninety one. Parris Island is an important cultural and historical place for the Marine Corps and represents the fighting spirit of the United States. Parris Island has different and challenging conditions that have prepared Marines for every major war since World War One. Parris Island has built a history of doing excellent work and faithful service to the United States. Parris Island is and will stay the main location for the Eastern Recruiting Region of the Marine Corps. The government needs to keep investing money to make sure Parris Island continues to serve the United States for many years to come.",
+      "word_offset": 10,
+      "char_offset": 57
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-of-closing-or-realignment",
+      "title": "Section 3  Prohibition of Closing or Realignment of Marine Corps Recruit Depot Located at Parris Island, South Carolina",
+      "text": "The government cannot use any federal money to close the Marine Corps Recruit Depot at Parris Island, South Carolina. The government also cannot use federal money to move the depot to a different location or to make any plans for closing it or moving it.",
+      "word_offset": 135,
+      "char_offset": 813
+    }
+  ]
+}

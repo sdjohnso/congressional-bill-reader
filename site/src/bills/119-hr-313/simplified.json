@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-313",
+  "title": "Natural Gas Tax Repeal Act",
+  "short_title": "Natural Gas Tax Repeal Act",
+  "congress": 119,
+  "bill_number": "HR.313",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "567601a377e3f03c",
+  "last_updated": "2026-03-20T10:57:20.158245+00:00",
+  "plain_summary": "This bill gets rid of a government program that made oil and gas companies pay fees when they released too much methane gas into the air. The program was run by the Environmental Protection Agency and was meant to help companies reduce pollution. The bill also takes back any leftover money that was saved for this program. Only big companies that released a lot of greenhouse gases had to pay these fees.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Rep. Pfluger, August [R-TX-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "methane gas fees",
+    "oil company pollution tax",
+    "gas company penalties",
+    "EPA methane program",
+    "greenhouse gas fees",
+    "natural gas pollution charges",
+    "environmental protection agency methane",
+    "oil gas methane emissions",
+    "pollution fee repeal",
+    "methane tax elimination"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Natural Gas Tax Repeal Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal",
+      "title": "Section 2 Repeal",
+      "text": "Section one hundred thirty six of the Clean Air Act is completely removed from the law. This section created a program that charged fees for methane gas pollution and provided rewards to petroleum and natural gas companies that reduced waste.",
+      "word_offset": 11,
+      "char_offset": 55
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-rescission",
+      "title": "Section 3 Rescission",
+      "text": "Any money that was set aside for the methane program but has not yet been spent is taken back by the government. This applies to all unused money from the program as it existed before this new law was passed.",
+      "word_offset": 51,
+      "char_offset": 298
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "bill_id": "119-hr-472",
+  "title": "Restore VA Accountability Act of 2025",
+  "short_title": "Restore VA Accountability Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.472",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Oversight and Investigations.",
+  "version_hash": "ee256d53264abd95",
+  "last_updated": "2026-03-20T15:28:26.444613+00:00",
+  "plain_summary": "This bill makes it easier for the Department of Veterans Affairs to fire, demote, or suspend employees who perform poorly or do something wrong. The VA would need strong evidence before taking these actions, but employees would have fewer ways to fight back and less time to appeal. The bill creates special rules for managers and supervisors that are different from regular employees. It also protects whistleblowers who report problems from being punished. These new rules would apply to cases going back to 2017.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-12-19",
+  "last_action_date": "2025-12-19",
+  "last_action_text": "Referred to the Subcommittee on Oversight and Investigations.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Congressional oversight",
+    "Department of Veterans Affairs",
+    "Employee performance",
+    "Employment discrimination and employee rights",
+    "Government employee pay, benefits, personnel management",
+    "Government studies and investigations",
+    "Judicial review and appeals",
+    "Veterans' medical care"
+  ],
+  "sponsor_name": "Rep. Bost, Mike [R-IL-12]",
+  "sponsor_party": "R",
+  "sponsor_state": "IL",
+  "cosponsor_count": 30,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "VA employees",
+    "veterans affairs firing",
+    "government worker accountability",
+    "VA misconduct",
+    "veterans department discipline",
+    "federal employee appeals",
+    "VA whistleblower protection",
+    "government job performance",
+    "veterans affairs reform",
+    "VA employee suspension"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Restore Department of Veterans Affairs Accountability Act of two thousand twenty five or the Restore VA Accountability Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-supervisors-removal-demotion-or-suspension",
+      "title": "Section 2  Supervisors: Removal, Demotion, or Suspension Based on Performance or Misconduct",
+      "text": "This section creates new rules for disciplining supervisors at the Department of Veterans Affairs. The Secretary can fire, demote, or suspend any supervisor if there is strong evidence that their work performance or bad behavior makes this necessary. When deciding on discipline, officials must only consider two things: how serious the offense was and how it relates to the person's job duties, and what level job the person has and their responsibilities. The Secretary must review the initial decision and can only uphold it if there is strong evidence to support it. Employees facing discipline get advance notice, can have a lawyer represent them, and can appeal through an internal process. The entire process from start to finish cannot take more than fifteen business days. Employees get seven business days to respond to the charges. The Secretary's final decision must be made within fifteen business days and must be in writing with specific reasons. Any appeal process must take fewer than twenty one days. Employees can ask a court to review the decision, but cannot appeal to the Merit Systems Protection Board. Courts can only overturn decisions that are unreasonable, did not follow proper procedures, or lack strong evidence. Courts cannot change the punishment unless there is a constitutional issue. If someone is demoted, they immediately get the lower pay rate and cannot be put on paid administrative leave during appeals. They only get paid if they show up to work or use approved leave time. Special protections exist for whistleblowers who report wrongdoing. The Office of Special Counsel can end investigations after giving written reasons to the employee. These rules apply to misconduct that happened after June twenty seventh two thousand seventeen. Covered individuals include supervisors and managers but not senior executives, certain appointed officials, people still in training periods, or political appointees.",
+      "word_offset": 29,
+      "char_offset": 179
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-senior-executives-modification-of-procedures",
+      "title": "Section 3  Senior Executives: Modification of Procedures to Remove, Demote, or Suspend Based on Performance or Misconduct",
+      "text": "This section changes the rules for disciplining senior executives at the Department of Veterans Affairs. The Secretary must now have strong evidence before taking action against a senior executive. When making decisions about discipline, officials must only consider how serious the offense was and how it relates to the person's duties, and what level job the person has. The Secretary must review the initial decision and can only uphold it if strong evidence supports it. Appeal processes must be completed within twenty one days after the final decision. Courts cannot change the punishment unless there is a constitutional issue. These rules apply to misconduct that happened after June twenty seventh two thousand seventeen.",
+      "word_offset": 333,
+      "char_offset": 2126
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-modification-of-disciplinary-procedures",
+      "title": "Section 4  Modification of Disciplinary Procedures for Employees of the Department of Veterans Affairs",
+      "text": "This section changes discipline rules for regular Department of Veterans Affairs employees. The Secretary must have strong evidence before taking action. When deciding on discipline, officials must consider several factors: how serious the offense was and how it relates to job duties, the person's job level and responsibilities, their past discipline record, their work history including length of service and job performance, and any special circumstances like job stress or harassment. The Secretary must review initial decisions and can only uphold them with strong evidence. The Secretary can fire, demote, or suspend employees without first putting them on a performance improvement plan. Appeals cannot challenge the punishment unless there is a constitutional issue. These procedures override any union contracts that conflict with them. The rules apply to misconduct after June twenty seventh two thousand seventeen. Covered individuals now include supervisors and managers in addition to regular employees. For Veterans Health Administration employees in certain positions, the Secretary can choose which discipline system to use.",
+      "word_offset": 446,
+      "char_offset": 2857
+    }
+  ]
+}

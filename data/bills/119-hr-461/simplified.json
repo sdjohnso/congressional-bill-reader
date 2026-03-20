@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-461",
+  "title": "Eliminate DEI in the Military Act",
+  "short_title": "Eliminate DEI in the Military Act",
+  "congress": 119,
+  "bill_number": "HR.461",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.",
+  "version_hash": "e3bf59c940db8800",
+  "last_updated": "2026-03-20T14:12:39.634067+00:00",
+  "plain_summary": "This bill would stop the military from using government money for diversity, equity, and inclusion programs. It covers all parts of the military, including the Army, Navy, Air Force, and military schools. The ban includes training sessions, educational materials, and jobs focused on diversity topics. If passed, the Department of Defense could no longer spend federal funds on any of these types of activities.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Department of Defense",
+    "Executive agency funding and structure",
+    "Military education and training"
+  ],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "military diversity programs",
+    "defense department funding",
+    "army navy air force training",
+    "diversity equity inclusion ban",
+    "military education spending",
+    "pentagon diversity training",
+    "military academy programs",
+    "defense budget restrictions",
+    "military workplace training",
+    "armed forces diversity jobs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Eliminate DEI in the Military Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-use-of-funds-for-diversity-equity-and-inclusion-activities-in-the-military",
+      "title": "Section 2  Prohibition on Use of Funds for Diversity, Equity, and Inclusion Activities in the Military",
+      "text": "The federal government cannot spend any money on DEI activities (diversity, equity, and inclusion activities) in any branch of the Armed Forces, any national service academy, or the Department of Defense. DEI activities include training sessions, programs, educational materials, job positions, and appointments that focus on diversity, equity, and inclusion. National service academies means the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the United States Coast Guard Academy, and the United States Merchant Marine Academy.",
+      "word_offset": 12,
+      "char_offset": 62
+    }
+  ]
+}

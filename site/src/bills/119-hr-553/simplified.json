@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-553",
+  "title": "BRAVE Act",
+  "short_title": "BRAVE Act",
+  "congress": 119,
+  "bill_number": "HR.553",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Health.",
+  "version_hash": "c138bd6d70c11173",
+  "last_updated": "2026-03-20T15:45:50.864826+00:00",
+  "plain_summary": "The BRAVE Act tells the Department of Veterans Affairs to create a new system to help veterans who have been through scary or stressful events. This system will reach out to veterans who get health care from the VA and offer them information about mental health services that can help them. Veterans can choose if they want to get this information or not. The VA has to work with the military's program that helps soldiers when they leave the service. The VA must set up this new system within two years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-20",
+  "last_action_date": "2025-02-20",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Health promotion and preventive care",
+    "Mental health",
+    "Veterans' medical care"
+  ],
+  "sponsor_name": "Rep. Wittman, Robert J. [R-VA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans mental health",
+    "PTSD help",
+    "trauma support",
+    "veteran counseling",
+    "military stress",
+    "VA mental health services",
+    "veteran outreach program",
+    "combat trauma",
+    "veteran psychological help",
+    "military mental health"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Be Ready to Assist Veterans in Extremis Act or the BRAVE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-establishment-of-department-of-veterans-affairs-system-for-patient-outreach-relating-to-mental-health-care",
+      "title": "Section 2 Establishment of Department of Veterans Affairs System for Patient Outreach Relating to Mental Health Care",
+      "text": "This section creates a new system for reaching out to veterans about mental health care. The Secretary of Veterans Affairs must create a patient outreach system. This system will help veterans who are already enrolled in the VA health care system and who have been through traumatic or very stressful events. These veterans can choose to receive information about mental health and mental health care services that are available to them. When running this outreach system, the Secretary of Veterans Affairs should try to work together with the Transition Assistance Program that is run by the Department of Defense. The Secretary must set up this new outreach system within two years after this law is passed.",
+      "word_offset": 18,
+      "char_offset": 89
+    }
+  ]
+}

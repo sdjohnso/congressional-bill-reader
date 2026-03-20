@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-254",
+  "title": "American Science First Act",
+  "short_title": "American Science First Act",
+  "congress": 119,
+  "bill_number": "HR.254",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Science, Space, and Technology.",
+  "version_hash": "673170a190497534",
+  "last_updated": "2026-03-20T14:40:34.552530+00:00",
+  "plain_summary": "The American Science First Act stops the National Science Foundation from giving money or help to people and groups that work with certain foreign companies. It mainly targets anyone connected to Chinese military companies or other foreign businesses that are on government watch lists. This includes companies that are owned by or related to these restricted businesses. The bill is meant to prevent American science funding from going to organizations that might have ties to foreign militaries.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Allen, Rick W. [R-GA-12]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "science funding ban",
+    "china military companies",
+    "foreign business restrictions",
+    "national science foundation limits",
+    "chinese company blacklist",
+    "american research protection",
+    "foreign military ties",
+    "science grants blocked",
+    "china defense contractors",
+    "research funding security",
+    "foreign influence prevention",
+    "government watchlist companies"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the American Science First Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-restriction-on-national-science-foundation-grants",
+      "title": "Section 2 Restriction on National Science Foundation Grants and Other Forms of Assistance to Chinese Communist Military Companies and Their Affiliates",
+      "text": "The Director of the National Science Foundation cannot give grants or other help to any person or organization that works with certain Chinese companies. This includes people or groups that have research partnerships, joint business deals, or contracts with these companies. The banned companies include those on a special government list called Supplement Number Four to part seven hundred forty-four of the Export Administration Regulations. The ban also covers companies on lists required by two defense laws from nineteen ninety-nine and twenty twenty-one that identify Chinese military companies. Finally, the ban includes any parent companies, smaller companies owned by them, business partners, or any organization owned or controlled by these banned companies. Export Administration Regulations means the rules found in a specific section of the Code of Federal Regulations that control what can be exported from America.",
+      "word_offset": 10,
+      "char_offset": 55
+    }
+  ]
+}

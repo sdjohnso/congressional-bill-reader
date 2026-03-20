@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-612",
+  "title": "Health Care Providers Safety Act of 2025",
+  "short_title": "Health Care Providers Safety Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.612",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "b35e4707f3384ab9",
+  "last_updated": "2026-03-20T14:56:04.947975+00:00",
+  "plain_summary": "The Health Care Providers Safety Act of 2025 lets the government give money to hospitals, clinics, and other places where people get medical care. This money helps these places buy better security equipment and make their buildings safer. Health care providers can use the grants to pay for things like security cameras, computer protection systems, and building improvements. The goal is to keep patients, doctors, nurses, and other workers safe while they are at medical facilities.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Computer security and identity theft",
+    "Computers and information technology",
+    "Health facilities and institutions",
+    "Health programs administration and funding"
+  ],
+  "sponsor_name": "Rep. Escobar, Veronica [D-TX-16]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 72,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "hospital security",
+    "medical facility safety",
+    "healthcare worker protection",
+    "clinic security cameras",
+    "doctor office safety",
+    "hospital grants",
+    "medical building security",
+    "healthcare cybersecurity",
+    "patient safety funding",
+    "nurse protection",
+    "medical center security equipment"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Health Care Providers Safety Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-grants-to-health-care-providers-to-enhance-security",
+      "title": "Section 2 Grants to Health Care Providers to Enhance Security",
+      "text": "This section adds a new part to existing health care law. The new part allows the Secretary of Health and Human Services to give money grants to health care providers. These grants help pay for security services and improvements to keep their buildings, workers, and patients safe. The grants make sure people can safely get to health care services. Health care providers who get these grants can use the money to pay for needed security services and safety improvements. This includes security cameras that record video, better protection of private patient information on computers, and changes to buildings to make them more secure.",
+      "word_offset": 16,
+      "char_offset": 89
+    }
+  ]
+}

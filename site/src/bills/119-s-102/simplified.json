@@ -1,0 +1,89 @@
+{
+  "bill_id": "119-s-102",
+  "title": "ROOMIE Act",
+  "short_title": "ROOMIE Act",
+  "congress": 119,
+  "bill_number": "S.102",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "5d5f0637ee5f0bc0",
+  "last_updated": "2026-03-20T13:50:36.856681+00:00",
+  "plain_summary": "The ROOMIE Act requires federal government agencies to bring most of their workers back to the office full-time. At least 80 percent of employees must work in their office buildings Monday through Friday, and agencies must use at least 60 percent of their office space. If an agency does not have enough workers to fill 60 percent of its building, it must make a plan to share space with other agencies or find more employees. Agencies that cannot meet these rules must sell their buildings or end their rental agreements.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Government buildings, facilities, and property",
+    "Government employee pay, benefits, personnel management",
+    "Lease and rental services"
+  ],
+  "sponsor_name": "Sen. Kennedy, John [R-LA]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal workers back to office",
+    "government employees return to work",
+    "remote work ban",
+    "work from home restrictions",
+    "federal office buildings",
+    "government workplace requirements",
+    "federal telework limits",
+    "office space utilization",
+    "government real estate",
+    "federal building occupancy",
+    "mandatory office attendance",
+    "federal workforce policy"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Reinforce Occupancy Obligations for Maximized Interagency Efficiency Act or the ROOMIE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, these words mean specific things. Administrator means the person who runs the General Services Administration (the agency that manages government buildings). Federal agency means any department or office of the United States government. Federal civilian real property means buildings and land owned or used by the government for civilian purposes, not military ones. Usable square feet means the amount of office space that can actually be used for work, as defined by the Administrator.",
+      "word_offset": 18,
+      "char_offset": 119
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-findings",
+      "title": "Section 3  Findings",
+      "text": "Congress has found these facts. According to a two thousand twenty three review by the Government Accountability Office, seventeen federal agencies used only twenty five percent or less of their main office buildings on average. One agency headquarters would only fill sixty seven percent of its office space even if all employees worked in the office. According to a two thousand twenty four report by the Public Buildings Reform Board, the federal government owns or rents almost ninety million square feet of property in the Washington D.C. area. A sample of federal buildings in Washington D.C. were only twelve percent full on average. The report said billions of dollars are being spent on buildings that should be sold because they are barely used. Some federal agencies want to keep important buildings even though they barely use them. According to a two thousand twenty three report by the General Services Administration Inspector General, government buildings can be dangerous to people's health if they are not used enough. Since July two thousand twenty three, dangerous levels of Legionella bacteria, which can cause serious illness and death, were found in six government buildings that are open to the public.",
+      "word_offset": 95,
+      "char_offset": 620
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-in-person-work-requirements",
+      "title": "Section 4  In-Person Work Requirements",
+      "text": "Federal agencies must change their policies. Within one hundred twenty days after this law takes effect, the head of each federal agency must change their agency's rules if needed. They must require at least eighty percent of their employees to work in the office Monday through Friday each week, except for federal holidays as confirmed by the Director of the Office of Personnel Management. They must also make sure that at least sixty percent of their usable office space in any government building they own, rent, or control is actually occupied by their employees, as confirmed by the Administrator. If an agency does not have enough employees to fill sixty percent of their office space, the head of that agency has one year after this law takes effect to create and send an occupancy plan to the Administrator and specific congressional committees. This plan must explain how the agency will reach sixty percent occupancy by using employees from any federal agency, with special focus on employees from different agencies working together. One year after the one hundred twenty day deadline, the Comptroller General of the United States must send Congress a report about how well agencies are following these requirements, as confirmed by the Director of the Office of Personnel Management and the Administrator.",
+      "word_offset": 291,
+      "char_offset": 1847
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-noncompliance",
+      "title": "Section 5  Noncompliance",
+      "text": "If a federal agency does not follow the requirements in Section 4 by the required deadlines, there will be consequences. The agency or the General Services Administration must sell, end the lease, or be banned from renewing the lease for that government building. If the agency owns or controls the building where their underused office space is located, they or the General Services Administration must sell the building. If the agency rents the building where their underused office space is located, they or the General Services Administration must take action. If the lease allows early termination, they must end the lease early and cannot sign it again. If the lease does not allow early termination, they cannot renew the lease when it expires.",
+      "word_offset": 505,
+      "char_offset": 3167
+    }
+  ]
+}

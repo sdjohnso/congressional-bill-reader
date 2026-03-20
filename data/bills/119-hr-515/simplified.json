@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-515",
+  "title": "Ensuring Military Readiness Not Discrimination Act",
+  "short_title": "Ensuring Military Readiness Not Discrimination Act",
+  "congress": 119,
+  "bill_number": "HR.515",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Armed Services.",
+  "version_hash": "8ff36aaff12b17b7",
+  "last_updated": "2026-03-20T13:46:20.560230+00:00",
+  "plain_summary": "This bill changes the rules for who can join and serve in the US military. It says the military can only judge people based on whether they can do the job well. The military cannot reject someone or treat them unfairly because of their race, religion, sex, gender identity, sexual orientation, or physical differences. All military policies must treat everyone equally no matter what these personal characteristics are.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Armed Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Military personnel and dependents",
+    "Sex, gender, sexual orientation discrimination"
+  ],
+  "sponsor_name": "Rep. Jacobs, Sara [D-CA-51]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 42,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "military discrimination",
+    "LGBTQ military service",
+    "transgender military ban",
+    "military equality",
+    "gender identity military",
+    "sexual orientation military",
+    "military hiring fairness",
+    "don't ask don't tell",
+    "military inclusion policy",
+    "armed forces discrimination"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Ensuring Military Readiness Not Discrimination Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-nondiscrimination-with-respect-to-service-in-the-armed-forces",
+      "title": "Section 2 Nondiscrimination With Respect to Service in the Armed Forces",
+      "text": "This section changes the military rules to stop discrimination. The military can only look at whether someone can do the job when deciding who can serve. They cannot make decisions based on a person's race, skin color, what country they came from, religion, or sex. This includes not discriminating against someone because of their gender identity (how they see themselves as male, female, or something else), sexual orientation (who they are attracted to), or sex characteristics (including people born with intersex traits, which means having physical features that are not clearly male or female). All military policies for service members must treat everyone equally. No one can be treated differently because of their race, skin color, national origin, religion, or sex, including gender identity, sexual orientation, or sex characteristics.",
+      "word_offset": 12,
+      "char_offset": 79
+    }
+  ]
+}

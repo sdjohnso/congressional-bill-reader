@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-546",
+  "title": "Investing in Safer Traffic Stops Act of 2025",
+  "short_title": "Investing in Safer Traffic Stops Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.546",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Highways and Transit.",
+  "version_hash": "4d7beaf71999d551",
+  "last_updated": "2026-03-20T13:31:20.169289+00:00",
+  "plain_summary": "This bill tells the Department of Justice to create a program that gives money to state and local governments. The money helps these governments use regular people who are not police officers or special cameras to deal with people who break traffic rules instead of having police officers do it. The goal is to make traffic stops safer. Congress is setting aside one hundred million dollars each year from 2026 to 2031 to pay for this program.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-17",
+  "last_action_date": "2025-01-17",
+  "last_action_text": "Referred to the Subcommittee on Highways and Transit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Community life and organization",
+    "Computers and information technology",
+    "Law enforcement administration and funding",
+    "Motor vehicles",
+    "Roads and highways",
+    "State and local government operations",
+    "Transportation safety and security"
+  ],
+  "sponsor_name": "Rep. Torres, Ritchie [D-NY-15]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "traffic stops",
+    "police alternatives",
+    "civilian traffic enforcement",
+    "traffic safety",
+    "automated traffic cameras",
+    "non-police traffic tickets",
+    "safer traffic enforcement",
+    "traffic violation cameras",
+    "community traffic control",
+    "traffic stop reform",
+    "automated speeding tickets",
+    "civilian parking enforcement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Investing in Safer Traffic Stops Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-grant-for-civilian-traffic-violation-enforcement",
+      "title": "Section 2. Grant for Civilian Traffic Violation Enforcement",
+      "text": "The Attorney General must create a new grant program within one hundred eighty days after this law is passed. This program will give money to local governments, state governments, or tribal governments. The money helps these governments make sure that traffic violations are handled by civilians or traffic monitoring technology instead of police officers.\n\nThe Attorney General can give grants from this program to local, state, or tribal government groups.\n\nMoney from these grants can only be used to make sure civilians or traffic monitoring technology handle traffic violations. This includes buying the technology and hiring civilians to do this work.\n\nCongress approves spending one hundred million dollars each year from twenty twenty six through twenty thirty one to run this program.\n\nIn this law, the word civilian means a person who works for a local, state, or tribal government to enforce traffic laws but is not a police officer.",
+      "word_offset": 16,
+      "char_offset": 87
+    }
+  ]
+}

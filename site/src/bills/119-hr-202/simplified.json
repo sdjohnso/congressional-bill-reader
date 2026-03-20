@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-202",
+  "title": "Commission to Relocate the Federal Bureaucracy Act",
+  "short_title": "Commission to Relocate the Federal Bureaucracy Act",
+  "congress": 119,
+  "bill_number": "HR.202",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "ea48457dabddd591",
+  "last_updated": "2026-03-20T11:37:18.431041+00:00",
+  "plain_summary": "This bill creates a special group of government officials to study moving federal agencies away from Washington DC. The group will look at moving agencies that don't handle national security to other parts of the United States. They have one year to study this idea and write a report for Congress. The report will include their recommendations about which agencies should move and where they should go.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Advisory bodies",
+    "Congressional oversight",
+    "Executive agency funding and structure",
+    "Government buildings, facilities, and property",
+    "Government studies and investigations"
+  ],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "move government agencies",
+    "relocate federal offices",
+    "government jobs outside DC",
+    "federal workers relocation",
+    "move bureaucracy",
+    "government decentralization",
+    "federal agencies leaving Washington",
+    "spread out government offices",
+    "move federal departments",
+    "government relocation study"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Commission to Relocate the Federal Bureaucracy Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-agency-relocation-commission",
+      "title": "Section 2  Agency Relocation Commission",
+      "text": "This section creates a special group to study moving government offices away from Washington DC. First, it explains what certain words mean. An agency is any part of the federal government as defined by existing law. The Commission is the special group this law creates. A covered agency means any government office that is not related to national security, as the President decides. Telework means working from home or other locations away from the office, as defined by existing law. The Washington DC metropolitan area includes Washington DC itself, two counties in Maryland called Montgomery and Prince George's, and four counties plus one city in Virginia called Arlington, Fairfax, Loudon, Prince William Counties and Alexandria.\n\nThe law creates a Commission whose job is to study moving covered agencies from the Washington DC area to other places around the United States. This Commission will have sixteen members. These members are the Director of the White House Presidential Personnel Office, the Director of the Office of Personnel Management, the Comptroller General of the United States, the Director of the Office of Management and Budget, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Education, the Secretary of Energy, the Secretary of Health and Human Services, the Secretary of Housing and Urban Development, the Secretary of the Interior, the Secretary of Labor, the Secretary of Transportation, the Secretary of Veterans Affairs, the Administrator of the Environmental Protection Agency, and the Commissioner of Food and Drugs.\n\nWithin one year after this law passes, the Commission must give Congress a report about their study. When writing this report, the Commission must think about several things when deciding where to move agencies. They must consider whether moving would save money, including whether the new area has lower living costs than the national average. They must check if the new area has enough roads, buildings, and private land that could be used for government offices. They must see if the new area has businesses that relate to what the government agency does, so these businesses could work together with the agency and help it do its job better. They must also look at whether a large part of the agency's workers have been working from home during the five years before this law was passed.",
+      "word_offset": 13,
+      "char_offset": 79
+    }
+  ]
+}

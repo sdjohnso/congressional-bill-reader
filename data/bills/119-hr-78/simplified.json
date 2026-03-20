@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-78",
+  "title": "Pregnant Women Health and Safety Act of 2025",
+  "short_title": "Pregnant Women Health and Safety Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.78",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be ",
+  "version_hash": "706cb16b90b1874d",
+  "last_updated": "2026-03-20T11:34:36.090314+00:00",
+  "plain_summary": "This bill creates new rules for doctors who perform abortions and abortion clinics. Doctors must have permission to admit patients to a nearby hospital and must tell patients where they can get help if something goes wrong after the procedure. If doctors don't follow these rules, they can be fined or go to jail for up to two years. Abortion clinics must get a license from their state and follow the same safety rules as surgery centers if they want to receive money from the government. Women who get abortions cannot be punished under this law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such p",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Abortion",
+    "Criminal investigation, prosecution, interrogation",
+    "Health facilities and institutions",
+    "Health information and medical records",
+    "Health personnel",
+    "Health programs administration and funding",
+    "Licensing and registrations"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "abortion doctor rules",
+    "abortion clinic safety",
+    "hospital admission requirements",
+    "abortion regulations",
+    "pregnancy termination laws",
+    "women's health clinic licensing",
+    "abortion procedure safety",
+    "medical facility requirements",
+    "abortion provider penalties",
+    "pregnancy health services"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Pregnant Women Health and Safety Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirement-for-physicians-relating-to-the-performance-of-abortions",
+      "title": "Section 2 Requirement for Physicians Relating to the Performance of Abortions",
+      "text": "This section changes the federal criminal code to add new rules for doctors who perform abortions. A physician means a medical doctor or doctor of osteopathy who is legally allowed to practice medicine and surgery in their state, or any other person legally allowed by the state to perform abortions. Any physician who performs an abortion must have admitting privileges at a hospital within fifteen miles of their main medical office and the place where the abortion is performed. Admitting privileges means the doctor has the right to bring patients to that hospital for treatment. The doctor must also tell the patient where they can get follow-up care at that hospital if there are problems after the abortion. If a doctor performs an abortion in a way that affects business between states or with other countries and fails to follow these rules, they are breaking federal law. A doctor who breaks this law can be fined, sent to prison for up to two years, or both. However, the woman who gets the abortion cannot be prosecuted under this law or charged with conspiracy or helping to break this law.",
+      "word_offset": 17,
+      "char_offset": 93
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-requirement-of-abortion-clinics",
+      "title": "Section 3 Requirement of Abortion Clinics",
+      "text": "To receive any federal money or help, an abortion clinic must be licensed by the state where it operates. The clinic must also follow the same rules that apply to ambulatory surgery centers under Medicare law, except for any rule about needing a certificate of public need for state licensing. An ambulatory surgery center is a medical facility where patients can have surgery and go home the same day. A state board of health can excuse certain building requirements if the Secretary of Health and Human Services thinks it is appropriate. An abortion clinic means any medical facility, other than a hospital or ambulatory surgery center, that performs abortions in the first, second, or third trimester of pregnancy during any twelve month period. A trimester is a three month period of pregnancy.",
+      "word_offset": 206,
+      "char_offset": 1197
+    }
+  ]
+}

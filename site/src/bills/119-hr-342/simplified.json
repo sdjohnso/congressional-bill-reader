@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hr-342",
+  "title": "Honor Inauguration Day Act",
+  "short_title": "Honor Inauguration Day Act",
+  "congress": 119,
+  "bill_number": "HR.342",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "9419a8013a0d9ff3",
+  "last_updated": "2026-03-20T13:55:31.479329+00:00",
+  "plain_summary": "This bill says the American flag must be flown at its highest point on every presidential Inauguration Day. Even if other rules say the flag should be lowered for any reason, it must still fly high on this special day. Congress wants to do this to celebrate American voting and how power passes peacefully from one president to the next. The flag flying high on Inauguration Day shows respect for these important American traditions.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Commemorative events and holidays",
+    "National symbols"
+  ],
+  "sponsor_name": "Rep. De La Cruz, Monica [R-TX-15]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 17,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "flag flying high",
+    "inauguration day",
+    "american flag",
+    "presidential inauguration",
+    "flag at full staff",
+    "inauguration ceremony",
+    "president swearing in",
+    "flag rules",
+    "peaceful transfer of power",
+    "voting celebration",
+    "flag lowering exceptions",
+    "inauguration traditions"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Honor Inauguration Day Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2 Findings",
+      "text": "Congress believes these things are true. The United States has a long history of holding elections that continues today. This history sets an example and inspires other countries around the world. In America, voting is the most important way that people express what they want their government to do. The choices that people make when they vote should be celebrated. To remember and celebrate how people express their wishes through voting, the American flag should always fly at its highest point on Inauguration Day. The flag should not be lowered on that day.",
+      "word_offset": 10,
+      "char_offset": 55
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-requirement-for-united-states-flag-on-inauguration-day",
+      "title": "Section 3 Requirement for United States Flag on Inauguration Day",
+      "text": "Even if other laws say something different, the flag of the United States must be flown at its highest point on every presidential Inauguration Day. Inauguration Day is the day when a new president is sworn into office.",
+      "word_offset": 103,
+      "char_offset": 618
+    }
+  ]
+}

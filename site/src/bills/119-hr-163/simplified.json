@@ -1,0 +1,84 @@
+{
+  "bill_id": "119-hr-163",
+  "title": "Finish the Wall Act",
+  "short_title": "Finish the Wall Act",
+  "congress": 119,
+  "bill_number": "HR.163",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Border Security and Enforcement.",
+  "version_hash": "2e473ade8aafc89d",
+  "last_updated": "2026-03-20T15:33:53.479542+00:00",
+  "plain_summary": "This bill requires the Department of Homeland Security to restart building the wall along the border between the United States and Mexico. The government must use money that was already set aside for the wall since 2016 and cannot cancel contracts that were made before January 20, 2021. The bill also says that border facilities must follow federal laws about collecting DNA samples from people who are not US citizens when they are detained at the border. Within two weeks of this bill becoming law, the Department of Homeland Security must tell Congress that all border facilities are following these DNA collection rules.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Subcommittee on Border Security and Enforcement.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Congressional oversight",
+    "Department of Homeland Security",
+    "Executive agency funding and structure",
+    "Genetics",
+    "Immigration status and procedures",
+    "Public contracts and procurement"
+  ],
+  "sponsor_name": "Rep. Higgins, Clay [R-LA-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 28,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border wall",
+    "Mexico border",
+    "immigration wall",
+    "border security",
+    "wall construction",
+    "border fence",
+    "immigration control",
+    "DNA testing immigrants",
+    "border patrol",
+    "illegal immigration",
+    "homeland security wall",
+    "immigration detention"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Finish the Wall Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-border-wall-system-construction",
+      "title": "Section 2  Border Wall System Construction",
+      "text": "The Secretary of Homeland Security must restart building the border wall between the United States and Mexico within twenty four hours of this law being passed. This includes all wall construction work that was happening or being planned before January twentieth, two thousand twenty one. The Secretary cannot cancel any contracts for border wall construction that were made on or before January twentieth, two thousand twenty one. The Secretary must spend all money that Congress gave for border wall construction starting from October first, two thousand sixteen. Within thirty days of this law being passed, the Secretary must give Congress a plan to finish all border wall construction by September thirtieth, two thousand twenty six. Within ninety days of this law being passed, the Secretary must give Congress a detailed plan with quarterly progress goals and cost estimates for completing all parts of the border wall system. This includes tactical infrastructure (things like boat ramps, gates, checkpoints, lights, and roads) and technology (things like surveillance and detection systems) that the Department of Homeland Security identified before January twentieth, two thousand twenty one. The Secretary must honor all written agreements that the Department of Homeland Security made with private citizens, state governments, local governments, tribal governments, and other groups about current and future border wall construction.",
+      "word_offset": 10,
+      "char_offset": 48
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-dna-collection-consistent-with-federal-law",
+      "title": "Section 3  DNA Collection Consistent with Federal Law",
+      "text": "Within fourteen days of this law being passed, the Secretary of Homeland Security must make sure that U.S. Customs and Border Protection follows the DNA Fingerprint Act of two thousand five at all border facilities. This applies to all adults in custody, including adults who are part of families. The Secretary must confirm this to the House Committee on Homeland Security and the Senate Committee on Homeland Security and Governmental Affairs.",
+      "word_offset": 225,
+      "char_offset": 1494
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-definitions",
+      "title": "Section 4  Definitions",
+      "text": "In this law, appropriate congressional committees means the House Committee on Homeland Security, the House Committee on Appropriations, the Senate Committee on Homeland Security and Governmental Affairs, and the Senate Committee on Appropriations. Tactical infrastructure means boat ramps, access gates, checkpoints, lighting, and roads that are part of a border wall system. Technology means border surveillance and detection technology, including linear ground detection systems, that are part of a border wall system.",
+      "word_offset": 296,
+      "char_offset": 1940
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "bill_id": "119-hr-624",
+  "title": "RIFLE Act of 2025",
+  "short_title": "RIFLE Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.624",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "c0826b3856754b9a",
+  "last_updated": "2026-03-20T14:53:46.770359+00:00",
+  "plain_summary": "The RIFLE Act of 2025 changes how the government oversees gun dealers and stores. The bill makes it harder for the government to punish gun dealers by requiring officials to work with dealers to fix problems before taking away their licenses. It also makes the government prove that dealers broke the law on purpose, which is harder to do than before. The bill requires the government to have clear written rules for checking gun stores and limits how much information about gun buyers can be shared with other agencies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Administrative remedies",
+    "Business records",
+    "Civil actions and liability",
+    "Congressional oversight",
+    "Department of Justice",
+    "Evidence and witnesses",
+    "Firearms and explosives",
+    "Government information and archives",
+    "Internet, web applications, social media",
+    "Licensing and registrations",
+    "Retail and wholesale trades"
+  ],
+  "sponsor_name": "Rep. Mann, Tracey [R-KS-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "KS",
+  "cosponsor_count": 34,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gun dealer licenses",
+    "gun store regulations",
+    "firearm dealer oversight",
+    "gun shop inspections",
+    "gun dealer penalties",
+    "firearm license revocation",
+    "gun store compliance",
+    "gun dealer enforcement",
+    "firearm business rules",
+    "gun shop government oversight"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Reining In Federal Licensing Enforcement Act of two thousand twenty five or the RIFLE Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-graduated-penalties-for-civil-violations-by-federal-firearms-licensees",
+      "title": "Section 2 Graduated Penalties for Civil Violations by Federal Firearms Licensees",
+      "text": "This section changes how the government handles violations by people who have federal licenses to sell guns. If the Attorney General finds that a gun dealer broke the rules, the response depends on whether the violation was done on purpose or by accident. For violations that were not done on purpose, the Attorney General must tell the dealer about the problem and work with them to fix it within a reasonable amount of time. For violations that were done on purpose, if working with the dealer to fix the problem does not work and a warning would not lead to future compliance, the Attorney General can take stronger action. If the dealer has never violated the rules before, the Attorney General can suspend their license for up to thirty days. If the dealer has violated rules before, the Attorney General can take away their license completely. The government must assume that violations were not done on purpose unless there is clear and convincing evidence that they were. Multiple violations during one transaction count as only one violation. Multiple record keeping mistakes count as only one violation. The government cannot start enforcement action more than three years after a violation happened, or three years after discovering a violation that was hidden on purpose. Before taking action, the government must tell the dealer why they are considering action and give the dealer a chance to fix the problem or explain their side. At least sixty days before any penalty takes effect, the Attorney General must send the dealer a written notice by certified mail explaining the decision, the facts it was based on, the penalty, and that the dealer can request a hearing within sixty days. Within five days of sending this notice, the Attorney General must tell the dealer when the notice was sent and provide proof it was delivered. A hearing will only happen if the dealer requests it within sixty days, and the hearing must be open to the public. If the dealer requests a hearing, any penalty must be delayed until the hearing is resolved, unless the license is being revoked and the Attorney General proves with clear evidence that the dealer broke the rules on purpose and continuing to operate would be an immediate threat to public safety. Within at least sixty days of receiving a hearing request, an administrative law judge must hold a hearing at a location convenient for the dealer. If the dealer wants to question any witnesses the Attorney General plans to call, the judge must allow this and adjust the hearing date. At least thirty days before the hearing, the Attorney General must give the dealer a list of witnesses and what they will say, copies of all documents that will be used as evidence, copies of all documents the decision was based on, a complete copy of the dealer's file, and a sworn statement about whether there is a criminal investigation of the dealer. Within one hundred twenty days after the hearing, the judge must issue a written decision with findings and conclusions about whether to uphold, change, or reverse the decision. The judge must make a fresh decision not based on assuming the Attorney General was right, and the Attorney General must prove their case with clear and convincing evidence. The judge can only revoke a license if they find with clear evidence that the Attorney General told the dealer in writing about all reasons for the action, gave the dealer a reasonable chance to comply, and the dealer has not complied and is unlikely to comply in the future. The Attorney General must give the dealer a complete copy of the hearing transcript within sixty days. If requested, the Attorney General must delay any penalty until there is a final decision that cannot be appealed, unless revoking a license where they prove the violation was willful and continued operation poses an immediate threat to public safety. The judge's decision is final and can only be reviewed as provided in another section. This section does not affect the Attorney General's authority under certain background check rules, except those rules must follow the procedures outlined here.",
+      "word_offset": 26,
+      "char_offset": 146
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-consideration-of-federal-firearms-license-applications",
+      "title": "Section 3 Consideration of Federal Firearms License Applications",
+      "text": "This section changes how the government reviews applications for gun dealer licenses. The Attorney General must make a preliminary decision about whether to approve or deny an application. If the preliminary decision is to deny the application, the Attorney General must tell the applicant in writing why and give them a chance to add more information and request a hearing. If the applicant requests a hearing on time, the Attorney General must hold the hearing at a location convenient for the applicant and tell them when and where it will be. The Attorney General cannot deny an application based on any prior violation if more than five years have passed since the applicant's previous license was ended, unless the applicant is someone who is prohibited from having firearms. The Attorney General also cannot deny an application just because the applicant worked for or was responsible for a business whose license was revoked, unless there is clear evidence the applicant willfully violated the law in that role. The same rule applies to spouses, former spouses, or children of someone whose license was revoked. The same procedures used for license violations must also be used for license applications.",
+      "word_offset": 721,
+      "char_offset": 4276
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-definition-of-willfully-certain-evidence-inadmissible-to-prove-willfulness",
+      "title": "Section 4 Definition of Willfully and Certain Evidence Inadmissible to Prove Willfulness",
+      "text": "This section defines what willfully means when talking about violations by gun dealers. A violation is willful if the person had actual knowledge of a clearly established legal duty, understood what the law required them to do, and deliberately chose to ignore that legal duty. Certain types of evidence cannot be used to prove someone acted willfully. The government cannot use evidence that a person received documents about requirements or signed papers saying they understand their legal obligations to prove the person knew what the law required. The government also cannot use evidence that a person has substantial experience as a gun dealer or has successfully followed the law in other cases to prove they knew what the law required. When deciding if conduct was willful, the entire historical record of the gun dealer must be considered.",
+      "word_offset": 917,
+      "char_offset": 5488
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-reconsideration-of-denied-applications-from-former-firearm-licensees-in-light-of-new-rules-pertaining-to-willfullness-reversal-of-license-revocations-suspensions-and-denials-made-while-certain-atf-orders-are-in-effect",
+      "title": "Section 5 Reconsideration of Denied Applications from Former Firearm Licensees and Reversal of License Actions Made While Certain ATF Orders Are in Effect",
+      "text": "The Attorney General must reconsider applications for gun dealer licenses that were denied before this law was passed by people who previously had such licenses. When reconsidering these applications, the Attorney General must use the new rules about willfulness defined in this law. For anyone whose license was revoked or suspended, or whose application was denied, while certain ATF Orders numbered five thousand three hundred seventy point one E, F, or G were in effect, the Attorney General must reverse these actions unless there is clear evidence that letting the person continue operating would pose an immediate threat to public safety. This means reinstating revoked licenses, ending suspensions, or reconsidering denied applications. The government must also pay back all legal fees these people had to pay while these Orders were in effect for proceedings about their licenses. Within one hundred twenty days of this law taking effect, the Attorney General must create a website called gunrightsrestored.gov where people can submit claims for reimbursement of their legal fees. The Attorney General must also publish information in the Federal Register about how to submit these claims. The Attorney General cannot delegate setting up this website to anyone outside the Office of the Attorney General or Deputy Attorney General. Within six months of this law taking effect, both the Attorney General and the Inspector General of the Department of Justice must prepare separate reports for congressional judiciary committees about how this section is being implemented.",
+      "word_offset": 1054,
+      "char_offset": 6336
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-establishment-of-formal-inspection-examination-and-investigative-standards",
+      "title": "Section 6 Establishment of Formal Inspection, Examination, and Investigative Standards",
+      "text": "The Attorney General must create written standards for how the Bureau of Alcohol, Tobacco, Firearms, and Explosives conducts inspections, examinations, or investigations of possible violations of federal gun laws. These standards must also cover how the Bureau makes decisions about denying, suspending, or revoking licenses or taking other negative actions against applicants or license holders. The standards must include factors that reduce penalties that must be considered before the Attorney General takes any negative action against an applicant or license holder. These written standards must be made available to the public and provided to applicants and license holders when they apply for licenses and whenever they ask for them.",
+      "word_offset": 1296,
+      "char_offset": 7917
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-limitations-on-use-of-firearms-purchaser-information",
+      "title": "Section 7 Limitations on Use of Firearms Purchaser Information",
+      "text": "This section limits how information about gun purchasers can be shared. Information identifying people who have bought guns or ammunition and are legally allowed to do so can only be shared with courts, federal, state, or local law enforcement agencies, or prosecutors. Any agency receiving this information must certify that they will not share it with anyone else besides these specified entities.",
+      "word_offset": 1405,
+      "char_offset": 8658
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-liquidation-of-inventory-in-federal-firearms-license-expiration-surrender-or-revocation-cases",
+      "title": "Section 8 Liquidation of Inventory in Federal Firearms License Expiration, Surrender, or Revocation Cases",
+      "text": "When a gun dealer's license expires, is surrendered, or is revoked, they get ninety days from the effective date to sell off their business inventory of firearms. This time can be extended if there is a good reason. During this ninety day period, the license is still considered valid despite being expired, surrendered, or revoked, and the Attorney General must issue authorization letters that other gun dealers and commercial third parties can rely on. Before the disposition period ends, the entity can transfer any remaining firearms to themselves or to the interest holders, at which point the firearms become a personal collection. This ninety day rule does not apply if a federal district court finds with clear and convincing evidence that letting the person continue operating the firearms business would pose an immediate and grave threat to public safety. In that case, the person can transfer all firearms from their business inventory to their personal collection or to another licensed dealer for consignment or other liquidation.",
+      "word_offset": 1467,
+      "char_offset": 9058
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-opportunity-to-cure-violations-after-acquisition-of-firearms-business",
+      "title": "Section 9 Opportunity to Cure Violations After Acquisition of Firearms Business",
+      "text": "If the Attorney General learns that a licensed gun business has been transferred to a surviving spouse or child of the license holder, to an executor, administrator, or legal representative of a deceased or incompetent license holder, to a receiver or trustee in bankruptcy, to an assignee for benefit of creditors, or to an entity holding a security interest as collateral, and violations are found either before the transfer or on the first inspection after the transfer, the Attorney General must tell the new owner about the violations committed by the previous owner. The Attorney General cannot assume that the new owner is committing the same violations.",
+      "word_offset": 1633,
+      "char_offset": 10104
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-standards-for-criminal-violations-of-recordkeeping-requirements",
+      "title": "Section 10 Standards for Criminal Violations of Recordkeeping Requirements",
+      "text": "This section changes the standards for when recordkeeping violations become criminal offenses. The law now requires that false entries must be materially false, missing entries must be materially significant, and the requirement changes from properly maintaining records to retaining custody of records. This makes the standards higher for what constitutes a criminal violation of recordkeeping requirements.",
+      "word_offset": 1740,
+      "char_offset": 10766
+    }
+  ]
+}

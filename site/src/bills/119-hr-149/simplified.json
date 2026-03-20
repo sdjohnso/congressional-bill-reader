@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-149",
+  "title": "Lead by Example Act of 2025",
+  "short_title": "Lead by Example Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.149",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Health.",
+  "version_hash": "39d1f6b900479fb4",
+  "last_updated": "2026-03-20T13:43:59.760469+00:00",
+  "plain_summary": "This bill says that starting in January 2027, Congress members and their staff can only get health care from the Department of Veterans Affairs. Right now they get different health benefits, but this would make them use the same system as veterans. The VA and another government office have to make a plan by September 2025 to show how this change will work. They also need to tell Congress if any new laws are needed to make this happen.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional officers and employees",
+    "Congressional oversight",
+    "Department of Veterans Affairs",
+    "Government employee pay, benefits, personnel management",
+    "Health care costs and insurance",
+    "Health facilities and institutions",
+    "Members of Congress"
+  ],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress health insurance",
+    "lawmakers VA healthcare",
+    "politicians veterans hospital",
+    "congress same healthcare as veterans",
+    "congressional health benefits",
+    "VA medical care for congress",
+    "politicians use veteran healthcare",
+    "congress health insurance change",
+    "lawmakers VA hospitals",
+    "congressional healthcare reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Lead by Example Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-health-care-furnished-by-department-of-veterans-affairs-to-members-of-congress-and-congressional-staff",
+      "title": "Section 2 Health Care Furnished by Department of Veterans Affairs to Members of Congress and Congressional Staff",
+      "text": "Starting on January third, twenty twenty seven, Congress members and their staff can only get health care through the Department of Veterans Affairs. This means they cannot use the Federal Health Benefits Program or health care exchanges that they currently use. Instead, they must get their health care the same way that veterans do. This includes care at VA hospitals and clinics, as well as care at private facilities that the VA pays for when veterans need treatment there. By September fifteenth, twenty twenty five, the Secretary of Veterans Affairs and the Director of the Office of Personnel Management must work together to create a plan explaining how this change will work. They must send this plan to Congress and include suggestions for any new laws that might be needed to make this happen. In this section, Congressional staff means the employees listed in section twenty one oh seven, part one of title five of the United States Code. Member of Congress means a Senator, a House Representative, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico. Non Department facility means a private medical facility that is not owned by the VA but provides care to veterans, as defined in section seventeen oh one of title thirty eight of the United States Code.",
+      "word_offset": 14,
+      "char_offset": 70
+    }
+  ]
+}

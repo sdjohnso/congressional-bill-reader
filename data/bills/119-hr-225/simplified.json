@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-225",
+  "title": "HUD Transparency Act of 2025",
+  "short_title": "HUD Transparency Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.225",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "version_hash": "d5f54489d3f91fff",
+  "last_updated": "2026-03-20T15:00:55.299294+00:00",
+  "plain_summary": "This law makes the inspector who watches over the Department of Housing and Urban Development come to Congress every year to give a report. The inspector must testify by October 1st each year. During this meeting, the inspector has to talk about how they are stopping fraud and waste at the department. They also have to explain if they have enough resources to do their job and give ideas for making the department work better.",
+  "current_status": "committee_reported",
+  "status_date": "2025-07-15",
+  "last_action_date": "2025-12-02",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [
+    "Accounting and auditing",
+    "Congressional oversight",
+    "Congressional-executive branch relations",
+    "Department of Housing and Urban Development",
+    "Federal officials",
+    "Fraud offenses and financial crimes",
+    "Government ethics and transparency, public corruption",
+    "Performance measurement"
+  ],
+  "sponsor_name": "Rep. De La Cruz, Monica [R-TX-15]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 12,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "HUD inspector general",
+    "housing department oversight",
+    "government waste prevention",
+    "HUD fraud investigation",
+    "housing agency transparency",
+    "inspector general testimony",
+    "government accountability housing",
+    "HUD resources funding",
+    "housing department efficiency",
+    "government fraud waste abuse"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the HUD Transparency Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-congressional-testimony",
+      "title": "Section 2  Congressional Testimony",
+      "text": "Every year by October first, the Inspector General of the Department of Housing and Urban Development must appear before two committees in Congress. The Inspector General is a person whose job is to watch over the department and make sure it follows the law and spends money properly. The two committees are the Committee on Financial Services in the House of Representatives and the Committee on Banking, Housing, and Urban Affairs in the Senate. When the Inspector General appears before these committees, they must give testimony about six specific topics. First, they must explain their efforts to find and stop fraud, waste, and abuse. Fraud means stealing or lying to get money. Waste means spending money on things that are not needed. Abuse means using power in the wrong way. Second, they must talk about their ability to conduct and supervise audits, investigations, and reviews. An audit is a careful check of how money is being spent. An investigation is looking into problems or wrongdoing. A review is examining how well something is working. Third, they must discuss actions to identify opportunities for the Department of Housing and Urban Development programs to progress and succeed. Fourth, they must share recommendations to improve how well the department works and how accountable it is to the public. Fifth, they must assess whether the Department of Housing and Urban Development has enough resources to carry out the job that the law requires it to do. Sixth, they must talk about any other ongoing work that is appropriate to discuss.",
+      "word_offset": 14,
+      "char_offset": 77
+    }
+  ]
+}

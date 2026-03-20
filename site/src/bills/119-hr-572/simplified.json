@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-hr-572",
+  "title": "RED TAPE Act",
+  "short_title": "RED TAPE Act",
+  "congress": 119,
+  "bill_number": "HR.572",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on the Judiciary, and in addition to the Committee on Small Business, for a period to be subse",
+  "version_hash": "a5368b7b5275a199",
+  "last_updated": "2026-03-20T11:16:09.376178+00:00",
+  "plain_summary": "The RED TAPE Act changes how government agencies must study new rules before making them. When agencies look at whether a new rule is good or bad, they can only count benefits and costs that have clear dollar amounts. They cannot use reasons that cannot be given an exact dollar value. If agencies break this rule, people can take them to court. This law tries to make agencies use only money-based reasons when deciding on new rules.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provis",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Civil actions and liability",
+    "Government information and archives",
+    "Judicial review and appeals",
+    "Office of Management and Budget (OMB)"
+  ],
+  "sponsor_name": "Rep. Sessions, Pete [R-TX-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government rules",
+    "federal regulations",
+    "cost benefit analysis",
+    "regulatory reform",
+    "agency rulemaking",
+    "government red tape",
+    "federal agencies",
+    "rule costs",
+    "regulatory burden",
+    "government accountability",
+    "lawsuit against agencies",
+    "bureaucratic reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Regulations Evaluated to Determine The Anticipated Price and Effect Act or the RED TAPE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has decided that government agencies must focus on benefits that can be measured in dollars when they make rules. Agencies should make sure their new rules provide clear financial benefits to the public and businesses while keeping regulatory costs and burdens as low as possible.",
+      "word_offset": 21,
+      "char_offset": 120
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-on-net-benefit-discounts-consideration-of-regulatory-impact-analyses",
+      "title": "Section 3  Prohibition on Net Benefit Discounts; Consideration of Regulatory Impact Analyses",
+      "text": "This section changes existing law by adding new definitions and requirements. It defines benefit-cost analysis as described in government guidance documents from the Office of Management and Budget. It also defines regulatory impact analysis as the type of analysis required by various executive orders and government circulars that study how rules affect the economy. The section creates a new rule that government agencies cannot use benefits or factors that cannot be measured in dollars when they analyze proposed or final rules. The Office of Management and Budget also cannot allow agencies to use these unmeasured factors or consider them in their own reviews. Agencies must publish detailed information about their economic analyses in the Federal Register along with each rule. This includes summaries of their studies, the full text of their analyses, their methods for estimating economic impacts, and other relevant information about their decision-making process. Within ninety days after this law takes effect, the Director of the Office of Management and Budget must issue new guidance to agencies to make sure they follow these requirements. If an agency violates these rules by considering factors that cannot be measured in dollars, any person affected by the rule can sue the agency in federal court. If the court finds that the agency improperly relied on unmeasured factors, the court must declare the rule invalid. These court review provisions apply to any rule issued by an agency on or after November ninth two thousand twenty three.",
+      "word_offset": 67,
+      "char_offset": 410
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-effective-date",
+      "title": "Section 4  Effective Date",
+      "text": "The changes made by Section 3 will take effect thirty days after this Act becomes law.",
+      "word_offset": 311,
+      "char_offset": 1969
+    }
+  ]
+}

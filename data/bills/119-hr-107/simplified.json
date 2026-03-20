@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-107",
+  "title": "Return to Work Act",
+  "short_title": "Return to Work Act",
+  "congress": 119,
+  "bill_number": "HR.107",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "6e0f94e6209ea0b0",
+  "last_updated": "2026-03-20T16:07:44.986848+00:00",
+  "plain_summary": "The Return to Work Act requires all government agencies to go back to their old remote work rules from December 31, 2019. This means agencies must change their current work-from-home policies to match what they had before the pandemic. The agency leaders have 60 days to make this change happen. Any newer remote work agreements that don't match the 2019 rules will no longer be valid.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Commuting",
+    "Computers and information technology",
+    "Government employee pay, benefits, personnel management"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government work from home",
+    "federal employees remote work",
+    "return to office",
+    "pre-pandemic work rules",
+    "government telework policy",
+    "federal work from home rules",
+    "2019 remote work policies",
+    "government employees back to office",
+    "federal telework restrictions",
+    "pandemic work changes reversed"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Return to Work Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reinstate-prior-remote-work-policies",
+      "title": "Section 2 Reinstate Prior Remote Work Policies",
+      "text": "Within sixty days after this law is passed, the person in charge of each government department must bring back the same remote work rules that their department used on December thirty first, two thousand nineteen. Once a government department brings back these old remote work rules, those rules will be the main rules that everyone must follow. If there are other work agreements or union contracts that have different remote work rules, the old rules from two thousand nineteen will be used instead when there is a conflict. In this section, Executive agency means any government department as defined in section one hundred five of title five of the United States Code. Reinstated telework policy means the remote work rules that a government department used on December thirty first, two thousand nineteen. Telework means working from a location away from the office, as defined in section six thousand five hundred one of title five of the United States Code.",
+      "word_offset": 10,
+      "char_offset": 47
+    }
+  ]
+}

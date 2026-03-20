@@ -1,0 +1,79 @@
+{
+  "bill_id": "119-s-80",
+  "title": "STEP Act",
+  "short_title": "STEP Act",
+  "congress": 119,
+  "bill_number": "S.80",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "0de33aa6cd526699",
+  "last_updated": "2026-03-20T14:24:20.756404+00:00",
+  "plain_summary": "The STEP Act makes government agencies work harder to stop wrong payments and fraud. Agencies must watch new programs that spend more than $100 million closely for their first four years. They have to get their boss's approval for how they guess wrong payment amounts and write detailed reports about stopping fraud. Agencies must send reports to Congress every year for ten years about how they are fighting fraud and fixing money problems. The law does not give agencies extra money to do this work.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Executive agency funding and structure",
+    "Fraud offenses and financial crimes",
+    "Government information and archives"
+  ],
+  "sponsor_name": "Sen. Lankford, James [R-OK]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government fraud prevention",
+    "stop wrong payments",
+    "agency oversight",
+    "federal spending mistakes",
+    "prevent government waste",
+    "fraud detection programs",
+    "government accountability",
+    "wasteful spending",
+    "federal program monitoring",
+    "taxpayer money protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Safeguarding the Transparency and Efficiency of Payments Act or the STEP Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-improper-payments",
+      "title": "Section 2 Improper Payments",
+      "text": "This section changes the rules about how government agencies must track and report wrong payments they make. First, it adds a definition of chief financial officer. For big executive agencies listed in a certain section of law, this means the official Chief Financial Officer. For other executive agencies, this means whoever is the top person in charge of handling the agency's money matters. The section also fixes some numbering in the existing law to match these changes. Next, it requires agencies to watch new programs more carefully. Any new program that spends or expects to spend more than one hundred million dollars in any of its first three years must be checked for wrong payments. This rule applies to programs in their first four years of operation. However, an agency can skip this requirement if they review the program and decide it is not likely to have significant wrong payment problems. The section also changes how agencies must estimate wrong payments. They must create estimates that are statistically valid or use another appropriate method. Both the Director of the Office of Management and Budget and the agency's chief financial officer must approve the method used. These estimates must be reported as part of annual reports. All annual reports about wrong payments must be included with the agency's yearly financial statement and follow guidance from the Office of Management and Budget. The chief financial officer must include a statement in the report. This statement must confirm that the agency properly identified programs that might have wrong payment problems. The statement must also describe what the chief financial officer did to watch over any plans to fix wrong payment issues.",
+      "word_offset": 18,
+      "char_offset": 105
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-financial-and-administrative-controls",
+      "title": "Section 3 Financial and Administrative Controls Relating to Fraud and Improper Payments",
+      "text": "This section requires agencies to submit detailed reports about fraud prevention efforts for ten years starting after this law takes effect. Each agency must include these reports in their annual financial statement sent to Congress. The reports must show the agency's progress in three main areas. First, agencies must show how they are putting in place required financial controls, fraud risk principles from the Government Accountability Office, and best practices from Office of Management and Budget guidance for managing fraud risk. Second, agencies must show how they are finding fraud risks and weak spots, especially in areas like payroll, benefit payments, grants, large contracts, and purchase and travel cards. Third, agencies must show what strategies and procedures they are using to reduce fraud. The reports must also include information about how well the agency is following eleven leading practices identified in a Government Accountability Office report from July twenty eighth two thousand fifteen called Framework for Managing Fraud Risks in Federal Programs. If an agency's annual financial statement or another report already includes the required information, the agency head can simply note that fact instead of creating a separate report.",
+      "word_offset": 296,
+      "char_offset": 1829
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-no-additional-funds",
+      "title": "Section 3 No Additional Funds",
+      "text": "No extra money is authorized to be set aside from the government budget to carry out this law or the changes it makes.",
+      "word_offset": 486,
+      "char_offset": 3095
+    }
+  ]
+}

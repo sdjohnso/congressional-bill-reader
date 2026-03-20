@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-365",
+  "title": "Territorial Tax Parity Act of 2025",
+  "short_title": "Territorial Tax Parity Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.365",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "3c4d1778d42f45d1",
+  "last_updated": "2026-03-20T13:18:46.199289+00:00",
+  "plain_summary": "The Territorial Tax Parity Act of 2025 changes tax rules to help US territories like Puerto Rico and the Virgin Islands. The bill makes it easier for these territories to keep more of their tax money by changing when income counts as coming from the United States. It also updates rules about selling personal property in these areas. These changes are meant to help the economies of US territories get stronger and recover from problems. The new rules will start in 2025.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "American Samoa",
+    "Caribbean area",
+    "Guam",
+    "Northern Mariana Islands",
+    "Puerto Rico",
+    "Tax administration and collection, taxpayers",
+    "Taxation of foreign income",
+    "U.S. territories and protectorates",
+    "Virgin Islands"
+  ],
+  "sponsor_name": "Del. Plaskett, Stacey E. [D-VI]",
+  "sponsor_party": "D",
+  "sponsor_state": "VI",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Puerto Rico taxes",
+    "US territories tax breaks",
+    "Virgin Islands economy",
+    "territorial tax relief",
+    "Puerto Rico economic recovery",
+    "US territory tax rules",
+    "Caribbean tax policy",
+    "Guam tax changes",
+    "American Samoa taxes",
+    "territorial income tax"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Territorial Tax Parity Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modification-to-source-rules-involving-possessions",
+      "title": "Section 2  Modification to Source Rules Involving Possessions",
+      "text": "This section changes tax rules for United States territories and possessions like Puerto Rico and the Virgin Islands. First, it changes the rules about where income comes from for tax purposes. Income will only count as coming from the United States if it comes from an actual office or permanent business location within the United States. This follows existing tax rules that define what counts as a business location. Second, it updates rules about selling personal property to include American Samoa in the same category as other territories. These changes will start applying to tax years that begin after December thirty first, two thousand twenty four.",
+      "word_offset": 15,
+      "char_offset": 83
+    }
+  ]
+}

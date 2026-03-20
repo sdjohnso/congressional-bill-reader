@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-542",
+  "title": "No Foreign Gifts Act of 2025",
+  "short_title": "No Foreign Gifts Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.542",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "d6e53a9cb84e4996",
+  "last_updated": "2026-03-20T10:58:56.124541+00:00",
+  "plain_summary": "The No Foreign Gifts Act of 2025 stops colleges and universities from taking money or gifts from certain countries if they want to keep getting money from the US government. The banned countries are China, Russia, North Korea, Iran, and any country that helps terrorist groups. If a school takes gifts from these countries, they will lose their federal funding. Schools must also tell the Department of Education if any of these countries try to give them gifts, even if they say no to the offer.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "China",
+    "Education programs funding",
+    "Higher education",
+    "Iran",
+    "North Korea",
+    "Russia"
+  ],
+  "sponsor_name": "Rep. Torres, Ritchie [D-NY-15]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "foreign money colleges",
+    "china funding universities",
+    "russia gifts schools",
+    "ban foreign donations",
+    "college funding restrictions",
+    "university money from enemies",
+    "schools lose federal funding",
+    "foreign countries giving money",
+    "iran north korea universities",
+    "stop enemy funding colleges"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Foreign Gifts Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-gifts-from-certain-countries",
+      "title": "Section 2  Prohibition on Gifts from Certain Countries",
+      "text": "This section changes the Higher Education Act of nineteen sixty five by adding a new rule called Section one hundred seventeen A. The new rule says that colleges and universities that get money from the federal government cannot accept gifts from certain countries. Starting when this law takes effect, these schools cannot take gifts from any country that the Secretary of State has determined provides material support to a foreign terrorist organization. Material support means providing resources like money, equipment, or services to help terrorist groups, as defined in federal law. A foreign terrorist organization is a group that the Secretary of State has officially labeled as a terrorist organization under immigration law. The schools also cannot accept gifts from China, Russia, North Korea, or Iran. If a college or university wants to keep getting federal funding, it must report to the Secretary of Education every time one of these banned countries offers them a gift. This reporting requirement applies even if the school turns down the gift.",
+      "word_offset": 14,
+      "char_offset": 71
+    }
+  ]
+}

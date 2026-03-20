@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-hr-480",
+  "title": "Methane Border Adjustment Mechanism Act",
+  "short_title": "Methane Border Adjustment Mechanism Act",
+  "congress": 119,
+  "bill_number": "HR.480",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "00845deef8e1ef0a",
+  "last_updated": "2026-03-20T15:02:11.255455+00:00",
+  "plain_summary": "This bill creates a new tax on oil and natural gas that comes from other countries. The tax is based on how much methane pollution those countries make when producing the oil and gas. The goal is to encourage other countries to pollute less and help American clean energy companies compete better. The law also requires the US to work with other countries to create rules for tracking and reducing methane pollution.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Advisory bodies",
+    "Air quality",
+    "Climate change and greenhouse gases",
+    "Congressional oversight",
+    "Industrial facilities",
+    "International organizations and cooperation",
+    "Oil and gas"
+  ],
+  "sponsor_name": "Rep. Brownley, Julia [D-CA-26]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "methane tax",
+    "foreign oil tax",
+    "gas import tax",
+    "pollution tax",
+    "climate change tax",
+    "energy imports",
+    "clean energy competition",
+    "methane emissions",
+    "oil and gas tariffs",
+    "environmental tariffs",
+    "carbon border tax",
+    "greenhouse gas tax"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Methane Border Adjustment Mechanism Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2 Findings",
+      "text": "Congress has found these facts. Methane is a very strong greenhouse gas that traps about eighty times more heat than carbon dioxide over twenty years. At least twenty five percent of global warming since the industrial revolution happened because of methane pollution. Health experts believe methane helps create ground level ozone and particle pollution that causes heart disease and lung problems. These facts show that methane threatens the health of humans, animals, and plants. The purpose of creating a methane border adjustment mechanism is to protect natural resources by stopping emissions. This works together with rules and fees on methane pollution from American oil and gas companies under section one hundred thirty six of the Clean Air Act. Very cost effective ways to reduce methane emissions like these mechanisms have been well studied and are ready to use. Research shows that while this mechanism would barely affect fossil fuel prices, it could greatly reduce methane emissions. By working with countries that import a lot of oil and gas to create similar mechanisms, along with the European Union which already has its own border measure, the United States government can help strengthen the market for clean American gas exports and encourage other oil and gas producing countries to reduce their methane emissions.",
+      "word_offset": 11,
+      "char_offset": 68
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-establishment-of-methane-border-adjustment-mechanism",
+      "title": "Section 3 Establishment of Methane Border Adjustment Mechanism",
+      "text": "This section adds a new tax system to the Internal Revenue Code. The government will charge a tax on any methane adjustment substance that someone imports and then sells or uses. Methane adjustment substances means petroleum and natural gas. The tax amount equals the same portion of the total methane emissions charge for the country where the substance was produced as the volume of that substance compared to the total volume produced in that country. The government will use information from two years before the sale or use happened. For natural gas, the government will measure energy content instead of volume. The total methane emissions charge means the total amount of fees that would be charged under section one hundred thirty six of the Clean Air Act if those foreign facilities were located in the United States. The Secretary of Treasury will make rules for substances produced in more than one country based on how much production happened in each country. Every two years, the Secretary must write a report to Congress about whether to add more substances that rely on oil and natural gas or have significant methane emissions. The Secretary will work with trade agencies to see if American producers have lower methane emissions than producers in other countries. Each report must include an analysis of how expanding this mechanism would affect the economy, jobs, and environment. The Secretary will determine the total methane emissions charge and volumes using publicly available information. The Secretary will work with governments of major importing and exporting countries to create an international organization. This organization will set standards, create a certification process to track emissions through supply chains, and collect data about methane emissions. Standards must be updated at least every two years. For substances that meet certain requirements, the Secretary will create an alternative tax method that only considers the actual supply chain emissions. To qualify, importers must provide information about all facilities in the supply chain and their emissions, and each country with facilities must have signed agreements with the Customs Trade Partnership Against Terrorism program. The Secretary of Treasury must encourage the ten countries with the highest oil and gas imports that do not have methane border mechanisms to implement equally strict border adjustment mechanisms and participate in creating the international organization. These changes will apply to sales and uses after December thirty first two thousand twenty five.",
+      "word_offset": 222,
+      "char_offset": 1407
+    }
+  ]
+}

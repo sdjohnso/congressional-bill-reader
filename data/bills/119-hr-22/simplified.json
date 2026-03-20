@@ -1,0 +1,118 @@
+{
+  "bill_id": "119-hr-22",
+  "title": "SAVE Act",
+  "short_title": "SAVE Act",
+  "congress": 119,
+  "bill_number": "HR.22",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Ms. Johnson (TX) moved to recommit to the Committee on House Administration. (text: CR H1569)",
+  "version_hash": "b822c8509036a0b8",
+  "last_updated": "2026-03-20T11:41:13.321122+00:00",
+  "plain_summary": "The SAVE Act requires people to show documents that prove they are US citizens when they register to vote in federal elections. States must check these documents and create programs to find and remove non-citizens from their voter lists. If election officials register someone to vote without proper citizenship proof, they could face criminal charges. The law also lets people sue election officials who don't follow these rules.",
+  "current_status": "passed_house",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Received in the Senate.",
+  "passed_house": true,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Citizenship and naturalization",
+    "Civil actions and liability",
+    "Criminal procedure and sentencing",
+    "Election Assistance Commission",
+    "Elections, voting, political campaign regulation",
+    "Government information and archives",
+    "Immigration status and procedures",
+    "Licensing and registrations",
+    "Postal service",
+    "State and local government operations",
+    "Voting rights"
+  ],
+  "sponsor_name": "Rep. Roy, Chip [R-TX-21]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 110,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "voter ID requirements",
+    "citizenship proof voting",
+    "voter registration documents",
+    "non-citizen voting prevention",
+    "voting eligibility verification",
+    "voter roll cleanup",
+    "election official penalties",
+    "federal election citizenship",
+    "voter fraud prevention",
+    "immigration status voting"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Safeguard American Voter Eligibility Act or the SAVE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-ensuring-only-citizens-are-registered-to-vote",
+      "title": "Section 2 Ensuring Only Citizens Are Registered to Vote in Elections for Federal Office",
+      "text": "This section changes the National Voter Registration Act of nineteen ninety three to require proof of United States citizenship when registering to vote in federal elections. Documentary proof of United States citizenship means one of several types of official documents. These include a REAL ID compliant identification card that shows the person is a United States citizen, a valid United States passport, military identification with service records showing birth in the United States, or government issued photo identification showing birth in the United States. Other acceptable documents include certified birth certificates with specific requirements, hospital birth records, adoption decrees showing United States birth, consular birth reports, naturalization certificates, or American Indian cards from the Department of Homeland Security. States must not accept voter registration applications for federal elections unless the applicant shows documentary proof of United States citizenship with their application. When someone applies to register through motor vehicle offices, the state must verify the person is a United States citizen and require documentary proof. For mail in voter registration forms, applicants must present documentary proof of citizenship in person to election officials by the registration deadline or at the polling place by election day. Voter registration agencies must receive documentary proof from each applicant and ask if they are United States citizens before providing registration forms. States must establish programs to identify non citizens using information from the Department of Homeland Security, Social Security Administration, state agencies, or other databases. Federal agencies must provide requested information to state election officials within twenty four hours to help verify citizenship status. States must remove individuals who are not United States citizens from voter registration rolls when they receive documentation showing someone is not a citizen. The law creates criminal penalties for election officials who register people without proper citizenship documentation and for federal employees who help non citizens try to register or vote. These requirements apply to all states, including those previously exempt from the National Voter Registration Act.",
+      "word_offset": 15,
+      "char_offset": 85
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-election-assistance-commission-guidance",
+      "title": "Section 3 Election Assistance Commission Guidance",
+      "text": "Within ten days after this law is passed, the Election Assistance Commission must create and send guidance to the chief state election official in each state. This guidance will explain how to carry out the new requirements in the National Voter Registration Act.",
+      "word_offset": 343,
+      "char_offset": 2414
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-inapplicability-of-paperwork-reduction-act",
+      "title": "Section 4 Inapplicability of Paperwork Reduction Act",
+      "text": "The Paperwork Reduction Act does not apply when creating or changing voter registration materials under the National Voter Registration Act as changed by this law. This includes creating or changing voter registration application forms.",
+      "word_offset": 386,
+      "char_offset": 2678
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-duty-of-secretary-of-homeland-security",
+      "title": "Section 5 Duty of Secretary of Homeland Security to Notify Election Officials of Naturalization",
+      "text": "When the Secretary of Homeland Security learns that someone has become a naturalized United States citizen, they must quickly tell the chief election official in the state where that person lives.",
+      "word_offset": 420,
+      "char_offset": 2915
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-rule-of-construction-regarding-provisional-ballots",
+      "title": "Section 6 Rule of Construction Regarding Provisional Ballots",
+      "text": "Nothing in this law stops someone from casting a provisional ballot in a federal election. If the person is later verified as a United States citizen under the new citizenship verification process, their provisional ballot can be counted.",
+      "word_offset": 451,
+      "char_offset": 3112
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-rule-of-construction-regarding-state-exemptions",
+      "title": "Section 7 Rule of Construction Regarding Effect on State Exemptions from Other Federal Laws",
+      "text": "This law does not change whether a state is exempt from any other federal law besides the National Voter Registration Act.",
+      "word_offset": 489,
+      "char_offset": 3351
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-effective-date",
+      "title": "Section 8 Effective Date",
+      "text": "This law takes effect immediately when it is passed. The new requirements apply to all voter registration applications submitted on or after that date.",
+      "word_offset": 510,
+      "char_offset": 3474
+    }
+  ]
+}

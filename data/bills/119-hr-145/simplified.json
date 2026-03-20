@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-145",
+  "title": "Risk Disclosure and Investor Attestation Act",
+  "short_title": "Risk Disclosure and Investor Attestation Act",
+  "congress": 119,
+  "bill_number": "HR.145",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "87e5b65171cb99ae",
+  "last_updated": "2026-03-20T11:09:07.552248+00:00",
+  "plain_summary": "This bill would let any person invest in private companies that are not traded on the stock market. Right now, only wealthy people or financial experts can make these investments. Under this new law, anyone could invest in these private companies by signing a simple two-page form that says they understand the risks involved. The Securities and Exchange Commission would have one year to create this form and the rules for using it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [
+    "Business investment and capital",
+    "Financial services and investments",
+    "Securities"
+  ],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "private company investing",
+    "invest in startups",
+    "non-public companies",
+    "investment restrictions",
+    "wealthy investor rules",
+    "SEC investment forms",
+    "private equity access",
+    "startup investment opportunities",
+    "investment risk disclosure",
+    "small investor rights"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Risk Disclosure and Investor Attestation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-investor-attestation",
+      "title": "Section 2 Investor Attestation",
+      "text": "This section changes an existing securities law from nineteen thirty-three. It adds a new category of qualified investor. Under the new rule, any person can become a qualified investor for a specific private company by signing a form. This form must confirm that the person understands the risks of investing in private companies that do not sell stock to the general public. The Securities and Exchange Commission (the government agency that watches over investments) must create this form, but the form cannot be longer than two pages. The Commission has one year from when this law is signed to write the rules and create the required form.",
+      "word_offset": 12,
+      "char_offset": 73
+    }
+  ]
+}

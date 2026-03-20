@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-287",
+  "title": "Mobile Post Office Relief Act",
+  "short_title": "Mobile Post Office Relief Act",
+  "congress": 119,
+  "bill_number": "HR.287",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "e1fb5316d4df4862",
+  "last_updated": "2026-03-20T12:47:59.932884+00:00",
+  "plain_summary": "This bill makes the Postal Service send mobile post offices to areas where regular post offices have stopped working for a short time. The mobile post offices are like trucks or trailers that can provide mail services. They must arrive within three business days after the regular post office closes. The mobile units have to offer the same services as the regular post office until it opens again.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Postal service",
+    "Retail and wholesale trades"
+  ],
+  "sponsor_name": "Rep. LaLota, Nick [R-NY-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "mobile post office",
+    "postal truck",
+    "mail delivery truck",
+    "post office closed",
+    "temporary mail service",
+    "postal service outage",
+    "mail truck relief",
+    "backup post office",
+    "emergency mail service",
+    "traveling post office",
+    "postal service disruption",
+    "temporary mail delivery"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Mobile Post Office Relief Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-deployment-of-mobile-retail-units",
+      "title": "Section 2 Deployment of Mobile Retail Units",
+      "text": "This section adds new rules to the United States Code about mobile post offices. When a post office stops working temporarily, the Postal Service must bring a mobile post office to that area within three business days. The mobile post office must provide the same services the regular post office was providing before it closed. These services include selling stamps and packages, letting people pick up mail from their post office boxes, and helping people change their mailing addresses or stop mail delivery temporarily. The mobile post office must stay in the area until the regular post office opens again. This rule applies to post offices that are at least half a mile away from other post offices and have been closed for sixty days or more. If a private company was running the post office and stopped providing services before their contract ended, this rule also applies. A postal retail facility means any post office or place where a private company provides postal services under an agreement with the Postal Service, but it does not include mobile facilities. For post offices that are already closed when this law starts, the Postal Service has thirty days to bring a mobile post office instead of three business days. This section also adds the new rule to the official table of contents in the United States Code.",
+      "word_offset": 11,
+      "char_offset": 58
+    }
+  ]
+}

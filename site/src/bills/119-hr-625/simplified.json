@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-625",
+  "title": "LACA",
+  "short_title": "LACA",
+  "congress": 119,
+  "bill_number": "HR.625",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "a33de9b841baa191",
+  "last_updated": "2026-03-20T15:18:31.397085+00:00",
+  "plain_summary": "The Local Access to Courts Act makes it easier for people to go to federal court by adding new meeting places. The law says federal courts in Texas can now meet in College Station, which is part of the Southern District of Texas. It also says federal courts in California can now meet in El Centro, which is part of the Southern District of California. This gives people more options for where they can attend their court cases without having to travel as far.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "California",
+    "State and local courts",
+    "Texas"
+  ],
+  "sponsor_name": "Rep. McCaul, Michael T. [R-TX-10]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal court locations",
+    "new courthouse locations",
+    "court access Texas California",
+    "College Station federal court",
+    "El Centro federal court",
+    "easier court access",
+    "local federal courts",
+    "courthouse meeting places",
+    "court travel distance",
+    "Southern District Texas California"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Local Access to Courts Act or LACA.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-organization-of-texas-district-courts",
+      "title": "Section 2 Organization of Texas District Courts",
+      "text": "This section changes the law about where federal courts can meet in Texas. It adds College Station as a place where certain federal district courts can hold their meetings and hearings.",
+      "word_offset": 13,
+      "char_offset": 63
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-organization-of-california-district-courts",
+      "title": "Section 3 Organization of California District Courts",
+      "text": "This section changes the law about where federal courts can meet in California. It adds El Centro as a place where certain federal district courts can hold their meetings and hearings, in addition to San Diego.",
+      "word_offset": 44,
+      "char_offset": 249
+    }
+  ]
+}

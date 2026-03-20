@@ -1,0 +1,52 @@
+{
+  "bill_id": "119-hr-351",
+  "title": "To amend the Intermodal Surface Transportation Efficiency Act of 1991 to prohibit congestion or cordon pricing in a value pricing program, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.351",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Highways and Transit.",
+  "version_hash": "76be83c4a36601ff",
+  "last_updated": "2026-03-20T15:34:08.536606+00:00",
+  "plain_summary": "This bill stops the federal government from creating programs that charge drivers extra money to use busy roads or drive in crowded parts of cities. These charges are called congestion pricing or cordon pricing, and they are meant to reduce traffic jams by making people pay more when roads are busiest. The bill changes an existing transportation law to ban these types of fee programs. This means the Federal Highway Administration cannot start or continue any pilot programs that test these road pricing ideas.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the Subcommittee on Highways and Transit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "road tolls",
+    "traffic fees",
+    "driving charges",
+    "congestion pricing",
+    "city driving fees",
+    "rush hour tolls",
+    "highway charges",
+    "busy road fees",
+    "urban driving costs",
+    "traffic jam pricing",
+    "federal transportation programs",
+    "road pricing ban"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-prohibition-on-congestion-or-cordon-pricing",
+      "title": "Section 1 Prohibition on Congestion or Cordon Pricing",
+      "text": "This section changes an existing transportation law from nineteen ninety-one. It adds a new rule that says the Secretary of Transportation cannot create or keep any programs that charge drivers extra money based on when they drive, how busy the roads are, or for entering certain areas of a city. These types of fees are called value pricing, congestion pricing, and cordon pricing. Value pricing means charging different amounts at different times. Congestion pricing means charging more when roads are crowded. Cordon pricing means charging drivers to enter busy downtown areas. The new rule says none of these charging systems are allowed, even if other parts of the law might seem to permit them.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

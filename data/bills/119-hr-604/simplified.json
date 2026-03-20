@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-604",
+  "title": "REDUCE Act",
+  "short_title": "REDUCE Act",
+  "congress": 119,
+  "bill_number": "HR.604",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "0214704fdab03890",
+  "last_updated": "2026-03-20T11:24:59.204360+00:00",
+  "plain_summary": "This bill makes new rules about how electricity is bought and sold. It says that companies called energy aggregators must be allowed to buy electricity in big wholesale markets, even if state laws say they cannot. These aggregators can only do this if they represent customers who get power from large electric companies. A government agency called the Federal Energy Regulatory Commission has one year to write the detailed rules for how this will work.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Casten, Sean [D-IL-6]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "electricity buying",
+    "power companies",
+    "energy costs",
+    "electric bills",
+    "wholesale electricity",
+    "energy markets",
+    "electricity regulation",
+    "power grid",
+    "energy aggregators",
+    "electric utilities",
+    "electricity prices",
+    "energy purchasing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Responsive Energy Demand Unlocks Clean Energy Act or the REDUCE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-aggregator-bidding-into-organized-power-markets",
+      "title": "Section 2 Aggregator Bidding Into Organized Power Markets",
+      "text": "Even if state laws or state utility commissions say otherwise, companies that manage electricity transmission must allow certain energy aggregators to place bids in wholesale electricity markets. An aggregator is a company that combines the energy use of many customers together. These aggregators can only bid if they represent customers of electric utilities that delivered more than four million megawatt-hours of electricity in the previous year. The transmission companies must follow market rules that do not ban this type of bidding. The Federal Energy Regulatory Commission must create a final rule to make this happen within twelve months after this law is passed.",
+      "word_offset": 17,
+      "char_offset": 96
+    }
+  ]
+}

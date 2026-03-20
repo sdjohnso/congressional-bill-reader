@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-193",
+  "title": "Maintaining Innovation and Safe Technologies Act",
+  "short_title": "Maintaining Innovation and Safe Technologies Act",
+  "congress": 119,
+  "bill_number": "HR.193",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be",
+  "version_hash": "9ccdc7699cd07f11",
+  "last_updated": "2026-03-20T13:06:41.324142+00:00",
+  "plain_summary": "This bill tells the government's health department to write clear rules about how Medicare will pay for special medical devices. These devices use computer smarts called artificial intelligence and can watch patients from far away, like machines that check blood sugar levels. The devices send health information directly to doctors and nurses to help take care of patients. The government must finish writing these payment rules by January 2027. This will help people on Medicare know if these helpful devices will be covered.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Advanced technology and technological innovations",
+    "Health technology, devices, supplies",
+    "Medicare"
+  ],
+  "sponsor_name": "Rep. Schweikert, David [R-AZ-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Medicare coverage",
+    "artificial intelligence medical devices",
+    "remote patient monitoring",
+    "smart medical technology",
+    "Medicare payment rules",
+    "AI healthcare devices",
+    "telemedicine equipment",
+    "remote health monitoring",
+    "Medicare AI coverage",
+    "smart health devices",
+    "digital health technology",
+    "Medicare technology benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Maintaining Innovation and Safe Technologies Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-guidance-on-medicare-payment-for-certain-items-involving-artificial-intelligence",
+      "title": "Section 2  Guidance on Medicare Payment for Certain Items Involving Artificial Intelligence",
+      "text": "By January first, two thousand twenty seven, the Secretary of Health and Human Services must create and share written instructions. These instructions will explain the rules for how Medicare Part B (a part of the government health insurance program for older adults) will pay for certain remote monitoring devices. These devices include things like continuous glucose monitors (devices that check blood sugar levels all the time). The instructions must cover devices that use artificial intelligence (computer programs that can make decisions and adjustments on their own) and that send health information to doctors or other healthcare providers. The healthcare providers use this information to help manage and treat their patients.",
+      "word_offset": 12,
+      "char_offset": 77
+    }
+  ]
+}

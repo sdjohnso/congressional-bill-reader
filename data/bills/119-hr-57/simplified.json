@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-57",
+  "title": "Ending Catch and Release Act of 2025",
+  "short_title": "Ending Catch and Release Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.57",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "2c41f02a5a438c36",
+  "last_updated": "2026-03-20T15:19:27.700976+00:00",
+  "plain_summary": "This bill changes immigration laws to require that most people seeking asylum or arriving without proper papers be held in detention centers instead of being released while they wait for their court hearings. The government can also send people back to neighboring countries like Mexico or Canada to wait there instead. The bill makes it harder for asylum seekers to pass their first interview by requiring them to prove they will probably win their case, rather than just showing they might have a good case. It also allows immigration officials to quickly remove more people from the country without giving them full court hearings.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Detention of persons",
+    "Immigration status and procedures",
+    "Refugees, asylum, displaced persons",
+    "Specialized courts"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigration detention",
+    "asylum seekers",
+    "border control",
+    "catch and release",
+    "immigration court",
+    "deportation",
+    "border security",
+    "immigration enforcement",
+    "asylum process",
+    "detention centers",
+    "immigration policy",
+    "border crossings"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law may be called the Ending Catch and Release Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-inspection-of-applicants-for-admission",
+      "title": "Section 2 Inspection of Applicants for Admission",
+      "text": "This section changes the Immigration and Nationality Act to add new rules about people who want to enter the United States. The changes affect how the government handles people who arrive at the border without proper documents or who are seeking asylum (protection from danger in their home country). Under the new rules, the Secretary of Homeland Security cannot use parole (temporary permission to enter) or release these people into the United States while their cases are being decided. Instead, people must stay in detention (government holding facilities) while immigration judges review their cases. If someone arrives by land from a neighboring country like Mexico or Canada, they can be sent back to that country to wait for their immigration hearing. The law also makes it harder for people to pass their initial asylum screening by requiring them to show it is more likely than not that they will qualify for asylum, rather than just showing there is a significant possibility they might qualify. People who fail their asylum screening must be removed from the United States within seventy two hours, and if they cannot be removed immediately, they must stay in detention until removal is possible. The Secretary cannot parole or release these individuals into the United States under any circumstances.",
+      "word_offset": 16,
+      "char_offset": 85
+    }
+  ]
+}

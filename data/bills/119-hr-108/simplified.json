@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-108",
+  "title": "Space Research Innovation Act",
+  "short_title": "Space Research Innovation Act",
+  "congress": 119,
+  "bill_number": "HR.108",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Science, Space, and Technology.",
+  "version_hash": "9416fc91dc69fa6f",
+  "last_updated": "2026-03-20T15:48:10.934479+00:00",
+  "plain_summary": "The Space Research Innovation Act lets NASA create a special research center that works with universities. This center will help study and plan missions to deep space and other planets. The center can work with colleges, research companies, and nonprofit groups. Its main job is to help NASA with the science and engineering needed for space missions that go far from Earth.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [
+    "Higher education",
+    "Public-private cooperation",
+    "Research administration and funding",
+    "Space flight and exploration"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "NASA research center",
+    "space missions",
+    "deep space exploration",
+    "NASA university partnership",
+    "space science funding",
+    "Mars missions",
+    "outer space research",
+    "NASA college collaboration",
+    "space technology development",
+    "planetary exploration",
+    "space program funding",
+    "NASA innovation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law may be called the Space Research Innovation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-research-center-for-deep-space-and-interplanetary-research",
+      "title": "Section 2 Research Center for Deep-Space and Interplanetary Research",
+      "text": "The person who leads NASA must create a research center that is connected to a university. This center will help NASA do better work. The center must do studies and provide engineering help for missions near the moon and in deep space, as well as research about other planets. The center must be held responsible for doing good quality work. It must also have experience bringing together college researchers and private companies to work together and form partnerships. The NASA leader must create rules about how to pick who can participate in this center, how to give out contracts and agreements, when to have competitions for awards versus giving awards directly to one group, and what technical skills are needed. Three types of groups can participate in this center. First, colleges and universities as defined by federal education law. Second, groups that run research centers paid for by the federal government. Third, nonprofit research organizations.",
+      "word_offset": 10,
+      "char_offset": 58
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "bill_id": "119-s-146",
+  "title": "TAKE IT DOWN Act",
+  "short_title": "Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act",
+  "congress": 119,
+  "bill_number": "S.146",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.",
+  "version_hash": "e7d230a97011f3fb",
+  "last_updated": "2026-03-20T13:07:51.910159+00:00",
+  "plain_summary": "The TAKE IT DOWN Act makes it a crime to share private or intimate pictures or videos of someone online without their permission. This includes both real images and fake ones made by computers. People who break this law could go to prison for up to three years. The law also says that websites and apps must take down these pictures within 48 hours when someone reports them. The Federal Trade Commission will make sure websites follow these rules.",
+  "current_status": "signed_into_law",
+  "status_date": "2025-05-19",
+  "last_action_date": "2025-05-19",
+  "last_action_text": "Became Public Law No: 119-12.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": true,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [
+    "Child safety and welfare",
+    "Crimes against children",
+    "Criminal investigation, prosecution, interrogation",
+    "Digital media",
+    "Fraud offenses and financial crimes",
+    "Internet, web applications, social media",
+    "Pornography",
+    "Sex offenses"
+  ],
+  "sponsor_name": "Sen. Cruz, Ted [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 21,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "revenge porn",
+    "non consensual intimate images",
+    "deepfake porn",
+    "sharing private photos without permission",
+    "online harassment",
+    "intimate images shared without consent",
+    "fake nude photos",
+    "social media take down rules",
+    "private photos posted online",
+    "digital sexual abuse",
+    "websites removing inappropriate content",
+    "computer generated fake images"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act or the TAKE IT DOWN Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-criminal-prohibition",
+      "title": "Section 2 Criminal Prohibition on Intentional Disclosure of Nonconsensual Intimate Visual Depictions",
+      "text": "This section makes it a crime to share intimate images or videos of people without their permission. Consent means a person clearly and freely agrees to something without being forced or tricked. Digital forgery means fake intimate images created using computer software or artificial intelligence that look real. An identifiable individual is a person whose face or other recognizable features appear in the image. Interactive computer service means websites and online platforms. Intimate visual depictions are private sexual or nude images. A minor is anyone under eighteen years old. It is illegal to use the internet to publish intimate images of adults without their consent if the image was taken when the person expected privacy, was not shown in public by choice, is not a matter of public interest, and causes or is meant to cause harm to the person. It is also illegal to publish intimate images of minors with intent to abuse, humiliate, harass, or degrade them, or to sexually arouse someone. The same rules apply to fake intimate images created with technology. There are exceptions for law enforcement activities, good faith reporting to authorities, medical or educational purposes, helping the person in the image, and when someone shares images of themselves. People who break these rules can be fined and sent to prison for up to two years for crimes involving adults or three years for crimes involving minors. Threatening to share such images is also illegal and punishable. Courts can order criminals to give up property and materials used in these crimes and pay money to victims to help repair the harm done.",
+      "word_offset": 26,
+      "char_offset": 157
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-notice-and-removal",
+      "title": "Section 3 Notice and Removal of Nonconsensual Intimate Visual Depictions",
+      "text": "Within one year of this law taking effect, covered platforms must create a system that lets people report intimate images of themselves that were posted without permission and ask to have them removed. A covered platform is a website or app that serves the public and primarily hosts user content or regularly deals with intimate images. This does not include internet service providers or email services. When someone reports an unwanted intimate image, they must provide their signature, identify where the image is located, explain why they believe it was posted without consent, and give contact information. The platform must clearly tell users about this reporting process in easy to understand language. Once a platform gets a valid removal request, it must remove the image and try to find and remove identical copies within forty eight hours. Platforms will not be held responsible for removing images in good faith even if the image turns out to be lawful. If platforms do not reasonably follow these removal rules, the Federal Trade Commission can treat it as an unfair business practice and enforce penalties just like other consumer protection violations.",
+      "word_offset": 293,
+      "char_offset": 1790
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-definitions",
+      "title": "Section 4 Definitions",
+      "text": "This section explains what terms mean in this law. Commission means the Federal Trade Commission. The terms consent, digital forgery, identifiable individual, intimate visual depiction, and minor have the same meaning as defined in the criminal section of this law. Covered platform means a website or app that serves the public and mainly provides a place for user created content like messages, videos, images, games, and audio files, or regularly publishes intimate visual content. This does not include internet service providers, email, or websites that mainly show pre selected content where user interaction is only a small part of the service.",
+      "word_offset": 481,
+      "char_offset": 2959
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-severability",
+      "title": "Section 5 Severability",
+      "text": "If any part of this law is found to be invalid or unenforceable, the rest of the law will still remain in effect.",
+      "word_offset": 582,
+      "char_offset": 3611
+    }
+  ]
+}

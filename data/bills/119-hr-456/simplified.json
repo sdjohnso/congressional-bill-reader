@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-456",
+  "title": "Protecting Dogs Subjected to Experiments Act",
+  "short_title": "Protecting Dogs Subjected to Experiments Act",
+  "congress": 119,
+  "bill_number": "HR.456",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "af247b2d056e1b8f",
+  "last_updated": "2026-03-20T14:33:25.500433+00:00",
+  "plain_summary": "This bill would stop the National Institutes of Health from using government money to pay for any research that tests on dogs. The National Institutes of Health is a government agency that funds medical and science research. Right now, they can give money to scientists who do experiments on dogs to learn about diseases and medicine. If this bill becomes law, they would not be allowed to fund any dog testing anymore. This includes all types of research like medical studies, biological studies, and behavioral studies that use dogs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Animal protection and human-animal relationships",
+    "Mammals",
+    "Medical ethics",
+    "Medical research",
+    "National Institutes of Health (NIH)",
+    "Research administration and funding",
+    "Research ethics"
+  ],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "dog testing ban",
+    "animal experiments",
+    "NIH funding",
+    "medical research on dogs",
+    "laboratory dogs",
+    "government money for animal testing",
+    "stop dog experiments",
+    "animal research ethics",
+    "federal funding animal studies",
+    "protecting laboratory animals"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting Dogs Subjected to Experiments Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-use-of-federal-funds-by-national-institutes-of-health-for-certain-research-involving-the-testing-of-dogs",
+      "title": "Section 2  Prohibition on Use of Federal Funds by National Institutes of Health for Certain Research Involving the Testing of Dogs",
+      "text": "The National Institutes of Health cannot use any federal government money to do research that tests on dogs. This includes research about biology, medicine, or behavior that involves using dogs as test subjects.",
+      "word_offset": 12,
+      "char_offset": 73
+    }
+  ]
+}

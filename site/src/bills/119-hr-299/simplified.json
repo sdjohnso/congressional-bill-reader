@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-299",
+  "title": "Transparency of Migration Act",
+  "short_title": "Transparency of Migration Act",
+  "congress": 119,
+  "bill_number": "HR.299",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "45ed74726df62467",
+  "last_updated": "2026-03-20T14:23:54.454656+00:00",
+  "plain_summary": "This bill requires two government departments to share information about people who entered the US illegally. Every week, the Department of Homeland Security and Department of Health and Human Services must post updates on their websites about these individuals. The updates must include how many people were caught each day, what countries they came from, their ages and genders, where they are going in the US, and if they have committed crimes before. This information is meant to help the public know more about immigration at the border.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigration transparency",
+    "border crossings data",
+    "illegal immigration reporting",
+    "weekly immigration updates",
+    "government immigration information",
+    "border security statistics",
+    "immigration website updates",
+    "tracking illegal entries",
+    "immigration public records",
+    "border patrol numbers",
+    "immigration accountability",
+    "homeland security reports"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Transparency of Migration Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-public-availability-of-information",
+      "title": "Section 2  Public Availability of Information Relating to Individuals Processed Through U.S. Customs and Border Protection or Department of Health and Human Services Facilities",
+      "text": "The Secretary of Homeland Security and the Secretary of Health and Human Services must put certain information on their department websites for the public to see. This information is about people who are in the United States without legal permission. These are people who have been caught by U.S. Customs and Border Protection (the agency that guards our borders) and either sent to a government detention center or released into the United States. This also includes people who have been processed through a Department of Health and Human Services facility. The information that must be shared includes the daily number of these individuals, what countries they came from, their ages and genders, which states they have been released to or sent to, and how many have criminal convictions and what types of crimes they were convicted of. This information must be updated every week.",
+      "word_offset": 10,
+      "char_offset": 58
+    }
+  ]
+}

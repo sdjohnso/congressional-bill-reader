@@ -1,0 +1,54 @@
+{
+  "bill_id": "119-s-64",
+  "title": "A bill to direct the United States Postal Service to designate a single, unique ZIP Code for Fairlawn, Virginia, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "S.64",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "0432625589c08435",
+  "last_updated": "2026-03-20T12:51:35.023680+00:00",
+  "plain_summary": "This bill tells the US Postal Service to give Fairlawn, Virginia its own ZIP code within six months. Right now, Fairlawn shares ZIP codes with the nearby city of Radford, which creates problems. When people in Fairlawn buy things online, the sales tax money goes to Radford instead of Fairlawn because they have the same ZIP code. Having its own ZIP code would fix this problem and make sure Fairlawn gets the tax money it should receive.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Postal service",
+    "Virginia"
+  ],
+  "sponsor_name": "Sen. Warner, Mark R. [D-VA]",
+  "sponsor_party": "D",
+  "sponsor_state": "VA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Fairlawn Virginia ZIP code",
+    "postal service ZIP code",
+    "new ZIP code",
+    "Virginia ZIP code",
+    "Fairlawn postal code",
+    "sales tax ZIP code problem",
+    "Radford Virginia ZIP code",
+    "town ZIP code designation",
+    "postal service Virginia",
+    "ZIP code tax revenue",
+    "local sales tax ZIP code"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-zip-code-for-fairlawn-virginia",
+      "title": "Section 1 ZIP Code for Fairlawn, Virginia",
+      "text": "Congress believes several important facts about Virginia. Virginia is the only state where all cities operate completely separate from the counties around them. These independent cities are not part of the counties politically, even when they sit inside county borders. In Virginia, these independent cities have different systems for collecting and sharing money for roads, resources, and sales taxes than the counties do. Right now, sales tax money collected from online shopping in the unincorporated community (a place without its own city government) of Fairlawn, Virginia, which is in Pulaski County, often gets sent to the wrong place. It goes to the independent city of Radford, Virginia, because Fairlawn and Radford share the same ZIP codes. Congress believes that Fairlawn, Virginia, should be able to get its own separate and unique ZIP code that is different from the nearby independent city of Radford, Virginia, so taxes go to the right place. Within one hundred eighty days after this law is passed, the United States Postal Service must create a single, unique ZIP code that applies only to Fairlawn, Virginia.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

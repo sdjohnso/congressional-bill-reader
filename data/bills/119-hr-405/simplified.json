@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-405",
+  "title": "Keep Every Extra Penny Act of 2025",
+  "short_title": "Keep Every Extra Penny Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.405",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "bbe604e84a7f2836",
+  "last_updated": "2026-03-20T14:37:46.817894+00:00",
+  "plain_summary": "This bill would stop the government from taxing overtime pay. Right now, when workers earn extra money for working more than 40 hours a week, they have to pay federal income tax on that overtime money. If this bill becomes law, workers would get to keep all their overtime pay without paying federal income tax on it. This means workers who work extra hours would take home more money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Fulcher, Russ [R-ID-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "ID",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "overtime pay",
+    "overtime tax",
+    "no tax on overtime",
+    "extra hours pay",
+    "working overtime",
+    "overtime income",
+    "take home pay",
+    "overtime money",
+    "working extra hours",
+    "overtime wages",
+    "tax free overtime"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Keep Every Extra Penny Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exclusion-of-overtime-compensation-from-gross-income",
+      "title": "Section 2  Exclusion of Overtime Compensation from Gross Income",
+      "text": "This section changes the tax code to help workers keep more of their overtime pay. The tax law is being changed by adding a new rule. This new rule says that overtime pay does not count as taxable income. Overtime pay means the extra money workers get when they work more than forty hours in a week, as required by federal labor law called the Fair Labor Standards Act of nineteen thirty eight. The tax code table of contents will be updated to include this new rule about overtime pay. These changes will apply to overtime pay that workers receive after this law is signed.",
+      "word_offset": 15,
+      "char_offset": 77
+    }
+  ]
+}

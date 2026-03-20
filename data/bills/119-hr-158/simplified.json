@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-158",
+  "title": "CLEAN Elections Act",
+  "short_title": "CLEAN Elections Act",
+  "congress": 119,
+  "bill_number": "HR.158",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "8fff906b017de38c",
+  "last_updated": "2026-03-20T13:04:32.516527+00:00",
+  "plain_summary": "The CLEAN Elections Act requires all states to use independent groups of people to draw the lines for congressional districts. These groups must be nonpartisan, which means they cannot favor one political party over another. States must start using these independent groups after the 2020 census count. If states want to receive federal money for running elections, they must also use these same independent groups to draw lines for their state legislature districts. This law is meant to make redistricting more fair by taking it away from politicians who might draw lines to help their own party.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional districts and representation",
+    "Congressional elections",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "redistricting",
+    "gerrymandering",
+    "drawing district lines",
+    "fair elections",
+    "independent redistricting",
+    "nonpartisan districts",
+    "political map drawing",
+    "election fairness",
+    "congressional districts",
+    "voting districts",
+    "map manipulation",
+    "bipartisan redistricting"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Citizen Legislature Anti-Corruption Reform of Elections Act or the CLEAN Elections Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requiring-use-of-independent-nonpartisan-commissions",
+      "title": "Section 2  Requiring Use of Independent Nonpartisan Commissions to Carry Out Redistricting",
+      "text": "Each state must use an independent nonpartisan commission to draw the lines for congressional districts. This requirement starts with the redistricting that happens based on the twenty twenty census. A nonpartisan commission means a group of people who are not favoring one political party over another. States can also choose to use these same types of commissions to draw lines for their state legislative districts. If a state wants to receive federal money for running elections, it must promise to use an independent nonpartisan commission for drawing state legislative district lines. This promise must be made to the Election Assistance Commission (a federal agency that helps states run elections). For a commission to count as nonpartisan and independent, it must have equal numbers of members from the two biggest political parties in the state. The parties are determined by looking at which parties had the most registered voters in the most recent statewide federal election. Also, none of the commission members can be people who currently hold elected office. In this section, the word State means any of the fifty individual states.",
+      "word_offset": 18,
+      "char_offset": 115
+    }
+  ]
+}

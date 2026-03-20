@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-97",
+  "title": "Injunctive Authority Clarification Act of 2025",
+  "short_title": "Injunctive Authority Clarification Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.97",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "77d86e0c7c305b7d",
+  "last_updated": "2026-03-20T12:27:04.078415+00:00",
+  "plain_summary": "This bill limits what federal courts can do when they issue orders to stop the government from enforcing laws. Courts would no longer be able to block the government from enforcing a law against people who are not part of the court case. The only time courts could still protect people not in the case is when those people are represented in a class action lawsuit. This means court orders would mainly apply only to the people who are actually suing the government.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "Civil actions and liability",
+    "Federal district courts",
+    "Judicial procedure and administration",
+    "Jurisdiction and venue"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "court orders",
+    "government lawsuits",
+    "federal judges",
+    "blocking laws",
+    "stopping government",
+    "injunctions",
+    "court rulings",
+    "suing government",
+    "legal protection",
+    "court powers",
+    "class action lawsuits",
+    "enforcing laws"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Injunctive Authority Clarification Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-orders-purporting-to-restrain-enforcement-against-non-parties",
+      "title": "Section 2 Orders Purporting to Restrain Enforcement Against Non-Parties",
+      "text": "This section changes the law about what federal courts can do. It adds a new rule to Chapter one hundred fifty five of title twenty eight of the United States Code. The new rule says that federal courts cannot issue orders that stop the government from enforcing laws against people who are not part of the court case. This includes all federal courts and the district courts in the Virgin Islands, Guam, and the Northern Mariana Islands. The only exception is when someone in the case is legally representing those other people under the Federal Rules of Civil Procedure. This section also updates the table of contents to include the new rule.",
+      "word_offset": 15,
+      "char_offset": 95
+    }
+  ]
+}

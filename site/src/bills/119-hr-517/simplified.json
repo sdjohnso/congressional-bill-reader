@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-517",
+  "title": "Filing Relief for Natural Disasters Act",
+  "short_title": "Filing Relief for Natural Disasters Act",
+  "congress": 119,
+  "bill_number": "HR.517",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S4321)",
+  "version_hash": "89a14fe814458abe",
+  "last_updated": "2026-03-20T11:06:46.137760+00:00",
+  "plain_summary": "This bill makes it easier for people to get extra time to file their taxes when disasters happen. Right now, only disasters declared by the federal government can give people tax deadline extensions, but this bill would let state governors ask for extensions when their state declares a disaster too. The disaster must be something serious like a flood, fire, explosion, or other natural catastrophe that causes major damage. The bill also gives people more time by increasing automatic extensions from 60 days to 120 days for people who live or work in disaster areas or help with disaster relief.",
+  "current_status": "signed_into_law",
+  "status_date": "2025-07-24",
+  "last_action_date": "2025-07-24",
+  "last_action_text": "Became Public Law No: 119-29.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": true,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "District of Columbia",
+    "Internal Revenue Service (IRS)",
+    "Natural disasters",
+    "State and local government operations",
+    "Tax administration and collection, taxpayers",
+    "U.S. territories and protectorates"
+  ],
+  "sponsor_name": "Rep. Kustoff, David [R-TN-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "tax deadline extension",
+    "disaster tax relief",
+    "natural disaster taxes",
+    "hurricane tax help",
+    "flood tax extension",
+    "wildfire tax deadline",
+    "state disaster tax relief",
+    "IRS disaster extension",
+    "emergency tax filing help",
+    "catastrophe tax postponement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law may be called the Filing Relief for Natural Disasters Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modification-of-rules-for-postponing-certain-deadlines-by-reason-of-disaster",
+      "title": "Section 2  Modification of Rules for Postponing Certain Deadlines by Reason of Disaster",
+      "text": "This section changes the tax code to give people more time to file their taxes when disasters happen. First, it allows the Secretary of the Treasury to delay federal tax deadlines when a state governor declares a disaster. The Secretary must talk with the head of FEMA (the Federal Emergency Management Agency) before making this decision. A governor can write a letter asking for this help. The law defines a qualified state declared disaster as any natural disaster like hurricanes, tornadoes, storms, floods, earthquakes, volcanic eruptions, landslides, mudslides, snowstorms, or droughts. It also includes fires, floods, or explosions no matter what caused them. The governor must decide that the disaster caused enough damage to need tax deadline relief. For this law, the word state includes the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands. Second, this section changes how long tax deadline extensions can last. Instead of sixty days, extensions can now last up to one hundred twenty days. These changes will apply to disaster declarations made after this law is signed.",
+      "word_offset": 12,
+      "char_offset": 68
+    }
+  ]
+}

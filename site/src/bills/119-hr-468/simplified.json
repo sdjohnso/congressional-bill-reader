@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-468",
+  "title": "Mel’s Law",
+  "short_title": "Mel’s Law",
+  "congress": 119,
+  "bill_number": "HR.468",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "bb6c522c4eaec537",
+  "last_updated": "2026-03-20T14:09:22.873935+00:00",
+  "plain_summary": "This bill requires colleges and universities that get federal student aid money to have rules for giving degrees to students who die before finishing school. The student must have been doing well in their classes when they died and must have been close to graduating. Schools that give out these special degrees to students who have passed away cannot be punished by the organizations that check if colleges are doing a good job. This helps make sure families can get degrees for students who died before they could finish school.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Higher education",
+    "School administration",
+    "Student records"
+  ],
+  "sponsor_name": "Rep. Velázquez, Nydia M. [D-NY-7]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "posthumous degree",
+    "student died before graduation",
+    "college degree after death",
+    "university degree for deceased student",
+    "federal student aid requirements",
+    "graduation after student death",
+    "degree for dead student",
+    "college rules student dies",
+    "posthumous graduation",
+    "student death degree policy",
+    "federal aid college requirements",
+    "degree after student passes away"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called Mel's Law.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirement-to-award-posthumous-degrees",
+      "title": "Section 2 Requirement to Award Posthumous Degrees",
+      "text": "This section changes the Higher Education Act of nineteen sixty five. It adds new rules that colleges and universities must follow to keep getting federal student aid money. Under the new rules, schools must create a written policy to give degrees to students who die before finishing their studies. The school can only give these after death degrees to students who were enrolled in a degree program at the school, died before finishing that program, and had good enough grades at the time they died that they could have graduated if they had lived. The school gets to decide what good enough grades means based on their own graduation requirements. This section also changes the rules for groups that approve colleges and universities. These approval groups cannot count how many after death degrees a school gives out when deciding whether to approve that school. These new rules will start working one year after this law is signed.",
+      "word_offset": 7,
+      "char_offset": 34
+    }
+  ]
+}

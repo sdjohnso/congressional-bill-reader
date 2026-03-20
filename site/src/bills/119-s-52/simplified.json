@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-s-52",
+  "title": "End Child Trafficking Now Act",
+  "short_title": "End Child Trafficking Now Act",
+  "congress": 119,
+  "bill_number": "S.52",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "fa0454d1098bbdd9",
+  "last_updated": "2026-03-20T12:43:08.423146+00:00",
+  "plain_summary": "This bill creates new rules for adults who are not US citizens when they try to enter the country with children. These adults must prove they are related to the child by showing documents, having witnesses, or taking a DNA test. If an adult cannot prove they are related to the child and refuses to take a DNA test, they will not be allowed into the United States. The bill also makes it a crime for adults to use children they are not related to in order to get into the country, and they could go to prison for up to ten years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Blackburn, Marsha [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "child trafficking",
+    "border security",
+    "immigration children",
+    "DNA testing immigrants",
+    "fake families border",
+    "children crossing border",
+    "human trafficking prevention",
+    "immigration fraud",
+    "separated families immigration",
+    "child safety border",
+    "undocumented children",
+    "border patrol families"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the End Child Trafficking Now Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-dna-testing",
+      "title": "Section 2  DNA Testing",
+      "text": "This section changes immigration law to require proof when adults try to enter the United States with children. Adults eighteen years old or older cannot enter the United States with a child unless they can prove they are related to that child or are the child's legal guardian. To prove this relationship, the adult must show government officials either documents that prove they are related to the child plus have a witness say they are related, or they must take a DNA test given by the Department of Health and Human Services. The Department of Homeland Security will only ask for a DNA test if the documents and witness are not enough proof. If an adult refuses to take a required DNA test, they cannot enter the United States. When this happens, the child will be treated as an unaccompanied child without parents. If a DNA test shows the adult is not related to the child, immigration officers will interview them to find out more. Immigration officers can arrest the adult if they find out the adult is not related to the child and believe the adult committed serious crimes like human trafficking, recycling of a minor, or alien smuggling. In this law, a minor means any person under eighteen years old. Recycling means using the same child more than once to help different adults enter the United States when those adults are not related to the child. A relative means someone related by blood within two degrees, which includes parents, children, grandparents, grandchildren, siblings, aunts, uncles, nieces, and nephews.",
+      "word_offset": 11,
+      "char_offset": 58
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-criminalizing-recycling-of-minors",
+      "title": "Section 3  Criminalizing Recycling of Minors",
+      "text": "This section creates a new federal crime. Any person eighteen years old or older who knowingly uses a child to help them enter the United States, when that person is not related to the child or the child's guardian, can be fined and sent to prison for up to ten years. A relative means someone related by blood within two degrees, which includes parents, children, grandparents, grandchildren, siblings, aunts, uncles, nieces, and nephews.",
+      "word_offset": 271,
+      "char_offset": 1591
+    }
+  ]
+}

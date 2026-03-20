@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-42",
+  "title": "Alaska Native Settlement Trust Eligibility Act",
+  "short_title": "Alaska Native Settlement Trust Eligibility Act",
+  "congress": 119,
+  "bill_number": "HR.42",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "cb0ffd446ab88bce",
+  "last_updated": "2026-03-20T14:39:26.853554+00:00",
+  "plain_summary": "This law helps Alaska Native people who are elderly, blind, or have disabilities. When these people get money from special Alaska Native Settlement Trusts, that money will not count against them when they apply for government help programs like food stamps. This means they can still get the government benefits they need even if they receive trust payments. The rule will last for five years and makes sure Alaska Native people can get both their trust money and government assistance at the same time.",
+  "current_status": "signed_into_law",
+  "status_date": "2025-07-07",
+  "last_action_date": "2025-07-07",
+  "last_action_text": "Became Public Law No: 119-22.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": true,
+  "vetoed": false,
+  "policy_area": "Native Americans",
+  "subjects": [
+    "Alaska Natives and Hawaiians",
+    "Disability assistance",
+    "Food assistance and relief",
+    "Indian claims",
+    "Poverty and welfare assistance"
+  ],
+  "sponsor_name": "Rep. Begich, Nicholas [R-AK-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "AK",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Alaska Native benefits",
+    "elderly disability assistance",
+    "food stamps Alaska",
+    "Native trust money",
+    "government benefits eligibility",
+    "Alaska Native settlement",
+    "disability benefits Alaska",
+    "trust payments welfare",
+    "Native American assistance",
+    "Alaska indigenous benefits",
+    "elderly Native benefits",
+    "disability trust income"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Alaska Native Settlement Trust Eligibility Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-eligibility-for-certain-programs",
+      "title": "Section 2 Eligibility for Certain Programs",
+      "text": "This section changes an existing law called the Alaska Native Claims Settlement Act. The change affects how certain payments are counted when determining if someone qualifies for government programs. The new rule says that money or benefits given to Alaska Natives or their descendants from a Settlement Trust (a special type of fund created for Alaska Natives) will not count against their eligibility for certain programs. This protection applies specifically to Alaska Natives or their descendants who are aged, blind, or disabled, as defined by Social Security rules. This special protection will last for five years starting from when this new law takes effect.",
+      "word_offset": 12,
+      "char_offset": 75
+    }
+  ]
+}

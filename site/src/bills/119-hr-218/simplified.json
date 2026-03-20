@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-218",
+  "title": "State Immigration Enforcement Act",
+  "short_title": "State Immigration Enforcement Act",
+  "congress": 119,
+  "bill_number": "HR.218",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "98c74d74111b8945",
+  "last_updated": "2026-03-20T12:39:33.138134+00:00",
+  "plain_summary": "This bill lets state and local governments make their own immigration laws. These laws can punish people who break federal immigration rules, but the punishments cannot be worse than what federal law already says. The bill also removes a federal rule that stopped states and cities from making laws about punishing employers who hire workers without permission to work in the United States. Now states and local areas can create these employer laws too.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "state immigration laws",
+    "local immigration enforcement",
+    "city immigration rules",
+    "state vs federal immigration",
+    "employer hiring laws",
+    "undocumented worker penalties",
+    "immigration enforcement by states",
+    "local government immigration power",
+    "state immigration control",
+    "hiring unauthorized workers",
+    "immigration law enforcement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the State Immigration Enforcement Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-state-enforcement-of-immigration-laws",
+      "title": "Section 2 State Enforcement of Immigration Laws",
+      "text": "States and local governments can create and enforce their own criminal laws that punish the same illegal actions that federal immigration laws already make crimes. However, the punishments they create cannot be harsher than what federal law allows. They cannot give longer jail sentences or bigger fines than the federal government would give for the same crime. They also cannot change other things like whether someone can get probation or be pardoned. States and local governments can also create and enforce civil penalties. These are fines and other non-criminal punishments for breaking immigration rules. Again, these penalties cannot be more severe than what federal immigration law already allows.",
+      "word_offset": 10,
+      "char_offset": 62
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-conforming-amendment",
+      "title": "Section 3 Conforming Amendment",
+      "text": "This section removes paragraph two from an existing immigration law. The law being changed deals with employers who hire people who are not legally allowed to work in the United States.",
+      "word_offset": 118,
+      "char_offset": 769
+    }
+  ]
+}

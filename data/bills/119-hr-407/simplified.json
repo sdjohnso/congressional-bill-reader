@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-407",
+  "title": "Prevent Tariff Abuse Act",
+  "short_title": "Prevent Tariff Abuse Act",
+  "congress": 119,
+  "bill_number": "HR.407",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be sub",
+  "version_hash": "5e55c27da2f3cd38",
+  "last_updated": "2026-03-20T11:31:29.163147+00:00",
+  "plain_summary": "The Prevent Tariff Abuse Act is a law that limits what the President can do during emergencies. Right now, the President can use emergency powers to put extra taxes called tariffs on goods coming from other countries. This bill would take away that power so the President could not use national emergencies as a reason to make imports more expensive. The goal is to prevent the misuse of emergency powers to control trade with other nations.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such prov",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Foreign Trade and International Finance",
+  "subjects": [
+    "Presidents and presidential powers, Vice Presidents",
+    "Tariffs",
+    "Trade restrictions"
+  ],
+  "sponsor_name": "Rep. DelBene, Suzan K. [D-WA-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "WA",
+  "cosponsor_count": 72,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "emergency powers",
+    "president tariffs",
+    "import taxes",
+    "trade war limits",
+    "presidential abuse",
+    "emergency tariffs",
+    "import restrictions",
+    "trade powers",
+    "presidential overreach",
+    "tariff authority",
+    "emergency trade rules",
+    "import tax limits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Prevent Tariff Abuse Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-the-imposition-of-import-duties-and-quotas-from-presidential-authorities-under-the-international-emergency-economic-powers-act",
+      "title": "Section 2  Prohibition on the Imposition of Import Duties and Quotas from Presidential Authorities Under the International Emergency Economic Powers Act",
+      "text": "This section changes an existing law called the International Emergency Economic Powers Act. The change moves one part of the law to a new location and adds new language. The new language says that when the President uses emergency economic powers, those powers do not include the ability to put taxes called duties on goods coming into the United States. The President also cannot use these emergency powers to set limits called quotas on how much of certain products can enter the country. This includes both regular quotas and tariff-rate quotas (which are limits that trigger higher taxes when exceeded).",
+      "word_offset": 10,
+      "char_offset": 53
+    }
+  ]
+}

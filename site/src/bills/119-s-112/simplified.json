@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-s-112",
+  "title": "Make the Migrant Protection Protocols Mandatory Act of 2025",
+  "short_title": "Make the Migrant Protection Protocols Mandatory Act of 2025",
+  "congress": 119,
+  "bill_number": "S.112",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "6b640420f6726b63",
+  "last_updated": "2026-03-20T12:56:02.094404+00:00",
+  "plain_summary": "This bill changes the rules for people who come to the US border from Mexico or Canada asking to stay in the country. Right now, immigration officials can choose to either keep these people in detention centers in the US or send them back to wait in Mexico or Canada while their cases are decided. This bill would require officials to always send them back to wait in the neighboring country instead of giving officials a choice. The people would have to stay outside the US until a judge decides whether they can legally enter the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Blackburn, Marsha [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigration",
+    "border policy",
+    "asylum seekers",
+    "wait in Mexico",
+    "border detention",
+    "immigration court",
+    "border security",
+    "deportation rules",
+    "migrant policy",
+    "border crossings",
+    "immigration law changes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Make the Migrant Protection Protocols Mandatory Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-mandatory-implementation-of-the-migrant-protection-protocols",
+      "title": "Section 2  Mandatory Implementation of the Migrant Protection Protocols",
+      "text": "This section changes part of the Immigration and Nationality Act. The change is very small but important. Where the law currently says immigration officials may use the Migrant Protection Protocols (a system that makes certain people seeking asylum wait in Mexico while their cases are decided), it will now say they shall use these protocols. This means immigration officials will be required to use this system instead of having a choice about whether to use it or not.",
+      "word_offset": 18,
+      "char_offset": 108
+    }
+  ]
+}

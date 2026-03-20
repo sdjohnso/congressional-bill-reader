@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-341",
+  "title": "Railroad Responsibility Act of 2025",
+  "short_title": "Railroad Responsibility Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.341",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.",
+  "version_hash": "6791cd4c20cf74e0",
+  "last_updated": "2026-03-20T11:06:13.816584+00:00",
+  "plain_summary": "This bill lets states make their own rules about how long trains can block road crossings. Right now, federal law stops states from making these rules, so when trains block roads for a long time, states cannot do much about it. The bill changes this by saying federal transportation laws will not override state laws that limit how long railroad companies can block crossings. This means states can pass laws to prevent trains from blocking roads and driveways for too long.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "train blocking roads",
+    "railroad crossing delays",
+    "trains stuck on tracks",
+    "blocked railroad crossings",
+    "state train rules",
+    "long trains blocking traffic",
+    "railroad company regulations",
+    "train blocking driveways",
+    "stuck at train crossing",
+    "state railroad laws",
+    "train crossing wait times"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Railroad Responsibility Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-state-authority-to-limit-blocking-grade-rail-crossings",
+      "title": "Section 2 State Authority to Limit Blocking Grade Rail Crossings",
+      "text": "This section changes two parts of federal transportation law to give states new powers over railroad crossings. First, it adds new language to the law about the Surface Transportation Board (a federal agency that regulates railroads). The new language says that federal railroad law does not stop states from making their own laws about how long railroad companies can block grade rail crossings. A grade rail crossing is where railroad tracks cross a road at the same level. Second, it adds similar language to another part of federal law about preemption (when federal law overrides state law). This new language also says that federal law does not prevent states from making rules about how long trains can block road crossings. The section explains that when it uses the word State, it means any of the fifty states or the District of Columbia.",
+      "word_offset": 14,
+      "char_offset": 84
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hr-636",
+  "title": "Pregnancy Resource Center Defense Act",
+  "short_title": "Pregnancy Resource Center Defense Act",
+  "congress": 119,
+  "bill_number": "HR.636",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "7a7fd4264b8b1110",
+  "last_updated": "2026-03-20T14:23:10.453405+00:00",
+  "plain_summary": "This bill makes the punishments stronger for people who damage or destroy pregnancy resource centers and religious buildings like churches. Pregnancy resource centers are places that help pregnant women with options other than abortion. If someone breaks, damages, or destroys these buildings on purpose, they will face longer jail time and have to pay more money as punishment. The bill also gives stricter punishments if someone uses fire or explosives to damage these places.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Abortion",
+    "Civil actions and liability",
+    "Crimes against property",
+    "Criminal procedure and sentencing",
+    "Family planning and birth control",
+    "Fires",
+    "Religion",
+    "U.S. Sentencing Commission"
+  ],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "pregnancy centers",
+    "church protection",
+    "religious building attacks",
+    "abortion clinic alternatives",
+    "vandalism punishment",
+    "pregnancy help centers",
+    "religious freedom",
+    "building damage penalties",
+    "pro-life centers",
+    "faith-based facilities",
+    "pregnancy support services",
+    "anti-religious violence"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Pregnancy Resource Center Defense Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-attacks-on-facilities-providing-counseling-about-abortion-alternatives-and-places-of-religious-worship",
+      "title": "Section 2 Attacks on Facilities Providing Counseling About Abortion Alternatives and Places of Religious Worship",
+      "text": "This section changes the penalties for attacking certain facilities and places of worship. If someone commits a first offense against a pregnancy resource center that only helps women with alternatives to abortion, or against a place of religious worship, and the attack was not just peacefully blocking access, they can be sentenced to up to three years in prison. The section also increases the money penalties. For attacks on pregnancy resource centers that only provide alternatives to abortion or on places of religious worship, the penalty increases to twenty thousand dollars per violation. For a first violation involving these same facilities that was not just peacefully blocking access, the penalty is twenty five thousand dollars.",
+      "word_offset": 11,
+      "char_offset": 66
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-destruction-of-buildings-vehicles-and-property",
+      "title": "Section 3 Destruction of Buildings, Vehicles, and Property",
+      "text": "This section increases penalties for destroying property with explosives. If someone uses explosives to damage a pregnancy resource center that only provides alternatives to abortion or a place of religious worship, they must be sentenced to at least seven years in prison.",
+      "word_offset": 126,
+      "char_offset": 809
+    }
+  ]
+}

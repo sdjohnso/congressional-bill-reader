@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-320",
+  "title": "Make Marriage Great Again Act of 2025",
+  "short_title": "Make Marriage Great Again Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.320",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "404d55337994225b",
+  "last_updated": "2026-03-20T13:48:05.122918+00:00",
+  "plain_summary": "This bill changes how much tax married couples have to pay. Right now, married couples who file their taxes together sometimes end up paying more taxes than they would if they were single. The bill fixes this by making the tax amounts for married couples exactly twice what single people pay. It also gets rid of the option for married couples to file separate tax returns. These changes start with taxes filed in 2025.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "marriage penalty",
+    "married couples taxes",
+    "tax penalty for married",
+    "filing taxes married",
+    "married tax rates",
+    "single vs married taxes",
+    "joint tax filing",
+    "marriage tax burden",
+    "couples paying more taxes",
+    "married filing separately",
+    "tax breaks for married",
+    "spousal tax disadvantage"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Make Marriage Great Again Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-elimination-of-marriage-penalty-in-income-tax-rate-brackets",
+      "title": "Section 2 Elimination of Marriage Penalty in Income Tax Rate Brackets",
+      "text": "This section changes the tax code to fix a problem where married couples sometimes pay more taxes than they would if they were single. Starting with tax year two thousand twenty five, the tax rules will work this way. For married couples filing together, the tax brackets (the income ranges that determine tax rates) will be exactly double the brackets for single people. This means married couples will not be pushed into higher tax rates just because they are married. The tax code will treat married couples filing together the same as two single people when calculating their tax brackets. The current rules that create higher taxes for some married couples will no longer apply. These changes take effect for tax years that begin after December thirty first, two thousand twenty four.",
+      "word_offset": 16,
+      "char_offset": 86
+    }
+  ]
+}

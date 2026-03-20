@@ -1,0 +1,157 @@
+{
+  "bill_id": "119-hr-33",
+  "title": "To amend the Internal Revenue Code of 1986 to provide special rules for the taxation of certain residents of Taiwan with income from sources within the United States.",
+  "short_title": "United States-Taiwan Tax Agreement Authorization Act",
+  "congress": 119,
+  "bill_number": "HR.33",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+  "version_hash": "d2ad0b341a191fc8",
+  "last_updated": "2026-03-20T15:04:51.018209+00:00",
+  "plain_summary": "This bill changes tax rules for people who live in Taiwan but earn money in the United States. It lowers the taxes these Taiwan residents have to pay right away. The bill also lets the President work with Taiwan to create a bigger tax agreement that would set more detailed rules. Before any new agreement can become law, both the US Congress and Taiwan must agree to it. Congress will watch over the negotiations to make sure everything is done properly.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Accounting and auditing",
+    "Administrative law and regulatory procedures",
+    "Asia",
+    "Athletes",
+    "Congressional oversight",
+    "Department of the Treasury",
+    "Foreign and international corporations",
+    "Foreign property",
+    "Immigration status and procedures",
+    "Income tax rates",
+    "Interest, dividends, interest rates",
+    "Securities",
+    "Service industries",
+    "Taiwan",
+    "Tax administration and collection, taxpayers",
+    "Taxation of foreign income",
+    "U.S. and foreign investments",
+    "Wages and earnings"
+  ],
+  "sponsor_name": "Rep. Smith, Jason [R-MO-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 46,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Taiwan taxes",
+    "US income tax Taiwan",
+    "foreign workers taxes",
+    "Taiwan residents working America",
+    "international tax agreement",
+    "lower taxes Taiwan",
+    "cross border income",
+    "Taiwan US tax treaty",
+    "foreign income taxes",
+    "Taiwan workers United States"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-101-short-title",
+      "title": "Section 101  Short Title",
+      "text": "This part of the law can be called the United States-Taiwan Expedited Double-Tax Relief Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-102-special-rules-for-taxation-of-certain-residents-of-taiwan",
+      "title": "Section 102  Special Rules for Taxation of Certain Residents of Taiwan",
+      "text": "This section creates new tax rules for people who live in Taiwan and earn money from United States sources. The new rules reduce the tax rates that Taiwan residents pay on certain types of income they earn in the United States. For interest, dividends, and royalties, Taiwan residents will pay ten percent tax instead of the usual thirty percent. For dividends from stock ownership, the rate is fifteen percent, or ten percent if the Taiwan resident is a corporation that owns at least ten percent of the company paying the dividend. Taiwan residents will pay no United States tax on wages they earn working in the United States if their employer is not a United States company. Entertainers and athletes from Taiwan will pay no tax if they earn less than thirty thousand dollars per year from performances in the United States. Taiwan residents who run businesses in the United States through a permanent establishment will pay United States business tax rates on income connected to that business. A permanent establishment means a fixed place of business like an office, factory, or branch that lasts more than twelve months. To qualify for these benefits, a person must be a Taiwan resident who pays taxes in Taiwan and is not a United States person. Taiwan corporations must meet additional ownership requirements to prevent abuse of these rules. The Secretary of the Treasury will only apply these rules if Taiwan provides similar tax benefits to United States residents.",
+      "word_offset": 15,
+      "char_offset": 93
+    },
+    {
+      "id": "s3",
+      "slug": "section-201-short-title",
+      "title": "Section 201  Short Title",
+      "text": "This part of the law can be called the United States-Taiwan Tax Agreement Authorization Act.",
+      "word_offset": 261,
+      "char_offset": 1571
+    },
+    {
+      "id": "s4",
+      "slug": "section-202-definitions",
+      "title": "Section 202  Definitions",
+      "text": "This section explains what important terms mean in this law. Agreement means the tax agreement that the President is allowed to negotiate with Taiwan. Appropriate congressional committees means the Senate Committee on Foreign Relations, the Senate Committee on Finance, and the House Committee on Ways and Means. Approval legislation means a law that Congress passes to approve the tax agreement. Implementing legislation means a law that changes the tax code to put the agreement into effect.",
+      "word_offset": 276,
+      "char_offset": 1664
+    },
+    {
+      "id": "s5",
+      "slug": "section-203-authorization-to-negotiate-and-enter-into-agreement",
+      "title": "Section 203  Authorization to Negotiate and Enter Into Agreement",
+      "text": "After the Treasury Secretary determines that Taiwan is providing tax benefits to United States residents, the President can negotiate and sign a comprehensive tax agreement with Taiwan. This agreement must follow the same format as regular United States tax treaties with other countries, using the two thousand sixteen United States Model Income Tax Convention as a guide. The agreement can include existing tax relief laws but cannot go beyond what is normally in tax treaties. The agreement must state that it is authorized by this law. The agreement will only become effective after Congress passes laws to approve it and Taiwan also approves it.",
+      "word_offset": 352,
+      "char_offset": 2158
+    },
+    {
+      "id": "s6",
+      "slug": "section-204-consultations-with-congress",
+      "title": "Section 204  Consultations with Congress",
+      "text": "The President must tell the appropriate congressional committees at least fifteen days before starting negotiations with Taiwan on a tax agreement. Every ninety days during negotiations, and then every one hundred eighty days after that, the President must brief these committees on how the talks are going. The Treasury Secretary and State Secretary must meet with committee leaders when requested and keep Congress fully informed throughout the process. These consultations must cover what the agreement will look like, how it follows the rules in this law, and how it will be put into practice.",
+      "word_offset": 456,
+      "char_offset": 2809
+    },
+    {
+      "id": "s7",
+      "slug": "section-205-approval-and-implementation-of-agreement",
+      "title": "Section 205  Approval and Implementation of Agreement",
+      "text": "Before the tax agreement can take effect, the President must publish the full text on the Treasury Department website at least sixty days before signing it. Congress must then pass two separate laws: one approving the agreement and another changing the tax code to implement it. The agreement becomes effective only after Congress passes both laws and the Treasury Secretary confirms that Taiwan has also approved and implemented the agreement on their side.",
+      "word_offset": 550,
+      "char_offset": 3407
+    },
+    {
+      "id": "s8",
+      "slug": "section-206-submission-to-congress-of-agreement-and-implementation-policy",
+      "title": "Section 206  Submission to Congress of Agreement and Implementation Policy",
+      "text": "Within two hundred seventy days after the President signs the tax agreement with Taiwan, the President must send Congress the final text of the agreement and a technical explanation of how it works. The Treasury Secretary must also send Congress a description of what changes to existing laws will be needed and what administrative actions the Treasury will take to implement the agreement.",
+      "word_offset": 623,
+      "char_offset": 3866
+    },
+    {
+      "id": "s9",
+      "slug": "section-207-consideration-of-approval-legislation-and-implementing-legislation",
+      "title": "Section 207  Consideration of Approval Legislation and Implementing Legislation",
+      "text": "The law that approves the tax agreement must include specific language stating that Congress approves the agreement submitted on a particular date. In the Senate, the approval legislation goes to the Foreign Relations Committee, while in the House it goes to the Ways and Means Committee. The implementing legislation that changes the tax code goes to the Finance Committee in the Senate and the Ways and Means Committee in the House.",
+      "word_offset": 686,
+      "char_offset": 4257
+    },
+    {
+      "id": "s10",
+      "slug": "section-208-relationship-of-agreement-to-internal-revenue-code-of-1986",
+      "title": "Section 208  Relationship of Agreement to Internal Revenue Code of 1986",
+      "text": "If any part of the tax agreement conflicts with existing United States tax law, the existing tax law wins. This law does not change any existing United States law or limit any existing authority unless specifically stated.",
+      "word_offset": 757,
+      "char_offset": 4692
+    },
+    {
+      "id": "s11",
+      "slug": "section-209-authorization-of-subsequent-tax-agreements-relative-to-taiwan",
+      "title": "Section 209  Authorization of Subsequent Tax Agreements Relative to Taiwan",
+      "text": "After Congress approves the first tax agreement with Taiwan, the President can negotiate additional tax agreements that supplement or replace the original agreement. Each new agreement must follow the same process of congressional consultation, approval, and implementation as the first agreement.",
+      "word_offset": 794,
+      "char_offset": 4915
+    },
+    {
+      "id": "s12",
+      "slug": "section-210-united-states-treatment-of-double-taxation-matters-with-respect-to-taiwan",
+      "title": "Section 210  United States Treatment of Double Taxation Matters with Respect to Taiwan",
+      "text": "Congress states that the United States normally handles double taxation issues by making tax treaties with foreign countries, which the Senate must approve. The United States has more than sixty such treaties that help the economy and benefit American taxpayers. Because of Taiwan's unique situation, the United States cannot make a regular treaty with Taiwan, so this special agreement process is needed. Congress declares that the United States will only provide additional tax relief to Taiwan beyond what is in this law after a comprehensive agreement takes effect. The United States will continue making regular tax treaties with other countries through the normal Senate approval process.",
+      "word_offset": 835,
+      "char_offset": 5213
+    }
+  ]
+}

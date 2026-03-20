@@ -1,0 +1,52 @@
+{
+  "bill_id": "119-hr-505",
+  "title": "To impose additional duties on imports of goods into the United States.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.505",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "ad1dcc7bdff4b75d",
+  "last_updated": "2026-03-20T13:26:51.578344+00:00",
+  "plain_summary": "This bill would make the President add a 10% tax on all products that come into the United States from other countries. If America buys more from other countries than it sells to them, the tax would go up by 5% each year. If America sells more than it buys or if trade is equal, the tax would go down by 5% each year. The tax can never go below zero dollars.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Foreign Trade and International Finance",
+  "subjects": [
+    "Tariffs"
+  ],
+  "sponsor_name": "Rep. Golden, Jared F. [D-ME-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "ME",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "import tax",
+    "tariff",
+    "foreign goods tax",
+    "trade deficit",
+    "imports from other countries",
+    "products from abroad",
+    "international trade tax",
+    "customs duties",
+    "trade imbalance",
+    "overseas imports tax"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-imposition-of-additional-duties-on-imports-of-goods-into-the-united-states",
+      "title": "Section 1  Imposition of Additional Duties on Imports of Goods Into the United States",
+      "text": "The President must add extra taxes on all goods brought into the United States from other countries. Starting when this law takes effect, there will be an extra tax of ten percent of the value of every imported good each year. After the first year, the tax amount will change based on whether the United States bought more from other countries than it sold to them. If the United States bought more than it sold in the previous year, the tax will go up by five more percent of the goods value. If the United States sold the same amount or more than it bought in the previous year, the tax will go down by five percent of the goods value. However, the tax can never go below zero dollars. These new taxes are added on top of any other import taxes that already exist by law.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

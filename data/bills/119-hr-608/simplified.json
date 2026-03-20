@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-608",
+  "title": "COVER Now Act",
+  "short_title": "COVER Now Act",
+  "congress": 119,
+  "bill_number": "HR.608",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "b58d122ead57d689",
+  "last_updated": "2026-03-20T14:38:40.697480+00:00",
+  "plain_summary": "This bill creates a program that lets cities and counties provide health insurance to low-income adults in states that chose not to expand Medicaid. The federal government will pay all the costs for the first three years and most costs after that. Local governments can run this program for up to 10 years or until their state decides to expand Medicaid. The bill also stops states from punishing cities and counties that join this program by cutting their funding or raising their taxes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Congressional oversight",
+    "Government studies and investigations",
+    "Intergovernmental relations",
+    "Medicaid",
+    "State and local finance",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Doggett, Lloyd [D-TX-37]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 35,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "health insurance",
+    "low income healthcare",
+    "medicaid expansion",
+    "city health programs",
+    "county health coverage",
+    "free healthcare",
+    "local government insurance",
+    "healthcare for poor",
+    "medicaid alternative",
+    "community health insurance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Cover Outstanding Vulnerable Expansion-eligible Residents Now Act or the COVER Now Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-demonstration-project-for-political-subdivisions",
+      "title": "Section 2  Demonstration Project for Political Subdivisions of States to Provide Medical Assistance for Medicaid Expansion Population",
+      "text": "This section changes the Social Security Act to create a test program. This test program will let local governments like counties or cities provide Medicaid health coverage to certain low-income adults, even if their state has not expanded Medicaid.\n\nTo qualify for this test program, a local government must be in a state that has not expanded Medicaid. The local government must apply to the federal government and hold public meetings so people can give their opinion about the program.\n\nLocal governments that join this test program will provide health coverage for up to seven years. They can ask to extend this for up to five more years. If the state later decides to expand Medicaid, people getting coverage through the local program will automatically move to the state program.\n\nThe federal government will pay most of the costs. For the first three years, the federal government pays one hundred percent. After that, the federal government pays between ninety and one hundred percent, with rural areas getting higher payment rates.\n\nThe health coverage must include essential health benefits like doctor visits, hospital care, and prescription drugs.\n\nStates cannot punish local governments for joining this program. States cannot make local governments pay more taxes, stop them from joining, or refuse to let them use state systems to run the program. If states do these things, they will lose twenty-five percent of their federal Medicaid administrative funding.\n\nThe federal government must write rules for this program within one hundred eighty days. Local governments have one hundred eighty days to get an answer about their application. No more than one hundred local governments or groups of local governments can join this test program.\n\nFour years after the first program starts, the federal government must report to Congress about how well it worked, including how many people got coverage and whether any states decided to expand Medicaid because of this program.\n\nThe federal government will also give states extra money to help with administrative costs when local governments in their state run these programs.",
+      "word_offset": 18,
+      "char_offset": 115
+    }
+  ]
+}

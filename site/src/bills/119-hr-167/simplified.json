@@ -1,0 +1,102 @@
+{
+  "bill_id": "119-hr-167",
+  "title": "Community Reclamation Partnerships Act of 2025",
+  "short_title": "Community Reclamation Partnerships Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.167",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+  "version_hash": "9e885f9f1c081139",
+  "last_updated": "2026-03-20T13:05:05.140836+00:00",
+  "plain_summary": "This law helps clean up old coal mining sites that were abandoned before 1977 and are still causing pollution. It lets states work with government agencies to fix polluted water from these old mines. The law also lets states partner with private companies called Community Reclaimers to clean up damaged mining land, but these companies must follow strict rules and cannot be the ones who originally caused the damage. These programs will run until 2032 to help restore land and water that was harmed by old coal mining.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-14",
+  "last_action_date": "2025-05-14",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [
+    "Coal",
+    "Environmental assessment, monitoring, research",
+    "Government liability",
+    "Hazardous wastes and toxic substances",
+    "Intergovernmental relations",
+    "Land use and conservation",
+    "Mining",
+    "Public participation and lobbying",
+    "State and local government operations",
+    "Water quality"
+  ],
+  "sponsor_name": "Rep. LaHood, Darin [R-IL-16]",
+  "sponsor_party": "R",
+  "sponsor_state": "IL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "coal mining cleanup",
+    "abandoned mine pollution",
+    "water pollution from mining",
+    "old mining sites",
+    "coal mine restoration",
+    "mining damage repair",
+    "polluted water cleanup",
+    "abandoned coal mines",
+    "environmental cleanup partnerships",
+    "mining site reclamation",
+    "coal pollution remediation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Community Reclamation Partnerships Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reference",
+      "title": "Section 2 Reference",
+      "text": "Unless this law says otherwise, when it talks about changing a rule, it means changing a rule in the Surface Mining Control and Reclamation Act of nineteen seventy seven. This older law has the legal code number thirty United States Code twelve hundred one and following sections.",
+      "word_offset": 15,
+      "char_offset": 95
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-state-memoranda-understanding-certain-remediation",
+      "title": "Section 3 State Memoranda of Understanding for Certain Remediation",
+      "text": "This section adds new rules to Section four hundred five of the older mining law. It creates two new programs. The first program lets states make agreements with federal and state agencies to clean up polluted water from old abandoned mines. These agreements must include plans to make sure the cleanup work actually improves water quality. They must also include plans for watching the water quality, testing it, and reporting the results. The agreements need to cover how treatment systems will be operated and maintained to keep the water clean. Before a state can submit an agreement, it must let the public comment on it and hold at least one public meeting in a place where affected people can attend. The state must give at least fifteen days notice of the meeting in local newspapers and on the internet. The agreement must include responses to important concerns raised by the public within thirty days. The state sends the agreement to the Secretary of the Interior and the head of the Environmental Protection Agency for approval. They have one hundred twenty days to approve or reject it if they think it will help improve water quality. Once approved, the agreement becomes part of the state's official plan for cleaning up abandoned mines. The second program lets Community Reclaimers work with states to clean up abandoned mine lands. A Community Reclaimer is a person or company that wants to help with cleanup work but did not cause the original mining damage. The Secretary must approve Community Reclaimer projects within one hundred twenty days if certain conditions are met. The project must be done by an approved Community Reclaimer or their approved subcontractors. If the project deals with mine water drainage, it must follow an approved state agreement. The project must be at a site that is officially listed as needing cleanup. The project must meet all required submission criteria. The state must agree to take responsibility for any costs or damages from the Community Reclaimer's work, except if the Community Reclaimer acts with gross negligence or intentional wrongdoing. This protection only applies if the Community Reclaimer or site owner did not help create the original damage. The state must have legal authority to do the project and get all required permits and approvals. The state must have enough money to complete the project including ongoing operation and maintenance costs and emergency actions. The project cannot be one that would need a special permit under title five of environmental law. States must submit detailed information when requesting project approval including engineering plans sealed by a professional engineer, site descriptions, identification of past and current site owners and operators, the agreement between the state and Community Reclaimer, proof the project fits the state cleanup plan, information showing the Community Reclaimer has technical skills and money to complete the work, a project schedule, an agreement for site access, proof the Community Reclaimer meets the definition, an emergency response plan, detailed plans for any recycling of old mine materials, and a requirement for public notice and meetings before starting work. Community Reclaimers can reprocess materials found during cleanup only if the land management agency approves it as part of the state cleanup plan, the money from selling the materials pays for cleanup costs and reimburses federal agencies, and the materials are only historic mine waste. A Community Reclaimer is defined as someone who wants to help with cleanup voluntarily, did not cause the original damage at the site, and does not have outstanding violations of mining law.",
+      "word_offset": 62,
+      "char_offset": 376
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-clarifying-state-liability-mine-drainage-projects",
+      "title": "Section 4 Clarifying State Liability for Mine Drainage Projects",
+      "text": "This section changes Section four hundred thirteen of the older mining law to make clear that states will not be held responsible under the Federal Water Pollution Control Act if they follow approved state agreements for cleaning up mine water drainage.",
+      "word_offset": 653,
+      "char_offset": 4075
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-conforming-amendments",
+      "title": "Section 5 Conforming Amendments",
+      "text": "This section updates Section four hundred five of the older mining law to require that state plans include a list of proposed Community Reclaimer projects.",
+      "word_offset": 694,
+      "char_offset": 4329
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-sunset-provision",
+      "title": "Section 6 Sunset Provision",
+      "text": "This law will stop working on September thirtieth, two thousand thirty two.",
+      "word_offset": 719,
+      "char_offset": 4485
+    }
+  ]
+}

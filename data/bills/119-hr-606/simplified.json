@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-606",
+  "title": "Energy Opportunities for All Act",
+  "short_title": "Energy Opportunities for All Act",
+  "congress": 119,
+  "bill_number": "HR.606",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "e474804101e9e079",
+  "last_updated": "2026-03-20T14:43:26.352668+00:00",
+  "plain_summary": "The Energy Opportunities for All Act is a bill that would cancel a government rule from 2023. That rule stopped companies from mining and drilling for oil, gas, and minerals on public lands near Chaco Culture National Historical Park in New Mexico. If this bill passes, companies would be allowed to mine and drill in those areas again. The bill aims to create more energy opportunities by removing restrictions on these activities.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Department of the Interior",
+    "Land use and conservation",
+    "Mining",
+    "New Mexico"
+  ],
+  "sponsor_name": "Rep. Crane, Elijah [R-AZ-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "oil drilling public lands",
+    "gas mining New Mexico",
+    "Chaco park drilling",
+    "energy companies public land",
+    "government land mining rules",
+    "oil gas extraction restrictions",
+    "New Mexico energy drilling",
+    "public lands oil permits",
+    "energy development government land",
+    "drilling near national parks"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Energy Opportunities for All Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-public-land-order-no-7923-nullified",
+      "title": "Section 2 Public Land Order No. 7923 Nullified",
+      "text": "Public Land Order Number seven thousand nine hundred twenty three is canceled and has no power. This order was published in the Federal Register on June seventh, two thousand twenty three. It stopped people from mining for oil, gas, and minerals on public land around Chaco Culture National Historical Park in San Juan County, New Mexico. Now this order cannot be enforced anymore.",
+      "word_offset": 11,
+      "char_offset": 61
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-191",
+  "title": "LICENSE Act of 2025",
+  "short_title": "LICENSE Act of 2025",
+  "congress": 119,
+  "bill_number": "S.191",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "version_hash": "d17dfd2997727e05",
+  "last_updated": "2026-03-20T10:50:58.618483+00:00",
+  "plain_summary": "The LICENSE Act of 2025 tells the Transportation Department to change the rules for commercial driver's license testing within 90 days. The new rules would let more people give the written knowledge tests to truck drivers, as long as they have the right training and certificates. The bill also says any state can test drivers for their driving skills, even if those drivers live in a different state or got their training somewhere else. These changes are similar to temporary rules that were used during COVID-19 to make testing easier.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Sen. Lummis, Cynthia M. [R-WY]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "truck driver license",
+    "commercial driver test",
+    "CDL testing",
+    "truck driver exam",
+    "driving test rules",
+    "transportation department",
+    "driver license changes",
+    "truck driving school",
+    "commercial vehicle license",
+    "driver testing requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Licensing Individual Commercial Exam-takers Now Safely and Efficiently Act of 2025 or the LICENSE Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modifications-to-certain-commercial-drivers-license-regulations",
+      "title": "Section 2  Modifications to Certain Commercial Driver's License Regulations",
+      "text": "Within ninety days after this law is passed, the Secretary of Transportation must work with the Federal Motor Carrier Safety Administration to make two important changes to the rules about commercial driver's licenses. First, they must change the rules to let states or private testing companies give the written knowledge test for commercial driver's licenses. The person giving the test must have a valid certification to test commercial drivers, must complete a training course for skills testing that meets federal requirements, and must complete one unit of instruction as specified in the current rules. Second, they must change the rules to allow any state to give the driving skills test to anyone applying for a commercial driver's license, no matter what state the person lives in or where they learned to drive.",
+      "word_offset": 23,
+      "char_offset": 138
+    }
+  ]
+}

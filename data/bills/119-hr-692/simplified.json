@@ -1,0 +1,80 @@
+{
+  "bill_id": "119-hr-692",
+  "title": "China Exchange Rate Transparency Act of 2025",
+  "short_title": "China Exchange Rate Transparency Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.692",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+  "version_hash": "ed15c6b8dfbdcca6",
+  "last_updated": "2026-03-20T11:37:43.368246+00:00",
+  "plain_summary": "This law tells the US Treasury Secretary to have America's representative at the International Monetary Fund push China to be more honest about how it controls its money's value compared to other countries. The US will ask the IMF to watch China more closely and consider China's cooperation when deciding how much power China gets in IMF decisions. The law wants China to reveal if it uses banks or government-owned companies to secretly change its currency value. The law will stop working after seven years or sooner if China starts being more open about its money policies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-02-11",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [
+    "Asia",
+    "China",
+    "International monetary system and foreign exchange"
+  ],
+  "sponsor_name": "Rep. Meuser, Daniel [R-PA-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "China currency manipulation",
+    "Chinese money value",
+    "US China trade currency",
+    "IMF China oversight",
+    "China exchange rate",
+    "Chinese yuan control",
+    "China currency transparency",
+    "US Treasury China policy",
+    "China banking currency",
+    "international money policy China",
+    "China currency reform",
+    "US China monetary relations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the China Exchange Rate Transparency Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has found the following facts. First, China signed an agreement with the International Monetary Fund (a group that helps manage money between countries). In this agreement, China promised to keep its money exchange rates orderly, not to manipulate its currency to gain unfair advantages, and to work with the International Monetary Fund so they can closely watch China's exchange rate policies. The International Monetary Fund can also require China to share information about its gold and foreign money holdings, including money held by non-government groups in China. Second, in November two thousand twenty two, the Treasury Department (the part of the US government that handles money matters) wrote a report about major countries that trade with America. In this report, they said that China provides very little information about how it manages its currency exchange rates. China does not explain what goals it has for managing its exchange rates or what it does in offshore markets (places outside China where Chinese money is traded). The Treasury Department said China's lack of openness and use of many different tools makes it hard for them to figure out if China's actions are meant to change exchange rates. Third, the Treasury Department also said that China does not publish information about when it buys or sells foreign currencies to influence exchange rates. This lack of openness makes China different from other major economies and means the Treasury Department needs to watch China closely.",
+      "word_offset": 16,
+      "char_offset": 93
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-advocacy-for-increased-exchange-rate-transparency-from-china",
+      "title": "Section 3  Advocacy for Increased Exchange Rate Transparency from China",
+      "text": "The Secretary of the Treasury must tell the United States representative at the International Monetary Fund to use America's voice and vote to push for three things. First, they should demand that China be more transparent about its exchange rate system and that the International Monetary Fund do more watching of China's currency policies, including any indirect ways China might influence foreign exchange markets through Chinese banks or government-owned businesses. Second, when the International Monetary Fund meets with China for regular talks required under their agreement, they should include discussion of any major differences between China's exchange rate policies and the policies of other countries whose currencies are used to determine the value of Special Drawing Rights (a type of international money used by the International Monetary Fund). Third, when the International Monetary Fund reviews how it is run, they should think more seriously about how well China acts as a responsible member of the international money system when deciding how much say China gets in International Monetary Fund decisions through quotas and voting shares.",
+      "word_offset": 257,
+      "char_offset": 1615
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-sunset",
+      "title": "Section 4  Sunset",
+      "text": "This law will stop working thirty days after whichever comes first. Either the date when the United States representative to the International Monetary Fund tells Congress that China is following its International Monetary Fund agreement about orderly exchange rates and has started using exchange rate policies that match those of other countries whose currencies help determine Special Drawing Rights values, or seven years after this law is passed.",
+      "word_offset": 432,
+      "char_offset": 2774
+    }
+  ]
+}

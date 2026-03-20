@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-524",
+  "title": "NO GOTION Act",
+  "short_title": "NO GOTION Act",
+  "congress": 119,
+  "bill_number": "HR.524",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "e6bf42d8605d3bbd",
+  "last_updated": "2026-03-20T13:40:26.403149+00:00",
+  "plain_summary": "The NO GOTION Act is a law that stops certain foreign companies from getting tax breaks for green energy projects. These companies are ones that are owned by or controlled by China, Russia, Iran, or North Korea. The government will not give these companies special tax benefits that help pay for things like solar panels or wind farms. This rule starts for any tax years that begin after the law is passed. The goal is to prevent these specific countries from benefiting from American green energy tax programs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Moolenaar, John R. [R-MI-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 27,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "foreign companies tax breaks",
+    "China green energy tax benefits",
+    "solar panel tax credits foreign",
+    "wind farm subsidies China",
+    "Russian energy companies tax",
+    "Iranian companies renewable energy",
+    "North Korean business tax breaks",
+    "Chinese solar companies America",
+    "foreign controlled energy tax",
+    "green energy China Russia",
+    "renewable energy foreign ownership",
+    "tax incentives foreign countries"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Official Giveaways Of Taxpayers' Income to Oppressive Nations Act or the NO GOTION Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-denial-of-green-energy-tax-benefits",
+      "title": "Section 2 Denial of Green Energy Tax Benefits to Companies Connected to Countries of Concern",
+      "text": "This section adds a new rule to the tax code. Companies that are connected to certain countries will not be able to get green energy tax benefits. These disqualified companies are companies that are created in, organized in, or controlled by China, Russia, Iran, or North Korea. This also includes companies that are controlled by other companies from these countries. Control means owning enough of a company to make important decisions about how it operates, following the same rules the tax code already uses to determine control. The green energy tax benefits that these companies cannot get include tax credits for electric vehicle charging stations, biofuel production, carbon capture, wind and solar energy, energy efficient buildings, and many other clean energy programs. This new rule will start applying to tax years that begin after this law is passed.",
+      "word_offset": 21,
+      "char_offset": 118
+    }
+  ]
+}

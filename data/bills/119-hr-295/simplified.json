@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-295",
+  "title": "Fair Milk Pricing for Farmers Act",
+  "short_title": "Fair Milk Pricing for Farmers Act",
+  "congress": 119,
+  "bill_number": "HR.295",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+  "version_hash": "b5d3d6bd191e43a7",
+  "last_updated": "2026-03-20T11:56:54.475879+00:00",
+  "plain_summary": "This bill makes dairy companies tell the government how much it costs them to make dairy products and how much they produce. The government already collects some information about dairy sales each week, but this bill adds new requirements. The government must write a report about these costs and share it with the public. After the first report, they must make a new report every two years. This will help people understand how much it really costs to process milk and other dairy products.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 17,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "dairy companies",
+    "milk pricing",
+    "farmers",
+    "dairy products",
+    "milk costs",
+    "government reports",
+    "dairy industry",
+    "milk processing",
+    "dairy transparency",
+    "fair prices for farmers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Fair Milk Pricing for Farmers Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-mandatory-reporting-dairy-processing-costs",
+      "title": "Section 2  Mandatory Reporting of Dairy Products Processing Costs",
+      "text": "This section changes an existing law called the Agricultural Marketing Act of nineteen forty six. The changes require dairy companies to report more information about their costs and production. Any company that makes dairy products and is already required to report information must also tell the government how much it costs them to make their products and how much product they get from their raw materials. They must report this information for all products they make in the same buildings or facilities. The Secretary of Agriculture will decide exactly what cost and production information companies must provide. The government must also publish reports about dairy processing costs. The first report must come out within three years after this law passes. After that, a new report must be published every two years.",
+      "word_offset": 12,
+      "char_offset": 62
+    }
+  ]
+}

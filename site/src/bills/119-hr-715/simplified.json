@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-715",
+  "title": "BNA Fairness Act",
+  "short_title": "BNA Fairness Act",
+  "congress": 119,
+  "bill_number": "HR.715",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "c77a1f4dadb0e8b3",
+  "last_updated": "2026-03-20T10:46:34.617711+00:00",
+  "plain_summary": "This bill changes tax rules for military families who get extra money from the military to help pay for basic needs like food. Right now, military members have to pay income taxes on this extra money, even though it is meant to help them afford necessities. The bill would make it so military families no longer have to pay taxes on this basic needs allowance. Only certain military members with families who do not make much money can get this allowance in the first place.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Womack, Steve [R-AR-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "AR",
+  "cosponsor_count": 19,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "military family tax relief",
+    "basic needs allowance",
+    "military food money",
+    "tax free military benefits",
+    "military family assistance",
+    "low income military families",
+    "military necessities allowance",
+    "military family support",
+    "military tax exemption",
+    "basic needs military pay"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the BNA Fairness Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exclusion-from-gross-income-of-the-basic-needs-allowance-of-members-of-the-armed-forces",
+      "title": "Section 2  Exclusion From Gross Income Of The Basic Needs Allowance Of Members Of The Armed Forces",
+      "text": "This section changes the tax law to help military members. When military members receive a basic needs allowance (money to help pay for food and other essential items), they will not have to pay income taxes on that money. The basic needs allowance is a special payment that helps military families who need extra money for necessities. The tax law already says that certain military benefits do not count as taxable income. This change adds the basic needs allowance to that list of tax-free military benefits. These changes will apply to tax years that end after this law is passed.",
+      "word_offset": 9,
+      "char_offset": 45
+    }
+  ]
+}

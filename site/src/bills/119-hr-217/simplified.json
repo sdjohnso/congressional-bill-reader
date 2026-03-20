@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-217",
+  "title": "CHIP IN for Veterans Act of 2025",
+  "short_title": "CHIP IN for Veterans Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.217",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+  "version_hash": "6b035a871c43510c",
+  "last_updated": "2026-03-20T12:19:40.486091+00:00",
+  "plain_summary": "The CHIP IN for Veterans Act makes a temporary program permanent that lets the Department of Veterans Affairs accept donated buildings and property from communities and private groups. Starting in December 2026, there will be no limit on how many donations the VA can accept. The bill also allows communities to donate smaller construction projects and maintenance work to help veterans. This program helps communities work with the VA to improve facilities and services for veterans without using taxpayer money.",
+  "current_status": "committee_reported",
+  "status_date": "2025-05-17",
+  "last_action_date": "2025-05-20",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Charitable contributions",
+    "Department of Veterans Affairs",
+    "Government buildings, facilities, and property",
+    "Land transfers"
+  ],
+  "sponsor_name": "Rep. Bacon, Don [R-NE-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "donate buildings to veterans",
+    "private donations VA facilities",
+    "community help veterans",
+    "donate property veterans affairs",
+    "veterans building donations",
+    "private groups donate VA",
+    "help veterans facilities",
+    "donate construction veterans",
+    "community support veterans",
+    "veterans property gifts"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Communities Helping Invest through Property and Improvements Needed for Veterans Act of 2025. It can also be called the CHIP IN for Veterans Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expanding-and-extending-pilot-program",
+      "title": "Section 2 Expanding and Extending a Pilot Program on Acceptance by the Department of Veterans Affairs of Donated Facilities and Related Improvements",
+      "text": "This section changes an existing pilot program from 2016 that lets the Department of Veterans Affairs accept donated property and improvements. The changes expand what kinds of donations the department can accept. Now they can also accept donations for minor construction projects or one-time maintenance projects. The section also extends how long this pilot program will last. Instead of ending on December sixteenth, 2026, it will now continue until December sixteenth, 2031. The changes update the language throughout the original law to include these new types of projects alongside the property donations that were already allowed.",
+      "word_offset": 32,
+      "char_offset": 181
+    }
+  ]
+}

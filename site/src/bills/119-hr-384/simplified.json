@@ -1,0 +1,92 @@
+{
+  "bill_id": "119-hr-384",
+  "title": "One Agency Act",
+  "short_title": "One Agency Act",
+  "congress": 119,
+  "bill_number": "HR.384",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "835278bdc736aeab",
+  "last_updated": "2026-03-20T11:11:16.334308+00:00",
+  "plain_summary": "This bill moves all antitrust jobs from the Federal Trade Commission to the Department of Justice. Antitrust laws stop companies from unfairly controlling markets or hurting competition. The Justice Department will get all the FTC workers, money, and court cases that deal with antitrust issues. The move must happen within one to two years. This means only one government agency will handle antitrust enforcement instead of two.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Rep. Cline, Ben [R-VA-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "antitrust",
+    "monopoly",
+    "big companies",
+    "market competition",
+    "business competition",
+    "corporate power",
+    "government agencies",
+    "federal trade commission",
+    "department of justice",
+    "merger enforcement",
+    "company mergers",
+    "unfair business practices"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the One Agency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2 Findings",
+      "text": "Congress has found several important facts. First, the United States wants strong and efficient enforcement of antitrust laws (laws that prevent companies from unfairly limiting competition). Second, both the Department of Justice and the Federal Trade Commission currently enforce these laws, and this overlap wastes taxpayer money, makes enforcement harder, and creates confusion for businesses and consumers. Third, it would be better to have just one government agency handle antitrust enforcement, and the Department of Justice is the best choice for this job.",
+      "word_offset": 9,
+      "char_offset": 43
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-definitions",
+      "title": "Section 3 Definitions",
+      "text": "This section explains what important terms mean in this law. Antitrust laws means the Sherman Act and the Clayton Act, which are laws that prevent unfair business competition. Effective date means the date when this law starts working, as described in Section 6. FTC means the Federal Trade Commission. FTC antitrust action means any investigation, lawsuit, administrative proceeding, or other action at the FTC that is supervised by an FTC antitrust unit or relates to antitrust laws or unfair competition methods. FTC antitrust assets means all electronic or paper records and files, plus any physical property or equipment owned and used by an FTC antitrust unit, but not including office space or leased facilities. FTC antitrust employee means a person who works for the FTC and is assigned to an FTC antitrust unit on the day before this law takes effect. FTC antitrust funding means all money that Congress gave to the FTC before this law takes effect that was set aside for FTC antitrust units. FTC antitrust unit means the Bureau of Competition at the FTC and each division of the Bureau of Economics at the FTC that works on FTC antitrust actions. Transition period means the time starting when this law takes effect and ending either one year later or one hundred eighty days after that (which the Attorney General can extend once for another one hundred eighty days if needed to protect United States interests or effective antitrust enforcement).",
+      "word_offset": 92,
+      "char_offset": 609
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-transfer-of-antitrust-enforcement-functions",
+      "title": "Section 4 Transfer of Antitrust Enforcement Functions from the FTC to the Attorney General",
+      "text": "This section explains how antitrust enforcement will be moved from the Federal Trade Commission to the Attorney General. All FTC antitrust actions, employees, assets, and funding will be transferred to the Attorney General by either the date the Attorney General chooses or the end of the transition period, whichever comes first. The Attorney General must work with other government offices and the FTC Chairman to complete this transfer without disrupting ongoing enforcement cases. FTC antitrust employees who are transferred will work in the Antitrust Division of the Department of Justice. The Attorney General can use FTC office space temporarily and must pay the FTC for this use after receiving the transferred funding. The Attorney General can reorganize the Antitrust Division as needed to carry out this law efficiently. All open investigations, studies, lawsuits, and other proceedings supervised by FTC antitrust units will be transferred to the Attorney General as soon as reasonably possible during the transition period. For FTC antitrust actions that were started by the FTC but not finished when the transition period begins, the Attorney General will decide how to continue them, and the FTC can deputize former FTC antitrust employees (with the Attorney General's consent) to continue working on these cases. At the end of the transition period, the Attorney General will have sole authority over all consent decrees (agreements to settle cases) that the FTC entered into before this law took effect concerning antitrust violations. The Attorney General will have the power to require businesses to file reports and answer questions about competition and antitrust matters, similar to powers the FTC currently has. The Attorney General can make public portions of this information that serve the public interest and can make reports to Congress with recommendations for new laws. However, the Attorney General cannot make public trade secrets or confidential business information, except when sharing with law enforcement agencies under specific conditions. All transferred FTC antitrust assets and funding must be used exclusively for the Antitrust Division, except when the FTC deputizes former employees to continue ongoing cases. During the transition period, the FTC cannot hire or assign employees to antitrust units, open new antitrust investigations, enter into settlement agreements without Attorney General approval, or start new antitrust actions. However, the Attorney General can deputize FTC antitrust employees to investigate or prosecute antitrust violations on behalf of the Attorney General before the personnel transfer is complete. During the transition period, Department of Justice employees will have the same rights and obligations regarding confidential FTC information as FTC antitrust employees had before this law took effect. The Attorney General must work with the FTC Chairman to review and modify agreements between the FTC and other agencies as necessary to carry out this law. The Attorney General must create or change rules as needed to enforce the Clayton Act.",
+      "word_offset": 334,
+      "char_offset": 2069
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-technical-and-conforming-amendments",
+      "title": "Section 5 Technical and Conforming Amendments",
+      "text": "This section makes technical changes to existing laws. When other laws require government agencies to consult with or get approval from the FTC or FTC Chairman on antitrust matters or unfair competition methods, those requirements will now apply to the Attorney General instead. For laws that require companies to notify the FTC about mergers or other business combinations related to antitrust laws, that notification requirement to the FTC will be eliminated. However, any requirements to notify the Attorney General about such matters will remain unchanged. The Attorney General must continue to provide resources to the FTC for any lawsuits or appeals that were ongoing before this law took effect and cannot disrupt those cases. This law does not limit the Attorney General's existing powers to enforce antitrust laws. The FTC cannot start new antitrust investigations or enforcement actions after this law takes effect, except as specifically allowed in this law with Attorney General approval and only relating to investigations, lawsuits, appeals, or consent decrees that were already in place before this law took effect.",
+      "word_offset": 805,
+      "char_offset": 5187
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-effective-date",
+      "title": "Section 6 Effective Date",
+      "text": "Unless stated otherwise, this law will start working at the beginning of the first fiscal year (government budget year) that starts at least ninety days after this law is enacted.",
+      "word_offset": 979,
+      "char_offset": 6318
+    }
+  ]
+}

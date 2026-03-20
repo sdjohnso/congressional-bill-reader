@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hr-224",
+  "title": "Disabled Veterans Housing Support Act",
+  "short_title": "Disabled Veterans Housing Support Act",
+  "congress": 119,
+  "bill_number": "HR.224",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.",
+  "version_hash": "6c17b2f732ad3e56",
+  "last_updated": "2026-03-20T15:28:53.527349+00:00",
+  "plain_summary": "This law helps disabled veterans get housing assistance by not counting their disability payments as income when they apply for help. When the government decides if a veteran qualifies for housing programs, they cannot include the money veterans get for injuries from their military service. The law also tells a government office to study all housing programs to see how they treat veteran disability payments and suggest ways to make things better and more fair. This change makes it easier for disabled veterans to get the housing help they need.",
+  "current_status": "signed_into_law",
+  "status_date": "2026-01-20",
+  "last_action_date": "2026-01-20",
+  "last_action_text": "Became Public Law No: 119-70.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": true,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [
+    "Congressional oversight",
+    "Disability assistance",
+    "Low- and moderate-income housing",
+    "Veterans' loans, housing, homeless programs"
+  ],
+  "sponsor_name": "Rep. De La Cruz, Monica [R-TX-15]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 11,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "disabled veterans housing",
+    "veteran disability benefits",
+    "housing assistance for veterans",
+    "disabled vet home help",
+    "veteran housing programs",
+    "military disability payments",
+    "housing aid disabled veterans",
+    "veteran home loans",
+    "disabled veteran benefits housing",
+    "help veterans find housing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Disabled Veterans Housing Support Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-service-connected-disability-compensation",
+      "title": "Section 2  Service Connected Disability Compensation",
+      "text": "This section changes an existing housing law from nineteen seventy four. It adds a new rule that says when states, local governments, or Indian tribes decide if someone has low or moderate income for housing programs, they cannot count disability payments that veterans get from the Department of Veterans Affairs. These disability payments are money that veterans receive because they were injured or became sick while serving in the military. When deciding if a veteran qualifies for housing help based on their income level, these disability payments must be left out of the income calculation.",
+      "word_offset": 11,
+      "char_offset": 66
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-report",
+      "title": "Section 3  Report",
+      "text": "The Comptroller General of the United States must write a report to Congress within one year after this law is signed. The Comptroller General is the head of an office that checks how the government spends money and runs programs. The report must do three things. First, it must look at how disability payments to veterans are handled when people apply for all housing programs run by the Secretary of Housing and Urban Development. Second, it must find any cases where these disability payments are treated differently than what this new law requires. Third, for each housing program that treats veteran disability payments the wrong way, the report must suggest new laws that could help these programs better serve veterans and communities that do not get enough help.",
+      "word_offset": 106,
+      "char_offset": 664
+    }
+  ]
+}

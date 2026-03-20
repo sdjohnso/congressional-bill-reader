@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-286",
+  "title": "Preserving Safe Communities by Ending Swatting Act of 2025",
+  "short_title": "Preserving Safe Communities by Ending Swatting Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.286",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "9ee66be421030718",
+  "last_updated": "2026-03-20T12:28:50.022682+00:00",
+  "plain_summary": "This bill makes it a crime to lie to emergency services like police or fire departments on purpose. It is illegal to give false information that would make them think there is a dangerous situation happening when there is not. This fake reporting is called swatting and it wastes emergency resources and can hurt innocent people. If someone gets hurt or killed because of the false report, the person who lied will face more serious punishment. People who are harmed by swatting can also sue the person who made the false report.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Civil actions and liability",
+    "Criminal procedure and sentencing",
+    "Emergency communications systems",
+    "First responders and emergency personnel",
+    "Fraud offenses and financial crimes",
+    "Postal service"
+  ],
+  "sponsor_name": "Rep. Kustoff, David [R-TN-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 28,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "swatting",
+    "fake emergency calls",
+    "false police reports",
+    "prank calls to 911",
+    "lying to police",
+    "emergency services hoax",
+    "false fire department calls",
+    "fake bomb threats",
+    "911 abuse",
+    "emergency response fraud"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Preserving Safe Communities by Ending Swatting Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-false-communications-to-cause-an-emergency-response",
+      "title": "Section 2  False Communications to Cause an Emergency Response",
+      "text": "This section changes the existing law in Section one thousand thirty eight of title eighteen of the United States Code. The changes make it a crime when someone purposely shares false or misleading information in two situations. First, when the false information makes people reasonably believe that certain serious crimes like terrorism, bombings, or hijacking have happened, are happening, or will happen. Second, when someone uses mail, the internet, or other ways to communicate across state lines to share false information that would likely cause an emergency response. This includes false information about any crime under state or federal law or anything that puts public health and safety at risk. If someone breaks this law, they can be fined and sent to prison for up to five years. If someone gets seriously hurt because of the false information, the person who shared it can go to prison for up to twenty years. If someone dies because of the false information, the person can go to prison for life. People who break this law can also be sued in civil court. Anyone who has to spend money because of an emergency response caused by the false information can sue to get their money back. The law defines emergency response as when any government agency or nonprofit rescue organization sends out workers or equipment, tells people to evacuate, or warns the public about danger.",
+      "word_offset": 18,
+      "char_offset": 107
+    }
+  ]
+}

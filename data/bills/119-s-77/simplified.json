@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-s-77",
+  "title": "Early Participation in Regulations Act of 2025",
+  "short_title": "Early Participation in Regulations Act of 2025",
+  "congress": 119,
+  "bill_number": "S.77",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "daa36cac70e8ed9d",
+  "last_updated": "2026-03-20T11:33:22.456709+00:00",
+  "plain_summary": "This bill requires government agencies to give early warning before making major new rules that could cost the economy at least 100 million dollars per year. Agencies must publish an advance notice at least 90 days before proposing the actual rule. The advance notice must explain what problem the rule is trying to fix, what other options they are considering, and give people at least 30 days to send in their comments. The goal is to let the public know earlier about important rules so they can participate in the process before decisions are made.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Competition and antitrust",
+    "Competitiveness, trade promotion, trade deficits",
+    "Economic performance and conditions",
+    "Government information and archives",
+    "Industrial policy and productivity",
+    "Inflation and prices"
+  ],
+  "sponsor_name": "Sen. Lankford, James [R-OK]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government rules",
+    "public comment",
+    "regulatory process",
+    "business costs",
+    "advance notice",
+    "rule making",
+    "economic impact",
+    "federal agencies",
+    "public participation",
+    "expensive regulations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Early Participation in Regulations Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-advance-notice-of-proposed-rule-making",
+      "title": "Section 2  Advance Notice of Proposed Rule Making",
+      "text": "This section changes the federal law about how government agencies make rules. First, it adds two new definitions to the law. A major rule is any rule that the Office of Information and Regulatory Affairs decides is likely to cost the economy one hundred million dollars or more per year, cause big increases in costs or prices for consumers or businesses or governments, or have big effects on competition, jobs, investment, productivity, innovation, health, safety, the environment, or the ability of American companies to compete with foreign companies. The Office of Information and Regulatory Affairs is a government office that reviews regulations. Second, the law creates a new requirement for major rules. Government agencies must publish an advance notice in the Federal Register ninety days before they publish their official proposed rule. The Federal Register is the daily publication where the government publishes new rules and notices. This advance notice must explain the problem the agency wants to solve with the new rule, describe what information or data the agency plans to use, give a general description of different approaches the agency is considering, and explain what legal authority allows the agency to make this rule. The advance notice must also ask for written comments from the public and give people at least thirty days to send in their comments. There are some exceptions to this requirement. Agencies do not have to publish an advance notice if they are not normally required to ask for public comments on the rule, if the Office of Information and Regulatory Affairs decides that the advance notice would not help the public or would repeat other processes that already give people a chance to participate or would not be practical because of legal deadlines, or if the rule is routine or happens regularly. Courts cannot review decisions made by the Office of Information and Regulatory Affairs about these exceptions. Also, if an agency changes its approach between the advance notice and the official proposed rule, courts cannot review those changes as being unreasonable.",
+      "word_offset": 16,
+      "char_offset": 95
+    }
+  ]
+}

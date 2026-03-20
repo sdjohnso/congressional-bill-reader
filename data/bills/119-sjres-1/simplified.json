@@ -1,0 +1,98 @@
+{
+  "bill_id": "119-sjres-1",
+  "title": "A joint resolution proposing an amendment to the Constitution of the United States relative to limiting the number of terms that a Member of Congress may serve.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SJRES.1",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "0573fdb7eb1ff51e",
+  "last_updated": "2026-03-20T14:23:26.934695+00:00",
+  "plain_summary": "This bill proposes changing the Constitution to limit how long people can serve in Congress. House Representatives could only serve three terms, which is six years total. Senators could only serve two terms, which is twelve years total. The limits would only apply to terms that start after the amendment becomes law. To become part of the Constitution, three-fourths of all state legislatures would need to approve it within seven years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional elections",
+    "Constitution and constitutional amendments",
+    "House of Representatives",
+    "Members of Congress",
+    "Senate"
+  ],
+  "sponsor_name": "Sen. Cruz, Ted [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 19,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "term limits",
+    "congress term limits",
+    "house representatives term limits",
+    "senate term limits",
+    "limit congress terms",
+    "congressional term limits",
+    "politicians term limits",
+    "how long congress serve",
+    "congress six years",
+    "senate twelve years",
+    "constitutional amendment congress",
+    "limit politician years"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution-title",
+      "title": "Joint Resolution Title",
+      "text": "This is a joint resolution that proposes changing the Constitution of the United States. The change would limit how many terms a Member of Congress can serve.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "sponsors-and-introduction",
+      "title": "Sponsors and Introduction",
+      "text": "Senator Cruz introduced this joint resolution on January seventh, two thousand twenty five. Eleven other senators joined him as sponsors. The resolution was read twice and sent to the Committee on the Judiciary for review.",
+      "word_offset": 27,
+      "char_offset": 159
+    },
+    {
+      "id": "s3",
+      "slug": "resolution-text",
+      "title": "Resolution Text",
+      "text": "The Senate and House of Representatives agree that this amendment should be added to the Constitution. For this to happen, two thirds of each chamber must vote yes. Then three fourths of all state legislatures must approve it within seven years of Congress sending it to them.",
+      "word_offset": 62,
+      "char_offset": 382
+    },
+    {
+      "id": "s4",
+      "slug": "article-section-1-house-terms",
+      "title": "Article Section 1 House Terms",
+      "text": "No person who has served three terms as a Representative can run for election to the House of Representatives again. If someone is elected to fill an empty seat in the House and serves more than one year, that counts as one full term.",
+      "word_offset": 109,
+      "char_offset": 659
+    },
+    {
+      "id": "s5",
+      "slug": "article-section-2-senate-terms",
+      "title": "Article Section 2 Senate Terms",
+      "text": "No person who has served two terms as a Senator can run for election or be appointed to the Senate again. If someone is elected or appointed to fill an empty seat in the Senate and serves more than three years, that counts as one full term.",
+      "word_offset": 153,
+      "char_offset": 894
+    },
+    {
+      "id": "s6",
+      "slug": "article-section-3-grandfather-clause",
+      "title": "Article Section 3 Grandfather Clause",
+      "text": "Any terms that began before this amendment becomes part of the Constitution will not count toward the term limits. Only terms that start after the amendment is approved will count.",
+      "word_offset": 200,
+      "char_offset": 1135
+    }
+  ]
+}

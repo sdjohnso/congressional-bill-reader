@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-493",
+  "title": "FAIR Act",
+  "short_title": "FAIR Act",
+  "congress": 119,
+  "bill_number": "HR.493",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "5ab073714deb22f6",
+  "last_updated": "2026-03-20T14:28:50.139617+00:00",
+  "plain_summary": "The FAIR Act gives federal government workers a pay raise in 2026. All federal employees will get a 3.3 percent increase in their basic pay. Workers who live in areas where things cost more money will also get an extra 1 percent raise on top of that. This means some federal workers could see their pay go up by more than 4 percent total.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-09-16",
+  "last_action_text": "ASSUMING FIRST SPONSORSHIP - Mr. Walkinshaw asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 493, a bill originally introduced by Representative Connolly, for t",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Government employee pay, benefits, personnel management"
+  ],
+  "sponsor_name": "Rep. Connolly, Gerald E. [D-VA-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "VA",
+  "cosponsor_count": 36,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal employee pay raise",
+    "government worker salary increase",
+    "federal pay raise 2026",
+    "government employee benefits",
+    "federal worker wage increase",
+    "public sector pay raise",
+    "government job salary boost",
+    "federal employee compensation",
+    "civil service pay increase",
+    "government worker cost of living adjustment"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Federal Adjustment of Income Rates Act or the FAIR Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-adjustment-to-rates-of-pay",
+      "title": "Section 2  Adjustment to Rates of Pay",
+      "text": "For the year two thousand twenty six, federal employees will get a pay raise of three point three percent. This applies to employees who are paid under the standard government pay systems that are defined in federal law. This also applies to prevailing rate employees, who are workers whose pay is based on what similar jobs pay in their local area. The law ignores the usual requirement to do wage surveys before setting these pay rates. Instead, it simply increases the basic pay rates that were in effect at the end of fiscal year two thousand twenty five by three point three percent.",
+      "word_offset": 16,
+      "char_offset": 83
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-adjustment-to-locality-pay",
+      "title": "Section 3  Adjustment to Locality Pay",
+      "text": "For the year two thousand twenty six, locality pay will be increased by one percent. Locality pay is extra money that federal employees receive because the cost of living is higher in certain areas where they work.",
+      "word_offset": 119,
+      "char_offset": 672
+    }
+  ]
+}

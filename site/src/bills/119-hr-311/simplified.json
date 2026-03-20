@@ -1,0 +1,100 @@
+{
+  "bill_id": "119-hr-311",
+  "title": "Restoring Fuel Market Freedom Act of 2025",
+  "short_title": "Restoring Fuel Market Freedom Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.311",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "482ca2523f8f75ca",
+  "last_updated": "2026-03-20T13:52:50.644469+00:00",
+  "plain_summary": "The Restoring Fuel Market Freedom Act of 2025 gets rid of tax credits that helped companies who made or used alternative fuels like ethanol and biodiesel. These tax credits gave money back to companies for producing cleaner fuels or mixing them with regular gas and diesel. The bill also removes old fuel refund rules that are no longer needed. By ending these tax breaks, the government will stop giving special help to alternative fuel companies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Perry, Scott [R-PA-10]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "tax credits",
+    "ethanol",
+    "biodiesel",
+    "alternative fuels",
+    "clean energy subsidies",
+    "fuel tax breaks",
+    "government incentives",
+    "renewable fuels",
+    "gas tax credits",
+    "green fuel subsidies",
+    "biofuel support",
+    "energy tax benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-references",
+      "title": "Section 1 Short Title; References",
+      "text": "This law can be called the Restoring Fuel Market Freedom Act of twenty twenty five. When this law makes changes or removes parts of existing laws, those changes apply to the Internal Revenue Code of nineteen eighty six unless specifically stated otherwise.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-alcohol-fuels-credit",
+      "title": "Section 2 Repeal of Alcohol Fuels Credit",
+      "text": "This section removes a tax credit that businesses could get for producing alcohol fuels like ethanol. The law removes section forty from the tax code, which gave companies money back on their taxes when they made these fuels. The section also updates other parts of the tax code that referred to this credit so they still make sense after the credit is gone. Some references will now say the credit existed before this new law took effect. These changes apply to fuels made after this law is passed.",
+      "word_offset": 42,
+      "char_offset": 257
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-repeal-of-biodiesels-fuel-credit",
+      "title": "Section 3 Repeal of Biodiesels Fuel Credit",
+      "text": "This section removes a tax credit that businesses could get for producing biodiesel fuel. Biodiesel is a type of fuel made from vegetable oils or animal fats. The law removes section forty A from the tax code, which gave companies money back on their taxes when they made biodiesel. The section also updates other parts of the tax code that mentioned this credit. Some of these updates say the credit existed before this new law took effect. These changes apply to biodiesel fuels sold or used after this law is passed.",
+      "word_offset": 130,
+      "char_offset": 757
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-repeal-of-sustainable-aviation-fuel-credit",
+      "title": "Section 4 Repeal of Sustainable Aviation Fuel Credit",
+      "text": "This section removes a tax credit for sustainable aviation fuel. Sustainable aviation fuel is a cleaner type of jet fuel made from renewable materials instead of petroleum. The law removes section forty B from the tax code, which gave companies money back on their taxes for making this type of fuel. The section also updates other parts of the tax code that mentioned this credit to show it no longer exists. These changes apply to sustainable aviation fuel sold or used after this law is passed.",
+      "word_offset": 221,
+      "char_offset": 1277
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-repeal-of-clean-fuel-production-credit",
+      "title": "Section 5 Repeal of Clean Fuel Production Credit",
+      "text": "This section removes a tax credit for producing clean transportation fuels. The law removes section forty five Z from the tax code, which gave companies money back on their taxes for making cleaner fuels. The section also removes references to this credit in other parts of the tax code. These changes apply to transportation fuels produced after this law is passed.",
+      "word_offset": 307,
+      "char_offset": 1775
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-repeal-of-alcohol-fuel-biodiesel-and-alternative-fuel-mixtures-credit",
+      "title": "Section 6 Repeal of Alcohol Fuel, Biodiesel, and Alternative Fuel Mixtures Credit",
+      "text": "This section removes a tax credit for mixing alcohol fuels, biodiesel, and alternative fuels with regular gasoline or diesel. Companies could get money back on their taxes for creating these fuel mixtures. The law removes section sixty four twenty six from the tax code and updates other sections that mentioned these credits. These changes apply to fuel mixtures used or sold after this law is passed.",
+      "word_offset": 368,
+      "char_offset": 2142
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-repeal-of-expired-provisions-relating-to-payments-for-certain-fuels-not-used-for-taxable-purposes",
+      "title": "Section 7 Repeal of Expired Provisions Relating to Payments for Certain Fuels Not Used for Taxable Purposes",
+      "text": "This section removes old rules about getting refunds for certain fuels that were not used in ways that required paying fuel taxes. These rules had already expired but were still written in the tax code. The law removes these outdated provisions and updates other sections that referred to them. These changes apply to fuel sold or used after this law is passed.",
+      "word_offset": 434,
+      "char_offset": 2545
+    }
+  ]
+}

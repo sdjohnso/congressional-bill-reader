@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-521",
+  "title": "Ending Presidential Overreach on Public Lands Act",
+  "short_title": "Ending Presidential Overreach on Public Lands Act",
+  "congress": 119,
+  "bill_number": "HR.521",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "a5220b616c8d71ec",
+  "last_updated": "2026-03-20T11:08:37.074847+00:00",
+  "plain_summary": "This bill takes away the President's power to create new national monuments or make existing national monuments bigger. Instead, only Congress would be allowed to create new national monuments or expand the ones that already exist. Right now, the President can set aside land to protect it as a national monument without asking Congress first. If this bill becomes law, the President would no longer be able to do that on their own.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Monuments and memorials",
+    "Presidents and presidential powers, Vice Presidents"
+  ],
+  "sponsor_name": "Rep. Maloy, Celeste [R-UT-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 15,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "president national monuments",
+    "congress control public lands",
+    "presidential power national parks",
+    "who can create monuments",
+    "federal land protection rules",
+    "monument creation authority",
+    "public land designation",
+    "presidential overreach lands",
+    "congress vs president monuments",
+    "national monument expansion limits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Ending Presidential Overreach on Public Lands Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-national-monuments",
+      "title": "Section 2  National Monuments",
+      "text": "This section changes an existing law about national monuments. The law being changed is part of the United States Code and is commonly called the Antiquities Act. The new rule says that only Congress can create a new national monument or make an existing national monument bigger. Congress must give clear permission in writing before anyone can establish or extend a national monument.",
+      "word_offset": 13,
+      "char_offset": 78
+    }
+  ]
+}

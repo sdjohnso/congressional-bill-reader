@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-527",
+  "title": "Strengthening Wildfire Resiliency Through Satellites Act of 2025",
+  "short_title": "Strengthening Wildfire Resiliency Through Satellites Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.527",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "c5b3e187137c3b09",
+  "last_updated": "2026-03-20T10:46:03.843940+00:00",
+  "plain_summary": "This bill creates a new grant program run by the U.S. Geological Survey to help states fight wildfires better. The program will give money to state forest workers and emergency managers so they can buy satellite technology that watches for wildfires from space. States must use this money to get satellite information and use it to find and manage wildfires. The program will give out at least three grants each year and has twenty million dollars to spend each year for three years starting in 2026.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [],
+  "sponsor_name": "Rep. Pettersen, Brittany [D-CO-7]",
+  "sponsor_party": "D",
+  "sponsor_state": "CO",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "wildfire prevention",
+    "satellite technology",
+    "forest fire detection",
+    "space monitoring",
+    "fire fighting grants",
+    "state emergency funding",
+    "wildfire early warning",
+    "satellite surveillance",
+    "forest service money",
+    "fire detection from space"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Strengthening Wildfire Resiliency Through Satellites Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-monitoring-wildfires-by-satellite",
+      "title": "Section 2 Monitoring Wildfires by Satellite",
+      "text": "The Secretary of the Interior, working with the head of the United States Geological Survey, must create a grant program within one year of this law passing. This program will give money to at least three qualified groups to help them watch wildfires using satellites from space. Only state forest officials, emergency managers, or similar state officials can apply for these grants. The groups that get grants can only use the money for two things. First, they can buy and set up advanced satellite technology through partnerships between government and private companies. This technology takes detailed pictures using different types of light and radar to see wildfires clearly. Second, they can use the information from these satellites to find wildfires, figure out how bad they are, fight them, and manage them better. The focus should be on watching how active fires behave, measuring burned areas and fire strength, making sure controlled burns are done safely, and helping communities recover after fires. Groups that want grants must send in applications when and how the Secretary asks. The Secretary decides how much money each grant will be worth. Within two years of this law passing, the Secretary must send Congress a report. This report must include how many groups applied for grants, which groups got money, how well the program prevented wildfires, suggestions for making this a long-term program, and any other information about how well the program worked. Congress approves spending twenty million dollars each year from 2026 through 2028 to run this program.",
+      "word_offset": 14,
+      "char_offset": 93
+    }
+  ]
+}

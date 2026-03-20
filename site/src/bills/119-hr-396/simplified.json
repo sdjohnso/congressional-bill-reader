@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-396",
+  "title": "TRUST in Congress Act",
+  "short_title": "TRUST in Congress Act",
+  "congress": 119,
+  "bill_number": "HR.396",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on House Administration.",
+  "version_hash": "ed578c2bee3e46bf",
+  "last_updated": "2026-03-20T13:21:14.680247+00:00",
+  "plain_summary": "The TRUST in Congress Act requires members of Congress to put their stocks and other investments into blind trusts. This means someone else will control their money so Congress members cannot make decisions that help their own investments. The rule also applies to their spouses and children. They must do this within 90 to 180 days of the law passing. They cannot take control of their investments back until six months after they leave Congress.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Commodities markets",
+    "Family relationships",
+    "Financial services and investments",
+    "Government ethics and transparency, public corruption",
+    "Government information and archives",
+    "Members of Congress",
+    "Securities"
+  ],
+  "sponsor_name": "Rep. Magaziner, Seth [D-RI-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "RI",
+  "cosponsor_count": 101,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress members stocks",
+    "politicians investments",
+    "congressional trading ban",
+    "blind trust congress",
+    "lawmakers stock trading",
+    "congress financial conflicts",
+    "political insider trading",
+    "congress investment rules",
+    "politicians money control",
+    "congressional ethics reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Transparent Representation Upholding Service and Trust in Congress Act or the TRUST in Congress Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-placement-of-certain-assets",
+      "title": "Section 2  Placement of Certain Assets of Members of Congress and Their Spouses and Dependent Children in Blind Trust",
+      "text": "Members of Congress and their families must put certain investments into blind trusts. A blind trust is a special arrangement where someone else manages your investments and you cannot control or know what investments are being made. For Congress members already in office when this law starts, they have one hundred eighty days to put their covered investments into a blind trust. For new Congress members who take office after this law starts, they have ninety days to do the same. Covered investments include stocks, commodities (like gold or wheat), futures contracts, and similar financial products, but do not include widely held mutual funds or government bonds. Spouses and dependent children of Congress members can put their investments in the same blind trust as the Congress member. Once investments are placed in a blind trust, the Congress member and their family cannot take control of those investments or end the trust until one hundred eighty days after the Congress member leaves office. There is one exception: if a spouse or dependent child gets paid from their main job through one of these investments, they do not have to put it in a blind trust. Congress members must tell the House Clerk or Senate Secretary within fifteen days that they have set up their blind trust, or that they do not own any covered investments. These reports will be posted on public websites so anyone can see them.",
+      "word_offset": 21,
+      "char_offset": 128
+    }
+  ]
+}

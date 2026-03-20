@@ -1,0 +1,242 @@
+{
+  "bill_id": "119-hr-20",
+  "title": "Richard L. Trumka Protecting the Right to Organize Act of 2025",
+  "short_title": "Richard L. Trumka Protecting the Right to Organize Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.20",
+  "introduced_date": "2025-03-05",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "9e00b93a462046f2",
+  "last_updated": "2026-03-20T14:27:48.353421+00:00",
+  "plain_summary": "This bill makes it much easier for workers to join unions and negotiate with their bosses for better pay and working conditions. It gives more workers the right to form unions, makes union elections happen faster, and creates bigger punishments for companies that try to stop workers from joining unions. The bill also lets unions collect fees from all workers they represent, even in states that currently don't allow this. Overall, the bill strengthens workers' power to organize and bargain with their employers.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-05",
+  "last_action_date": "2025-03-05",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Labor and Employment",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Administrative remedies",
+    "Civil actions and liability",
+    "Congressional oversight",
+    "Employee benefits and pensions",
+    "Employment discrimination and employee rights",
+    "Government studies and investigations",
+    "Health care costs and insurance",
+    "Judicial review and appeals",
+    "Labor-management relations",
+    "National Labor Relations Board (NLRB)",
+    "Wages and earnings",
+    "Worker safety and health"
+  ],
+  "sponsor_name": "Rep. Scott, Robert C. \"Bobby\" [D-VA-3]",
+  "sponsor_party": "D",
+  "sponsor_state": "VA",
+  "cosponsor_count": 214,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "workers rights",
+    "labor unions",
+    "union organizing",
+    "collective bargaining",
+    "workplace rights",
+    "union elections",
+    "right to work",
+    "union fees",
+    "employer retaliation",
+    "worker protection",
+    "union formation",
+    "labor organizing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-table-of-contents",
+      "title": "Section 1. Short title; table of contents",
+      "text": "This law can be called the Richard L. Trumka Protecting the Right to Organize Act of 2025. This section also includes a table of contents that lists all the other parts of the law. The law is divided into three main parts. The first part makes changes to the National Labor Relations Act, which is the main law about unions and workers' rights to organize. The second part makes changes to two other labor laws from 1947 and 1959. The third part covers other matters like electronic voting in union elections and reports that must be written about different topics.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-101-definitions",
+      "title": "Section 101. Definitions",
+      "text": "This section changes how certain important terms are defined in labor law. For joint employers, it explains that two or more companies can be considered the employer of the same worker if they both control or share control over important parts of that worker's job, like pay, hours, or working conditions. The control can be direct, indirect, or just having the power to control even if they don't use it. For employees, it makes it much harder for companies to call workers independent contractors instead of employees. A person can only be called an independent contractor if they are truly free from company control, do work that is not part of the company's main business, and have their own independent business doing similar work. For supervisors, the law changes the definition so that a person is only a supervisor if they spend most of their work time doing supervisory duties for the company, and it removes some activities like assigning work from the list of what makes someone a supervisor.",
+      "word_offset": 100,
+      "char_offset": 566
+    },
+    {
+      "id": "s3",
+      "slug": "section-102-reports",
+      "title": "Section 102. Reports",
+      "text": "This section requires the National Labor Relations Board (the government agency that handles union matters) to write and publish detailed reports about their work. Starting in January 2027, these reports must include at least as much detail as reports they used to publish before they stopped making them. The reports must also list every case where the ethics official advised whether a Board member should not participate in a case because of conflicts of interest, and every case where the ethics official decided a Board member should not participate.",
+      "word_offset": 270,
+      "char_offset": 1570
+    },
+    {
+      "id": "s4",
+      "slug": "section-103-appointment",
+      "title": "Section 103. Appointment",
+      "text": "This section removes the requirement that one member of the National Labor Relations Board must be appointed specifically for economic analysis. This gives more flexibility in who can be appointed to serve on the Board.",
+      "word_offset": 359,
+      "char_offset": 2126
+    },
+    {
+      "id": "s5",
+      "slug": "section-104-unfair-labor-practices",
+      "title": "Section 104. Unfair labor practices",
+      "text": "This section makes major changes to what companies cannot do to workers who are trying to organize or join unions. It adds new protections by making it illegal for employers to threaten to permanently replace striking workers, discriminate against workers who supported a strike, or lock out workers to pressure them during contract negotiations. Companies also cannot lie to workers about whether they have the right to join a union. The section removes some restrictions on unions and adds that employers cannot force workers to attend anti-union meetings that are not part of their regular job duties. It creates a new process for first-time contract negotiations where if the employer and union cannot reach an agreement within certain time periods, they must go to mediation and then to binding arbitration where a three-person panel will decide the terms of the contract. The section also makes it illegal for companies to require workers to sign agreements giving up their right to join together in lawsuits or other legal action against the employer. It requires employers to post notices about workers' rights and to give union organizers lists of workers' contact information including phone numbers and email addresses when there is an election. Workers also get the right to use company email and other electronic systems to organize if the company has given them access to these systems for work.",
+      "word_offset": 394,
+      "char_offset": 2346
+    },
+    {
+      "id": "s6",
+      "slug": "section-105-representatives-and-elections",
+      "title": "Section 105. Representatives and elections",
+      "text": "This section makes it easier for workers to form unions by changing how union elections work. Companies can no longer participate as parties in the process when workers are trying to decide whether to form a union. The section sets up faster timelines for union elections, with pre-election hearings starting within 8 days and elections happening within 20 business days. If workers vote for a union, the Board will order the employer to negotiate with the union. If workers vote against the union but the employer broke the law during the election campaign, the Board can still order the employer to negotiate with the union if a majority of workers had signed cards supporting the union at some point during the year before the election. The section also prevents new union elections for 12 months after certain events like when an employer voluntarily recognizes a union or when bargaining begins. It creates contract bar periods where no new elections can happen for three years after a contract is signed, with a window for challenges in the last few months.",
+      "word_offset": 622,
+      "char_offset": 3756
+    },
+    {
+      "id": "s7",
+      "slug": "section-106-damages-for-unfair-labor-practices",
+      "title": "Section 106. Damages for unfair labor practices",
+      "text": "This section increases the money that workers can get when their employer illegally fires them or takes other serious action against them for trying to form a union. Workers will get their full back pay without any reductions, plus front pay when appropriate, compensation for all financial harm they suffered, and double that amount as additional damages. Workers who are in the country without proper immigration status can still get these remedies.",
+      "word_offset": 801,
+      "char_offset": 4820
+    },
+    {
+      "id": "s8",
+      "slug": "section-107-enforcing-compliance-with-orders-of-the-board",
+      "title": "Section 107. Enforcing compliance with orders of the board",
+      "text": "This section makes Board orders automatically enforceable without having to go to court first. If a person or company does not follow a Board order, they can be fined up to ten thousand dollars for each violation, with each day of continued violation counting as a separate offense. The Board can go to federal court to force compliance with its orders. People who want to challenge Board orders in court must do so within 30 days.",
+      "word_offset": 873,
+      "char_offset": 5272
+    },
+    {
+      "id": "s9",
+      "slug": "section-108-injunctions-against-unfair-labor-practices-involving-discharge-or-other-serious-economic-harm",
+      "title": "Section 108. Injunctions against unfair labor practices involving discharge or other serious economic harm",
+      "text": "This section requires the Board to quickly investigate and seek court orders to stop employers from firing workers or taking other serious economic action against them for union activity. When workers file charges about being fired or otherwise seriously harmed for union activities, these cases get priority treatment. If the Board finds reasonable cause to believe the charge is true, it must ask a federal court for immediate relief to stop the employer's actions. The court must grant this relief unless it concludes the Board is unlikely to win the case.",
+      "word_offset": 949,
+      "char_offset": 5704
+    },
+    {
+      "id": "s10",
+      "slug": "section-109-penalties",
+      "title": "Section 109. Penalties",
+      "text": "This section creates new financial penalties for employers who break labor law. Employers who fail to post required notices about workers' rights can be fined up to five hundred dollars for each violation. Employers who commit unfair labor practices can be fined up to fifty thousand dollars per violation, and up to one hundred thousand dollars if they fired a worker or caused other serious economic harm and have committed similar violations in the past five years. In serious cases, individual company directors and officers can also be personally fined if they directed the illegal activity or knew about it and failed to stop it. Workers who are illegally fired or harmed can file their own lawsuits in federal court and can get back pay, front pay, compensation for all their losses, double damages, and in some cases punitive damages. Courts can also require the employer to pay the worker's attorney fees and costs.",
+      "word_offset": 1040,
+      "char_offset": 6264
+    },
+    {
+      "id": "s11",
+      "slug": "section-110-limitations-on-the-right-to-strike",
+      "title": "Section 110. Limitations on the right to strike",
+      "text": "This section protects workers' right to strike by saying that strikes cannot be considered unprotected just because of how long they last, how big they are, how often they happen, or if they happen on and off instead of continuously.",
+      "word_offset": 1194,
+      "char_offset": 7189
+    },
+    {
+      "id": "s12",
+      "slug": "section-111-fair-share-agreements-permitted",
+      "title": "Section 111. Fair share agreements permitted",
+      "text": "This section overrides state right-to-work laws and allows unions and employers to make agreements requiring all workers in a workplace to pay fees to the union for representation, collective bargaining, and contract enforcement, even in states that have laws prohibiting such requirements.",
+      "word_offset": 1234,
+      "char_offset": 7423
+    },
+    {
+      "id": "s13",
+      "slug": "section-201-conforming-amendments-to-the-labor-management-relations-act-1947",
+      "title": "Section 201. Conforming amendments to the Labor Management Relations Act, 1947",
+      "text": "This section makes technical changes to references in the 1947 Labor Management Relations Act to match the changes made elsewhere in this bill. It also eliminates a provision that allowed lawsuits for damages from certain union activities.",
+      "word_offset": 1276,
+      "char_offset": 7714
+    },
+    {
+      "id": "s14",
+      "slug": "section-202-amendments-to-the-labor-management-reporting-and-disclosure-act-of-1959",
+      "title": "Section 202. Amendments to the Labor-Management Reporting and Disclosure Act of 1959",
+      "text": "This section makes changes to laws about what employers must report when they hire consultants to fight union organizing. It closes loopholes that allowed some anti-union consulting arrangements to avoid reporting requirements. It also adds strong protections for workers who report violations of labor laws, making it illegal to fire or discriminate against whistleblowers. Workers who face retaliation can file complaints with the Department of Labor and get remedies including getting their job back, back pay, and other compensation. The section requires that reports about employer anti-union spending be made available to the public in searchable electronic formats and through mobile apps.",
+      "word_offset": 1313,
+      "char_offset": 7954
+    },
+    {
+      "id": "s15",
+      "slug": "section-301-electronic-voting-in-union-elections",
+      "title": "Section 301. Electronic voting in union elections",
+      "text": "This section requires the National Labor Relations Board to set up a system within one year that allows workers to vote in union elections remotely using the internet or telephone, rather than only voting in person. Workers can choose whether to vote online or by phone. The Board must report to Congress each year about how these elections work, including information about each election case, timing, methods used, results, and costs.",
+      "word_offset": 1415,
+      "char_offset": 8651
+    },
+    {
+      "id": "s16",
+      "slug": "section-302-gao-report-on-sectoral-bargaining",
+      "title": "Section 302. GAO report on sectoral bargaining",
+      "text": "This section requires the Government Accountability Office to study how collective bargaining works at the industry or sector level in other countries where this approach is used. Within three years, GAO must report to Congress comparing the laws, administrative systems, and procedures for sectoral bargaining in different countries, and analyze the effects on wages, employment, prices, productivity, and other factors.",
+      "word_offset": 1486,
+      "char_offset": 9088
+    },
+    {
+      "id": "s17",
+      "slug": "section-303-severability",
+      "title": "Section 303. Severability",
+      "text": "This section says that if any part of this law is found to be invalid by a court, the rest of the law remains in effect.",
+      "word_offset": 1546,
+      "char_offset": 9510
+    },
+    {
+      "id": "s18",
+      "slug": "section-304-authorization-of-appropriations",
+      "title": "Section 304. Authorization of appropriations",
+      "text": "This section authorizes Congress to provide whatever funding is needed to carry out this law and its requirements.",
+      "word_offset": 1572,
+      "char_offset": 9631
+    },
+    {
+      "id": "s19",
+      "slug": "section-305-rule-of-construction-immigration",
+      "title": "Section 305. Rule of construction - Immigration",
+      "text": "This section clarifies that this law does not change immigration law, particularly the law that makes it illegal for employers to knowingly hire workers who are not authorized to work in the United States.",
+      "word_offset": 1590,
+      "char_offset": 9746
+    },
+    {
+      "id": "s20",
+      "slug": "section-306-rule-of-construction-jurisdictional-standards",
+      "title": "Section 306. Rule of construction - Jurisdictional standards",
+      "text": "This section clarifies that this law does not change the standards the National Labor Relations Board uses to decide whether it has authority over a particular business, including standards based on the size of the business or its revenues.",
+      "word_offset": 1624,
+      "char_offset": 9952
+    },
+    {
+      "id": "s21",
+      "slug": "section-307-rule-of-construction-voter-privacy",
+      "title": "Section 307. Rule of construction - Voter privacy",
+      "text": "This section clarifies that nothing in this law affects workers' privacy rights regarding the voter lists that employers must provide to unions during election campaigns.",
+      "word_offset": 1663,
+      "char_offset": 10193
+    },
+    {
+      "id": "s22",
+      "slug": "section-308-rule-of-construction-state-law-definitions",
+      "title": "Section 308. Rule of construction - State law definitions",
+      "text": "This section clarifies that this law does not change how states define employer and employee for purposes of state laws about wages, work hours, workers' compensation, or unemployment insurance.",
+      "word_offset": 1688,
+      "char_offset": 10364
+    },
+    {
+      "id": "s23",
+      "slug": "section-309-gao-report-joint-employer-employee-definitions",
+      "title": "Section 309. GAO report on joint employer and employee definitions",
+      "text": "This section requires the Government Accountability Office to study the impact of the changes this law makes to the definitions of joint employer and employee. GAO must look at how these changes affect workers' ability to form unions and bargain collectively, and how they affect employers. The study must examine effects on work flexibility, pay and benefits, dispute resolution, use of technology, and workplace safety. GAO must gather input from businesses and unions, and report to Congress. After the report is issued, the President may recommend changes to Congress, and Congress will consider whether to accept, reject, or modify any recommendations.",
+      "word_offset": 1717,
+      "char_offset": 10559
+    }
+  ]
+}

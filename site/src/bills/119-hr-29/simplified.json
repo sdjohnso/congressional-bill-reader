@@ -1,0 +1,78 @@
+{
+  "bill_id": "119-hr-29",
+  "title": "Laken Riley Act",
+  "short_title": "Laken Riley Act",
+  "congress": 119,
+  "bill_number": "HR.29",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "87702ee2a22f9535",
+  "last_updated": "2026-03-20T14:36:36.806420+00:00",
+  "plain_summary": "The Laken Riley Act says that the government must arrest and hold people who are not US citizens if they have been charged with crimes like stealing, burglary, or shoplifting. These people must be held even if they are just charged with these crimes and not yet found guilty. The law also lets state governments sue the federal government if they think immigration rules are not being followed properly and this causes harm to their state. States can sue if the harm costs them more than one hundred dollars. This gives states more power to make sure immigration laws are enforced the way they want.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-02-10",
+  "last_action_text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 10.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Civil actions and liability",
+    "Crimes against property",
+    "Criminal investigation, prosecution, interrogation",
+    "Detention of persons",
+    "Immigration status and procedures",
+    "Intergovernmental relations",
+    "Refugees, asylum, displaced persons",
+    "State and local government operations",
+    "Visas and passports"
+  ],
+  "sponsor_name": "Rep. Collins, Mike [R-GA-10]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 54,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigration detention",
+    "arrest undocumented immigrants",
+    "theft charges immigration",
+    "shoplifting deportation",
+    "state sue federal government",
+    "immigration enforcement",
+    "hold immigrants without trial",
+    "burglary immigration consequences",
+    "state immigration lawsuits",
+    "detain charged immigrants",
+    "immigration crime policy"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Laken Riley Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-detention-of-certain-aliens-who-commit-theft",
+      "title": "Section 2 Detention of Certain Aliens Who Commit Theft",
+      "text": "This section changes existing immigration law to require the detention of certain people who are not US citizens. The law now applies to people who cannot legally enter the country under specific rules and who have been charged with burglary, theft, larceny, or shoplifting. This includes people who are arrested for these crimes, convicted of them, or admit to committing them. The meaning of these crimes follows the laws of wherever the acts happened. When someone fits this description, the Secretary of Homeland Security must issue a detainer order for that person. If that person is not already being held by federal, state, or local officials, the Secretary must quickly take them into custody.",
+      "word_offset": 9,
+      "char_offset": 44
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-enforcement-by-attorney-general-of-a-state",
+      "title": "Section 3 Enforcement by Attorney General of a State",
+      "text": "This section gives state attorneys general and other authorized state officials the power to sue the federal government in court. They can sue if they believe federal officials are not following immigration detention and removal requirements and this failure harms their state or residents. The harm can include financial harm of more than one hundred dollars. Courts must handle these cases quickly and put them first on their schedule. State officials can sue the Secretary of Homeland Security if they release someone or give them bond or parole when they should not. They can also sue the Secretary of State if they fail to stop giving visas to people from certain countries as required by law. States can also sue if the Secretary of Homeland Security grants parole to people when it should only be given case by case for urgent humanitarian reasons or significant public benefit. Finally, states can sue if federal officials fail to detain people during their removal period as required. A special rule allows these state lawsuits to move forward even when other laws normally prevent courts from stopping immigration actions.",
+      "word_offset": 123,
+      "char_offset": 746
+    }
+  ]
+}

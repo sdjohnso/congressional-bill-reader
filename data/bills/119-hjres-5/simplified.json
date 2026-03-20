@@ -1,0 +1,56 @@
+{
+  "bill_id": "119-hjres-5",
+  "title": "Proposing an amendment to the Constitution of the United States to limit the number of terms an individual may serve as a Member of Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.5",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "b036e8af191ca3e9",
+  "last_updated": "2026-03-20T11:33:35.420459+00:00",
+  "plain_summary": "This bill wants to change the Constitution to limit how long people can serve in Congress. House members could only serve for 12 years total, which is six terms of two years each. Senators could also only serve for 12 years total, which is two terms of six years each. The limits would not affect anyone who was already in Congress before 2023. To become law, three-fourths of all states would need to approve this change within seven years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional elections",
+    "Constitution and constitutional amendments",
+    "House of Representatives",
+    "Members of Congress",
+    "Senate"
+  ],
+  "sponsor_name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "term limits",
+    "congress term limits",
+    "limit congressman years",
+    "how long serve congress",
+    "senate term limits",
+    "house representatives term limits",
+    "congressional term limits",
+    "12 year limit congress",
+    "restrict congress service",
+    "constitution amendment term limits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution-proposing-congressional-term-limits-amendment",
+      "title": "Joint Resolution Proposing Congressional Term Limits Amendment",
+      "text": "This joint resolution proposes a change to the United States Constitution that would limit how long people can serve in Congress. The resolution was introduced by Representative Fitzpatrick and Representative Khanna on January third, two thousand twenty-five. For this change to become part of the Constitution, two-thirds of both the House of Representatives and the Senate must agree to it. Then three-fourths of all state legislatures must approve it within seven years. The proposed constitutional amendment has three main parts. First, no person can serve as a Representative in the House for more than six terms of two years each, which means twelve years total. If someone serves more than one year of any two-year term, that counts as a full term, even if they did not start the term or finish it. Second, no person can serve as a Senator for more than two terms of six years each, which means twelve years total. If someone serves more than three years of any six-year term, that counts as a full term, even if they did not start the term or finish it. Third, these limits would not apply to anyone who already served in Congress before the One Hundred Eighteenth Congress, which began in two thousand twenty-three.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

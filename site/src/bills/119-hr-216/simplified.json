@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-216",
+  "title": "SEC Act of 2025",
+  "short_title": "SEC Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.216",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "4f893834fa90a74d",
+  "last_updated": "2026-03-20T12:31:59.110741+00:00",
+  "plain_summary": "The SEC Act of 2025 changes how financial regulators count violations when companies break securities laws. Instead of counting each separate wrongful act as its own violation, regulators must group together violations that come from the same cause, false statement, or ongoing problem. All violations in each group get treated as just one violation when deciding penalties. This means companies may face smaller fines because multiple related violations will only count as one violation instead of many separate ones.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Sessions, Pete [R-TX-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "SEC fines",
+    "corporate penalties",
+    "securities violations",
+    "financial regulation",
+    "company fines",
+    "Wall Street penalties",
+    "business violations",
+    "financial crimes punishment",
+    "corporate punishment rules",
+    "securities law enforcement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Securities Enforcement Clarity Act of two thousand twenty five or the SEC Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-determination-of-the-number-of-violations",
+      "title": "Section 2 Determination of the Number of Violations",
+      "text": "This section changes how government regulators count violations when companies or people break securities laws. It makes changes to four major financial laws from nineteen thirty three, nineteen thirty four, and nineteen forty. The changes add new rules about counting violations to these laws. When someone breaks the law multiple times, those separate acts should be counted as just one violation if they happened because of the same root cause, the same false statement or missing information, or an ongoing failure to follow the rules. This applies to all the penalty sections in the Securities Act of nineteen thirty three, the Securities Exchange Act of nineteen thirty four, the Investment Company Act of nineteen forty, and the Investment Advisers Act of nineteen forty. The goal is to make sure that when regulators decide how many violations occurred, they group related violations together instead of counting each separate act as its own violation.",
+      "word_offset": 24,
+      "char_offset": 134
+    }
+  ]
+}

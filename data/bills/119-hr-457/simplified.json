@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-457",
+  "title": "Passport Notification Act of 2025",
+  "short_title": "Passport Notification Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.457",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Foreign Affairs.",
+  "version_hash": "40e979b7ab6f22a8",
+  "last_updated": "2026-03-20T14:09:37.465965+00:00",
+  "plain_summary": "The Passport Notification Act of 2025 requires the State Department to send notices to Americans before their passports expire. People must get this notice at least six months before their passport runs out. The notice will tell them when their passport expires and explain how to get a new one. It will also tell them where they can turn in their renewal paperwork. The government can send this notice by email or regular mail.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "passport renewal reminder",
+    "passport expiration notice",
+    "passport renewal notification",
+    "when does my passport expire",
+    "passport expiration warning",
+    "government passport alerts",
+    "passport renewal deadline",
+    "passport expiry notification",
+    "automatic passport reminder",
+    "passport renewal notice by mail",
+    "passport expiration email alert",
+    "passport renewal help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Passport Notification Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-required-notification-regarding-passport-expiration-and-renewal",
+      "title": "Section 2 Required Notification Regarding Passport Expiration and Renewal",
+      "text": "The government must send notices to people about their passports. For every American citizen who has a valid passport that has not expired yet, the Assistant Secretary of State for Consular Affairs (the government official in charge of passport services) must contact them no later than one hundred eighty days before their passport expires. The notice must include two things. First, it must tell them when their passport will expire. Second, it must give them information about how to renew their passport, including where they can go to submit the paperwork they need for renewal. The government can send these notices either by email or regular mail. This rule only applies to passports that will expire on or after one hundred eighty days from when this law takes effect.",
+      "word_offset": 14,
+      "char_offset": 82
+    }
+  ]
+}

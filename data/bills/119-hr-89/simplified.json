@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-89",
+  "title": "Prescription Freedom Act of 2025",
+  "short_title": "Prescription Freedom Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.89",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "a4286a679992dcda",
+  "last_updated": "2026-03-20T14:37:35.105514+00:00",
+  "plain_summary": "This bill would stop the Food and Drug Administration from deciding which medicines need a doctor's prescription. Instead, each state would get to make those rules for themselves. The change would happen six months after the bill becomes law. However, the FDA would still control prescription rules for drugs that end pregnancies. This means states could allow people to buy many medicines without seeing a doctor first.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Drug safety, medical device, and laboratory regulation",
+    "Food and Drug Administration (FDA)",
+    "Prescription drugs",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "prescription drugs without doctor",
+    "buy medicine without prescription",
+    "over the counter drugs",
+    "state control prescription medicine",
+    "FDA prescription rules",
+    "prescription freedom",
+    "medicine without doctor visit",
+    "state decide prescription drugs",
+    "prescription requirements by state",
+    "medicine access without prescription"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Prescription Freedom Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-fda-authority-to-require-prescriptions",
+      "title": "Section 2  Repeal of FDA Authority to Require Prescriptions",
+      "text": "Starting six months after this law is passed, the Food and Drug Administration will no longer have the power to decide that certain drugs can only be sold with a doctor's prescription. This change removes a specific part of federal law that currently gives the FDA this authority. After this change takes effect, any federal law or rule that talks about prescription drugs will instead follow whatever rules each state has about prescriptions. Federal officials will decide how to match up the old federal rules with each state's rules when needed. However, the Secretary of Health and Human Services can still keep the old prescription requirements for any drugs that are meant to end pregnancies.",
+      "word_offset": 14,
+      "char_offset": 81
+    }
+  ]
+}

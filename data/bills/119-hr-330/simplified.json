@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-330",
+  "title": "Organ Donation Referral Improvement Act",
+  "short_title": "Organ Donation Referral Improvement Act",
+  "congress": 119,
+  "bill_number": "HR.330",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "6efee0ac8daddff7",
+  "last_updated": "2026-03-20T12:54:33.575240+00:00",
+  "plain_summary": "This law tells the Department of Health and Human Services to study how hospitals use computer systems to find people who could donate organs. These computer systems look through patient records automatically and then contact organ donation groups when they find possible donors. The study must look at whether these computer systems work better than having people do this job by hand. The department has one year to finish the study and share what they learned about making organ donation work better.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Computers and information technology",
+    "Congressional oversight",
+    "Government studies and investigations",
+    "Hospital care",
+    "Organ and tissue donation and transplantation"
+  ],
+  "sponsor_name": "Rep. Wittman, Robert J. [R-VA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 14,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "organ donation",
+    "hospital computer systems",
+    "donor referral",
+    "automatic patient screening",
+    "organ transplant",
+    "donation coordination",
+    "hospital technology",
+    "finding organ donors",
+    "medical records automation",
+    "organ donation study"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Organ Donation Referral Improvement Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-studying-electronic-automated-referral-for-organ-donations",
+      "title": "Section 2 Studying Electronic Automated Referral for Organ Donations",
+      "text": "The Secretary of Health and Human Services must complete a study within one year after this law passes. The study will look at how hospitals currently use computer systems that automatically find potential organ donors and refer them to organ donation organizations. An electronic automated referral is a computer system that looks through a patient's electronic health records using medical guidelines to find people who might be able to donate organs after they die. When the system finds someone, it automatically sends their information to the organization that handles organ donations for that hospital. The study must find out several things. It must see if these computer systems save staff time and help doctors figure out faster who can donate organs. It must also check if the computer systems are better than people at finding potential donors. The study will look at whether using electronic medical records and standard medical rules helps find more donors. It will review how these automatic systems affect the total number of organ donations without needing people to manually report cases. The study must also review published research about these computer referral systems and look at the best ways to use them. It must review computer security practices to make sure patient information is safely transmitted during referrals. The study will create recommendations to encourage more hospitals to use these systems and identify what needs to happen to use them everywhere in the country. Within one year of this law passing, the Secretary must send a report about the study results to several committees in Congress. These include the Committee on Energy and Commerce and Committee on Ways and Means in the House of Representatives, and the Committee on Finance and Committee on Health, Education, Labor, and Pensions in the Senate.",
+      "word_offset": 11,
+      "char_offset": 68
+    }
+  ]
+}

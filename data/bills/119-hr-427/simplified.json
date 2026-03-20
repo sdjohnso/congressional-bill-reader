@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-427",
+  "title": "Interstate Commerce Simplification Act of 2025",
+  "short_title": "Interstate Commerce Simplification Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.427",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "4b55005b2103aef4",
+  "last_updated": "2026-03-20T14:58:17.411710+00:00",
+  "plain_summary": "This bill changes the rules about when states can tax businesses from other states. Right now, states cannot tax out-of-state businesses if they only ask customers to buy things and then ship those things from outside the state. The bill makes it easier for businesses to avoid state taxes by including more business activities under the protection from taxes. This means more out-of-state businesses might not have to pay taxes to states where they sell their products.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Fitzgerald, Scott [R-WI-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "out of state business taxes",
+    "interstate commerce taxes",
+    "state tax on online sales",
+    "business tax avoidance",
+    "shipping tax rules",
+    "cross state business taxes",
+    "state taxes on remote sellers",
+    "interstate business tax protection",
+    "online business state taxes",
+    "out of state company taxes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Interstate Commerce Simplification Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amendment",
+      "title": "Section 2  Amendment",
+      "text": "This section changes an old law called Public Law eighty six dash two seventy two. The law gets a new definition added to it. The new definition explains what solicitation of orders means. Solicitation of orders means any business activity that helps a company ask customers to buy things. This includes activities that might also help the business in other ways besides just asking for orders.",
+      "word_offset": 15,
+      "char_offset": 95
+    }
+  ]
+}

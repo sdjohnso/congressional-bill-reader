@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-565",
+  "title": "District of Columbia Federal Judicial Officials Residency Equality Act of 2025",
+  "short_title": "District of Columbia Federal Judicial Officials Residency Equality Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.565",
+  "introduced_date": "2025-01-20",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "2956d36976722aff",
+  "last_updated": "2026-03-20T15:44:57.034920+00:00",
+  "plain_summary": "This bill changes the rules for federal court workers in Washington DC. Right now, judges, court clerks, prosecutors, and marshals who work in DC don't have to live there, but similar workers in other states do have to live where they work. The new law makes DC workers follow the same rules as everyone else by requiring them to live in Washington DC. The rule only affects people who get hired after the law starts, not people who already have these jobs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-20",
+  "last_action_date": "2025-01-20",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "Criminal investigation, prosecution, interrogation",
+    "District of Columbia",
+    "Federal district courts",
+    "Judges",
+    "Judicial procedure and administration",
+    "Law enforcement officers",
+    "State and local courts"
+  ],
+  "sponsor_name": "Del. Norton, Eleanor Holmes [D-DC]",
+  "sponsor_party": "D",
+  "sponsor_state": "DC",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Washington DC judges",
+    "federal court workers housing",
+    "DC residency requirements",
+    "judges living in DC",
+    "court employees moving to DC",
+    "federal workers residence rules",
+    "DC courthouse staff",
+    "prosecutors living where they work",
+    "court clerks residency",
+    "federal marshals housing requirements",
+    "DC judicial system housing",
+    "government workers living requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the District of Columbia Federal Judicial Officials Residency Equality Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-residency-requirements-for-certain-officials-serving-in-the-district-of-columbia",
+      "title": "Section 2. Residency Requirements for Certain Officials Serving in the District of Columbia",
+      "text": "This section changes where certain federal court officials must live when they work in Washington DC. Circuit judges must now live in the area where they work, just like circuit judges in all other parts of the country. The law removes the special exception that previously allowed DC circuit judges to live anywhere. District judges in DC must now live in their district, removing another special exception that only applied to DC. US attorneys in DC must now live in their district, just like US attorneys everywhere else except those in southern and eastern New York who can live within twenty miles. US marshals in DC no longer get a special exception and must follow the same rules as other marshals, except the marshal for southern New York can still live within twenty miles of the district. Court clerks in DC must now live in their district, removing the special exception they previously had. These new rules about where officials must live only apply to people who are hired after this law goes into effect.",
+      "word_offset": 20,
+      "char_offset": 127
+    }
+  ]
+}

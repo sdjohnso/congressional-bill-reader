@@ -1,0 +1,54 @@
+{
+  "bill_id": "119-hr-319",
+  "title": "To authorize an additional district judgeship for the district of Idaho.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.319",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "b4c37763e4ee4438",
+  "last_updated": "2026-03-20T13:32:42.001951+00:00",
+  "plain_summary": "This bill creates one new federal judge position for the state of Idaho. Right now, Idaho has two federal district judges, but this bill would increase that number to three judges total. The President will choose who gets the new judge job, but the Senate has to agree with the choice. The law books will be updated to show that Idaho now has three federal district judges instead of two.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "Federal district courts",
+    "Idaho",
+    "Judges"
+  ],
+  "sponsor_name": "Rep. Simpson, Michael K. [R-ID-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "ID",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Idaho federal judge",
+    "new judge Idaho",
+    "federal court Idaho",
+    "Idaho district court",
+    "more judges Idaho",
+    "federal courthouse Idaho",
+    "Idaho court system",
+    "additional judge position",
+    "Idaho judicial system",
+    "federal judge appointment Idaho"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-district-judgeship-for-the-district-of-idaho",
+      "title": "Section 1 District Judgeship for the District of Idaho",
+      "text": "The President must choose one additional federal district judge for the state of Idaho. The Senate must approve this choice before the judge can start working. To make this change official, the law book that lists how many judges each state gets will be updated. The part about Idaho will be changed to show that Idaho now has three district judges instead of the current number.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

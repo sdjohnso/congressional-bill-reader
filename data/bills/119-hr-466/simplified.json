@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-466",
+  "title": "Nuclear Waste Informed Consent Act",
+  "short_title": "Nuclear Waste Informed Consent Act",
+  "congress": 119,
+  "bill_number": "HR.466",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "b4eb6936f4217226",
+  "last_updated": "2026-03-20T14:14:41.067423+00:00",
+  "plain_summary": "This bill says the Department of Energy cannot spend money from the Nuclear Waste Fund to build places to store dangerous nuclear waste unless they get written permission first. They must get agreements from state governors, local governments, nearby towns that trucks would drive through, and Indian tribes that would be affected. Everyone listed must agree in writing before any money can be spent. If anyone wants to change the agreement later, everyone must agree to the changes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Titus, Dina [D-NV-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "NV",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "nuclear waste storage",
+    "radioactive waste disposal",
+    "nuclear dump sites",
+    "nuclear waste transportation",
+    "state permission nuclear waste",
+    "local consent nuclear waste",
+    "tribal approval nuclear waste",
+    "nuclear waste trucks",
+    "nuclear waste fund spending",
+    "community agreement nuclear storage",
+    "governor approval nuclear waste",
+    "nuclear waste facility construction"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Nuclear Waste Informed Consent Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "This law uses several important terms that are already defined in another law called the Nuclear Waste Policy Act of nineteen eighty-two. These terms include affected Indian tribe, affected unit of local government, high-level radioactive waste, repository (a place where nuclear waste is permanently stored), Secretary (the Secretary of Energy), spent nuclear fuel (used up nuclear fuel from power plants), and unit of general local government.",
+      "word_offset": 11,
+      "char_offset": 63
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-consent-based-approval",
+      "title": "Section 3 Consent-Based Approval",
+      "text": "The Secretary of Energy cannot spend money from the Nuclear Waste Fund to pay for certain nuclear waste storage activities unless the Secretary first gets written agreements from all the affected governments. The Secretary must get agreements from the Governor of the state where the nuclear waste storage site would be built. The Secretary must also get agreements from each local government that would be affected by the storage site. If nuclear waste will be transported through other local government areas to reach the storage site, those local governments must also agree. Any affected Indian tribe must also give their agreement. These agreements must be written down and signed by everyone involved. Once signed, these agreements are binding, which means all parties must follow them. The agreements can only be changed or canceled if everyone agrees to the changes.",
+      "word_offset": 77,
+      "char_offset": 509
+    }
+  ]
+}

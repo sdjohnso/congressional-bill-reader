@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-104",
+  "title": "Protecting Arizona from Federal Land Grabs Act",
+  "short_title": "Protecting Arizona from Federal Land Grabs Act",
+  "congress": 119,
+  "bill_number": "HR.104",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "bb423ccfeda6899d",
+  "last_updated": "2026-03-20T13:14:41.906842+00:00",
+  "plain_summary": "This bill stops the President from creating new national monuments in Arizona or making existing ones bigger without Congress saying yes first. Right now, the President can make these decisions alone, but this law would change that for Arizona. Congress would have to vote and approve any new national monuments or changes to old ones in Arizona before they could happen. This gives Arizona the same protection that Wyoming already has against the federal government taking control of more land.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Arizona",
+    "Congressional oversight",
+    "Monuments and memorials"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Arizona land",
+    "federal land grab",
+    "national monuments",
+    "President power",
+    "Congress approval",
+    "government land control",
+    "Arizona protection",
+    "federal government land",
+    "monument creation",
+    "land rights Arizona",
+    "stop federal takeover",
+    "Wyoming protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting Arizona from Federal Land Grabs Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-extension-or-establishment-of-national-monuments-in-arizona",
+      "title": "Section 2 Limitation on Extension or Establishment of National Monuments in Arizona",
+      "text": "This section changes an existing law in the United States Code. The law currently says that in Wyoming, the President cannot create new national monuments or make existing ones bigger without Congress voting to approve it first. This bill adds Arizona to that same rule. Now both Wyoming and Arizona will be protected from having new national monuments created or existing ones expanded unless Congress specifically votes to allow it.",
+      "word_offset": 13,
+      "char_offset": 75
+    }
+  ]
+}

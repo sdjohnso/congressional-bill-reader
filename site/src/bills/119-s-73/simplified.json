@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-s-73",
+  "title": "EMPSA",
+  "short_title": "EMPSA",
+  "congress": 119,
+  "bill_number": "S.73",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Finance.",
+  "version_hash": "89d19f14450cec7f",
+  "last_updated": "2026-03-20T14:21:23.318881+00:00",
+  "plain_summary": "This bill helps married adults with intellectual or developmental disabilities get fairer treatment when applying for SSI benefits. Currently, when these adults get married, the government counts their spouse's money and income when deciding if they can get SSI, which often means they lose their benefits. This bill changes that rule so the government will only look at the disabled person's own money and income, not their spouse's. This means adults with these disabilities can get married without worrying about losing the financial help they need.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [
+    "Disability and paralysis",
+    "Disability assistance",
+    "Marriage and family status",
+    "Poverty and welfare assistance"
+  ],
+  "sponsor_name": "Sen. Moran, Jerry [R-KS]",
+  "sponsor_party": "R",
+  "sponsor_state": "KS",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "marriage penalty",
+    "disabled people marriage",
+    "SSI benefits marriage",
+    "intellectual disability marriage",
+    "developmental disability benefits",
+    "spouse income SSI",
+    "married disabled benefits",
+    "SSI marriage rules",
+    "disability benefits marriage",
+    "getting married losing benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Eliminating the Marriage Penalty in SSI Act or EMPSA for short.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-supplemental-security-income-benefits",
+      "title": "Section 2  Supplemental Security Income Benefits",
+      "text": "This section changes the rules for Supplemental Security Income benefits (money the government gives to people with disabilities who have low income). Currently, when adults with intellectual or developmental disabilities get married, their SSI benefits are reduced or cut off. This new law fixes that problem. Adults who are eighteen years old or older and have an intellectual or developmental disability will be able to get SSI benefits based only on their own income and resources, not their spouse's. To qualify, their own income must be below the regular SSI limit, and their own resources must be below the regular SSI limit. The amount of benefits they get will be calculated the same way as for unmarried people, using only their own income. Their spouse's income and resources will not count against them. These changes will start for benefit payments that begin more than one hundred eighty days after this law is passed.",
+      "word_offset": 17,
+      "char_offset": 91
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-hr-81",
+  "title": "Travel Mask Mandate Repeal Act of 2025",
+  "short_title": "Travel Mask Mandate Repeal Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.81",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Highways and Transit.",
+  "version_hash": "c817d3c404fa7bf6",
+  "last_updated": "2026-03-20T14:17:16.360703+00:00",
+  "plain_summary": "This bill stops federal agencies from making rules that require people to wear masks on planes, trains, buses, and in places like airports because of COVID-19. It also cancels the mask rules that were made in 2021 by health agencies like the CDC and the TSA. The government had already stopped enforcing these mask rules in 2022 after a court said they had to stop. The COVID-19 emergency officially ended in May 2023.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-04",
+  "last_action_date": "2025-01-04",
+  "last_action_text": "Referred to the Subcommittee on Highways and Transit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [
+    "Aviation and airports",
+    "Cardiovascular and respiratory health",
+    "Emergency medical services and trauma care",
+    "Health promotion and preventive care",
+    "Health technology, devices, supplies",
+    "Infectious and parasitic diseases",
+    "Railroads",
+    "Transportation safety and security"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "mask mandate",
+    "travel masks",
+    "airplane masks",
+    "airport masks",
+    "train masks",
+    "bus masks",
+    "COVID masks",
+    "face masks",
+    "mask requirements",
+    "transportation masks",
+    "CDC masks",
+    "TSA masks"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Travel Mask Mandate Repeal Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-certain-mask-mandates",
+      "title": "Section 2 Prohibition on Certain Mask Mandates",
+      "text": "No federal government agency can require people to wear face masks because of COVID nineteen when they are using public transportation or when they are in transportation places like airports or train stations. A conveyance means any vehicle used to transport people or goods, like planes, trains, buses, or ships. A transportation hub means places where people go to catch transportation, like airports, train stations, or bus stations. Starting when this law goes into effect, the mask rule that the Centers for Disease Control and Prevention made on January twenty nine, two thousand twenty one is canceled. This rule required people to wear masks on transportation and in transportation hubs. Any other similar rules made by the Transportation Security Administration are also canceled. These canceled rules include the ones with the numbers EA fifteen forty six dash twenty one dash zero one A, SD fifteen forty two dash twenty one dash zero one A, SD fifteen forty four dash twenty one dash zero two A, SD fifteen eighty two dash eighty four dash twenty one dash zero one A, EA fifteen forty six dash twenty one dash zero one, SD fifteen forty two dash twenty one dash zero one, SD fifteen forty four dash twenty one dash zero two, and SD fifteen eighty two slash eighty four dash twenty one dash zero one.",
+      "word_offset": 16,
+      "char_offset": 87
+    }
+  ]
+}

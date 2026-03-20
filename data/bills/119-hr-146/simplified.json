@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-146",
+  "title": "Prohibition on IOER Act of 2025",
+  "short_title": "Prohibition on IOER Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.146",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "5154588249347cea",
+  "last_updated": "2026-03-20T14:03:03.480184+00:00",
+  "plain_summary": "This bill stops Federal Reserve banks from paying interest to regular banks on extra money they keep stored there. Right now, banks can earn interest on all the money they keep at Federal Reserve banks, even if it's more than they are required to keep. Under this new law, banks would only earn interest on the minimum amount of money they must keep at Federal Reserve banks by law. Any extra money beyond that minimum would not earn any interest.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [
+    "Banking and financial institutions regulation",
+    "Federal Reserve System",
+    "Financial services and investments",
+    "Interest, dividends, interest rates"
+  ],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Federal Reserve interest payments",
+    "bank interest rates",
+    "excess reserves",
+    "banking regulations",
+    "Federal Reserve policy",
+    "bank earnings",
+    "interest on deposits",
+    "banking reform",
+    "Federal Reserve changes",
+    "bank profits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Prohibition on IOER Act of twenty twenty five. IOER stands for Interest on Excess Reserves.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-payment-of-earnings-on-surplus-reserves",
+      "title": "Section 2. Prohibition on Payment of Earnings on Surplus Reserves",
+      "text": "This section changes the Federal Reserve Act. The Federal Reserve Act is the law that controls how the Federal Reserve banking system works. The changes affect section nineteen paragraph b number twelve of that law. The changes do four things. First, the title of that section will now say required reserve balances instead of just balances. Second, the section will be more specific about which money balances can earn interest. It will only apply to money that banks are required to keep at Federal Reserve banks under the law. Third, the existing paragraph C will be renamed as paragraph D. Fourth, a new paragraph C will be added. This new paragraph says that Federal Reserve banks cannot pay any earnings or interest on money that banks keep with them, except for the specific cases already allowed in this section. This means banks cannot earn interest on extra money they keep at Federal Reserve banks beyond what they are required to keep.",
+      "word_offset": 21,
+      "char_offset": 119
+    }
+  ]
+}

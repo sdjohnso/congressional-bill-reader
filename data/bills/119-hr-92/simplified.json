@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-92",
+  "title": "Strategic Production Response and Implementation Act",
+  "short_title": "Strategic Production Response and Implementation Act",
+  "congress": 119,
+  "bill_number": "HR.92",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "997e87e6082cc115",
+  "last_updated": "2026-03-20T15:12:34.813561+00:00",
+  "plain_summary": "This bill says the government cannot take oil out of the Strategic Petroleum Reserve unless it first agrees to lease more federal land for oil and gas drilling. The amount of new land that must be leased has to match the percentage of oil being taken from the reserve. However, the government can still use the reserve oil during serious energy emergencies without leasing new land. The total increase in leased federal lands cannot be more than 10 percent.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [
+    "Energy storage, supplies, demand",
+    "Land use and conservation",
+    "Marine and coastal resources, fisheries",
+    "Oil and gas",
+    "Strategic materials and reserves"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "oil reserve",
+    "government oil supply",
+    "federal land drilling",
+    "oil and gas leasing",
+    "strategic petroleum reserve",
+    "emergency oil supply",
+    "offshore drilling",
+    "federal drilling permits",
+    "oil drilling requirements",
+    "energy emergency oil"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Strategic Production Response and Implementation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-compensatory-production-increase-plan",
+      "title": "Section 2 Compensatory Production Increase Plan",
+      "text": "This section changes an existing energy law by adding new rules about the Strategic Petroleum Reserve. The Strategic Petroleum Reserve is the government's emergency oil supply. Under these new rules, the Secretary of Energy cannot release oil from this emergency supply unless there is a severe energy crisis. Before any other oil release, the Secretary must first create and put into action a plan to lease more federal land for oil and gas drilling. Federal lands include areas controlled by the Department of Agriculture, Department of Energy, Department of the Interior, and Department of Defense. This includes underwater areas off the coast called the Outer Continental Shelf. The plan must increase the percentage of federal land leased for oil and gas production by the same percentage as the oil being released from the emergency reserve. However, the total increase in leased federal land cannot be more than ten percent. The Secretary of Energy must work with the Secretary of Agriculture, Secretary of the Interior, and Secretary of Defense when making this plan.",
+      "word_offset": 12,
+      "char_offset": 81
+    }
+  ]
+}

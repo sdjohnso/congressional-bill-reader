@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-42",
+  "title": "Build the Wall Act of 2025",
+  "short_title": "Build the Wall Act of 2025",
+  "congress": 119,
+  "bill_number": "S.42",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Finance.",
+  "version_hash": "d814225d9b6f61a2",
+  "last_updated": "2026-03-20T14:17:02.463762+00:00",
+  "plain_summary": "This bill creates a special fund to pay for building a wall along the border between the United States and Mexico. The government will take leftover money that was set aside to help states and cities recover from coronavirus and put it into this new fund instead. The Department of Homeland Security will use this money to build and take care of physical barriers like walls and fences along the southern border. The goal is to use money that is not being used for coronavirus recovery to help secure the border with Mexico.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Barrasso, John [R-WY]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border wall",
+    "Mexico border",
+    "wall funding",
+    "coronavirus money",
+    "border security",
+    "southern border",
+    "border fence",
+    "COVID funds",
+    "immigration wall",
+    "border barrier"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Build the Wall Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-southern-border-wall-construction-fund",
+      "title": "Section 2  Southern Border Wall Construction Fund",
+      "text": "The government will create a new money account in the Treasury called the Southern Border Wall Construction Fund. All leftover money from the coronavirus programs that gave funds to states and local governments will be moved into this new account. This includes money from two specific coronavirus recovery programs that were created to help states and local areas during the pandemic. The Secretary of Homeland Security will use all the money in this account to build and take care of physical walls and barriers along the border between the United States and Mexico.",
+      "word_offset": 15,
+      "char_offset": 75
+    }
+  ]
+}

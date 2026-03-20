@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-498",
+  "title": "Do No Harm in Medicaid Act",
+  "short_title": "Do No Harm in Medicaid Act",
+  "congress": 119,
+  "bill_number": "HR.498",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+  "version_hash": "56a97073f7b33d7d",
+  "last_updated": "2026-03-20T11:39:14.962865+00:00",
+  "plain_summary": "This bill stops the federal government from using Medicaid money to pay for gender transition treatments for people under 18 years old. Gender transition treatments include surgeries and hormone medicines that are meant to change someone's body from their biological sex. The bill does allow some exceptions, like treatments for genetic disorders, treatments to fix early puberty, or treatments needed to save someone's life. Parents or guardians must agree to these exception treatments for kids under 18.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-12-18",
+  "last_action_date": "2025-12-18",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Child health",
+    "Health programs administration and funding",
+    "Medicaid",
+    "Prescription drugs",
+    "Sex, gender, sexual orientation discrimination",
+    "Surgery and anesthesia"
+  ],
+  "sponsor_name": "Rep. Crenshaw, Dan [R-TX-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "medicaid gender transition",
+    "transgender minors medicaid",
+    "hormone therapy kids medicaid",
+    "gender surgery children funding",
+    "transgender youth healthcare ban",
+    "medicaid transgender services",
+    "minor gender treatment funding",
+    "kids hormone blockers medicaid",
+    "transgender children medical care",
+    "gender affirming care medicaid"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Do No Harm in Medicaid Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibiting-federal-medicaid-funding-for-gender-transition-for-minors",
+      "title": "Section 2 Prohibiting Federal Medicaid Funding for Gender Transition for Minors",
+      "text": "This section changes the rules for Medicaid (a government health insurance program that helps pay medical costs for people with low incomes). The changes stop the federal government from using Medicaid money to pay for certain medical procedures and treatments for people under eighteen years old. These procedures are called specified gender transition procedures and include surgeries, hormone treatments, and other medical services that are meant to change a person's body to look like the opposite sex from what they were born as. The law defines what counts as these procedures in detail. It lists many types of surgeries including operations to remove or create body parts, surgeries to change facial features, and placing implants in the chest or other areas. It also includes giving hormone medications like testosterone or estrogen in amounts higher than what the body would naturally make. However, the law does allow some exceptions. Medicaid can still pay for treatments that help children who go through puberty too early. It can also pay for medical care needed to treat genetic disorders that affect how a person's body develops sexually, or to fix problems caused by infections, diseases, injuries, or other serious medical conditions. The law also includes specific definitions of male and female based on which type of reproductive system a person naturally has or would have had.",
+      "word_offset": 12,
+      "char_offset": 55
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-437",
+  "title": "SNOW Act of 2025",
+  "short_title": "SNOW Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.437",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "version_hash": "38159278cdf98730",
+  "last_updated": "2026-03-20T11:58:19.899570+00:00",
+  "plain_summary": "The SNOW Act of 2025 helps communities get federal disaster aid more easily when big winter storms hit. The law lets communities use federal money to buy snow removal equipment to prepare for future storms. It also increases federal funding from 75 percent to 90 percent for rural areas and disadvantaged communities when disasters happen. FEMA must create new rules that make it easier for states to get disaster declarations for snowstorms without having to meet strict requirements about record snowfall amounts.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [],
+  "sponsor_name": "Rep. Kennedy, Timothy M. [D-NY-26]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "winter storm disaster relief",
+    "snow removal equipment funding",
+    "federal disaster aid",
+    "snowstorm emergency help",
+    "FEMA winter weather",
+    "rural disaster assistance",
+    "snow disaster money",
+    "winter storm preparedness",
+    "federal snow emergency",
+    "disaster declaration snowstorm",
+    "winter weather federal help",
+    "snow removal federal funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Support Neighborhoods Offset Winter Damage Act of two thousand twenty five or the SNOW Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-winter-storms",
+      "title": "Section 2 Winter Storms",
+      "text": "This section changes an existing law called the Robert T. Stafford Disaster Relief and Emergency Assistance Act to help communities deal with winter storms. People who get money to protect their areas from future disasters can now use that money for winter storm protection activities, including buying equipment to remove snow. A winter storm means heavy snow, blowing snow, or dangerous wind chills as decided by the Administrator (the person in charge of the Federal Emergency Management Agency). The Administrator must create a process to make it easier for winter storms to qualify for major disaster help. They can skip the usual requirements about how much snow must fall and how much damage must happen if at least two of these conditions are met in the affected area. First, the state emergency management agency says in writing that the winter storm damage is worse than what the state usually requires to declare a disaster in that area. Second, the National Weather Service says the area had wind speeds greater than fifty eight miles per hour with wind chill below zero degrees Fahrenheit, or the area had lake effect snow and bad conditions for more than twenty four hours. Third, the Census Bureau says the area has people whose household income is below the national average, or the area is not urban. The Administrator must also create rules to provide winter storm help for things like debris removal, roads and bridges, water control systems, public buildings and their contents, public utilities, and parks and recreational facilities. The Administrator can also provide help when the state emergency management agency says the winter storm is too big for the state or local government to handle on their own.",
+      "word_offset": 26,
+      "char_offset": 147
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-federal-cost-share",
+      "title": "Section 3 Federal Cost Share",
+      "text": "This section changes how much money the federal government pays when disasters happen. For most disaster assistance, the federal government will pay at least seventy five percent of the costs. But in rural areas or disadvantaged areas, the federal government will pay at least ninety percent of the costs. A rural or disadvantaged area means a place where the Census Bureau has found that people's household income is below the national average, or the area is not urban. For hazard mitigation (work done to prevent future disasters), the President can pay up to ninety percent of costs in rural or disadvantaged areas when the work will really help reduce future damage or make communities stronger. The total amount spent on hazard mitigation cannot be more than fifteen percent of disaster grants up to two billion dollars, ten percent for grants between two billion and ten billion dollars, and seven and a half percent for grants between ten billion and thirty five billion three hundred thirty three million dollars. For debris and wreckage removal, the federal government will pay at least seventy five percent of costs, but at least ninety percent in rural or disadvantaged areas. For other assistance provided under this law, the federal government will pay at least seventy five percent of costs, but at least ninety percent in rural or disadvantaged areas.",
+      "word_offset": 311,
+      "char_offset": 1877
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-s-143",
+  "title": "Natural Gas Tax Repeal Act",
+  "short_title": "Natural Gas Tax Repeal Act",
+  "congress": 119,
+  "bill_number": "S.143",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Environment and Public Works.",
+  "version_hash": "3a79ca217af9cfee",
+  "last_updated": "2026-03-20T15:54:48.597455+00:00",
+  "plain_summary": "This bill gets rid of a government program that was supposed to help reduce methane gas pollution from oil and gas companies. Methane is a type of greenhouse gas that contributes to climate change. The bill also removes a fee that big oil and gas facilities had to pay if they released too much methane into the air. Any money that was saved up for this program would be returned to the government.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Environment and Public Works.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Sen. Cruz, Ted [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 17,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "natural gas",
+    "methane pollution",
+    "oil company fees",
+    "greenhouse gas",
+    "climate change",
+    "gas emissions",
+    "environmental regulations",
+    "oil and gas industry",
+    "pollution penalties",
+    "methane leak fees",
+    "energy company taxes",
+    "gas drilling regulations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Natural Gas Tax Repeal Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal",
+      "title": "Section 2 Repeal",
+      "text": "Section one hundred thirty-six of the Clean Air Act is completely removed. This section was about a program that dealt with methane gas emissions and reducing waste from oil and natural gas systems.",
+      "word_offset": 11,
+      "char_offset": 55
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-rescission",
+      "title": "Section 3 Rescission",
+      "text": "Any money that was set aside for the program mentioned in Section one hundred thirty-six of the Clean Air Act but has not yet been spent is taken back by the government. This applies to the program as it existed before this new law takes effect.",
+      "word_offset": 44,
+      "char_offset": 254
+    }
+  ]
+}

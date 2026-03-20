@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-hr-151",
+  "title": "Equal Representation Act",
+  "short_title": "Equal Representation Act",
+  "congress": 119,
+  "bill_number": "HR.151",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 19.",
+  "version_hash": "61ca738a1e562a6d",
+  "last_updated": "2026-03-20T13:08:11.039607+00:00",
+  "plain_summary": "This bill changes how the government counts people to decide how many Representatives each state gets in Congress. Starting in 2030, the census will ask everyone if they are a US citizen, a US national, someone living here legally, or someone living here illegally. When deciding how many Representatives each state should have, only US citizens will be counted instead of counting all people who live in the state. The government will also publish the numbers of people in each group for every state.",
+  "current_status": "committee_reported",
+  "status_date": "2025-12-02",
+  "last_action_date": "2025-12-02",
+  "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 19.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Census and government statistics",
+    "Citizenship and naturalization",
+    "Congressional districts and representation",
+    "Government information and archives",
+    "Immigration status and procedures"
+  ],
+  "sponsor_name": "Rep. Edwards, Chuck [R-NC-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 66,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "census citizenship question",
+    "counting citizens for congress",
+    "representation based on citizens only",
+    "exclude noncitizens from census",
+    "congressional seats by citizenship",
+    "immigrant counting in census",
+    "voting power by state",
+    "house representatives allocation",
+    "citizen vs noncitizen population",
+    "immigration status census",
+    "state representation fairness",
+    "congressional district drawing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Equal Representation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-citizenship-status-on-decennial-census",
+      "title": "Section 2  Citizenship Status on Decennial Census",
+      "text": "Starting with the census that happens in two thousand thirty and every ten-year census after that, the government must ask about citizenship status. The census form must include a checkbox or similar option for each person to mark whether they are a United States citizen, a United States national but not a citizen, a legal immigrant living in the United States, or an illegal immigrant living in the United States. Within one hundred twenty days after finishing each ten-year population count, the government must publish the number of people in each state broken down by these four citizenship categories.",
+      "word_offset": 9,
+      "char_offset": 53
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-exclusion-of-noncitizens-from-number-of-persons-used-to-determine-apportionment-of-representatives-and-electoral-votes",
+      "title": "Section 3  Exclusion of Noncitizens from Number of Persons Used to Determine Apportionment of Representatives and Electoral Votes",
+      "text": "When counting people to decide how many Representatives each state gets in Congress, the government will not count people who are not United States citizens. This change will start with the census done in two thousand thirty and all future ten-year censuses. This also affects how many electoral votes each state gets in presidential elections since that number is based on how many Representatives the state has.",
+      "word_offset": 108,
+      "char_offset": 662
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-severability-clause",
+      "title": "Section 4  Severability Clause",
+      "text": "If any court says that part of this law breaks the Constitution, the rest of the law will still be in effect. The parts that are found to be constitutional will continue to apply to other people and situations.",
+      "word_offset": 175,
+      "char_offset": 1076
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-hr-130",
+  "title": "Trust the Science Act",
+  "short_title": "Trust the Science Act",
+  "congress": 119,
+  "bill_number": "HR.130",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "c14325460106c4e1",
+  "last_updated": "2026-03-20T15:48:23.373179+00:00",
+  "plain_summary": "The Trust the Science Act would remove gray wolves from the endangered species list in most of the United States. The bill requires the government to bring back a 2020 rule that took away special protections for gray wolves, except for Mexican wolves. A court had previously canceled this rule in 2022, which put the protections back in place. The bill also says that no one can take this decision to court to challenge it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Animals",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Department of the Interior",
+    "Endangered and threatened species",
+    "Environmental regulatory procedures",
+    "Mammals"
+  ],
+  "sponsor_name": "Rep. Boebert, Lauren [R-CO-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "CO",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "wolf protection",
+    "gray wolves",
+    "endangered species",
+    "wolf hunting",
+    "remove wolves protection",
+    "trust the science",
+    "wolf delisting",
+    "wildlife protection",
+    "wolf conservation",
+    "endangered animals",
+    "species protection removal"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Trust the Science Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-removing-the-gray-wolf-from-the-list-of-endangered-and-threatened-wildlife",
+      "title": "Section 2 Removing the Gray Wolf from the List of Endangered and Threatened Wildlife",
+      "text": "Within sixty days after this law is passed, the Secretary of the Interior must bring back a rule that was published on November third, two thousand twenty. This rule removes gray wolves from the official list of animals that are endangered or threatened with extinction. The rule was called Endangered and Threatened Wildlife and Plants; Removing the Gray Wolf (Canis lupus) From the List of Endangered and Threatened Wildlife and was published in the Federal Register with the number eighty-five Fed. Reg. sixty-nine thousand seven hundred seventy-eight.",
+      "word_offset": 10,
+      "char_offset": 50
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-no-judicial-review",
+      "title": "Section 3 No Judicial Review",
+      "text": "When the Secretary of the Interior brings back this rule as required in section two, no one can challenge it in court. Courts cannot review or change this decision.",
+      "word_offset": 97,
+      "char_offset": 606
+    }
+  ]
+}

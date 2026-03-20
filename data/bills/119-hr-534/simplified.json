@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-534",
+  "title": "CONTAINER Act",
+  "short_title": "CONTAINER Act",
+  "congress": 119,
+  "bill_number": "HR.534",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Forestry and Horticulture.",
+  "version_hash": "8f177b2ffb41f046",
+  "last_updated": "2026-03-20T13:21:30.435706+00:00",
+  "plain_summary": "The CONTAINER Act lets border states put temporary movable barriers on federal land near the borders with Canada and Mexico without getting special permission first. States can use these structures to help secure the border and can leave them up for one year. If border control still has not been achieved, states can ask to extend the time by 90 days at a time. States just need to give 45 days notice before putting up the barriers.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-20",
+  "last_action_date": "2025-02-20",
+  "last_action_text": "Referred to the Subcommittee on Forestry and Horticulture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Land use and conservation",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Rouzer, David [R-NC-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border barriers",
+    "temporary fencing",
+    "border security",
+    "movable barriers",
+    "border states",
+    "Mexico border",
+    "Canada border",
+    "state border control",
+    "border wall",
+    "immigration barriers",
+    "federal land borders",
+    "border protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law may be called the Creating Obstructions Necessary To Address Illegal and Nefarious Entry Rapidly Act or the CONTAINER Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-placement-of-movable-temporary-structures",
+      "title": "Section 2 Placement of Movable, Temporary Structures on Certain Federal Land to Secure an International Border of the United States",
+      "text": "This section defines important terms and creates new rules for border security. A Border State means any state that touches either the northern border with Canada or the southern border with Mexico. Federal land means land owned and managed by the federal government that is next to either border. Federal land management agency means six specific government agencies that manage federal land including the Bureau of Indian Affairs, Bureau of Land Management, Bureau of Reclamation, Forest Service, United States Fish and Wildlife Service, and National Park Service. Operational control means the government has effective control over border security as defined in an earlier law from two thousand six. Secretary concerned means either the Secretary of the Interior or Secretary of Agriculture depending on which agency manages the specific federal land.\n\nUnder the new rules, border states do not need special permission to temporarily place movable structures on federal land for border security purposes. The state must give the appropriate federal agency forty five days advance notice before placing any structures. These temporary structures can stay in place for up to one year. The time period can be extended in ninety day periods if the federal agency approves the extension. Before approving any extension, the federal agency must talk with the Commissioner of U.S. Customs and Border Protection. The extension must be approved if the Commissioner determines that operational control of the border has not been achieved.",
+      "word_offset": 21,
+      "char_offset": 132
+    }
+  ]
+}

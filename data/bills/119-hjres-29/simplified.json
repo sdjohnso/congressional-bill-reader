@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-hjres-29",
+  "title": "Proposing an amendment to the Constitution of the United States to provide that no person shall be elected to the office of the President more than three times.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.29",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "42c041fff7f5cafe",
+  "last_updated": "2026-03-20T11:09:24.310115+00:00",
+  "plain_summary": "This bill wants to change the Constitution to let someone be elected President three times instead of just two times like the current rule. However, a person could not run for a third time if they already served two terms in a row. If someone became President without being elected because the previous President died or left office, and they served more than two years, they could only be elected President two more times instead of three. Right now, people can only be elected President twice, but this change would allow one more term in some cases.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Constitution and constitutional amendments",
+    "Presidents and presidential powers, Vice Presidents"
+  ],
+  "sponsor_name": "Rep. Ogles, Andrew [R-TN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "president term limits",
+    "third presidential term",
+    "president elected three times",
+    "change constitution president",
+    "presidential term extension",
+    "president serve longer",
+    "modify presidential limits",
+    "extend president terms",
+    "constitutional amendment president",
+    "president reelection rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution-title",
+      "title": "Joint Resolution Title",
+      "text": "This is a joint resolution that proposes changing the Constitution of the United States. The change would make it so that no person can be elected as President more than three times.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "congressional-action",
+      "title": "Congressional Action Required",
+      "text": "Both the Senate and House of Representatives must agree to this change. Two thirds of each house must vote yes for this to move forward.",
+      "word_offset": 32,
+      "char_offset": 183
+    },
+    {
+      "id": "s3",
+      "slug": "proposed-amendment",
+      "title": "Proposed Constitutional Amendment",
+      "text": "The following rule would be added to the Constitution. No person can be elected President more than three times. Also, no person can be elected to any more terms after being elected to two terms in a row. If someone has been President or acted as President for more than two years of a term that someone else was elected to, then that person can only be elected President two more times instead of three. This amendment will only become part of the Constitution if three fourths of all state legislatures approve it within seven years of Congress sending it to them.",
+      "word_offset": 57,
+      "char_offset": 320
+    }
+  ]
+}

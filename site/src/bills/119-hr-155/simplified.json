@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hr-155",
+  "title": "Let America Vote Act",
+  "short_title": "Let America Vote Act",
+  "congress": 119,
+  "bill_number": "HR.155",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on House Administration, and in addition to the Committee on the Judiciary, for a period to be",
+  "version_hash": "efd92c99a31a3530",
+  "last_updated": "2026-03-20T15:35:39.171521+00:00",
+  "plain_summary": "This bill requires all states to let voters who are not registered with any political party vote in primary elections for federal offices like Congress and President. These unaffiliated voters can only vote in one party's primary, not both, and states cannot share their information with political parties. The bill also says that noncitizens cannot vote in any elections that use taxpayer money, including local and state elections. States must follow these rules to get federal money for running elections, and states that follow the rules can get extra grants to help pay for letting unaffiliated voters participate in primaries.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on House Administration, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Elections, voting, political campaign regulation",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "independent voters",
+    "primary elections",
+    "unaffiliated voters",
+    "open primaries",
+    "voting rights",
+    "noncitizen voting",
+    "federal elections",
+    "primary voting rules",
+    "unregistered voters",
+    "election funding",
+    "voter registration",
+    "political party primaries"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Let America Vote Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requiring-states-to-permit-unaffiliated-voters",
+      "title": "Section 2 Requiring States to Permit Unaffiliated Voters to Vote in Primary Elections",
+      "text": "Congress believes that taxpayer funded elections should be open to all citizens regardless of whether they belong to a political party or not. For federal elections, each state must let unaffiliated voters (people not registered with any political party) vote in primary elections. However, unaffiliated voters can only choose to vote in one party's primary election, not multiple parties. States cannot share the personal information of unaffiliated voters with political parties or people who might use it for political fundraising. States also cannot treat unaffiliated voters as party members just because they voted in that party's primary. For state and local elections, states can only receive federal money for running elections if they follow these same rules for unaffiliated voters. States that comply with these requirements will receive grants equal to two percent of certain federal election funds they already get, for five years. These grants help cover the costs of letting unaffiliated voters participate in primaries. An unaffiliated voter means someone not registered with any political party. A primary election is when political parties choose their candidates for the general election. This law applies to all elections held after it becomes law.",
+      "word_offset": 10,
+      "char_offset": 49
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibiting-noncitizens-from-voting",
+      "title": "Section 3 Prohibiting Noncitizens from Voting",
+      "text": "The United States policy is that only citizens can vote in any taxpayer funded election. No state can allow non citizens to vote in federal elections. For state and local elections, states can only receive federal money for running elections if they promise they do not allow non citizens to vote in any state or local elections or ballot measures.",
+      "word_offset": 203,
+      "char_offset": 1319
+    }
+  ]
+}

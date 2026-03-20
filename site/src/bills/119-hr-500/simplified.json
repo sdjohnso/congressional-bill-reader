@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-hr-500",
+  "title": "Medicare Hearing Aid Coverage Act of 2025",
+  "short_title": "Medicare Hearing Aid Coverage Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.500",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be",
+  "version_hash": "5e337cd3bdb58fc0",
+  "last_updated": "2026-03-20T15:31:12.591504+00:00",
+  "plain_summary": "This bill would make Medicare start paying for hearing aids and hearing tests beginning on January 1, 2026. Right now, Medicare does not cover these costs, so older adults have to pay for hearing aids themselves. The bill also requires a government office to study all the programs that help people get hearing aids to see how well they work. The study will help the government figure out how to make these programs better for people who have trouble hearing.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Congressional oversight",
+    "Government studies and investigations",
+    "Health technology, devices, supplies",
+    "Hearing, speech, and vision care",
+    "Medical tests and diagnostic methods",
+    "Medicare"
+  ],
+  "sponsor_name": "Rep. Dingell, Debbie [D-MI-6]",
+  "sponsor_party": "D",
+  "sponsor_state": "MI",
+  "cosponsor_count": 26,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Medicare hearing aids",
+    "hearing aid coverage",
+    "Medicare pay for hearing aids",
+    "older adults hearing aids",
+    "hearing test Medicare",
+    "hearing aid help",
+    "government hearing aid program",
+    "Medicare hearing benefits",
+    "hearing aid costs",
+    "seniors hearing aids"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Medicare Hearing Aid Coverage Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-removing-medicare-exclusion",
+      "title": "Section 2  Removing Medicare Exclusion of Coverage of Hearing Aids and Examinations Therefor",
+      "text": "This section changes Medicare rules so that hearing aids and hearing tests will be covered. Right now, Medicare does not pay for hearing aids or the tests needed to get them. This change removes that rule from the Social Security Act. The new rule will start on January first, twenty twenty six. After that date, Medicare will cover hearing aids and hearing exams.",
+      "word_offset": 15,
+      "char_offset": 84
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-gao-study-and-report",
+      "title": "Section 3  GAO Study and Report on Hearing Aid Programs",
+      "text": "The Government Accountability Office (a government agency that studies how well programs work) must do a study about hearing aid programs. They will look at all programs that help people get hearing aids and hearing tests, including government programs and health insurance plans. The study will find out how many Americans have hearing loss and need hearing aids, what coverage they have now, and how well these programs work. The study may also look at programs that try to prevent hearing loss. Within eighteen months after January first, twenty twenty six, the Government Accountability Office must send a report to Congress about what they found. The report must include suggestions for improving these programs or creating new ones to better help people with hearing loss.",
+      "word_offset": 78,
+      "char_offset": 449
+    }
+  ]
+}

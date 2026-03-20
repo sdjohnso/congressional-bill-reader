@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-459",
+  "title": "STAND Act",
+  "short_title": "STAND Act",
+  "congress": 119,
+  "bill_number": "HR.459",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Foreign Affairs.",
+  "version_hash": "0d4e3dc5509381f9",
+  "last_updated": "2026-03-20T14:13:52.227386+00:00",
+  "plain_summary": "The STAND Act stops the government from spending money on foreign aid for 60 days after the President declares a major disaster in the United States. This includes money that goes to help other countries with things like humanitarian aid and development programs. The idea is to focus government spending on helping Americans during disasters first. Congress can vote to override this freeze and allow foreign aid to continue if they think it is necessary.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "foreign aid freeze",
+    "disaster relief first",
+    "stop overseas spending",
+    "help americans first",
+    "foreign aid ban",
+    "disaster declaration",
+    "suspend international aid",
+    "prioritize domestic spending",
+    "emergency aid freeze",
+    "overseas assistance halt"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Securing Taxpayer Assistance during Natural Disasters Act or the STAND Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-withholding-of-bilateral-multilateral-and-humanitarian-non-defense-foreign-assistance",
+      "title": "Section 2 Withholding of Bilateral, Multilateral, and Humanitarian Non-Defense Foreign Assistance",
+      "text": "When a disaster happens in the United States and the President officially declares it a disaster under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, the government must stop spending federal money on certain types of foreign aid for sixty days. This includes money that the Department of State and the United States Agency for International Development would normally spend on bilateral foreign assistance (aid given directly from one country to another), multilateral foreign assistance (aid given through international organizations), and humanitarian non-defense foreign assistance (emergency help for people in other countries that is not related to military purposes). Congress can override this spending freeze by passing a joint resolution (a special type of law that both the House and Senate must approve) that specifically allows the foreign aid spending to continue.",
+      "word_offset": 17,
+      "char_offset": 103
+    }
+  ]
+}

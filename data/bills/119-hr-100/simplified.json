@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-100",
+  "title": "Protect the Gig Economy Act of 2025",
+  "short_title": "Protect the Gig Economy Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.100",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "ea733d089788fcdd",
+  "last_updated": "2026-03-20T16:04:25.763713+00:00",
+  "plain_summary": "This bill creates a new rule for federal courts that makes it much harder for workers to sue gig economy companies like Uber or DoorDash. The rule says that workers cannot join together in group lawsuits if they want to argue that the company should have treated them as employees instead of independent contractors. Workers would have to sue these companies one by one instead of working together. This protects gig companies from facing large group lawsuits about how they classify their workers.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "Civil actions and liability",
+    "Self-employed"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gig economy",
+    "uber lawsuit",
+    "doordash workers",
+    "independent contractor",
+    "group lawsuit",
+    "class action",
+    "gig workers rights",
+    "rideshare drivers",
+    "delivery workers",
+    "worker classification"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protect the Gig Economy Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-protecting-the-gig-economy-from-class-actions",
+      "title": "Section 2 Protecting the Gig Economy from Class Actions",
+      "text": "This section changes Rule twenty three of the Federal Rules of Civil Procedure. These rules control how lawsuits work in federal courts. The change adds a new requirement for class action lawsuits. A class action lawsuit is when many people join together to sue the same company for similar problems. Under this new rule, people cannot file class action lawsuits that claim a company wrongly treated workers as independent contractors instead of employees. Independent contractors are people who work for themselves and provide services to companies. Employees are people who work directly for a company and get benefits like health insurance. This change means that if workers think a gig economy company like a ride sharing service wrongly called them contractors instead of employees, they cannot band together in a large group lawsuit.",
+      "word_offset": 16,
+      "char_offset": 84
+    }
+  ]
+}

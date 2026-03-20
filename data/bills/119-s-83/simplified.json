@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-s-83",
+  "title": "Thin Blue Line Act",
+  "short_title": "Thin Blue Line Act",
+  "congress": 119,
+  "bill_number": "S.83",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "5c9bbea0cfdaf8ba",
+  "last_updated": "2026-03-20T11:31:41.915123+00:00",
+  "plain_summary": "The Thin Blue Line Act changes the rules about when someone can get the death penalty. If a person kills a police officer, firefighter, or other first responder while they are working or because of their job, that person could face the death penalty. This law adds these crimes to the list of reasons the government can use the death penalty. The goal is to give stronger protection to people who work to keep communities safe.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Crime victims",
+    "Criminal procedure and sentencing",
+    "Emergency medical services and trauma care",
+    "Fires",
+    "First responders and emergency personnel",
+    "Health personnel",
+    "Law enforcement officers",
+    "Violent crime"
+  ],
+  "sponsor_name": "Sen. Cruz, Ted [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 16,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "death penalty police",
+    "killing police officers",
+    "first responder protection",
+    "police officer murder",
+    "firefighter protection law",
+    "death sentence cop killer",
+    "protecting emergency workers",
+    "capital punishment police",
+    "police safety legislation",
+    "first responder violence",
+    "killing firefighters",
+    "emergency worker protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Thin Blue Line Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-aggravating-factors-for-death-penalty",
+      "title": "Section 2  Aggravating Factors for Death Penalty",
+      "text": "This section changes federal law to add a new reason why someone could get the death penalty. The new reason is for killing or targeting law enforcement officers. If someone kills or tries to kill a person who works in law enforcement, they could face the death penalty under certain conditions. Law enforcement includes people who are legally allowed to prevent crime, investigate crimes, arrest people, prosecute criminals, or keep people in jail. It also includes firefighters and other first responders like paramedics. The death penalty could apply if the law enforcement officer was killed or targeted while doing their job, because they did their job, or simply because they work for the government as a public official or employee.",
+      "word_offset": 10,
+      "char_offset": 47
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-s-46",
+  "title": "Health Care Affordability Act of 2025",
+  "short_title": "Health Care Affordability Act of 2025",
+  "congress": 119,
+  "bill_number": "S.46",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Finance.",
+  "version_hash": "7158be7bac72d363",
+  "last_updated": "2026-03-20T11:25:28.433651+00:00",
+  "plain_summary": "This bill makes permanent changes to help more people afford health insurance. Right now, people who make too much money cannot get tax credits to help pay for their health insurance, but this bill removes that income limit so anyone can qualify. The bill also keeps in place a system where people pay a smaller percentage of their income for health insurance premiums, which means they get bigger tax credits to help cover the costs. These changes will stay in place permanently instead of ending after a few years like they were supposed to.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Health care costs and insurance",
+    "Income tax credits",
+    "Tax administration and collection, taxpayers"
+  ],
+  "sponsor_name": "Sen. Shaheen, Jeanne [D-NH]",
+  "sponsor_party": "D",
+  "sponsor_state": "NH",
+  "cosponsor_count": 44,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "health insurance tax credits",
+    "affordable health care",
+    "health insurance subsidies",
+    "lower health insurance costs",
+    "health insurance help",
+    "cheaper health insurance",
+    "health care financial assistance",
+    "health insurance premium support",
+    "making health insurance affordable",
+    "health insurance income limits removed"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Health Care Affordability Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-in-eligibility-for-credit",
+      "title": "Section 2 Increase in Eligibility for Credit",
+      "text": "This section changes the tax code to help more people get help paying for health insurance. Right now, people can only get tax credits to help pay for health insurance if they make less than four hundred percent of the poverty line. This law removes that limit so people who make more money can also get help. The law also sets up a new system for how much help people get based on their income. People who make up to one hundred fifty percent of the poverty line pay nothing for their health insurance premiums. People who make between one hundred fifty and two hundred percent of the poverty line pay between zero and two percent. People who make between two hundred and two hundred fifty percent pay between two and four percent. People who make between two hundred fifty and three hundred percent pay between four and six percent. People who make between three hundred and four hundred percent pay between six and eight and a half percent. People who make more than four hundred percent of the poverty line pay eight and a half percent. The exact amount someone pays depends on exactly how much they make within each group. These changes will start for tax years beginning after December thirty first, twenty twenty five.",
+      "word_offset": 14,
+      "char_offset": 80
+    }
+  ]
+}

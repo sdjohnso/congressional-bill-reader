@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-s-196",
+  "title": "MAIN Event Ticketing Act",
+  "short_title": "MAIN Event Ticketing Act",
+  "congress": 119,
+  "bill_number": "S.196",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substi",
+  "version_hash": "a55aa653d00d1da4",
+  "last_updated": "2026-03-20T10:55:19.699772+00:00",
+  "plain_summary": "The MAIN Event Ticketing Act makes new rules to stop people from using computer programs called bots to unfairly buy lots of event tickets online. The law requires ticket websites to have better security systems to protect against these bots and hackers. If someone breaks these rules by using bots or if the website gets attacked, the ticket company must report it to the government within thirty days. The government can fine people who break these rules and will work with police to catch ticket bot users.",
+  "current_status": "committee_reported",
+  "status_date": "2025-09-02",
+  "last_action_date": "2025-09-02",
+  "last_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 144.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [
+    "Civil actions and liability",
+    "Computer security and identity theft",
+    "Consumer affairs",
+    "Corporate finance and management",
+    "Inflation and prices",
+    "Internet, web applications, social media",
+    "Retail and wholesale trades",
+    "Service industries"
+  ],
+  "sponsor_name": "Sen. Blackburn, Marsha [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "ticket bots",
+    "concert tickets",
+    "event tickets",
+    "scalping",
+    "ticket scalpers",
+    "online ticket sales",
+    "ticket websites",
+    "unfair ticket buying",
+    "ticket security",
+    "automated ticket purchasing",
+    "ticket fraud",
+    "concert ticket problems"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Mitigating Automated Internet Networks for Event Ticketing Act or the MAIN Event Ticketing Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-strengthening-the-bots-act",
+      "title": "Section 2  Strengthening the Bots Act",
+      "text": "This section changes an existing law called the Better Online Ticket Sales Act of 2016. The changes make it illegal to use computer programs called bots to buy event tickets in three ways. First, it is illegal to get around security measures that ticket websites use to control ticket buying. Second, it is illegal to get into ticket websites without permission to buy tickets or help others buy tickets. Third, it is illegal to use automated computer programs that get around the security systems that ticket websites use to enforce their ticket buying rules. The section also requires online ticket sellers to do several things. They must set up and maintain security systems to enforce ticket buying limits and rules. They must regularly check and update these security systems when technology changes or new threats appear. They must report to the Federal Trade Commission within thirty days when they discover someone has gotten around their security systems. The Federal Trade Commission can set up an electronic system for these reports. The Commission must share these reports with state attorneys general when appropriate. The Commission must also share consumer complaints about ticket buying violations with state attorneys general. Online ticket sellers must take reasonable steps to improve their security systems when they learn about problems. The Federal Trade Commission must publish guidance for online ticket sellers about following these rules within one year of this law passing. The section also says that guidance from the Federal Trade Commission does not give anyone special rights and does not force the Commission to follow its own guidance. In enforcement actions, the Commission must point to specific violations of the law and cannot base enforcement only on practices that do not follow guidance unless those practices actually violate the law. The section requires law enforcement agencies like the Federal Bureau of Investigation and the Department of Justice to work with the Federal Trade Commission. They must share information about cyberattacks on ticket website security systems when appropriate. A cyberattack means an attack through the internet that tries to disrupt computer systems or steal information. Law enforcement can share information about ongoing investigations but can keep classified information or information that could harm law enforcement efforts secret. The Federal Trade Commission must report to Congress within one year about enforcement actions taken under this law and any limits on the Commission's ability to pursue violations. The section also adds new definitions to the law. Circumvention means avoiding or getting around security systems that ticket websites use. An online ticket issuer means a company that owns or runs a website that sells event tickets to the public as part of their regular business.",
+      "word_offset": 20,
+      "char_offset": 123
+    }
+  ]
+}

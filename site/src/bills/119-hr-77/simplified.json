@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-77",
+  "title": "Midnight Rules Relief Act",
+  "short_title": "Midnight Rules Relief Act",
+  "congress": 119,
+  "bill_number": "HR.77",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "c83093cc9354c837",
+  "last_updated": "2026-03-20T11:56:40.323815+00:00",
+  "plain_summary": "This bill makes it easier for Congress to reject rules made by government agencies during a president's last year in office. Right now, Congress has to write a separate document to reject each rule one by one. This new law would let Congress write just one document that rejects many of these \"midnight rules\" all at the same time. This would save time when Congress wants to get rid of multiple rules that were created right before a new president takes office.",
+  "current_status": "passed_house",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-02-13",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": true,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Congressional oversight",
+    "Legislative rules and procedure",
+    "Presidents and presidential powers, Vice Presidents"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 12,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "midnight rules",
+    "last minute regulations",
+    "outgoing president rules",
+    "congress reject regulations",
+    "government agency rules",
+    "presidential transition regulations",
+    "end of term rules",
+    "bulk reject government rules",
+    "lame duck regulations",
+    "new president overturning rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Midnight Rules Relief Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-en-bloc-consideration-of-resolutions-of-disapproval-pertaining-to-midnight-rules",
+      "title": "Section 2  En Bloc Consideration of Resolutions of Disapproval Pertaining to Midnight Rules",
+      "text": "This section changes how Congress can reject certain government rules. It adds new rules to existing law about how Congress reviews government regulations. The changes allow Congress to reject multiple rules at once if those rules were all submitted during the final year of a president's time in office. These rules submitted in a president's final year are often called midnight rules. When Congress wants to reject these midnight rules, they can now write one resolution that lists several rules instead of having to write separate resolutions for each rule. The resolution must say that Congress disapproves of the listed rules and that those rules will have no legal power or effect. The resolution must fill in the blanks to name each government agency and describe what each rule was about.",
+      "word_offset": 10,
+      "char_offset": 54
+    }
+  ]
+}

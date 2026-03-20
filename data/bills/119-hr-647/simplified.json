@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hr-647",
+  "title": "Ensuring Veterans’ Final Resting Place Act of 2025",
+  "short_title": "Ensuring Veterans’ Final Resting Place Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.647",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-343.",
+  "version_hash": "b552e7b78d6d6d4c",
+  "last_updated": "2026-03-20T15:25:45.797085+00:00",
+  "plain_summary": "This bill makes it easier for veterans and their families to get burial benefits from the Department of Veterans Affairs. Right now, families have to choose between getting a headstone or getting an urn or plaque for their veteran. The new law would let families get both a headstone and an urn or plaque if they want them. The bill also removes some date limits that stopped certain veterans from getting headstones and gives families more time to apply for some benefits.",
+  "current_status": "committee_reported",
+  "status_date": "2025-10-17",
+  "last_action_date": "2025-10-17",
+  "last_action_text": "Placed on the Union Calendar, Calendar No. 295.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Cemeteries and funerals",
+    "Veterans' organizations and recognition"
+  ],
+  "sponsor_name": "Rep. Yakym, Rudy [R-IN-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 17,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veteran burial benefits",
+    "military funeral costs",
+    "veteran headstone",
+    "veteran cemetery",
+    "burial assistance veterans",
+    "military grave marker",
+    "veteran funeral help",
+    "burial allowance military",
+    "veteran death benefits",
+    "military cemetery benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Ensuring Veterans' Final Resting Place Act of twenty twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expansion-of-eligibility-for-department-of-veterans-affairs-headstones-markers-and-burial-receptacles-for-certain-individuals",
+      "title": "Section 2  Expansion of Eligibility for Department of Veterans Affairs Headstones, Markers, and Burial Receptacles for Certain Individuals",
+      "text": "This section removes a date restriction from the law about who can get headstones and burial containers from the Department of Veterans Affairs. Before this change, only certain people who died on or after November eleventh nineteen ninety-eight could get these benefits. Now that date requirement is removed, which means more people can qualify for these benefits regardless of when they died.",
+      "word_offset": 15,
+      "char_offset": 93
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-department-of-veterans-affairs-provision-of-additional-burial-benefits-when-an-urn-or-plaque-is-provided",
+      "title": "Section 3  Department of Veterans Affairs Provision of Additional Burial Benefits When an Urn or Plaque is Provided",
+      "text": "This section makes changes to how the Department of Veterans Affairs provides burial benefits when someone gets an urn or plaque. The changes reorganize and update the existing rules. The new rules will apply to anyone who dies on or after January fifth twenty twenty-one. Previously, families had to choose between getting a headstone or getting an urn or plaque from the Department of Veterans Affairs. Now families can get both types of burial benefits instead of having to pick just one.",
+      "word_offset": 77,
+      "char_offset": 488
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-extension-of-certain-limits-on-payments-of-pension",
+      "title": "Section 4  Extension of Certain Limits on Payments of Pension",
+      "text": "This section extends a deadline related to pension payment limits. The current deadline of November thirtieth twenty thirty-one is changed to May thirty-first twenty thirty-three. This gives more time for certain pension payment rules to stay in effect.",
+      "word_offset": 159,
+      "char_offset": 980
+    }
+  ]
+}

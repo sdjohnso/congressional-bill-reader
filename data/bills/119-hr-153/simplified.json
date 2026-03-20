@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hr-153",
+  "title": "Post-Disaster Assistance Online Accountability Act",
+  "short_title": "Post-Disaster Assistance Online Accountability Act",
+  "congress": 119,
+  "bill_number": "HR.153",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "70c2509dc3d9b9ff",
+  "last_updated": "2026-03-20T15:52:45.345242+00:00",
+  "plain_summary": "This law makes federal agencies report their disaster help spending online every three months. Agencies like FEMA and others must share how much money they gave out, how much was actually spent, and what specific projects got the money. All this information has to be posted on a public website so people can see where disaster relief money goes. The goal is to make it easier for the public to track how the government spends money after disasters like hurricanes or floods.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [
+    "Disaster relief and insurance",
+    "Government information and archives",
+    "Natural disasters",
+    "Public-private cooperation"
+  ],
+  "sponsor_name": "Rep. Ezell, Mike [R-MS-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "MS",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "disaster relief spending",
+    "FEMA money tracking",
+    "hurricane aid transparency",
+    "flood relief funds",
+    "government disaster spending",
+    "public disaster money",
+    "emergency aid accountability",
+    "natural disaster funding",
+    "disaster response costs",
+    "taxpayer disaster money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Post-Disaster Assistance Online Accountability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-subpage-for-transparency-of-disaster-assistance",
+      "title": "Section 2 Subpage for Transparency of Disaster Assistance",
+      "text": "The Director of the Office of Management and Budget must work with the Secretary of the Treasury and heads of covered federal agencies to create a special webpage. This webpage will be part of an existing government website that tracks federal spending. The webpage will show information about disaster assistance that must be made public under this law.\n\nEvery three months, each covered federal agency that gave out disaster assistance must post information on this webpage within thirty days after the quarter ends. The agency must work with the Director of the Office of Management and Budget to do this. All data must be in a format that computers can easily read and process.\n\nThe information that must be posted includes the total amount of disaster assistance the agency gave out during that three month period. It must also show how much disaster assistance money was spent or promised to specific projects or activities. The agency must provide a detailed list of all projects or activities that used the disaster assistance money.\n\nFor each project or activity, the agency must list the name of the project or activity and describe what it does. The agency must report how much of the project is finished. It must include any award identification number given to the project and the Catalog for Disaster Assistance number assigned by the Federal Emergency Management Agency. The agency must show where the project is located, including ZIP codes. It must also include any other reporting information the agency collects about its disaster assistance.\n\nEach covered federal agency must work with the Director of the Office of Management and Budget and the Secretary of the Treasury to create guidance documents. These documents will help agencies follow the requirements of this law.\n\nIf needed to make information more transparent to the public, the Director can make an agreement with a private company or nonprofit organization to help build the required webpage.",
+      "word_offset": 11,
+      "char_offset": 79
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-definitions",
+      "title": "Section 3 Definitions",
+      "text": "A covered federal agency means any agency that provides help under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, the Small Business Administration, and the Department of Housing and Urban Development.\n\nDisaster assistance means any money that the federal government makes available in response to a specific natural disaster. This includes help provided by the Administrator of the Small Business Administration when a disaster is declared under the Small Business Act. It includes help provided by the Secretary of Housing and Urban Development for activities allowed under the Housing and Community Development Act of nineteen seventy four that relate to disaster relief, long term recovery, fixing infrastructure and housing, and helping the economy recover in areas hit hardest by a major disaster. It also includes flood insurance coverage provided under the National Flood Insurance Program and any help provided under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.\n\nAn eligible recipient means any organization that receives disaster assistance directly from the federal government, including through grants, loans, or contracts, but not including individuals. This includes states that receive disaster assistance.\n\nA specified natural disaster means a fire on public or private forest land or grassland described in the Robert T. Stafford Disaster Relief and Emergency Assistance Act. It means a major disaster declared by the President under that same Act. It means an emergency declared by the President under that Act. It also means any other natural disaster for which the federal government makes a disaster declaration.",
+      "word_offset": 333,
+      "char_offset": 2056
+    }
+  ]
+}

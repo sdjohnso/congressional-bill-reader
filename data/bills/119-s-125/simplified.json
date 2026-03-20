@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-s-125",
+  "title": "End Taxpayer Funding for Abortion Providers Act",
+  "short_title": "End Taxpayer Funding for Abortion Providers Act",
+  "congress": 119,
+  "bill_number": "S.125",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "version_hash": "8a1f2f4d803120a5",
+  "last_updated": "2026-03-20T13:13:19.126880+00:00",
+  "plain_summary": "This bill would stop the federal government from giving money to organizations that perform abortions or help people get abortions. It would also stop funding groups that give money to other organizations that do abortions. The only times these groups could still get federal money is if they provide abortions because of rape, incest, or to save the mother's life. This rule would apply to any new laws passed by Congress after this bill becomes law, unless those new laws specifically say otherwise.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Health programs administration and funding"
+  ],
+  "sponsor_name": "Sen. Hawley, Josh [R-MO]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "abortion funding",
+    "taxpayer money abortion",
+    "federal funding abortion",
+    "government money abortion",
+    "stop funding abortion",
+    "defund abortion providers",
+    "abortion clinics funding",
+    "planned parenthood funding",
+    "taxpayer dollars abortion",
+    "government spending abortion"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the End Taxpayer Funding for Abortion Providers Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition",
+      "title": "Section 2 Prohibition",
+      "text": "The government cannot give federal money to any organization that performs abortions, refers people for abortions, or gives money to other groups that perform abortions. This rule also applies to any related organizations, branch offices, replacement organizations, or clinics connected to these groups. Any new federal laws passed after this law takes effect must follow this rule unless the new law specifically says it does not apply by mentioning this section. There are two exceptions to this rule. The government can still give money to organizations if the abortion is because the pregnancy resulted from rape or incest. The government can also give money if a doctor confirms in writing that the woman has a health condition that would cause her death unless she has an abortion. This law does not change any existing limits on abortion funding that Congress has already put in spending bills. This law will start working sixty days after Congress passes it.",
+      "word_offset": 13,
+      "char_offset": 76
+    }
+  ]
+}

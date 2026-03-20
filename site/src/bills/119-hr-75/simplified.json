@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-75",
+  "title": "HOUSE Act of 2025",
+  "short_title": "HOUSE Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.75",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Economic Opportunity.",
+  "version_hash": "78ecf61aeec1a594",
+  "last_updated": "2026-03-20T14:16:49.484875+00:00",
+  "plain_summary": "This bill cancels new energy saving rules that federal housing agencies made in April 2024 for new homes built with government money. It makes these agencies go back to using the older, less strict energy rules they had before. The bill also stops these agencies from making or enforcing similar energy saving rules in the future. If the agencies want to update energy rules later, at least 26 states must first adopt strong energy saving rules of their own.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the Subcommittee on Economic Opportunity.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Building construction",
+    "Congressional oversight",
+    "Department of Housing and Urban Development",
+    "Energy efficiency and conservation",
+    "Housing and community development funding",
+    "Housing industry and standards",
+    "Intergovernmental relations",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "energy efficient homes",
+    "government housing rules",
+    "new home energy standards",
+    "federal housing money",
+    "energy saving requirements",
+    "home building regulations",
+    "housing agency rules",
+    "energy codes for homes",
+    "government funded housing",
+    "home energy efficiency",
+    "building energy standards",
+    "housing construction rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Helping Owners with Unaffordable Shoddy Edicts Act of two thousand twenty five or the HOUSE Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-energy-efficiency-standards-for-housing",
+      "title": "Section 2 Energy Efficiency Standards for Housing",
+      "text": "The Secretary of Housing and Urban Development and the Secretary of Agriculture must cancel a final decision about energy efficiency rules for housing. This decision was announced in a notice called Adoption of Energy Efficiency Standards for New Construction of HUD and USDA Financed Housing that was published in the Federal Register on May twenty fourth, two thousand twenty four. These agencies cannot take any action or spend any federal money to put this decision into effect or enforce it. They also cannot do this with any other decision that is very similar to this one. These agencies must go back to using the energy efficiency rules that were required before this decision was made. The Secretary of Veterans Affairs cannot take any action or spend federal money to put into effect or enforce any decision that is very similar to the one mentioned above. The Director of the Federal Housing Finance Agency cannot finalize, put into effect, or enforce any decision or rule about energy efficiency standards for single family homes and apartment buildings. This applies even if other laws say something different. The law also changes the Cranston Gonzalez National Affordable Housing Act. It adds a new requirement that at least twenty six states must have adopted an energy efficiency code or standard that meets or goes beyond the requirements of any revised code or standard before certain actions can be taken.",
+      "word_offset": 27,
+      "char_offset": 152
+    }
+  ]
+}

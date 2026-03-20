@@ -1,0 +1,72 @@
+{
+  "bill_id": "119-hr-157",
+  "title": "CLEAN Congress Act",
+  "short_title": "CLEAN Congress Act",
+  "congress": 119,
+  "bill_number": "HR.157",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "822a65b63b40acb2",
+  "last_updated": "2026-03-20T13:18:33.747328+00:00",
+  "plain_summary": "The CLEAN Congress Act makes two big changes to how Congress works. First, it says that every new law can only be about one topic, and the title must clearly say what that topic is. Second, it removes special legal protections that members of Congress currently have, so they have to follow the same laws as everyone else. The only exception is when Congress members need special access to do their actual job of making laws, like getting into government buildings.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional officers and employees",
+    "Legislative rules and procedure",
+    "Members of Congress"
+  ],
+  "sponsor_name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "single subject bills",
+    "one topic per law",
+    "congressional immunity",
+    "congress special privileges",
+    "lawmakers follow same laws",
+    "legislative immunity removal",
+    "one issue legislation",
+    "congress legal protection",
+    "single purpose bills",
+    "congressional exemptions",
+    "lawmakers accountability",
+    "congress reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Citizen Legislature Anti-Corruption Reform of Congress Act or the CLEAN Congress Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibiting-multiple-subjects-in-single-bill",
+      "title": "Section 2 Prohibiting Multiple Subjects in Single Bill",
+      "text": "Every bill, order, resolution, or vote that Congress sends to the President can only be about one topic. That topic must be clearly explained in the title of the bill, order, resolution, or vote. This rule starts with the one hundred nineteenth Congress and applies to all future Congresses.",
+      "word_offset": 18,
+      "char_offset": 113
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-requiring-equal-application-of-laws-to-members-of-congress",
+      "title": "Section 3 Requiring Equal Application of Laws to Members of Congress",
+      "text": "Any law that gives special exceptions to Members of Congress or their staff will no longer work. However, this does not apply to laws or rules that let Members of Congress and their staff do their official jobs that are directly connected to making laws. This includes rules that let them enter and use the United States Capitol building, the Capitol grounds, and other government buildings and facilities. A Member of Congress means a Senator, a Representative, a Delegate, or a Resident Commissioner in Congress.",
+      "word_offset": 67,
+      "char_offset": 405
+    }
+  ]
+}

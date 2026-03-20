@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-s-121",
+  "title": "Recover Fraudulent COVID Funds Act",
+  "short_title": "Recover Fraudulent COVID Funds Act",
+  "congress": 119,
+  "bill_number": "S.121",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "d16949cababa53dd",
+  "last_updated": "2026-03-20T16:02:13.601301+00:00",
+  "plain_summary": "This bill changes the rules about how long the government has to go after people who stole money from COVID relief programs. Right now, the government usually has five years to catch and punish people who committed fraud with pandemic relief money. This bill would give the government ten years instead of five years to find these criminals and take them to court. The longer time limit would apply to all the major COVID relief programs that gave money to businesses and people during the pandemic. This means the government would have more time to investigate and recover money that was stolen from these programs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Cardiovascular and respiratory health",
+    "Civil actions and liability",
+    "Criminal investigation, prosecution, interrogation",
+    "Fraud offenses and financial crimes",
+    "Infectious and parasitic diseases"
+  ],
+  "sponsor_name": "Sen. Lankford, James [R-OK]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 16,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "COVID fraud",
+    "pandemic relief fraud",
+    "stolen COVID money",
+    "COVID scam investigation",
+    "PPP loan fraud",
+    "government fraud recovery",
+    "COVID relief theft",
+    "pandemic money stolen",
+    "fraud statute of limitations",
+    "recover stolen relief funds",
+    "COVID fraud punishment"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Recover Fraudulent COVID Funds Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-statute-of-limitations-for-violations-relating-to-pandemic-era-programs",
+      "title": "Section 2 Statute of Limitations for Violations Relating to Pandemic-era Programs",
+      "text": "This section explains what laws and violations this act covers, and sets new time limits for prosecuting fraud. A pandemic-era law means any of these specific COVID relief laws: the Coronavirus Preparedness and Response Supplemental Appropriations Act from twenty twenty, the Families First Coronavirus Response Act, the CARES Act, the Paycheck Protection Program and Health Care Enhancement Act, parts M and N of the Consolidated Appropriations Act from twenty twenty one, the American Rescue Plan Act of twenty twenty one, or any changes made by these laws. A pandemic-era program violation means breaking the law by doing something wrong with any program, project, or activity that was created by these COVID laws, or by misusing money provided under these laws. For criminal cases, the government can prosecute someone for pandemic-era program violations for up to ten years after the crime happened, instead of the usual shorter time limits. This longer time period also applies unless another law already allows even more time. For cases involving property seizure under customs laws related to pandemic program violations, the government has ten years from when the violation was discovered to start a civil case, or three years from when they discovered the property was involved, whichever comes later. Time when the person is absent from the United States or when property is hidden does not count toward this ten year limit. For false claims cases involving pandemic program violations, civil lawsuits must be filed within ten years of when the violation happened. Government notices to people accused of making false claims about pandemic programs must be sent within ten years of when the violation occurred.",
+      "word_offset": 11,
+      "char_offset": 63
+    }
+  ]
+}

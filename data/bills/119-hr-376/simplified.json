@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-376",
+  "title": "Historic Roadways Protection Act",
+  "short_title": "Historic Roadways Protection Act",
+  "congress": 119,
+  "bill_number": "HR.376",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "43e57451fae54174",
+  "last_updated": "2026-03-20T10:49:27.017776+00:00",
+  "plain_summary": "This bill stops the Bureau of Land Management from spending money to close old historic roads on public land in Utah. Utah and 22 counties are fighting in court to keep these old roads open because they say they have legal rights to use them from an old 1866 law. The bill says the government cannot finish or start new plans to manage travel in certain Utah areas until the courts decide who is right about these road rights. It also stops four existing travel plans from being put into action until the court cases are over.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Land use and conservation",
+    "Roads and highways",
+    "Utah"
+  ],
+  "sponsor_name": "Rep. Kennedy, Mike [R-UT-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Utah roads",
+    "old roads public land",
+    "historic roads",
+    "road closures Utah",
+    "Bureau of Land Management roads",
+    "county road rights",
+    "public land access",
+    "travel restrictions Utah",
+    "government land roads",
+    "Utah counties lawsuit",
+    "road access rights",
+    "BLM road closures"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Historic Roadways Protection Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-use-of-funds",
+      "title": "Section 2  Prohibition On Use Of Funds To Finalize And Implement Certain Travel Management Plans In The State Of Utah",
+      "text": "This section explains what certain terms mean and sets up rules about spending government money on travel management plans in Utah. The applicable period means the time starting when this law is signed until the Secretary of the Interior tells Congress that all the court cases about old roadways have been decided. A covered travel management area means any of ten specific areas in Utah where the government manages travel and recreation. These areas include places like the Henry Mountains and Fremont Gorge, the Dinosaur North area, the Book Cliffs areas managed by both the Vernal and Moab field offices, Nine Mile Canyon areas managed by both the Vernal and Price field offices, the San Rafael Swell, the Dolores River area, the Trail Canyon area, and the Paunsaugunt area. The term court case about old roadways refers to twenty two specific lawsuits where Utah counties and the state are suing the United States government about rights to use old roads. These cases involve every county in Utah that has these disputes. The Secretary means the Secretary of the Interior who works through the Director of the Bureau of Land Management. During the time period described above, the Secretary cannot spend any federal money to finish or put into action new travel management plans for the ten covered areas in Utah. The Secretary also cannot spend federal money to put into action four existing travel management plans in Utah. These existing plans cover the Indian Creek Canyon Rims area, the San Rafael Desert area, the San Rafael Swell area, and the Labyrinth Gemini Bridges area.",
+      "word_offset": 10,
+      "char_offset": 61
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-677",
+  "title": "EARA",
+  "short_title": "EARA",
+  "congress": 119,
+  "bill_number": "HR.677",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+  "version_hash": "f4d821bba12b3fa6",
+  "last_updated": "2026-03-20T15:08:00.828009+00:00",
+  "plain_summary": "This law helps people who disagree with Department of the Interior decisions about land use get faster answers. When someone appeals a decision, they can ask for their case to be decided within six months. If the appeals board does not make a decision by the deadline, the person can take their case directly to federal court. The court will then review the case completely without giving special consideration to what the government agency decided.",
+  "current_status": "committee_reported",
+  "status_date": "2025-05-05",
+  "last_action_date": "2026-02-12",
+  "last_action_text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Administrative remedies",
+    "Department of the Interior",
+    "Indian lands and resources rights",
+    "Land transfers",
+    "Land use and conservation",
+    "Mining"
+  ],
+  "sponsor_name": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "land use appeals",
+    "Interior Department decisions",
+    "government land disputes",
+    "federal land appeals",
+    "land use complaints",
+    "challenging government decisions",
+    "land rights appeals",
+    "mining permit appeals",
+    "faster court appeals",
+    "government agency deadlines",
+    "federal court review",
+    "land use disagreements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Expedited Appeals Review Act or EARA for short.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expedited-reviews",
+      "title": "Section 2 Expedited Reviews",
+      "text": "When someone disagrees with a decision made by the Department of the Interior about land use, they can appeal that decision to a group called the Board of Land Appeals. Under this new law, the person making the appeal can ask for their case to be reviewed faster by sending a written request to the Board. If someone asks for faster review, the Board must make their final decision within six months of getting that written request. However, the Board still gets at least eighteen months from when the appeal was first filed to make their decision. If the Board does not make a final decision by the required deadline, then the original Department of the Interior decision becomes final and can be challenged directly in federal court. When the case goes to federal court under these circumstances, the judge will review the entire case from the beginning instead of just checking if the government agency made obvious errors. This new process applies to any appeal that is already waiting for a decision when this law takes effect, and to any appeals filed after this law takes effect. If there are other laws that set different deadlines for appeals about oil and gas royalties or surface mining, this new six month deadline takes priority over those other deadlines.",
+      "word_offset": 14,
+      "char_offset": 75
+    }
+  ]
+}

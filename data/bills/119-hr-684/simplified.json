@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-684",
+  "title": "Protecting American Savers and Retirees Act",
+  "short_title": "Protecting American Savers and Retirees Act",
+  "congress": 119,
+  "bill_number": "HR.684",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "7bece2a17dd6877b",
+  "last_updated": "2026-03-20T15:05:24.951989+00:00",
+  "plain_summary": "This bill removes a tax that some companies have to pay when they buy back their own stock. Right now, big companies whose stock is traded on major stock markets must pay a 1% tax when they repurchase their shares from investors. The bill would eliminate this tax completely starting in 2025. The tax was originally created as part of a law passed in 2022 to reduce inflation.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Kustoff, David [R-TN-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "stock buyback tax",
+    "company repurchasing shares",
+    "corporate stock tax",
+    "business buying own stock",
+    "1% tax on stocks",
+    "eliminating corporate taxes",
+    "stock market tax relief",
+    "company share repurchase",
+    "corporate tax reduction",
+    "business stock transactions"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting American Savers and Retirees Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-excise-tax-on-repurchase-of-corporate-stock",
+      "title": "Section 2  Repeal of Excise Tax on Repurchase of Corporate Stock",
+      "text": "This section removes a special tax that companies had to pay when they bought back their own stock. The tax law removes Chapter thirty seven from the Internal Revenue Code, which is the section that created this tax. The law also removes the reference to Chapter thirty seven from the table of contents. This change applies to tax years that begin after December thirty first, two thousand twenty four.",
+      "word_offset": 12,
+      "char_offset": 72
+    }
+  ]
+}

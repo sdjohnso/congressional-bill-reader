@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-203",
+  "title": "Red Light Act",
+  "short_title": "Red Light Act",
+  "congress": 119,
+  "bill_number": "HR.203",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Highways and Transit.",
+  "version_hash": "5491f9880274974a",
+  "last_updated": "2026-03-20T12:11:02.152793+00:00",
+  "plain_summary": "The Red Light Act would stop the federal government from giving highway money to states that give driver's licenses or ID cards to people who are in the country illegally. This includes money used to fix roads, make roads safer, and reduce traffic pollution. If a state has laws that let people without legal permission to be in the US get these documents, they would lose this federal funding starting in 2023. States could get their highway money back if they change their laws to stop giving licenses and ID cards to people here illegally.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-04",
+  "last_action_date": "2025-01-04",
+  "last_action_text": "Referred to the Subcommittee on Highways and Transit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Government information and archives",
+    "Immigration status and procedures",
+    "Licensing and registrations",
+    "Motor vehicles",
+    "Roads and highways",
+    "Transportation programs funding"
+  ],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "illegal immigrants driver licenses",
+    "undocumented immigrants ID cards",
+    "highway funding cuts",
+    "federal road money",
+    "states lose highway funds",
+    "driver license illegal aliens",
+    "immigration status licensing",
+    "road funding penalties",
+    "federal transportation money",
+    "state ID undocumented"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Red Light Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-withholding-of-funds-for-providing-identification-cards-to-certain-aliens",
+      "title": "Section 2. Withholding of Funds for Providing Identification Cards to Certain Aliens",
+      "text": "This section adds a new rule to federal highway law. Starting in fiscal year two thousand twenty three and every year after that, the Secretary of Transportation must take away all highway funding from states that break this rule. The rule says states cannot give driver's licenses or identification cards to people who are in the United States illegally. The three types of highway funding that will be taken away are funding for the National Highway Performance Program, the Surface Transportation Block Grant Program, and the Highway Safety Improvement Program. Any money taken away from a state will stay available until the end of that budget year. If a state changes its laws before the budget year ends and stops giving identification cards to people in the country illegally, then the Secretary must give that state its highway money back on the first day the state fixes its laws. If a state does not change its laws by the end of the budget year, then the Secretary must give that withheld money to other states that follow the rule. The money gets divided up fairly among those states based on how much they normally get. If a state gets its money back but then later makes a law again allowing identification cards for people in the country illegally, the Secretary must take away that same amount of money the following budget year and every year after that. An identification card means any personal identification card that a state government issues to someone, as defined by federal law about fraud and false identification documents.",
+      "word_offset": 9,
+      "char_offset": 42
+    }
+  ]
+}

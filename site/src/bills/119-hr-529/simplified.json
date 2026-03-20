@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-529",
+  "title": "RACE Act",
+  "short_title": "RACE Act",
+  "congress": 119,
+  "bill_number": "HR.529",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on House Administration.",
+  "version_hash": "56229c13f240750e",
+  "last_updated": "2026-03-20T10:52:44.069416+00:00",
+  "plain_summary": "The RACE Act is a new law that sets time limits for counting votes in federal elections like those for President and Congress. States must finish counting all ballots by 10 PM on election day and announce the final results within 48 hours after the election ends. If there is an emergency like a natural disaster or if voting machines break down, states can take longer to count the votes. The goal is to make sure election results come out quickly and people can trust the voting process.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Elections, voting, political campaign regulation",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Pfluger, August [R-TX-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "election results deadline",
+    "vote counting time limit",
+    "federal election rules",
+    "ballot counting deadline",
+    "election day results",
+    "voting machine breakdown",
+    "emergency voting extensions",
+    "48 hour election results",
+    "vote counting process",
+    "election transparency",
+    "quick election results",
+    "voting deadline requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Restoring American Confidence in Elections Act or the RACE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-deadline-for-counting-ballots-and-certifying-results-in-federal-elections",
+      "title": "Section 2 Deadline for Counting Ballots and Certifying Results in Federal Elections",
+      "text": "This section changes an existing law called the Help America Vote Act of 2002 by adding new rules about counting votes and announcing results in federal elections. The new rules say that states must finish counting all ballots by ten o'clock at night on election day. States must also officially confirm the election results within forty-eight hours after election day. These deadlines do not apply if a state cannot meet them because of a real emergency like a natural disaster or because of technical problems like broken voting machines or computer software that stops working. The section also makes changes to other parts of the law to include these new rules in the enforcement sections and updates the table of contents. These new rules will apply to all elections that happen after this law is passed.",
+      "word_offset": 16,
+      "char_offset": 91
+    }
+  ]
+}

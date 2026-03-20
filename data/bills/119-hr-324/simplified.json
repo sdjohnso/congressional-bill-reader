@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-324",
+  "title": "PPP Shell Company Discovery Act",
+  "short_title": "PPP Shell Company Discovery Act",
+  "congress": 119,
+  "bill_number": "HR.324",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Ways and Means, and in addition to the Committee on Small Business, for a period to be subs",
+  "version_hash": "3ced776fa9b3970d",
+  "last_updated": "2026-03-20T11:14:53.519511+00:00",
+  "plain_summary": "This bill requires the tax agency to make lists of people and businesses who got PPP loans during the pandemic and had those loans forgiven. The tax agency must create special lists focusing on loan recipients who might have cheated the system by not having real employees or by getting loans that were much bigger than what they actually paid workers. Once these lists are finished, the tax agency has to tell the Justice Department so they can investigate possible fraud. The goal is to find shell companies and fake businesses that illegally took advantage of the program meant to help real businesses keep their workers during COVID-19.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provi",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Rep. Timmons, William R. [R-SC-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "SC",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "PPP loan fraud",
+    "fake business investigation",
+    "shell company discovery",
+    "COVID loan cheating",
+    "paycheck protection fraud",
+    "pandemic loan abuse",
+    "fake employee scam",
+    "business loan investigation",
+    "COVID relief fraud",
+    "PPP loan forgiveness abuse"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the PPP Shell Company Discovery Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-collection-and-sharing-of-information",
+      "title": "Section 2 Collection and Sharing of Information for Criminal Investigations with Respect to Loans Under the Paycheck Protection Program",
+      "text": "The Secretary of the Treasury must work with the Small Business Administration, the Pandemic Response Accountability Committee, and other appropriate people to create a list of everyone who received PPP loans (money given to businesses during the pandemic to help pay workers). This list must include each person's name, mailing address, taxpayer identification number, and the total amount of PPP loans they received. The Secretary must share all this information with workers at the Internal Revenue Service and the Department of Justice.\n\nThe Commissioner of Internal Revenue must create two special lists from the main list. The first list includes PPP loan recipients who did not withhold any Social Security and Medicare taxes from employee paychecks during two thousand nineteen. The second list includes PPP loan recipients whose total PPP loans were equal to or more than four times their highest monthly payroll taxes paid in two thousand nineteen.\n\nThe Commissioner must tell the Attorney General and Secretary of the Treasury when these lists are finished. The law refers to existing rules about how tax information can be shared for criminal investigations.\n\nFor this law, PPP loan means a covered loan made under specific parts of the Small Business Act that was later forgiven. PPP loan recipient means any person on the main list that the Secretary creates.",
+      "word_offset": 11,
+      "char_offset": 60
+    }
+  ]
+}

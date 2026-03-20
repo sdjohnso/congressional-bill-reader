@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-314",
+  "title": "Empowering Nonprofits Act",
+  "short_title": "Empowering Nonprofits Act",
+  "congress": 119,
+  "bill_number": "HR.314",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "14e9241d47cebb27",
+  "last_updated": "2026-03-20T10:58:00.849543+00:00",
+  "plain_summary": "This law helps nonprofit organizations that are located in very poor areas get more government money. If a nonprofit is in a state where more than 20 out of 100 people live in poverty, they can get extra help with grants from the government. Usually nonprofits have to pay some of their own money to match government grants, but this law says the government will reduce how much they have to pay by 25 percent. This special help will last for five years after the law starts.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Executive agency funding and structure",
+    "Public-private cooperation",
+    "Social work, volunteer service, charitable organizations",
+    "Tax-exempt organizations"
+  ],
+  "sponsor_name": "Del. Radewagen, Aumua Amata Coleman [R-AS]",
+  "sponsor_party": "R",
+  "sponsor_state": "AS",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "nonprofit funding",
+    "poor areas help",
+    "government grants",
+    "charity money",
+    "poverty assistance",
+    "nonprofit support",
+    "matching funds",
+    "low income communities",
+    "grant relief",
+    "charitable organizations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Empowering Nonprofits Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reduction-of-cost-sharing-requirements-for-grants",
+      "title": "Section 2  Reduction of Cost-Sharing Requirements for Grants",
+      "text": "Starting when this law goes into effect and lasting for five years, the head of any federal government agency must reduce cost-sharing requirements by twenty-five percent for eligible nonprofit organizations. This applies when the agency gives grants directly to these organizations. Cost-sharing requirements mean the money that organizations normally have to contribute themselves to match government grant money. An eligible nonprofit organization is a nonprofit group located in a state where more than twenty percent of people live below the federal poverty line. The federal poverty line is the income level the government uses to decide if someone is poor enough to qualify for certain help programs. Executive agency means any part of the federal government that carries out laws and programs, as defined in section one hundred thirty-three of title forty-one of United States Code. Nonprofit organization means a group that is set up to help people or communities rather than make money for owners. These groups are described in section five hundred one c three of the Internal Revenue Code and do not have to pay federal taxes. State means any of the fifty states, Washington DC, any commonwealth like Puerto Rico, any territory or area controlled by the United States, and any tribe that the federal government officially recognizes.",
+      "word_offset": 9,
+      "char_offset": 54
+    }
+  ]
+}

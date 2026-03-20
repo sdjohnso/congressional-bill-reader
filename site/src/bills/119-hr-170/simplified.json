@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-170",
+  "title": "USPS Subpoena Authority Act",
+  "short_title": "USPS Subpoena Authority Act",
+  "congress": 119,
+  "bill_number": "HR.170",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "669b83c18b0d9fdf",
+  "last_updated": "2026-03-20T13:55:16.940145+00:00",
+  "plain_summary": "This bill gives the US Postal Service more power to investigate crimes that involve the mail. The Postal Service can now force people to hand over documents and answer questions when investigating mail fraud, drug crimes, and dangerous materials sent through the mail. The bill also lets the Chief Postal Inspector approve these special requests called subpoenas. This helps postal investigators do their job better when people use the mail system to break the law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Criminal investigation, prosecution, interrogation",
+    "Evidence and witnesses",
+    "U.S. Postal Service"
+  ],
+  "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "postal service investigation",
+    "mail fraud",
+    "post office subpoena",
+    "mail crime investigation",
+    "postal inspector powers",
+    "mail system crime",
+    "post office law enforcement",
+    "mail delivery investigation",
+    "postal service authority",
+    "mail fraud investigation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the USPS Subpoena Authority Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-united-states-postal-service-administrative-subpoena-authority",
+      "title": "Section 2 United States Postal Service Administrative Subpoena Authority",
+      "text": "This section changes the law that gives the United States Postal Service power to issue subpoenas (legal orders requiring people to provide documents or testimony). The Postmaster General (the person who runs the postal service) can now issue written subpoenas in investigations of covered offenses. A covered offense means breaking any law in this chapter of the postal code, breaking any law in chapter eighty three of title eighteen when it involves using the mail, breaking any other law listed in section three thousand and one, or breaking the Controlled Substances Act when it involves using the mail. These subpoenas can require people to turn over records like books, papers, documents, and other physical things that contain evidence the Postmaster General thinks is important to the investigation. The subpoenas can also require the person who keeps these records to give testimony about how they produced the records and whether the records are real. However, subpoenas issued for investigations under section three thousand and five do not require this testimony from the record keeper. Only certain high level postal service officials can approve these subpoenas. These officials are the General Counsel (the main lawyer), a Deputy General Counsel (an assistant main lawyer), or the Chief Postal Inspector (the head investigator).",
+      "word_offset": 10,
+      "char_offset": 56
+    }
+  ]
+}

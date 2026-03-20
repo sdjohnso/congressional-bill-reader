@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-321",
+  "title": "FLY Act",
+  "short_title": "FLY Act",
+  "congress": 119,
+  "bill_number": "HR.321",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Aviation.",
+  "version_hash": "7f7b0877f4426164",
+  "last_updated": "2026-03-20T13:35:57.885774+00:00",
+  "plain_summary": "The FLY Act requires two government agencies to work together to make it easier for parents and caregivers to get special passes to help children and people who need assistance get to their flights. These adults must already be part of a program called TSA Pre-Check that lets them go through airport security faster. The new system must be created within six months and will give these helpers up to two gate passes so they can walk with the children or passengers who need help all the way to their airplane gate. This will make traveling easier and safer for kids and people who need extra help at airports.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-10",
+  "last_action_date": "2025-01-10",
+  "last_action_text": "Referred to the Subcommittee on Aviation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "airport gate passes",
+    "helping kids fly alone",
+    "TSA PreCheck family",
+    "airport assistance passes",
+    "children traveling alone",
+    "caregiver airport access",
+    "airport security for families",
+    "gate escort passes",
+    "disabled passenger help",
+    "airport companion passes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Fast Lane for Youths Act or the FLY Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-establishment-of-system",
+      "title": "Section 2 Establishment of System to Expedite Gate Passes and Flight Access Procedures to Allow Caregivers, Parents, and Guardians to Accompany Minors and Passengers Needing Assistance to Their Flights",
+      "text": "Within one hundred eighty days after this law is passed, two government agencies must work together to create a new system. These agencies are the Federal Aviation Administration (the agency that oversees air travel) and the Transportation Security Administration or TSA (the agency that handles airport security). The new system must make it faster and easier for caregivers, parents, and guardians to get gate passes so they can go through airport security and accompany children and passengers who need help to their flights. The system must give up to two gate passes to these caregivers, parents, and guardians, but only if they already have TSA Pre-Check (a program that lets people go through airport security faster). The gate passes must show that these people have TSA Pre-Check status, just like their regular boarding passes would show this status.",
+      "word_offset": 15,
+      "char_offset": 68
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-364",
+  "title": "Territorial Tax Equity and Economic Growth Act of 2025",
+  "short_title": "Territorial Tax Equity and Economic Growth Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.364",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "6addedaede7928f8",
+  "last_updated": "2026-03-20T13:09:32.824719+00:00",
+  "plain_summary": "This bill makes it easier for people to get special tax benefits when they live in US territories like Puerto Rico and the Virgin Islands. Instead of having to stay in the territory for 183 days each year, people now only need to stay for 122 days to qualify. The bill also changes the rules about which income gets taxed by the US government versus the territory government. It says that income is only considered US income if it comes from having an actual office or business location in the United States, not just from small support activities.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "American Samoa",
+    "Caribbean area",
+    "Guam",
+    "Northern Mariana Islands",
+    "Puerto Rico",
+    "Tax administration and collection, taxpayers",
+    "Taxation of foreign income",
+    "U.S. territories and protectorates",
+    "Virgin Islands"
+  ],
+  "sponsor_name": "Del. Plaskett, Stacey E. [D-VI]",
+  "sponsor_party": "D",
+  "sponsor_state": "VI",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Puerto Rico tax benefits",
+    "Virgin Islands tax breaks",
+    "US territory taxes",
+    "living in Puerto Rico",
+    "territory residency requirements",
+    "122 days residency",
+    "Puerto Rico income tax",
+    "US territories tax rules",
+    "Caribbean tax benefits",
+    "territorial tax laws"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Territorial Tax Equity and Economic Growth Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modification-to-residence-and-source-rules-involving-possessions",
+      "title": "Section 2 Modification to Residence and Source Rules Involving Possessions",
+      "text": "This section changes tax rules for people living in United States territories and how their income is taxed. Part a changes the rules about who counts as a real resident of a territory. To be considered a real resident, a person must spend at least one hundred twenty two days during the tax year in Guam, American Samoa, the Northern Mariana Islands, Puerto Rico, or the Virgin Islands. This uses the same basic rules that determine if someone has spent enough time in the United States, but changes the minimum from thirty one days to one hundred twenty two days. Part b changes the rules about where income comes from for tax purposes. It adds new requirements that income from the United States only counts as United States income if it comes from an office or permanent business location within the United States. It also creates new rules for determining when income from outside a territory is connected to doing business within that territory. Income from activities in the United States that are just preparation or support work will not be treated as United States income or as connected to doing business in the United States. Part c makes a small change to existing rules about selling personal property by adding section nine thirty two to the list of relevant tax code sections. Part d says these changes start applying to tax years that begin after December thirty first, twenty twenty four.",
+      "word_offset": 17,
+      "char_offset": 97
+    }
+  ]
+}

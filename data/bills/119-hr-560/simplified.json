@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-560",
+  "title": "Second Job Tax Relief Act of 2025",
+  "short_title": "Second Job Tax Relief Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.560",
+  "introduced_date": "2025-01-20",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "2db23ba600d92a1f",
+  "last_updated": "2026-03-20T13:14:04.737346+00:00",
+  "plain_summary": "This bill gives a tax break to people who work a second job. If you qualify, you do not have to pay income taxes or payroll taxes on the money you earn from your second job. The tax break is smaller for people who earn more money and goes away completely for high earners. The tax break only lasts for five years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-20",
+  "last_action_date": "2025-01-20",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Bacon, Don [R-NE-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "second job",
+    "part time work",
+    "extra income",
+    "side hustle",
+    "tax break",
+    "working two jobs",
+    "additional employment",
+    "moonlighting",
+    "supplemental income",
+    "multiple jobs",
+    "overtime work",
+    "gig work"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Second Job Tax Relief Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exclusion-of-compensation-for-certain-secondary-employment-from-income-and-payroll-tax",
+      "title": "Section 2  Exclusion of Compensation for Certain Secondary Employment from Income and Payroll Tax",
+      "text": "This section changes the tax code to help people who work more than one job. It creates new rules that let qualifying people avoid paying income taxes and payroll taxes on money they earn from second jobs. To qualify, a person must work at least two thousand eighty hours per year at their main job and get paid by the hour. They can choose which employer counts as their main employer. The tax break applies to money earned from any other employer besides their main one. However, this benefit gets smaller as people earn more money. If someone makes more than one hundred thousand dollars per year, or if a married couple filing together makes more than one hundred fifty thousand dollars per year, the tax break starts to shrink. The benefit completely disappears once income reaches those amounts plus fifty thousand dollars more. This tax break only lasts for five years after the law passes. The section also makes sure that Social Security, disability, and Medicare trust funds do not lose money because of this change. The government will make up for any lost money by transferring funds from general tax collections. The new rules apply to money earned after this law passes.",
+      "word_offset": 16,
+      "char_offset": 82
+    }
+  ]
+}

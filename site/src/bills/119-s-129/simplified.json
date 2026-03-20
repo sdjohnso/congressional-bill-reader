@@ -1,0 +1,72 @@
+{
+  "bill_id": "119-s-129",
+  "title": "No Tax on Tips Act",
+  "short_title": "No Tax on Tips Act",
+  "congress": 119,
+  "bill_number": "S.129",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Senate Committee on Finance discharged by Unanimous Consent.",
+  "version_hash": "20011e6f45db7ab2",
+  "last_updated": "2026-03-20T15:45:18.573436+00:00",
+  "plain_summary": "This bill lets workers who get tips take up to $25,000 off their taxable income each year, which means they pay less in income taxes. To qualify, workers must report their cash tips to their boss and work in jobs that normally get tips, but people who make more than $160,000 cannot use this benefit. The bill also gives business owners at hair salons, spas, and similar places a tax credit to help them pay the Social Security taxes they owe on their workers' tips. Right now, only restaurants and food service businesses can get this type of tax credit for tip taxes.",
+  "current_status": "passed_senate",
+  "status_date": "2025-05-20",
+  "last_action_date": "2025-05-26",
+  "last_action_text": "Held at the desk.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Accounting and auditing",
+    "Food industry and services",
+    "Income tax deductions",
+    "Service industries",
+    "Tax administration and collection, taxpayers"
+  ],
+  "sponsor_name": "Sen. Cruz, Ted [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "tips tax free",
+    "no tax on tips",
+    "waitress tax break",
+    "server income tax",
+    "restaurant worker taxes",
+    "tip income deduction",
+    "hair salon tax credit",
+    "bartender tax relief",
+    "service worker tax break",
+    "cash tips taxes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Tax on Tips Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-deduction-for-qualified-tips",
+      "title": "Section 2 Deduction for Qualified Tips",
+      "text": "This section creates a new tax deduction for tips that workers receive. Workers can subtract their qualified tips from their income when they file their taxes. Qualified tips are cash tips received by people working in jobs that traditionally receive tips as of December thirty-first, two thousand twenty-three. The Treasury Department will publish a list of these jobs within ninety days of this law passing. The deduction cannot be more than twenty-five thousand dollars per year. However, workers who earned more than a certain high amount from their employer in the previous year cannot use this deduction. The exact amount is set by existing tax rules for highly compensated employees. This deduction works for all taxpayers, whether they itemize their deductions or take the standard deduction. The deduction is not limited by other tax rules that normally restrict certain deductions. The Treasury Department must update tax withholding tables and procedures to account for this new deduction. These changes start for tax years beginning after December thirty-first, two thousand twenty-four.",
+      "word_offset": 11,
+      "char_offset": 47
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-extension-of-credit-for-employer-social-security-taxes",
+      "title": "Section 3 Extension of Credit for Portion of Employer Social Security Taxes Paid with Respect to Employee Tips to Beauty Service Establishments",
+      "text": "This section expands an existing tax credit for employers. Currently, employers who run food and beverage businesses can get a tax credit to help offset some of the Social Security taxes they pay on their workers' tips. This section extends that same tax credit to beauty service businesses. Beauty services include barbering and hair care, nail care, esthetics (skin care treatments), and body and spa treatments. The credit only applies when tipping employees in these businesses is customary. For beauty service businesses, the credit amount will be based on the current minimum wage. For food and beverage businesses, the credit will continue to be based on the minimum wage that was in effect on January first, two thousand seven. These changes start for tax years beginning after December thirty-first, two thousand twenty-four.",
+      "word_offset": 180,
+      "char_offset": 1147
+    }
+  ]
+}

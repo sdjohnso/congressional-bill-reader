@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-70",
+  "title": "No SmartPay for Anti-2A Companies Act",
+  "short_title": "No SmartPay for Anti-2A Companies Act",
+  "congress": 119,
+  "bill_number": "HR.70",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "8a87949434bd1e2e",
+  "last_updated": "2026-03-20T11:58:34.254289+00:00",
+  "plain_summary": "This bill stops the government from giving SmartPay contracts to payment companies that use special codes for gun stores. The SmartPay Program is how the government buys payment systems for things like credit cards. Some payment companies have started using special business codes just for gun retailers. This law would prevent those payment companies from getting new government contracts. It only applies to new contracts made after the law starts.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Consumer credit",
+    "Firearms and explosives",
+    "Public contracts and procurement"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government contracts",
+    "gun stores",
+    "payment companies",
+    "credit cards",
+    "SmartPay",
+    "gun retailers",
+    "business codes",
+    "firearms",
+    "anti-gun companies",
+    "government spending",
+    "payment systems",
+    "Second Amendment"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No SmartPay for Anti-2A Companies Act. The 2A refers to the Second Amendment to the Constitution, which protects the right to keep and bear arms.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-awarding-contracts",
+      "title": "Section 2 Prohibition on Awarding Contracts for Certain Commercial Payment Systems Under the SmartPay Program",
+      "text": "The person in charge of the General Services Administration cannot give out contracts under the SmartPay Program to any commercial payment system that uses a payment processing company. These payment processing companies must be ones that have created a special business category code specifically for gun stores. The SmartPay Program is a government program that provides payment cards for federal employees to make purchases for their agencies. This rule does not apply to any contracts that were already given out before this law was passed.",
+      "word_offset": 31,
+      "char_offset": 173
+    }
+  ]
+}

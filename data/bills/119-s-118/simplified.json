@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-s-118",
+  "title": "Inaugural Committee Transparency Act of 2025",
+  "short_title": "Inaugural Committee Transparency Act of 2025",
+  "congress": 119,
+  "bill_number": "S.118",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "0f137507917e35dc",
+  "last_updated": "2026-03-20T15:50:27.259046+00:00",
+  "plain_summary": "This bill makes rules for the groups that plan presidential inaugurations to be more open about their money. These groups must tell the government about all the money they spend that is $200 or more and explain what they bought within 90 days after the inauguration. The bill says these groups cannot take money from people in other countries or let people give money using fake names. Any leftover money must be given to charity within 90 days.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Charitable contributions",
+    "Elections, voting, political campaign regulation",
+    "Fraud offenses and financial crimes",
+    "Government ethics and transparency, public corruption",
+    "Presidents and presidential powers, Vice Presidents",
+    "Social work, volunteer service, charitable organizations",
+    "Tax-exempt organizations"
+  ],
+  "sponsor_name": "Sen. Cortez Masto, Catherine [D-NV]",
+  "sponsor_party": "D",
+  "sponsor_state": "NV",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "presidential inauguration money",
+    "inauguration spending rules",
+    "presidential swearing in ceremony funding",
+    "foreign money inauguration ban",
+    "anonymous donations inauguration",
+    "inauguration committee transparency",
+    "presidential transition money rules",
+    "inauguration leftover money charity",
+    "fake names political donations",
+    "inauguration financial disclosure"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Inaugural Committee Transparency Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-disclosure-requirements",
+      "title": "Section 2 Disclosure of Certain Donations to and Spending by the Presidential Inaugural Committee",
+      "text": "This section changes the rules for Presidential Inaugural Committees (the groups that organize the president's swearing-in ceremony). The committee must now report any payment they make of two hundred dollars or more. They must explain what each payment was for. For any payment of two hundred dollars or more, including payments made after the inauguration is over, the committee must report the name and address of who received the money, the date they made the payment, and the total amount and purpose of the payment. The law makes several things illegal. Inaugural committees cannot ask for, accept, or receive donations from foreign nationals (people who are not US citizens or permanent residents). No person can make a donation using someone else's name, and no one can knowingly let their name be used for someone else's donation. No one can knowingly accept a donation made in someone else's name. Foreign nationals cannot directly or indirectly make donations or promise to make donations to inaugural committees. No one can use inaugural committee donations for personal expenses that they would have even if they were not working for the committee. The law requires that within ninety days after the presidential inauguration ceremony, the inaugural committee must give any leftover donated money to a tax-exempt charity. The Federal Election Commission can extend this ninety day deadline if the committee asks. If the deadline is extended, the committee must file an additional report by the end of the extension period.",
+      "word_offset": 15,
+      "char_offset": 93
+    }
+  ]
+}

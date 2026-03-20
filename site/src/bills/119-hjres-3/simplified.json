@@ -1,0 +1,136 @@
+{
+  "bill_id": "119-hjres-3",
+  "title": "Proposing an amendment to the Constitution of the United States relative to balancing the budget.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.3",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "f996f549cdeba56a",
+  "last_updated": "2026-03-20T11:48:38.866622+00:00",
+  "plain_summary": "This proposed change to the Constitution would require the federal government to spend no more money than it brings in each year, which means balancing the budget. It would also limit government spending to no more than 18 percent of all the money made in the country. To spend more money than these limits or to raise taxes, Congress would need special votes where most members agree. The President would have to create budgets that follow these rules, and courts could not force the government to raise taxes to meet these requirements. The rules could be temporarily ignored during wars or serious military threats to the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Budget deficits and national debt",
+    "Budget process",
+    "Constitution and constitutional amendments",
+    "Income tax rates",
+    "Legislative rules and procedure"
+  ],
+  "sponsor_name": "Rep. Buchanan, Vern [R-FL-16]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "balanced budget amendment",
+    "government spending limits",
+    "federal budget rules",
+    "constitutional spending cap",
+    "government debt limits",
+    "tax increase restrictions",
+    "budget deficit controls",
+    "federal spending percentage",
+    "constitutional budget requirements",
+    "government financial limits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "constitutional-amendment-article-section-1",
+      "title": "Article Section 1",
+      "text": "The government cannot spend more money than it takes in during any year, unless two thirds of all members in both the House of Representatives and Senate vote by roll call to allow specific extra spending.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "constitutional-amendment-article-section-2",
+      "title": "Article Section 2",
+      "text": "Government spending in any year cannot be more than eighteen percent of the gross domestic product (the total value of all goods and services produced in the country) from the previous calendar year, unless two thirds of all members in both the House and Senate vote by roll call to allow a specific amount above eighteen percent.",
+      "word_offset": 36,
+      "char_offset": 206
+    },
+    {
+      "id": "s3",
+      "slug": "constitutional-amendment-article-section-3",
+      "title": "Article Section 3",
+      "text": "Before each fiscal year (the government's budget year), the President must send Congress a proposed budget where spending does not exceed income and spending does not exceed eighteen percent of the previous year's gross domestic product.",
+      "word_offset": 93,
+      "char_offset": 537
+    },
+    {
+      "id": "s4",
+      "slug": "constitutional-amendment-article-section-4",
+      "title": "Article Section 4",
+      "text": "Any bill that creates a new tax or raises tax rates or increases the total amount of tax revenue can only pass if two thirds of all members in both the House and Senate vote for it by roll call. However, this rule does not apply to revenue increases that happen because tax rates are lowered.",
+      "word_offset": 129,
+      "char_offset": 775
+    },
+    {
+      "id": "s5",
+      "slug": "constitutional-amendment-article-section-5",
+      "title": "Article Section 5",
+      "text": "The debt limit (the maximum amount the United States can borrow) cannot be raised unless three fifths of all members in both the House and Senate vote by roll call to increase it.",
+      "word_offset": 185,
+      "char_offset": 1068
+    },
+    {
+      "id": "s6",
+      "slug": "constitutional-amendment-article-section-6",
+      "title": "Article Section 6",
+      "text": "Congress can ignore the spending limits and budget requirements from sections one, two, three, and five during any year when the United States has officially declared war against another country and a majority of all members in both the House and Senate vote by roll call to allow specific extra spending.",
+      "word_offset": 218,
+      "char_offset": 1248
+    },
+    {
+      "id": "s7",
+      "slug": "constitutional-amendment-article-section-7",
+      "title": "Article Section 7",
+      "text": "Congress can ignore the spending limits and budget requirements from sections one, two, three, and five during any year when the United States is in a military conflict that creates an immediate and serious threat to national security, but only if three fifths of all members in both the House and Senate vote by roll call to declare this threat. The extra spending must be directly related to and limited by the specific military conflict.",
+      "word_offset": 269,
+      "char_offset": 1554
+    },
+    {
+      "id": "s8",
+      "slug": "constitutional-amendment-article-section-8",
+      "title": "Article Section 8",
+      "text": "No federal or state court can order the government to raise taxes or increase revenue to enforce this constitutional amendment.",
+      "word_offset": 344,
+      "char_offset": 1995
+    },
+    {
+      "id": "s9",
+      "slug": "constitutional-amendment-article-section-9",
+      "title": "Article Section 9",
+      "text": "Total receipts means all money the government receives except money from borrowing. Total outlays means all money the government spends except money used to pay back the principal amount of debts.",
+      "word_offset": 364,
+      "char_offset": 2123
+    },
+    {
+      "id": "s10",
+      "slug": "constitutional-amendment-article-section-10",
+      "title": "Article Section 10",
+      "text": "Congress has the power to create laws to enforce and carry out this constitutional amendment. These laws can use estimated numbers for spending, income, and gross domestic product.",
+      "word_offset": 395,
+      "char_offset": 2320
+    },
+    {
+      "id": "s11",
+      "slug": "constitutional-amendment-article-section-11",
+      "title": "Article Section 11",
+      "text": "This constitutional amendment will start working at the beginning of the fifth fiscal year after it is ratified (approved by three fourths of state legislatures).",
+      "word_offset": 423,
+      "char_offset": 2501
+    }
+  ]
+}

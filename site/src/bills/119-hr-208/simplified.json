@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-208",
+  "title": "No Budget, No Pay Act",
+  "short_title": "No Budget, No Pay Act",
+  "congress": 119,
+  "bill_number": "HR.208",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on House Administration.",
+  "version_hash": "665806d802a54ccd",
+  "last_updated": "2026-03-20T14:11:20.683982+00:00",
+  "plain_summary": "This bill says that Congress members will not get their paychecks if their part of Congress does not pass a budget by April 15th. Their pay will be held starting April 16th until they pass a budget or until their time in Congress ends. The bill applies to both the House and Senate separately, so each part must pass their own budget to get their pay back. This rule is meant to make Congress members work harder to pass budgets on time.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Budget deficits and national debt",
+    "Budget process",
+    "Congressional oversight",
+    "Government employee pay, benefits, personnel management",
+    "Members of Congress"
+  ],
+  "sponsor_name": "Rep. Wittman, Robert J. [R-VA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress paycheck",
+    "congress salary",
+    "government budget deadline",
+    "congress pay cut",
+    "no budget no pay",
+    "congress budget april",
+    "withhold congress pay",
+    "congress budget deadline",
+    "government shutdown pay",
+    "congress salary freeze",
+    "budget deadline consequences",
+    "congress accountability pay"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Budget No Pay Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-holding-salaries-of-members-of-congress-in-escrow-upon-failure-to-agree-to-budget-resolution",
+      "title": "Section 2 Holding Salaries of Members of Congress in Escrow Upon Failure to Agree to Budget Resolution",
+      "text": "If either the House of Representatives or the Senate does not agree to a budget plan for the next year by April fifteenth, then the paychecks of all members of that part of Congress will be held back. The person in charge of paying salaries must put those paychecks into a special holding account called an escrow account. The members will not get their paychecks until they pass a budget or until the current session of Congress ends. This holding period starts on April sixteenth and ends when either the budget is passed or the current Congress session is over. The person handling payroll must still take out the normal taxes and other deductions from the held paychecks, just like they would for regular paychecks. If the Congress session ends without passing a budget, all the held money must be released to the members to follow the Twenty Seventh Amendment to the Constitution, which says Congress cannot change its own pay during the same session. The Secretary of the Treasury will help the payroll administrators do their jobs under this law. For this law, Member of Congress includes Delegates and the Resident Commissioner who represent territories. The payroll administrator means the Chief Administrative Officer for the House of Representatives or the Secretary of the Senate, or someone they choose to handle this job. This law starts with the budget year that begins in October two thousand twenty five.",
+      "word_offset": 11,
+      "char_offset": 49
+    }
+  ]
+}

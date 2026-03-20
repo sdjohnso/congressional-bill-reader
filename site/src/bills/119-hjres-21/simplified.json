@@ -1,0 +1,52 @@
+{
+  "bill_id": "119-hjres-21",
+  "title": "Disapproving of the rule submitted by the Department of Homeland Security relating to \"Modernizing H-2 Program Requirements, Oversight, and Worker Protections\".",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.21",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "ab2934e6b1a90fe3",
+  "last_updated": "2026-03-20T10:52:30.123476+00:00",
+  "plain_summary": "Congress is voting to reject a new rule from the Department of Homeland Security about temporary workers who come to the US for jobs. The rule was supposed to give these workers more protection from being treated badly and make the program fairer for people from all countries. It would have also given workers 60 days to find new jobs if they lost their current work. Because Congress is rejecting this rule, these new protections and changes will not happen.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Arrington, Jodey C. [R-TX-19]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "temporary workers",
+    "foreign workers",
+    "guest workers",
+    "H-2 program",
+    "seasonal workers",
+    "migrant workers",
+    "worker protections",
+    "job visa program",
+    "temporary visa",
+    "work permits",
+    "Department of Homeland Security",
+    "immigration workers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution",
+      "title": "Joint Resolution",
+      "text": "Congress decides that it does not approve of a new rule created by the Department of Homeland Security. This rule was called Modernizing H-2 Program Requirements, Oversight, and Worker Protections. The H-2 Program allows foreign workers to come to the United States temporarily for jobs. Because Congress disapproves of this rule, the rule will not be allowed to take effect and will have no power to change anything.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

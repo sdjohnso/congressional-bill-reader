@@ -1,0 +1,72 @@
+{
+  "bill_id": "119-s-179",
+  "title": "FARM Act",
+  "short_title": "FARM Act",
+  "congress": 119,
+  "bill_number": "S.179",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "version_hash": "9fc283ce20176a56",
+  "last_updated": "2026-03-20T13:06:59.842865+00:00",
+  "plain_summary": "The FARM Act makes sure the government watches more carefully when foreign companies try to buy American farms and food businesses. It puts the Secretary of Agriculture on a special committee that checks these deals to make sure they are safe for America. The law says that farms and food supply chains are important to national security, so they need extra protection. It also requires two government agencies to write reports about how foreign countries might be trying to influence American farming.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Foreign Trade and International Finance",
+  "subjects": [
+    "Congressional oversight",
+    "Federal officials",
+    "Government studies and investigations",
+    "U.S. and foreign investments"
+  ],
+  "sponsor_name": "Sen. Tuberville, Tommy [R-AL]",
+  "sponsor_party": "R",
+  "sponsor_state": "AL",
+  "cosponsor_count": 13,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "foreign companies buying farms",
+    "protect american agriculture",
+    "food security",
+    "foreign investment in farming",
+    "agriculture secretary oversight",
+    "national security farming",
+    "foreign control of food supply",
+    "american farms protection",
+    "food business foreign ownership",
+    "agriculture national defense",
+    "farm sales to foreign countries"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Foreign Adversary Risk Management Act or the FARM Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-agriculture-included-in-cfius",
+      "title": "Section 2  United States Agriculture Included in Committee on Foreign Investment in the United States",
+      "text": "The Secretary of Agriculture will now be a member of a special government committee. This committee reviews when foreign companies try to buy or control American businesses. The committee will now review deals where foreign companies try to take control of American farm businesses. This includes any business that grows food or raises animals for food. The committee will also treat farm systems and supply chains as critical infrastructure that needs protection. Farm supply chains are the networks that move food from farms to stores. These supply chains are now considered critical technology that the government needs to watch carefully.",
+      "word_offset": 15,
+      "char_offset": 82
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-reports-on-foreign-agriculture-investments",
+      "title": "Section 3  Reports on Investments by Foreign Countries in United States Agriculture Industry",
+      "text": "Within one year after this law passes, two government officials must study and report to Congress about foreign influence in American farming. The Secretary of Agriculture and the Comptroller General must each write separate reports. These reports must include information about foreign investments in American farms and food businesses. They must explain how foreign investment might hurt American food production and supply chains. The reports must identify which countries pose the biggest threats to American farming. They must also describe how foreign governments try to steal American farming secrets, including attempts to take research information, pricing data, and business strategy documents.",
+      "word_offset": 115,
+      "char_offset": 725
+    }
+  ]
+}

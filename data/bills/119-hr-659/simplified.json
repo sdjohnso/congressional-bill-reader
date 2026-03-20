@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-659",
+  "title": "Veterans Law Judge Experience Act of 2025",
+  "short_title": "Veterans Law Judge Experience Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.659",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+  "version_hash": "ff4f343de43983cc",
+  "last_updated": "2026-03-20T11:36:37.448281+00:00",
+  "plain_summary": "This bill changes how judges are chosen for the Board of Veterans Appeals. The Chairman of the board must now give priority to lawyers who have at least three years of experience working with veterans' law when recommending new judges. This means that lawyers with more experience helping veterans will be more likely to become judges on the board. The goal is to have judges who better understand veterans' legal issues.",
+  "current_status": "committee_reported",
+  "status_date": "2025-09-26",
+  "last_action_date": "2026-01-26",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Administrative remedies",
+    "Lawyers and legal services",
+    "Veterans' pensions and compensation"
+  ],
+  "sponsor_name": "Rep. Brownley, Julia [D-CA-26]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans court judges",
+    "veterans appeals board",
+    "veterans law experience",
+    "military benefits appeals",
+    "veteran disability judges",
+    "veterans legal help",
+    "military court system",
+    "veteran benefits decisions",
+    "experienced veterans lawyers",
+    "veterans appeals process"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Veterans Law Judge Experience Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-priority-for-individuals-with-certain-professional-experience",
+      "title": "Section 2  Priority For Individuals With Certain Professional Experience In Appointments To Board Of Veterans Appeals",
+      "text": "This section changes the law about how people are chosen to serve on the Board of Veterans Appeals. The Board of Veterans Appeals is a group of judges who make decisions about veterans' benefits claims. The law now says that when the Chairman of the Board recommends people to the Secretary of Veterans Affairs to become new board members, the Chairman must give first choice to people who have worked as lawyers for three or more years in areas related to veterans' laws. This means lawyers with experience in veterans' legal matters will be preferred when new judges are being selected for the board.",
+      "word_offset": 16,
+      "char_offset": 90
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-618",
+  "title": "Apex Area Technical Corrections Act",
+  "short_title": "Apex Area Technical Corrections Act",
+  "congress": 119,
+  "bill_number": "HR.618",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-86.",
+  "version_hash": "2e4b4f868cf57830",
+  "last_updated": "2026-03-20T12:22:54.225688+00:00",
+  "plain_summary": "This law makes changes to a 1989 law about land transfers in Nevada near Las Vegas. It allows the city of North Las Vegas and a group called the Apex Industrial Park Owners Association to get rights to build roads and utilities like power lines and water pipes on federal land. These connections will help support industrial development in an area called the Apex Site, which includes a place called the Kerr-McGee site where companies that handle dangerous materials can operate. Any future land transfers in this area must follow federal environmental and land use rules.",
+  "current_status": "signed_into_law",
+  "status_date": "2025-07-15",
+  "last_action_date": "2025-07-15",
+  "last_action_text": "Became Public Law No: 119-24.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": true,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Environmental assessment, monitoring, research",
+    "Land transfers",
+    "Nevada"
+  ],
+  "sponsor_name": "Rep. Horsford, Steven [D-NV-4]",
+  "sponsor_party": "D",
+  "sponsor_state": "NV",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Nevada land transfer",
+    "North Las Vegas development",
+    "federal land roads",
+    "industrial park Nevada",
+    "Apex site development",
+    "Las Vegas area land",
+    "utility lines federal land",
+    "dangerous materials facility",
+    "Kerr-McGee site",
+    "Nevada industrial development",
+    "government land transfer",
+    "Las Vegas infrastructure"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Apex Area Technical Corrections Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-apex-project-nevada-land-transfer-and-authorization-act-of-1989",
+      "title": "Section 2 Apex Project, Nevada Land Transfer and Authorization Act of 1989",
+      "text": "This section makes changes to an older law from nineteen eighty-nine about transferring land in Nevada. The changes add two new definitions and update several parts of the original law. The first new definition explains that Apex Industrial Park Owners Association means the group that was officially formed on April ninth two thousand and one according to documents filed with the Nevada Secretary of State. The second new definition says that City of North Las Vegas means North Las Vegas Nevada. The section also updates the original law to include both the City of North Las Vegas and the Apex Industrial Park Owners Association as parties that can work with Clark County to connect roads and utilities to the Kerr McGee Site and other lands that are transferred under this law. It allows the Secretary of the Interior to create new maps to replace older ones from May nineteen eighty-nine. The changes give Clark County the City of North Las Vegas and the Apex Industrial Park Owners Association the right to get permits for roads and utilities as long as they meet certain requirements. The section makes permanent the withdrawal of certain lands from mining claims for all lands transferred under this law. It also creates special rules for selling materials like sand and gravel that come from construction work on the land. These sales do not need to go through competitive bidding and are not limited by usual quantity and time restrictions. Finally the section adds a requirement that any future land transfers or permits must follow federal environmental laws including the National Environmental Policy Act of nineteen sixty-nine and the Federal Land Policy and Management Act of nineteen seventy-six.",
+      "word_offset": 11,
+      "char_offset": 64
+    }
+  ]
+}

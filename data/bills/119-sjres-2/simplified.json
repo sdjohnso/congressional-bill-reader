@@ -1,0 +1,90 @@
+{
+  "bill_id": "119-sjres-2",
+  "title": "A joint resolution proposing amendments to the Constitution of the United States relative to the line item veto, a limitation on the number of terms that a Member of Congress may serve, and requiring a vote of two-thirds of the membership of both Houses of Congress on any legislation raising or imposing new taxes or fees.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SJRES.2",
+  "introduced_date": "2025-01-08",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "b077098edd55f944",
+  "last_updated": "2026-03-20T11:30:58.015196+00:00",
+  "plain_summary": "This bill wants to change the Constitution in three ways. First, it would let the President cross out specific spending items from bills that Congress passes instead of having to reject the whole bill. Second, it would limit how long people can serve in Congress by allowing House members to serve only six terms and Senate members only two terms. Third, it would make it much harder for Congress to create new taxes or raise existing taxes by requiring two-thirds of both the House and Senate to vote yes on any tax increases.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-08",
+  "last_action_date": "2025-01-08",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Appropriations",
+    "Congressional elections",
+    "Constitution and constitutional amendments",
+    "General taxation matters",
+    "House of Representatives",
+    "Income tax credits",
+    "Income tax deductions",
+    "Income tax rates",
+    "Legislative rules and procedure",
+    "Members of Congress",
+    "Presidents and presidential powers, Vice Presidents",
+    "Senate",
+    "User charges and fees"
+  ],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "line item veto",
+    "presidential veto power",
+    "congress term limits",
+    "congressional term limits",
+    "house senate term limits",
+    "tax increase supermajority",
+    "two thirds vote taxes",
+    "constitution amendment congress",
+    "limit congress terms",
+    "president veto spending",
+    "congressional spending veto",
+    "tax hike requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolved",
+      "title": "Resolved",
+      "text": "The Senate and House of Representatives agree that the following changes should be made to the Constitution of the United States. These changes will become part of the Constitution if the state governments of three fourths of all states approve them within seven years after Congress sends them out.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "article-line-item-veto",
+      "title": "Article - Line Item Veto",
+      "text": "Section 1. The President can reduce or reject any spending item in any bill that Congress sends to the President. Section 2. If the President approves a bill after making changes under Section 1, that bill becomes law with the President's changes included. Section 3. If the President reduces or rejects any spending item in a bill, the President must send back the rejected parts to the part of Congress where the bill started within ten days. The President must also send a written explanation of why each spending item was rejected. Section 4. Congress can vote separately on any spending item that the President reduced or rejected using the same process that Congress uses when the President rejects an entire bill.",
+      "word_offset": 49,
+      "char_offset": 300
+    },
+    {
+      "id": "s3",
+      "slug": "article-term-limits",
+      "title": "Article - Term Limits",
+      "text": "Section 1. No person who has served six terms as a Representative can run for election to the House of Representatives again. If a person is elected to fill an empty seat in the House and serves more than one year in that position, it counts as one full term. Section 2. No person who has served two terms as a Senator can run for election or be appointed to the Senate again. If a person is elected or appointed to fill an empty seat in the Senate and serves more than three years in that position, it counts as one full term. Section 3. Any terms that a person served before this change to the Constitution is approved do not count when deciding if they can run again.",
+      "word_offset": 171,
+      "char_offset": 1021
+    },
+    {
+      "id": "s4",
+      "slug": "article-tax-supermajority",
+      "title": "Article - Tax Supermajority",
+      "text": "Section 1. Laws that create or allow new taxes or fees can only pass if at least two thirds of the members of the House or Senate vote yes. These laws cannot include any other topics besides the new tax or fee. Section 2. Laws that increase any tax or fee can only pass if at least two thirds of the members of the House or Senate vote yes. This includes raising tax rates, raising fixed amounts, or reducing tax breaks, exemptions, or credits. These laws cannot include any other topics besides the tax or fee increase.",
+      "word_offset": 300,
+      "char_offset": 1692
+    }
+  ]
+}

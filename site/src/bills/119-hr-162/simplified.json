@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-162",
+  "title": "First Amendment Accountability Act",
+  "short_title": "First Amendment Accountability Act",
+  "congress": 119,
+  "bill_number": "HR.162",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "2c36f7d8806ac191",
+  "last_updated": "2026-03-20T15:57:37.114989+00:00",
+  "plain_summary": "This bill lets people take federal government workers to court if those workers violate their First Amendment rights while doing their job. The First Amendment protects things like free speech and freedom of religion. If someone wins their case in court, the government worker who lost might have to pay for the winner's lawyer fees. The law applies to most federal employees but does not include the President or Vice President.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "Civil actions and liability",
+    "First Amendment rights",
+    "Government employee pay, benefits, personnel management",
+    "Lawyers and legal services"
+  ],
+  "sponsor_name": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 15,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "sue government workers",
+    "free speech violations",
+    "federal employees lawsuit",
+    "First Amendment lawsuit",
+    "government censorship",
+    "religious freedom violations",
+    "free speech protection",
+    "suing federal workers",
+    "government employee accountability",
+    "federal worker immunity",
+    "speech rights lawsuit",
+    "government violations free speech"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the First Amendment Accountability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-right-of-action-against-federal-employees",
+      "title": "Section 2 Right of Action Against Federal Employees for Violations of First Amendment Rights",
+      "text": "This section creates new rules about suing federal workers who violate First Amendment rights. If a federal employee uses their government authority or follows government rules to take away someone's First Amendment rights, that person can sue the employee in court. The First Amendment protects freedom of speech, religion, press, assembly, and petitioning the government. However, federal employees cannot use this law to sue their own employer or the federal government for things that happen as part of their job. When someone wins a case under this law, the court can make the losing side pay the winner's lawyer fees, unless the United States government is the winning side. A federal employee means any person who works for the executive branch of government, including independent agencies, but not the President or Vice President. The executive branch includes departments like the FBI, IRS, and other government agencies that carry out laws. If any part of this law is found to be against the Constitution, the rest of the law will still be valid and enforceable.",
+      "word_offset": 10,
+      "char_offset": 63
+    }
+  ]
+}

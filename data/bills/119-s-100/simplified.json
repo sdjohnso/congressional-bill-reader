@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-100",
+  "title": "Repealing Big Brother Overreach Act",
+  "short_title": "Repealing Big Brother Overreach Act",
+  "congress": 119,
+  "bill_number": "S.100",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "version_hash": "89d9a0918632e8ef",
+  "last_updated": "2026-03-20T11:03:04.349604+00:00",
+  "plain_summary": "This bill would cancel a law called the Corporate Transparency Act that was passed in 2020. That law required companies to report information about their owners to the government to help fight terrorism and money laundering. If this new bill passes, companies would no longer have to give the government this ownership information. The bill would also fix other laws that mentioned the Corporate Transparency Act.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Sen. Tuberville, Tommy [R-AL]",
+  "sponsor_party": "R",
+  "sponsor_state": "AL",
+  "cosponsor_count": 34,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "cancel corporate transparency act",
+    "company owner reporting requirements",
+    "business ownership information government",
+    "repeal money laundering reporting",
+    "eliminate company beneficial owner rules",
+    "business privacy from government",
+    "corporate reporting requirements repeal",
+    "company owner disclosure law",
+    "business transparency act cancel",
+    "government overreach business reporting"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Repealing Big Brother Overreach Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal",
+      "title": "Section 2 Repeal",
+      "text": "This section cancels an existing law called the Corporate Transparency Act. The Corporate Transparency Act was part of a larger defense spending bill passed in twenty twenty. This section also removes all the changes that the Corporate Transparency Act made to other laws. The section then makes additional small changes to fix other parts of the legal code. It removes references to section five thousand three hundred thirty six from several places in Title thirty one of the United States Code. It also removes one section from the Anti Money Laundering Act of twenty twenty and makes small fixes to another section in that same law.",
+      "word_offset": 11,
+      "char_offset": 64
+    }
+  ]
+}

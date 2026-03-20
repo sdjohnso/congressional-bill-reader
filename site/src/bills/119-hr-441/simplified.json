@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-441",
+  "title": "Drought Assistance Improvement Act",
+  "short_title": "Drought Assistance Improvement Act",
+  "congress": 119,
+  "bill_number": "HR.441",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
+  "version_hash": "3f8bec3bacad9c39",
+  "last_updated": "2026-03-20T12:19:25.137137+00:00",
+  "plain_summary": "This bill makes it easier for farmers and ranchers to get government money when droughts hurt their animals and crops. Instead of waiting eight weeks for help, they only have to wait four weeks when there is a severe drought. The bill also gives farmers more payments if droughts last longer. It expands a program that helps farmers who lose animals or fish because of bad weather to also cover crawfish farmers who lose their harvest during droughts.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Letlow, Julia [R-LA-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "drought help for farmers",
+    "farm drought assistance",
+    "rancher drought relief",
+    "government money for drought",
+    "livestock drought payments",
+    "crop loss drought aid",
+    "crawfish farming drought help",
+    "faster drought relief",
+    "severe drought assistance",
+    "animal loss drought money",
+    "farm disaster payments",
+    "drought emergency help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Drought Assistance Improvement Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-livestock-forage-disaster-program",
+      "title": "Section 2 Livestock Forage Disaster Program",
+      "text": "This section changes the rules for the Livestock Forage Disaster Program. Right now, farmers and ranchers need at least eight weeks in a row of drought conditions to get help. This law changes that rule. Under the new rule, farmers and ranchers can get help if they have at least four weeks in a row of drought during the normal grazing season for their county. If they have four to seven weeks of drought, they get one monthly payment. If they have eight or more weeks in a row of drought, they get two monthly payments instead of just one.",
+      "word_offset": 10,
+      "char_offset": 63
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-emergency-assistance-for-livestock-honey-bees-and-farm-raised-fish-program",
+      "title": "Section 3 Emergency Assistance for Livestock, Honey Bees, and Farm-Raised Fish Program",
+      "text": "This section makes changes to the emergency assistance program for livestock, honey bees, and farm-raised fish. First, it adds drought as a specific reason that farmers can get help from this program, along with other bad weather conditions and diseases that already qualify. Second, it requires the Department of Agriculture to work with fish farmers to create clear rules for three things: how to collect information about losses, how to measure crawfish harvest reductions, and how to define what counts as drought damage. Third, it specifically allows crawfish farmers to get help when bad weather or drought causes them to lose their harvest.",
+      "word_offset": 110,
+      "char_offset": 605
+    }
+  ]
+}

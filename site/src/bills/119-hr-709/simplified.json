@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-709",
+  "title": "National Training Center for Counter-Unmanned Aircraft Systems Act",
+  "short_title": "National Training Center for Counter-Unmanned Aircraft Systems Act",
+  "congress": 119,
+  "bill_number": "HR.709",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Aviation.",
+  "version_hash": "be0dd639bac45d97",
+  "last_updated": "2026-03-20T13:01:00.038945+00:00",
+  "plain_summary": "This bill requires two government departments to create training programs for people who want to learn how to stop dangerous drones. The Department of Homeland Security and Department of Justice must work together to set up classes and tests for operating special equipment that can find and stop unmanned flying devices. The training will teach people how to detect, track, and take control of drones that might be used to cause harm. The Department of Justice can also build or choose training centers where people can learn these important skills to help keep the country safe from bad actors using drones.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-24",
+  "last_action_date": "2025-01-24",
+  "last_action_text": "Referred to the Subcommittee on Aviation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Strong, Dale W. [R-AL-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "drone defense training",
+    "counter drone programs",
+    "anti drone technology",
+    "drone security training",
+    "stopping dangerous drones",
+    "drone detection training",
+    "homeland security drone programs",
+    "government drone defense",
+    "drone threat response",
+    "training to stop drones"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the National Training Center for Counter-Unmanned Aircraft Systems Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-establishment-of-counter-uas-system-training",
+      "title": "Section 2 Establishment of Counter-UAS System Training",
+      "text": "This section changes an existing law called the Homeland Security Act of two thousand and two. It adds two new parts to that law. The first new part says the Attorney General can work with the Secretary of Homeland Security to provide training. This training teaches people how to take action against unmanned aircraft systems (which are flying devices that operate without a pilot on board). The Attorney General can also set up or choose one or more training centers for this purpose. The second new part requires the Secretary of Homeland Security and the Attorney General to work with the head of the Federal Aviation Administration. Together they must create rules for training programs and certifications. These programs are for people who want to operate equipment that can detect and stop unmanned aircraft systems. When creating these rules, they must think about how this equipment might affect airplane safety and normal air travel. They must also set up requirements for government agencies to work together before using this equipment. Finally, they must decide how often people need to complete training or renew their certifications to keep operating this equipment. The section also defines what unmanned aircraft and unmanned aircraft systems mean by referring to definitions already in federal law.",
+      "word_offset": 14,
+      "char_offset": 95
+    }
+  ]
+}

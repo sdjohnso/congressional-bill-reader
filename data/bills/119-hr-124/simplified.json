@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-124",
+  "title": "Byron Nash Renal Medullary Carcinoma Awareness Act of 2023",
+  "short_title": "Byron Nash Renal Medullary Carcinoma Awareness Act of 2023",
+  "congress": 119,
+  "bill_number": "HR.124",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "abe406aecf0ac723",
+  "last_updated": "2026-03-20T13:54:17.747920+00:00",
+  "plain_summary": "This bill helps states teach people with sickle cell disease about a rare kidney cancer called renal medullary carcinoma. People with sickle cell disease have a higher chance of getting this type of kidney cancer. The bill allows the federal government to pay for half the cost when states provide education about this cancer risk through Medicaid. This will help more people learn about and watch for this serious disease.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Cancer",
+    "Digestive and metabolic diseases",
+    "Health promotion and preventive care",
+    "Medicaid"
+  ],
+  "sponsor_name": "Rep. Green, Al [D-TX-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "sickle cell disease",
+    "kidney cancer",
+    "rare cancer",
+    "medicaid education",
+    "cancer awareness",
+    "sickle cell complications",
+    "kidney disease",
+    "cancer prevention",
+    "medical education funding",
+    "rare kidney cancer"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Byron Nash Renal Medullary Carcinoma Awareness Act of two thousand twenty three.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-providing-incentives-for-education-on-risk-of-renal-medullary-carcinoma-to-individuals-with-sickle-cell-disease-under-medicaid",
+      "title": "Section 2  Providing Incentives for Education on Risk of Renal Medullary Carcinoma to Individuals with Sickle Cell Disease Under Medicaid",
+      "text": "This section changes the Medicaid program to help educate people with sickle cell disease about a rare kidney cancer called renal medullary carcinoma. Medicaid is a government health insurance program that helps low income people pay for medical care. The law adds renal medullary carcinoma to a list of diseases that Medicaid can provide extra funding for education about. This means doctors and healthcare providers can get paid by Medicaid to teach patients with sickle cell disease about their risk of getting this kidney cancer. These changes will start on the day this law is signed.",
+      "word_offset": 18,
+      "char_offset": 108
+    }
+  ]
+}

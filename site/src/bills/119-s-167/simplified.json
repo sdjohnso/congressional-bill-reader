@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-s-167",
+  "title": "Protect and Serve Act of 2025",
+  "short_title": "Protect and Serve Act of 2025",
+  "congress": 119,
+  "bill_number": "S.167",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "15635b9c5799b79e",
+  "last_updated": "2026-03-20T13:55:50.592161+00:00",
+  "plain_summary": "The Protect and Serve Act of 2025 makes it a federal crime to attack police officers and other law enforcement workers. If someone hurts an officer badly on purpose, they can go to prison for up to ten years. If the officer dies or if someone kidnaps or tries to murder an officer, the person can go to prison for life. This new law helps protect the people who work to keep our communities safe.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Assault and harassment offenses",
+    "Crime victims",
+    "Criminal investigation, prosecution, interrogation",
+    "Firearms and explosives",
+    "Law enforcement officers",
+    "Violent crime"
+  ],
+  "sponsor_name": "Sen. Tillis, Thomas [R-NC]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 25,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "attacking police officers",
+    "hurting cops",
+    "violence against law enforcement",
+    "assaulting police",
+    "protecting officers",
+    "police safety",
+    "attacking first responders",
+    "harming police officers",
+    "law enforcement protection",
+    "police officer crimes",
+    "violence against cops"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protect and Serve Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-crimes-targeting-law-enforcement-officers",
+      "title": "Section 2 Crimes Targeting Law Enforcement Officers",
+      "text": "This section adds a new crime to federal law about attacking police officers and other law enforcement workers. If someone knowingly attacks a law enforcement officer and causes serious injuries to their body, or tries to do this, they can be punished under federal law. The punishment is up to ten years in prison, a fine, or both. If the attack kills the officer, or if it includes kidnapping or trying to kidnap or kill the officer, the person can be sentenced to any number of years in prison or life in prison, plus a fine. This federal law only applies in certain situations. It applies when the attacker or victim crosses state lines or country borders, when the attacker uses something connected to business between states like the internet or mail system, when the attacker uses a gun or weapon that moved between states, when the attack interferes with the victim's work or affects business between states, or when the victim works for the federal government. Before the federal government can prosecute someone under this law, the Attorney General or someone they choose must write a statement saying one of these things is true. Either the state does not have the power to prosecute the case, the state asked the federal government to take over, the state's punishment did not properly address the federal interest in public safety, or federal prosecution serves the public interest and is needed for real justice. Federal officers and grand juries can still investigate possible crimes under this section even with this requirement. A law enforcement officer means someone who works for a government agency and is legally allowed to prevent crimes, investigate crimes, or keep people in jail for crimes. State means any of the fifty states, Washington DC, or any territory controlled by the United States. This section also updates the official list of crimes in federal law to include this new crime about attacking law enforcement officers.",
+      "word_offset": 15,
+      "char_offset": 78
+    }
+  ]
+}

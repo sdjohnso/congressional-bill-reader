@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-430",
+  "title": "SALT Deductibility Act",
+  "short_title": "SALT Deductibility Act",
+  "congress": 119,
+  "bill_number": "HR.430",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "65e1a0e25929c02d",
+  "last_updated": "2026-03-20T11:53:19.532316+00:00",
+  "plain_summary": "This bill removes the limit on how much people can deduct for state and local taxes when they file their federal tax returns. Right now, taxpayers can only deduct up to $10,000 in state and local taxes, but this bill would let them deduct the full amount they paid. The change would start with tax returns filed for the year 2025. This means people who pay high state and local taxes could get bigger deductions on their federal taxes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Garbarino, Andrew R. [R-NY-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 25,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "state and local tax deduction",
+    "SALT tax limit",
+    "property tax deduction",
+    "income tax deduction",
+    "$10000 tax limit",
+    "federal tax deduction",
+    "high tax states",
+    "tax deduction cap",
+    "state tax writeoff",
+    "local tax writeoff",
+    "property tax relief",
+    "income tax relief"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Securing Access to Lower Taxes by ensuring Deductibility Act or the SALT Deductibility Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-limitation-on-deduction-for-state-and-local-etc-taxes",
+      "title": "Section 2  Repeal of Limitation on Deduction for State and Local, Etc. Taxes",
+      "text": "This section removes the current limit on how much people can deduct from their federal taxes when they pay state and local taxes. Right now, there is a cap that limits this deduction. This change removes that cap completely. The change will apply to tax years that start after December thirty first, two thousand twenty four. This means people filing their taxes for the year two thousand twenty five and later will be able to deduct the full amount of their state and local property taxes and income taxes on their federal tax returns.",
+      "word_offset": 20,
+      "char_offset": 119
+    }
+  ]
+}

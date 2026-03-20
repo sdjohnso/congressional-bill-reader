@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-446",
+  "title": "Endowment Tax Fairness Act",
+  "short_title": "Endowment Tax Fairness Act",
+  "congress": 119,
+  "bill_number": "HR.446",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "a52acce0a42d7866",
+  "last_updated": "2026-03-20T12:17:35.936246+00:00",
+  "plain_summary": "This bill raises taxes on large private colleges and universities that have big endowments. Right now these schools pay a 1.4 percent tax on money their endowments earn from investments, but this bill would increase that tax to 21 percent. The tax only applies to private schools with at least 500 students paying tuition and endowments worth at least $500,000 per student. All the extra money collected from this higher tax must go toward paying down the country's debt.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Nehls, Troy E. [R-TX-22]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "college endowment tax",
+    "private university tax increase",
+    "rich college tax",
+    "ivy league endowment tax",
+    "wealthy university tax hike",
+    "college investment tax",
+    "private school endowment",
+    "university wealth tax",
+    "college money tax",
+    "endowment fund tax"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Endowment Tax Fairness Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-excise-tax-based-on-investment-income-of-private-colleges-and-universities",
+      "title": "Section 2 Excise Tax Based on Investment Income of Private Colleges and Universities",
+      "text": "This section increases the tax rate on investment income for private colleges and universities. The tax rate will go from one point four percent to twenty one percent. This change will apply to tax years that start after this law is passed. All the money collected from this higher tax will go into the general fund of the Treasury. The government must first use this money to reduce the national deficit. After the deficit is reduced, any remaining money must be used to reduce the national debt.",
+      "word_offset": 10,
+      "char_offset": 55
+    }
+  ]
+}

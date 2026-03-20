@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-467",
+  "title": "Foreign Medical Program Modernization Act of 2025",
+  "short_title": "Foreign Medical Program Modernization Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.467",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Health.",
+  "version_hash": "d037726c8a294786",
+  "last_updated": "2026-03-20T14:28:02.788842+00:00",
+  "plain_summary": "This bill makes it easier for veterans living outside the United States to get medical care from the VA. Right now, veterans can only get this foreign medical care if they have a disability caused by their military service. The bill removes this rule so any veteran living abroad can get medical care. The VA will also have to update how it pays for this care and look into hiring companies to help find doctors and hospitals in other countries for veterans to use.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-20",
+  "last_action_date": "2025-02-20",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Computers and information technology",
+    "Diplomacy, foreign officials, Americans abroad",
+    "Health care coverage and access",
+    "Public contracts and procurement",
+    "Veterans' medical care"
+  ],
+  "sponsor_name": "Rep. Van Drew, Jefferson [R-NJ-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans healthcare overseas",
+    "military healthcare abroad",
+    "veterans living outside US",
+    "VA medical care foreign countries",
+    "veteran benefits international",
+    "military retirees healthcare overseas",
+    "veterans abroad medical coverage",
+    "overseas veteran medical benefits",
+    "international veterans healthcare",
+    "military healthcare while living abroad"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Foreign Medical Program Modernization Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expansion-of-foreign-medical-program",
+      "title": "Section 2  Expansion of Foreign Medical Program of Department of Veterans Affairs",
+      "text": "This section makes changes to help more veterans get medical care when they are outside the United States. Right now, veterans can only get this care if they have a disability caused by their military service. This law removes that rule so any veteran can get medical care outside the country. The Department of Veterans Affairs must update their computer systems to pay doctors and hospitals using electronic money transfers instead of checks. The Department must also study whether it would be helpful to hire a company to build a network of hospitals and doctors around the world that could treat veterans. They need to figure out if this would make it easier or harder for veterans to get the care they need.",
+      "word_offset": 16,
+      "char_offset": 98
+    }
+  ]
+}

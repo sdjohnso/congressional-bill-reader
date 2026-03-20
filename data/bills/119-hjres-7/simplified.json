@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-hjres-7",
+  "title": "Proposing an amendment to the Constitution of the United States to prohibit Members of Congress from receiving compensation during a fiscal year unless both Houses of Congress have agreed to a concurrent resolution on the budget for that fiscal year prior to the beginning of that fiscal year.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.7",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "821b4c09897f90ba",
+  "last_updated": "2026-03-20T14:38:57.689676+00:00",
+  "plain_summary": "This bill wants to change the Constitution so that members of Congress cannot get their paychecks unless they pass a budget on time. Both the House and Senate would need to agree on the budget before the new fiscal year starts, or else no one in Congress gets paid. To make this change to the Constitution, two thirds of Congress must vote yes and then three fourths of all state governments must also approve it. This rule would start working the year after it becomes part of the Constitution.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Budget process",
+    "Constitution and constitutional amendments",
+    "Government employee pay, benefits, personnel management",
+    "Legislative rules and procedure",
+    "Members of Congress"
+  ],
+  "sponsor_name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress pay",
+    "congressional salary",
+    "budget deadline",
+    "no budget no pay",
+    "congress paycheck",
+    "government shutdown pay",
+    "lawmakers salary",
+    "congress budget deadline",
+    "congressional compensation",
+    "budget on time",
+    "congress accountability",
+    "government budget deadline"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution-title",
+      "title": "Joint Resolution Title",
+      "text": "This joint resolution proposes an amendment to the Constitution of the United States. The amendment would stop Members of Congress from getting paid during a fiscal year (the government's yearly budget period from October first to September thirtieth) unless both the House of Representatives and the Senate have agreed to a concurrent resolution on the budget (a document that outlines spending plans) for that fiscal year before the fiscal year starts.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "congressional-procedure",
+      "title": "Congressional Procedure",
+      "text": "This joint resolution was introduced in the House of Representatives on January third, two thousand twenty five by Mr. Fitzpatrick. It was sent to the Committee on the Judiciary for review. For this constitutional amendment to become law, it needs approval from two thirds of both the House of Representatives and the Senate. Then it must be approved by the legislatures of three fourths of all states within seven years.",
+      "word_offset": 71,
+      "char_offset": 455
+    },
+    {
+      "id": "s3",
+      "slug": "proposed-constitutional-amendment-section-1",
+      "title": "Proposed Constitutional Amendment Section 1",
+      "text": "A Member of Congress cannot receive payment for their service as a Member of Congress during a fiscal year unless both the House of Representatives and the Senate have agreed to an identical concurrent resolution on the budget for that fiscal year before the fiscal year begins.",
+      "word_offset": 141,
+      "char_offset": 877
+    },
+    {
+      "id": "s4",
+      "slug": "proposed-constitutional-amendment-section-2",
+      "title": "Proposed Constitutional Amendment Section 2",
+      "text": "This constitutional amendment will only apply to fiscal years that begin after this amendment officially becomes part of the Constitution.",
+      "word_offset": 188,
+      "char_offset": 1156
+    }
+  ]
+}

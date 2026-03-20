@@ -1,0 +1,85 @@
+{
+  "bill_id": "119-hr-627",
+  "title": "Ensuring Accurate and Complete Abortion Data Reporting Act of 2025",
+  "short_title": "Ensuring Accurate and Complete Abortion Data Reporting Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.627",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "b129e09a77386c68",
+  "last_updated": "2026-03-20T12:24:08.819361+00:00",
+  "plain_summary": "This bill makes states report detailed information about abortions to the Centers for Disease Control and Prevention if they want to keep getting federal money for family planning services through Medicaid. Right now, states can choose whether or not to report this information, but this bill would make it required. The CDC would create standard questions that all states must use when collecting information about things like the women getting abortions and the methods used. States that do not report this abortion data would lose their federal funding for family planning services.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Child health",
+    "Family planning and birth control",
+    "Government information and archives",
+    "Health information and medical records",
+    "Health programs administration and funding",
+    "Medicaid",
+    "Sex and reproductive health",
+    "State and local government operations",
+    "Women's health"
+  ],
+  "sponsor_name": "Rep. Norman, Ralph [R-SC-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "SC",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "abortion reporting requirements",
+    "states report abortion data",
+    "CDC abortion statistics",
+    "federal funding family planning",
+    "medicaid abortion reporting",
+    "abortion data collection",
+    "states lose funding abortion",
+    "mandatory abortion reporting",
+    "abortion information tracking",
+    "family planning federal money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Ensuring Accurate and Complete Abortion Data Reporting Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has found the following facts. In the past, states could choose whether or not to report abortion information, which means the Centers for Disease Control and Prevention did not get complete data. While the Centers for Disease Control and Prevention asks each state and the District of Columbia for specific information, states collect and publish very different types of information. In fact, there is not one piece of abortion data that all fifty states and the District of Columbia report publicly. Even more concerning, three states that together have fifteen percent of all women of childbearing age in the United States do not report any abortion data to the Centers for Disease Control and Prevention. Having accurate numbers about abortions and people who survive abortion attempts is very important for public health and policy decisions.",
+      "word_offset": 19,
+      "char_offset": 115
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-medicaid-payments-contingent-on-abortion-data",
+      "title": "Section 3  Medicaid Payments For Certain Family Planning Services And Supplies Contingent On Submission Of Abortion Data To CDC",
+      "text": "This section changes the Social Security Act. Starting three years after this law passes, states must report certain abortion information to get federal Medicaid money for family planning services and supplies. Each state must send abortion data about mandatory questions to the Centers for Disease Control and Prevention abortion tracking system by December thirty first each year. The data must cover the year that was two years before. If a state sends the data late but gets it in by December thirty first of the current year, they can still get their federal money including back payments. Each time a state sends abortion data, they must promise to the Director of the Centers for Disease Control and Prevention that the information is correct. If the Director finds out that a state knowingly gave false information, that state cannot get federal Medicaid money for family planning services for one full year after the Director makes that finding.",
+      "word_offset": 155,
+      "char_offset": 972
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-collection-of-abortion-data-by-cdc",
+      "title": "Section 4  Collection Of Abortion Data By CDC",
+      "text": "This section adds new rules to the Public Health Service Act. The Secretary of Health and Human Services, working through the Director of the Centers for Disease Control and Prevention, must keep a tracking system to collect standard information about abortions in the United States. As part of this system, they must create a standard form for states to use when reporting abortion data. The form must include required questions about specific topics like the mother's age, how many weeks pregnant she was, her race and ethnicity, what type of abortion procedure was used, whether she was married, her previous pregnancies, where she lives, and whether the child survived the abortion. The form can also include optional questions that the Secretary thinks are appropriate. The system must allow for comparing different pieces of information together, like comparing the mother's age with how many weeks pregnant she was. The Secretary can update the questions and change which ones are required over time. The Secretary must help states learn how to report this data better. Each year, the Secretary must include all this collected information in a report about abortion and publish the report by December thirty of the third year after the year the data covers. In this section, the word State means all fifty states, the District of Columbia, and any United States territory.",
+      "word_offset": 311,
+      "char_offset": 1927
+    }
+  ]
+}

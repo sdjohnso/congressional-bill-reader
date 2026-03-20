@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-379",
+  "title": "Healthcare Freedom and Choice Act",
+  "short_title": "Healthcare Freedom and Choice Act",
+  "congress": 119,
+  "bill_number": "HR.379",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, and Ways",
+  "version_hash": "6922f2029f0bd3c7",
+  "last_updated": "2026-03-20T11:05:56.786355+00:00",
+  "plain_summary": "This bill cancels a new government rule about short-term health insurance plans that was made in April 2024. The rule said these plans could only last for 3 months at first and no more than 4 months total, even with renewals. Before this rule, short-term plans could last up to 12 months at first and up to 36 months total with renewals. By canceling the rule, this bill would let short-term health plans go back to lasting longer like they used to.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each c",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Department of Health and Human Services",
+    "Health care costs and insurance"
+  ],
+  "sponsor_name": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 11,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "short-term health insurance",
+    "temporary health plans",
+    "health insurance duration",
+    "3 month insurance limit",
+    "health plan renewals",
+    "affordable health coverage",
+    "alternative health insurance",
+    "government health rules",
+    "insurance flexibility",
+    "health plan options"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Healthcare Freedom and Choice Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-short-term-limited-duration-insurance-rule-nullification",
+      "title": "Section 2  Short-Term, Limited Duration Insurance Rule Nullification",
+      "text": "A rule about short-term health insurance was published on April third, two thousand twenty-four by three government agencies. These agencies were the Internal Revenue Service, the Employee Benefits Security Administration, and the Health and Human Services Department. The rule was about short-term health insurance plans that last for a limited time and other health benefits that work independently. This rule will have no power and cannot be enforced.",
+      "word_offset": 11,
+      "char_offset": 62
+    }
+  ]
+}

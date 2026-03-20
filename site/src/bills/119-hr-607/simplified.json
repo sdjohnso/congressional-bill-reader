@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-607",
+  "title": "ATF Accountability Act of 2025",
+  "short_title": "ATF Accountability Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.607",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "a2f7a4231ad96b64",
+  "last_updated": "2026-03-20T14:18:12.125384+00:00",
+  "plain_summary": "This bill creates a way for gun dealers and gun makers to fight back when the ATF makes decisions they don't like about their businesses. If the ATF says a gun dealer or manufacturer is breaking the rules, that business can now ask for their case to be heard by a judge. The ATF also has to answer questions from these businesses within 90 days. While the business is fighting the ATF's decision, the ATF cannot punish them until the case is finished.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Administrative remedies",
+    "Department of Justice",
+    "Firearms and explosives",
+    "Judicial review and appeals",
+    "Licensing and registrations",
+    "Manufacturing",
+    "Retail and wholesale trades"
+  ],
+  "sponsor_name": "Rep. Crenshaw, Dan [R-TX-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gun dealer rights",
+    "ATF appeals",
+    "gun store protection",
+    "firearm business lawsuits",
+    "gun manufacturer defense",
+    "ATF decisions court",
+    "gun business legal help",
+    "firearm dealer appeals",
+    "gun shop court cases",
+    "ATF punishment delay"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the ATF Accountability Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-procedures-for-appealing-certain-bureau-of-alcohol-tobacco-firearms-and-explosives-rulings-or-determinations",
+      "title": "Section 2 Procedures for Appealing Certain Bureau of Alcohol, Tobacco, Firearms and Explosives Rulings or Determinations",
+      "text": "This section changes the law to give gun dealers and manufacturers new ways to challenge decisions made by the ATF (Bureau of Alcohol, Tobacco, Firearms, and Explosives). When a licensed gun manufacturer, importer, or dealer asks the Attorney General a question about their business or how to classify a product, the Attorney General must give a written answer within ninety days. If the gun business owner does not like this answer, they can appeal it. They have thirty days to ask a local ATF Director to review the decision. The Director must make a decision within thirty days and send it back in writing. The gun business owner can also request a formal hearing with an administrative law judge (a special type of judge who works for the government). They have seventy five days from the original decision to ask for this hearing, or fourteen days after getting the Director's decision, whichever comes later. The judge must schedule a hearing within ninety days at a place that is convenient for the business owner. The judge must give at least ten days notice before the hearing. The hearing follows the same rules as other government hearings. Within ninety days after the hearing ends, the judge must write a decision that explains the facts, the legal reasoning, and whether the original ATF decision was right or wrong. The judge must send copies of this decision to everyone involved. Any final decision from these appeals becomes the official government position and can be challenged in regular federal court. While an appeal is happening, the original ATF decision does not take effect until all appeals and court cases are finished. This new appeal process applies to all ATF decisions made before, during, or after this law goes into effect.",
+      "word_offset": 14,
+      "char_offset": 79
+    }
+  ]
+}

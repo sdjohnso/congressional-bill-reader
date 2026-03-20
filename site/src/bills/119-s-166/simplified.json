@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-s-166",
+  "title": "Justice for Fallen Law Enforcement Act",
+  "short_title": "Justice for Fallen Law Enforcement Act",
+  "congress": 119,
+  "bill_number": "S.166",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "a5cedb5d7b284b4b",
+  "last_updated": "2026-03-20T13:46:05.745169+00:00",
+  "plain_summary": "This bill makes the punishments much harder for people who hurt or kill police officers and other law enforcement workers. If someone seriously hurts an officer, they must go to prison for at least twenty years. If someone kills an officer, it will be treated as first degree murder, which is the most serious type of murder charge. The top law enforcement official in the country must tell Congress in three years how well these new tough rules are working.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Assault and harassment offenses",
+    "Congressional oversight",
+    "Criminal procedure and sentencing",
+    "Law enforcement officers",
+    "Violent crime"
+  ],
+  "sponsor_name": "Sen. Tillis, Thomas [R-NC]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "police officer protection",
+    "killing cops punishment",
+    "attacking police penalties",
+    "law enforcement safety",
+    "police officer murder",
+    "hurting police officers",
+    "cop killer sentences",
+    "police violence punishment",
+    "minimum prison time",
+    "protecting police officers",
+    "police officer assault",
+    "tougher sentences police"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Justice for Fallen Law Enforcement Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-crimes",
+      "title": "Section 2  Crimes",
+      "text": "This section changes the federal criminal code to create tougher punishments for crimes against police officers. First, it adds new rules for assaulting law enforcement officers. If someone seriously hurts a federal law enforcement officer, or hurts a state or local police officer using something that crossed state lines or planning the attack using interstate commerce (business or communication across state borders), they must go to prison for at least twenty years. Second, it creates new rules for murdering law enforcement officers. If someone kills a federal law enforcement officer, or kills a state or local police officer using a weapon that crossed state lines or planning the murder using interstate commerce, they will be punished the same way as someone who commits first degree murder under federal law.",
+      "word_offset": 12,
+      "char_offset": 67
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-report-required",
+      "title": "Section 3  Report Required",
+      "text": "Within three years after this law takes effect, the Attorney General (the top federal law enforcement official) must write a report for Congress. The report must explain how many criminal cases were prosecuted using the new rules created by this law. The report goes to the judiciary committees in both the Senate and House of Representatives.",
+      "word_offset": 141,
+      "char_offset": 888
+    }
+  ]
+}

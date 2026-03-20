@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hr-504",
+  "title": "Miccosukee Reserved Area Amendments Act",
+  "short_title": "Miccosukee Reserved Area Amendments Act",
+  "congress": 119,
+  "bill_number": "HR.504",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "On motion to refer the bill and the accompanying veto message to the Committee on Natural Resources.",
+  "version_hash": "ce38eb7739307cf4",
+  "last_updated": "2026-03-20T13:02:20.566191+00:00",
+  "plain_summary": "This law makes the Miccosukee Reserved Area in Florida's Everglades National Park bigger by adding a place called Osceola Camp. The Miccosukee Reserved Area is special land set aside for the Miccosukee Tribe of Indians. After this change, the Secretary of the Interior must work with the tribe to protect the buildings at Osceola Camp from flood damage. They have two years to figure out how to keep the structures safe from flooding.",
+  "current_status": "vetoed",
+  "status_date": "2025-12-29",
+  "last_action_date": "2026-01-08",
+  "last_action_text": "The Chair directed the Clerk to notify the Senate of the action of the House.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": false,
+  "vetoed": true,
+  "policy_area": "Native Americans",
+  "subjects": [
+    "Floods and storm protection",
+    "Florida",
+    "Geography and mapping",
+    "Indian lands and resources rights"
+  ],
+  "sponsor_name": "Rep. Gimenez, Carlos A. [R-FL-28]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Miccosukee tribe",
+    "Everglades National Park",
+    "Florida Indian reservation",
+    "tribal land expansion",
+    "Osceola Camp",
+    "flood protection buildings",
+    "Native American land rights",
+    "Everglades flooding",
+    "Indian tribe property",
+    "Florida tribal territory"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Miccosukee Reserved Area Amendments Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-miccosukee-reserved-area-addition",
+      "title": "Section 2  Miccosukee Reserved Area Addition",
+      "text": "This section changes an existing law called the Miccosukee Reserved Area Act. It adds new land to the Miccosukee Reserved Area. The new land is called Osceola Camp and is part of Everglades National Park. This area is shown on a specific map made in July two thousand and twenty three. The map is numbered one hundred sixty slash one hundred eighty eight thousand four hundred forty three. Copies of this map must be kept where the public can see them at National Park Service offices. The map must also be filed with the right officials in Miami-Dade County and with the Miccosukee Tribe.",
+      "word_offset": 11,
+      "char_offset": 68
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-protection-of-the-osceola-camp-from-flooding",
+      "title": "Section 3  Protection of the Osceola Camp from Flooding",
+      "text": "This section adds a new requirement to the Miccosukee Reserved Area Act. The Secretary of the Interior must work with the Miccosukee Tribe to protect buildings in Osceola Camp from flooding. The Secretary has two years from when this law is passed to take the right actions to prevent flood damage to structures in this area.",
+      "word_offset": 115,
+      "char_offset": 658
+    }
+  ]
+}

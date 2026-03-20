@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-448",
+  "title": "Silver Cliff Community Act",
+  "short_title": "Silver Cliff Community Act",
+  "congress": 119,
+  "bill_number": "HR.448",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "8bebb98d3a75230e",
+  "last_updated": "2026-03-20T12:13:02.558227+00:00",
+  "plain_summary": "This bill tells the United States Postal Service to give Silver Cliff, Colorado its own ZIP code. The ZIP code will be 81249 and it will only belong to Silver Cliff. The Postal Service has six months to make this happen. Right now Silver Cliff probably shares a ZIP code with other places, but this bill would give them their very own.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Colorado",
+    "Postal service"
+  ],
+  "sponsor_name": "Rep. Pettersen, Brittany [D-CO-7]",
+  "sponsor_party": "D",
+  "sponsor_state": "CO",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Silver Cliff Colorado",
+    "ZIP code",
+    "postal code",
+    "mail delivery",
+    "Colorado town",
+    "post office",
+    "mailing address",
+    "USPS",
+    "mail service",
+    "small town postal service"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Silver Cliff Community Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-single-unique-zip-code-for-silver-cliff-colorado",
+      "title": "Section 2 Single, Unique ZIP Code for Silver Cliff, Colorado",
+      "text": "Within one hundred eighty days after this law is passed, the United States Postal Service must create a special ZIP code just for Silver Cliff, Colorado. This ZIP code will be number eighty-one thousand two hundred forty-nine. Only the town of Silver Cliff will use this ZIP code, and no other places will share it.",
+      "word_offset": 10,
+      "char_offset": 55
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "bill_id": "119-hres-20",
+  "title": "Establishing the Select Committee on Electoral Reform.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.20",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Rules.",
+  "version_hash": "d81595fbadea6b0b",
+  "last_updated": "2026-03-20T14:25:53.349864+00:00",
+  "plain_summary": "This bill creates a special 14-member committee in Congress to study how we elect members of the House and Senate. The committee will look at different ways to vote, like ranked choice voting where you pick your first, second, and third choices, having multiple representatives from each district, and changing how primary elections work. They will listen to experts and write a report with their ideas within one year. The goal is to see if different voting methods could make Congress work better for Americans.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Referred to the House Committee on Rules.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "Congressional districts and representation",
+    "Congressional elections",
+    "Congressional operations and organization",
+    "Congressional oversight",
+    "Elections, voting, political campaign regulation",
+    "Legislative rules and procedure",
+    "Members of Congress"
+  ],
+  "sponsor_name": "Rep. Perez, Marie Gluesenkamp [D-WA-3]",
+  "sponsor_party": "D",
+  "sponsor_state": "WA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "voting reform",
+    "election changes",
+    "ranked choice voting",
+    "congressional elections",
+    "how we vote",
+    "voting methods",
+    "election committee",
+    "congress voting",
+    "primary elections",
+    "voting districts",
+    "election reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-establishment",
+      "title": "Section 1 Establishment",
+      "text": "This resolution creates a special committee called the Select Committee on Electoral Reform.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-composition",
+      "title": "Section 2 Composition",
+      "text": "The Speaker of the House will choose fourteen members for this committee. Seven of these members will be chosen after talking with the minority leader. The Speaker will pick one member to be a co-chair of the committee. The minority leader will pick one member to be the other co-chair. If any member leaves the committee, they will be replaced in the same way they were originally chosen.",
+      "word_offset": 13,
+      "char_offset": 93
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-duties",
+      "title": "Section 3 Duties",
+      "text": "The committee has several jobs. First, it will study how Americans currently elect members of Congress. Second, it will look at different ways to run elections and figure out how these changes might make Congress work better and be more accountable to voters. The committee will examine using districts with multiple representatives and proportional representation, changing the total number of House members, using different voting methods like ranked choice voting and cumulative voting, allowing parties to share candidates through fusion voting, holding open primaries where all voters can participate regardless of party, and creating independent groups to draw district maps. Third, the committee will hold hearings to listen to experts including political scientists, current and former Congress members, officials from states and local governments that have tried these different election methods, and officials from other countries that use these methods. Fourth, the committee will study federal laws that might prevent states from trying new election systems, including the Uniform Congressional District Act from nineteen sixty-seven that requires states to use single-member districts. The committee must write a final report with recommendations and give it to Congress and the President within one year of its first meeting.",
+      "word_offset": 81,
+      "char_offset": 483
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-meetings",
+      "title": "Section 4 Meetings",
+      "text": "The committee must hold its first meeting within thirty days after all members are chosen. After that, meetings will happen when the co-chairs call for them or when a majority of members want to meet. Twelve members must be present to make official decisions, but fewer members can hold hearings.",
+      "word_offset": 277,
+      "char_offset": 1823
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-rules-and-procedures",
+      "title": "Section 5 Rules and Procedures",
+      "text": "The committee will follow most of the same rules as regular House committees. However, there are some differences. Serving on this committee will not count against limits on how many committees a member can join. The committee cannot issue subpoenas or depositions on its own but can recommend them to regular committees. The committee cannot create or vote on actual laws or resolutions.",
+      "word_offset": 327,
+      "char_offset": 2120
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-funding",
+      "title": "Section 6 Funding",
+      "text": "The committee can use House staff to help with its work and can apply for temporary funding according to House rules.",
+      "word_offset": 390,
+      "char_offset": 2509
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-termination",
+      "title": "Section 7 Termination",
+      "text": "The committee will end thirty days after it submits its final report.",
+      "word_offset": 411,
+      "char_offset": 2627
+    }
+  ]
+}

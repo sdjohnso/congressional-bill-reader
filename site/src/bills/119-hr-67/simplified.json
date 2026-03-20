@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-67",
+  "title": "Modernizing Retrospective Regulatory Review",
+  "short_title": "Modernizing Retrospective Regulatory Review",
+  "congress": 119,
+  "bill_number": "HR.67",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Ordered to be Reported by the Yeas and Nays: 24 - 18.",
+  "version_hash": "22a75168b541c27b",
+  "last_updated": "2026-03-20T14:54:31.577499+00:00",
+  "plain_summary": "This bill tells government agencies they must use new technology like computers and artificial intelligence to review all their old rules and regulations. The agencies have to make plans for using this technology to find rules that are outdated, don't work well, or conflict with each other. The Office of Information and Regulatory Affairs will give agencies instructions on how to do this within 18 months. The bill also requires the government to make sure all regulations are available online in a format that computers can easily read and understand.",
+  "current_status": "committee_reported",
+  "status_date": "2025-05-21",
+  "last_action_date": "2025-05-21",
+  "last_action_text": "Ordered to be Reported by the Yeas and Nays: 24 - 18.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Computers and information technology",
+    "Congressional oversight",
+    "Government information and archives"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government rules review",
+    "artificial intelligence regulations",
+    "outdated laws",
+    "computer technology government",
+    "old regulations cleanup",
+    "AI review government rules",
+    "modernize government regulations",
+    "digital government records",
+    "automated rule review",
+    "government efficiency technology"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Modernizing Retrospective Regulatory Review Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-improving-retrospective-reviews",
+      "title": "Section 2 Improving Retrospective Reviews of Existing Federal Regulations",
+      "text": "This section requires government agencies to better review their existing rules and regulations. First, within one hundred eighty days after this law passes, the Director of the Office of Management and Budget must work with other government officials to write a report for Congress. This report must explain how well the government is doing at making agency rules available in a format that computers can easily read and process. The report must also include information about whether the electronic Code of Federal Regulations is recognized as an official legal version. Second, within eighteen months after this law passes, the Director must create guidance to help agency leaders learn how to use technology like computer algorithms and artificial intelligence to review their existing rules more efficiently and accurately. This technology should help agencies find rules that are outdated, don't work well, are too burdensome, repeat other rules, have errors, or conflict with each other. The guidance must also explain how to train agency workers to use this technology. Third, within two years after this law passes, each agency leader must submit a detailed plan to the Administrator and Congress. This plan must explain how the agency will use the technology guidance to review its rules. The plan must identify which rules the agency is required by law to review or thinks would benefit from review. The plan can include any other information the agency thinks is helpful. Fourth, within one hundred eighty days after submitting their plan, each agency must start carrying out their strategy for reviewing existing rules. The section also defines important terms used throughout. An agency means a government department or office as defined in federal law. Machine-readable means a format that computers can process as defined in federal law. A retrospective review means looking back at rules after they have already been put in place to see if they are working properly or need changes.",
+      "word_offset": 11,
+      "char_offset": 76
+    }
+  ]
+}

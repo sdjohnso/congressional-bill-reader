@@ -1,0 +1,99 @@
+{
+  "bill_id": "119-hr-653",
+  "title": "Protect Minors from Medical Malpractice Act of 2025",
+  "short_title": "Protect Minors from Medical Malpractice Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.653",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, Education and Work",
+  "version_hash": "7859b47860877ef5",
+  "last_updated": "2026-03-20T14:13:02.532922+00:00",
+  "plain_summary": "This bill lets people sue doctors for up to 30 years if those doctors gave them gender-transition treatments like hormones or surgery when they were under 18 years old. Gender-transition treatments are medical procedures that change someone's body to match a different gender than they were born with. The bill says no federal law can force doctors to do these treatments on minors. If a state makes doctors perform these treatments on kids, that state will lose federal health money. The bill does not apply to treatments for certain medical conditions or life-threatening emergencies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, Education and Workforce, Natural Resources, and Ways and Means, for a period to be subsequently de",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Child health",
+    "Civil actions and liability",
+    "Health care quality",
+    "Health personnel",
+    "Health programs administration and funding",
+    "Sex, gender, sexual orientation discrimination",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Babin, Brian [R-TX-36]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gender transition",
+    "minors surgery",
+    "hormone therapy kids",
+    "transgender children",
+    "medical malpractice",
+    "sue doctors",
+    "gender affirming care",
+    "transition treatments",
+    "federal funding healthcare",
+    "doctors liability",
+    "children gender surgery"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protect Minors from Medical Malpractice Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-private-right-of-action",
+      "title": "Section 2  Private Right of Action for a Gender-Transition Procedure Performed on a Minor",
+      "text": "If a doctor performs a gender-transition procedure on someone under eighteen years old, that doctor can be sued if the person gets hurt from the procedure. The hurt can be physical, mental, emotional, or related to how the body works. The person who got the procedure can sue the doctor if certain conditions are met. These conditions include things like if the doctor or patient crossed state lines, if money was paid across state lines, if the doctor used the internet or mail to communicate about it, or if medical tools that came from other states were used. The person who got the procedure or someone acting for them like a legal guardian can sue up to thirty years after they turn eighteen years old. They can ask the court for orders to stop the doctor from doing more procedures, money to pay for damages, extra money as punishment, and money to pay their lawyer.",
+      "word_offset": 14,
+      "char_offset": 80
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-preserving-freedom-of-conscience",
+      "title": "Section 3  Preserving Freedom of Conscience and Medical Judgement for Medical Providers",
+      "text": "No federal law can force a doctor to perform a gender-transition procedure if they do not want to do it.",
+      "word_offset": 169,
+      "char_offset": 953
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-prohibition-on-funding",
+      "title": "Section 4  Prohibition on Funding for Certain States",
+      "text": "If a state forces doctors to perform gender-transition procedures on people in that state, the federal government will not give that state any money from the Department of Health and Human Services.",
+      "word_offset": 189,
+      "char_offset": 1058
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-definitions",
+      "title": "Section 5  Definitions",
+      "text": "This section explains what certain words mean in this law. Biological sex means whether someone is male or female based on their genes, hormones, and body parts they were born with, not how they feel about their identity. Gender-transition procedure means giving drugs to block puberty, giving hormones from the opposite sex, or doing surgery to change someone's body to match how they feel about their identity when that feeling does not match their biological sex. This does not include medical care for people born with unclear biological sex characteristics, people with unusual genetic conditions, treating problems caused by previous procedures, or emergency procedures needed to save someone's life or prevent serious harm to their body. Medical practitioner means a person who is legally allowed to provide medical care in a state.",
+      "word_offset": 221,
+      "char_offset": 1257
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-effective-date",
+      "title": "Section 6  Effective Date",
+      "text": "This law starts working on the day it is officially passed.",
+      "word_offset": 353,
+      "char_offset": 2097
+    }
+  ]
+}

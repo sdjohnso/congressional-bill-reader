@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-30",
+  "title": "Preventing Violence Against Women by Illegal Aliens Act",
+  "short_title": "Preventing Violence Against Women by Illegal Aliens Act",
+  "congress": 119,
+  "bill_number": "HR.30",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "38a0968037db9bee",
+  "last_updated": "2026-03-20T12:12:50.860468+00:00",
+  "plain_summary": "This bill makes it harder for people who have committed certain crimes to enter the United States and makes it easier to remove them if they are already here. The crimes include sex offenses, domestic violence, stalking, child abuse, child neglect, and violating protection orders. If someone has been convicted of these crimes or admits to doing them, they cannot come into the country. People already living in the United States who are not citizens can be deported if they commit these crimes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-17",
+  "last_action_date": "2025-01-17",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Assault and harassment offenses",
+    "Child safety and welfare",
+    "Crimes against children",
+    "Domestic violence and child abuse",
+    "Immigration status and procedures",
+    "Sex offenses"
+  ],
+  "sponsor_name": "Rep. Mace, Nancy [R-SC-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "SC",
+  "cosponsor_count": 60,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigration deportation",
+    "domestic violence deportation",
+    "sex offender deportation",
+    "illegal immigrant crimes",
+    "violence against women immigration",
+    "criminal immigrant removal",
+    "immigration crime prevention",
+    "deporting violent criminals",
+    "immigrant background checks",
+    "immigration enforcement domestic violence",
+    "removing criminal aliens"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Preventing Violence Against Women by Illegal Aliens Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-inadmissibility-and-deportability-related-to-sex-offenses-domestic-violence-stalking-child-abuse-or-violation-of-protection-order",
+      "title": "Section 2 Inadmissibility and Deportability Related to Sex Offenses, Domestic Violence, Stalking, Child Abuse, or Violation of Protection Order",
+      "text": "This section changes the Immigration and Nationality Act to add new reasons why people from other countries cannot be allowed into the United States and why they can be removed from the country. The law adds two main categories of crimes. First, sex offenses are now included as reasons to deny entry. Any person from another country who has been found guilty of a sex crime, admits to committing a sex crime, or admits to doing things that make up the basic parts of a sex crime cannot be allowed into the United States. Sex offense is defined the same way as in the Adam Walsh Child Protection and Safety Act. Second, domestic violence and related crimes are also grounds for denial of entry. This includes crimes of domestic violence, stalking, child abuse or neglect or abandonment, and violating protection orders. A protection order is a legal document that helps protect someone from threats, harassment, or physical harm. For people already in the United States, the law also makes it easier to remove them from the country for these same crimes. The definition of domestic violence is expanded to match the definition used in federal crime laws, regardless of whether local areas receive federal money for fighting these crimes. Anyone convicted of a sex offense can also be removed from the United States under this new law.",
+      "word_offset": 14,
+      "char_offset": 84
+    }
+  ]
+}

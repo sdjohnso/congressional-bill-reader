@@ -1,0 +1,88 @@
+{
+  "bill_id": "119-s-172",
+  "title": "Stopping Adversarial Tariff Evasion Act",
+  "short_title": "Stopping Adversarial Tariff Evasion Act",
+  "congress": 119,
+  "bill_number": "S.172",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Finance.",
+  "version_hash": "0973090dded3e6f1",
+  "last_updated": "2026-03-20T16:00:30.874401+00:00",
+  "plain_summary": "This bill changes the rules for where imported goods come from when the government takes action against unfair trade. If a company from an enemy country like China, Russia, Iran, North Korea, Cuba, or Venezuela owns or controls a business that makes products in another country, those products will be treated as if they came directly from the enemy country. This means companies cannot avoid trade penalties by simply moving their factories to different countries while still being controlled by adversary nations. The new rule helps prevent countries from getting around trade enforcement by using other countries as middlemen.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Foreign Trade and International Finance",
+  "subjects": [
+    "Asia",
+    "Caribbean area",
+    "China",
+    "Cuba",
+    "Europe",
+    "Iran",
+    "Latin America",
+    "Middle East",
+    "North Korea",
+    "Russia",
+    "Trade agreements and negotiations",
+    "Trade restrictions",
+    "Venezuela"
+  ],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "trade war",
+    "tariff avoidance",
+    "China trade penalties",
+    "enemy country businesses",
+    "factory relocation loopholes",
+    "foreign ownership rules",
+    "trade enforcement",
+    "adversary nations",
+    "manufacturing outsourcing",
+    "import restrictions"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Stopping Adversarial Tariff Evasion Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-clarification-of-country-of-origin-criteria-for-enforcement-action-under-trade-agreements-or-in-response-to-certain-foreign-trade-practices",
+      "title": "Section 2  Clarification of Country of Origin Criteria for Enforcement Action Under Trade Agreements or in Response to Certain Foreign Trade Practices",
+      "text": "This section changes how the government decides where imported goods come from when taking trade actions. If the Trade Representative takes action against an adversary country, that action will also apply to any goods that were made, manufactured, or had their final assembly done by an adversary party or by a company owned or controlled by an adversary party. These goods will be treated as if they came from the adversary country itself. The term control means the same thing as defined in federal regulation eight hundred point two zero eight of title thirty one. A company is considered owned or controlled by an adversary party if at least twenty five percent of its ownership has been held by adversary parties at any time in the past twelve months. This includes ownership through joint business arrangements or financial contracts that give similar returns. Foreign adversary countries are China, Russia, Iran, North Korea, Cuba, and Venezuela while Nicholas Maduro is president. A foreign adversary party includes the government of an adversary country and its agencies or officials, any company organized under the laws of an adversary country, any company with headquarters in an adversary country, and any company heavily involved in China's industrial policies or military civilian fusion strategy by taking funding or services from China for these purposes.",
+      "word_offset": 11,
+      "char_offset": 68
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-clarification-of-country-of-origin-criteria-for-enforcement-action-by-president-after-determination-of-import-injury",
+      "title": "Section 3  Clarification of Country of Origin Criteria for Enforcement Action by President After Determination of Import Injury",
+      "text": "This section applies the same rules when the President takes action after finding that imports are hurting American businesses. Any action taken will apply to goods that were made, manufactured, or had their final assembly done by an adversary party or by a company owned or controlled by an adversary party. These goods will be treated as if they came from an adversary country. The definitions are the same as in section two. Control has the same meaning as in federal regulation eight hundred point two zero eight of title thirty one. A company is owned or controlled by an adversary party if at least twenty five percent of its ownership has been held by adversary parties at any time in the past twelve months through direct ownership, joint ventures, or financial contracts. Foreign adversary countries are China, Russia, Iran, North Korea, Cuba, and Venezuela while Nicholas Maduro is president. Foreign adversary parties include governments of adversary countries and their agencies, companies organized under adversary country laws, companies with headquarters in adversary countries, and companies heavily involved in China's industrial policies or military civilian fusion strategy.",
+      "word_offset": 229,
+      "char_offset": 1441
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-clarification-of-country-of-origin-criteria-for-enforcement-action-to-safeguard-national-security",
+      "title": "Section 4  Clarification of Country of Origin Criteria for Enforcement Action to Safeguard National Security",
+      "text": "This section applies the same rules when the President takes action to protect national security. Any action taken will apply to goods that were made, manufactured, or had their final assembly done by an adversary party or by a company owned or controlled by an adversary party. These goods will be treated as if they came from an adversary country. The same definitions apply as in the previous sections. Control means the same thing as in federal regulation eight hundred point two zero eight of title thirty one. A company is owned or controlled by an adversary party if at least twenty five percent of its ownership has been held by adversary parties at any time in the past twelve months through ownership stakes, joint ventures, or financial agreements. Foreign adversary countries are China, Russia, Iran, North Korea, Cuba, and Venezuela while Nicholas Maduro is president. Foreign adversary parties include governments of these countries and their agencies, companies organized under their laws, companies with headquarters in these countries, and companies heavily involved in China's industrial policies or military civilian fusion strategy by receiving funding or services from China.",
+      "word_offset": 415,
+      "char_offset": 2635
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-hr-48",
+  "title": "Ultrasound Informed Consent Act",
+  "short_title": "Ultrasound Informed Consent Act",
+  "congress": 119,
+  "bill_number": "HR.48",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "1e433d93901626db",
+  "last_updated": "2026-03-20T11:55:01.989667+00:00",
+  "plain_summary": "This bill requires doctors to do an ultrasound before performing an abortion and show the woman the images. The doctor must explain what is shown in the ultrasound, including the size of the fetus and if there is a heartbeat. Women do not have to look at the images if they do not want to, and the rule does not apply if the woman's life is in danger. Doctors who do not follow these rules can be fined up to $250,000 and women can sue them.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Civil actions and liability",
+    "Health information and medical records",
+    "Medical ethics",
+    "Medical tests and diagnostic methods",
+    "Sex and reproductive health",
+    "Women's health"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "ultrasound before abortion",
+    "abortion ultrasound requirement",
+    "mandatory ultrasound",
+    "show ultrasound images",
+    "fetus heartbeat",
+    "abortion informed consent",
+    "doctor abortion requirements",
+    "ultrasound abortion law",
+    "abortion procedure rules",
+    "prenatal ultrasound mandate"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Ultrasound Informed Consent Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amendment-to-the-public-health-service-act",
+      "title": "Section 2 Amendment to the Public Health Service Act",
+      "text": "This section adds new rules to an existing federal health law called the Public Health Service Act. The new rules are called Title Thirty-Four on Informed Consent. The new rules include several definitions. An abortion means any intentional use of tools, medicine, drugs, substances, devices, or methods to end the life of an unborn child or to end a pregnancy. This does not include procedures meant to save both mother and child during live birth, or to remove pregnancies that happen outside the uterus, or to remove a child who has already died from natural causes, accidents, or criminal attacks. An abortion provider means any person who is legally allowed to perform abortions under federal and state laws. An unborn child means a human being at any stage of development before birth. An unemancipated minor means a minor child who is still under the control and supervision of their parent or guardian as determined by state law. A woman means a female human being whether or not she is legally an adult. The new rules require that any abortion provider who works in activities that cross state lines or involve foreign trade must follow these requirements when they knowingly perform any abortion. Before a woman gives permission to have any part of an abortion performed, the abortion provider or someone working under their supervision must perform an ultrasound scan on the pregnant woman. They must explain at the same time what the ultrasound is showing. They must display the ultrasound images so the pregnant woman can see them. They must provide a complete medical description of the ultrasound images including the size of the embryo or fetus, any heart activity if it can be seen, and any outside body parts or inside organs if they can be seen. Nothing in these rules prevents a pregnant woman from looking away from the ultrasound images that must be shown and described to her. Neither the abortion provider nor the pregnant woman can be punished under this law if the woman chooses not to look at the ultrasound images. These rules do not apply to an abortion provider if the abortion is needed to save the life of a mother whose life is threatened by a physical disorder, physical illness, or physical injury, including a life-threatening physical condition caused by the pregnancy itself. When an abortion provider decides that an abortion is needed to save the life of a mother, the provider must include in the woman's medical file a truthful and accurate statement of the specific medical reasons that support this decision. The Attorney General can start a court case against any abortion provider who knowingly violates this law. The penalty can be up to one hundred thousand dollars for each violation in the first court case against that provider under this law. The penalty can be up to two hundred fifty thousand dollars for each violation in later court cases against that provider under this law. When a penalty is given, the Attorney General must notify the appropriate state medical licensing authority. A woman who had an abortion performed in violation of this law can start a court case against the abortion provider for any violation of this law to get actual and punitive damages. Actual damages are money damages that can be proven for all injuries.",
+      "word_offset": 10,
+      "char_offset": 60
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-preemption",
+      "title": "Section 3 Preemption",
+      "text": "Nothing in this law or the changes it makes should be understood to override any state law that establishes, puts into place, or continues disclosure requirements about abortion or penalties for failing to follow such requirements that are more extensive than those provided in this law.",
+      "word_offset": 566,
+      "char_offset": 3354
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-severability",
+      "title": "Section 4 Severability",
+      "text": "If any part of this law or the changes it makes, or any use of them, is found to be unconstitutional, the rest of this law and the changes it makes, and any other uses of them, will not be affected by that finding.",
+      "word_offset": 612,
+      "char_offset": 3642
+    }
+  ]
+}

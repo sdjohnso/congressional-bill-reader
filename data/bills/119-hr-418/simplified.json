@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-418",
+  "title": "Ensuring Accountability in Agency Rulemaking Act",
+  "short_title": "Ensuring Accountability in Agency Rulemaking Act",
+  "congress": 119,
+  "bill_number": "HR.418",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "688769373b8f18ba",
+  "last_updated": "2026-03-20T14:57:41.613747+00:00",
+  "plain_summary": "This bill changes how government agencies make new rules. Any new rule that goes through the normal public comment process must be started by a high-ranking official who was chosen by the President. The rule must also be signed by someone the President picked and the Senate approved. There are only a few exceptions for emergencies involving public safety or security. This is meant to make sure important officials are responsible for new government rules.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Federal officials"
+  ],
+  "sponsor_name": "Rep. Cline, Ben [R-VA-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 11,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government rules",
+    "agency regulations",
+    "presidential approval",
+    "rule making process",
+    "federal agencies",
+    "public comment",
+    "government accountability",
+    "presidential appointees",
+    "senate confirmation",
+    "regulatory oversight",
+    "executive control",
+    "bureaucratic responsibility"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Ensuring Accountability in Agency Rulemaking Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-rulemaking-requirements",
+      "title": "Section 2 Rulemaking Requirements",
+      "text": "This section sets new rules for how government agencies make regulations. First, any new regulation must be personally issued and signed by someone who was appointed by the President and approved by the Senate. Second, any new regulation project must be started by a senior appointee (a high-level official appointed by the President or someone with similar authority). There is one exception to these rules. The head of an agency can skip these requirements only if following them would hurt public safety or security. If they use this exception, they must tell the Administrator of the Office of Information and Regulatory Affairs why they are doing so. They must also publish this explanation in the Federal Register (the official government publication) while protecting safety, security, and privacy. Each agency head must make sure their agency follows these new rules. The Administrator will provide guidance on how to follow these rules and will check that agencies are doing so. These rules do not change the powers of the Director of the Office of Management and Budget when it comes to budget, administrative, or legislative matters. The section defines key terms. Administrator means the Administrator of the Office of Information and Regulatory Affairs in the Office of Management and Budget. Agency means what it says in section five hundred fifty one of title five of the United States Code. Rule means what it says in that same section, but does not include internal agency rules about organization, procedures, or practices that do not significantly affect people outside the agency. Senior appointee means someone appointed by the President, someone doing the job of an office that requires Presidential appointment, or a non career member of the Senior Executive Service or similar agency system.",
+      "word_offset": 12,
+      "char_offset": 77
+    }
+  ]
+}

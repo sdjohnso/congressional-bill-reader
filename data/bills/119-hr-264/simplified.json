@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-264",
+  "title": "Train EATS Act",
+  "short_title": "Train EATS Act",
+  "congress": 119,
+  "bill_number": "HR.264",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.",
+  "version_hash": "23e97e7c08721276",
+  "last_updated": "2026-03-20T14:16:32.576117+00:00",
+  "plain_summary": "The Train EATS Act requires Amtrak to offer better food options on train trips that last more than one day. Amtrak must provide both fancy dining car service and cheaper food choices for passengers. If first-class passengers are not using all the dining car seats, coach passengers can pay to use them too. The bill also says Amtrak must offer healthy meals and special meals for people with food allergies or other dietary needs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-10",
+  "last_action_date": "2025-01-10",
+  "last_action_text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Cohen, Steve [D-TN-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "TN",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Amtrak food",
+    "train dining car",
+    "train food options",
+    "passenger meal service",
+    "long distance train meals",
+    "healthy train food",
+    "allergy friendly train meals",
+    "coach dining access",
+    "train restaurant car",
+    "multi day train trips",
+    "affordable train food",
+    "special dietary needs trains"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Train Establishment of Appetizing Table Service Act or the Train EATS Act for short.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-food-and-beverage-service-requirements",
+      "title": "Section 2  Food and Beverage Service Requirements on Overnight Routes of Amtrak",
+      "text": "This section adds a new rule to the laws about Amtrak trains. The new rule says that on train trips that take more than one day, Amtrak must provide two types of food service. First, Amtrak must offer traditional dining when possible. Traditional dining means passengers sit at tables in a special dining car and are served meals by waiters. Second, Amtrak must offer all passengers a cheaper food option that costs less than traditional dining. If there are empty seats in the dining car after first class and business class passengers have been seated, Amtrak must let coach passengers use those seats for a fee. The first person to ask gets the first available seat. Traditional dining must include at least one healthy meal choice that follows the government's nutrition guidelines. If passengers ask ahead of time, Amtrak must also provide meals that meet special dietary needs like vegetarian or gluten-free options. The Transportation Secretary will write detailed rules about how to follow this law. A covered route means any Amtrak trip that starts on one day and ends on a different day. A healthy meal option means food that follows the Dietary Guidelines for Americans, which are nutrition rules set by the government.",
+      "word_offset": 20,
+      "char_offset": 112
+    }
+  ]
+}

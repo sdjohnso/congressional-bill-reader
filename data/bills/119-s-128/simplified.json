@@ -1,0 +1,118 @@
+{
+  "bill_id": "119-s-128",
+  "title": "SAVE Act",
+  "short_title": "SAVE Act",
+  "congress": 119,
+  "bill_number": "S.128",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Rules and Administration.",
+  "version_hash": "2960e116dfec35c6",
+  "last_updated": "2026-03-20T16:06:04.689334+00:00",
+  "plain_summary": "The SAVE Act requires people to show documents that prove they are US citizens when they register to vote in federal elections. States must check that voters are citizens and remove anyone who is not a citizen from their voter lists. The bill lists specific documents that count as proof of citizenship, like certain types of ID cards. If election workers register someone without proper proof of citizenship, they could face criminal charges or be sued.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Rules and Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Citizenship and naturalization",
+    "Civil actions and liability",
+    "Criminal procedure and sentencing",
+    "Election Assistance Commission",
+    "Elections, voting, political campaign regulation",
+    "Government information and archives",
+    "Immigration status and procedures",
+    "Licensing and registrations",
+    "Postal service",
+    "State and local government operations",
+    "Voting rights"
+  ],
+  "sponsor_name": "Sen. Lee, Mike [R-UT]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 49,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "voter ID requirements",
+    "proof of citizenship voting",
+    "voter registration documents",
+    "citizenship verification elections",
+    "voter eligibility proof",
+    "immigration status voting",
+    "voter roll cleanup",
+    "non-citizen voting prevention",
+    "election worker penalties",
+    "federal election requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Safeguard American Voter Eligibility Act or the SAVE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-ensuring-only-citizens-are-registered-to-vote",
+      "title": "Section 2 Ensuring Only Citizens Are Registered to Vote in Elections for Federal Office",
+      "text": "This section changes the National Voter Registration Act of nineteen ninety-three to require proof of citizenship when registering to vote in federal elections. The law defines documentary proof of citizenship as several types of official documents. These include identification cards that meet REAL ID Act requirements and show citizenship, valid US passports, military identification cards with service records showing birth in the United States, or government-issued photo identification cards showing birth in the United States. The law also accepts other government photo identification when presented with additional documents like certified birth certificates, hospital birth records, adoption decrees, consular reports of birth abroad, naturalization certificates, or American Indian cards with KIC classification. Under any voter registration method, states cannot accept applications for federal elections unless the person provides documentary proof of citizenship with their application. When someone applies for a driver's license and wants to register to vote at the same time, the state must verify citizenship and require documentary proof. For mail-in voter registration forms, applicants must present citizenship proof in person to election officials by the registration deadline or at the polling place on election day in states that allow same-day registration. Election officials must notify applicants about this requirement and provide instructions. States must make reasonable accommodations for people with disabilities to present their citizenship proof. Voter registration agencies must ask applicants if they are US citizens and require documentary proof before providing registration forms. States must establish programs to identify and remove non-citizens from voter rolls using information from federal agencies like the Department of Homeland Security and Social Security Administration. Federal agencies must provide this information to state election officials within twenty-four hours of a request at no charge. The Secretary of Homeland Security must investigate potential removal proceedings for non-citizens found registered to vote. The law creates criminal penalties for officials who register people without citizenship proof and for federal employees who help non-citizens attempt to register or vote. It allows private lawsuits against officials who violate these requirements. The law requires the Election Assistance Commission to provide guidance to states within ten days of enactment. States that are normally exempt from federal voter registration laws must still follow the citizenship requirements unless they adopt identical state requirements within sixty days before their first federal election after this law takes effect.",
+      "word_offset": 15,
+      "char_offset": 85
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-election-assistance-commission-guidance",
+      "title": "Section 3 Election Assistance Commission Guidance",
+      "text": "No later than ten days after this law is passed, the Election Assistance Commission must create and send guidance to each state's chief election official. This guidance must explain how to follow the new requirements in the National Voter Registration Act as changed by this law.",
+      "word_offset": 401,
+      "char_offset": 2865
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-inapplicability-of-paperwork-reduction-act",
+      "title": "Section 4 Inapplicability of Paperwork Reduction Act",
+      "text": "The Paperwork Reduction Act does not apply when creating or changing voter registration materials under the National Voter Registration Act as changed by this law. This includes creating or changing voter registration application forms.",
+      "word_offset": 447,
+      "char_offset": 3145
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-duty-of-secretary-of-homeland-security-to-notify-election-officials",
+      "title": "Section 5 Duty of Secretary of Homeland Security to Notify Election Officials of Naturalization",
+      "text": "When the Secretary of Homeland Security learns that someone has become a naturalized US citizen, the Secretary must quickly tell the chief election official in the state where that person lives.",
+      "word_offset": 481,
+      "char_offset": 3382
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-rule-of-construction-regarding-provisional-ballots",
+      "title": "Section 6 Rule of Construction Regarding Provisional Ballots",
+      "text": "Nothing in this law prevents someone from casting a provisional ballot in a federal election. If the person is later verified as a US citizen under the new citizenship verification process, their provisional ballot can be counted.",
+      "word_offset": 512,
+      "char_offset": 3577
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-rule-of-construction-regarding-effect-on-state-exemptions",
+      "title": "Section 7 Rule of Construction Regarding Effect on State Exemptions from Other Federal Laws",
+      "text": "Nothing in this law affects whether a state is exempt from requirements in other federal laws besides the National Voter Registration Act.",
+      "word_offset": 549,
+      "char_offset": 3808
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-effective-date",
+      "title": "Section 8 Effective Date",
+      "text": "This law and all its changes take effect on the day it is passed. The new requirements apply to all voter registration applications submitted on or after that date.",
+      "word_offset": 571,
+      "char_offset": 3947
+    }
+  ]
+}

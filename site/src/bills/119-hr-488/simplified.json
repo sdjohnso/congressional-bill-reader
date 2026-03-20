@@ -1,0 +1,103 @@
+{
+  "bill_id": "119-hr-488",
+  "title": "Combating Cartels on Social Media Act of 2025",
+  "short_title": "Combating Cartels on Social Media Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.488",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Counterterrorism and Intelligence.",
+  "version_hash": "7a6ae2b2454124d2",
+  "last_updated": "2026-03-20T15:25:16.110242+00:00",
+  "plain_summary": "This bill makes three government departments work together to stop criminal groups from using social media to recruit Americans for illegal activities. These criminal organizations use apps and websites to find people to help them with drug smuggling and human trafficking near the US border with Mexico. The departments must study how this recruitment happens and create a plan to stop it. They also have to report back to Congress regularly about what they are doing to solve this problem.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the Subcommittee on Counterterrorism and Intelligence.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Computer security and identity theft",
+    "Congressional oversight",
+    "Drug trafficking and controlled substances",
+    "Firearms and explosives",
+    "Fraud offenses and financial crimes",
+    "Human trafficking",
+    "Intellectual property",
+    "Intergovernmental relations",
+    "Internet, web applications, social media",
+    "Organized crime",
+    "Right of privacy",
+    "Smuggling and trafficking"
+  ],
+  "sponsor_name": "Rep. Ciscomani, Juan [R-AZ-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "social media recruitment",
+    "drug cartels online",
+    "border crime prevention",
+    "human trafficking apps",
+    "criminal groups social media",
+    "drug smuggling recruitment",
+    "cartel social media",
+    "online criminal recruitment",
+    "border security social media",
+    "trafficking prevention online"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Combating Cartels on Social Media Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law the following terms mean: Appropriate congressional committees means specific committees in the Senate and House that deal with homeland security, legal matters, and foreign affairs. Covered operator means the company or person who runs, creates, or publishes a covered service. Covered service means social media platforms, messaging apps that the Secretary of Homeland Security says criminal groups use, and online platforms where multiple people communicate in real time like gaming services that the Secretary says criminal groups use. Criminal enterprise means a continuing criminal enterprise as defined in existing drug law. Illicit activities means criminal activities that cross country borders including drug violations, drug trafficking, weapons trafficking, helping people illegally cross borders, human trafficking, computer crimes, stealing ideas and products, smuggling large amounts of cash, and washing money from these crimes. Transnational criminal organization means a group of people who work across different countries to get power, influence, or money through illegal activities while protecting themselves through corruption and international networks.",
+      "word_offset": 16,
+      "char_offset": 88
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-assessment-of-illicit-usage",
+      "title": "Section 3 Assessment of Illicit Usage",
+      "text": "Within one hundred eighty days after this law is passed, the Secretary of Homeland Security, the Attorney General, and the Secretary of State must work together to write a report for Congress. This report must describe how criminal organizations use social media and online services to recruit people in the United States to help with illegal activities happening in the United States, Mexico, or near the border. The report must also describe how these criminal groups use these online services to do illegal things like smuggling drugs, weapons, or people, especially children, and moving large amounts of money to support smuggling. Finally, the report must explain what the government is already doing to fight against criminal groups using these online services.",
+      "word_offset": 180,
+      "char_offset": 1277
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-strategy-to-combat-cartel-recruitment",
+      "title": "Section 4 Strategy to Combat Cartel Recruitment on Social Media and Online Platforms",
+      "text": "Within one year after this law is passed, the Secretary of Homeland Security, the Attorney General, and the Secretary of State must create a joint strategy called the National Strategy to Combat Illicit Recruitment Activity by Transnational Criminal Organizations on Social Media and Online Platforms. This strategy must fight against criminal organizations using social media and online services to recruit people in the United States for illegal activities. The strategy must include plans to improve cooperation between government agencies, create a way for people to voluntarily report criminal recruitment they see online, improve coordination between federal and local governments, increase intelligence gathering for law enforcement, build partnerships with other countries, increase outreach to young people in border communities about recruitment dangers, and detailed measures to protect people's privacy and civil rights while focusing on the criminal organizations rather than the people they try to recruit. The strategy cannot ask for new laws that have not been passed yet. The government must talk with many different department heads, the Secretary of Health and Human Services, the Secretary of Education, and representatives from border communities including local governments, civil rights experts, privacy experts, immigrant assistance groups, and youth outreach groups when creating this strategy. The government must start using this strategy within ninety days after giving it to Congress. Every six months for five years, they must report to Congress about how well the strategy is working, including describing their recommendations, how agencies are working together, and new threats from criminal organizations. Within two years, civil rights and privacy offices must write a report about how well they are protecting people's rights while carrying out this strategy. Before starting the strategy, the Secretary of Homeland Security must create rules following proper government rule making procedures.",
+      "word_offset": 301,
+      "char_offset": 2045
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-rule-of-construction",
+      "title": "Section 5 Rule of Construction",
+      "text": "Nothing in this law gives the Department of Homeland Security, the Department of Justice, or the Department of State any new legal powers beyond what they already have.",
+      "word_offset": 594,
+      "char_offset": 4076
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-no-additional-funds",
+      "title": "Section 6 No Additional Funds",
+      "text": "No extra money is approved to be spent to carry out this law.",
+      "word_offset": 622,
+      "char_offset": 4245
+    }
+  ]
+}

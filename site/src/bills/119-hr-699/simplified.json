@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-699",
+  "title": "No Taxpayer Funding for the U.N. Population Fund",
+  "short_title": "No Taxpayer Funding for the U.N. Population Fund",
+  "congress": 119,
+  "bill_number": "HR.699",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Foreign Affairs.",
+  "version_hash": "4febd2c0897ec06f",
+  "last_updated": "2026-03-20T14:29:38.879856+00:00",
+  "plain_summary": "This bill would stop the US government from giving any money to the United Nations Population Fund, which is the UN agency that deals with sexual and reproductive health issues. The government would not be allowed to give money to this organization directly or through other groups. This means no taxpayer money would go to support this UN agency's work. The bill applies to all government departments and agencies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Roy, Chip [R-TX-21]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 11,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "stop funding UN",
+    "no money to United Nations",
+    "defund UN population",
+    "taxpayer money United Nations",
+    "reproductive health funding",
+    "UN family planning",
+    "government spending UN",
+    "United Nations population fund",
+    "stop UN payments",
+    "defund international organizations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Taxpayer Funding for the U.N. Population Fund Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-united-states-contributions-to-the-united-nations-population-fund",
+      "title": "Section 2  Prohibition on United States Contributions to the United Nations Population Fund",
+      "text": "The United States government cannot use any money to give contributions to the United Nations Population Fund. This includes money from the Department of State and any other government department or agency. The government cannot give money directly to this organization or indirectly through other groups.",
+      "word_offset": 15,
+      "char_offset": 81
+    }
+  ]
+}

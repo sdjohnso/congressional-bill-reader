@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-85",
+  "title": "Small Business Flexibility Act",
+  "short_title": "Small Business Flexibility Act",
+  "congress": 119,
+  "bill_number": "HR.85",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "358190c873def7c0",
+  "last_updated": "2026-03-20T11:25:43.683025+00:00",
+  "plain_summary": "This bill changes the rules about how workers can share tips at their jobs. Right now, only workers who usually get tips from customers can share their tips with each other. This bill would let businesses create a second group where workers who normally get tips and workers who don't normally get tips can all share tips together. The workers who usually get tips would need to be paid at least minimum wage to be part of this second group.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Labor and Employment",
+  "subjects": [
+    "Wages and earnings"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "tip sharing",
+    "restaurant workers",
+    "server tips",
+    "minimum wage",
+    "workplace tips",
+    "employee tips",
+    "waitress pay",
+    "food service jobs",
+    "tip pooling",
+    "worker wages",
+    "restaurant pay rules",
+    "small business workers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Small Business Flexibility Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-tip-pooling",
+      "title": "Section 2 Tip Pooling",
+      "text": "This section changes the Fair Labor Standards Act to expand who can share tips at work. Currently, only workers who regularly get tips can put their tips together to share. This law would allow two groups of workers to share tips together. The first group is workers who normally get tips from customers. The second group includes both workers who normally get tips and get paid at least the minimum wage by their boss, and workers who do not normally get tips from customers. This means restaurants and other businesses could let all their workers share tips, not just the ones who usually receive them directly from customers.",
+      "word_offset": 10,
+      "char_offset": 59
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-69",
+  "title": "COLLUDE Act",
+  "short_title": "COLLUDE Act",
+  "congress": 119,
+  "bill_number": "S.69",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "version_hash": "bc3d4c6a0eef4ba2",
+  "last_updated": "2026-03-20T15:11:08.098684+00:00",
+  "plain_summary": "The COLLUDE Act makes big changes to the laws that protect websites from being sued for content posted by users. Right now, websites like Facebook and Twitter usually can't be blamed for what other people post on their sites. This bill says websites lose that protection if they remove or limit political posts after the government asks them to, unless it's for real law enforcement or national security reasons. The bill also makes it harder for websites to use these protections in court by making them prove they deserve the protection instead of automatically getting it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Sen. Schmitt, Eric [R-MO]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "social media censorship",
+    "government pressure websites",
+    "facebook twitter content removal",
+    "political posts deleted",
+    "website immunity laws",
+    "big tech accountability",
+    "online free speech",
+    "platform content moderation",
+    "government social media collusion",
+    "tech company protections",
+    "political bias online platforms",
+    "website lawsuit protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Curtailing Online Limitations that Lead Unconstitutionally to Democracy's Erosion Act or the COLLUDE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-content-moderation-creation-and-development-and-distribution",
+      "title": "Section 2. Content Moderation, Creation and Development, and Distribution",
+      "text": "This section changes Section 230 of the Communications Act of 1934. Section 230 is a law that protects websites and online services from being held responsible for content that users post. The changes work like this. First, the current protection still applies in most cases. No website or online service can be treated as the publisher or speaker of information that someone else provides. However, if someone sues a website or online service and claims they are responsible for user content, the website or service must prove they did not create or develop that specific content themselves. Second, websites and online services lose their legal protection in certain situations involving government pressure. They lose protection when they restrict access to content or make content less visible in a way that appears to target legitimate political speech or specific viewpoints. This loss of protection only happens if the website received a private communication from a government agency or from someone acting on behalf of the government, and that communication was sent only to that specific website and not to other entities. However, communications for legitimate law enforcement purposes or national security purposes do not count as the type of government pressure that causes loss of protection. The section also defines these terms. A legitimate law enforcement purpose means the communication helps a law enforcement agency investigate a criminal offense within their legal authority. A national security purpose means the communication relates to intelligence activities, code-breaking activities that affect national security, military command and control, weapons or weapons systems, or directly fulfilling a military or intelligence mission.",
+      "word_offset": 20,
+      "char_offset": 133
+    }
+  ]
+}

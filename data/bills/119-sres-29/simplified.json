@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-sres-29",
+  "title": "An original resolution expressing the sense of the Senate that the President of the United States possesses legal authority under existing law to take immediate and necessary action to secure the southwest border of the United States.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.29",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Committee on Homeland Security and Governmental Affairs. Original measure reported to Senate by Senator Paul with a prea",
+  "version_hash": "1c8f057198905cab",
+  "last_updated": "2026-03-20T14:32:16.805792+00:00",
+  "plain_summary": "This Senate resolution says the President already has the legal power to secure the southwest border with Mexico under current laws. The resolution includes statistics about border security and wants the President to take immediate action to stop illegal immigration. It asks the President to use existing powers to send asylum seekers back to Mexico and end policies that release immigrants into the US while they wait for court hearings. The resolution urges the President and Department of Homeland Security to make immigration more orderly and legal while protecting national security.",
+  "current_status": "introduced",
+  "status_date": "",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 5.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Presidents and presidential powers, Vice Presidents"
+  ],
+  "sponsor_name": "Sen. Paul, Rand [R-KY]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border security",
+    "mexico border",
+    "immigration control",
+    "asylum seekers",
+    "illegal immigration",
+    "border wall",
+    "immigration policy",
+    "homeland security",
+    "border patrol",
+    "immigration enforcement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution expresses the Senate's belief that the President of the United States has the legal power under current laws to take quick and needed actions to secure the southwest border of the United States.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Facts",
+      "text": "The Senate states these facts as reasons for this resolution. Since the Biden-Harris Administration began, nearly eleven million people have been caught trying to enter the United States illegally. U.S. Customs and Border Protection has caught almost four hundred suspected terrorists trying to enter the United States illegally between official entry points. They also encountered an additional one thousand five hundred eighty-seven suspected terrorists at official United States entry points and identified more than one million seven hundred thousand special interest aliens (people from countries that may pose security risks). Since October first, two thousand twenty-one, more than one hundred twenty thousand illegal aliens with criminal warrants or convictions were encountered along United States borders. This includes more than four thousand eight hundred illegal aliens who were convicted of assault, battery, or domestic violence, more than three thousand three hundred who were convicted of theft-related crimes, nearly one thousand four hundred who were convicted of sexual crimes, and nearly two hundred who were convicted of murder or manslaughter. Under section two hundred thirty-five of the Immigration and Nationality Act, the Department of Homeland Security can immediately return certain people seeking admission or asylum to neighboring foreign territory. Under section two hundred twelve of the same Act, the President has broad power to stop the entry of all aliens or to put any restrictions on alien entry that the President thinks is appropriate. This allows the President to bar entry of people whose admission could harm the interests of the United States. Under section two hundred eight of the same Act, the Department of Homeland Security can create additional limits and conditions that make an alien not eligible for asylum. This includes making asylum seekers not eligible if they enter or try to enter the United States across the southern border without first asking for protection from persecution or torture in at least one country other than their home country that they traveled through to get to the United States. The Remain in Mexico policy, also known as the Migrant Protection Protocols, was an effective measure that improved border security, helped discourage illegal entries, and made the United States safer.",
+      "word_offset": 35,
+      "char_offset": 211
+    },
+    {
+      "id": "s3",
+      "slug": "senate-resolution",
+      "title": "Senate's Resolution",
+      "text": "Therefore, the Senate confirms that the President has the authority under the Immigration and Nationality Act to take action to secure the southern border and protect the sovereignty and security of the United States. The Senate urges the President and the Secretary of Homeland Security to use all available legal authority to quickly restart or put in place policies and programs that will promote orderly and lawful entry at the border, discourage illegal immigration, and protect national security. This includes immediately removing illegal aliens, immediately returning illegal aliens to Mexico, restarting the Migrant Protection Protocols commonly known as Remain in Mexico or any very similar policy, ending the catch-and-release policy (letting people go while they wait for court hearings), ending abuses of humanitarian parole authority (special permission to enter for urgent humanitarian reasons), detaining people who cannot be admitted, making illegal aliens not eligible for asylum, using expedited removal authority (faster deportation processes), and eliminating taxpayer-funded benefits for illegal aliens.",
+      "word_offset": 394,
+      "char_offset": 2573
+    }
+  ]
+}

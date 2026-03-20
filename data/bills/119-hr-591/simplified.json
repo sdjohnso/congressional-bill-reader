@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-591",
+  "title": "Defending American Jobs and Investment Act",
+  "short_title": "Defending American Jobs and Investment Act",
+  "congress": 119,
+  "bill_number": "HR.591",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a ",
+  "version_hash": "31c59e09d73490aa",
+  "last_updated": "2026-03-20T15:43:31.230087+00:00",
+  "plain_summary": "This bill helps protect American workers and businesses from unfair foreign taxes. It requires the Treasury Secretary to make a list of countries that impose unfair taxes on Americans and American companies. When a country is on this list, the US can fight back by raising taxes on people and businesses from that country, stopping the government from buying things from them, and considering these unfair taxes when making trade deals. The goal is to pressure foreign countries to stop taxing Americans unfairly and protect American jobs and investments.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for considerat",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Foreign Trade and International Finance",
+  "subjects": [
+    "Capital gains tax",
+    "Congressional oversight",
+    "Congressional-executive branch relations",
+    "Employment taxes",
+    "Foreign and international corporations",
+    "Income tax rates",
+    "International law and treaties",
+    "Public contracts and procurement",
+    "Taxation of foreign income",
+    "Trade agreements and negotiations",
+    "U.S. and foreign investments"
+  ],
+  "sponsor_name": "Rep. Smith, Jason [R-MO-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 25,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "foreign tax retaliation",
+    "protect american jobs",
+    "unfair foreign taxes",
+    "trade war taxes",
+    "american workers protection",
+    "foreign countries taxing americans",
+    "treasury secretary foreign tax",
+    "government contracts foreign companies",
+    "american business protection",
+    "international tax disputes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Defending American Jobs and Investment Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-enforcement-of-remedies",
+      "title": "Section 2  Enforcement of Remedies Against Extraterritorial Taxes and Discriminatory Taxes",
+      "text": "This section adds a new rule to the tax code to fight back against unfair taxes that other countries put on American businesses and people. The Treasury Secretary must write reports every six months listing foreign countries that have unfair taxes. These unfair taxes include extraterritorial taxes (taxes that countries put on businesses based on their connections to other companies, not just their direct ownership) and discriminatory taxes (taxes that unfairly target foreign businesses or treat them worse than local businesses). Each report must describe these taxes, their rates, and when they started. If a country gets rid of these unfair taxes, the report must say when that happened. The Treasury Secretary must also talk with these foreign countries to ask them to remove these unfair taxes and warn them about the penalties America might use. If countries keep these unfair taxes, America can fight back by raising tax rates on people and businesses from those countries. The tax increases start at five percentage points in the first year and go up to twenty percentage points after three years. These higher taxes apply to income taxes and withholding taxes (taxes taken out of payments before they are sent). America can also stop buying goods and services from these countries for government use. The Treasury Secretary must consider these unfair taxes when deciding whether to make new tax treaties with these countries. Trade officials must also think about these taxes when making trade deals. The law defines extraterritorial taxes as taxes based on connections between companies rather than direct ownership. It defines discriminatory taxes as taxes on income from outside the country, taxes that do not allow businesses to subtract their costs, taxes that mainly target foreign companies, or taxes that the foreign country does not consider regular income taxes. The law does not count regular taxes like sales taxes, property taxes, or withholding taxes on certain types of payments. Foreign country means any country or territory that is not part of the United States. The Treasury Secretary can write rules to make this law work properly.",
+      "word_offset": 12,
+      "char_offset": 71
+    }
+  ]
+}

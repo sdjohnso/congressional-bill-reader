@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-hr-581",
+  "title": "Child Care Workforce and Facilities Act of 2025",
+  "short_title": "Child Care Workforce and Facilities Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.581",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "e33549347a5f451e",
+  "last_updated": "2026-03-20T11:18:35.473832+00:00",
+  "plain_summary": "This bill creates grants to help states and tribal groups solve child care problems in their communities. The money can be used to train more child care workers or to build and fix child care buildings in places that don't have enough child care options. The federal government will pay for half the cost of these programs and provide up to one hundred million dollars over seven years. The Department of Health and Human Services will run this grant program and decide which states and tribes get the money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Families",
+  "subjects": [
+    "Child care and development",
+    "Congressional oversight",
+    "Education programs funding",
+    "Higher education",
+    "Indian social and development programs",
+    "Student aid and college costs",
+    "Teaching, teachers, curricula",
+    "Vocational and technical education"
+  ],
+  "sponsor_name": "Rep. Harder, Josh [D-CA-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "child care funding",
+    "daycare grants",
+    "child care workers",
+    "daycare training",
+    "child care buildings",
+    "daycare facilities",
+    "child care shortage",
+    "daycare programs",
+    "child care support",
+    "daycare centers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Child Care Workforce and Facilities Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-child-care-workforce-and-facilities-grants",
+      "title": "Section 2 Child Care Workforce and Facilities Grants",
+      "text": "This section explains the definitions and rules for grants that help states expand child care workers and facilities. A child care desert means an area where there are not enough child care spots for the children who need them. It could be a place where there are more than three times as many children under five years old as there are child care spots available. It could also be a community that the state or tribe decides does not have enough good, affordable child care. A family child care provider is someone who takes care of children in their own home or a home like setting. A licensed family child care home is the place where a family child care provider works. Portable and stackable credentials are certificates or training that workers can use in different jobs and build on over time. The Secretary means the Secretary of Health and Human Services working with the Secretary of Education and Secretary of Labor. The Secretary will give competitive grants to states and tribal groups to help pay for projects that increase access to quality child care. There are two types of grants. The first type is a child care workforce grant to help train more child care workers in areas that need them. The second type is a child care facility grant to help build, expand, or fix up child care buildings including family child care homes. Grants can last up to five years. To get a grant, states and tribal groups must send in an application with a detailed plan. For workforce grants, the plan must explain how the project will help more people get certificates in child care or early childhood education. The plan must describe outreach to people who do not have college degrees and people who want to work with children but cannot afford college. The plan must show how the project will help people complete their education or training by paying for things like tuition, fees, textbooks, and equipment. The plan must explain how the project will increase good quality child care in areas that need it, make child care more affordable, and provide care during unusual hours like nights and weekends. For facility grants, the plan must explain how the project will build or improve child care buildings to create more spots for children. States and tribal groups can use up to ten percent of the grant money for administrative costs like managing the project. The federal government will pay fifty percent of the project costs. States and tribal groups must pay the other fifty percent with their own money or donations. The Secretary will study how well the grants work and report to Congress within two years after the first grant ends. The goal is to use this money to add to, not replace, other federal and state funding for child care programs.",
+      "word_offset": 17,
+      "char_offset": 96
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-authorization-of-appropriations",
+      "title": "Section 3 Authorization of Appropriations",
+      "text": "Congress approves spending up to one hundred million dollars total to carry out this law from fiscal year two thousand twenty five through fiscal year two thousand thirty one.",
+      "word_offset": 496,
+      "char_offset": 2853
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-433",
+  "title": "Department of Education Protection Act",
+  "short_title": "Department of Education Protection Act",
+  "congress": 119,
+  "bill_number": "HR.433",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "86f021eb587d5a91",
+  "last_updated": "2026-03-20T14:45:06.357619+00:00",
+  "plain_summary": "The Department of Education Protection Act is a law that stops the Department of Education from changing how it works. The Department cannot use any of its money to make itself smaller, fire workers, or change what it does. It must keep doing things the same way it was doing them on January 1, 2025. This means the Department has to stay the same size and keep all the same jobs and responsibilities it had before.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Appropriations",
+    "Department of Education",
+    "Executive agency funding and structure"
+  ],
+  "sponsor_name": "Rep. Hayes, Jahana [D-CT-5]",
+  "sponsor_party": "D",
+  "sponsor_state": "CT",
+  "cosponsor_count": 132,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "education department",
+    "department of education",
+    "protect education",
+    "education funding",
+    "education jobs",
+    "government education",
+    "education workers",
+    "save education department",
+    "education budget",
+    "federal education"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Department of Education Protection Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has found the following facts. First, Congress has an important job in deciding how federal agencies are set up and run. This includes watching over agencies, creating and organizing their offices, giving them specific jobs and powers, deciding how they hire people, approving their leaders, giving them money, and deciding whether they should continue to exist. Second, the Department of Education is currently organized to help students succeed and make sure all students have equal access to education. The Department has many offices and groups that do this work, including Federal Student Aid, the Institute of Education Sciences, the Office of the Chief Information Officer, the Office of Communications and Outreach, the Office for Civil Rights, the Office of Career Technical and Adult Education, the Office of the Deputy Secretary, the Office of English Language Acquisition, the Office of Elementary and Secondary Education, the Office of Finance and Operations, the Office of the General Counsel, the Office of Inspector General, the Office of Legislation and Congressional Affairs, the Office of Postsecondary Education, the Office of Planning Evaluation and Policy Development, the Office of the Secretary, the Office of Special Education and Rehabilitative Services, and the Office of the Under Secretary.",
+      "word_offset": 11,
+      "char_offset": 67
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibiting-use-of-appropriated-funds-to-reorganize-department-of-education",
+      "title": "Section 3  Prohibiting Use of Appropriated Funds to Reorganize Department of Education",
+      "text": "Even if other laws say something different, none of the money that Congress has already given to the Department of Education for this year can be used for any work that would reorganize the Department. This means the money cannot be used to spread out the Department's work to different places, reduce the number of people who work there, or change the Department's duties, setup, power, or how it works. The Department must stay organized and operate the same way it did on January first twenty twenty five.",
+      "word_offset": 212,
+      "char_offset": 1396
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-477",
+  "title": "MACH Act",
+  "short_title": "MACH Act",
+  "congress": 119,
+  "bill_number": "HR.477",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Science, Space, and Technology.",
+  "version_hash": "471696f98b302ef8",
+  "last_updated": "2026-03-20T12:12:34.076087+00:00",
+  "plain_summary": "The MACH Act lets NASA create a special program to test very fast aircraft that can fly at extremely high speeds. NASA can help test these aircraft but cannot pay to build or develop them. NASA must work with the military and airplane safety agencies and make plans for this research. The agency also cannot work with companies from countries like China, Russia, Iran, or North Korea because of security concerns. NASA must regularly tell Congress how the program is going.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Fong, Vince [R-CA-20]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 12,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "fast aircraft",
+    "high speed planes",
+    "NASA testing",
+    "supersonic aircraft",
+    "hypersonic planes",
+    "military aircraft testing",
+    "airplane research",
+    "space agency aircraft",
+    "experimental planes",
+    "aviation testing program",
+    "aircraft development",
+    "high speed flight"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Making Advancements in Commercial Hypersonics Act or the MACH Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-making-advancements-in-commercial-hypersonics-program",
+      "title": "Section 2 Making Advancements in Commercial Hypersonics Program",
+      "text": "NASA (the National Aeronautics and Space Administration) can create a new program called the Making Advancements in Commercial Hypersonics Program. This program would help companies and researchers test very fast aircraft and other technologies related to hypersonic flight. Hypersonic means flying at speeds much faster than the speed of sound. However, the program cannot pay for developing new technologies. It can only help with testing existing technologies. Within sixty days of this law being passed, NASA must create a plan for this program that matches their existing hypersonic research plans. NASA must make sure different parts of their organization work together to find technologies that could be tested through this program. NASA must also work with the Department of Defense and the Federal Aviation Administration on program activities like developing, testing, and checking high-speed aircraft and related technologies. NASA must send reports to several committees in Congress. The first report is due within ninety days and must describe what the program does and include the strategic plan. After that, NASA must send a report every year describing how the program is going, including how many tests were done in the past year and how many are planned for the next year. NASA cannot make agreements with foreign countries or companies that might be security risks. This includes any business that is mostly owned by a foreign government that could be a concern to national security. The law defines several important terms. An entity of concern means any organization that could pose security risks as defined in other laws. A foreign business entity means a company that is mostly owned or controlled by a foreign government that could be a security risk. A foreign country of concern means countries that are identified as potential security threats in other laws. High-speed aircraft means very fast planes as defined in aviation laws.",
+      "word_offset": 16,
+      "char_offset": 94
+    }
+  ]
+}

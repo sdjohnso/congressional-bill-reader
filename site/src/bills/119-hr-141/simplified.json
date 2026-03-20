@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-141",
+  "title": "Trailer Safety Improvement Act",
+  "short_title": "Trailer Safety Improvement Act",
+  "congress": 119,
+  "bill_number": "HR.141",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Highways and Transit.",
+  "version_hash": "131f9ea1e2785f90",
+  "last_updated": "2026-03-20T14:00:43.323959+00:00",
+  "plain_summary": "This bill says that states must teach people how to use trailers safely as part of their highway safety programs. The programs need to cover important topics like what safety equipment trailers need and how to take care of them properly. The focus is on smaller and medium-sized trailers that regular people might use. The goal is to help people learn the right way to use trailers so there are fewer accidents on the road.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-04",
+  "last_action_date": "2025-01-04",
+  "last_action_text": "Referred to the Subcommittee on Highways and Transit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [
+    "Motor carriers",
+    "Motor vehicles",
+    "Roads and highways",
+    "Transportation safety and security"
+  ],
+  "sponsor_name": "Rep. Burchett, Tim [R-TN-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "trailer safety",
+    "towing safety",
+    "trailer driving lessons",
+    "trailer education",
+    "safe towing",
+    "trailer accidents",
+    "trailer training",
+    "highway trailer safety",
+    "towing rules",
+    "trailer maintenance",
+    "pulling trailers safely"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Trailer Safety Improvement Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-trailer-safety-programs",
+      "title": "Section 2 Trailer Safety Programs",
+      "text": "This section changes an existing law about highway safety programs that states run. The change adds new requirements to these programs. States must now include education to prevent people from using light-duty and medium-duty trailers in the wrong way or in unsafe ways. Light-duty and medium-duty trailers are smaller trailers that regular people might pull behind their cars or trucks. States must also teach the public about safety equipment that trailers are required to have and about taking care of trailers to prevent problems.",
+      "word_offset": 10,
+      "char_offset": 59
+    }
+  ]
+}

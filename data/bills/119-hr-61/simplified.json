@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-61",
+  "title": "Ensuring United Families at the Border Act",
+  "short_title": "Ensuring United Families at the Border Act",
+  "congress": 119,
+  "bill_number": "HR.61",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "66fd4edefdb4e10a",
+  "last_updated": "2026-03-20T15:09:26.675598+00:00",
+  "plain_summary": "This bill lets the government keep immigrant children in detention centers with their parents when families are caught crossing the border illegally. It overrides an older court agreement that said children should be released from detention quickly or put in safer places. The bill says that when adults are charged only with the crime of crossing the border illegally, they and their children must be held together in the same facility. It also stops states from requiring these detention centers to get special licenses to hold children and families.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Child safety and welfare",
+    "Detention of persons",
+    "Family relationships",
+    "Immigrant health and welfare",
+    "Immigration status and procedures",
+    "Licensing and registrations",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigrant families detention",
+    "children border detention",
+    "family separation border",
+    "immigrant children held with parents",
+    "border crossing families",
+    "detention centers children",
+    "immigrant family units",
+    "border security families",
+    "keeping families together immigration",
+    "children immigration detention"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law may be called the Ensuring United Families at the Border Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-clarification-of-standards-for-family-detention",
+      "title": "Section 2  Clarification of Standards for Family Detention",
+      "text": "This section changes an existing law called the William Wilberforce Trafficking Victims Protection Reauthorization Act of two thousand and eight. It adds new rules about holding immigrant children in detention facilities. The new rule says that when an immigrant child comes to the United States with a parent or guardian, the government can hold that child in detention just like they hold adults. There is no rule that says the child should not be held. The Department of Homeland Security must keep families together when they hold them. This applies to people who are charged only with illegally entering the United States and who came with their children who are under eighteen years old. The parent and child must be held in the same place. Congress believes these changes satisfy the requirements of a court agreement called the Flores Settlement Agreement from nineteen ninety seven. That agreement was interpreted in a two thousand fifteen court case to apply to children who come with their parents. These changes take effect immediately when this law is passed. They apply to all cases that happened before, on, or after this law is passed. States cannot require that immigration detention facilities used to hold children under eighteen years old or families with such children be licensed by the state. This rule applies even if other laws, court decisions, agreements, or settlements say otherwise.",
+      "word_offset": 13,
+      "char_offset": 71
+    }
+  ]
+}

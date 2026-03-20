@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-368",
+  "title": "Territorial Tax Parity and Fairness Act",
+  "short_title": "Territorial Tax Parity and Fairness Act",
+  "congress": 119,
+  "bill_number": "HR.368",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "47c82ac3e2f3f528",
+  "last_updated": "2026-03-20T15:58:18.925980+00:00",
+  "plain_summary": "This bill changes tax rules for people who live in the Virgin Islands and own pieces of Virgin Islands companies. Right now, these people have to follow certain US tax rules, but this bill would change that. Starting in 2025, they would not be counted as US people for some tax calculations. This means they might pay less in taxes or have simpler tax rules to follow.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Income tax rates",
+    "Tax administration and collection, taxpayers",
+    "U.S. territories and protectorates",
+    "Virgin Islands"
+  ],
+  "sponsor_name": "Del. Plaskett, Stacey E. [D-VI]",
+  "sponsor_party": "D",
+  "sponsor_state": "VI",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Virgin Islands taxes",
+    "territorial tax rules",
+    "island resident taxes",
+    "US territory tax changes",
+    "Virgin Islands business owners",
+    "Caribbean tax laws",
+    "island tax fairness",
+    "territorial resident income tax",
+    "Virgin Islands company taxes",
+    "US possession tax rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Territorial Tax Parity and Fairness Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-certain-bona-fide-residents-of-virgin-islands",
+      "title": "Section 2 Certain Bona Fide Residents of Virgin Islands",
+      "text": "This section changes the tax law to help certain Virgin Islands residents who own shares in Virgin Islands companies. When the federal government decides what income to tax from these companies, it will not count certain Virgin Islands residents as United States persons. This special treatment only applies to people who truly live in the Virgin Islands and who own shares in companies that were created under Virgin Islands law. It also only applies when the money these people receive from their companies would be considered Virgin Islands income for tax purposes. The law also makes a small technical fix to keep the numbering correct in the tax code. These changes will start applying to company tax years that begin after December thirty first two thousand twenty four. They will also apply to individual tax years that include or end with those company tax years.",
+      "word_offset": 12,
+      "char_offset": 68
+    }
+  ]
+}

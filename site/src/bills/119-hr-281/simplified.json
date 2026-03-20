@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-281",
+  "title": "Grizzly Bear State Management Act",
+  "short_title": "Grizzly Bear State Management Act",
+  "congress": 119,
+  "bill_number": "HR.281",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-328.",
+  "version_hash": "95e6d12f8e50c5df",
+  "last_updated": "2026-03-20T12:30:13.124215+00:00",
+  "plain_summary": "This bill tells the U.S. Fish and Wildlife Service to bring back a rule from 2017 that removed grizzly bears in the Yellowstone area from the endangered species list. The agency has 180 days to put this rule back in place. Once the rule is remade, no one can take it to court to challenge it. This means the grizzly bears in that area would no longer have federal protection as an endangered species.",
+  "current_status": "committee_reported",
+  "status_date": "2025-10-03",
+  "last_action_date": "2025-10-03",
+  "last_action_text": "Placed on the Union Calendar, Calendar No. 281.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Department of the Interior",
+    "Endangered and threatened species",
+    "Idaho",
+    "Judicial review and appeals",
+    "Mammals",
+    "Montana",
+    "Wyoming"
+  ],
+  "sponsor_name": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "grizzly bears",
+    "Yellowstone",
+    "endangered species",
+    "bear hunting",
+    "wildlife protection",
+    "Montana Wyoming Idaho",
+    "federal protection",
+    "bear management",
+    "species delisting",
+    "wildlife service"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Grizzly Bear State Management Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reissuance-of-final-rule-relating-to-greater-yellowstone-ecosystem-population-of-grizzly-bears",
+      "title": "Section 2  Reissuance of Final Rule Relating to Greater Yellowstone Ecosystem Population of Grizzly Bears",
+      "text": "The Secretary of the Interior must create a new rule within one hundred and eighty days after this law is passed. This rule must be the same as a rule that was made on June thirtieth, two thousand and seventeen. That rule removed grizzly bears in the Greater Yellowstone area from the list of animals that are endangered or threatened by the federal government. The Greater Yellowstone area includes Yellowstone National Park and the land around it. When making this new rule, the Secretary does not have to follow any other laws that usually apply to making such rules. No one can challenge this new rule or this section of the law in court.",
+      "word_offset": 11,
+      "char_offset": 62
+    }
+  ]
+}

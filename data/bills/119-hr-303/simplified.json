@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-303",
+  "title": "Retired Pay Restoration Act",
+  "short_title": "Retired Pay Restoration Act",
+  "congress": 119,
+  "bill_number": "HR.303",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+  "version_hash": "2581999e00c2f4fc",
+  "last_updated": "2026-03-20T16:00:53.524184+00:00",
+  "plain_summary": "This bill changes the rules for military veterans who get both retirement pay and disability pay. Right now, veterans with disabilities rated less than 50% must give up some of their retirement pay when they get disability money. This bill would let all disabled veterans keep both their full retirement pay and their full disability pay at the same time. The change would apply to veterans who served at least 20 years or were forced to retire early because of their disability.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-02-11",
+  "last_action_text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Disability and paralysis",
+    "Veterans' pensions and compensation"
+  ],
+  "sponsor_name": "Rep. Bilirakis, Gus M. [R-FL-12]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "military retirement pay",
+    "veteran disability benefits",
+    "double dipping military benefits",
+    "concurrent receipt",
+    "disabled veteran pay",
+    "military pension and disability",
+    "veteran compensation both payments",
+    "20 year military retirement",
+    "disabled veteran money",
+    "military benefits overlap",
+    "veteran pay restoration"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Retired Pay Restoration Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings-and-sense-of-congress",
+      "title": "Section 2  Findings and Sense of Congress",
+      "text": "Congress has found several important facts. For more than one hundred years before nineteen ninety nine, all disabled military retirees had to give up one dollar of their earned retirement pay for each dollar they received in veterans disability payments. Since nineteen ninety nine, Congress has passed laws to slowly expand who can get relief from this unfair trade off and reduce the financial burden on disabled military retirees. Without enough money to eliminate this sacrifice for all disabled retirees, Congress has first helped the most severely disabled people and those disabled in combat. To help as many people as possible within budget limits, Congress has allowed full payments for all qualifying retirees with one hundred percent disability ratings and all qualifying retirees with combat related disability ratings. Congress has also been phasing out the disability offset over ten years for retired members with non combat related service connected disability ratings of fifty percent to ninety percent. In making these good faith efforts, Congress knows it has unfortunately had to create new eligibility rules that are disappointing to disabled retirees who do not meet those new requirements. Congress is not satisfied with how things are now. It is Congress's belief that military retirement pay earned through service and sacrifice in defending the United States should not be reduced just because a military retiree is also eligible for veterans disability compensation awarded for service connected disability.",
+      "word_offset": 10,
+      "char_offset": 56
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-eligibility-for-payment-of-both-retired-pay-and-veterans-disability-compensation",
+      "title": "Section 3  Eligibility for Payment of Both Retired Pay and Veterans' Disability Compensation for Certain Additional Military Retirees with Compensable Service Connected Disabilities",
+      "text": "This section makes several changes to existing law. First, it extends the right to receive both retirement pay and disability compensation to retirees with service connected disabilities rated less than fifty percent. The law removes requirements that previously limited this benefit to those with higher disability ratings. Second, it makes changes to reflect that the phase in period for receiving both retirement pay and veterans disability compensation at the same time is now complete. The law removes the gradual implementation language and related provisions that are no longer needed. Third, it creates a clear definition of who qualifies as a qualified retiree for the purpose of receiving both types of payments. A qualified retiree means a member or former member of the military services who is entitled to retirement pay and is also entitled to veterans disability compensation for any given month. There are some exceptions for members retired under chapter sixty one with less than twenty years of creditable service. The section also makes technical corrections to headings and cross references in the law. These changes take effect starting January first two thousand twenty one and apply to payments for months beginning on or after that date.",
+      "word_offset": 245,
+      "char_offset": 1592
+    }
+  ]
+}

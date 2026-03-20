@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-413",
+  "title": "CHILD Act of 2025",
+  "short_title": "CHILD Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.413",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "0de3ff26313d764e",
+  "last_updated": "2026-03-20T12:50:29.420229+00:00",
+  "plain_summary": "The CHILD Act of 2025 lets working parents put more money into special savings accounts to pay for childcare. Right now, parents can save up to five thousand dollars per year in these accounts without paying taxes on that money. This bill doubles that amount to ten thousand dollars per year. The amount will also go up each year to keep up with rising prices. These changes will start in 2025 to help families afford expensive childcare costs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Bice, Stephanie I. [R-OK-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "childcare savings",
+    "daycare tax break",
+    "childcare costs",
+    "working parents",
+    "childcare expenses",
+    "tax free savings",
+    "daycare money",
+    "childcare help",
+    "parenting costs",
+    "childcare benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Combating High Inflation Limiting Daycare Act of two thousand twenty five or the CHILD Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increased-maximum-contribution-to-dependent-care-assistance-programs",
+      "title": "Section 2 Increased Maximum Contribution to Dependent Care Assistance Programs",
+      "text": "Part A makes changes to the tax code to increase the amount of money people can put into dependent care assistance programs. These programs help workers pay for child care and other dependent care costs with money that is not taxed. The limit will go from five thousand dollars to ten thousand dollars per year. For married people who file separate tax returns, the limit will go from two thousand five hundred dollars to five thousand dollars per year. Part B adds a new rule that will adjust these dollar amounts each year for inflation. This means the amounts will go up automatically when the cost of living increases. The adjustments will be based on inflation rates starting from calendar year two thousand twenty three. If the increase is not an even fifty dollar amount, it will be rounded to the nearest fifty dollars. Part C removes an old provision from the tax code that is no longer needed. Part D says these changes will start for calendar years beginning after December thirty first two thousand twenty four.",
+      "word_offset": 26,
+      "char_offset": 147
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-sres-28",
+  "title": "A resolution honoring the service of women in combat roles in the Armed Forces.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.28",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Armed Services. (text: CR S232)",
+  "version_hash": "68c610a026ad613f",
+  "last_updated": "2026-03-20T14:09:04.551661+00:00",
+  "plain_summary": "This Senate resolution honors women who have served in combat roles in the US military. It recognizes their bravery, courage, and the sacrifices they have made while serving their country in dangerous fighting positions. The resolution celebrates the important contributions these women have made to the Armed Forces. It also encourages people to recognize and celebrate these women's achievements to inspire future generations.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the Committee on Armed Services. (text: CR S232)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Congressional tributes",
+    "Military personnel and dependents",
+    "Women's employment"
+  ],
+  "sponsor_name": "Sen. Murray, Patty [D-WA]",
+  "sponsor_party": "D",
+  "sponsor_state": "WA",
+  "cosponsor_count": 27,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "women in military",
+    "female soldiers",
+    "women in combat",
+    "military women",
+    "women veterans",
+    "female troops",
+    "women fighting",
+    "military service women",
+    "women in war",
+    "female military personnel"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This is a resolution to honor the service of women who have served in combat roles in the Armed Forces.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Facts",
+      "text": "Women have served with honor in the Armed Forces since the Revolutionary War. In December two thousand fifteen, the Department of Defense announced that all military jobs and specialties would be open to women. Since September eleventh, two thousand one, women have received many awards for their service in combat, including Bronze Stars and Silver Stars (high military honors for bravery). About three thousand women have earned Combat Action Badges and Combat Action Ribbons since September eleventh, two thousand one. Women in the Armed Forces now serve in special forces units, including as Army Rangers, Air Force Special Operators, and in the Marine Corps Forces Special Operations Command.",
+      "word_offset": 20,
+      "char_offset": 104
+    },
+    {
+      "id": "s3",
+      "slug": "senate-resolution",
+      "title": "Senate Resolution",
+      "text": "The Senate recognizes the contribution, bravery, and sacrifices of women serving in combat roles in the Armed Forces. The Senate encourages the continued celebration of the achievements of women in the Armed Forces to inspire future generations.",
+      "word_offset": 128,
+      "char_offset": 802
+    }
+  ]
+}

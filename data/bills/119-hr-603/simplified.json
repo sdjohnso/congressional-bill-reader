@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-603",
+  "title": "Reinforcing the Grid Against Extreme Weather Act of 2025",
+  "short_title": "Reinforcing the Grid Against Extreme Weather Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.603",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "db9a0aa89d614115",
+  "last_updated": "2026-03-20T11:27:05.226987+00:00",
+  "plain_summary": "This bill tells a government agency called the Federal Energy Regulatory Commission to make new rules about electricity. The rules will help different areas share electricity with each other when there are emergencies like bad storms. The rules will make sure there is always enough electricity moving between areas to keep the lights on during tough times. Every five years, the groups that plan electricity in each area will have to show their plans to make sure they follow these rules.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Casten, Sean [D-IL-6]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "electricity grid",
+    "power outages",
+    "storm preparedness",
+    "emergency power sharing",
+    "electrical grid reliability",
+    "weather disasters",
+    "power grid upgrades",
+    "electricity during emergencies",
+    "grid resilience",
+    "blackout prevention"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Reinforcing the Grid Against Extreme Weather Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-improving-interregional-electricity-transfer-capability",
+      "title": "Section 2 Improving Interregional Electricity Transfer Capability",
+      "text": "This section adds a new part to the Federal Power Act called Section two hundred twenty four. Within twenty four months after this law takes effect, the Federal Energy Regulatory Commission (the government agency that oversees electricity) must create rules for a new process. This process must do four main things. First, it must calculate how much electricity can be transferred between neighboring regions that plan their electrical systems together. Each region and its neighbors must use the same method to calculate this transfer ability, and all methods must meet standards set by the Commission. Second, it must determine the minimum amount of electricity that must be able to transfer between neighboring regions. This minimum amount must be enough to keep the lights on when bad weather, physical damage, or cyber attacks happen in a region. It must also help achieve the best transmission benefits. Third, it must identify, choose, and decide how to pay for individual transmission projects between regions that are needed to reach these minimum transfer amounts. Fourth, it must prevent the sharing of information about cyber attacks that could make the electricity system less secure. Within three years after this law takes effect, and then at least every five years after that, the planning groups for each pair of neighboring regions must file a plan with the Commission and get it approved. This plan must evaluate and select transmission projects between regions based on transmission benefits and must achieve the minimum transfer capability between regions. The Commission must approve or reject these plans based on the factors described earlier. Within forty eight months after the Commission creates its rules, and then every year after that, the Commission must publish a report in the Federal Register about how well this section is working. This section also defines important terms. Greenhouse gas includes carbon dioxide, methane, nitrous oxide, sulfur hexafluoride, hydrofluorocarbons, perfluorocarbons, nitrogen trifluoride, certain fluorinated compounds, and other fluorocarbons with specific properties. Transmission benefit means a wide range of good things that happen when transmission facilities are built, changed, or operated. These benefits include improved reliability, improved resilience, improved safety, reduced congestion, reduced power losses, greater carrying capacity, reduced operating reserve requirements, better access to cheaper electricity generation, better access to clean electricity generation with no direct greenhouse gas emissions, improved public health from closing polluting power plants, increased competition and market liquidity in electricity markets, improved energy resilience and reliability of Department of Defense installations, better use of existing transmission assets including existing rights of way, other transmission costs avoided by the proposed transmission solution, and other potential benefits of making the electric grid more connected. Transmission planning entity means an organization responsible for planning how to build electric transmission for a specific transmission planning region. Transmission planning region means a geographic area that the Commission finds large enough to meet its requirements for regional transmission planning, as established in Commission orders from October twenty twelve about transmission planning and cost allocation.",
+      "word_offset": 17,
+      "char_offset": 99
+    }
+  ]
+}

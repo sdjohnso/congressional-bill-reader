@@ -1,0 +1,55 @@
+{
+  "bill_id": "119-hr-119",
+  "title": "To prohibit any entity that receives Federal funds from the COVID relief packages from mandating employees receive a COVID-19 vaccine, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.119",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Energy and Commerce, f",
+  "version_hash": "60df6dcc35441891",
+  "last_updated": "2026-03-20T10:57:45.296882+00:00",
+  "plain_summary": "This bill stops organizations from forcing their workers to get COVID-19 vaccines if they received government money during the pandemic. The government gave out lots of money to help businesses, schools, and other groups during COVID-19. If any of these organizations require their employees to get vaccinated, they have to pay back all the money they got from the government. This rule applies to all the different COVID relief programs that gave out federal funding.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consi",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Cardiovascular and respiratory health",
+    "Employment discrimination and employee rights",
+    "Immunology and vaccination",
+    "Infectious and parasitic diseases"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "covid vaccine mandate",
+    "federal funding vaccine requirements",
+    "government money vaccine rules",
+    "covid relief money payback",
+    "employer vaccine mandate ban",
+    "business covid vaccine policy",
+    "pandemic relief funds restrictions",
+    "workplace vaccination requirements",
+    "covid money strings attached",
+    "vaccine mandate federal recipients"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-covid-relief-package-funding-restriction",
+      "title": "Section 1  COVID Relief Package Funding Restriction",
+      "text": "Any organization that got money from the government's COVID relief programs cannot force their workers to get a COVID-19 vaccine. If an organization breaks this rule and does require their employees to get vaccinated, they must pay back all the COVID relief money they received to the federal government. The COVID relief programs covered by this rule include the CARES Act, the Coronavirus Preparedness and Response Supplemental Appropriations Act from 2020, the Families First Coronavirus Response Act, the Paycheck Protection Program and Health Care Enhancement Act, the Consolidated Appropriations Act from 2021, and the American Rescue Plan Act from 2021.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

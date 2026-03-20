@@ -1,0 +1,138 @@
+{
+  "bill_id": "119-hr-175",
+  "title": "Deport Alien Gang Members Act",
+  "short_title": "Deport Alien Gang Members Act",
+  "congress": 119,
+  "bill_number": "HR.175",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "77e284d1e1f42c08",
+  "last_updated": "2026-03-20T10:54:25.471682+00:00",
+  "plain_summary": "This bill creates new rules to keep people connected to criminal gangs out of the United States and to remove them if they are already here. It defines criminal gangs as groups of five or more people whose main goal is committing serious crimes. If someone is a gang member or has helped a gang with illegal activities, they cannot enter the country and must be deported if they are found here. These people also cannot get asylum, special protection, or other immigration benefits, and they must be kept in detention. The Department of Homeland Security can officially label groups as criminal gangs using a special process.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. McClintock, Tom [R-CA-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 27,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gang deportation",
+    "deport gang members",
+    "criminal gang immigration",
+    "gang member removal",
+    "immigration gang rules",
+    "deport criminals",
+    "gang detention law",
+    "criminal organization deportation",
+    "gang asylum ban",
+    "immigration enforcement gangs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Deport Alien Gang Members Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2a-definition-of-gang-member",
+      "title": "Section 2a Definition of Gang Member",
+      "text": "This section adds a new definition to immigration law. A criminal gang means a group of five or more people that stays together over time. The group must have committing serious crimes as one of its main purposes. The members must have committed or be committing a series of these crimes within the past five years. The Secretary of Homeland Security can also officially label a group as a criminal gang after talking with the Attorney General. The serious crimes include drug offenses that could lead to more than one year in prison, crimes involving guns or explosives, helping people enter the country illegally, violent crimes, crimes that interfere with justice or involve burglary, fraud and identity theft, human trafficking, organized crime activities, money laundering, and stealing cars or other property across state lines. It also includes planning to commit any of these crimes. These crimes count whether they happened in the United States or in other countries, and whether they happened before or after this law was passed.",
+      "word_offset": 11,
+      "char_offset": 58
+    },
+    {
+      "id": "s3",
+      "slug": "section-2b-inadmissibility",
+      "title": "Section 2b Inadmissibility",
+      "text": "This section says that certain people cannot be allowed into the United States. A person cannot enter the country if immigration officers know or have good reason to believe that the person is or was a member of a criminal gang, has helped or participated in gang activities anywhere in the world, or wants to enter the United States to help with gang activities.",
+      "word_offset": 180,
+      "char_offset": 1098
+    },
+    {
+      "id": "s4",
+      "slug": "section-2c-deportability",
+      "title": "Section 2c Deportability",
+      "text": "This section says that certain people can be removed from the United States. A person can be deported if they are or have been a member of a criminal gang, or if they have helped, planned with, or participated in gang activities anywhere in the world.",
+      "word_offset": 244,
+      "char_offset": 1462
+    },
+    {
+      "id": "s5",
+      "slug": "section-2d-designation",
+      "title": "Section 2d Designation",
+      "text": "This section creates a process for the Secretary of Homeland Security to officially label groups as criminal gangs. The Secretary can designate a group of five or more people as a criminal gang if their behavior matches the definition in the law. Before making this designation, the Secretary must notify Congressional leaders seven days ahead of time through classified communication. The designation must be published in the Federal Register seven days after the notification. The Secretary must keep records of why the designation was made and can use classified information that courts can review in private. The designation lasts until it is canceled or overturned by a court. Groups can ask for their designation to be removed every two years by proving they no longer meet the definition of a criminal gang. The Secretary has thirty days to decide on these requests. If no review happens for five years, the Secretary must automatically review whether to keep the designation. Congress can also block or cancel a designation through new legislation. The Secretary can cancel a designation if the group no longer meets the definition or if national security or law enforcement needs require it. Once a group is designated, people in immigration court cannot challenge the validity of that designation as a defense. The Secretary can also change a designation if a group changes its name or merges with other groups. Groups can ask federal courts to review designations, but courts can only look at the administrative record and classified information shown privately to judges. Courts must handle these cases quickly.",
+      "word_offset": 290,
+      "char_offset": 1714
+    },
+    {
+      "id": "s6",
+      "slug": "section-2e-mandatory-detention",
+      "title": "Section 2e Mandatory Detention",
+      "text": "This section requires that people who are gang members or associated with gangs must be held in detention and cannot be released. The Secretary of Homeland Security must report to Congress each year starting one year after this law passes about how many people are being detained under this rule.",
+      "word_offset": 551,
+      "char_offset": 3338
+    },
+    {
+      "id": "s7",
+      "slug": "section-2f-claims-based-on-gang-affiliation",
+      "title": "Section 2f Claims Based on Gang Affiliation",
+      "text": "This section says that gang members cannot avoid being sent back to their home countries even if they might face harm there. Gang members are also not allowed to apply for asylum protection in the United States.",
+      "word_offset": 601,
+      "char_offset": 3635
+    },
+    {
+      "id": "s8",
+      "slug": "section-2g-temporary-protected-status",
+      "title": "Section 2g Temporary Protected Status",
+      "text": "This section changes the rules for temporary protected status, which is protection given to people from certain countries experiencing crisis. People who are gang members or associated with gangs cannot get this protection. The Secretary of Homeland Security can detain people who have temporary protected status when allowed by other laws.",
+      "word_offset": 638,
+      "char_offset": 3847
+    },
+    {
+      "id": "s9",
+      "slug": "section-2h-special-immigrant-juvenile-visas",
+      "title": "Section 2h Special Immigrant Juvenile Visas",
+      "text": "This section says that young people who are gang members or associated with gangs cannot get special immigrant juvenile visas, which are for children who have been abused, abandoned, or neglected.",
+      "word_offset": 689,
+      "char_offset": 4188
+    },
+    {
+      "id": "s10",
+      "slug": "section-2i-parole",
+      "title": "Section 2i Parole",
+      "text": "This section limits when gang members can be allowed into the United States temporarily through a process called parole. Gang members can only get parole if they are helping the government with law enforcement matters like criminal investigations, and the government needs them to be in the United States for this help.",
+      "word_offset": 720,
+      "char_offset": 4385
+    },
+    {
+      "id": "s11",
+      "slug": "section-2j-ineligibility-for-other-relief",
+      "title": "Section 2j Ineligibility for Other Relief",
+      "text": "This section says that gang members cannot get any other forms of immigration relief or benefits under immigration laws.",
+      "word_offset": 772,
+      "char_offset": 4705
+    },
+    {
+      "id": "s12",
+      "slug": "section-2k-effective-date",
+      "title": "Section 2k Effective Date",
+      "text": "This section says that all the changes made by this law take effect immediately when the law is passed. The rules apply to actions that happened before, on, or after the law was passed.",
+      "word_offset": 791,
+      "char_offset": 4826
+    }
+  ]
+}

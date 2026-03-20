@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-440",
+  "title": "READY Accounts Act",
+  "short_title": "READY Accounts Act",
+  "congress": 119,
+  "bill_number": "HR.440",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "86132dcec9f60a75",
+  "last_updated": "2026-03-20T12:31:35.309960+00:00",
+  "plain_summary": "The READY Accounts Act creates special savings accounts that help people prepare for disasters and fix their homes afterward. People can put up to $4,500 each year into these accounts without paying taxes on that money. The money in the account grows without being taxed, and people can take it out tax-free to pay for things like stronger windows, better roofs, or repairs after storms and fires. If someone uses the money for anything else, they have to pay taxes and a penalty on it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Lee, Laurel M. [R-FL-15]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "disaster savings account",
+    "tax free emergency fund",
+    "hurricane preparation money",
+    "storm damage savings",
+    "home repair tax benefits",
+    "disaster preparedness account",
+    "emergency home repairs",
+    "tax deductible disaster fund",
+    "storm proof home savings",
+    "natural disaster tax account"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the READY Accounts Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-ready-accounts",
+      "title": "Section 2  READY Accounts",
+      "text": "This section creates special savings accounts called Residential Emergency Asset-accumulation Deferred Taxation Yield accounts or READY accounts. These accounts let people save money to protect their homes from disasters or fix damage after disasters happen. People can put up to four thousand five hundred dollars per year into these accounts and deduct that money from their taxes. The four thousand five hundred dollar limit will go up each year based on inflation starting in twenty twenty six. Money in these accounts grows without being taxed as long as it stays in the account. People can take money out tax-free if they use it for approved home protection projects or disaster repairs. If they use the money for anything else, they must pay taxes on it plus a twenty percent penalty. The account must be managed by a bank or other approved financial company. The money can be used for things like strengthening roofs, installing storm-resistant windows and doors, elevating homes, or repairing damage from fires, storms, or other disasters that insurance does not cover. A qualified home means a house or structure that the person owns and lives in as their main residence. The law also sets up rules about what happens to these accounts when people die or get divorced, and requires reports to be filed with the tax authorities.",
+      "word_offset": 9,
+      "char_offset": 47
+    }
+  ]
+}

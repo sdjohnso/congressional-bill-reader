@@ -1,0 +1,53 @@
+{
+  "bill_id": "119-hr-111",
+  "title": "To amend the Internal Revenue Code of 1986 to allow an above-the-line deduction for health insurance premiums.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.111",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "514c6767804a0286",
+  "last_updated": "2026-03-20T11:18:04.705351+00:00",
+  "plain_summary": "This bill changes tax rules to let people subtract the money they pay for health insurance from their income before calculating taxes. People can take this deduction even if they do not list other deductions on their tax forms. The deduction covers health insurance premiums that people pay for themselves, their spouse, and their children. This new tax rule will start in 2025.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Health care costs and insurance",
+    "Income tax deductions"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "health insurance tax deduction",
+    "deduct health insurance premiums",
+    "health insurance costs taxes",
+    "above the line deduction",
+    "health premium tax break",
+    "insurance premium deduction",
+    "health insurance tax relief",
+    "deduct medical insurance",
+    "health coverage tax deduction",
+    "insurance premium write off"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-deduction-for-health-insurance-premiums",
+      "title": "Section 1 Deduction for Health Insurance Premiums",
+      "text": "This section changes the tax code to let people deduct health insurance premiums from their taxes. The new rule says that individuals can subtract the money they pay for health insurance from their taxable income. This includes insurance for themselves, their spouse, and their dependents (people they support financially like children). The insurance must be for medical care as defined by existing tax law. People can take this deduction even if they do not itemize other deductions on their tax return. This means it works like an above-the-line deduction, which reduces income before calculating taxes. However, if someone uses this deduction, they cannot also use the same premium payments to claim other tax deductions or credits. The changes will start applying to tax years that begin after December thirty first, two thousand twenty four.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

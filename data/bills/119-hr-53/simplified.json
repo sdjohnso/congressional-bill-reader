@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-53",
+  "title": "Responsible Borrower Protection Act of 2025",
+  "short_title": "Responsible Borrower Protection Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.53",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "74a2d04fbbdb149f",
+  "last_updated": "2026-03-20T12:52:06.459850+00:00",
+  "plain_summary": "This bill stops government housing agencies from making changes to mortgage fees that they announced in January 2023. The changes would have increased fees for many home buyers based on their credit scores and how risky their loans are. Under this bill, Fannie Mae and Freddie Mac cannot put these new higher fees in place. However, these agencies can still charge different fees to different borrowers depending on how likely they are to pay back their loans.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [
+    "Credit and credit markets",
+    "Government National Mortgage Association (Ginnie Mae)",
+    "Housing finance and home ownership",
+    "Inflation and prices",
+    "User charges and fees"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "mortgage fees",
+    "home buying costs",
+    "credit score fees",
+    "Fannie Mae",
+    "Freddie Mac",
+    "housing costs",
+    "loan fees",
+    "homebuyer fees",
+    "mortgage prices",
+    "credit score penalties",
+    "home loan costs",
+    "buying a house fees"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Responsible Borrower Protection Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-cancellation-of-changes",
+      "title": "Section 2 Cancellation of Changes",
+      "text": "The Federal Housing Finance Agency and the enterprises cannot put into effect certain changes to how they charge fees for home mortgages. These are changes that the Federal Housing Finance Agency announced on January nineteenth, two thousand twenty three in a document called FHFA Announces Updates to the Enterprises Single Family Pricing Framework. The same changes were also described in Federal National Mortgage Association Lender Letter LL two thousand twenty three dash zero one and Federal Home Loan Mortgage Corporation Bulletin two thousand twenty three dash one. These changes, the lender letter, and the bulletin have no power and cannot be enforced. The enterprises means Fannie Mae and Freddie Mac, which are government sponsored companies that help people get home loans by buying mortgages from banks.",
+      "word_offset": 15,
+      "char_offset": 92
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-continuation-of-risk-based-pricing",
+      "title": "Section 3 Continuation of Risk Based Pricing",
+      "text": "This law does not stop Fannie Mae and Freddie Mac from charging different fees based on how risky a borrower is when they apply for a single family home mortgage. Risk based pricing means people who are more likely to have trouble paying back their loan may be charged higher fees.",
+      "word_offset": 141,
+      "char_offset": 910
+    }
+  ]
+}

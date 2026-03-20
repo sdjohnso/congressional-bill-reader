@@ -1,0 +1,78 @@
+{
+  "bill_id": "119-hr-567",
+  "title": "Expanding Labor Representation in the Workforce System Act",
+  "short_title": "Expanding Labor Representation in the Workforce System Act",
+  "congress": 119,
+  "bill_number": "HR.567",
+  "introduced_date": "2025-01-20",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "d1dfc6160d852a75",
+  "last_updated": "2026-03-20T13:17:04.317105+00:00",
+  "plain_summary": "This bill changes the rules for workforce development boards, which are groups that help people find jobs and get training. Right now, these boards must include at least 20 percent union and worker representatives, but this bill raises that requirement to 30 percent. The bill also makes the definition of labor organization much broader to include not just regular unions, but also groups that represent government workers, railroad workers, and farm workers. This means more worker voices will be included when these boards make decisions about job training and workforce programs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-20",
+  "last_action_date": "2025-01-20",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Labor and Employment",
+  "subjects": [
+    "Advisory bodies",
+    "Labor-management relations",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Sherrill, Mikie [D-NJ-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "workforce development",
+    "job training boards",
+    "union representation",
+    "worker representatives",
+    "employment programs",
+    "job training programs",
+    "labor unions",
+    "worker voices",
+    "workforce boards",
+    "job placement services"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Expanding Labor Representation in the Workforce System Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-state-workforce-development-boards",
+      "title": "Section 2 State Workforce Development Boards",
+      "text": "This section changes an existing law about state workforce development boards. These boards help plan job training and employment programs in each state. The law currently requires that at least twenty percent of board members must represent workers and unions. This section increases that requirement to thirty percent.",
+      "word_offset": 14,
+      "char_offset": 87
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-local-workforce-development-boards",
+      "title": "Section 3 Local Workforce Development Boards",
+      "text": "This section changes an existing law about local workforce development boards. These boards help plan job training and employment programs in cities and counties. The law currently requires that at least twenty percent of board members must represent workers and unions. This section increases that requirement to thirty percent.",
+      "word_offset": 62,
+      "char_offset": 408
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-definition-of-labor-organization",
+      "title": "Section 4 Definition of Labor Organization",
+      "text": "This section adds a new definition to an existing workforce law. It explains what counts as a labor organization, which means a group that represents workers. The definition includes unions as defined in the National Labor Relations Act. It also includes groups made up of multiple unions, like union federations or state and city labor groups. The definition covers organizations that represent government workers at all levels, railroad workers, and farm workers, even though these groups might not be covered by the main National Labor Relations Act.",
+      "word_offset": 111,
+      "char_offset": 738
+    }
+  ]
+}

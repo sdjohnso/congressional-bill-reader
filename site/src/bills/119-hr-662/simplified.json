@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-662",
+  "title": "Promoting Domestic Energy Production Act",
+  "short_title": "Promoting Domestic Energy Production Act",
+  "congress": 119,
+  "bill_number": "HR.662",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "9514a28d165e18b0",
+  "last_updated": "2026-03-20T14:08:05.758092+00:00",
+  "plain_summary": "This bill changes tax rules to help oil and gas companies pay less in taxes. It lets these companies subtract the costs of drilling and developing oil and gas wells when figuring out their minimum tax payment. The new rule will start working for companies in 2026. This means oil and gas companies will likely pay less money in taxes to the government.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Carey, Mike [R-OH-15]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 43,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "oil tax breaks",
+    "gas company taxes",
+    "drilling tax deductions",
+    "energy company tax relief",
+    "oil drilling costs",
+    "gas production tax cuts",
+    "domestic oil tax benefits",
+    "energy tax incentives",
+    "oil well expenses",
+    "gas drilling deductions"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Promoting Domestic Energy Production Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-intangible-drilling-and-development-costs-taken-into-account-for-purposes-of-computing-adjusted-financial-statement-income",
+      "title": "Section 2 Intangible Drilling and Development Costs Taken Into Account for Purposes of Computing Adjusted Financial Statement Income",
+      "text": "This section changes how oil and gas companies calculate their taxes when they have to pay a minimum corporate tax rate. When companies drill for oil and gas, they spend money on things they cannot touch or see, like geological surveys and drilling preparations. These are called intangible drilling and development costs. Under current tax law, these costs are treated differently when calculating the minimum corporate tax than when calculating regular taxes. This change allows companies to subtract these drilling costs when figuring out their adjusted financial statement income, which is used to determine their minimum tax. The law also lets companies subtract money they spend on equipment depreciation and depletion expenses related to these drilling costs. These changes will take effect for tax years that begin after December thirty first, two thousand twenty five.",
+      "word_offset": 11,
+      "char_offset": 69
+    }
+  ]
+}

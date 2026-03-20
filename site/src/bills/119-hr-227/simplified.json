@@ -1,0 +1,80 @@
+{
+  "bill_id": "119-hr-227",
+  "title": "Clergy Act",
+  "short_title": "Clergy Act",
+  "congress": 119,
+  "bill_number": "HR.227",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-425.",
+  "version_hash": "be6e4490bff33edb",
+  "last_updated": "2026-03-20T12:38:14.386017+00:00",
+  "plain_summary": "This bill gives clergy members and Christian Science practitioners a chance to change their minds about paying Social Security and Medicare taxes. These religious workers were previously allowed to skip paying these taxes if it went against their religious beliefs, but that also meant they would not get Social Security or Medicare benefits when they retire. Now they have until 2029 to decide if they want to start paying these taxes so they can get benefits later. Once they make this choice, they cannot change it back. The IRS must tell these religious workers about this new option.",
+  "current_status": "committee_reported",
+  "status_date": "2026-01-07",
+  "last_action_date": "2026-01-07",
+  "last_action_text": "Placed on the Union Calendar, Calendar No. 370.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [
+    "Congressional oversight",
+    "Income tax exclusion",
+    "Religion",
+    "Social security and elderly assistance",
+    "Tax administration and collection, taxpayers"
+  ],
+  "sponsor_name": "Rep. Fong, Vince [R-CA-20]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 21,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "clergy taxes",
+    "pastor social security",
+    "religious workers benefits",
+    "minister medicare",
+    "church worker taxes",
+    "priest social security",
+    "religious exemption taxes",
+    "clergy retirement benefits",
+    "pastor medicare coverage",
+    "minister tax exemption"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Clergy Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-revocation-by-members-of-the-clergy-of-exemption-from-social-security-coverage",
+      "title": "Section 2 Revocation by Members of the Clergy of Exemption from Social Security Coverage",
+      "text": "Some religious workers like ministers, members of religious orders, and Christian Science practitioners can choose not to pay into Social Security. This section lets them change their minds and start paying into Social Security if they want to. To do this, they must fill out a form with the Internal Revenue Service. They have until the due date of their tax return for their second tax year that begins after December thirty first two thousand twenty eight to file this form. If they choose to change their mind, they can pick whether to start paying Social Security taxes beginning with their first tax year after December thirty first two thousand twenty eight or their second tax year after that date. Once they make this choice, it applies to all future years and they cannot change back to being exempt. If they file their form late but want it to apply to an earlier tax year, they must pay all the Social Security taxes they would have owed for that year along with their form.",
+      "word_offset": 8,
+      "char_offset": 39
+    },
+    {
+      "id": "s3",
+      "slug": "section-2-effective-date",
+      "title": "Section 2 Effective Date",
+      "text": "This new rule applies to work done in tax years that begin after December thirty first two thousand twenty eight. It also affects Social Security benefits that are paid based on the earnings of people who use this new rule, starting from the calendar year when their choice becomes effective.",
+      "word_offset": 182,
+      "char_offset": 1026
+    },
+    {
+      "id": "s4",
+      "slug": "section-3-report-to-congress",
+      "title": "Section 3 Report to Congress",
+      "text": "Within ninety days after this law is passed, the head of the Internal Revenue Service must work with the head of Social Security to create a plan. This plan must explain how they will tell religious workers about their new right to start paying into Social Security. They must send this plan to the House Ways and Means Committee and the Senate Finance Committee.",
+      "word_offset": 232,
+      "char_offset": 1319
+    }
+  ]
+}

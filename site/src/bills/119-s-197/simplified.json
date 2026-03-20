@@ -1,0 +1,83 @@
+{
+  "bill_id": "119-s-197",
+  "title": "Protecting Military Installations and Ranges Act of 2025",
+  "short_title": "Protecting Military Installations and Ranges Act of 2025",
+  "congress": 119,
+  "bill_number": "S.197",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "version_hash": "add4be0824bf5bb8",
+  "last_updated": "2026-03-20T11:04:20.412072+00:00",
+  "plain_summary": "This bill creates new rules for when people or companies connected to Russia, China, Iran, or North Korea want to buy or rent land in America. If they want land within 100 miles of a military base or within 50 miles of military training areas or special airspace, a government committee must review the deal first. The committee checks to make sure the land purchase would not hurt national security. Energy projects on this land cannot get final approval until the security review is finished.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Foreign Trade and International Finance",
+  "subjects": [
+    "Asia",
+    "Aviation and airports",
+    "China",
+    "Congressional oversight",
+    "Energy storage, supplies, demand",
+    "Europe",
+    "Foreign property",
+    "Government studies and investigations",
+    "Iran",
+    "Middle East",
+    "Military education and training",
+    "Military facilities and property",
+    "Military operations and strategy",
+    "North Korea",
+    "Russia",
+    "U.S. and foreign investments"
+  ],
+  "sponsor_name": "Sen. Cruz, Ted [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "foreign land ownership",
+    "military base protection",
+    "China land purchases",
+    "Russian property buying",
+    "national security land deals",
+    "military installation safety",
+    "foreign investment restrictions",
+    "Iran North Korea property",
+    "land near military bases",
+    "government review foreign buyers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting Military Installations and Ranges Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-review-by-cfius",
+      "title": "Section 2 Review by Committee on Foreign Investment in the United States of Real Estate Purchases or Leases Near Military Installations or Military Airspace",
+      "text": "This section changes the rules about when a special government committee must review real estate deals. The Committee on Foreign Investment in the United States (a group that checks if foreign purchases might harm national security) must now review certain land deals. The committee must review when someone from Russia, China, Iran, or North Korea wants to buy or lease land near US military areas. This includes land within one hundred miles of any military base. It also includes land within fifty miles of military training routes, special military airspace, military firing ranges, or military operations areas. The review is required when the foreign buyer is owned by, controlled by, acting for, or gets money from the governments of Russia, China, Iran, or North Korea. The committee must start these reviews automatically without waiting for someone to ask them to do it. When the committee reviews these deals, they must tell the senators from that state and the local House representative about their decision.",
+      "word_offset": 16,
+      "char_offset": 99
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-limitation-on-energy-projects",
+      "title": "Section 3 Limitation on Approval of Energy Projects Related to Reviews Conducted by Committee on Foreign Investment in the United States",
+      "text": "This section creates new rules for approving energy projects like wind farms or solar panels. If the Committee on Foreign Investment is reviewing the purchase or lease of land where an energy project is planned, the Secretary of Defense cannot finish reviewing that energy project until the committee is done with their review. The Secretary of Defense must tell the Secretary of Transportation about this delay. If the committee decides that the land purchase threatens national security and sends the case to the President for action, then the Secretary of Defense must find that the energy project would create an unacceptable risk to national security. The Secretary of Transportation also cannot make a final decision about structures on land that is being reviewed by the Committee on Foreign Investment until the committee finishes their work and the Secretary of Defense either makes a finding about the project or says no finding will be made.",
+      "word_offset": 180,
+      "char_offset": 1121
+    }
+  ]
+}

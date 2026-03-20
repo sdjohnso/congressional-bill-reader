@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-432",
+  "title": "Seventh Amendment Restoration Act",
+  "short_title": "Seventh Amendment Restoration Act",
+  "congress": 119,
+  "bill_number": "HR.432",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "672a4c2f32080a9a",
+  "last_updated": "2026-03-20T14:15:56.103970+00:00",
+  "plain_summary": "This bill gives people a new choice when they have to go to court because of government agencies. Instead of having their case heard by a government agency officer, people can move their case to a regular federal court. They do this by filing a simple form in the federal court where they live or work. This gives people the same right they already have to move cases from state courts to federal courts.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "Administrative remedies",
+    "Civil actions and liability",
+    "Judicial procedure and administration",
+    "Jurisdiction and venue"
+  ],
+  "sponsor_name": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government agency court cases",
+    "federal court instead of agency",
+    "jury trial rights",
+    "move case to federal court",
+    "government agency lawsuits",
+    "court choice against agencies",
+    "federal court option",
+    "agency hearing alternatives",
+    "government case federal court",
+    "jury trial government agencies"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law may be called the Seventh Amendment Restoration Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-removal-of-case",
+      "title": "Section 2. Removal of Case",
+      "text": "This section changes section seven hundred and two of title five in the United States Code. The changes work like this. First, the section adds the words In General before the existing text that says A person suffering. Second, it adds a new part called Removal at the end. The Removal part has two main rules. Rule one says that if a person is facing an action before an agency hearing officer at any administrative agency, and that person wants to move their case to a federal district court, they can do so. They must file a notice of removal in the district court where they live or where their main business is located. They must file this notice the same way people file notices when moving cases from state courts, following the rules in section fourteen forty-six of title twenty-eight of the United States Code. Rule two explains that agency hearing officer means an administrative law judge (a government employee who acts like a judge in agency cases) or any other agency employee who is allowed to hear the case.",
+      "word_offset": 10,
+      "char_offset": 62
+    }
+  ]
+}

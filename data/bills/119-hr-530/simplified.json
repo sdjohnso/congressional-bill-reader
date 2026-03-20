@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-hr-530",
+  "title": "ACES Act",
+  "short_title": "ACES Act",
+  "congress": 119,
+  "bill_number": "HR.530",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+  "version_hash": "f138c40eb89446c3",
+  "last_updated": "2026-03-20T15:55:08.985955+00:00",
+  "plain_summary": "The ACES Act requires the Department of Veterans Affairs to work with the National Academies to study cancer in military aircrew members. The study will look at veterans who flew in regular airplanes while on active duty to see how many got cancer and how many died from it. Researchers will try to figure out if harmful substances these service members were exposed to while flying caused their cancer. The law also gives the government one extra month to handle some veteran pension payments.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-06",
+  "last_action_date": "2025-05-06",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Aviation and airports",
+    "Cancer",
+    "Congressional oversight",
+    "Government studies and investigations",
+    "Hazardous wastes and toxic substances",
+    "Medical research",
+    "Research administration and funding",
+    "Veterans' medical care"
+  ],
+  "sponsor_name": "Rep. Pfluger, August [R-TX-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 35,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "military pilots cancer",
+    "veterans cancer study",
+    "aircrew cancer rates",
+    "flying exposure health risks",
+    "air force pilot health",
+    "navy pilot cancer",
+    "toxic exposure flying",
+    "veteran pilot disease",
+    "military aviation health",
+    "cancer in veterans who flew"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the ACES Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-national-academies-study-on-prevalence-and-mortality-of-cancer-among-individuals-who-served-as-active-duty-aircrew-in-the-armed-forces",
+      "title": "Section 2 National Academies Study on Prevalence and Mortality of Cancer Among Individuals Who Served as Active Duty Aircrew in the Armed Forces",
+      "text": "The Secretary of Veterans Affairs must make an agreement within thirty days of this law passing. This agreement will be with the National Academies of Sciences, Engineering, and Medicine. The National Academies will study how common cancer is among military aircrew members and how many die from cancer. The Secretary must finish making this agreement within sixty days of starting talks with the National Academies. If the Secretary cannot meet this deadline, they must write a report to Congress explaining why they failed and when they think the agreement will be done. They must also give updates to Congress every sixty days until the agreement is finished. The study must find out what harmful things aircrew members were exposed to during their military jobs. This includes chemicals and other dangerous substances. The study must look at research to see if these exposures cause cancer or make people more likely to get cancer. The study will focus on brain cancer, colon and rectal cancers, kidney cancer, lung cancer, skin cancer called melanoma, non-Hodgkins lymphoma, pancreatic cancer, prostate cancer, testicular cancer, thyroid cancer, bladder cancer, and other cancers that the Secretary thinks are important. The study will try to figure out how many aircrew members get these cancers and how many die from them. The study will use health records from the Department of Veterans Affairs, the Department of Defense, and military branches. It will also use death records from the National Center for Health Statistics and information from another military health study. When the study is done, the National Academies must send a report with the results to the Secretary of Veterans Affairs and to the Veterans Affairs committees in both the House and Senate. A covered individual means someone who served on active duty in the Army, Navy, Air Force, or Marine Corps as a crew member on fixed-wing aircraft. This includes pilots, navigators, weapons system operators, aircraft system operators, and any other crew members who regularly flew in fixed-wing aircraft.",
+      "word_offset": 8,
+      "char_offset": 37
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-extension-of-certain-limits-on-payments-of-pension",
+      "title": "Section 3 Extension of Certain Limits on Payments of Pension",
+      "text": "This section changes a date in the law about veteran pension payment limits. The date November thirtieth, two thousand thirty-one is changed to December thirty-first, two thousand thirty-one.",
+      "word_offset": 339,
+      "char_offset": 2116
+    }
+  ]
+}

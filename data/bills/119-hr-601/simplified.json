@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-601",
+  "title": "Estate Tax Rate Reduction Act",
+  "short_title": "Estate Tax Rate Reduction Act",
+  "congress": 119,
+  "bill_number": "HR.601",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subseque",
+  "version_hash": "0c49391758961665",
+  "last_updated": "2026-03-20T14:44:45.127160+00:00",
+  "plain_summary": "This bill changes the tax rates that people pay on estates, gifts, and generation-skipping transfers. Instead of the current tax system, everyone will pay the same flat rate of twenty percent. The new tax rate will start on January 1, 2025. This means that after that date, when someone dies and leaves money to others, gives large gifts, or transfers money to grandchildren or great-grandchildren, the tax will be twenty percent.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provision",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Arrington, Jodey C. [R-TX-19]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "estate tax",
+    "inheritance tax",
+    "death tax",
+    "gift tax",
+    "tax on inheritance",
+    "twenty percent tax",
+    "flat tax rate",
+    "leaving money to family",
+    "tax when someone dies",
+    "grandchildren inheritance tax",
+    "estate tax reduction",
+    "inheritance tax rate"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Estate Tax Rate Reduction Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reduction-of-rate-of-tax-on-estates-gifts-and-generation-skipping-transfers",
+      "title": "Section 2  Reduction of Rate of Tax on Estates, Gifts, and Generation-Skipping Transfers",
+      "text": "This section changes the tax rate on estates, gifts, and generation-skipping transfers to twenty percent. An estate tax is money the government collects when someone dies and leaves property to others. A gift tax is money the government collects when someone gives large amounts of money or property to another person while still alive. A generation-skipping transfer tax is money the government collects when someone gives money or property to people who are two or more generations younger, like grandchildren instead of children.\n\nThe law makes several technical changes to existing tax rules to match this new twenty percent rate. It removes references to tax tables and rate schedules since there will now be just one flat rate.\n\nThese changes apply to people who die after December thirty first two thousand twenty four, and to gifts and generation-skipping transfers made after that date.\n\nThe law also says that the cost of these tax changes will not be counted on government budget scorecards that track whether new laws increase or decrease government spending and income.",
+      "word_offset": 11,
+      "char_offset": 58
+    }
+  ]
+}

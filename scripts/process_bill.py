@@ -313,6 +313,15 @@ def process_bill(folder: Path, client: anthropic.Anthropic):
         "version_hash": text_hash,
         "last_updated": datetime.now(timezone.utc).isoformat(),
         "plain_summary": whole_summary,
+        # Status tracking
+        "current_status": meta.get("current_status", "committee_reported"),
+        "status_date": meta.get("status_date", ""),
+        "last_action_date": meta.get("last_action_date", ""),
+        "last_action_text": meta.get("last_action_text", ""),
+        "passed_house": meta.get("passed_house", False),
+        "passed_senate": meta.get("passed_senate", False),
+        "became_law": meta.get("became_law", False),
+        "vetoed": meta.get("vetoed", False),
         # Search/enrichment fields
         "policy_area": meta.get("policy_area", ""),
         "subjects": subjects,

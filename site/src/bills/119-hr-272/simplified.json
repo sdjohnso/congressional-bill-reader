@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-272",
+  "title": "Protecting Life and Taxpayers Act of 2025",
+  "short_title": "Protecting Life and Taxpayers Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.272",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "7d9c465b81140c11",
+  "last_updated": "2026-03-20T12:28:32.768557+00:00",
+  "plain_summary": "This bill says that organizations must promise not to perform abortions or give money to other groups that perform abortions if they want to receive federal government funding. There are only three exceptions when abortions would still be allowed: when the pregnancy resulted from rape, when it resulted from incest, or when the mother's life is in serious danger. Any group that wants federal money would have to sign a paper promising to follow these rules. This law would apply to all federal funding that goes to healthcare organizations and other groups.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Health programs administration and funding"
+  ],
+  "sponsor_name": "Rep. Fischbach, Michelle [R-MN-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "MN",
+  "cosponsor_count": 45,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "abortion funding ban",
+    "federal money abortion",
+    "government funding abortion",
+    "taxpayer money abortion",
+    "abortion exceptions rape incest",
+    "healthcare funding restrictions",
+    "abortion organization funding",
+    "federal funds abortion providers",
+    "government abortion money",
+    "abortion taxpayer funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting Life and Taxpayers Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-abortion",
+      "title": "Section 2  Prohibition on Abortion",
+      "text": "The government cannot give federal money to any organization unless that organization promises it will not perform abortions. The organization must also promise it will not give money to any other organization that performs abortions. This rule applies to all federal funding, whether the money goes directly to the organization or through contracts with other groups. There are two exceptions to this rule. First, the rule does not apply if the pregnancy happened because of rape or incest. Second, the rule does not apply if a doctor says the woman has a physical problem, injury, or illness that would cause her to die unless she has an abortion. This includes life threatening conditions caused by the pregnancy itself. When this law says organization, it means the entire legal organization. This includes any organization that controls it, is controlled by it, or is controlled by the same parent organization.",
+      "word_offset": 16,
+      "char_offset": 90
+    }
+  ]
+}

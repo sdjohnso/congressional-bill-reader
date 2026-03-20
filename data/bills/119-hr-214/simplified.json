@@ -1,0 +1,72 @@
+{
+  "bill_id": "119-hr-214",
+  "title": "District of Columbia Legislative Home Rule Act",
+  "short_title": "District of Columbia Legislative Home Rule Act",
+  "congress": 119,
+  "bill_number": "HR.214",
+  "introduced_date": "2025-01-06",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to",
+  "version_hash": "bdd15078d61c7c41",
+  "last_updated": "2026-03-20T15:06:10.546728+00:00",
+  "plain_summary": "This bill would give Washington DC more control over making its own laws. Right now, when DC passes a new law, Congress has 30 days to look at it and can stop it from happening if they don't like it. This bill would end that process so Congress could no longer block DC's laws. Once DC passes a law, it would go into effect without needing Congress to approve it first.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-06",
+  "last_action_date": "2025-01-06",
+  "last_action_text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of su",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "District of Columbia",
+    "Intergovernmental relations",
+    "Legislative rules and procedure",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Del. Norton, Eleanor Holmes [D-DC]",
+  "sponsor_party": "D",
+  "sponsor_state": "DC",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Washington DC laws",
+    "DC self government",
+    "Congress blocking DC",
+    "DC home rule",
+    "Washington DC independence",
+    "DC local control",
+    "Congress oversight DC",
+    "DC legislative power",
+    "Washington DC autonomy",
+    "DC law making"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-references-in-act",
+      "title": "Section 1  Short Title; References in Act",
+      "text": "This law can be called the District of Columbia Legislative Home Rule Act. When this law talks about changing or removing parts of other laws, it means the District of Columbia Home Rule Act unless it says something different.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-elimination-of-congressional-review-period-for-district-of-columbia-acts",
+      "title": "Section 2  Elimination of Congressional Review Period for District of Columbia Acts",
+      "text": "This section removes the requirement that Congress must review and approve laws made by Washington DC before they can take effect. It deletes the part of the existing law that gave Congress time to look at DC laws and vote them down. It also removes the process that let Congress pass resolutions to reject DC laws. The section makes several other changes to existing laws to remove references to this Congressional review process. These changes include removing language about waiting periods and Congressional approval from various parts of DC's governing laws.",
+      "word_offset": 39,
+      "char_offset": 227
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-effective-date",
+      "title": "Section 3  Effective Date",
+      "text": "The changes made by this law will apply to any law passed by Washington DC starting on the first day of the One Hundred Nineteenth Congress. This includes laws that the DC Council passes and the Mayor signs, laws the Mayor vetoes but the Council passes again, laws the Council passes that become effective without the Mayor signing them, and laws that DC voters approve through ballot measures.",
+      "word_offset": 130,
+      "char_offset": 791
+    }
+  ]
+}

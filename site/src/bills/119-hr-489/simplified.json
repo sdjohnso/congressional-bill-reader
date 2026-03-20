@@ -1,0 +1,131 @@
+{
+  "bill_id": "119-hr-489",
+  "title": "Federal Agency Sunset Commission Act of 2025",
+  "short_title": "Federal Agency Sunset Commission Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.489",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to",
+  "version_hash": "b6f33f79d8518420",
+  "last_updated": "2026-03-20T15:07:15.435105+00:00",
+  "plain_summary": "This bill creates a group called the Federal Agency Sunset Commission that will decide which government agencies should be shut down. The Commission has thirteen members who must look at every government agency at least once every twelve years to see if it is still needed and working well. If the Commission decides an agency should be closed, Congress must vote to keep it running or it will automatically shut down. The Commission will also check if government agencies are doing things they are not supposed to do and will tell Congress about any new agencies that lawmakers want to create.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of su",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Advisory bodies",
+    "Congressional oversight",
+    "Executive agency funding and structure",
+    "Government employee pay, benefits, personnel management",
+    "Legislative rules and procedure",
+    "Performance measurement"
+  ],
+  "sponsor_name": "Rep. Cloud, Michael [R-TX-27]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government agencies shutdown",
+    "close federal departments",
+    "eliminate government programs",
+    "sunset commission",
+    "shrink government",
+    "government spending cuts",
+    "abolish federal agencies",
+    "reduce bureaucracy",
+    "government efficiency review",
+    "automatic agency closure",
+    "downsize federal government",
+    "government waste elimination"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Federal Agency Sunset Commission Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-review-and-abolishment-of-federal-agencies",
+      "title": "Section 2  Review and Abolishment of Federal Agencies",
+      "text": "The Federal Agency Sunset Commission must create a schedule within one year after this law is passed. This schedule will list every federal agency and set a date when each agency will be shut down unless Congress votes to keep it running. Each agency must be reviewed and potentially shut down at least once every twelve years, or sooner if Congress decides. Agencies that do similar work should be reviewed at the same time to make the process more efficient and help combine their work. Every agency will be shut down on its scheduled date unless Congress votes to keep it going. Congress can extend an agency's life by two more years, but this requires a supermajority vote in both the House of Representatives and the Senate. A supermajority means two thirds of all members must vote yes.",
+      "word_offset": 16,
+      "char_offset": 93
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-establishment-of-commission",
+      "title": "Section 3  Establishment of Commission",
+      "text": "This law creates a new group called the Federal Agency Sunset Commission. The Commission will have thirteen members. The President picks one member. The Senate majority leader picks three members, with two being current Senators and one being an expert in how government programs work. The Senate minority leader picks three members the same way. The Speaker of the House picks three members, with two being current House members and one being a government expert. The House minority leader picks three members the same way. If a Commission member who is in Congress leaves Congress, they also leave the Commission. All members must be chosen within ninety days after this law passes. Each member serves for six years. If someone leaves early, a replacement must be chosen within thirty days. The Commission picks its own Chairperson and Vice Chairperson who serve for four years. The Commission can hold hearings, ask for information from agencies, and make people testify under oath. They can issue subpoenas to force people to provide information or testify. If someone refuses, the Commission can ask a federal court to make them comply. The Commission can hire contractors and experts to help with their work. Commission members do not get paid but can get money back for travel expenses. The Commission has a director who is chosen by the Chairperson and must be approved by at least seven Commission members. The director can hire staff. All Commission staff follow regular government hiring and pay rules. The Commission can use postal services and get office support from other government agencies.",
+      "word_offset": 154,
+      "char_offset": 886
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-review-of-efficiency-and-need-for-federal-agencies",
+      "title": "Section 4  Review of Efficiency and Need for Federal Agencies",
+      "text": "The Commission must study how well each federal agency works and whether the public still needs it. They use specific rules listed in section five to make these decisions. By September first of each year, the Commission must send Congress and the President a report. This report must include an analysis of how well each agency scheduled for review that year operates and whether the public needs it. The report must also look at any powers the executive branch claims but Congress never specifically gave them. The Commission must recommend whether each agency should be shut down, reorganized, or kept running. They also recommend if any agency functions should be combined with other agencies. The report includes suggestions for changes but not recommendations about how much money agencies should get. Along with the report, the Commission sends Congress a joint resolution (a type of proposed law) to carry out their recommendations. The Commission must hold public hearings about shutting down each agency they review. They must let the public comment on these decisions. They require agencies to give them information and must talk with other government oversight groups like the General Accountability Office, the Office of Management and Budget, the Comptroller General, and key members of Congress who oversee each agency. The Commission uses a program inventory described in section nine to help with their reviews.",
+      "word_offset": 416,
+      "char_offset": 2494
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-criteria-for-review",
+      "title": "Section 5  Criteria for Review",
+      "text": "The Commission must use these specific rules to judge each agency. They look at how effective and efficient the agency's programs are. They check if programs are worth their cost. They see if the agency has gone beyond what Congress originally told it to do and whether it has achieved its original goals. They consider if there are less restrictive ways to do the agency's job. They examine how much the agency's work overlaps or conflicts with other agencies. They study whether combining the agency with similar ones would be beneficial. They count how many people benefit from the agency's programs. They look at future trends that might affect the need for the agency's work. They check if the agency follows federal laws about performance measurement and reporting. They see how well the agency asks for input from the public and state and local governments. They examine whether the agency tries to change laws to benefit everyone, not just the specific groups it regulates. They check if the agency encourages participation from the whole public in making rules, not just from those it regulates. They see if public participation has led to good decisions that match the agency's goals. They review if the agency follows equal employment opportunity laws. They study the regulatory, privacy, and paperwork burdens the agency creates. They check how well the agency works with state and local governments. They consider what would happen to state and local governments if the agency were shut down. They determine if the agency's authorizing laws need changes to make it work better.",
+      "word_offset": 642,
+      "char_offset": 3922
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-oversight-by-commission",
+      "title": "Section 6  Oversight by Commission",
+      "text": "The Commission must watch to make sure Congress follows through on laws that use the Commission's recommendations about shutting down or reorganizing agencies. The Commission must review and report to Congress on any new legislation that would create a new agency or add new programs to existing agencies. In these reports, the Commission must analyze whether existing agencies could do the work of the proposed new agency or program. They must consider if the proposed functions could be done in a less restrictive way than what the legislation suggests. They must check if the legislation allows for public input on how the proposed agency or program would work.",
+      "word_offset": 904,
+      "char_offset": 5513
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-disposition-of-agency-affairs",
+      "title": "Section 7  Disposition of Agency Affairs",
+      "text": "When an agency is scheduled to be shut down, the President must work with the agency's leader to close it down properly during the year after its abolishment date. This includes choosing another agency to take over any ongoing responsibilities, keep important records, handle unresolved lawsuits, or deal with other obligations that cannot be finished within one year.",
+      "word_offset": 1012,
+      "char_offset": 6178
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-program-inventory",
+      "title": "Section 8  Program Inventory",
+      "text": "The Comptroller General and the Director of the Congressional Budget Office, working with the Director of the Congressional Research Service, must create a list of all federal programs within each agency. This list helps Congress and the Commission do their work under this law. The list does not limit what congressional committees can do and does not interfere with their responsibilities. The inventory must include specific information for each program. This includes the laws that authorize the program, which congressional committees oversee it, a brief explanation of the program's purpose, which committees handle its funding, which agency runs it, any grants it gives to state and local governments, when it needs reauthorization, a unique identification number, when it was created and when it expires, when its funding was last authorized and when current authorizations expire, and any other information the Commission thinks is necessary. The inventory also shows whether each program's budget authority is authorized for a specific time period, authorized for a specific dollar amount without time limits, authorized without time or dollar limits, not specifically authorized, or permanently provided. For each program, the Congressional Budget Office must provide information about funding amounts for the past four years and next four years, how the program is classified in the budget, and which appropriation account provides its funding. The General Accountability Office, Congressional Research Service, and Congressional Budget Office must share information to help create this inventory. The Office of Management and Budget and federal agencies must help the Comptroller General compile this inventory. These communications stay confidential until the Commission issues its report.",
+      "word_offset": 1070,
+      "char_offset": 6547
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-expedited-consideration-for-schedule-for-review",
+      "title": "Section 9  Expedited Consideration for Schedule for Review",
+      "text": "The joint resolution containing the Commission's schedule must be introduced in the Senate by the majority leader and in the House by the Speaker within sixty days after the Commission submits it to Congress. If they do not introduce it, any member of Congress can introduce it starting on the fifth day their chamber is in session after the submission deadline. The joint resolution goes to appropriate committees, which can review and comment on it but cannot change it. Committees have thirty days to report the resolution back. If they do not report it within thirty days, they are automatically discharged and the resolution goes to the chamber's calendar. Within thirty days after a committee reports the resolution or is discharged, the majority leader or Speaker must move to consider it, though any member can make this motion after five days. The motion to proceed cannot be debated, amended, or postponed. If it passes, the chamber immediately considers the joint resolution. Debate is limited to ten hours, split equally between supporters and opponents. No amendments are allowed. After debate ends, there is an immediate vote on final passage. No motions to postpone, consider other business, or send it back to committee are allowed. If one chamber receives a joint resolution from the other chamber before passing its own version, the received version cannot go to committee and the chamber follows the same procedure. The final vote is on the other chamber's version. Once one chamber acts on the other's resolution, it cannot consider its own version anymore. This section is part of each chamber's rules but can be changed like any other rule. If Congress fails to act within one year of introduction, the joint resolution automatically takes effect.",
+      "word_offset": 1334,
+      "char_offset": 8351
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-definitions",
+      "title": "Section 10  Definitions",
+      "text": "In this law, agency means any executive agency as defined in federal law, including advisory committees. Calendar day means any day except when either chamber of Congress is not meeting because of an adjournment of more than three days. Commission means the Federal Agency Sunset Commission created by this law. Supermajority means a yes vote by two thirds of all members who are properly chosen and sworn in. Advisory committee has the same meaning as defined in federal law. Joint resolution means a joint resolution that contains the legislative language the Commission submits and that is introduced in Congress.",
+      "word_offset": 1623,
+      "char_offset": 10121
+    }
+  ]
+}

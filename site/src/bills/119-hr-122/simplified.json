@@ -1,0 +1,72 @@
+{
+  "bill_id": "119-hr-122",
+  "title": "Original LAW Act",
+  "short_title": "Original LAW Act",
+  "congress": 119,
+  "bill_number": "HR.122",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "71bd01ad524b6c07",
+  "last_updated": "2026-03-20T13:32:29.466311+00:00",
+  "plain_summary": "This bill would raise the federal minimum wage to help workers earn more money. Starting in 2026, the minimum wage would go from $10.59 per hour to $26.59 per hour by 2030, with the wage going up by $4 each year. After 2030, the government would set a new minimum wage every seven years using a special formula. The formula makes sure that someone working about 35 hours per week can earn enough money to support a family of four and stay well above the poverty line.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Labor and Employment",
+  "subjects": [
+    "Housing finance and home ownership",
+    "Labor standards",
+    "Wages and earnings"
+  ],
+  "sponsor_name": "Rep. Green, Al [D-TX-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "minimum wage increase",
+    "hourly wage raise",
+    "federal minimum wage",
+    "worker pay increase",
+    "living wage",
+    "wage hike",
+    "minimum wage 2026",
+    "family supporting wage",
+    "poverty level wages",
+    "hourly pay standards",
+    "worker earnings boost",
+    "wage increase bill"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Original Living American Wage Act or the Original LAW Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings-sense-of-congress",
+      "title": "Section 2 Findings and What Congress Believes",
+      "text": "Congress has found these facts. In two thousand twenty two, about thirty seven million nine hundred thousand Americans were living in poverty. These people could not get good opportunities because they did not have enough money for housing, education, jobs, and health care. A person who works full time at the current minimum wage earns only twenty dollars more than the poverty line for one person. For a two person household, they earn five thousand three hundred sixty dollars less than the poverty line. The average rent for a one bedroom apartment costs more than one hundred ten percent of what a full time minimum wage worker earns each month. Most experts say families should spend no more than thirty percent of their income on housing. Even two full time workers earning minimum wage together do not earn enough to afford a one bedroom apartment without spending more than thirty percent of their income. In two thousand twenty three, research from the Massachusetts Institute of Technology showed that the average living wage across all fifty states was twenty six dollars and fifty nine cents per hour. This equals about forty eight thousand one hundred fifty four dollars and forty nine cents per year. Congress believes the minimum wage should be raised whenever inflation goes up by five percent or more for two years in a row. The minimum wage should be set so that a worker earns at least forty percent more than the supplemental poverty threshold for a family of four who rent their home, as measured by the Bureau of Labor Statistics. The minimum wage should be high enough so that two full time minimum wage workers can afford housing. Congress and any state, territory, tribal government, or local government can set a higher minimum wage than what this law requires.",
+      "word_offset": 16,
+      "char_offset": 86
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-minimum-wage",
+      "title": "Section 3 Minimum Wage",
+      "text": "This section changes the Fair Labor Standards Act of nineteen thirty eight. The minimum wage will increase in steps. Starting January first two thousand twenty six, the minimum wage will be ten dollars and fifty nine cents per hour. Starting January first two thousand twenty seven, it will be fourteen dollars and fifty nine cents per hour. Starting January first two thousand twenty eight, it will be eighteen dollars and fifty nine cents per hour. Starting January first two thousand twenty nine, it will be twenty two dollars and fifty nine cents per hour. Starting January first two thousand thirty, it will be twenty six dollars and fifty nine cents per hour. Starting January first two thousand thirty one, the minimum wage will be set using a special formula. The Secretary of Labor must figure out the new minimum wage rate by October first two thousand thirty and every seven years after that. The Secretary must publish this rate in the Federal Register by November first of each year when a new rate is set. The formula works like this. The minimum wage must be high enough so that someone working one thousand seven hundred ninety nine hours per year earns forty percent more money than the federal supplemental poverty threshold. This threshold is set for a family of four who rent their home and have two children under age eighteen. The Bureau of Labor Statistics publishes this threshold each year. However, if the new formula would make the minimum wage lower than it already is, the Secretary cannot lower the wage. The minimum wage can only stay the same or go up, never down.",
+      "word_offset": 319,
+      "char_offset": 1876
+    }
+  ]
+}

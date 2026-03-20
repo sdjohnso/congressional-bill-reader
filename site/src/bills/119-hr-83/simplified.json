@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-83",
+  "title": "Ending Common Core and Expanding School Choice Act",
+  "short_title": "Ending Common Core and Expanding School Choice Act",
+  "congress": 119,
+  "bill_number": "HR.83",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "c7f586f9057b9248",
+  "last_updated": "2026-03-20T11:55:32.210760+00:00",
+  "plain_summary": "This bill changes how the federal government gives money to schools for poor children. Instead of requiring states to follow federal rules about testing and teaching standards, states can decide how to use the money themselves. The money is given out based on how many poor children live in each state. States can give this money to public schools, charter schools, private schools, or even directly to parents to pay for their child's education. The bill also stops federal workers from telling states what they have to teach or how they have to test students.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Academic performance and assessments",
+    "Education of the disadvantaged",
+    "Education programs funding",
+    "Elementary and secondary education",
+    "Teaching, teachers, curricula"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "school choice",
+    "education funding",
+    "poor children schools",
+    "federal education rules",
+    "charter schools",
+    "private school vouchers",
+    "state education control",
+    "Common Core standards",
+    "parent school options",
+    "testing requirements",
+    "disadvantaged students",
+    "education money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Ending Common Core and Expanding School Choice Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-state-educational-agency-grants-to-eligible-children",
+      "title": "Section 2 State Educational Agency Grants to Eligible Children",
+      "text": "This section changes how federal education money is given to states. Instead of the old system, states will now get money based on how many poor children live in their state. An eligible child is someone between ages five and seventeen whose family earns less money than the poverty level. The poverty level is determined using the same rules the Census Bureau uses when it counts people every ten years. Each year, the federal government will give each state education agency money. The state will then divide that money by the number of poor children in the state to figure out how much money each child gets. States must use this money for qualified elementary and secondary education expenses. These expenses can include costs for local public schools, public or charter schools the child attends, tuition for private schools that are approved by the state, or fees for extra educational programs approved by the state. If state law says so, states can give this money directly to parents of eligible children. When this happens, states must make sure the money is being used properly and may require parents to put the money in a special education savings account. The federal government cannot force states or schools to use specific teaching materials, tests, or education standards. This includes the Common Core State Standards or any other standards used by many states. Federal employees cannot require states to give certain tests, follow specific standards, or use particular accountability systems. States will not lose funding if they choose not to use these things.",
+      "word_offset": 14,
+      "char_offset": 79
+    }
+  ]
+}

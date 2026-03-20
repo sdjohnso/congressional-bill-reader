@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-578",
+  "title": "Sarah’s Law",
+  "short_title": "Sarah’s Law",
+  "congress": 119,
+  "bill_number": "HR.578",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "c1a0df47817adbe8",
+  "last_updated": "2026-03-20T13:50:55.309875+00:00",
+  "plain_summary": "This law says that immigration officials must arrest and hold immigrants who are in the country illegally and have been charged with crimes that killed someone or badly hurt someone. The officials have to keep these immigrants locked up instead of letting them go free. The law also requires officials to find out who the victims were and tell the victims or their families about the immigrant who hurt them. Officials must share information like the immigrant's name, age, where they are from, and whether they are being sent out of the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Feenstra, Randy [R-IA-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 53,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigration arrest",
+    "illegal immigrants crime",
+    "immigrant detention law",
+    "victims families notification",
+    "immigrants charged murder",
+    "hold immigrants jail",
+    "deport criminals",
+    "immigrant crime victims",
+    "Sarah's Law",
+    "mandatory detention immigrants",
+    "crime victim information",
+    "illegal immigrant assault"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called Sarah's Law.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-mandatory-detention-of-certain-aliens-charged-with-a-crime-resulting-in-death-or-serious-bodily-injury",
+      "title": "Section 2  Mandatory Detention of Certain Aliens Charged with a Crime Resulting in Death or Serious Bodily Injury",
+      "text": "This section changes the Immigration and Nationality Act. The changes add new rules about when the government must keep certain immigrants in custody. The new rules apply to immigrants who are not allowed to be in the United States under specific immigration laws and who have been charged with a crime that caused someone to die or get badly hurt. Immigration officials must hold these people and cannot let them go free while their cases are being decided. When immigration officials find out about these immigrants, they must get information about the victims of the crimes. Officials must then tell the victims or their closest family members important information about the immigrant. This information includes the immigrant's name, birth date, country they came from, immigration status, criminal history, whether they are being held in custody, and what the government is doing to remove them from the United States. Officials must share this information quickly and keep updating the victims or families. Immigration officials must also issue a detainer for these immigrants. A detainer is an official request to keep someone in custody. If local police or other officials are not already holding the immigrant, federal immigration officials must take custody of them quickly.",
+      "word_offset": 7,
+      "char_offset": 36
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-savings-provision",
+      "title": "Section 3  Savings Provision",
+      "text": "This law does not take away any rights that crime victims already have under other laws. Crime victims still keep all the rights given to them by other federal laws, including those found in section three thousand seven hundred seventy one of title eighteen of the United States Code.",
+      "word_offset": 210,
+      "char_offset": 1321
+    }
+  ]
+}

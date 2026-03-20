@@ -1,0 +1,93 @@
+{
+  "bill_id": "119-hr-633",
+  "title": "TAKE IT DOWN Act",
+  "short_title": "TAKE IT DOWN Act",
+  "congress": 119,
+  "bill_number": "HR.633",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Reported by the Committee on Energy and Commerce. H. Rept. 119-82.",
+  "version_hash": "8a7fd0894f2e8f82",
+  "last_updated": "2026-03-20T11:46:32.475065+00:00",
+  "plain_summary": "The TAKE IT DOWN Act makes it a federal crime to share private intimate photos or videos of someone online without their permission. This includes both real images and fake ones made with computer technology. The law also makes it illegal to threaten to share these types of images. Online websites and apps must create a way for victims to report these images and remove them within 48 hours. People who break this law can face jail time, fines, and must pay money to help the victims.",
+  "current_status": "committee_reported",
+  "status_date": "2025-04-28",
+  "last_action_date": "2025-04-28",
+  "last_action_text": "Placed on the Union Calendar, Calendar No. 59.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [
+    "Child safety and welfare",
+    "Crimes against children",
+    "Criminal investigation, prosecution, interrogation",
+    "Digital media",
+    "Fraud offenses and financial crimes",
+    "Internet, web applications, social media",
+    "Pornography",
+    "Sex offenses"
+  ],
+  "sponsor_name": "Rep. Salazar, Maria Elvira [R-FL-27]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 41,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "revenge porn",
+    "intimate images",
+    "non consensual sharing",
+    "fake nude photos",
+    "deepfake videos",
+    "online harassment",
+    "image based abuse",
+    "private photos leaked",
+    "sexual blackmail",
+    "cyber exploitation",
+    "digital sexual abuse",
+    "remove intimate content"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Tools to Address Known Exploitation by Immobilizing Technological Deepfakes On Websites and Networks Act or the TAKE IT DOWN Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-criminal-prohibition-on-intentional-disclosure-of-nonconsensual-intimate-visual-depictions",
+      "title": "Section 2  Criminal Prohibition on Intentional Disclosure of Nonconsensual Intimate Visual Depictions",
+      "text": "This section makes it a federal crime to share intimate photos or videos of someone without their permission. The law defines several important terms. Consent means freely agreeing to something without being forced, tricked, or pressured. Digital forgery means fake intimate images or videos of a real person created using computers, artificial intelligence, or other technology. An identifiable individual is someone whose face or other recognizable features can be seen in the image or video. Interactive computer service means websites and online platforms. Intimate visual depiction means photos or videos showing nudity or sexual activity. Minor means anyone under eighteen years old.\n\nThe law makes it illegal to post real intimate photos or videos of adults online if the person knew the individual expected privacy when the image was taken, the person did not expose themselves publicly on purpose, the image is not about something the public needs to know about, and posting it was meant to cause harm or actually causes psychological, financial, or reputation damage. For minors, it is illegal to post intimate images or videos with the intent to abuse, humiliate, harass, or degrade them, or to sexually arouse someone.\n\nThe same rules apply to digitally created fake intimate images. It is illegal to post computer-generated intimate images of adults without their consent if they did not expose themselves publicly, it is not a matter of public concern, and posting causes or is meant to cause harm. For minors, posting fake intimate images is illegal if done to abuse, humiliate, harass, degrade, or sexually arouse someone.\n\nThere are exceptions to these rules. Law enforcement and intelligence agencies can share these images as part of their authorized work. People can share them in good faith with police, in legal cases, for medical or educational purposes, to report illegal content, or to get help. People can share images of themselves. The rules do not apply to child pornography cases, which are handled under different laws.\n\nPeople who break these laws face serious penalties. Those who share real or fake intimate images of adults without permission can be fined and imprisoned for up to two years. Those who share intimate images of minors can be fined and imprisoned for up to three years. The law also makes it illegal to threaten to share these images to intimidate, blackmail, or cause distress, with penalties ranging from eighteen months to thirty months in prison depending on whether adults or minors are involved.\n\nCourts must order people convicted under this law to give up any materials they shared illegally, any money they made from the crime, and any property they used to commit the crime. Courts must also order them to pay money to help victims recover from their losses. This law does not prevent other laws from being used to prosecute these crimes.",
+      "word_offset": 26,
+      "char_offset": 157
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-notice-and-removal-of-nonconsensual-intimate-visual-depictions",
+      "title": "Section 3  Notice and Removal of Nonconsensual Intimate Visual Depictions",
+      "text": "This section requires certain online platforms (called covered platforms) to create a system for removing intimate photos and videos that were posted without permission. Within one year of this law taking effect, covered platforms must set up a process that allows people to report these images and request their removal.\n\nWhen someone wants to report an image, they must provide a written request that includes their signature, information to help the platform find the image, a statement explaining why they believe the image was posted without permission, and contact information. The platform must make this reporting process easy to find and understand, with clear instructions about how it works.\n\nOnce a platform receives a valid removal request, they have forty-eight hours to remove the image and make reasonable efforts to find and remove identical copies of the same image. Platforms will not be held legally responsible if they remove content in good faith based on a removal request, even if the content turns out to be legal.\n\nThe Federal Trade Commission (an agency that protects consumers) will enforce these rules. If platforms do not properly follow the removal requirements, it will be treated as an unfair or deceptive business practice. The Commission has the same powers to enforce this law as it does for other consumer protection laws. This includes the ability to take action against nonprofit organizations, not just for-profit businesses.",
+      "word_offset": 497,
+      "char_offset": 3056
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-definitions",
+      "title": "Section 4  Definitions",
+      "text": "This section defines important terms used throughout the law. Commission means the Federal Trade Commission. The terms consent, digital forgery, identifiable individual, intimate visual depiction, and minor have the same meanings as defined in the criminal section of this law.\n\nCovered platform means websites, online services, or mobile apps that serve the public and either primarily provide a place for users to post their own content like messages, videos, images, games, and audio files, or regularly publish, organize, host, or make available nonconsensual intimate images as part of their business. However, covered platform does not include internet service providers that provide basic internet access, email services, or online services that mainly show pre-selected content chosen by the company rather than content created by users, as long as any chat or comment features are just extras related to that pre-selected content.",
+      "word_offset": 729,
+      "char_offset": 4522
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-severability",
+      "title": "Section 5  Severability",
+      "text": "If any part of this law is found to be unenforceable or invalid by a court, the rest of the law will still remain in effect and continue to work.",
+      "word_offset": 869,
+      "char_offset": 5462
+    }
+  ]
+}

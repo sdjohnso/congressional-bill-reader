@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-66",
+  "title": "Federal Employee Student Debt Transparency Act",
+  "short_title": "Federal Employee Student Debt Transparency Act",
+  "congress": 119,
+  "bill_number": "HR.66",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "351ae6f84ec4e8f8",
+  "last_updated": "2026-03-20T15:13:07.971239+00:00",
+  "plain_summary": "This bill requires certain high-level federal government workers to report how much money they owe on their federal student loans every year. The rule applies to employees in senior positions or those who help make important government policies. These workers must report what they owe on different types of federal student loans. The Office of Government Ethics will then send a yearly report to Congress showing the total amount owed by all these employees and listing anyone who failed to report their debt.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Government employee pay, benefits, personnel management",
+    "Government information and archives",
+    "Government lending and loan guarantees",
+    "Higher education",
+    "Student aid and college costs"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal employee student loans",
+    "government worker debt reporting",
+    "student loan transparency",
+    "federal student debt disclosure",
+    "government employee financial reporting",
+    "senior federal worker loans",
+    "student loan debt tracking",
+    "federal employee loan amounts",
+    "government worker student debt",
+    "congressional oversight student loans"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Federal Employee Student Debt Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-disclosure-of-federal-student-loan-debt",
+      "title": "Section 2  Disclosure of Federal Student Loan Debt by SES and Schedule C Employees",
+      "text": "This section changes existing law to add new rules about reporting student loan debt. The new rules apply to covered employees, which means people who work for the executive branch of government in high-level positions. This includes people in Senior Executive Service positions, which are top management jobs in government agencies. It also includes people in Schedule C positions, which are jobs that involve making important policy decisions or handling confidential information. These covered employees must file reports about their federal student loan debt. The reports must include the full amount of money they still owe, including both the original loan amount and interest, on any federal student loans. This includes loans made directly by the government and loans that were made by banks but backed by the government. Covered employees must file their first report within sixty days after this law takes effect, and then by February twenty-eighth every year after that. If someone becomes a covered employee after the law starts, they have sixty days from when they start their job to file their first report. Each year by May first, the Director of the Office of Government Ethics must send a report to Congress. This report must show the total amount of student loan debt owed by all covered employees. It must also list the names of any covered employees who failed to file their required reports.",
+      "word_offset": 12,
+      "char_offset": 75
+    }
+  ]
+}

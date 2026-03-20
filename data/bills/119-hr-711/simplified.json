@@ -1,0 +1,114 @@
+{
+  "bill_id": "119-hr-711",
+  "title": "FAIR Act of 2025",
+  "short_title": "FAIR Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.711",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Government Reform, Educat",
+  "version_hash": "6143bd183dc4ae29",
+  "last_updated": "2026-03-20T13:37:46.164201+00:00",
+  "plain_summary": "The FAIR Act of 2025 stops the federal government and groups that get federal money from treating people differently because of their race, skin color, or where they come from. This means no giving special advantages to some people or discriminating against others based on these things. Federal agencies have six months to look at their rules and change them to follow this new law. If someone gets hurt because a group breaks this rule, they can take them to court and get money for damages and lawyer costs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Government Reform, Education and Workforce, and House Administration, for a period to be subsequently det",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "subjects": [
+    "Civil actions and liability",
+    "Congressional oversight",
+    "Due process and equal protection",
+    "Government employee pay, benefits, personnel management",
+    "Public contracts and procurement",
+    "Racial and ethnic relations",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Tiffany, Thomas P. [R-WI-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "stop racial preferences",
+    "end affirmative action",
+    "ban race based hiring",
+    "federal discrimination ban",
+    "equal treatment law",
+    "colorblind government",
+    "race neutral policies",
+    "anti discrimination bill",
+    "lawsuit against bias",
+    "fair hiring practices"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Fairness, Anti-discrimination and Individual Rights Act of two thousand twenty-five or the FAIR Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-against-discrimination-and-preferential-treatment",
+      "title": "Section 2 Prohibition Against Discrimination and Preferential Treatment",
+      "text": "Even if other laws say something different, the federal government and all people who work for the federal government cannot treat people differently based on their race, skin color, or what country they come from. They cannot discriminate against someone or give someone special advantages for these reasons. This rule applies to federal contracts, federal jobs, and any programs or activities run by the federal government. The federal government also cannot ask or push private companies that work with the government to treat people differently based on race, skin color, or national origin when those companies are doing work for the government or receiving government money or licenses.",
+      "word_offset": 24,
+      "char_offset": 156
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-relating-to-recipients-of-federal-aid",
+      "title": "Section 3 Prohibition Relating to Recipients of Federal Aid",
+      "text": "Any state government or private organization that gets money from the federal government cannot treat people differently based on their race, skin color, or what country they come from. This rule covers their contracts with other organizations, their hiring practices, and admission to schools and colleges.",
+      "word_offset": 132,
+      "char_offset": 849
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-construction",
+      "title": "Section 4 Construction",
+      "text": "This law does not change any laws about immigration or citizenship, or how those laws are carried out.",
+      "word_offset": 178,
+      "char_offset": 1157
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-compliance-review-of-policies-and-regulations",
+      "title": "Section 5 Compliance Review of Policies and Regulations",
+      "text": "Within six months after this law takes effect, the head of every federal department and agency must work with the Attorney General to review all their current rules and policies. They must change any rules that do not follow this new law. They must then report their findings and any changes they made to the Judiciary Committees in both the House of Representatives and the Senate.",
+      "word_offset": 196,
+      "char_offset": 1260
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-remedies",
+      "title": "Section 6 Remedies",
+      "text": "If someone is harmed because this law was broken, they can sue the person or organization that broke the law in court. This includes suing government agencies. If they win their case, they can get appropriate relief, which may include back pay for lost wages. If they win, the court will also order the losing side to pay their lawyer fees. This section does not take away any other legal remedies that might be available under different laws.",
+      "word_offset": 262,
+      "char_offset": 1643
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-effect-on-pending-matters",
+      "title": "Section 7 Effect on Pending Matters",
+      "text": "This law does not affect any court cases that are already ongoing when this law takes effect. This law also does not affect any contracts or agreements that are already in place when this law takes effect, including any options to extend those contracts that are used before or after this law takes effect.",
+      "word_offset": 340,
+      "char_offset": 2087
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-definitions",
+      "title": "Section 8 Definitions",
+      "text": "In this law, Federal Government means the executive branch (like the President and federal agencies) and the legislative branch (Congress) of the United States government. Preference means any kind of advantage given to someone, including quotas (specific numbers of people who must be chosen), set-asides (reserving opportunities for certain groups), numerical goals, timetables, or other number-based targets.",
+      "word_offset": 394,
+      "char_offset": 2394
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "bill_id": "119-hr-344",
+  "title": "Anti-Congestion Tax Act",
+  "short_title": "Anti-Congestion Tax Act",
+  "congress": 119,
+  "bill_number": "HR.344",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Highways and Transit.",
+  "version_hash": "9755eff0122bb588",
+  "last_updated": "2026-03-20T13:43:00.592197+00:00",
+  "plain_summary": "This bill is about New York City's new congestion toll that charges drivers to enter busy parts of Manhattan. The bill says the federal government cannot give transportation money to New York's subway and bus system until they give discounts to drivers who already paid tolls on bridges and tunnels like the Lincoln Tunnel or George Washington Bridge. It also creates a tax credit so these drivers can get some money back on their taxes for paying the congestion tolls. The goal is to make sure drivers don't get charged twice for entering the same area of the city.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the Subcommittee on Highways and Transit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [
+    "Income tax credits",
+    "Motor vehicles",
+    "New Jersey",
+    "New York City",
+    "New York State",
+    "Roads and highways",
+    "Tax administration and collection, taxpayers",
+    "Transportation costs",
+    "User charges and fees"
+  ],
+  "sponsor_name": "Rep. Gottheimer, Josh [D-NJ-5]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congestion pricing",
+    "Manhattan tolls",
+    "NYC traffic fees",
+    "double tolling",
+    "bridge tunnel tolls",
+    "subway funding",
+    "transit money",
+    "driving tax credit",
+    "Manhattan driving charge",
+    "Lincoln Tunnel George Washington Bridge",
+    "New York City traffic tax",
+    "federal transportation funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Anti-Congestion Tax Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-condition-on-receipt-of-capital-investment-grants",
+      "title": "Section 2 Condition on Receipt of Capital Investment Grants",
+      "text": "The Secretary of Transportation cannot give capital investment grants to the Metropolitan Transportation Authority for New York State projects until certain rules are followed. These grants are the type described in section five thousand three hundred thirty eight part d of title forty nine of the United States Code. Before getting grants, the Secretary must confirm that vehicles entering the congestion tolling zone get exemptions if they use certain crossings first. The congestion tolling zone is an area in Manhattan south of and including Sixtieth Street, but it does not include the Franklin D. Roosevelt Drive. If a vehicle uses the Holland Tunnel, Lincoln Tunnel, or George Washington Bridge before entering the congestion tolling zone, that vehicle gets credit. The credit equals the amount the vehicle paid to use that crossing. This credit reduces how much congestion toll the vehicle must pay when entering the zone. For the George Washington Bridge, vehicles get the same treatment as vehicles using the Henry Hudson Bridge got on the first day congestion tolls started. This rule applies to grants awarded on or after the first day congestion tolls are charged. A congestion toll means any fee charged for entering or staying in the congestion tolling zone.",
+      "word_offset": 9,
+      "char_offset": 52
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-credit-for-certain-congestion-tolls",
+      "title": "Section 3 Credit for Certain Congestion Tolls",
+      "text": "This section adds a new part to the tax code called section thirty E. Taxpayers can claim a tax credit for congestion tolls they paid during the tax year. The credit amount equals any congestion toll paid for using qualified vehicular crossings before entering the congestion tolling zone. Qualified vehicular crossings include the Holland Tunnel, Lincoln Tunnel, George Washington Bridge, or any other crossing used right before entering the congestion tolling zone. People cannot claim both this credit and any other tax deduction for the same congestion toll payment. The tax code table will be updated to include this new section. These tax changes apply to tax years that begin after this law is passed.",
+      "word_offset": 212,
+      "char_offset": 1327
+    }
+  ]
+}

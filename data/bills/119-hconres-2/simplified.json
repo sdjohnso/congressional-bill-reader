@@ -1,0 +1,84 @@
+{
+  "bill_id": "119-hconres-2",
+  "title": "Reclaiming Congress’s Constitutional Mandate in Trade Resolution",
+  "short_title": "Reclaiming Congress’s Constitutional Mandate in Trade Resolution",
+  "congress": 119,
+  "bill_number": "HCONRES.2",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Rules, and in addition to the Committee on Ways and Means, for a period to be subsequently ",
+  "version_hash": "5f7fbbfd5076803c",
+  "last_updated": "2026-03-20T13:30:39.901090+00:00",
+  "plain_summary": "This bill would move the Office of the United States Trade Representative from being part of the president's team to being part of Congress instead. It creates a special committee of 14 Congress members and an advisory board of 21 people to figure out how to make this change happen. The committee has 16 months to come up with a plan and write a report about it. Once the plan is finished, the trade office must be moved to Congress within four years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on Rules, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Advisory bodies",
+    "Congressional agencies",
+    "Congressional committees",
+    "Congressional operations and organization",
+    "Executive agency funding and structure",
+    "Office of the U.S. Trade Representative",
+    "Trade agreements and negotiations"
+  ],
+  "sponsor_name": "Rep. Griffith, H. Morgan [R-VA-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "trade representative",
+    "Congress control trade",
+    "move trade office",
+    "trade negotiations Congress",
+    "presidential trade powers",
+    "trade authority transfer",
+    "Congress trade committee",
+    "trade deals oversight",
+    "executive branch trade",
+    "trade policy control",
+    "government trade reorganization",
+    "congressional trade power"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This resolution can be called the Reclaiming Congress's Constitutional Mandate in Trade Resolution.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-joint-ad-hoc-committee-on-trade-responsibilities",
+      "title": "Section 2 Joint Ad Hoc Committee on Trade Responsibilities",
+      "text": "This section creates a special temporary committee called the Joint Ad Hoc Committee on Trade Responsibilities. The committee will have fourteen members total. Nine members will come from the House of Representatives and must serve on either the Ways and Means Committee or the Energy and Commerce Committee. The Speaker of the House will pick six of these nine members and choose one to be the chair. The minority leader of the House will pick the other three. Five members will come from the Senate and must serve on the Finance Committee. The majority leader of the Senate will pick three of these five and choose one to be the vice chair. The minority leader of the Senate will pick the other two. All members must be chosen within sixty days after this resolution is approved. The main job of this committee is to create a plan that moves all the work and duties of the Office of the United States Trade Representative from the executive branch to Congress. This move must follow what Article One Section Eight of the Constitution says about Congress having power over trade. When making this plan, the committee must regularly talk with the Congressional Advisory Board on Trade Responsibilities that is created in Section Three. The plan must move these trade duties to Congress either four years after the committee finishes its report or on July first two thousand twenty eight, whichever comes later. The committee can meet and work during regular sessions and breaks in Congress. It can make witnesses come testify and can request documents and papers. The committee can swear in witnesses and take their testimony. It can also arrange for printing and binding services. Starting ninety days after this resolution passes, the committee can meet when the chair calls a meeting or when most of the appointed members want to meet. The committee can hire experts, consultants, technical workers, and office staff as needed, but should use existing staff when possible. Staff will be paid according to current rules for congressional employees. The committee can also use volunteer workers and can get help from other parts of Congress. People who testify before the committee will get money back for travel costs and other necessary expenses. The House of Representatives will pay for the House portion of committee expenses through vouchers signed by the chair and approved by the House Administration Committee. The Senate will pay for its portion from the Senate contingent fund through vouchers signed by the vice chair. The committee must give Congress a report with their plan no later than sixteen months after all committee members are chosen. The committee will end one year after it submits this report.",
+      "word_offset": 13,
+      "char_offset": 100
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-congressional-advisory-board",
+      "title": "Section 3 Congressional Advisory Board",
+      "text": "This section creates a Congressional Advisory Board on Trade Responsibilities with twenty one members. The Speaker of the House will choose four members. One must be an expert on what the Constitution says about the President and Congress roles in trade policy and trade agreements. Three must represent non federal governments, workers, businesses, farmers, small businesses, service companies, stores, environmental groups, or consumer groups. The majority leader of the Senate will also choose four members using the same rules. The minority leader of the House will choose three members with one expert and two representatives. The minority leader of the Senate will choose three members with one expert and two representatives. The United States Trade Representative will choose six members with three experts and three representatives. The Trade Representative or someone they choose will also serve on the board. All members must be chosen within sixty days after this resolution passes. The board's job is to give advice to the Joint Ad Hoc Committee as it creates the plan to move trade duties to Congress. Board members will not be paid, but those who do not live in the Washington area will get travel money and daily expense money according to federal travel rules. The Washington area includes the District of Columbia, Montgomery and Prince Georges counties in Maryland, and Arlington, Fairfax, Loudon, and Prince William counties plus Alexandria and Falls Church cities in Virginia. The board cannot hire its own staff, but can ask the Joint Ad Hoc Committee to let some of its workers help the board. The board will end one year after the Joint Ad Hoc Committee gives Congress its report.",
+      "word_offset": 465,
+      "char_offset": 2821
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-assistance-of-united-states-trade-representative",
+      "title": "Section 4 Assistance of United States Trade Representative",
+      "text": "The United States Trade Representative and other leaders of executive branch offices must provide information and help that the Joint Ad Hoc Committee on Trade Responsibilities and the Congressional Advisory Board on Trade Responsibilities reasonably need to do their work.",
+      "word_offset": 740,
+      "char_offset": 4526
+    }
+  ]
+}

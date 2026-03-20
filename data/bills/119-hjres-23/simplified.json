@@ -1,0 +1,52 @@
+{
+  "bill_id": "119-hjres-23",
+  "title": "Disapproving of the rule submitted by the Department of Homeland Security relating to \"Increase of the Automatic Extension Period of Employment Authorization and Documentation for Certain Employment Authorization Document Renewal Applicants\".",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.23",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "7d45466683a3eae7",
+  "last_updated": "2026-03-20T13:57:15.212112+00:00",
+  "plain_summary": "This bill stops a new rule from the Department of Homeland Security about work permits. The rule would have let certain immigrants keep working for 540 days while waiting for their work permits to be renewed, instead of the current 180 days. Congress voted to reject this rule, so it cannot become law. This means people waiting for their work permits to be renewed will still only get the shorter 180-day extension period.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Arrington, Jodey C. [R-TX-19]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "work permits",
+    "immigration work authorization",
+    "employment authorization extension",
+    "immigrant work documents",
+    "DHS work permit rule",
+    "540 day extension",
+    "work permit renewal",
+    "employment documents for immigrants",
+    "homeland security immigration rule",
+    "congressional rejection immigration",
+    "work authorization waiting period",
+    "immigrant employment extension"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution",
+      "title": "Joint Resolution",
+      "text": "Congress disapproves of a rule made by the Department of Homeland Security. This rule was about extending the time period that certain people can keep working while they wait for their work permits to be renewed. The rule was published in the Federal Register on page one hundred and one thousand two hundred and eight of volume eighty-nine. Because Congress disapproves of this rule, it will have no power and will not take effect.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

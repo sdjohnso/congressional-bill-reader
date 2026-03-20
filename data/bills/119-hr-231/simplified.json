@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-231",
+  "title": "Colorado River Basin System Conservation Extension Act of 2025",
+  "short_title": "Colorado River Basin System Conservation Extension Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.231",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Ordered to be Reported (Amended) by Unanimous Consent.",
+  "version_hash": "f398b58f4fd4a14b",
+  "last_updated": "2026-03-20T14:28:35.962978+00:00",
+  "plain_summary": "This bill extends a special water conservation program for the Colorado River for two more years. The program helps save water in the Colorado River system during drought conditions. It includes pilot projects that work to increase water levels in the Upper Colorado River Basin and Lake Mead. The program was supposed to end in 2024 and 2025, but this bill pushes those deadlines to 2026 and 2027. The Bureau of Reclamation runs these water-saving projects.",
+  "current_status": "committee_reported",
+  "status_date": "2025-02-12",
+  "last_action_date": "2025-02-12",
+  "last_action_text": "Ordered to be Reported (Amended) by Unanimous Consent.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Water Resources Development",
+  "subjects": [
+    "Arizona",
+    "California",
+    "Colorado",
+    "Congressional oversight",
+    "Nevada",
+    "New Mexico",
+    "Utah",
+    "Water resources funding",
+    "Wyoming"
+  ],
+  "sponsor_name": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Colorado River",
+    "water conservation",
+    "drought help",
+    "Lake Mead",
+    "water shortage",
+    "river basin",
+    "water saving programs",
+    "Colorado River drought",
+    "western water crisis",
+    "Bureau of Reclamation",
+    "water levels",
+    "river conservation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Colorado River Basin System Conservation Extension Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reauthorization-of-colorado-river-system-conservation-pilot-program",
+      "title": "Section 2 Reauthorization of Colorado River System Conservation Pilot Program",
+      "text": "This section makes changes to an existing law from two thousand fifteen about saving water in the Colorado River system. The changes are: First, it updates a reference to point to this new law instead of the old one. Second, it extends the deadline from two thousand twenty four to two thousand twenty six. Third, it extends another deadline from two thousand twenty five to two thousand twenty seven.",
+      "word_offset": 18,
+      "char_offset": 111
+    }
+  ]
+}

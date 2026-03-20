@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-s-157",
+  "title": "CONTAINER Act",
+  "short_title": "CONTAINER Act",
+  "congress": 119,
+  "bill_number": "S.157",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Energy and Natural Resources.",
+  "version_hash": "086f8099986fd79c",
+  "last_updated": "2026-03-20T13:40:43.115117+00:00",
+  "plain_summary": "The CONTAINER Act lets border states put temporary movable barriers on federal land near the borders with Canada and Mexico without asking for special permission first. States can use these structures to help secure the border for up to one year. If border security is still not good enough, states can ask to keep the barriers for extra 90-day periods. The goal is to help states respond quickly to border security problems without waiting for government approval.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Land use and conservation",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Sen. Blackburn, Marsha [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border barriers",
+    "temporary fencing",
+    "border states",
+    "movable barriers",
+    "border security",
+    "Mexico border",
+    "Canada border",
+    "state border control",
+    "federal land borders",
+    "quick border response",
+    "border walls",
+    "immigration barriers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Creating Obstructions Necessary To Address Illegal and Nefarious Entry Rapidly Act or the CONTAINER Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-placement-of-movable-temporary-structures",
+      "title": "Section 2 Placement of Movable, Temporary Structures on Certain Federal Land to Secure an International Border of the United States",
+      "text": "This section explains what certain terms mean and sets rules for placing temporary structures on federal land near borders. A Border State means any state that touches either the border with Canada (called the northern border) or the border with Mexico (called the southern border). Federal land means land owned and managed by the federal government near these borders. Federal land management agency refers to six specific government agencies that manage federal land: the Bureau of Indian Affairs, Bureau of Land Management, Bureau of Reclamation, Forest Service, United States Fish and Wildlife Service, and National Park Service. The term operational control refers to a specific definition found in another law about border security from two thousand and six. Secretary concerned means either the Secretary of the Interior or the Secretary of Agriculture, depending on which agency manages the specific piece of land. Border states do not need to get special permission (called a special use authorization) to place movable, temporary structures on federal land within their state if the purpose is to secure the northern or southern border. However, the state must give notice to the correct Secretary at least forty-five days before they plan to place the structure. These temporary structures can stay in place for up to one year. The time period can be extended for additional ninety-day periods if the correct Secretary approves the extension. Before approving any extension, the Secretary must talk with the Commissioner of U.S. Customs and Border Protection. The Secretary must approve the extension request if the Commissioner determines that operational control of the border has not been achieved yet.",
+      "word_offset": 21,
+      "char_offset": 132
+    }
+  ]
+}

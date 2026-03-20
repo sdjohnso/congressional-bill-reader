@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-s-29",
+  "title": "Sunshine Protection Act of 2025",
+  "short_title": "Sunshine Protection Act of 2025",
+  "congress": 119,
+  "bill_number": "S.29",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "version_hash": "58dade8647964f38",
+  "last_updated": "2026-03-20T14:14:24.097198+00:00",
+  "plain_summary": "The Sunshine Protection Act of 2025 would make daylight saving time permanent across the United States. This means we would stop changing our clocks twice a year in spring and fall. Instead, we would keep the same time all year long that we currently use during daylight saving time. States that do not currently observe daylight saving time in some areas could choose what time to use in those places.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [
+    "State and local government operations",
+    "Time and calendar"
+  ],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 18,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "daylight saving time",
+    "stop changing clocks",
+    "permanent daylight time",
+    "spring forward fall back",
+    "clock changes",
+    "time change",
+    "daylight savings",
+    "standard time",
+    "clock switching",
+    "time zones",
+    "sunrise sunset times"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Sunshine Protection Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-making-daylight-saving-time-permanent",
+      "title": "Section 2 Making Daylight Saving Time Permanent",
+      "text": "This section makes daylight saving time permanent across the United States. First, it removes the old law that created temporary daylight saving time periods. Second, it changes how standard time zones work by moving each time zone forward by one hour. This means the Eastern time zone will be three hours behind Greenwich Mean Time instead of four hours behind. The Central time zone will be four hours behind instead of five hours behind. The Mountain time zone will be five hours behind instead of six hours behind. The Pacific time zone will be six hours behind instead of seven hours behind. Alaska will be seven hours behind instead of eight hours behind. Hawaii will be eight hours behind instead of nine hours behind. The other Pacific areas will be nine hours behind instead of ten hours behind. Samoa will be ten hours behind instead of eleven hours behind. Guam and the Northern Mariana Islands will be eleven hours behind instead of ten hours behind. However, states or parts of states that chose not to follow daylight saving time rules before this law passes can choose to either use the new permanent time system or keep their old time system.",
+      "word_offset": 14,
+      "char_offset": 80
+    }
+  ]
+}

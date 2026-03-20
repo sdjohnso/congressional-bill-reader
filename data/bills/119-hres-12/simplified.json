@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hres-12",
+  "title": "Stay on Schedule (S.O.S.) Resolution",
+  "short_title": "Stay on Schedule (S.O.S.) Resolution",
+  "congress": 119,
+  "bill_number": "HRES.12",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Rules.",
+  "version_hash": "7febaa1f7710b1c8",
+  "last_updated": "2026-03-20T12:08:30.603159+00:00",
+  "plain_summary": "This resolution would change the rules for the House of Representatives to make sure they finish their work on time. Currently, Congress takes a break in August even if they haven't finished passing the spending bills that fund the government for the next year. Under this new rule, the House would not be allowed to go on their August break until they pass all the required spending bills by July 31st. If the bills aren't done, House members would have to stay and work through August until all the spending legislation is completed.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Rules.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Appropriations",
+    "Congressional operations and organization",
+    "House of Representatives",
+    "Legislative rules and procedure"
+  ],
+  "sponsor_name": "Rep. Wittman, Robert J. [R-VA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress vacation",
+    "august recess",
+    "government shutdown",
+    "spending bills deadline",
+    "congress work schedule",
+    "house representatives break",
+    "government funding",
+    "congressional accountability",
+    "summer break congress",
+    "budget bills",
+    "government money bills",
+    "congress finish work"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This resolution can be called the Stay on Schedule S.O.S. Resolution.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibiting-recess-during-august-until-approval-of-all-regular-appropriation-bills",
+      "title": "Section 2 Prohibiting Recess During August Until Approval of All Regular Appropriation Bills",
+      "text": "This section changes the House rules by adding a new rule about August recess. The new rule says that if the House has not passed all the regular spending bills for the next budget year by July thirty first, then the House cannot vote to take a break during any day in August. The House must stay in session until it passes all the required spending bills. Regular spending bills are the yearly bills that give money to government programs. Each bill covers the programs that one subcommittee of the House Appropriations Committee is responsible for. The budget year being discussed starts on October first of each year.",
+      "word_offset": 11,
+      "char_offset": 70
+    }
+  ]
+}

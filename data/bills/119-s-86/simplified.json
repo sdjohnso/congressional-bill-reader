@@ -1,0 +1,56 @@
+{
+  "bill_id": "119-s-86",
+  "title": "A bill to repeal the provision of law that provides automatic pay adjustments for Members of Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "S.86",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "4d4068b7a423256a",
+  "last_updated": "2026-03-20T14:41:05.242466+00:00",
+  "plain_summary": "This bill stops Congress members from getting automatic pay raises every year. Right now, Congress members get a pay increase each year based on how much wages go up for other workers, unless Congress votes to change it. The bill would end this automatic system starting with the next Congress. This means Congress members would only get pay raises if Congress specifically votes to give them one.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Government employee pay, benefits, personnel management",
+    "Inflation and prices",
+    "Members of Congress"
+  ],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress pay raises",
+    "automatic pay increases",
+    "congressional salary",
+    "member of congress wages",
+    "stop automatic raises",
+    "congress pay adjustment",
+    "eliminate pay increases",
+    "congressional compensation",
+    "congress salary freeze",
+    "end automatic pay",
+    "congress member pay",
+    "legislative pay raises"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-elimination-of-automatic-pay-adjustments-for-members-of-congress",
+      "title": "Section 1 Elimination of Automatic Pay Adjustments for Members of Congress",
+      "text": "This section removes the law that automatically increases the pay of Congress members each year. The bill changes the Legislative Reorganization Act of nineteen forty-six by deleting the part that says Congress members get automatic pay raises. The bill also makes technical changes to fix the numbering and wording in that law. These changes will start when the one hundred twentieth Congress begins meeting.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

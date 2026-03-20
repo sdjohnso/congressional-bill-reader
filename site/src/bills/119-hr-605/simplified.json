@@ -1,0 +1,86 @@
+{
+  "bill_id": "119-hr-605",
+  "title": "Headwaters Protection Act of 2025",
+  "short_title": "Headwaters Protection Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.605",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+  "version_hash": "ff8483550672aac6",
+  "last_updated": "2026-03-20T11:57:56.708617+00:00",
+  "plain_summary": "This bill makes a program stronger that protects the water sources where rivers and streams begin. It lets more groups like irrigation organizations and water companies join the program and work on private land next to National Forests. The program gets more money each year, up to thirty million dollars, to help protect water and forests from wildfires and diseases. The bill also makes sure that any forest work done by the government cannot hurt the health of watersheds over time.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-28",
+  "last_action_date": "2025-02-28",
+  "last_action_text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Emergency planning and evacuation",
+    "Fires",
+    "Forests, forestry, trees",
+    "Land use and conservation",
+    "Public-private cooperation",
+    "Water quality",
+    "Water use and supply",
+    "Watersheds",
+    "Wildlife conservation and habitat protection"
+  ],
+  "sponsor_name": "Rep. Costa, Jim [D-CA-21]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "water protection",
+    "forest fires",
+    "wildfire prevention",
+    "clean water",
+    "river sources",
+    "stream protection",
+    "national forest",
+    "watershed health",
+    "forest disease",
+    "water supply",
+    "private land conservation",
+    "forest management"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Headwaters Protection Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-water-source-protection-program-reauthorization-and-improvements",
+      "title": "Section 2  Water Source Protection Program Reauthorization and Improvements",
+      "text": "This section changes an existing law called the Healthy Forests Restoration Act of two thousand three to improve a program that protects water sources. The changes add new types of organizations that can participate in the program. These include acequia associations (groups that manage traditional irrigation systems), public agencies that handle stormwater and wastewater, land grant mercedes (historic land grants), and private companies that deliver water. The changes also define adjacent land as non federal land including state, local, and private land that is next to and in the same watershed as National Forest land where protection projects happen. The program will now work on both National Forest land and adjacent land. Projects must protect and restore watershed health, water supply and quality, municipal or agricultural water systems, and water related infrastructure. Projects can also protect and restore forest health from insects, disease, or wildfire, or do both types of work. When choosing projects, the Secretary must give priority to those that manage risks from drought, wildfire, extreme weather, or flooding. Priority also goes to projects that support water and forest restoration efforts, include experienced partners or help disadvantaged communities, and provide extra funding or use nature based solutions. No project can happen on adjacent land unless the landowner agrees and actively participates. The landowner keeps ownership and management control of their land except during the actual project work. Projects can be partnerships with end water users or agreements with states, local governments, or nonprofit organizations. The Secretary must let non federal partners take leadership roles in planning and carrying out projects. All projects must be designed to protect ecological integrity, use the best scientific information available, and be properly conducted. Existing watershed plans can be used as the basis for new water management plans to avoid duplicating work. Partners must contribute at least twenty percent of project costs, but the Secretary can waive this requirement. The program receives thirty million dollars per year from two thousand twenty five through two thousand thirty three. At least ten percent of this money must be used to help non federal partners build their technical skills and capacity for developing and implementing water management plans.",
+      "word_offset": 14,
+      "char_offset": 82
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-watershed-condition-framework-improvements",
+      "title": "Section 3  Watershed Condition Framework Improvements",
+      "text": "This section improves another part of the Healthy Forests Restoration Act that deals with watershed conditions. It adds a new requirement that management activities and permits cannot cause long term damage to watershed health or make any watershed classification worse in National Forests. This section also provides thirty million dollars per year from two thousand twenty five through two thousand twenty nine to carry out watershed condition work.",
+      "word_offset": 376,
+      "char_offset": 2504
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-effect",
+      "title": "Section 4  Effect",
+      "text": "Nothing in this law changes or conflicts with state water laws, federal water laws, agreements between states, or treaty obligations. This law also does not allow the federal government to buy private land or control non federal land.",
+      "word_offset": 444,
+      "char_offset": 2956
+    }
+  ]
+}

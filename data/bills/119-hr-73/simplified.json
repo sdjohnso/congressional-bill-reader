@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-73",
+  "title": "Abortion Is Not Health Care Act of 2025",
+  "short_title": "Abortion Is Not Health Care Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.73",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "b7082aaad0b64c06",
+  "last_updated": "2026-03-20T14:43:38.577986+00:00",
+  "plain_summary": "This bill changes the tax rules about medical expenses. Right now, people can count money they spend on abortions as a medical expense when they do their taxes. This bill would stop people from counting abortion costs as a medical expense. The change would start for tax years after the bill becomes law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Abortion",
+    "Health care costs and insurance",
+    "Income tax deductions"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "abortion tax deduction",
+    "medical expenses taxes",
+    "abortion costs taxes",
+    "health care tax deduction",
+    "abortion medical expense",
+    "tax deduction abortion",
+    "medical bills taxes",
+    "abortion tax write off",
+    "healthcare expenses deduction",
+    "abortion tax benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Abortion Is Not Health Care Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amounts-paid-for-abortion-not-taken-into-account",
+      "title": "Section 2  Amounts Paid for Abortion Not Taken Into Account in Determining Deduction for Medical Expenses",
+      "text": "This section changes the tax rules about medical expense deductions. Currently, people can deduct some of their medical expenses from their taxes to reduce how much they owe. This law adds a new rule that says money spent on abortions cannot be counted as a medical expense for tax deduction purposes. This change will apply to tax years that begin after this law is passed.",
+      "word_offset": 17,
+      "char_offset": 88
+    }
+  ]
+}

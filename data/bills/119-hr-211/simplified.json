@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-211",
+  "title": "Equal Access to Contraception for Veterans Act",
+  "short_title": "Equal Access to Contraception for Veterans Act",
+  "congress": 119,
+  "bill_number": "HR.211",
+  "introduced_date": "2025-01-06",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Health.",
+  "version_hash": "88f8b9898c105e72",
+  "last_updated": "2026-03-20T12:33:32.341341+00:00",
+  "plain_summary": "This bill helps veterans get birth control without having to pay extra money for it. When veterans go to Veterans Affairs hospitals or clinics, they will not have to pay copayments for contraceptives that regular health insurance plans already cover for free. The bill makes sure veterans can access birth control at no cost or for very low prices. This gives veterans the same benefits that other people with health insurance already have when getting contraceptives.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Family planning and birth control",
+    "Health care costs and insurance",
+    "Health care coverage and access",
+    "Veterans' medical care",
+    "Women's health"
+  ],
+  "sponsor_name": "Rep. Brownley, Julia [D-CA-26]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 84,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans birth control",
+    "free contraceptives veterans",
+    "VA hospital birth control costs",
+    "veterans family planning",
+    "no copay birth control",
+    "veterans women's health",
+    "affordable contraceptives veterans",
+    "VA contraceptive coverage",
+    "veterans reproductive health",
+    "birth control veterans benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Equal Access to Contraception for Veterans Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-copayments-for-contraception",
+      "title": "Section 2 Limitation on Copayments for Contraception",
+      "text": "This section changes the law about how much veterans have to pay when they get birth control from the Department of Veterans Affairs. The law is changed so that veterans cannot be charged more than what it actually costs the government to provide the medication. Also, veterans cannot be charged any copayment (money they pay out of pocket) for any type of birth control that regular health insurance plans are required to cover for free under federal health care laws.",
+      "word_offset": 13,
+      "char_offset": 75
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-278",
+  "title": "BROADBAND Leadership Act",
+  "short_title": "BROADBAND Leadership Act",
+  "congress": 119,
+  "bill_number": "HR.278",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "4f1f859f5e5f704f",
+  "last_updated": "2026-03-20T14:47:57.799738+00:00",
+  "plain_summary": "This bill makes new rules to help companies build cell towers and internet equipment faster. It stops state and local governments from unfairly blocking these projects or taking too long to approve them. The government must make decisions within set time limits, and if they don't respond in time, the project gets approved automatically. Companies that think they are being treated unfairly can ask courts to step in quickly. The goal is to help build better internet and phone service across the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Griffith, H. Morgan [R-VA-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "cell tower construction",
+    "internet infrastructure",
+    "broadband expansion",
+    "wireless network building",
+    "local government approval",
+    "telecom development",
+    "faster internet access",
+    "cell phone service improvement",
+    "building permits for towers",
+    "internet equipment installation",
+    "rural broadband"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Barriers and Regulatory Obstacles Avoids Deployment of Broadband Access and Needs Deregulatory Leadership Act or the BROADBAND Leadership Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-removal-of-barriers-to-entry",
+      "title": "Section 2 Removal of Barriers to Entry",
+      "text": "This section replaces an existing law about removing barriers to telecommunications companies. No state or local law can stop any company from providing phone or internet services between states or within a state. State and local governments cannot treat telecommunications facilities differently based on what technology they use or what services they provide. They also cannot treat telecommunications facilities worse than other types of facilities. When a company asks to build or change a telecommunications facility, the government must approve or deny the request within ninety days if the facility will be placed on existing support infrastructure like cell towers. For all other requests, the government has one hundred fifty days. These time limits apply to all permits and approvals needed from that government. The government cannot delay decisions by imposing a freeze on accepting new requests. If the government finds that a request is missing required information, it can pause the time limit by sending a written notice within thirty days. The notice must list exactly what information is missing and point to the specific rule that requires it. The company then has a chance to provide the missing information. If the government still finds information missing from this second submission, it has only ten days to send another notice. However, the government cannot ask for information in the second notice that it did not mention in the first notice. If it does, the second notice does not count. The company and government can agree together to extend the time limits. If the government does not approve or deny the request within the time limit, the request is automatically approved when the company sends written notice that the deadline was missed. When a government denies a request, the decision must be in writing, backed up by solid evidence in a written record, and made public on the same day. Governments can charge fees for reviewing requests or for using public property like roads, but these fees must be fair to all companies, set in advance, made public, and based only on the actual costs of reviewing the request or maintaining the facilities. Companies that are hurt by state or local laws that break these rules can sue in court. Courts must hear these cases quickly. Lawsuits must be filed within thirty days of the government action. States can still make rules that are fair to all companies to ensure everyone gets phone service, protect public safety, maintain service quality, and protect customers. States and local governments can still manage public roads and charge fair fees for their use. If the Federal Communications Commission finds that a state or local government has broken these rules, it can step in and stop the enforcement of the bad rule. The Commission has one hundred twenty days to decide on requests to step in this way. This section does not change existing rules for wireless phone companies or cable TV companies. States can require phone companies that want to serve rural areas to meet certain requirements before they can provide service, except in areas where the rural phone company has gotten special exemptions that prevent competition, and this rule does not apply to wireless phone companies. For the purposes of this law, a request is considered submitted when the company takes the first step to file it according to the government's procedures, or if there are no specific procedures, when they file the type of request normally used for similar facilities. Eligible support infrastructure means structures that already support telecommunications facilities or are designed to do so when the request is made. A telecommunications service facility means any equipment designed or used to provide phone or internet services.",
+      "word_offset": 25,
+      "char_offset": 170
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-538",
+  "title": "Critical Access Hospital Relief Act of 2025",
+  "short_title": "Critical Access Hospital Relief Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.538",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "65041d12299acada",
+  "last_updated": "2026-03-20T15:32:16.836793+00:00",
+  "plain_summary": "This bill changes a Medicare rule for critical access hospitals. Right now, if a patient stays in one of these hospitals for more than four days, a doctor must write a special form explaining why. This bill gets rid of that requirement, so doctors will no longer have to fill out this paperwork. The change will start on January 1, 2026.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Health care coverage and access",
+    "Health facilities and institutions",
+    "Health personnel",
+    "Hospital care",
+    "Medicare",
+    "Rural conditions and development"
+  ],
+  "sponsor_name": "Rep. Smith, Adrian [R-NE-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "critical access hospital",
+    "rural hospital",
+    "small hospital",
+    "Medicare paperwork",
+    "doctor forms",
+    "hospital stay requirements",
+    "four day rule",
+    "medical documentation",
+    "hospital red tape",
+    "rural healthcare"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Critical Access Hospital Relief Act of twenty twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-removing-medicare-96-hour-physician-certification-requirement",
+      "title": "Section 2 Removing Medicare 96-Hour Physician Certification Requirement for Inpatient Critical Access Hospital Services",
+      "text": "This section changes the Medicare rules for critical access hospitals. Critical access hospitals are small hospitals that serve rural communities where people might not have other nearby hospital options. Right now, Medicare requires a doctor to write a special certification saying a patient needs to stay in the hospital for more than ninety-six hours, which is four days. This law removes that requirement. The law makes changes to the Social Security Act by crossing out the rule that requires this ninety-six hour doctor certification. These changes will start on January first, twenty twenty-six. After that date, critical access hospitals will not need to get this special doctor certification for patients who stay longer than four days.",
+      "word_offset": 14,
+      "char_offset": 86
+    }
+  ]
+}

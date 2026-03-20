@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-246",
+  "title": "SALT Fairness for Working Families Act",
+  "short_title": "SALT Fairness for Working Families Act",
+  "congress": 119,
+  "bill_number": "HR.246",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "4c85bb8779754806",
+  "last_updated": "2026-03-20T15:21:02.009540+00:00",
+  "plain_summary": "This bill changes the rules for how much people can deduct from their federal taxes when they pay state and local taxes. Right now, people can only deduct up to ten thousand dollars from their federal taxes. Starting in 2025, single people would be able to deduct up to fifteen thousand dollars instead. Married couples who file their taxes together would be able to deduct up to thirty thousand dollars.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Income tax deductions",
+    "State and local taxation"
+  ],
+  "sponsor_name": "Rep. Underwood, Lauren [D-IL-14]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "state and local tax deduction",
+    "SALT deduction limit",
+    "property tax deduction",
+    "income tax deduction",
+    "tax deduction increase",
+    "federal tax deductions",
+    "married filing jointly deductions",
+    "state tax write off",
+    "local tax write off",
+    "tax relief for families"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the SALT Fairness for Working Families Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-in-limitation-on-deduction-for-certain-state-and-local-taxes-of-individuals",
+      "title": "Section 2. Increase in Limitation on Deduction for Certain State and Local Taxes of Individuals",
+      "text": "This section changes the tax rules about how much people can deduct for state and local taxes. Right now, people can deduct up to ten thousand dollars in state and local taxes when they file their federal tax returns. Married people who file separate tax returns can only deduct up to five thousand dollars each. This law changes those limits. Starting with tax year twenty twenty five, single people can deduct up to fifteen thousand dollars in state and local taxes. Married couples who file their taxes together can deduct up to thirty thousand dollars. This change applies to all tax years that begin after December thirty first, twenty twenty four.",
+      "word_offset": 12,
+      "char_offset": 67
+    }
+  ]
+}

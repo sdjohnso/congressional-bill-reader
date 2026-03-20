@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-256",
+  "title": "SAVE Act",
+  "short_title": "SAVE Act",
+  "congress": 119,
+  "bill_number": "HR.256",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "bd3a2d92913c642e",
+  "last_updated": "2026-03-20T11:34:16.471670+00:00",
+  "plain_summary": "The SAVE Act is a law that controls who can buy oil from America's emergency oil supply called the Strategic Petroleum Reserve. The law says the government cannot sell this emergency oil to companies that are based in certain countries like Russia, China, Iran, North Korea, and several others. This rule applies to all oil sales from the emergency stockpile no matter what other laws might say. The goal is to keep America's emergency oil away from countries that might be considered unfriendly to the United States.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Bice, Stephanie I. [R-OK-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "oil reserve",
+    "emergency oil supply",
+    "strategic petroleum",
+    "oil sales ban",
+    "China oil restrictions",
+    "Russia oil ban",
+    "government oil stockpile",
+    "national oil emergency",
+    "foreign oil sales",
+    "oil export controls",
+    "America oil security",
+    "oil supply protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Save America's Valuable Energy Act or the SAVE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-against-selling-spr-petroleum-products-to-certain-entities",
+      "title": "Section 2  Prohibition Against Selling SPR Petroleum Products to Certain Entities",
+      "text": "This section changes an existing law called the Energy Policy and Conservation Act. It adds a new rule that says the Secretary of Energy cannot sell oil from the Strategic Petroleum Reserve (a government stockpile of emergency oil) to certain companies. The Secretary must refuse to sell oil to any company that has its main headquarters in a country that is on a specific government list of restricted countries, or to any company headquartered in Russia. This rule applies no matter what other laws might allow such sales. The section also makes small changes to other parts of the existing law to make sure this new rule is properly connected to the rest of the law.",
+      "word_offset": 15,
+      "char_offset": 79
+    }
+  ]
+}

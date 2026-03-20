@@ -1,0 +1,90 @@
+{
+  "bill_id": "119-hr-79",
+  "title": "Freedom from Mandates Act",
+  "short_title": "Freedom from Mandates Act",
+  "congress": 119,
+  "bill_number": "HR.79",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Education and Workfor",
+  "version_hash": "aee29bb967b317e7",
+  "last_updated": "2026-03-20T11:45:52.553525+00:00",
+  "plain_summary": "This bill cancels two rules made by the President that required COVID-19 vaccines for federal workers and people who work for companies that do business with the government. It also stops government agencies from making new rules that would force employers to require their workers to get COVID-19 vaccines or get tested if they are not vaccinated. The bill specifically prevents the Department of Labor from requiring workplace vaccine mandates and stops the Department of Health and Human Services from requiring healthcare providers to mandate vaccines for their employees. If passed, this law would remove existing COVID-19 vaccine requirements and prevent new ones from being created.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Education and Workforce, Energy and Commerce, and Ways and Means, for a period to be subsequently det",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Cardiovascular and respiratory health",
+    "Department of Labor",
+    "Emergency medical services and trauma care",
+    "Government employee pay, benefits, personnel management",
+    "Immunology and vaccination",
+    "Infectious and parasitic diseases",
+    "Medicaid",
+    "Medical tests and diagnostic methods",
+    "Medicare",
+    "Presidents and presidential powers, Vice Presidents",
+    "Public contracts and procurement",
+    "Worker safety and health"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "covid vaccine mandate",
+    "federal worker vaccine requirement",
+    "workplace vaccine rules",
+    "contractor vaccine mandate",
+    "covid testing requirement",
+    "government vaccine policy",
+    "healthcare worker vaccine mandate",
+    "employer vaccine rules",
+    "covid workplace safety",
+    "vaccine exemption",
+    "federal employee vaccination",
+    "coronavirus workplace requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Freedom from Mandates Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-nullification-of-certain-executive-orders",
+      "title": "Section 2  Nullification of Certain Executive Orders",
+      "text": "Two executive orders (official presidential commands) about COVID-19 vaccines will no longer have any power or effect. The first executive order required companies that work for the federal government to follow certain COVID-19 safety rules. The second executive order required all federal government employees to get COVID-19 vaccinations. Both of these orders are now canceled and cannot be enforced.",
+      "word_offset": 10,
+      "char_offset": 54
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-of-rules-mandating-vaccination",
+      "title": "Section 3  Prohibition of Rules Mandating Vaccination",
+      "text": "The Secretary of Labor (the government official in charge of workplace rules) cannot create any rule that forces employers to require their workers to get COVID-19 vaccines. The Secretary also cannot create rules that require employers to test workers who have not been vaccinated for COVID-19.",
+      "word_offset": 69,
+      "char_offset": 457
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-prohibition-on-medicare-and-medicaid-covid-19-vaccination-mandates",
+      "title": "Section 4  Prohibition on Medicare and Medicaid COVID-19 Vaccination Mandates",
+      "text": "The Secretary of Health and Human Services cannot require healthcare providers to mandate COVID-19 vaccines for their employees as a condition for participating in Medicare or Medicaid programs. Medicare and Medicaid are government health insurance programs that serve elderly people and low-income families. Healthcare providers cannot be required to test unvaccinated employees either. The government also cannot punish healthcare providers for refusing to require vaccines or testing for their workers.",
+      "word_offset": 115,
+      "char_offset": 752
+    }
+  ]
+}

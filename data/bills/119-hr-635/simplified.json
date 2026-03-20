@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-635",
+  "title": "WaterSMART Access for Tribes Act",
+  "short_title": "WaterSMART Access for Tribes Act",
+  "congress": 119,
+  "bill_number": "HR.635",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "ae433ca12367d44e",
+  "last_updated": "2026-03-20T11:30:37.021609+00:00",
+  "plain_summary": "This bill helps Native American tribes get money from the government for water projects. Right now, tribes have to pay part of the cost when they get these grants, but many tribes cannot afford their share. The bill lets the government reduce or completely remove the amount tribes have to pay if paying would be too hard for them financially. This makes it easier for tribes to get help with important water projects like building wells, fixing pipes, or saving water.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Native Americans",
+  "subjects": [
+    "Federal-Indian relations",
+    "Indian lands and resources rights",
+    "Water resources funding",
+    "Water use and supply"
+  ],
+  "sponsor_name": "Rep. Stansbury, Melanie A. [D-NM-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "NM",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "tribal water projects",
+    "Native American water funding",
+    "government grants for tribes",
+    "Indian reservation water help",
+    "tribal water infrastructure",
+    "water wells for tribes",
+    "Native American water rights",
+    "tribal water assistance",
+    "reservation water systems",
+    "Indian water programs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the WaterSMART Access for Tribes Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-water-management-improvement",
+      "title": "Section 2 Water Management Improvement",
+      "text": "This section changes an existing law called the Omnibus Public Land Management Act of two thousand nine. The change affects how the government gives grants to help save water and make water systems work better. Under the current law, groups that get these grants usually have to pay part of the cost themselves while the federal government pays the rest. This section adds a new rule that says when the Secretary gives these water grants to Indian Tribes, the Secretary can lower the amount the Tribe has to pay or even let them pay nothing at all. The Secretary can do this if requiring the Tribe to pay their usual share would cause financial hardship for the Tribe. When the Secretary reduces what the Tribe pays, the federal government will pay more to cover the difference.",
+      "word_offset": 11,
+      "char_offset": 61
+    }
+  ]
+}

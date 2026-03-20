@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-590",
+  "title": "_______ Act of 2024",
+  "short_title": "_______ Act of 2024",
+  "congress": 119,
+  "bill_number": "HR.590",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Armed Services.",
+  "version_hash": "5196296d3de9326d",
+  "last_updated": "2026-03-20T16:05:32.821946+00:00",
+  "plain_summary": "This bill says that before the President or Defense Secretary can order National Guard troops to work full-time in any state, they must first get permission from that state's governor. If the National Guard needs to work in Washington DC, they must get permission from the mayor instead. The bill also makes sure these National Guard activities follow an old law that stops the military from acting like police officers. This rule applies to all US states, territories, and Washington DC.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Referred to the House Committee on Armed Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Federal officials",
+    "National Guard and reserves"
+  ],
+  "sponsor_name": "Rep. Sherrill, Mikie [D-NJ-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "national guard",
+    "state governors",
+    "military deployment",
+    "federal troops",
+    "state permission",
+    "military police",
+    "washington dc mayor",
+    "guard activation",
+    "state rights",
+    "federal military"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the blank Act of two thousand twenty four.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirement-of-consent-of-the-chief-executive-officer-for-certain-full-time-national-guard-duty-performed-in-a-state-territory-or-the-district-of-columbia",
+      "title": "Section 2 Requirement of Consent of the Chief Executive Officer for Certain Full-Time National Guard duty Performed in a State, Territory, or the District of Columbia",
+      "text": "This section changes the rules about when National Guard members can be called to full-time duty. The changes require that when the President or Secretary of Defense asks National Guard members to do operations or missions, they must first get permission from the governor of each state where the work will happen. If the work will happen in Washington DC, they must also get permission from the Mayor of Washington DC. The law also makes clear that any training or duty ordered under these rules must follow the Posse Comitatus Act. The Posse Comitatus Act is a law that limits how the military can be used for law enforcement inside the United States.",
+      "word_offset": 13,
+      "char_offset": 66
+    }
+  ]
+}

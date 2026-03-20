@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-234",
+  "title": "HOV Lanes for Heroes Act",
+  "short_title": "HOV Lanes for Heroes Act",
+  "congress": 119,
+  "bill_number": "HR.234",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Highways and Transit.",
+  "version_hash": "9238ecff6ce81572",
+  "last_updated": "2026-03-20T11:44:03.818931+00:00",
+  "plain_summary": "This bill lets disabled veterans drive alone in special highway lanes that are normally only for cars with multiple people. These lanes are called HOV lanes or toll lanes. The veterans must have a disability connected to their military service and show proper identification like a special license plate. Local authorities decide what kind of identification is needed. The veterans do not have to pay any tolls or fees to use these lanes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-08",
+  "last_action_date": "2025-01-08",
+  "last_action_text": "Referred to the Subcommittee on Highways and Transit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [
+    "Commuting",
+    "Disability assistance",
+    "Motor vehicles",
+    "Roads and highways",
+    "Transportation costs",
+    "User charges and fees",
+    "Veterans' organizations and recognition"
+  ],
+  "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "disabled veterans",
+    "carpool lanes",
+    "HOV lanes",
+    "veteran benefits",
+    "highway lanes",
+    "toll roads",
+    "veteran license plates",
+    "driving alone",
+    "military disability",
+    "veteran perks",
+    "special driving privileges",
+    "free tolls"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the HOV Lanes for Heroes Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-hov-facilities",
+      "title": "Section 2 HOV Facilities",
+      "text": "This section changes existing federal law about high occupancy vehicle lanes (special highway lanes that normally require multiple people in a car). The changes add new rules for disabled veterans. Public authorities that run these special lanes may now allow disabled veterans to use them even if they are driving alone. To qualify, the disabled veteran must have a special license plate, electronic transponder, or other identification method that the public authority requires. A disabled veteran means someone who served in the military and has been determined by the Department of Veterans Affairs to have a disability connected to their military service. The disability must be rated at a percentage level that the public authority decides is qualifying. Even though these lanes normally require at least two people in the car, one qualifying disabled veteran can use the lane alone. If there are tolls on these lanes, the public authority cannot charge the disabled veteran any toll fees. The section also updates other parts of the law to include these new rules for disabled veterans alongside existing exceptions for other groups.",
+      "word_offset": 11,
+      "char_offset": 53
+    }
+  ]
+}

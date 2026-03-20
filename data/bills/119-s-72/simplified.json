@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-s-72",
+  "title": "Justice for Jocelyn Act",
+  "short_title": "Justice for Jocelyn Act",
+  "congress": 119,
+  "bill_number": "S.72",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "92f3c3706d7f4186",
+  "last_updated": "2026-03-20T14:42:00.206581+00:00",
+  "plain_summary": "This bill makes it much harder for immigrants in court cases to be released from jail while waiting for their hearings. If they are released, they must wear a GPS tracking device at all times and stay home during certain nighttime hours. People can only be released if all the jail beds are completely full and there are no other choices. If someone breaks any of these rules, they will automatically be ordered to leave the United States without getting another hearing.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Cruz, Ted [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigrant detention",
+    "GPS tracking immigrants",
+    "immigration jail release",
+    "deportation without hearing",
+    "immigrant ankle monitors",
+    "immigration court detention",
+    "automatic deportation",
+    "immigrant curfew rules",
+    "detention while waiting trial",
+    "immigration custody rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Justice for Jocelyn Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-participation-in-alternatives-to-detention",
+      "title": "Section 2 Limitation on Participation in Alternatives to Detention",
+      "text": "No person who entered the country without permission can be released into an Alternatives to Detention program unless three things happen first. All detention beds that the Secretary of Homeland Security can use must be completely full. There must be no other way to keep that person in detention. The Secretary must have tried everything reasonable to keep that person in detention. An Alternatives to Detention program is when someone is released from detention but must follow certain rules while their immigration case is being decided.",
+      "word_offset": 10,
+      "char_offset": 52
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-gps-tracking-and-curfew-requirements-for-certain-aliens",
+      "title": "Section 3 GPS Tracking and Curfew Requirements for Certain Aliens",
+      "text": "Every person who entered the country without permission and is on the Immigration and Customs Enforcement nondetained docket must follow these rules. They must be enrolled in an Alternatives to Detention program. They must wear a GPS tracking device at all times during their entire immigration court case, including any appeals. If they are ordered to leave the United States, they must keep wearing the GPS tracker until they actually leave. They must stay at their approved home address between ten o'clock at night and five o'clock in the morning. The nondetained docket is a list of people who are not being held in detention but still have immigration cases.",
+      "word_offset": 96,
+      "char_offset": 593
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-removal-of-aliens-who-fail-to-comply-with-release-order",
+      "title": "Section 4 Removal of Aliens Who Fail to Comply With Release Order",
+      "text": "This section changes existing immigration law. It adds a new rule that says if an immigration officer writes a sworn statement to an immigration judge saying that someone broke the rules of their release, that person will be ordered to leave the United States immediately. This happens even if the person is not present in court.",
+      "word_offset": 206,
+      "char_offset": 1258
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-severability",
+      "title": "Section 5 Severability",
+      "text": "If a federal court decides that any part of this law goes against the Constitution, the rest of the law will still be in effect. The court decision will only affect the specific part that was found unconstitutional.",
+      "word_offset": 262,
+      "char_offset": 1588
+    }
+  ]
+}

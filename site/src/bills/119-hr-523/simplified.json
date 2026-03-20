@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-523",
+  "title": "Permanent Tax Cuts for American Families Act of 2025",
+  "short_title": "Permanent Tax Cuts for American Families Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.523",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "1d903555b01d54c5",
+  "last_updated": "2026-03-20T13:37:21.842140+00:00",
+  "plain_summary": "This bill makes permanent the higher standard tax deduction amounts that were set to expire after 2025. Married couples filing together can deduct $24,000, single people can deduct $12,000, and heads of household can deduct $18,000 from their taxable income. These amounts will automatically go up each year based on inflation. Without this bill, the deduction amounts would have gone back to much lower levels in 2026.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Miller, Max L. [R-OH-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 14,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "tax cuts",
+    "standard deduction",
+    "family tax relief",
+    "permanent tax breaks",
+    "married filing jointly deduction",
+    "single taxpayer deduction",
+    "head of household tax",
+    "2025 tax expiration",
+    "inflation adjusted deductions",
+    "lower taxes families",
+    "tax reform 2025",
+    "keep tax cuts permanent"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Permanent Tax Cuts for American Families Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-in-standard-deduction-made-permanent",
+      "title": "Section 2 Increase in Standard Deduction Made Permanent",
+      "text": "This section changes the tax code to increase the standard deduction permanently. The standard deduction is the amount of money you can subtract from your income before calculating how much tax you owe. For married couples filing together, the standard deduction increases from four thousand four hundred dollars to eighteen thousand dollars. For single people and married people filing separately, it increases from three thousand dollars to twelve thousand dollars. The law also updates how these amounts are adjusted each year for inflation. These dollar amounts will go up each year based on the cost of living, starting from different base years depending on which deduction it is. Any inflation increase that is not a multiple of fifty dollars will be rounded down to the next lowest fifty dollar amount. The law removes an old paragraph that is no longer needed. These changes will apply to tax years that begin after this law is passed.",
+      "word_offset": 18,
+      "char_offset": 101
+    }
+  ]
+}

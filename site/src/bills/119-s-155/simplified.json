@@ -1,0 +1,88 @@
+{
+  "bill_id": "119-s-155",
+  "title": "MAILS Act",
+  "short_title": "MAILS Act",
+  "congress": 119,
+  "bill_number": "S.155",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "b8f09cf591afb9d0",
+  "last_updated": "2026-03-20T11:13:05.102681+00:00",
+  "plain_summary": "The MAILS Act makes new rules for the US Postal Service about moving post offices. When the Postal Service wants to move a post office for more than two days, they must first ask the community what they think about the move. The Postal Service also has to tell local government leaders and the public about these moves ahead of time and keep giving them updates. The bill also creates a way for local government officials to ask for a new post office in their area.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Government information and archives",
+    "Postal service",
+    "State and local government operations",
+    "U.S. Postal Service"
+  ],
+  "sponsor_name": "Sen. Crapo, Mike [R-ID]",
+  "sponsor_party": "R",
+  "sponsor_state": "ID",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "post office moving",
+    "postal service relocating",
+    "community input postal service",
+    "post office closure rules",
+    "local government postal service",
+    "post office public notice",
+    "mail service changes",
+    "neighborhood post office",
+    "postal service community involvement",
+    "post office relocation process"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Mandating Advisable and Informed Locations and Solutions Act or the MAILS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, these terms have specific meanings. A post office is a building that the Postal Service owns or rents. It has a manager called a Postmaster. The post office handles customer services, delivers mail to local addresses, and receives and sends out all types of mail. It might also sort and distribute mail for other post offices nearby. This includes post offices that are managed from far away, part-time post offices, and administrative post offices. The Postal Service means the United States Postal Service. A temporary relocation means moving postal services from a post office to another location for a short time. This might happen during holidays, special events, or when there is too much business to handle in the regular location.",
+      "word_offset": 18,
+      "char_offset": 106
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-requests-for-new-post-offices",
+      "title": "Section 3 Requests for New Post Offices",
+      "text": "Within ninety days after this law goes into effect, the Postal Service must create official rules. These rules will set up a formal way for local government officials to ask for a new post office in their area.",
+      "word_offset": 142,
+      "char_offset": 858
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-communication-relating-to-post-office-relocation",
+      "title": "Section 4 Communication Relating to Post Office Relocation",
+      "text": "The Postal Service must change their current rules to include these new requirements. First, if the Postal Service wants to temporarily move postal services for more than two days, including for special events or commemorations, they must collect and think about what the community wants. Second, they must give proper notice to people. At least thirty days before moving services temporarily, the Postal Service must send local elected officials a written plan and offer to discuss it with them. The Postal Service must also tell the public about the temporary move at least fifteen days before it happens. They must hold a public meeting within fifteen days after they notify local officials. Third, the Postal Service must give regular updates. Starting sixty days after the first thirty day comment period ends, and then every sixty days after that, they must tell local government officials how the temporary move is going. They must keep doing this until sixty days after the temporary move ends.",
+      "word_offset": 180,
+      "char_offset": 1069
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-report",
+      "title": "Section 5 Report",
+      "text": "When the Postal Service temporarily moves postal services for more than one hundred eighty days, they must write a special report. This includes moves that were planned to be long or that got extended to be longer than one hundred eighty days. The Postal Service must send this report within thirty days of when the long move starts or when an extension makes it longer than one hundred eighty days. They must send the report to the Senate Committee on Homeland Security and Governmental Affairs, the House Committee on Oversight and Accountability, and the members of Congress who represent the area where the affected post office is located. Each report must explain whether the Postal Service followed all the communication rules on time, and if not, why they failed to do so. The report must also explain whether the temporary move is being extended and why any extension is needed.",
+      "word_offset": 343,
+      "char_offset": 2072
+    }
+  ]
+}

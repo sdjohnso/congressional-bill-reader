@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-262",
+  "title": "Disaster Reforestation Act",
+  "short_title": "Disaster Reforestation Act",
+  "congress": 119,
+  "bill_number": "HR.262",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "cd493536349913f7",
+  "last_updated": "2026-03-20T14:42:36.161370+00:00",
+  "plain_summary": "This bill helps people who lose trees due to natural disasters like fires, storms, or bug damage. It allows them to get bigger tax breaks when they lose their timber. To get these tax benefits, they must have a professional estimate of how much their lost trees were worth. They also have to plant new trees in the same area within five years to qualify for the help.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Disaster relief and insurance",
+    "Forests, forestry, trees",
+    "Income tax deductions",
+    "Inflation and prices"
+  ],
+  "sponsor_name": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 24,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "tree loss tax breaks",
+    "wildfire timber damage help",
+    "storm tree damage relief",
+    "replanting trees tax deduction",
+    "natural disaster forest loss",
+    "bug damage tree compensation",
+    "reforestation tax benefits",
+    "timber loss disaster relief",
+    "plant new trees tax help",
+    "forest fire tree replacement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Disaster Reforestation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-casualty-losses-of-uncut-timber",
+      "title": "Section 2 Casualty Losses of Uncut Timber",
+      "text": "This section changes the tax code to help people who lose uncut timber in disasters. When someone loses uncut timber from fire, storms, theft, or other disasters, they can claim a tax deduction. The minimum amount they can deduct is the difference between what the timber was worth before the disaster and what it is worth as salvage afterward. To figure out the timber's value, the owner must get a professional appraisal within one year after the loss. The appraiser must be certified by the federal government or a state and must follow standard appraisal rules. The appraisal must only look at the value of the lost timber. If someone cannot get an appraisal done before their tax return is due, they can estimate the timber's value on their tax return. When they get the real appraisal later, they must file a corrected tax return to adjust their taxes up or down based on the difference between their estimate and the real appraised value. This special tax rule only applies to timber that someone owns as part of their business and plans to cut and sell. It does not apply to timber owned just as an investment where the owner does not actively work in the business. The rule includes young trees that are not yet big enough to harvest. To use this special tax deduction, the owner must replant the area within five years after the loss. They can plant hardwood trees, softwood trees, or a mix of both. If they do not replant within five years, the government will take back the tax benefit they received. For this law, disasters include damage from wood eating insects, invasive species that harm trees, and severe droughts. These changes apply to timber losses that happen in tax years starting after this law is passed.",
+      "word_offset": 9,
+      "char_offset": 55
+    }
+  ]
+}

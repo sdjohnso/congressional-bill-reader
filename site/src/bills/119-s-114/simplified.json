@@ -1,0 +1,156 @@
+{
+  "bill_id": "119-s-114",
+  "title": "CLEAR Act of 2025",
+  "short_title": "CLEAR Act of 2025",
+  "congress": 119,
+  "bill_number": "S.114",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "a59a1c32ffd1c622",
+  "last_updated": "2026-03-20T13:16:49.305517+00:00",
+  "plain_summary": "The CLEAR Act of 2025 allows state and local police to help catch people who are in the United States illegally and turn them over to federal immigration officers. States and cities that refuse to help with immigration enforcement will lose some of their federal money. The government will build 20 new detention centers to hold people waiting to be removed from the country and will pay local governments back for holding these people. The law also protects local police officers from being sued when they help with immigration work and requires states to share information about people they arrest who might be in the country illegally.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Blackburn, Marsha [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigration enforcement",
+    "local police immigration",
+    "sanctuary cities funding",
+    "detention centers",
+    "illegal immigrants",
+    "federal immigration money",
+    "police help immigration",
+    "cities lose funding",
+    "immigration detention",
+    "local law enforcement",
+    "immigration cooperation",
+    "federal immigration enforcement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-titles-table-of-contents",
+      "title": "Section 1  Short Titles; Table of Contents",
+      "text": "This law can be called the Clear Law Enforcement for Criminal Alien Removal Act of two thousand twenty five or the CLEAR Act of two thousand twenty five. The law includes fourteen sections that cover topics like definitions, federal support for state and local immigration enforcement, funding programs, detention facilities, training, and legal protections.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, Secretary means the Secretary of Homeland Security. State means any of the fifty states, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.",
+      "word_offset": 54,
+      "char_offset": 359
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-federal-affirmation-of-assistance",
+      "title": "Section 3  Federal Affirmation of Assistance in the Immigration Law Enforcement by States and Political Subdivisions of States",
+      "text": "This section confirms that states and local governments have always had the natural authority to help enforce federal immigration laws. State and local police can investigate, identify, catch, arrest, hold, or transfer to federal custody any person who is in the United States illegally. They can also transport these people across state lines to detention centers. This authority has always existed and Congress has never taken it away from states.",
+      "word_offset": 98,
+      "char_offset": 640
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-state-authorization-for-assistance-encouraged",
+      "title": "Section 4  State Authorization for Assistance in the Enforcement of Immigration Laws Encouraged",
+      "text": "Starting one year after this law takes effect, any state or local government that has rules preventing their police from helping federal immigration enforcement will lose certain federal funding. This funding comes from a program that helps pay for holding criminal aliens. However, this rule does not require police to report victims or witnesses of crimes. Any money taken away from states that do not cooperate will be given to states that do cooperate with immigration enforcement.",
+      "word_offset": 168,
+      "char_offset": 1090
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-listing-immigration-violators-ncic",
+      "title": "Section 5  Listing of Immigration Violators in the National Crime Information Center Database",
+      "text": "Within one hundred eighty days of this law taking effect, Customs and Border Protection must give the National Crime Information Center information about people who violated immigration laws. This includes people who have final removal orders, signed voluntary departure agreements, stayed longer than allowed, or had their visas canceled. All this information goes into a special Immigration Violators File, even if the person did not get proper notice, has already been removed, or there is not enough information to identify them. The Attorney General must make these changes within six months.",
+      "word_offset": 245,
+      "char_offset": 1576
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-state-local-law-enforcement-information",
+      "title": "Section 6  State and Local Law Enforcement Provision of Information About Apprehended Aliens",
+      "text": "All states and local governments must quickly send information to the Secretary of Homeland Security about any person they arrest who they believe broke immigration laws. This information includes the person's name, address, physical description, details about the arrest, identification documents, vehicle information, photos, and fingerprints if available. The Secretary must report to Congress each year about which states provided this information. The federal government will pay states back for the reasonable costs of collecting and sending this information. Police do not have to report information about crime victims or witnesses.",
+      "word_offset": 336,
+      "char_offset": 2174
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-financial-assistance-state-local-agencies",
+      "title": "Section 7  Financial Assistance to State and Local Law Enforcement Agencies That Assist in the Enforcement of Immigration Laws",
+      "text": "The Secretary of Homeland Security will give grants to states and local governments to buy equipment, technology, facilities, and other items needed to investigate, catch, arrest, hold, or transport people who violated immigration laws. To get these grants, a state or local government must have the authority and written policy to help enforce immigration laws as part of their normal police work. They cannot have policies that stop police from asking about a suspect's immigration status. The Government Accountability Office must review how this grant money is spent within three years.",
+      "word_offset": 427,
+      "char_offset": 2815
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-increased-federal-detention-space",
+      "title": "Section 8  Increased Federal Detention Space",
+      "text": "The Secretary of Homeland Security must build or buy twenty new detention facilities in the United States, in addition to existing facilities. These facilities will hold people waiting to be removed from the country or waiting for decisions about removal. Each facility must have enough beds to carry out this law's purposes. The Assistant Director of the Custody Management Division will decide where to put these facilities.",
+      "word_offset": 518,
+      "char_offset": 3406
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-federal-custody-aliens-apprehended",
+      "title": "Section 9  Federal Custody of Aliens Unlawfully Present in the United States Apprehended by State or Local Law Enforcement",
+      "text": "This section creates new rules for when state and local police catch people who are in the United States illegally. An unlawfully present alien is someone who entered without permission, overstayed their allowed time, or failed to follow the rules of their legal status. When state or local police ask the federal government to take custody of such a person, the federal government must take them within forty eight hours after state charges are finished or dismissed. The federal government will pay states back for the costs of holding and transporting these people. The Secretary must set up regular schedules to transfer people from state custody to federal custody and can hire private companies to help with this work.",
+      "word_offset": 585,
+      "char_offset": 3833
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-training-state-local-law-enforcement",
+      "title": "Section 10  Training of State and Local Law Enforcement Personnel Relating to the Enforcement of Immigration Laws",
+      "text": "Within one hundred eighty days, the Secretary must create a training manual and pocket guide to teach state and local police how to investigate, identify, catch, arrest, hold, and transfer people who are unlawfully in the United States. This includes how to transport people across state lines and identify fake documents. The training will be available in many ways including in person classes, online courses, computer training, teleconferences, videotapes, and DVDs. Within one hundred twenty days, an online learning system must be set up with servers based in the United States. This training cannot interfere with training federal personnel, and no state or local officer is required to get this training to help enforce immigration laws.",
+      "word_offset": 704,
+      "char_offset": 4558
+    },
+    {
+      "id": "s11",
+      "slug": "section-11-immunity",
+      "title": "Section 11  Immunity",
+      "text": "State and local police officers who help enforce immigration laws as part of their official duties get the same legal protection from personal lawsuits as federal officers. State and local police agencies are also protected from money damage claims related to enforcing federal immigration laws, except when an officer breaks federal, state, or local criminal law while enforcing immigration law.",
+      "word_offset": 820,
+      "char_offset": 5303
+    },
+    {
+      "id": "s12",
+      "slug": "section-12-institutional-removal-program",
+      "title": "Section 12  Institutional Removal Program",
+      "text": "The Secretary must continue and expand the Institutional Removal Program, which finds criminal aliens in federal and state prisons, makes sure they are not released into communities, and removes them from the United States after they finish their sentences. This program will expand to all states. Any state that gets federal money for holding criminal aliens must cooperate with this program, quickly identify all criminal aliens in their prisons and jails, and share this information as a condition of getting federal funding. State and local officers can hold criminal aliens for up to fourteen days after they finish their prison sentence to transfer them to federal custody. Technology like video conferencing and mobile database access should be used as much as possible, especially in remote areas.",
+      "word_offset": 880,
+      "char_offset": 5700
+    },
+    {
+      "id": "s13",
+      "slug": "section-13-authorization-appropriations",
+      "title": "Section 13  Authorization of Appropriations",
+      "text": "Congress authorizes spending whatever money is necessary for the Department of Homeland Security to carry out this law, starting in fiscal year two thousand twenty five and continuing each year after. The State Criminal Alien Assistance Program is also authorized to receive whatever funding is necessary starting in fiscal year two thousand twenty five and each year after.",
+      "word_offset": 1006,
+      "char_offset": 6506
+    },
+    {
+      "id": "s14",
+      "slug": "section-14-severability",
+      "title": "Section 14  Severability",
+      "text": "If any part of this law or any change it makes is found to be invalid by a court, the rest of the law remains in effect. The invalid part will not affect how the law applies to other people or situations.",
+      "word_offset": 1064,
+      "char_offset": 6881
+    }
+  ]
+}

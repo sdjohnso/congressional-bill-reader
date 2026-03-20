@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-48",
+  "title": "SAVE Girls Act",
+  "short_title": "SAVE Girls Act",
+  "congress": 119,
+  "bill_number": "S.48",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "01ae2665da42c1b2",
+  "last_updated": "2026-03-20T11:31:14.311432+00:00",
+  "plain_summary": "The SAVE Girls Act creates a new program that gives money to states, local governments, tribes, and nonprofit groups to fight child smuggling and trafficking. The program focuses on helping girls and young women between ages 12 and 24 who might be brought across the US border illegally or forced into dangerous situations like sex trafficking. The money can be used to prevent this from happening and also to help victims who have already been hurt. Both the Department of Justice and the Department of Health and Human Services will run this grant program together.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Blackburn, Marsha [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "child trafficking",
+    "sex trafficking",
+    "girls smuggling",
+    "border smuggling",
+    "human trafficking prevention",
+    "trafficking victims help",
+    "young women trafficking",
+    "child abuse prevention",
+    "border crimes against children",
+    "trafficking grants",
+    "smuggling prevention program",
+    "help trafficking survivors"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-titles",
+      "title": "Section 1 Short Titles",
+      "text": "This law can be called the Stopping the Abuse, Victimization, and Exploitation of Girls Act or the SAVE Girls Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-combating-smuggling-trafficking",
+      "title": "Section 2 Combating the Smuggling and Trafficking of Children and Young Women",
+      "text": "This section changes an existing law called the Trafficking Victims Protection Act of 2000. It removes one part and adds new rules about grants. First, it says that nothing in this part of the law can be used to sue the United States government or its workers. Next, it creates a new grant program. The Attorney General (the top law enforcement official) and the Secretary of Health and Human Services can work with the Secretary of State to give money grants to states, Indian tribes, local governments, and nonprofit organizations that help victims. These grants are meant to fight the smuggling and trafficking of children and young women. The main goals of this grant program are two things. First, to stop the smuggling of children and young women between twelve and twenty four years old across the borders of the United States. Second, to help children and young women between twelve and twenty four years old who have already been smuggled into the United States or who have been hurt by child sex trafficking or other serious forms of human trafficking, or who might be at risk of this happening to them. The law says fifty million dollars can be set aside for the Attorney General to use for these grants, and this money does not have to be spent by a certain deadline.",
+      "word_offset": 20,
+      "char_offset": 115
+    }
+  ]
+}

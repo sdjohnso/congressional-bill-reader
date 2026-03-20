@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-244",
+  "title": "Veterans’ True Choice Act of 2025",
+  "short_title": "Veterans’ True Choice Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.244",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Health.",
+  "version_hash": "c8458fe24b528b2f",
+  "last_updated": "2026-03-20T12:26:20.566079+00:00",
+  "plain_summary": "This bill lets certain veterans sign up for TRICARE Select health insurance. Veterans who can join include those with disabilities from their military service, former prisoners of war, Purple Heart winners, and Medal of Honor recipients. The VA has to pay the Defense Department back for the cost of covering these veterans. Veterans cannot use both TRICARE and VA health care at the same time.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-02-11",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Congressional oversight",
+    "Disability and paralysis",
+    "Health care costs and insurance",
+    "Health care coverage and access",
+    "Military medicine",
+    "Veterans' medical care",
+    "Veterans' pensions and compensation"
+  ],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans health insurance",
+    "TRICARE for veterans",
+    "disabled veterans healthcare",
+    "Purple Heart healthcare benefits",
+    "Medal of Honor health coverage",
+    "prisoner of war medical benefits",
+    "veterans insurance options",
+    "military healthcare for veterans",
+    "VA alternative health insurance",
+    "veterans medical coverage"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Veterans True Choice Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-eligibility-for-tricare-for-veterans-with-service-connected-disabilities",
+      "title": "Section 2  Eligibility for TRICARE for Veterans with Service-Connected Disabilities",
+      "text": "This section makes changes to allow certain veterans to use TRICARE Select health insurance. TRICARE is the health insurance program for military families.\n\nVeterans who have disabilities caused by their military service can now sign up for TRICARE Select during the yearly open enrollment period. These veterans must also be eligible for VA health care. The cost sharing (how much veterans pay for care) will be the same as for other TRICARE Select members, no matter when the veteran first joined the military.\n\nFamily members of these veterans cannot get TRICARE coverage just because the veteran has it. Veterans who are old enough for Medicare can use TRICARE for Life instead of TRICARE Select.\n\nA covered veteran beneficiary is defined as a veteran who can get VA health care and can only get TRICARE coverage through this new law.\n\nIf a veteran signs up for TRICARE through this program, they cannot also be enrolled in VA health care at the same time. The VA cannot provide medical care to veterans while they are getting TRICARE coverage through this program.\n\nThe VA Secretary and Defense Secretary must make an agreement where the VA pays the Defense Department back for the costs of giving these veterans TRICARE coverage.\n\nThese changes will start one year after this law is passed. During that first year, both departments must write rules for how this will work. During the second year, they will gradually start enrolling veterans during the regular TRICARE open enrollment periods. The VA Center for Innovation for Care and Payment will help manage this process.\n\nBoth departments must send reports to Congress every three months for the first two years about how this is working. After that, they must send yearly reports about the veterans enrolled in this program.",
+      "word_offset": 15,
+      "char_offset": 81
+    }
+  ]
+}

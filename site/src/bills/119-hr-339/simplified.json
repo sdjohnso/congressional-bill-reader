@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-339",
+  "title": "Broadband Resiliency and Flexible Investment Act",
+  "short_title": "Broadband Resiliency and Flexible Investment Act",
+  "congress": 119,
+  "bill_number": "HR.339",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "fd579b44d2e4deb0",
+  "last_updated": "2026-03-20T13:00:29.089106+00:00",
+  "plain_summary": "This bill makes it easier and faster for wireless companies to upgrade their cell towers and equipment. When companies want to make changes to existing towers, state and local governments must approve or deny the request within 60 days, or it automatically gets approved. The bill limits what paperwork and steps governments can require from companies during this process. If governments don't follow these rules, companies can take them to court to force approval. The goal is to help wireless networks get upgraded more quickly across the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Crenshaw, Dan [R-TX-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "cell tower upgrades",
+    "wireless network improvements",
+    "faster internet approval",
+    "cell phone tower permits",
+    "broadband infrastructure",
+    "wireless company regulations",
+    "cell tower construction rules",
+    "internet speed upgrades",
+    "mobile network expansion",
+    "government approval wireless",
+    "cell service improvements",
+    "tower permit streamlining"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Broadband Resiliency and Flexible Investment Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requests-for-modification-of-certain-existing-wireless-and-telecommunications-service-facilities",
+      "title": "Section 2 Requests for Modification of Certain Existing Wireless and Telecommunications Service Facilities",
+      "text": "This section changes an existing law from two thousand twelve about how state and local governments handle requests to modify wireless towers and telecommunications equipment. The changes require state and local governments to approve two types of requests. First, they must approve requests to modify existing wireless towers, base stations, or support structures as long as the changes do not substantially change the physical size of these structures. Second, they must approve requests to modify existing telecommunications service facilities on eligible support infrastructure as long as the changes do not substantially change the physical size of these facilities.\n\nState and local governments have sixty days to either approve these requests or explain in writing why the request does not qualify for automatic approval. If they do not act within sixty days, the request is automatically approved. The government can pause this sixty day countdown if the request is missing required information, but they must tell the requesting party exactly what information is missing within thirty days for the initial request or within ten days for additional submissions.\n\nGovernments can only require information that is reasonably related to determining if the request qualifies and that is listed in publicly available rules. They cannot require pre-application meetings or processes. If a government violates these rules, the requesting party can sue in federal court for expedited review.\n\nThe law defines several key terms. An eligible facilities request means a request to modify wireless equipment that involves adding, removing, or replacing transmission equipment, or adding equipment that makes the facility more resilient and provides public safety benefits like backup power or stronger construction. An eligible telecommunications facilities request means a request to modify telecommunications equipment by adding, removing, or replacing equipment. These definitions also include terms for the infrastructure that supports these facilities.\n\nThe Federal Communications Commission must create final rules to implement these changes within one hundred eighty days. These new rules apply to any qualifying request submitted on or after this law takes effect.",
+      "word_offset": 12,
+      "char_offset": 77
+    }
+  ]
+}

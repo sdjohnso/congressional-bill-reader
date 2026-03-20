@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-439",
+  "title": "Veterans Foreign Medical Coverage Equality and Modernization Act of 2025",
+  "short_title": "Veterans Foreign Medical Coverage Equality and Modernization Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.439",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Health.",
+  "version_hash": "db0ed6966b660232",
+  "last_updated": "2026-03-20T11:51:17.777621+00:00",
+  "plain_summary": "This bill lets the Department of Veterans Affairs pay for medical care that certain veterans get in other countries. Only veterans who have permanent and total disabilities from their military service can use this benefit. The medical care must meet the same standards as hospitals in the United States, and any medicines must be approved by the FDA. The Department of Veterans Affairs must also create better ways to pay veterans back for this care and make mobile apps that are easier to use.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-20",
+  "last_action_date": "2025-02-20",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Congressional oversight",
+    "Diplomacy, foreign officials, Americans abroad",
+    "Health care coverage and access",
+    "Internet, web applications, social media",
+    "Veterans' medical care"
+  ],
+  "sponsor_name": "Rep. LaLota, Nick [R-NY-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 20,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans medical care overseas",
+    "disabled veterans foreign healthcare",
+    "VA pay for treatment abroad",
+    "veterans healthcare other countries",
+    "military disability benefits overseas",
+    "VA coverage international hospitals",
+    "veterans living abroad medical",
+    "foreign medical care veterans",
+    "overseas healthcare disabled vets",
+    "VA international treatment coverage"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Veterans Foreign Medical Coverage Equality and Modernization Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-department-of-veterans-affairs-furnishing-of-hospital-care-and-medical-services-outside-a-state-to-veterans-with-service-connected-disabilities-rated-as-permanent-and-total",
+      "title": "Section 2 Department of Veterans Affairs Furnishing of Hospital Care and Medical Services Outside a State to Veterans with Service-Connected Disabilities Rated as Permanent and Total",
+      "text": "This section changes the law to require the Department of Veterans Affairs to pay for hospital care and medical services that happen outside any US state. This only applies to veterans who have disabilities that were caused by their military service and are rated as permanent and total (meaning the disability will not get better and completely prevents them from working). The Department must pay for this care if two conditions are met. First, the hospital care or medical treatment must follow the same standards that doctors normally use in the United States. Second, if any prescription drugs are given, those drugs must be approved by the Food and Drug Administration (the government agency that makes sure medicines are safe). The Department must also make sure that payments to veterans and medical providers can be made through direct deposit to make payments faster, work better, and cost less to manage. The Department must also create phone and computer apps that let veterans submit forms and track their requests in real time. These apps must also let veterans access important documents like benefit authorization letters, predetermination letters, and continuity of care documents. These changes will start ninety days after this law is passed and will apply to any hospital care or medical services received on or after that date. Within two years of this law being passed, the Secretary of Veterans Affairs must send a report to Congress. This report must explain how well the new rules are working, what problems came up, and how effective the hospital care and medical services have been under these new rules.",
+      "word_offset": 18,
+      "char_offset": 121
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-135",
+  "title": "Manatee Protection Act of 2025",
+  "short_title": "Manatee Protection Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.135",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "00ca1a1daffd2d48",
+  "last_updated": "2026-03-20T13:12:04.959874+00:00",
+  "plain_summary": "This bill forces the government to list the West Indian manatee as an endangered species. The Secretary of the Interior must put the manatee on the official endangered species list no matter what. Once the manatee is on this list, it will get special protection under the law. This means the government will work harder to keep manatees safe from harm.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [
+    "Animal protection and human-animal relationships",
+    "Endangered and threatened species",
+    "Mammals"
+  ],
+  "sponsor_name": "Rep. Buchanan, Vern [R-FL-16]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "manatee protection",
+    "save manatees",
+    "endangered manatees",
+    "manatee conservation",
+    "West Indian manatee",
+    "sea cow protection",
+    "marine animal safety",
+    "Florida manatees",
+    "protect sea mammals",
+    "manatee habitat",
+    "ocean wildlife protection",
+    "endangered species list"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Manatee Protection Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-west-indian-manatee-designated-endangered-species",
+      "title": "Section 2  West Indian Manatee Designated Endangered Species",
+      "text": "The West Indian manatee must be treated as an endangered species. The scientific name for this animal is Trichechus manatus. This requirement overrides any other laws that might say something different. The Secretary of the Interior is the government official who runs the Department of the Interior. This Secretary must put the West Indian manatee on the official list of endangered species. This list is kept under a law called the Endangered Species Act of nineteen seventy three. The Secretary must do this even if other laws say something different.",
+      "word_offset": 14,
+      "char_offset": 79
+    }
+  ]
+}

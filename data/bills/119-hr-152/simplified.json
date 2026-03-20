@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-152",
+  "title": "Federal Disaster Assistance Coordination Act",
+  "short_title": "Federal Disaster Assistance Coordination Act",
+  "congress": 119,
+  "bill_number": "HR.152",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "aab8e218dd4f2313",
+  "last_updated": "2026-03-20T15:40:12.832303+00:00",
+  "plain_summary": "This law tells FEMA to make it easier for people to get help after disasters. FEMA must study ways to cut down on confusing paperwork and make the process faster for people who need disaster assistance. The agency also has to work with other government groups to avoid doing the same damage checks twice and look into using new tools like drones to speed things up. FEMA must then report back to Congress about their plans and share the information with the public on their website.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [
+    "Congressional oversight",
+    "Disaster relief and insurance",
+    "Government information and archives",
+    "Government studies and investigations"
+  ],
+  "sponsor_name": "Rep. Ezell, Mike [R-MS-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "MS",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "disaster help",
+    "FEMA assistance",
+    "hurricane relief",
+    "flood aid",
+    "emergency money",
+    "disaster paperwork",
+    "getting help after storms",
+    "disaster application process",
+    "emergency assistance",
+    "natural disaster support"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Federal Disaster Assistance Coordination Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-study-to-streamline-and-consolidate-information-collection-and-preliminary-damage-assessments",
+      "title": "Section 2 Study to Streamline and Consolidate Information Collection and Preliminary Damage Assessments",
+      "text": "This section changes an existing law from two thousand eighteen. The head of FEMA (Federal Emergency Management Agency) must work with other government agencies to make disaster help easier to get. Within two years, FEMA must study how to make the paperwork simpler for people who ask for disaster help. They need to find ways to reduce duplicate forms and make the process faster and less confusing. FEMA also must create a plan to collect information about all federal disaster money given out and put this information on a public website. FEMA must create a working group that meets regularly with officials from the Labor Department, Budget Office, Health and Human Services, Small Business Administration, Transportation Department, and Commerce Department. This group will look at damage assessments done after disasters are declared. They must find where different agencies are doing the same work twice and decide if one agency should do all the damage assessments instead. The group also should look into using new technology like drones to speed up damage assessments. FEMA must write one big report that includes all their plans and findings from the working group. This report goes to two congressional committees. The report must be available to the public on the FEMA website in easy to download formats and in formats that computers can easily read. FEMA can use any published information, databases, websites, or information from government agencies, private organizations, or other groups when writing this report. Within six months after finishing the report, FEMA officials and someone from the Council of Inspectors General must brief Congress on their findings and recommendations if Congress asks for it.",
+      "word_offset": 11,
+      "char_offset": 73
+    }
+  ]
+}

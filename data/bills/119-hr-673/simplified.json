@@ -1,0 +1,132 @@
+{
+  "bill_id": "119-hr-673",
+  "title": "ICE Security Reform Act of 2025",
+  "short_title": "ICE Security Reform Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.673",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Border Security and Enforcement.",
+  "version_hash": "c3d8d0cbc59dfcd0",
+  "last_updated": "2026-03-20T12:19:08.067412+00:00",
+  "plain_summary": "This law changes how immigration enforcement works by splitting up one big agency into two smaller ones. It takes the part of Immigration and Customs Enforcement that investigates crimes and makes it its own separate agency called Homeland Security Investigations. The rest of Immigration and Customs Enforcement gets a new name called US Immigration Compliance Enforcement. The law gives the government two years to make this big change happen while keeping all the same workers and making sure ongoing cases don't get messed up.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the Subcommittee on Border Security and Enforcement.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Garcia, Robert [D-CA-42]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigration enforcement",
+    "ICE reform",
+    "split up ICE",
+    "immigration agencies",
+    "homeland security investigations",
+    "border patrol changes",
+    "immigration police",
+    "ICE restructuring",
+    "immigration law enforcement",
+    "customs enforcement",
+    "immigration compliance",
+    "federal immigration"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the ICE Security Reform Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-transfer-of-homeland-security-investigations",
+      "title": "Section 2  Transfer of Homeland Security Investigations from US Immigration and Customs Enforcement",
+      "text": "The Secretary of Homeland Security must move Homeland Security Investigations out of US Immigration and Customs Enforcement within two years after this law passes. Homeland Security Investigations will become its own separate agency inside the Department of Homeland Security. A Director will be in charge of Homeland Security Investigations. The President will choose this Director and the Senate must approve the choice. There will be a Chief Counsel who gives legal advice to the Director about legal issues affecting Homeland Security Investigations. The current legal advisor for Immigration and Customs Enforcement will keep handling legal matters that are not part of Homeland Security Investigations after the move. Homeland Security Investigations will do the same work it did before this law passed. Within two years after this law passes, the Secretary of Homeland Security and the Attorney General must create new investigation rules for Homeland Security Investigations. These rules must match national priorities and current threats. The rules must include policies about using surveillance technology and protecting sensitive information and ongoing investigations. These rules must be made available to the public. The Secretary of Homeland Security and the Attorney General must review these new rules within two years and look at how Homeland Security Investigations works compared to other federal law enforcement agencies. They must create an agreement about the role of Homeland Security Investigations to avoid duplicate work in areas like international crime, intellectual property, human trafficking, online child sexual exploitation, drugs, and financial crime. Every one hundred eighty days after this law passes until the move is finished, the Secretary of Homeland Security must send a report to specific House and Senate committees about how the transfer is going.",
+      "word_offset": 14,
+      "char_offset": 74
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-redesignation-relating-to-us-immigration-compliance-and-enforcement",
+      "title": "Section 3  Redesignation Relating to US Immigration Compliance and Enforcement",
+      "text": "After Homeland Security Investigations moves out, US Immigration and Customs Enforcement will be renamed US Immigration Compliance Enforcement. A Director will be in charge of US Immigration Compliance Enforcement. The President will choose this Director and the Senate must approve the choice. Any mention of US Immigration and Customs Enforcement in other federal laws, executive orders, rules, regulations, or official documents will now mean US Immigration Compliance Enforcement. Any mention of departments or offices that lose functions because of this law will now refer to the departments or offices that receive those functions.",
+      "word_offset": 294,
+      "char_offset": 1968
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-exercise-of-authorities",
+      "title": "Section 4  Exercise of Authorities",
+      "text": "Any federal official who receives new responsibilities because of this law can use all the same legal powers that were available to do that job before the transfer happened. This includes authority that other law enforcement agencies gave to Homeland Security Investigations through formal agreements like memorandums of understanding.",
+      "word_offset": 387,
+      "char_offset": 2606
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-savings-provisions",
+      "title": "Section 5  Savings Provisions",
+      "text": "All existing orders, rules, regulations, permits, grants, loans, contracts, agreements, memorandums of understanding, certificates, licenses, and privileges that were created by the President, Secretary of Homeland Security, employees of transferred offices, other government officials, or courts will continue to work the same way after this law passes. These will stay in effect until they are changed or canceled according to law. This law will not stop any ongoing legal proceedings or applications for benefits, services, licenses, permits, certificates, or financial assistance that were started before this law passed. These proceedings and applications will continue as if this law had never been passed. Orders will be issued, appeals will be taken, and payments will be made just as they would have been without this law. Orders from these proceedings will stay in effect until properly changed or canceled. This law will not affect lawsuits that started before this law passed. These suits will continue with the same procedures, appeals, and judgments as if this law had never been passed. No lawsuit or legal action started by or against the Department of Homeland Security, the Secretary of Homeland Security, or any individual employee will be stopped because of this law. If a government officer is involved in a lawsuit about a function that gets transferred to another officer or office under this law, the lawsuit will continue with the new officer or office head added or substituted as a party. Any legal requirements for notices, hearings, keeping records, or administrative or judicial review that applied to transferred functions will still apply when the new agency or officer performs those functions.",
+      "word_offset": 436,
+      "char_offset": 2942
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-transfer-of-assets",
+      "title": "Section 6  Transfer of Assets",
+      "text": "Unless this law says otherwise, all personnel, property, records, and unused money that was used for functions being transferred will be available to the new official or agency head. The Director of the Office of Management and Budget will decide when these transfers happen.",
+      "word_offset": 704,
+      "char_offset": 4670
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-delegation-and-assignment",
+      "title": "Section 7  Delegation and Assignment",
+      "text": "Unless the law specifically prohibits it or this law says otherwise, any official who receives new functions under this law can assign those functions to their officers and employees. They can also allow those officers and employees to reassign the functions to others as needed. Even if functions are assigned to others, the official who received the functions under this law is still responsible for making sure the functions are carried out properly.",
+      "word_offset": 748,
+      "char_offset": 4946
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-authority-of-director-of-office-of-management-and-budget",
+      "title": "Section 8  Authority of Director of the Office of Management and Budget with Respect to Functions Transferred",
+      "text": "If needed, the Director of the Office of Management and Budget will decide exactly which functions are being transferred under this law. The Director can also decide what to do with personnel, assets, debts, grants, contracts, property, records, and unused money related to these functions. The Director will handle closing down any agencies that are eliminated by this law and take other necessary steps to make this law work.",
+      "word_offset": 821,
+      "char_offset": 5400
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-certain-vesting-of-functions-considered-transfers",
+      "title": "Section 9  Certain Vesting of Functions Considered Transfers",
+      "text": "For this law, giving a function to a department or office when reestablishing an office counts as transferring that function.",
+      "word_offset": 890,
+      "char_offset": 5828
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-availability-of-existing-funds",
+      "title": "Section 10  Availability of Existing Funds",
+      "text": "Money that was already set aside for functions, programs, and activities that end because of this law can still be used for necessary expenses to close down and finish those functions, programs, and activities. This money can be used for as long as it was originally supposed to be available.",
+      "word_offset": 910,
+      "char_offset": 5954
+    },
+    {
+      "id": "s11",
+      "slug": "section-11-definitions",
+      "title": "Section 11  Definitions",
+      "text": "In this law, function means any duty, obligation, power, authority, responsibility, right, privilege, activity, or program. Office means any office, administration, agency, bureau, institute, council, unit, organizational entity, or part of any of these.",
+      "word_offset": 960,
+      "char_offset": 6247
+    }
+  ]
+}

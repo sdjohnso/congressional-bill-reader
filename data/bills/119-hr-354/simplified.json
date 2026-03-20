@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-354",
+  "title": "Small Business Growth Act",
+  "short_title": "Small Business Growth Act",
+  "congress": 119,
+  "bill_number": "HR.354",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "326da80e09f3ce6e",
+  "last_updated": "2026-03-20T13:24:15.202059+00:00",
+  "plain_summary": "This bill helps small businesses by letting them write off more money for equipment and property on their taxes. Right now, small businesses can expense up to one million dollars worth of equipment each year, but this bill would double that to two million dollars. The bill also changes the rules about when businesses start losing this benefit, making it so more businesses can take advantage of the full amount. These new rules would start working for taxes filed in 2026 and later years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Moore, Blake D. [R-UT-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 8,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "small business tax breaks",
+    "equipment tax deduction",
+    "business expense write off",
+    "small business equipment costs",
+    "tax relief for small businesses",
+    "business property deduction",
+    "small business tax savings",
+    "equipment purchase tax benefit",
+    "business tax deduction increase",
+    "small business financial help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Small Business Growth Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-in-limitations-on-expensing-of-depreciable-business-assets",
+      "title": "Section 2 Increase in Limitations on Expensing of Depreciable Business Assets",
+      "text": "This section changes the tax rules about how much businesses can expense each year for equipment and other business property that loses value over time. Under current law, businesses can expense up to one million dollars worth of this property each year. This bill increases that limit to two million dollars. The bill also changes another rule that reduces this benefit when businesses buy too much property in one year. Currently, this reduction starts when a business buys more than two million five hundred thousand dollars worth of property. The bill increases this threshold to three million five hundred thousand dollars. The bill also updates how these dollar amounts will be adjusted for inflation going forward. Starting in two thousand twenty six, both dollar amounts will be adjusted each year based on inflation, using two thousand twenty five as the starting point for calculating these adjustments. These changes will apply to business property that companies start using in tax years that begin after December thirty first two thousand twenty five.",
+      "word_offset": 10,
+      "char_offset": 54
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-451",
+  "title": "FAIR PREP Act of 2025",
+  "short_title": "FAIR PREP Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.451",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "bac67cb745112b1f",
+  "last_updated": "2026-03-20T14:35:53.777628+00:00",
+  "plain_summary": "This bill stops the IRS from preparing tax returns for people, including through their Direct File program that lets some taxpayers file for free on the IRS website. The IRS can still help people through existing programs like Free File, where people use other companies' software for free, and volunteer programs that help low-income people with their taxes. The Treasury Department also cannot spend money or make deals to create new tax preparation services. The bill basically says the IRS should not be in the business of preparing tax returns for taxpayers.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Smith, Adrian [R-NE-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 29,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "IRS tax preparation",
+    "Direct File program",
+    "IRS filing taxes",
+    "free tax software",
+    "government tax returns",
+    "IRS preparing returns",
+    "tax filing services",
+    "stop IRS Direct File",
+    "Treasury tax programs",
+    "tax preparation ban"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Fostering Autonomy in Independent Returns by Prohibiting Redundant and Extralegal Programs Act of two thousand twenty five. It can also be called the FAIR PREP Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-of-certain-return-preparation",
+      "title": "Section 2  Prohibition of Certain Return Preparation",
+      "text": "This section changes the tax code to add new rules about tax return preparation. The new rules say that the Secretary of the Treasury (the person who runs the tax system) cannot prepare tax returns or refund claims for people. There are some exceptions to this rule. The Secretary can still prepare returns in cases where the tax code already allows it in sections six thousand fourteen and six thousand twenty. The Secretary also cannot run electronic tax preparation services that help people file their taxes. If someone uses an electronic service run by the Secretary to prepare their tax return, it counts as if the Secretary prepared that return. However, this rule does not apply to certain approved programs. The Secretary can still help with qualified return preparation programs and the IRS Free File Program. The IRS Free File Program is a partnership that was created in two thousand two and published in government records. The law explains what preparing a tax return means. It includes filling out all the forms and schedules needed to figure out how much tax someone owes or how much refund they should get. It also includes actually filing the return whether it is done on paper or electronically. Even preparing just part of a return counts as preparing the whole return. However, some things do not count as preparing returns. These include math calculations that the tax code already allows the IRS to do and fixing math or clerical errors. It also does not include providing blank forms that can calculate numbers automatically. The law defines electronic tax preparation service as the free direct e-file system that the IRS created and announced in government records in December two thousand twenty three and September two thousand twenty four. It also includes any future programs like this that the IRS might create. These new rules will start applying to tax returns filed more than thirty days after this law is passed. The law also says that these changes should not be used to guess what the Secretary of the Treasury was allowed to do before this law was passed.",
+      "word_offset": 37,
+      "char_offset": 220
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-limitation-on-further-expenditures-circumventing-congressional-authority",
+      "title": "Section 3  Limitation on Further Expenditures Circumventing Congressional Authority",
+      "text": "After this law is passed, the Secretary of the Treasury cannot give out grants or make payments for electronic tax preparation services. The Secretary also cannot make contracts or other agreements to develop or run these services. The Secretary can only do these things if Congress passes another law that specifically allows it.",
+      "word_offset": 391,
+      "char_offset": 2314
+    }
+  ]
+}

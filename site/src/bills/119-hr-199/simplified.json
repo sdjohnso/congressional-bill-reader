@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-199",
+  "title": "Implementing DOGE Act",
+  "short_title": "Implementing DOGE Act",
+  "congress": 119,
+  "bill_number": "HR.199",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Appropriations.",
+  "version_hash": "77d1fa66fabde66b",
+  "last_updated": "2026-03-20T15:38:41.584898+00:00",
+  "plain_summary": "This bill creates a rule to control government spending on programs that are not for defense or the military. Starting in 2026, if the government spends more than one percent extra on these programs compared to the last year, the extra money above one percent will be automatically cut. The cuts will be spread equally across all non-defense programs. This means the government cannot increase spending on things like education, healthcare, and other services by more than one percent each year without automatic cuts happening.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Appropriations.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Appropriations"
+  ],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government spending limits",
+    "automatic budget cuts",
+    "spending cap",
+    "government program cuts",
+    "federal budget freeze",
+    "spending increase limits",
+    "automatic spending cuts",
+    "government budget control",
+    "federal program spending",
+    "budget cutting rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Implementing Decreases in Overall Government Expenditures Act or the Implementing DOGE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-across-the-board-rescissions",
+      "title": "Section 2  Across-the-Board Rescissions",
+      "text": "This section explains important terms and creates automatic spending cuts. Budget authority means the legal permission Congress gives agencies to spend money. Discretionary appropriations are the money Congress chooses to give to agencies each year, and security category means money for defense and homeland security. Excess growth percent means how much more than one percent the total yearly government spending increased compared to the previous year. Nonsecurity discretionary appropriations means the yearly money Congress gives to agencies that is not for defense or homeland security. Regular appropriation Act means the normal yearly laws that give money to government agencies and programs. Starting in fiscal year two thousand twenty six and every year after, this automatic cut happens. The day after Congress finishes giving money to the entire federal government for the full year, any extra growth above one percent in nonsecurity spending gets cut. The cuts are spread equally across all nonsecurity programs based on how much each program received.",
+      "word_offset": 18,
+      "char_offset": 119
+    }
+  ]
+}

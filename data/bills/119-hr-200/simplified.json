@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-200",
+  "title": "Federal Freeze Act",
+  "short_title": "Federal Freeze Act",
+  "congress": 119,
+  "bill_number": "HR.200",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "8350d06b9108f412",
+  "last_updated": "2026-03-20T14:33:41.672982+00:00",
+  "plain_summary": "The Federal Freeze Act stops the government from giving pay raises to federal workers for one year. It also stops agencies from hiring new people during that year, except for jobs in law enforcement, public safety, or national security. After the first year, government agencies must start reducing their number of workers. By the end of three years, each agency must have five percent fewer employees than when the bill started.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Employee hiring",
+    "Government employee pay, benefits, personnel management"
+  ],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal employee pay freeze",
+    "government worker hiring freeze",
+    "federal job cuts",
+    "government layoffs",
+    "federal workforce reduction",
+    "stop government pay raises",
+    "freeze federal salaries",
+    "cut government employees",
+    "federal hiring ban",
+    "shrink government workforce"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Federal Freeze Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-freeze-on-federal-hiring-and-salaries",
+      "title": "Section 2 Freeze on Federal Hiring and Salaries",
+      "text": "This section explains what certain words mean and sets rules for federal agencies. An agency means any federal government department or office as defined in existing law. The baseline number means how many people work for each agency on the day this law takes effect, including part-time workers counted as full-time equivalents. An employee means anyone who works for a federal agency. For one year after this law takes effect, agencies cannot hire more people than their baseline number, with one exception. Agency heads can hire new people even if it goes over the baseline number, but only if they decide the new hire is needed for law enforcement, public safety, or national security. During this same one-year period, agencies cannot give pay raises to current employees. Agency heads must take whatever steps are needed, regardless of other laws or rules, to reduce their workforce. By two years after this law takes effect, each agency must have two percent fewer employees than their baseline number. By three years after this law takes effect, each agency must have five percent fewer employees than their baseline number.",
+      "word_offset": 9,
+      "char_offset": 47
+    }
+  ]
+}

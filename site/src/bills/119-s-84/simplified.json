@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-s-84",
+  "title": "Sarah's Law",
+  "short_title": "Sarah's Law",
+  "congress": 119,
+  "bill_number": "S.84",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "bcc9f4729bee4ae3",
+  "last_updated": "2026-03-20T11:36:06.568537+00:00",
+  "plain_summary": "This bill called Sarah's Law makes immigration officials arrest and hold people who are in the United States illegally and have been charged with crimes that killed someone or badly hurt them. The officials must try to find out who the victims are. They must also tell the victims or their families important information about the person who hurt them, like their name, where they are from, and whether they might be sent out of the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Ernst, Joni [R-IA]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 34,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigration detention",
+    "illegal immigrants arrested",
+    "crimes against victims",
+    "deportation notification",
+    "victim rights immigration",
+    "criminal immigrants held",
+    "deadly crimes deportation",
+    "immigrant crime victims",
+    "family notification deportation",
+    "violent crime immigration",
+    "victim information rights",
+    "immigration crime arrest"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called Sarah's Law.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-mandatory-detention-of-certain-aliens-charged-with-a-crime-resulting-in-death-or-serious-bodily-injury",
+      "title": "Section 2. Mandatory Detention of Certain Aliens Charged with a Crime Resulting in Death or Serious Bodily Injury",
+      "text": "This section changes an existing immigration law. It requires Immigration and Customs Enforcement (a government agency that handles immigration) to arrest and hold certain people who are not United States citizens. These people must meet two conditions. First, they must be someone who entered the country without permission, had their visa taken away, or broke immigration rules when they first came to the country. Second, they must be charged with a crime that caused someone to die or be badly hurt. The law also requires Immigration and Customs Enforcement to try to find information about victims of crimes committed by these people. The agency must tell the victims or their closest family members important details about the person who hurt them. This includes the person's name, birth date, what country they are from, their immigration status, their criminal history, whether they are in jail or custody, and what the government is doing to remove them from the United States. The agency must share this information quickly and keep the victims updated as things change.",
+      "word_offset": 7,
+      "char_offset": 36
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-savings-provision",
+      "title": "Section 3. Savings Provision",
+      "text": "Nothing in this new law changes or limits any other rights that crime victims already have under other laws. This includes the rights that victims have under existing federal law about crime victims' rights.",
+      "word_offset": 181,
+      "char_offset": 1117
+    }
+  ]
+}

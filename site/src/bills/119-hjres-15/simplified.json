@@ -1,0 +1,56 @@
+{
+  "bill_id": "119-hjres-15",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Commercial Water Heating Equipment\".",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.15",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "c73c639adf95f10a",
+  "last_updated": "2026-03-20T14:04:06.618692+00:00",
+  "plain_summary": "This bill would cancel a new rule made by the Department of Energy in October 2023. The rule was supposed to make commercial water heaters use less energy by setting stricter standards. If Congress passes this bill, the energy rule would be thrown out and would not become law. This means commercial water heaters would not have to meet the tougher energy-saving requirements that the Department of Energy wanted.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Congressional oversight",
+    "Department of Energy",
+    "Energy efficiency and conservation",
+    "Lighting, heating, cooling"
+  ],
+  "sponsor_name": "Rep. Messmer, Mark [R-IN-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "water heater rules",
+    "commercial water heater standards",
+    "energy efficiency requirements",
+    "Department of Energy regulations",
+    "business water heater costs",
+    "commercial heating equipment",
+    "energy saving standards",
+    "water heater efficiency rules",
+    "congressional disapproval",
+    "energy conservation requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution",
+      "title": "Joint Resolution",
+      "text": "Congress officially rejects a rule that the Department of Energy made about energy saving standards for water heaters used in businesses. This rule was called Energy Conservation Program: Energy Conservation Standards for Commercial Water Heating Equipment and was published in the Federal Register on October sixth, two thousand twenty three. Because Congress disapproves of this rule, it will have no power and will not go into effect.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

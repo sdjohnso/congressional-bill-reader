@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-hr-181",
+  "title": "To amend the Endangered Species Act of 1973 to provide that artificially propagated animals shall be treated the same under that Act as naturally propagated animals, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.181",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "6eda7e0e3f381e29",
+  "last_updated": "2026-03-20T10:54:57.522282+00:00",
+  "plain_summary": "This bill changes the Endangered Species Act to make the government treat wild animals and animals born in captivity exactly the same. Right now, the law sometimes treats these two groups differently when making decisions about protecting endangered species. Under this new rule, it would not matter if an animal was born in the wild or raised by people when the government decides how to protect that species. The bill also requires government agencies to allow breeding programs in captivity when they are needed to help make up for damage done to endangered animals and their homes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [
+    "Animal protection and human-animal relationships",
+    "Endangered and threatened species"
+  ],
+  "sponsor_name": "Rep. McClintock, Tom [R-CA-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "endangered species",
+    "captive breeding",
+    "zoo animals",
+    "wild animals",
+    "breeding programs",
+    "endangered animals",
+    "captivity",
+    "wildlife protection",
+    "animal conservation",
+    "species recovery"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-treatment-of-artificially-propagated-animals",
+      "title": "Section 1 Treatment of Artificially Propagated Animals",
+      "text": "This section changes the Endangered Species Act of nineteen seventy-three. It adds a new rule that says the Secretary (the government official in charge) cannot treat animals born in captivity differently from animals born in the wild when making decisions under this law. Both types of animals must be treated exactly the same.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-artificial-propagation-for-mitigation-purposes",
+      "title": "Section 2 Artificial Propagation for Mitigation Purposes",
+      "text": "This section replaces an old part of the Endangered Species Act. The new rule says the Secretary must allow people to breed animals of an endangered species in captivity when this breeding is needed to make up for harm done to that species. This breeding program would be part of required mitigation (actions taken to offset environmental damage). The section also updates the table of contents in the law to reflect this change.",
+      "word_offset": 53,
+      "char_offset": 329
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-application",
+      "title": "Section 3 Application",
+      "text": "This section explains that the new rules in this bill will apply to all species. It does not matter if a species was already listed as endangered or threatened before this bill becomes law, or if it gets listed after this bill becomes law. The new rules will apply to all of them.",
+      "word_offset": 126,
+      "char_offset": 759
+    }
+  ]
+}

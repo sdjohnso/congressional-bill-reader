@@ -1,0 +1,54 @@
+{
+  "bill_id": "119-hjres-14",
+  "title": "Proposing an amendment to the Constitution of the United States to repeal the sixteenth article of amendment.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.14",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "023ab984af463945",
+  "last_updated": "2026-03-20T13:38:42.661430+00:00",
+  "plain_summary": "This bill wants to change the Constitution to take away the government's power to collect income taxes from people. The government could only collect income taxes during a war. If enough states agree to this change, it would start working two years later. Right now, the government can collect income taxes because of a rule added to the Constitution in 1913. This bill would remove that rule.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-04-07",
+  "last_action_text": "Message on Senate action sent to the House.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Constitution and constitutional amendments",
+    "Tax administration and collection, taxpayers",
+    "Tax reform and tax simplification"
+  ],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "no income tax",
+    "eliminate income tax",
+    "repeal income tax",
+    "end federal income tax",
+    "remove income tax",
+    "constitutional amendment taxes",
+    "abolish income tax",
+    "war only income tax",
+    "sixteenth amendment repeal",
+    "income tax constitutional change"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-constitutional-amendment-proposal",
+      "title": "Section 1 Constitutional Amendment Proposal",
+      "text": "This joint resolution proposes a change to the United States Constitution. The change would cancel out the sixteenth amendment, which is the part of the Constitution that gives Congress the power to collect income taxes. The new amendment would say that Congress cannot collect taxes on income from any source, except during times when Congress has officially declared war. This new rule would start two years after enough states approve it. Within one hundred eighty days after approval, the Secretary of the Treasury must give Congress a report with suggestions for any new laws that might be needed to make this change work. To become part of the Constitution, this amendment must be approved by the legislatures of three fourths of all states within seven years of when Congress sends it to them.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-hr-613",
+  "title": "ATF Transparency Act",
+  "short_title": "ATF Transparency Act",
+  "congress": 119,
+  "bill_number": "HR.613",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Ways and Means, and in addition to the Committee on the Judiciary, for a period to be subse",
+  "version_hash": "5e67ec8591dbc0a8",
+  "last_updated": "2026-03-20T15:15:31.882942+00:00",
+  "plain_summary": "This bill makes new rules for people who want to buy or make special types of guns like machine guns and silencers. If someone applies to get one of these guns, the government has 90 days to say yes or no. If the government does not answer in 90 days, the person automatically gets approved. The bill also lets people appeal if their application gets denied and requires the government to write reports about background check delays.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the Committee on Ways and Means, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provis",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Administrative remedies",
+    "Congressional oversight",
+    "Criminal justice information and records",
+    "Firearms and explosives",
+    "Licensing and registrations"
+  ],
+  "sponsor_name": "Rep. Fulcher, Russ [R-ID-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "ID",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gun permits",
+    "machine gun applications",
+    "silencer approval",
+    "ATF background checks",
+    "gun license waiting time",
+    "automatic weapon permits",
+    "firearm application deadlines",
+    "gun registration process",
+    "suppressor approval time",
+    "ATF response time",
+    "gun permit delays",
+    "weapon licensing rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the ATF Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-administrative-relief-for-denial-of-firearm-transfer-application",
+      "title": "Section 2  Administrative Relief for Denial of Firearm Transfer Application",
+      "text": "This section changes the tax code to create new rules for people whose firearm transfer applications are denied. When someone applies to transfer and register a certain type of firearm and the government agency denies it because of background check issues or law violations, the agency must do three things. First, they must give the person a special number called a NICS transaction number that relates to their application. Second, they must let the person appeal the denial using a process similar to existing appeal rules found in federal regulations. Third, they must let the person provide information to prevent future mistakes or delays through a program similar to the existing Voluntary Appeal File program. If someone successfully appeals and wins their case, the government must pay back any reasonable and necessary lawyer fees the person spent on the appeal. The term NICS means the national instant criminal background check system that was created under the Brady Handgun Violence Prevention Act. These new rules apply to firearm transfer applications that are filed or still waiting for a decision on or after this law takes effect.",
+      "word_offset": 9,
+      "char_offset": 49
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-timely-processing-of-applications",
+      "title": "Section 3  Timely Processing of Applications",
+      "text": "This section creates time limits for processing firearm applications. For transferring firearms, if someone files an application to transfer and register a firearm and the government agency does not make a decision within ninety calendar days after the application was first filed, the transfer is automatically considered approved and can go forward. The agency can only deny applications if the legal requirements are not met, and cannot deny an application just because they could not finish reviewing it within the ninety day period. For making firearms, if someone files an application to make and register a firearm and the agency does not decide within ninety calendar days, that application is also automatically approved and the person can make the firearm. The same rule applies that the agency can only deny applications for not meeting requirements, not for running out of time to review. These time limit rules apply to applications that are filed or still waiting for a decision on or after this law takes effect.",
+      "word_offset": 194,
+      "char_offset": 1199
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-reports-and-agreements",
+      "title": "Section 4  Reports and Agreements",
+      "text": "This section requires several reports and an agreement between government agencies. Within one hundred eighty days after this law passes, the Comptroller General and the Inspector General of the Department of Justice must submit a report to Congress. This report must detail how many background check requests from two thousand ten through two thousand twenty one remained unresolved after ninety days, and provide recommendations for actions the Bureau of Alcohol, Tobacco, Firearms, and Explosives can take to reduce these unresolved cases. Also within one hundred eighty days, the Inspector General must submit another report about what percentage of background check requests from two thousand fourteen through two thousand twenty one were handled by the Federal Bureau of Investigation on behalf of the Bureau of Alcohol, Tobacco, Firearms, and Explosives. Within the same time period, the directors of both the Bureau of Alcohol, Tobacco, Firearms, and Explosives and the Federal Bureau of Investigation must create a written agreement about how they will handle and process background check requests for firearm transfers. The section defines firearm using the same meaning from the tax code and defines NICS as the national instant criminal background check system created under the Brady Handgun Violence Prevention Act.",
+      "word_offset": 360,
+      "char_offset": 2227
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-179",
+  "title": "Proven Forest Management Act of 2025",
+  "short_title": "Proven Forest Management Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.179",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-430, Part I.",
+  "version_hash": "8d423ec81c564590",
+  "last_updated": "2026-03-20T14:03:56.491769+00:00",
+  "plain_summary": "This bill makes it easier for the government to manage national forests and prevent wildfires. It allows certain forest management projects under 10,000 acres to skip some lengthy environmental reviews if they are planned with local communities and follow existing forest plans. The bill requires forest managers to work with nearby communities and try to achieve multiple benefits like reducing fire risk, protecting animals, and keeping water clean. It also lets the Forest Service make agreements with other groups to help with activities like removing dangerous forest materials and replanting trees.",
+  "current_status": "committee_reported",
+  "status_date": "2026-01-08",
+  "last_action_date": "2026-01-08",
+  "last_action_text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-430, Part I.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Ecology",
+    "Environmental assessment, monitoring, research",
+    "Forests, forestry, trees",
+    "Land use and conservation",
+    "Public contracts and procurement",
+    "Water quality",
+    "Wildlife conservation and habitat protection"
+  ],
+  "sponsor_name": "Rep. McClintock, Tom [R-CA-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "forest management",
+    "wildfire prevention",
+    "national forests",
+    "environmental reviews",
+    "fire risk reduction",
+    "forest service",
+    "community forestry",
+    "forest restoration",
+    "wildfire protection",
+    "forest partnerships"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Proven Forest Management Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-forest-management-activities",
+      "title": "Section 2  Forest Management Activities for National Forest System Land",
+      "text": "When managing forests on National Forest System land, the government official in charge must work together with people and groups who are affected by these activities. This cooperation should make forest management more efficient and help different management practices work well together across all the forest land.\n\nWhen doing forest management work, the government official must try to achieve multiple benefits for the ecosystem. These benefits include reducing materials that could fuel fires, keeping many different types of plants and animals alive, improving wetlands and water quality including in Stream Environment Zones (areas where the land and water features are shaped by nearby surface water or underground water), and making forests better able to handle changes in water temperature and rainfall amounts. However, if the government official decides that trying to achieve all these benefits would cost too much money, then this requirement does not apply.\n\nThe government official must follow federal law and the forest plan made for that specific National Forest System land. They must set standards for what the ground should look like after any forest management activity that disturbs the ground, as required by the forest plan. They must also monitor the area to make sure these standards are met.\n\nCertain forest management activities that reduce fire fuel materials do not have to go through the full environmental review process required by the National Environmental Policy Act of nineteen sixty nine. This simplified approval process applies if the forest management activity covers no more than ten thousand acres, including no more than three thousand acres where machines are used to thin trees. The activity must be planned with input from affected parties, especially local government representatives like county supervisors or county commissioners, and after talking with other interested groups. The activity must also follow the forest plan for that National Forest System land.\n\nThe government official can make contracts and cooperative agreements with qualified organizations to help with reducing fire fuels, controlling erosion, replanting forests, restoring Stream Environment Zones, and similar management work on both federal land and private land within these programs. This can be done along with land adjustment programs.\n\nFor this section, interested entities include the Administrator of the National Oceanic and Atmospheric Administration, state and local and tribal governments, local fire departments, and other relevant volunteer groups. A forest management activity means any project or work done by the government official on National Forest System land that follows the forest plan for that land. National Forest System means what that term means in section eleven part a of the Forest and Rangeland Renewable Resources Planning Act of nineteen seventy four. Public lands means what that term means in section one hundred three of the Federal Land Policy and Management Act of nineteen seventy six, but also includes Coos Bay Wagon Road Grant lands and Oregon and California Railroad Grant lands. Secretary concerned means the Secretary of Agriculture for National Forest System land, and the Secretary of the Interior for public lands. Stream Environment Zone means an area where the biological and physical features of the area exist mainly because of surface water or underground water nearby.",
+      "word_offset": 15,
+      "char_offset": 85
+    }
+  ]
+}

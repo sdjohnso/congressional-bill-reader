@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-156",
+  "title": "Securing our Elections Act of 2025",
+  "short_title": "Securing our Elections Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.156",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on House Administration.",
+  "version_hash": "04fbc80a816be27e",
+  "last_updated": "2026-03-20T13:09:58.366698+00:00",
+  "plain_summary": "This bill requires voters to show photo identification when voting in federal elections starting in 2026. Voters must show a photo ID to get a ballot, or they can vote with a provisional ballot if they bring their ID within three days. People who vote by mail must send a copy of their photo ID or the last four digits of their Social Security number with their ballot. States must give free photo IDs to people who cannot afford them and provide free copying services at government offices.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Computers and information technology",
+    "Elections, voting, political campaign regulation",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "voter ID law",
+    "photo ID voting",
+    "election security",
+    "voting requirements",
+    "showing ID to vote",
+    "federal election rules",
+    "provisional ballot",
+    "mail in voting ID",
+    "free voter ID",
+    "2026 voting changes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Securing our Elections Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has decided several important facts. First, free and fair elections are needed for democracy to work in the United States and around the world. Second, the right to vote is an important part of being an American citizen and must be protected from interference, abuse, and fraud. Third, the Help America Vote Act of 2002 made elections better and more consistent across states, but it did not have strong rules to check who voters really are before they vote. Fourth, in 2005, a bipartisan group led by former Democratic President Jimmy Carter and former Republican Secretary of State James Baker recommended that states require voters to show valid identification that includes their full legal name, date of birth, signature, and photo. Fifth, a survey by Monmouth University in June 2021 found that eighty percent of Americans support requiring voters to show photo identification to vote. Sixth, valid identification is already required by states and the federal government for many important things in public life such as driving or renting a car, boarding an airplane or train, traveling within and outside the United States, purchasing alcohol or controlled substances, picking up prescription medication, opening a bank account or cashing a check, applying for employment or housing opportunities, and much more. Seventh, according to the Congressional Research Service, one hundred sixty-one nations worldwide which is about eighty-three percent require their citizens to show identification to vote, including thirty-eight of the top fifty most democratic nations identified by the Democracy Index 2021. Eighth, more than two-thirds of states already ask or require citizens to show identification to vote, and twenty-two of these states ask or require photo identification for voting.",
+      "word_offset": 12,
+      "char_offset": 63
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-requiring-voters-to-provide-photo-identification",
+      "title": "Section 3  Requiring Voters to Provide Photo Identification",
+      "text": "This section changes the Help America Vote Act of 2002 by adding new photo identification requirements. For people voting in person, election officials cannot give a ballot to someone unless they show valid photo identification. If someone does not have the required identification, they can cast a provisional ballot (a ballot that is held until the person's eligibility is confirmed). However, their vote will only count if within three days they either show the required identification or sign a sworn statement that they do not have photo identification because their religion does not allow them to be photographed. For people voting by mail or other methods besides in person, election officials cannot accept their ballot unless it comes with either a copy of valid photo identification or the last four digits of their Social Security number plus a sworn statement that they tried but could not get a copy of valid photo identification. This rule does not apply to military voters who are overseas on active duty. If someone cannot pay for identification or otherwise cannot get it, the state must provide free photo identification when the person signs a sworn statement explaining their situation. States must also provide free access to copying machines at government buildings like courts, libraries, and police stations so people can copy their identification. Valid photo identification includes a state driver's license with photo and expiration date, a state identification card with photo and expiration date, a United States passport, military identification, or any other government-issued identification that the state approves. States must tell people about these photo identification requirements when they register to vote, including through online registration systems. If a state already has photo identification laws that meet or exceed these requirements as of when this law is passed, they can keep using their existing law if the Attorney General approves their request or does not respond within one hundred eighty days. These new rules will start with elections held in 2026 or later. The law also makes technical changes to ensure the Election Assistance Commission provides guidance by October 1, 2025, includes these requirements in enforcement rules, and removes some existing identification requirements that are being replaced by these new rules.",
+      "word_offset": 290,
+      "char_offset": 1867
+    }
+  ]
+}

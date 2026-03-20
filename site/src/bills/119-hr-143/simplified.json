@@ -1,0 +1,90 @@
+{
+  "bill_id": "119-hr-143",
+  "title": "Unauthorized Spending Accountability Act",
+  "short_title": "Unauthorized Spending Accountability Act",
+  "congress": 119,
+  "bill_number": "HR.143",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 19.",
+  "version_hash": "0051ebc52612b0eb",
+  "last_updated": "2026-03-20T10:45:45.476418+00:00",
+  "plain_summary": "This bill creates rules to cut funding for government programs that don't have proper approval from Congress. If a program loses its authorization, it will have its funding cut by 10 percent in the first year, then 15 percent in the second and third years. After three years without authorization, the program will be completely shut down unless Congress votes to approve it again. The goal is to make sure all government programs have current legal permission to spend taxpayer money.",
+  "current_status": "committee_reported",
+  "status_date": "2025-12-02",
+  "last_action_date": "2025-12-02",
+  "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 19.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Appropriations",
+    "Budget process",
+    "Executive agency funding and structure",
+    "Government information and archives",
+    "Legislative rules and procedure"
+  ],
+  "sponsor_name": "Rep. Cammack, Kat [R-FL-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government spending cuts",
+    "unauthorized programs",
+    "congressional approval",
+    "taxpayer money",
+    "government waste",
+    "program funding",
+    "budget accountability",
+    "cutting government programs",
+    "congress authorization",
+    "government oversight",
+    "federal spending control",
+    "defund programs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Unauthorized Spending Accountability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-establishment-of-budgetary-level-reduction-schedule",
+      "title": "Section 2 Establishment of Budgetary Level Reduction Schedule",
+      "text": "This section creates a repeating three year cycle to reduce funding for government programs that no longer have proper legal approval. The cycle starts in fiscal year two thousand twenty six. A budgetary level means the amount of money that Congress allows to be spent on programs each year through the budget process. An expiring fiscal year means the year when a program's legal permission to receive money runs out. An unauthorized program means any government program or activity that appears on a yearly report by the Congressional Budget Office called Expired and Expiring Authorizations of Appropriations. This report lists programs whose legal permission to get money will end during that fiscal year. For programs that lost their legal approval before fiscal year two thousand twenty six but are still getting money in that year, this law will treat them as if their approval expired in two thousand twenty six.",
+      "word_offset": 10,
+      "char_offset": 69
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-reduction-in-budgetary-level-for-unauthorized-programs",
+      "title": "Section 3 Reduction in Budgetary Level for Unauthorized Programs",
+      "text": "When a program loses its legal approval to receive money, its funding will be cut. In the first year after the program loses approval, the amount of money available for that program gets reduced by ten percent of what the program received in its last approved year. In the second and third years after losing approval, if the program still does not have new legal approval, the funding gets cut by fifteen percent of what the program received in its last approved year. When these cuts happen, the chairs of the Budget Committees in both the House and Senate must tell the chairs of the Appropriations Committees about the new reduced funding amounts.",
+      "word_offset": 160,
+      "char_offset": 990
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-termination-of-unauthorized-programs-after-third-unauthorized-year",
+      "title": "Section 4 Termination of Unauthorized Programs After Third Unauthorized Year",
+      "text": "Any program that goes through funding cuts for three full years without getting new legal approval will be completely shut down on October first of the fourth year. After a program is shut down, any leftover money can only be used to pay for valid commitments that were made before the shutdown date. No money can be spent on a shut down program in future years unless Congress passes a new law giving the program legal approval again. Any new approval can only last for up to three years.",
+      "word_offset": 273,
+      "char_offset": 1642
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-exemption-from-budgetary-level-reduction",
+      "title": "Section 5 Exemption from Budgetary Level Reduction",
+      "text": "A program can avoid funding cuts if Congress passes a new law giving it legal approval during the same fiscal year when the cuts would happen. When this occurs, any funding that was already cut gets restored to the program. However, this exception only applies if the new approval law includes a sunset provision, which means the approval automatically ends after no more than three years.",
+      "word_offset": 362,
+      "char_offset": 2132
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-445",
+  "title": "Border Security Investment Act",
+  "short_title": "Border Security Investment Act",
+  "congress": 119,
+  "bill_number": "HR.445",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Border Security and Enforcement.",
+  "version_hash": "b1a534f783bf70c7",
+  "last_updated": "2026-03-20T15:08:21.895212+00:00",
+  "plain_summary": "This bill puts a 37% fee on money that people send to the top five countries whose citizens enter the US illegally the most. The government will use this fee money for two main purposes. Half of the money will help pay back border states for money they spend on border security. The other half will pay for things like border technology, fences, and Border Patrol agent salaries. If too much money builds up, the extra amount will be used to reduce the national debt.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the Subcommittee on Border Security and Enforcement.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Moran, Nathaniel [R-TX-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border security",
+    "money transfer fee",
+    "illegal immigration",
+    "border wall funding",
+    "remittances",
+    "sending money abroad",
+    "border patrol",
+    "immigration enforcement",
+    "border fence",
+    "border technology",
+    "national debt reduction",
+    "border states funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Border Security Investment Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-establishment-of-trust-funds-relating-to-border-security",
+      "title": "Section 2 Establishment of Trust Funds Relating to Border Security",
+      "text": "This section creates new fees and trust funds for border security. First, it changes existing laws about money transfers. Companies that help people send money to other countries must now charge an extra fee equal to thirty seven percent of the transfer amount when someone sends money to certain countries. These covered countries are the five countries whose citizens entered the United States illegally the most during the previous year. The Commissioner of U.S. Customs and Border Protection decides which countries these are. All the money collected from these fees goes to the Department of the Treasury. The Treasury puts this money into the general fund where the government keeps its money. Two new trust funds are created with this money. The Border Security State Reimbursement Trust Fund gets fifty percent of the fees collected. This fund pays back states along the border for money they spent on border security activities. States can apply for this money by showing receipts for what they spent on border security in the previous year. The amount each state gets depends on how much they spent compared to other border states. Border security activities include things like stopping illegal crossings, detecting illegal activity, and controlling the southwest border. The Border Security Trust Fund gets the other fifty percent of the fees collected. This fund pays for border security equipment and staff. The money can be used to buy technology that detects and prevents illegal crossings along the Mexico border, build physical barriers at the southern border, and pay wages for Border Patrol agents. Both trust funds can earn interest by investing in government bonds. If the total amount in both funds ever exceeds fifty billion dollars, the extra money gets permanently removed and put toward reducing the national debt. This law takes effect within thirty days of being passed.",
+      "word_offset": 10,
+      "char_offset": 59
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-hr-47",
+  "title": "VOICE Restoration Act",
+  "short_title": "VOICE Restoration Act",
+  "congress": 119,
+  "bill_number": "HR.47",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "49fe57c4b4514692",
+  "last_updated": "2026-03-20T11:36:25.240539+00:00",
+  "plain_summary": "This bill creates a new office called VOICE inside Immigration and Customs Enforcement. The office will help people who were victims of crimes committed by immigrants who are in the United States illegally. VOICE will provide services like a phone hotline, help finding local support, information about social services, updates on whether criminals are in jail, and details about criminals' past crimes. The office is meant to give victims and their families the help and information they need.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Crime victims",
+    "Immigration status and procedures",
+    "Social work, volunteer service, charitable organizations"
+  ],
+  "sponsor_name": "Rep. Bergman, Jack [R-MI-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigration crime victims",
+    "illegal immigrant crimes",
+    "victim assistance hotline",
+    "crime victim support services",
+    "immigration enforcement help",
+    "victims of immigrant crimes",
+    "deportation updates for victims",
+    "immigrant crime victim resources",
+    "ICE victim services",
+    "undocumented immigrant crimes",
+    "immigration crime reporting",
+    "victim notification system"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Victims Of Immigration Crime Engagement Restoration Act or the VOICE Restoration Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has found the following facts. In April two thousand seventeen, the Department of Homeland Security started an office called VOICE within Immigration and Customs Enforcement. This office was created because President Donald Trump ordered the government to help victims of crimes committed by people who are in the country illegally. In June two thousand twenty one, the Department of Homeland Security shut down VOICE because President Biden issued a new order that changed immigration enforcement policies.",
+      "word_offset": 18,
+      "char_offset": 113
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-victims-of-immigration-crime-engagement-office",
+      "title": "Section 3  Victims of Immigration Crime Engagement Office",
+      "text": "This section creates a new office called the Victims of Immigration Crime Engagement Office or VOICE. It will be part of Immigration and Customs Enforcement. VOICE will help victims of crimes committed by people who are in the United States without legal permission to be here. It will also help witnesses and lawyers who are working for victims or witnesses. VOICE has several jobs to do. It must use a victim-centered approach, which means putting the needs of victims first when helping them and their families. It must tell people about services that are available to help them. It must work with community groups that help these victims. VOICE can provide different types of help to people hurt by crimes committed by people in the country illegally. It can set up and run a free phone hotline where victims can call to ask questions. It can provide local contacts to help with special requests from victims. It can give victims access to social workers who can connect them with resources and service providers. It can help victims sign up to get automatic updates about whether the person who hurt them is still in jail or custody. It can share additional criminal or immigration history information about the illegal immigrant with victims or their families. Every three months starting one hundred eighty days after this law is passed, VOICE must publish reports to Congress, the Secretary of Homeland Security, and the President. These reports will study how crimes by people in the country illegally affect their victims.",
+      "word_offset": 95,
+      "char_offset": 630
+    }
+  ]
+}

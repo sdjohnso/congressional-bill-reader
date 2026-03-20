@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-352",
+  "title": "Motorist Tax Abuse Act",
+  "short_title": "Motorist Tax Abuse Act",
+  "congress": 119,
+  "bill_number": "HR.352",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Highways and Transit.",
+  "version_hash": "931fb9c5fd3ee70c",
+  "last_updated": "2026-03-20T13:02:34.466912+00:00",
+  "plain_summary": "This bill stops the federal government from helping New York City charge drivers money to drive into busy parts of Manhattan. New York City wanted to make drivers pay a fee when they enter crowded downtown areas to reduce traffic jams. The bill changes transportation rules to make sure the federal government cannot support this type of fee system in New York City. This means drivers would not have to pay extra money just to drive into certain parts of Manhattan.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the Subcommittee on Highways and Transit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "NYC congestion pricing",
+    "Manhattan driving fees",
+    "New York City traffic charges",
+    "downtown Manhattan tolls",
+    "federal transportation funding",
+    "driving into Manhattan costs",
+    "New York traffic tax",
+    "congestion charges NYC",
+    "Manhattan entry fees",
+    "federal support traffic pricing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Motorist Tax Abuse Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-congestion-pricing",
+      "title": "Section 2  Prohibition on Congestion Pricing",
+      "text": "This section changes an existing transportation law from nineteen ninety-one. It adds a new rule that says the Secretary of Transportation cannot create or keep running a congestion pricing system for New York City's Central Business District. Congestion pricing means charging drivers extra money to enter certain busy areas of the city during peak times. This new rule specifically blocks this type of pricing system from being part of a federal pilot program that tests different ways to charge for road use.",
+      "word_offset": 10,
+      "char_offset": 51
+    }
+  ]
+}

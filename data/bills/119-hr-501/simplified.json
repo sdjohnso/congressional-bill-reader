@@ -1,0 +1,85 @@
+{
+  "bill_id": "119-hr-501",
+  "title": "Promoting Resilient Buildings Act of 2025",
+  "short_title": "Promoting Resilient Buildings Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.501",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-319.",
+  "version_hash": "72730a18e71ff191",
+  "last_updated": "2026-03-20T16:00:06.974886+00:00",
+  "plain_summary": "This bill makes it easier for local governments to get money from FEMA to make buildings safer during disasters. Local governments can now use FEMA funding to follow either the newest building safety rules or the ones right before them, instead of only being able to use the very newest rules. The bill also creates a new program that helps regular homeowners get money to make their houses stronger against floods, storms, and other disasters. This homeowner program will last until 2028 and can use up to 10 percent of the money that FEMA gives out each year.",
+  "current_status": "committee_reported",
+  "status_date": "2025-10-03",
+  "last_action_date": "2025-10-03",
+  "last_action_text": "Placed on the Union Calendar, Calendar No. 273.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [
+    "Government lending and loan guarantees",
+    "Natural disasters"
+  ],
+  "sponsor_name": "Rep. Edwards, Chuck [R-NC-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "FEMA money",
+    "disaster funding",
+    "building safety",
+    "homeowner grants",
+    "flood protection",
+    "storm damage prevention",
+    "disaster preparedness",
+    "home strengthening",
+    "local government funding",
+    "disaster relief money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Promoting Resilient Buildings Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-predisaster-hazard-mitigation",
+      "title": "Section 2 Predisaster Hazard Mitigation",
+      "text": "This section changes an existing disaster law called the Robert T. Stafford Disaster Relief and Emergency Assistance Act. It adds a new definition that explains what latest published editions means. When the law talks about the newest building codes and safety standards, it now means the two most recent versions that have been published.",
+      "word_offset": 14,
+      "char_offset": 84
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-hazard-mitigation-revolving-loan-fund-program",
+      "title": "Section 3 Hazard Mitigation Revolving Loan Fund Program",
+      "text": "This section makes changes to a loan program in the disaster relief law. It removes one paragraph from the law and renumbers the remaining paragraphs to keep them in order.",
+      "word_offset": 68,
+      "char_offset": 424
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-residential-retrofit-and-resilience-pilot-program",
+      "title": "Section 4 Residential Retrofit and Resilience Pilot Program",
+      "text": "This section creates a new test program to help people make their homes stronger against disasters. The program is run by the Federal Emergency Management Agency, which is the government agency that helps with disasters. Residential resilient retrofits means projects that make existing homes better able to survive natural disasters like floods, tornadoes, earthquakes, and wildfires. These projects must follow the two most recent versions of safety building codes. Examples include raising homes above flood level, making basements waterproof, building tornado safe rooms, making buildings earthquake resistant, protecting homes from wildfires, and strengthening roofs against strong winds. The agency will give money to state and local governments, which will then give grants to individual homeowners for these home improvements. The agency can use up to ten percent of its yearly disaster prevention money for this program. The program must start within one year of this law being passed and will end on September thirtieth twenty thirty. States and local governments must give priority to people who need financial help. Six years after this law is passed, the agency must write a report to Congress. The report must include information about what grants were given, how many homes were improved, what types of improvements were made and how much they cost, information about who participated in the program, an estimate of how much disaster damage and federal disaster payments were avoided because of these improvements, any problems with running the program, and suggestions for making it better. This section only applies to money that Congress approves after this law is passed.",
+      "word_offset": 98,
+      "char_offset": 597
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-rule-of-construction",
+      "title": "Section 5 Rule of Construction",
+      "text": "This section explains that this law only changes the disaster prevention programs mentioned in sections two zero three and two zero five of the Stafford Act. It does not affect any other government programs.",
+      "word_offset": 358,
+      "char_offset": 2288
+    }
+  ]
+}

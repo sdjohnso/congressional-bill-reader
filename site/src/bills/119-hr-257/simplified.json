@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-257",
+  "title": "SEC Act of 2025",
+  "short_title": "SEC Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.257",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "3957eb57827ebfb7",
+  "last_updated": "2026-03-20T11:46:57.177460+00:00",
+  "plain_summary": "The SEC Act of 2025 is a new law that limits what the Securities and Exchange Commission can do. The SEC is a government agency that makes rules for companies that sell stocks and bonds to the public. This bill says the SEC cannot force companies to tell investors about climate change issues unless that information would directly affect how much money investors might make or lose. The law is meant to stop companies from having to share environmental information that lawmakers think is not important for investment decisions.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Bice, Stephanie I. [R-OK-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "SEC rules",
+    "climate change reporting",
+    "stock market regulations",
+    "corporate disclosure requirements",
+    "environmental reporting",
+    "investment information",
+    "company transparency",
+    "business climate rules",
+    "investor protection",
+    "securities regulations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Stop Environmental Calculations Act of two thousand twenty five or the SEC Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-requiring-climate-disclosures",
+      "title": "Section 2 Prohibition on Requiring an Issuer to Make Climate-Related Disclosures That Are Not Material to Investors",
+      "text": "This section changes an existing law called the Securities Exchange Act of nineteen thirty four. It adds a new rule to Section twenty three of that law. The new rule says that the Securities and Exchange Commission (the government agency that watches over the stock market) cannot force companies to share information about climate and environmental issues unless that information is important to people who invest money in those companies. This means companies would only have to report climate information if it could affect their profits or stock prices in ways that investors need to know about.",
+      "word_offset": 24,
+      "char_offset": 135
+    }
+  ]
+}

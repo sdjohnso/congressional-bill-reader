@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-465",
+  "title": "Old Glory Only Act",
+  "short_title": "Old Glory Only Act",
+  "congress": 119,
+  "bill_number": "HR.465",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Foreign Affairs.",
+  "version_hash": "fb66cabfd3d54780",
+  "last_updated": "2026-03-20T11:42:20.892508+00:00",
+  "plain_summary": "The Old Glory Only Act is a law about flags at American government buildings in other countries. It says that only the American flag can be flown above U.S. embassies and consulates around the world. No other flags are allowed to fly above these buildings. The Secretary of State must make sure this rule is followed at all American diplomatic buildings overseas.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Timmons, William R. [R-SC-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "SC",
+  "cosponsor_count": 34,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "american flag",
+    "embassy flag",
+    "consulate flag",
+    "government buildings overseas",
+    "diplomatic buildings",
+    "flag flying rules",
+    "us embassy",
+    "american consulate",
+    "foreign countries",
+    "state department",
+    "old glory",
+    "flag policy"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Old Glory Only Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-flying-of-certain-flags-over-united-states-diplomatic-and-consular-posts",
+      "title": "Section 2 Prohibition on Flying of Certain Flags Over United States Diplomatic and Consular Posts",
+      "text": "The Secretary of State must make sure that United States embassies and consulates (places where American government workers help American citizens in other countries) only fly the United States flag above their buildings. They cannot fly any other flags above these buildings.",
+      "word_offset": 10,
+      "char_offset": 47
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "bill_id": "119-hjres-16",
+  "title": "Proposing an amendment to the Constitution of the United States extending the right to vote to citizens sixteen years of age or older.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.16",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "93a811d48f190b04",
+  "last_updated": "2026-03-20T11:10:40.690333+00:00",
+  "plain_summary": "This bill wants to change the Constitution to let 16-year-olds vote in elections. Right now, you have to be 18 years old to vote. The bill would replace the current rule and lower the voting age by two years. It would also give Congress the power to make laws about this new voting age rule.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Age discrimination",
+    "Constitution and constitutional amendments",
+    "Elections, voting, political campaign regulation",
+    "Voting rights"
+  ],
+  "sponsor_name": "Rep. Meng, Grace [D-NY-6]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "16 year olds voting",
+    "lower voting age",
+    "teenagers vote",
+    "voting age 16",
+    "constitutional amendment voting",
+    "young people vote",
+    "high school students voting",
+    "teen voting rights",
+    "minimum voting age",
+    "sixteenth birthday vote"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution-title",
+      "title": "Joint Resolution",
+      "text": "This joint resolution proposes changing the Constitution of the United States to let citizens who are sixteen years old or older vote in elections.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "resolved-clause",
+      "title": "Resolved Clause",
+      "text": "The Senate and House of Representatives agree with a two-thirds vote from each house that the following change should be added to the Constitution. This change will become part of the Constitution when three-fourths of all state governments approve it within seven years after Congress sends it to them.",
+      "word_offset": 24,
+      "char_offset": 148
+    },
+    {
+      "id": "s3",
+      "slug": "article-section-1",
+      "title": "Article Section 1",
+      "text": "The twenty-sixth amendment to the Constitution is canceled and no longer applies. The twenty-sixth amendment currently says that people eighteen years old and older have the right to vote.",
+      "word_offset": 73,
+      "char_offset": 452
+    },
+    {
+      "id": "s4",
+      "slug": "article-section-2",
+      "title": "Article Section 2",
+      "text": "Citizens of the United States who are sixteen years old or older have the right to vote. Neither the federal government nor any state government can take away or limit this voting right because of a person's age.",
+      "word_offset": 102,
+      "char_offset": 641
+    },
+    {
+      "id": "s5",
+      "slug": "article-section-3",
+      "title": "Article Section 3",
+      "text": "Congress has the power to pass laws to make sure this amendment is followed and enforced properly.",
+      "word_offset": 140,
+      "char_offset": 854
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-196",
+  "title": "Family and Small Business Taxpayer Protection Act",
+  "short_title": "Family and Small Business Taxpayer Protection Act",
+  "congress": 119,
+  "bill_number": "HR.196",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "1e5a5f11794c0357",
+  "last_updated": "2026-03-20T15:57:49.569368+00:00",
+  "plain_summary": "This bill takes back money that Congress gave to the Internal Revenue Service in 2022 through a law called the Inflation Reduction Act. The money was supposed to help the IRS collect taxes better, help taxpayers with their questions, and create a free way for people to file their taxes online. The bill also takes back money that was given to other government offices that watch over and help the IRS do its job. Only money that hasn't been spent yet would be taken back.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Appropriations",
+    "Computers and information technology",
+    "Internal Revenue Service (IRS)",
+    "Specialized courts",
+    "Tax administration and collection, taxpayers"
+  ],
+  "sponsor_name": "Rep. Smith, Adrian [R-NE-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 36,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "IRS funding cut",
+    "tax collection money",
+    "inflation reduction act reversal",
+    "IRS budget reduction",
+    "taxpayer protection",
+    "small business taxes",
+    "family tax relief",
+    "IRS enforcement funding",
+    "tax agency budget",
+    "government tax spending",
+    "IRS money taken back"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Family and Small Business Taxpayer Protection Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-rescission-of-certain-balances-made-available-to-the-internal-revenue-service",
+      "title": "Section 2. Rescission of Certain Balances Made Available to the Internal Revenue Service",
+      "text": "This law takes back money that was given to the Internal Revenue Service but has not been spent yet. The money comes from specific parts of a law called the Inflation Reduction Act of twenty twenty two. These parts are numbered one A ii, one A iii, one B, two, three, four, and five in section ten thousand three hundred one of that law. All leftover money from those parts gets taken back on the day this new law becomes official.",
+      "word_offset": 13,
+      "char_offset": 78
+    }
+  ]
+}

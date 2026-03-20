@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hres-34",
+  "title": "Expressing the sense of the House of Representatives that the Federal Government should drop all charges against Edward Snowden.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.34",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a p",
+  "version_hash": "cafb89b8fb67ce45",
+  "last_updated": "2026-03-20T15:01:33.386122+00:00",
+  "plain_summary": "This bill says the House of Representatives thinks the government should drop all criminal charges against Edward Snowden. Snowden shared secret information about a government program that collected phone records from many Americans. The House believes this phone records program was against the law and that Snowden helped the public by exposing it. The government charged Snowden with crimes for sharing classified information and stealing government property, but the House thinks these charges should be dropped.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for considerati",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Criminal investigation, prosecution, interrogation",
+    "Intelligence activities, surveillance, classified information",
+    "National Security Agency",
+    "Telephone and wireless communication"
+  ],
+  "sponsor_name": "Rep. Greene, Marjorie Taylor [R-GA-14]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Edward Snowden",
+    "drop charges",
+    "NSA whistleblower",
+    "phone records spying",
+    "government surveillance",
+    "classified information leak",
+    "pardon Snowden",
+    "mass surveillance",
+    "phone data collection",
+    "NSA spying program"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution expresses the opinion of the House of Representatives that the Federal Government should drop all charges against Edward Snowden.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Facts",
+      "text": "In March two thousand thirteen, James Clapper was the Director of National Intelligence. During a Senate hearing, Senator Ron Wyden asked him if the National Security Agency collected any type of data on millions or hundreds of millions of Americans. Clapper said no and added not on purpose. He later admitted this answer was clearly wrong. In June two thousand thirteen, Edward Snowden gave National Security Agency documents to a small group of reporters. These documents showed that the intelligence community was collecting large amounts of Americans telephone records from phone companies. On June twenty first two thousand thirteen, the Department of Justice filed criminal charges against Edward Snowden. They charged him with violating the Espionage Act and stealing government property. In January two thousand fourteen, the Privacy and Civil Liberties Oversight Board studied the National Security Agency telephone records program. They found no case where the program directly helped discover a new terrorist plot or stop a terrorist attack. They also found the program seriously threatened and violated the constitutional rights of American people. In May two thousand fifteen, the United States Court of Appeals for the Second Circuit ruled that section two hundred fifteen of the Patriot Act did not allow the bulk collection of telephone records. Therefore this collection was against the law. In September two thousand twenty, the United States Court of Appeals for the Ninth Circuit ruled the National Security Agency telephone records bulk collection program was illegal and possibly violated the Fourth Amendment to the Constitution. The Ninth Circuit Court also found the telephone records bulk collection program did not play an important role in any terrorism investigations. The people involved in collecting Americans telephone records have not been held responsible for their illegal actions. This increases the danger of continued government overreach and abuse of civil liberties. The United States Government must protect whistleblowers who expose illegal and unconstitutional acts of abuse within our government.",
+      "word_offset": 21,
+      "char_offset": 146
+    },
+    {
+      "id": "s3",
+      "slug": "resolution-statement",
+      "title": "House Opinion",
+      "text": "It is the opinion of the House of Representatives that the National Security Agency bulk collection telephone records program was illegal and unconstitutional. Edward Snowden telling journalists about this program was in the public interest. The Federal Government should drop all charges against Edward Snowden.",
+      "word_offset": 343,
+      "char_offset": 2289
+    }
+  ]
+}

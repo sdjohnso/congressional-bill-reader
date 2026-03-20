@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-561",
+  "title": "Overtime Pay Tax Relief Act of 2025",
+  "short_title": "Overtime Pay Tax Relief Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.561",
+  "introduced_date": "2025-01-20",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "c977008cd7e0aa09",
+  "last_updated": "2026-03-20T12:55:42.747880+00:00",
+  "plain_summary": "This bill lets workers pay less taxes on their overtime pay through 2029. Workers can deduct some of their overtime pay from their taxes, but only up to 20% of their regular wages from the same job. The tax break only applies to people who make less than $100,000 per year, or $150,000 for single parents, or $200,000 for married couples filing together. This means workers who earn overtime will get to keep more of that extra money instead of paying it in taxes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-20",
+  "last_action_date": "2025-01-20",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Bacon, Don [R-NE-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "overtime pay",
+    "overtime taxes",
+    "tax break overtime",
+    "overtime deduction",
+    "working extra hours taxes",
+    "overtime tax relief",
+    "less taxes overtime",
+    "overtime income tax",
+    "extra pay taxes",
+    "overtime workers tax break"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Overtime Pay Tax Relief Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-deduction-for-overtime-compensation",
+      "title": "Section 2  Deduction for Overtime Compensation",
+      "text": "This section changes the tax code to let workers reduce their taxes when they earn overtime pay. Workers can deduct overtime pay from their taxable income, but only up to twenty percent of their regular wages from the same employer during the tax year. Overtime compensation means the extra pay that employers must give workers under the Fair Labor Standards Act of nineteen thirty eight when they work more than forty hours per week. However, this tax break is not available to everyone. Workers cannot use this deduction if their adjusted gross income (their total income before most deductions) is too high. Married couples filing together cannot use it if they make more than two hundred thousand dollars per year. Heads of household cannot use it if they make more than one hundred fifty thousand dollars per year. All other individual workers cannot use it if they make more than one hundred thousand dollars per year. This deduction will end after December thirty first, two thousand twenty nine. Workers can claim this deduction whether they itemize their deductions or take the standard deduction. The deduction is not subject to certain tax limitations that affect other deductions. The Treasury Secretary must change tax withholding tables and procedures to account for this new deduction. These changes apply to overtime pay received after this law is passed.",
+      "word_offset": 16,
+      "char_offset": 84
+    }
+  ]
+}

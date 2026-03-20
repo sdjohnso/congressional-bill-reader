@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-159",
+  "title": "CLEAN Public Service Act",
+  "short_title": "CLEAN Public Service Act",
+  "congress": 119,
+  "bill_number": "HR.159",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, ",
+  "version_hash": "76cc07f52eaaba70",
+  "last_updated": "2026-03-20T13:23:18.706092+00:00",
+  "plain_summary": "The CLEAN Public Service Act stops members of Congress from getting pension benefits from the government. Current Congress members can keep the pension money they already earned, but they cannot earn any more starting ninety days after this law passes. New members of Congress who get elected after this law passes will not get any pension benefits at all. Congress members can still put money into their own retirement savings accounts, but the government will not help pay for their pensions anymore.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for cons",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Government employee pay, benefits, personnel management",
+    "Members of Congress"
+  ],
+  "sponsor_name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress pension",
+    "congressman retirement benefits",
+    "stop congress pensions",
+    "congressional retirement pay",
+    "eliminate politician pensions",
+    "congress member benefits",
+    "government pension reform",
+    "politician retirement money",
+    "congressional pay benefits",
+    "end congress retirement",
+    "congress pension elimination",
+    "politician pension reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Citizen Legislature Anti-Corruption Reform of Public Service Act or the CLEAN Public Service Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-termination-of-further-retirement-benefits-for-members-of-congress",
+      "title": "Section 2  Termination of Further Retirement Benefits for Members of Congress",
+      "text": "This section ends pension benefits for Congress members under two different retirement systems that federal employees use. Under the Civil Service Retirement System, starting ninety days after this law passes, Congress members will no longer earn new pension benefits. The government will stop putting money into their retirement accounts and stop taking retirement contributions from their paychecks. However, any pension benefits they already earned before this law passes will stay the same. Congress members can still participate in the Thrift Savings Plan, which is like a four hundred and one k retirement account. The Office of Personnel Management can make rules to carry out this change, except for rules about the Thrift Savings Plan which will be made by its Executive Director. The Vice President is not included in these changes. Under the Federal Employees Retirement System, the same rules apply. Congress members who were already serving when this law passes will stop earning new pension benefits ninety days later. New Congress members who start serving after this law passes will not get any pension benefits at all. Again, any benefits already earned stay the same, and the Thrift Savings Plan is still available. For Congress members who have served less than five years when this law passes, the government will refund the money they put into their retirement accounts as a lump sum payment.",
+      "word_offset": 20,
+      "char_offset": 125
+    }
+  ]
+}

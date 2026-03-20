@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-172",
+  "title": "Defund Heroin Injection Centers Act of 2025",
+  "short_title": "Defund Heroin Injection Centers Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.172",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "7b8a0b61e16e7aad",
+  "last_updated": "2026-03-20T10:51:28.698464+00:00",
+  "plain_summary": "This bill stops the federal government from giving money to any state, local, tribal, or private group that runs supervised drug injection sites. These injection sites are places where people can use illegal drugs under medical supervision. The bill says these sites break federal drug laws, specifically a law called the Crack House Statute that makes it illegal to provide places for people to use drugs. If a group operates one of these injection centers, they cannot receive federal funding.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [],
+  "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "drug injection sites",
+    "supervised drug use",
+    "heroin centers",
+    "safe injection facilities",
+    "federal funding drugs",
+    "needle exchange programs",
+    "drug treatment centers",
+    "government money drug sites",
+    "illegal drug supervision",
+    "medical drug monitoring"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Defund Heroin Injection Centers Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-no-federal-funds-for-entities-operating-unlawful-injection-centers",
+      "title": "Section 2 No Federal Funds for Entities Operating Unlawful Injection Centers",
+      "text": "The federal government cannot give money to any state government, local government, tribal government, or private organization that runs or controls an injection center that breaks federal law. These injection centers would be illegal under section four hundred sixteen of the Controlled Substances Act, which is also called the Crack House Statute. This law makes it illegal to operate places where people use illegal drugs.",
+      "word_offset": 16,
+      "char_offset": 92
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-210",
+  "title": "Dental Care for Veterans Act",
+  "short_title": "Dental Care for Veterans Act",
+  "congress": 119,
+  "bill_number": "HR.210",
+  "introduced_date": "2025-01-06",
+  "stage": "reported_by_committee",
+  "stage_label": "Subcommittee on Health Discharged",
+  "version_hash": "260ab8ebb8224d48",
+  "last_updated": "2026-03-20T12:17:24.053443+00:00",
+  "plain_summary": "The Dental Care for Veterans Act would let all veterans get dental care from the VA, just like they can get other medical care. Right now, most veterans can only get VA dental care if their dental problems are connected to their military service or they meet other strict rules. The new law would change this over four years, starting with veterans who have the highest priority for VA care. This means veterans with service-connected disabilities, former prisoners of war, and those who received Purple Hearts would get dental care first, followed by other veterans.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2026-03-18",
+  "last_action_text": "Committee Hearings Held",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Dental care",
+    "Health care coverage and access",
+    "Health technology, devices, supplies",
+    "Veterans' medical care"
+  ],
+  "sponsor_name": "Rep. Brownley, Julia [D-CA-26]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 73,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veteran dental care",
+    "VA dentist",
+    "military dental benefits",
+    "veteran teeth cleaning",
+    "VA dental coverage",
+    "military service dental",
+    "veteran healthcare expansion",
+    "VA dental eligibility",
+    "veteran tooth care",
+    "military dental insurance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Dental Care for Veterans Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirement-that-secretary-of-veterans-affairs-furnish-dental-care",
+      "title": "Section 2 Requirement That Secretary of Veterans Affairs Furnish Dental Care in the Same Manner as Any Other Medical Service",
+      "text": "The Department of Veterans Affairs must provide dental care to veterans just like it provides other medical services. This section changes several parts of federal law to make this happen. It removes special restrictions on dental care that made it different from other medical care. The Secretary of Veterans Affairs can provide dentures and other dental equipment under this new system. These changes will happen in phases over four years. Veterans who already get dental care from the VA will continue getting it right away when this law starts. Veterans in the highest priority groups will get dental care one year after this law passes. Veterans in the next priority groups will get dental care two years after this law passes. Veterans in lower priority groups will get dental care three years after this law passes. Veterans in the lowest priority groups will get dental care four years after this law passes. The law also fixes references to section numbers that change because of these updates. It changes the title of one section from Dental Care to Appliances and updates tables of contents to match these changes.",
+      "word_offset": 11,
+      "char_offset": 57
+    }
+  ]
+}

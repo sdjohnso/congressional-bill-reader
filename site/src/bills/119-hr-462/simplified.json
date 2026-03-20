@@ -1,0 +1,72 @@
+{
+  "bill_id": "119-hr-462",
+  "title": "No Support for Terror Act",
+  "short_title": "No Support for Terror Act",
+  "congress": 119,
+  "bill_number": "HR.462",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Financial Services, and in addition to the Committee on Foreign Affairs, for a period to be",
+  "version_hash": "0ccd7d2107223a97",
+  "last_updated": "2026-03-20T11:45:17.969969+00:00",
+  "plain_summary": "The No Support for Terror Act stops the United States from giving money to countries that commit genocide or support terrorism. The bill tells the Treasury Department to oppose giving special international money called Special Drawing Rights to these bad countries through the International Monetary Fund. It also requires government agencies to check that U.S. aid money going to charities and international groups does not end up with terrorist organizations like the Taliban. Any organization that gets this aid money must prove they are following U.S. laws that prevent money from going to terrorists.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the Committee on Financial Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Foreign Trade and International Finance",
+  "subjects": [
+    "Congressional oversight",
+    "International monetary system and foreign exchange",
+    "International organizations and cooperation",
+    "Terrorism",
+    "War crimes, genocide, crimes against humanity"
+  ],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "stop funding terrorist countries",
+    "no money to genocide countries",
+    "block aid to bad countries",
+    "prevent terrorism funding",
+    "cut off money to terrorists",
+    "stop supporting terror nations",
+    "block international money to terrorists",
+    "prevent aid money going to Taliban",
+    "stop government funding terrorism",
+    "cut funding to terrorist groups"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Support for Terror Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-preventing-allocations-of-special-drawing-rights",
+      "title": "Section 2  Preventing Allocations of Special Drawing Rights at the International Monetary Fund for Countries That Are Perpetrators of Genocide or State Sponsors of Terrorism",
+      "text": "This section changes an existing law called the Bretton Woods Agreements Act by adding new rules. The Secretary of the Treasury must tell the United States representative at the International Monetary Fund (a group that helps countries with money problems) to use America's voice and vote to oppose giving Special Drawing Rights (a type of international money) to any country that commits genocide (mass killing of people) or sponsors terrorism. The Secretary of State will decide which countries fit this description. The United States representative must also ask the International Monetary Fund to create a rule that completely stops giving this special money to such countries.",
+      "word_offset": 11,
+      "char_offset": 54
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-preventing-us-tax-dollars-from-being-provided-to-taliban",
+      "title": "Section 3  Preventing United States Tax Dollars From Being Provided to the Taliban or Other Terrorist Organizations or Countries That Harbor Terrorist Organizations",
+      "text": "This section has two main parts. First, the Secretary of the Treasury, the Secretary of State, and the head of the United States Agency for International Development (the agency that gives aid to other countries) must work together to review all the money they give to nongovernmental organizations (groups that are not part of any government) and international organizations. They need to make sure this money is not ending up with the Taliban or other terrorist groups or countries that protect terrorists. This must follow existing United States laws that prevent money from going to terrorists. These three officials must give Congress a report about what they find within ninety days after this law is passed. Second, within one hundred eighty days after this law is passed, each of these three officials must require that any organization receiving money directly from the United States government must prove that all the groups they give money to are also following United States anti-terrorism financing laws.",
+      "word_offset": 117,
+      "char_offset": 736
+    }
+  ]
+}

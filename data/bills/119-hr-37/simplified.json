@@ -1,0 +1,110 @@
+{
+  "bill_id": "119-hr-37",
+  "title": "Proposing a Federal debt limit amendment to the Constitution of the United States.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.37",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "a16ac563d613fcab",
+  "last_updated": "2026-03-20T12:17:08.320561+00:00",
+  "plain_summary": "This bill wants to add a new rule to the Constitution that would limit how much money the federal government can borrow. The government could only owe up to 130 percent of all the money the country makes in a year, and this limit would slowly go down to 120 percent over time. The only exception would be if the country is at war or facing a serious threat to national security, when the government could spend more money on the military. The President would have to make sure that all government budgets follow these new borrowing limits.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Budget deficits and national debt",
+    "Budget process",
+    "Constitution and constitutional amendments"
+  ],
+  "sponsor_name": "Rep. Yakym, Rudy [R-IN-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government borrowing limit",
+    "national debt cap",
+    "constitution amendment debt",
+    "federal spending limits",
+    "government debt ceiling",
+    "borrowing rules constitution",
+    "national debt percentage",
+    "government money limits",
+    "federal debt restriction",
+    "constitutional spending cap"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "constitutional-amendment-proposal",
+      "title": "Constitutional Amendment Proposal",
+      "text": "This bill proposes adding a new section to the United States Constitution. The new section would limit how much money the federal government can borrow. To become part of the Constitution, three-fourths of all state legislatures must approve this amendment within seven years of Congress proposing it.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-1-debt-limits",
+      "title": "Section 1 - Debt Limits",
+      "text": "The total amount of money the United States Government owes cannot be more than one hundred thirty percent of the Gross Domestic Product (the total value of all goods and services produced in the country) during the first year this rule takes effect. Each year after that, this limit must go down by one percent until it reaches one hundred twenty percent. Once it reaches one hundred twenty percent, that becomes the permanent limit for all future years.",
+      "word_offset": 47,
+      "char_offset": 302
+    },
+    {
+      "id": "s3",
+      "slug": "section-2-exceptions-to-debt-limits",
+      "title": "Section 2 - Exceptions to Debt Limits",
+      "text": "The federal government can borrow more money than the limits allow only if three-fifths of all members in both the House of Representatives and the Senate vote to approve the extra borrowing. This vote must happen every year and must be a recorded vote where each member's choice is written down. The law must explain exactly why the extra borrowing is needed.",
+      "word_offset": 125,
+      "char_offset": 758
+    },
+    {
+      "id": "s4",
+      "slug": "section-3-presidential-budget-requirements",
+      "title": "Section 3 - Presidential Budget Requirements",
+      "text": "Before each fiscal year (the government's yearly budget period), the President must send Congress a proposed budget plan for that year and the next five years. This budget plan must show that the total government debt will not go above the limits set in Section 1.",
+      "word_offset": 187,
+      "char_offset": 1119
+    },
+    {
+      "id": "s5",
+      "slug": "section-4-military-exceptions",
+      "title": "Section 4 - Military Exceptions",
+      "text": "Congress can ignore these debt limits when spending money on defense if the country has officially declared war. Congress can also ignore these limits if the United States is fighting in a military conflict that creates a serious and immediate threat to national security. To do this, both the House and Senate must pass a joint resolution (a formal agreement) that becomes law. Any such exception must clearly explain what extra spending is needed because of the specific military conflict.",
+      "word_offset": 233,
+      "char_offset": 1384
+    },
+    {
+      "id": "s6",
+      "slug": "section-5-enforcement",
+      "title": "Section 5 - Enforcement",
+      "text": "Congress must pass laws to make sure this constitutional amendment is followed. These laws can use estimated amounts for government spending and income rather than requiring exact numbers.",
+      "word_offset": 313,
+      "char_offset": 1876
+    },
+    {
+      "id": "s7",
+      "slug": "section-6-gdp-definition",
+      "title": "Section 6 - GDP Definition",
+      "text": "For this amendment, Gross Domestic Product means the total of personal spending by consumers, business investments, government spending, and the difference between exports and imports. The Bureau of Economic Analysis (a government agency that tracks economic data) or any agency that replaces it will calculate this number.",
+      "word_offset": 341,
+      "char_offset": 2065
+    },
+    {
+      "id": "s8",
+      "slug": "section-7-effective-date",
+      "title": "Section 7 - Effective Date",
+      "text": "This constitutional amendment will start working at the beginning of the third fiscal year after it is ratified (approved by the states).",
+      "word_offset": 388,
+      "char_offset": 2389
+    }
+  ]
+}

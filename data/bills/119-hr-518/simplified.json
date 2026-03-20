@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-518",
+  "title": "Troops Before Politicians Act",
+  "short_title": "Troops Before Politicians Act",
+  "congress": 119,
+  "bill_number": "HR.518",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on House Administration.",
+  "version_hash": "17249a759aeeba89",
+  "last_updated": "2026-03-20T10:47:32.672316+00:00",
+  "plain_summary": "This bill says that when military members don't get their paychecks because the government runs out of money, Congress members also have to give up their paychecks. The Congress members' pay gets stored in a special account during this time. Once the military starts getting paid again, the Congress members get their stored pay back. This makes sure that politicians don't get paid when the troops aren't getting paid.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "House of Representatives",
+    "Members of Congress",
+    "Military personnel and dependents",
+    "Wages and earnings"
+  ],
+  "sponsor_name": "Rep. LaLota, Nick [R-NY-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "military pay",
+    "congress pay",
+    "government shutdown",
+    "troops payday",
+    "politician salary",
+    "military salary",
+    "congress paycheck",
+    "troop paycheck",
+    "government funding",
+    "military funding",
+    "politician paycheck",
+    "shutdown pay"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Troops Before Politicians Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-withholding-of-pay-of-members-of-congress-in-certain-cases",
+      "title": "Section 2  Withholding of Pay of Members of Congress in Certain Cases",
+      "text": "This section explains when Congress members must give up their paychecks temporarily. If military service members are not getting paid because the government has run out of money to pay them, then Congress members must also stop getting paid during that same time. The person who handles payroll for the House of Representatives or the Senate must hold back all salary payments to Congress members from that chamber. All the withheld money must be put into a special holding account called an escrow account. Once the military members start getting paid again, the payroll administrator must release the held money back to the Congress members as quickly as possible. There is a special rule for the current One Hundred Nineteenth Congress session. To follow the Twenty Seventh Amendment to the Constitution, which says Congress cannot change its own pay during its current term, any money still being held must be released to Congress members on the last day of this congressional session. The Secretary of the Treasury must help the payroll administrators do their jobs under this law. This section defines several important terms. Active service and Armed Forces have the same meanings as defined in section one hundred one of title ten of United States Code. A Member of Congress means someone serving in positions listed in section six hundred one of the Legislative Reorganization Act of nineteen forty six. The payroll administrator for the House of Representatives is the Chief Administrative Officer or someone they choose to do this job. For the Senate, it is the Secretary of the Senate or someone they choose. Reserve components means the military reserve units named in section ten thousand one hundred one of title ten of United States Code.",
+      "word_offset": 10,
+      "char_offset": 58
+    }
+  ]
+}

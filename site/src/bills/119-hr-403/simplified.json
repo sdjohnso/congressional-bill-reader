@@ -1,0 +1,108 @@
+{
+  "bill_id": "119-hr-403",
+  "title": "Preventing Our Next Natural Disaster Act",
+  "short_title": "Preventing Our Next Natural Disaster Act",
+  "congress": 119,
+  "bill_number": "HR.403",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "version_hash": "0b17871b774c5b4a",
+  "last_updated": "2026-03-20T14:20:56.432697+00:00",
+  "plain_summary": "This bill changes how the government helps communities prepare for disasters before they happen. It increases the money available for disaster prevention projects from six percent to fifteen percent of disaster funds and gives extra help to poor communities and areas that face unfair environmental problems by covering up to ninety percent of project costs. The bill requires officials to think about climate change when planning and to focus help on the communities that need it most. It also creates better ways to reach out to communities and track how disaster prevention money is being spent through a new database and map system.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [],
+  "sponsor_name": "Rep. Swalwell, Eric [D-CA-14]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "disaster prevention",
+    "climate change preparation",
+    "community disaster help",
+    "flood prevention funding",
+    "hurricane preparation money",
+    "poor communities disaster aid",
+    "environmental justice disasters",
+    "disaster planning before storms",
+    "government disaster prevention",
+    "community disaster readiness",
+    "disaster funds for neighborhoods",
+    "preparing for natural disasters"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Preventing Our Next Natural Disaster Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "This section changes the definitions in an existing disaster law. It adds three new terms that agencies will use. High hazard risk means an area has a high rating for natural disaster dangers according to tools like the National Risk Index or other tools made by the Federal Emergency Management Agency. Environmental justice community means a neighborhood mostly made up of people of color, low-income families, or Tribal and indigenous communities that face worse health or environmental problems than most other communities. Small impoverished community means a town or area with fifty thousand people or fewer that struggles economically, as decided by the state where it is located using rules set by the President.",
+      "word_offset": 12,
+      "char_offset": 69
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-technical-assistance",
+      "title": "Section 3 Technical Assistance",
+      "text": "This section adds new powers for the Federal Emergency Management Agency Administrator. The Administrator can create guidance on how to include climate change information in the National Risk Index, in cost-benefit studies, and when adopting better building codes and standards to handle natural disasters. The Administrator can also create guidance to make sure grant money is used for disaster prevention projects that are planned and designed to handle future climate change effects over the entire life of the project and are built to survive future floods, wildfires, or other natural disasters.",
+      "word_offset": 126,
+      "char_offset": 790
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-criteria-for-assistance-awards",
+      "title": "Section 4 Criteria for Assistance Awards",
+      "text": "This section changes how disaster prevention grants are awarded. It adds a new requirement to give priority to communities that face high disaster risks, environmental justice communities, communities with low tax revenue per person, and communities that do not adopt or enforce building codes well or spend little on maintaining infrastructure. The Federal Emergency Management Agency Administrator must create clear rules to measure which communities should get priority and add this information to tools like the National Risk Index and the Resilience Analysis and Planning Tool to help find the communities that need help the most.",
+      "word_offset": 217,
+      "char_offset": 1391
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-federal-share",
+      "title": "Section 5 Federal Share",
+      "text": "This section changes how much money the federal government will pay for disaster prevention projects. For small impoverished communities and environmental justice communities, the President can now pay up to ninety percent of the total cost of a disaster prevention project, instead of the usual lower amount.",
+      "word_offset": 313,
+      "char_offset": 2027
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-national-public-infrastructure-predisaster-mitigation-assistance",
+      "title": "Section 6 National Public Infrastructure Predisaster Mitigation Assistance",
+      "text": "This section increases the amount of money set aside for preventing disasters before they happen. The amount goes from six percent to fifteen percent of disaster relief funds. It also allows the President to set aside an additional two percent of grant money after each major disaster to help communities with planning and building their ability to handle future disasters.",
+      "word_offset": 360,
+      "char_offset": 2337
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-community-outreach",
+      "title": "Section 7 Community Outreach",
+      "text": "This section requires the Federal Emergency Management Agency Administrator to work with organizations like the United States Cooperative Extension System and the Extension Disaster Education Network to reach out to communities. The goal is to get more applications from high-risk communities, environmental justice communities, communities with low tax revenue per person, and communities that do not adopt building codes well. The outreach will teach these communities how to plan and prioritize projects based on current climate conditions, future disaster risks, and social vulnerability studies. It will also teach them how to successfully create, submit, and manage grants.",
+      "word_offset": 420,
+      "char_offset": 2711
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-improved-data-collection",
+      "title": "Section 8 Improved Data Collection",
+      "text": "This section requires the Federal Emergency Management Agency Administrator to create a central federal database within three years after this law passes. The Administrator must work with the Department of Housing and Urban Development, the Environment Protection Agency, the Economic Development Administration, the Small Business Administration, the Army Corps of Engineers, and other relevant agencies. This database will combine funding information from all local, state, and federal agencies that spend money on disaster response and disaster prevention. The information will be organized by project type, funding source, and disaster type using an easy-to-use database and interactive map. The database must also include census tract data and demographic information following the Paperwork Reduction Act and future guidance on data equity about how natural disasters and federal recovery efforts affect different groups to better allocate and track funds. The Agency must also conduct evaluations after projects are finished to study disaster spending and report what money could have been saved through proper disaster prevention.",
+      "word_offset": 517,
+      "char_offset": 3391
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "bill_id": "119-hr-168",
+  "title": "TORCH Act",
+  "short_title": "TORCH Act",
+  "congress": 119,
+  "bill_number": "HR.168",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Forestry and Horticulture.",
+  "version_hash": "1ce5ebe9a74d70b7",
+  "last_updated": "2026-03-20T13:18:19.600145+00:00",
+  "plain_summary": "The TORCH Act helps the government manage forests more quickly to prevent dangerous wildfires. The law lets forest agencies skip some lengthy reviews when they need to remove dead or dangerous trees that could cause fires. It also makes it easier for government agencies to work with states and local governments on forest projects. The goal is to reduce fire risks by allowing faster action to clear out trees and plants that could fuel wildfires.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-04",
+  "last_action_date": "2025-04-04",
+  "last_action_text": "Referred to the Subcommittee on Forestry and Horticulture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Electric power generation and transmission",
+    "Environmental assessment, monitoring, research",
+    "Fires",
+    "Forests, forestry, trees",
+    "Intergovernmental relations",
+    "Land use and conservation",
+    "Licensing and registrations",
+    "Livestock",
+    "Wildlife conservation and habitat protection"
+  ],
+  "sponsor_name": "Rep. LaMalfa, Doug [R-CA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "wildfire prevention",
+    "forest management",
+    "dead tree removal",
+    "fire risk reduction",
+    "forest cleanup",
+    "wildfire safety",
+    "tree clearing",
+    "forest fire prevention",
+    "dangerous trees",
+    "fuel reduction"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Targeted Operations to Remove Catastrophic Hazards Act or the TORCH Act. The law is divided into four main parts. Part One covers activities to reduce dangerous fire fuels. Part Two deals with agreements where states help manage federal forests. Part Three focuses on managing plants around power lines. Part Four changes some paperwork requirements.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-101-categorical-exclusion-high-priority-hazard-tree-activities",
+      "title": "Section 101 Categorical Exclusion for High Priority Hazard Tree Activities",
+      "text": "The Secretary of Agriculture must create a special process within one year that makes it easier to remove dangerous trees without doing lengthy environmental studies. This process can only be used for projects that cover no more than three thousand acres. High priority hazard trees are standing trees that could hurt people or damage government property if they fall. These trees must be damaged or leaning in a dangerous way and located within three hundred feet of maintained forest roads, trails, or recreation areas. The activities to deal with these trees include trimming, cutting down, and removing dangerous trees. However, this easier process cannot be used in wilderness areas, to build permanent roads, on land where Congress has banned tree removal, or in areas without roads that have been inventoried for possible wilderness protection.",
+      "word_offset": 60,
+      "char_offset": 378
+    },
+    {
+      "id": "s3",
+      "slug": "section-102-utilizing-timber-sales-national-forest-system-land-extreme-risk-reduction",
+      "title": "Section 102 Utilizing Timber Sales on National Forest System Land for Extreme Risk Reduction",
+      "text": "This section changes the National Forest Management Act of nineteen seventy six. It raises the dollar limit for timber sales from ten thousand dollars to fifty thousand dollars. It also adds a new rule that when there are extreme risks to forest land like wildfires, insect outbreaks, storms, floods, or droughts, the Secretary can sell trees and forest products without getting an appraisal first. The Secretary must follow rules they create for these emergency sales.",
+      "word_offset": 194,
+      "char_offset": 1230
+    },
+    {
+      "id": "s4",
+      "slug": "section-103-utilizing-grazing-wildfire-risk-reduction",
+      "title": "Section 103 Utilizing Grazing for Wildfire Risk Reduction",
+      "text": "The Secretary of Agriculture, working with the Forest Service Chief and livestock permit holders, must develop a plan to use cattle and other grazing animals to reduce wildfire risks. This plan includes completing environmental reviews to allow grazing on empty grazing areas during droughts, wildfires, or other disasters. It also includes using targeted grazing to reduce specific fire risks, giving out more temporary permits to reduce dangerous plants and invasive grasses, using grazing to help forests recover after fires, and using all legal tools available.",
+      "word_offset": 269,
+      "char_offset": 1700
+    },
+    {
+      "id": "s5",
+      "slug": "section-104-amendments-healthy-forest-restoration-act-2003-improve-wildfire-mitigation",
+      "title": "Section 104 Amendments to the Healthy Forest Restoration Act of 2003 to Improve Wildfire Mitigation",
+      "text": "This section makes two changes to the Healthy Forests Restoration Act of two thousand three. First, it extends a program that promotes wildfire prevention across property boundaries from twenty twenty three to twenty thirty. Second, it increases the size limit for wildfire resilience projects from three thousand acres to ten thousand acres.",
+      "word_offset": 354,
+      "char_offset": 2266
+    },
+    {
+      "id": "s6",
+      "slug": "section-105-amendment-fuel-breaks-forests-other-wildland-vegetation",
+      "title": "Section 105 Amendment to Fuel Breaks in Forests and Other Wildland Vegetation",
+      "text": "This section changes the Infrastructure Investment and Jobs Act to increase the size limit for fuel break projects from three thousand acres to ten thousand acres. Fuel breaks are cleared areas that help stop wildfires from spreading.",
+      "word_offset": 406,
+      "char_offset": 2609
+    },
+    {
+      "id": "s7",
+      "slug": "section-201-modification-treatment-certain-revenue-payments-good-neighbor-agreements",
+      "title": "Section 201 Modification of the Treatment of Certain Revenue and Payments Under Good Neighbor Agreements",
+      "text": "This section changes how good neighbor agreements work. Good neighbor agreements let states, Indian tribes, and counties help manage federal forests. The changes allow Indian tribes to keep money from timber sales to pay for forest restoration work under their agreements. If there is money left over, they can use it for restoration work under other agreements. The section also removes a requirement that limited how this money could be used. These changes apply to projects started after the Agriculture Improvement Act of twenty eighteen was passed and to all future projects.",
+      "word_offset": 443,
+      "char_offset": 2844
+    },
+    {
+      "id": "s8",
+      "slug": "section-301-vegetation-management-facility-inspection-operation-maintenance-electric-transmission-distribution-facility-rights-way",
+      "title": "Section 301 Vegetation Management, Facility Inspection, and Operation and Maintenance Relating to Electric Transmission and Distribution Facility Rights of Way",
+      "text": "This section makes changes to how electric utilities manage plants around their power lines on federal land. It increases the distance from ten feet to fifty feet within which utilities can remove dangerous trees near power lines without special permission. It requires agencies to talk with private landowners about removing dangerous trees from their property. It also sets automatic approval deadlines for utility vegetation management plans. Plans without changes get approved automatically after sixty days, and plans with changes get approved after sixty seven days.",
+      "word_offset": 535,
+      "char_offset": 3425
+    },
+    {
+      "id": "s9",
+      "slug": "section-302-categorical-exclusion-electric-utility-lines-rights-way",
+      "title": "Section 302 Categorical Exclusion for Electric Utility Lines Rights of Way",
+      "text": "This section creates a special process that lets electric utilities manage plants around their power lines without doing lengthy environmental studies. This applies to creating and approving vegetation management plans and doing routine maintenance work under those plans. The process cannot be used in wilderness areas or on forest land where Congress has banned plant removal. Utilities cannot build permanent roads under this process, but they can maintain existing roads and build temporary roads that must be removed within three years. Activities under this process do not need to follow certain environmental and historic preservation laws.",
+      "word_offset": 620,
+      "char_offset": 3998
+    },
+    {
+      "id": "s10",
+      "slug": "section-303-permits-agreements-electrical-utilities",
+      "title": "Section 303 Permits and Agreements with Electrical Utilities",
+      "text": "This section allows the Secretary of Agriculture to give electric utility companies permission to cut and remove trees and plants near power lines on National Forest land without requiring a separate timber sale. This includes removing dangerous plants that increase fire risk, as long as it follows the forest management plan. If the utility company sells any of the removed material, they must give the proceeds to the Forest Service after subtracting transportation costs. However, the law does not require utility companies to sell the removed material.",
+      "word_offset": 716,
+      "char_offset": 4646
+    },
+    {
+      "id": "s11",
+      "slug": "section-401-nonapplicability-certain-additional-consultation-requirements-endangered-species-act-1973",
+      "title": "Section 401 Nonapplicability of Certain Additional Consultation Requirements of the Endangered Species Act of 1973",
+      "text": "This section changes requirements for both Forest Service and Bureau of Land Management land use plans. It says that when new species are added to the endangered species list or when new information is discovered about how land use plans might affect endangered species, the agencies do not have to restart the consultation process under the Endangered Species Act. This applies to land management plans that have already been approved, amended, or revised.",
+      "word_offset": 803,
+      "char_offset": 5204
+    },
+    {
+      "id": "s12",
+      "slug": "section-402-amendment-categorical-exclusion-collaborative-restoration-projects",
+      "title": "Section 402 Amendment to Categorical Exclusion for Collaborative Restoration Projects",
+      "text": "This section changes the Healthy Forests Restoration Act of two thousand three to increase the size limit for collaborative restoration projects from three thousand acres to ten thousand acres. Collaborative restoration projects are forest restoration work done with input from local communities and stakeholders.",
+      "word_offset": 876,
+      "char_offset": 5662
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "bill_id": "119-hr-112",
+  "title": "FUEL Reform Act",
+  "short_title": "FUEL Reform Act",
+  "congress": 119,
+  "bill_number": "HR.112",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
+  "version_hash": "82bf17af961b897d",
+  "last_updated": "2026-03-20T13:48:16.494320+00:00",
+  "plain_summary": "The FUEL Reform Act would end several government programs that help pay for clean energy projects. These programs are run by the Department of Agriculture and give money to support things like biofuels, solar panels on farms, and factories that make renewable energy products. The bill would completely remove these programs by getting rid of a whole section of farm law from 2002. This means farmers and businesses would no longer get this government help to build or use renewable energy.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-31",
+  "last_action_date": "2025-01-31",
+  "last_action_text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [
+    "Alternative and renewable resources",
+    "Department of Agriculture",
+    "Energy efficiency and conservation",
+    "Energy research",
+    "Energy storage, supplies, demand",
+    "Forests, forestry, trees",
+    "Government buildings, facilities, and property",
+    "Government lending and loan guarantees",
+    "Lighting, heating, cooling",
+    "Research administration and funding",
+    "Research and development",
+    "Rural conditions and development",
+    "Small business"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "clean energy subsidies",
+    "renewable energy funding",
+    "farm energy programs",
+    "biofuel support",
+    "solar panel assistance",
+    "government energy help",
+    "agriculture energy programs",
+    "renewable energy cuts",
+    "clean energy elimination",
+    "farm solar subsidies"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Farewell to Unnecessary Energy Lifelines Reform Act of two thousand twenty five or the FUEL Reform Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-department-of-agriculture-bioenergy-subsidy-programs-and-other-related-subsidy-programs",
+      "title": "Section 2  Repeal of Department of Agriculture Bioenergy Subsidy Programs and Other Related Subsidy Programs",
+      "text": "Title nine of the Farm Security and Rural Investment Act of two thousand two is completely removed from the law. This title contains programs that give government money to help develop bioenergy (energy made from plants and other living materials).",
+      "word_offset": 23,
+      "char_offset": 131
+    }
+  ]
+}

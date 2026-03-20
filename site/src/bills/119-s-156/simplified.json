@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-156",
+  "title": "Increased TSP Access Act of 2025",
+  "short_title": "Increased TSP Access Act of 2025",
+  "congress": 119,
+  "bill_number": "S.156",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "version_hash": "397a58bc83018013",
+  "last_updated": "2026-03-20T14:01:14.403668+00:00",
+  "plain_summary": "This bill changes how the government finds and approves people who help farmers with conservation practices like protecting soil and water. It allows non-government groups to certify these helpers instead of just the government doing it, and creates faster approval for people who already have special training. The bill also says these helpers must be paid the same amount as government workers who do similar jobs. Finally, the government must share information with the public about how well this program is working and how much it costs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Sen. Marshall, Roger [R-KS]",
+  "sponsor_party": "R",
+  "sponsor_state": "KS",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "farm conservation help",
+    "soil protection workers",
+    "water conservation assistance",
+    "agricultural consultants",
+    "farming environmental practices",
+    "conservation technicians",
+    "farm helpers certification",
+    "agricultural conservation program",
+    "farming technical assistance",
+    "soil water protection services"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Increased TSP Access Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-delivery-of-technical-assistance",
+      "title": "Section 2 Delivery of Technical Assistance",
+      "text": "This section changes how technical assistance is delivered under conservation programs. Technical assistance means help and advice that farmers and landowners get to use conservation practices on their land. The changes include adding a new definition for non-Federal certifying entity, which means organizations that are not part of the federal government but can certify people to provide technical assistance. The law requires that technical assistance be timely, based on science, and designed for specific locations. It allows private companies to help provide this assistance. The law creates new rules for certifying third-party providers, which are people or companies that help farmers with conservation work instead of government employees doing all the work. Non-Federal certifying entities can now help certify these third-party providers. The Secretary of Agriculture must review applications from these certifying entities within forty business days and decide whether to approve them. The law also creates a faster certification process for people who already have certain professional certifications. Within one hundred eighty days of this law passing, the Secretary must set up processes for non-Federal entities to certify third-party providers and create streamlined certification for qualified professionals. The Secretary must review the certification requirements within one year and can make changes to improve the program. The law requires the Secretary to set fair payment rates for third-party providers that are similar to what government employees would be paid. It also requires the Secretary to provide public information about how much money goes to third-party providers, how many are certified, and how well the program is working.",
+      "word_offset": 12,
+      "char_offset": 61
+    }
+  ]
+}

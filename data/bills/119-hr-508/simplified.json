@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-508",
+  "title": "Bring American Companies Home Act",
+  "short_title": "Bring American Companies Home Act",
+  "congress": 119,
+  "bill_number": "HR.508",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "673336afdf799352",
+  "last_updated": "2026-03-20T15:50:58.577948+00:00",
+  "plain_summary": "This bill helps American companies move their businesses back to the United States from China. Companies can subtract all the money they spend moving their inventory and equipment from their taxes in the same year they spend it. The government will pay for this program using the money it collects from tariffs on goods made in China. The Treasury Department will create a special fund to hold the tariff money and use it to make up for the lost tax money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Green, Mark E. [R-TN-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "bring companies back to america",
+    "move business from china",
+    "relocate manufacturing to us",
+    "tax breaks for moving business",
+    "american jobs from china",
+    "tariffs on chinese goods",
+    "companies leaving china",
+    "manufacturing back to usa",
+    "business relocation incentives",
+    "china to america business move"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Bring American Companies Home Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expensing-of-amounts-paid-to-move-business-property-from-china-to-the-united-states",
+      "title": "Section 2 Expensing of Amounts Paid to Move Business Property from China to the United States",
+      "text": "The Secretary of the Treasury will create a program that helps businesses move their operations from China back to the United States. Under this program, companies can deduct the full cost of moving their inventory, equipment, and business supplies from China to the United States in the same tax year they pay for the move. This means they can subtract these moving costs from their taxable income to reduce their taxes. The Secretary of the Treasury must write rules for this program that limit which expenses can be deducted to only legitimate business moving costs as defined by current tax law. To pay for the tax breaks this program creates, the government will set up a special trust fund. This trust fund will be filled with money from tariffs (taxes on imported goods) that the United States collects on products made in China. When businesses use this program and pay less in taxes, the government will transfer money from the trust fund to make up for the lost tax revenue. The timing of when money goes into and out of this trust fund will follow similar rules to existing tax law procedures.",
+      "word_offset": 11,
+      "char_offset": 62
+    }
+  ]
+}

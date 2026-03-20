@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hr-50",
+  "title": "KAMALA Act",
+  "short_title": "KAMALA Act",
+  "congress": 119,
+  "bill_number": "HR.50",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "a3ecaaacbbcb65a6",
+  "last_updated": "2026-03-20T15:17:53.439683+00:00",
+  "plain_summary": "The KAMALA Act is a law that changes how federal housing money can be used. It says that Community Development Block Grant money cannot be used to help people who are not US citizens or legal permanent residents. The law also stops the federal government from giving this housing money to states, cities, or tribes that have programs to help people without legal status. This money usually helps communities build better neighborhoods and housing.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Housing and community development funding",
+    "Housing supply and affordability",
+    "Immigration status and procedures",
+    "State and local finance"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "housing money",
+    "immigration housing",
+    "block grant funding",
+    "illegal immigrants housing",
+    "community development money",
+    "undocumented immigrants benefits",
+    "federal housing assistance",
+    "citizenship housing requirements",
+    "local housing programs",
+    "immigrant housing ban"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Keeping Aid for Municipalities And Localities Accountable Act or the KAMALA Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-assistance-for-persons-not-lawfully-present",
+      "title": "Section 2 Prohibition on Assistance for Persons Not Lawfully Present",
+      "text": "This section changes an existing housing law from nineteen seventy four. It adds a new rule that says no money from federal housing grants given in twenty twenty four or any year after can be used to help people who are not United States citizens and who are not legal permanent residents. Legal permanent residents are people who have green cards that allow them to live in the United States permanently under immigration law.",
+      "word_offset": 18,
+      "char_offset": 108
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-on-grants-to-entities-that-provide-assistance-to-persons-not-lawfully-present",
+      "title": "Section 3 Prohibition on Grants to Entities That Provide Assistance to Persons Not Lawfully Present",
+      "text": "This section also changes the same housing law from nineteen seventy four. It creates a new limit on who can receive federal housing grants. The federal government cannot give housing grants to states, local governments, or Indian tribes if those groups run any housing or community development programs that help people who are not United States citizens and who are not legal permanent residents with green cards.",
+      "word_offset": 92,
+      "char_offset": 536
+    }
+  ]
+}

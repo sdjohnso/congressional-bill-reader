@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-651",
+  "title": "Spectrum Pipeline Act of 2025",
+  "short_title": "Spectrum Pipeline Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.651",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "41b8ccbdac74a0f1",
+  "last_updated": "2026-03-20T12:02:25.936315+00:00",
+  "plain_summary": "This law allows the government to sell radio wave licenses to private companies again through auctions, which they haven't been able to do since 2023. It also requires the government to find at least 2,500 megahertz of radio waves that government agencies currently use and give them to private companies or make them free for everyone to use. At least half of these radio waves must be sold to companies like cell phone providers, while another portion will be set aside for things like Wi-Fi that anyone can use for free. The law gives the government eight years to complete this process and requires regular reports to Congress on their progress. When government agencies have to move to new radio frequencies, they can now get money faster to upgrade their equipment.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Allen, Rick W. [R-GA-12]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "radio wave auctions",
+    "cell phone spectrum",
+    "government radio frequencies",
+    "wireless spectrum sales",
+    "FCC spectrum auction",
+    "mobile carrier frequencies",
+    "wifi radio waves",
+    "government spectrum transfer",
+    "wireless communication licenses",
+    "radio frequency allocation",
+    "spectrum pipeline",
+    "telecom frequency sales"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Spectrum Pipeline Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-identification-of-spectrum-for-reallocation-and-auction",
+      "title": "Section 2 Identification of Spectrum for Reallocation and Auction",
+      "text": "This section defines important terms and sets up rules for moving radio waves from government use to private company use. The covered band means radio waves between one point three gigahertz and thirteen point two gigahertz. These are invisible signals used for things like cell phones and internet. The Assistant Secretary is a government official who manages how radio waves are used. The Commission means the Federal Communications Commission, which is the government agency that controls radio waves for non government users. A Federal entity is any government agency that uses radio waves. Full power commercial licensed use cases means strong wireless internet services that companies can use for wide area cell phone networks. The Assistant Secretary must work with the Commission to find at least two thousand five hundred megahertz of radio waves in the covered band that the government currently uses. These radio waves must be moved so private companies can use them instead. At least one thousand two hundred fifty megahertz must be available for full power commercial use. The Assistant Secretary has two years to identify at least one thousand two hundred fifty megahertz of these radio waves. Within five years, they must identify all the remaining radio waves needed to reach the full two thousand five hundred megahertz requirement. The Commission must sell licenses for at least one thousand two hundred fifty megahertz of these radio waves through auctions where companies bid against each other. The Commission has three years to finish auctions for at least six hundred megahertz of radio waves. Within six years, they must finish auctions for all remaining radio waves that need to be auctioned. Within two years, the Commission must make at least one hundred twenty five megahertz of radio waves available for unlicensed use. This means anyone can use these radio waves without buying a license, following certain rules. Within eight years, the Commission must make available any remaining radio waves that were identified but not yet auctioned or made available for unlicensed use. The money from these auctions must cover at least one hundred ten percent of the costs for government agencies to move their operations or share the radio waves. The Commission gets authority to run these auctions until September thirtieth two thousand twenty seven. For radio waves in the covered band, this authority lasts for eight years after this law is passed. The Assistant Secretary must write reports to Congress explaining which radio waves they identified and why. These reports must include details about which government agencies use the radio waves and analysis of the radio waves themselves. The reports should be unclassified but can have classified sections if needed. Within one year of this law passing, the Assistant Secretary and Commission must give Congress a report on their progress. This includes information about which government and private users currently operate in the covered band and preliminary analysis of which parts might be moved. Within sixty days after identifying each group of radio waves, they must give Congress another report. This report must assess current operations, explain steps the President has taken to move government users, estimate costs for moving or sharing, and describe efforts to coordinate with other countries. Every year for ten years, the Assistant Secretary and Commission Chair must brief Congress on their progress. These briefings must update Congress on specific radio wave frequencies being considered, explain which agencies use them, describe cooperation from government agencies, report on auction progress, and provide any other relevant information. Any classified information must be provided in separate classified briefings.",
+      "word_offset": 14,
+      "char_offset": 78
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-spectrum-relocation-fund-modernization",
+      "title": "Section 3 Spectrum Relocation Fund Modernization",
+      "text": "This section changes rules about the Spectrum Relocation Fund, which pays for moving government radio wave operations. Several notification periods to Congress are shortened from thirty days to fifteen days and from sixty days to fifteen days. This makes the process faster. The section also expands what costs can be covered when government agencies need to move their radio wave operations. Previously, agencies could only get money for systems with the same capabilities or small improvements. Now agencies can get money for state of the art systems and equipment with additional functions. This is only allowed if the new systems help free up significantly more valuable radio wave frequencies for private companies to use. The new systems must provide more benefit than just replacing old equipment with similar equipment. However, these costs cannot be so high that they prevent the Assistant Secretary and Commission from successfully moving radio waves from government use to private company use.",
+      "word_offset": 607,
+      "char_offset": 3890
+    }
+  ]
+}

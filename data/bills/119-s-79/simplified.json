@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-s-79",
+  "title": "ACCESS Act",
+  "short_title": "ACCESS Act",
+  "congress": 119,
+  "bill_number": "S.79",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "61d30635f3337b55",
+  "last_updated": "2026-03-20T11:24:46.442709+00:00",
+  "plain_summary": "The ACCESS Act stops the federal government from requiring contractors to hire workers with certain college degrees unless they have a good reason. Government workers must write down why they need these education rules and how they help get the job done. The bill also tells agencies to try using other ways to find good workers instead of just looking at their education. This means contractors can choose employees based on their skills and experience, not just their school background.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Government information and archives",
+    "Public contracts and procurement"
+  ],
+  "sponsor_name": "Sen. Lankford, James [R-OK]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government contractors",
+    "college degree requirements",
+    "hiring without degrees",
+    "job qualifications",
+    "skills based hiring",
+    "contractor employment",
+    "federal contracting jobs",
+    "work experience over education",
+    "government job requirements",
+    "alternative hiring methods"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Allowing Contractors to Choose Employees for Select Skills Act or the ACCESS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-use-of-requirements-regarding-education-of-contractor-personnel",
+      "title": "Section 2 Use of Requirements Regarding Education of Contractor Personnel",
+      "text": "This section adds new rules to federal contracting laws. The new section 3313 says that when the government asks for bids on contracts, they cannot require that contractor workers have specific college degrees or educational backgrounds unless there is a very good reason. If a government contracting officer wants to require education, they must write down why the government's needs cannot be met without that requirement and explain how the education requirement helps meet those needs. An executive agency means any part of the federal government that carries out laws and programs.\n\nThe table of contents for this part of the law will be updated to include the new section about flexibility in contractor education requirements.\n\nWithin one hundred eighty days after this law is passed, the Director of the Office of Management and Budget must create guidance for government agencies on how to follow these new rules. This guidance must include instructions for contracting officers on how to justify education requirements, including rules that each use of an education requirement must be decided, justified, and reviewed. The guidance must also include instructions that encourage contracting officers to use alternatives to education requirements.\n\nThese new rules will start applying to contract requests issued fifteen months or more after this law is passed. An older law from two thousand and one about defense contracting education requirements will be canceled when the new guidance takes effect.\n\nThree years after this law is passed, the Comptroller General must report to Congress about how well government agencies are following these new rules.\n\nFor this law, education means college degrees like associate, bachelor, graduate, or professional degrees, specific college courses, or other educational achievements from accredited colleges or universities. An education requirement includes any requirement that can be met through education alone, education or experience, or a combination of education and experience. Executive agency has the same meaning as defined elsewhere in federal contracting law.",
+      "word_offset": 19,
+      "char_offset": 109
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "bill_id": "119-hres-49",
+  "title": "Prohibiting Members of the House of Representatives from bringing or displaying a flag of a foreign nation on the floor of the House, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.49",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Rules.",
+  "version_hash": "c4f92f255151a303",
+  "last_updated": "2026-03-20T11:27:39.318220+00:00",
+  "plain_summary": "This new rule says that Members of Congress cannot bring or show foreign country flags on the House floor when they are meeting. However, they can still wear small flag pins on their clothes or use pictures of flags when giving speeches. The House Sergeant at Arms will make sure everyone follows this rule. This rule is meant to control what kinds of flags can be displayed during official House meetings.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Rules.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Legislative rules and procedure",
+    "Members of Congress",
+    "National symbols"
+  ],
+  "sponsor_name": "Rep. Cammack, Kat [R-FL-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 12,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "foreign flags",
+    "House floor rules",
+    "Congress flag display",
+    "ban foreign flags",
+    "House representatives flags",
+    "foreign country flags",
+    "congressional meeting rules",
+    "flag restrictions Congress",
+    "House floor ban",
+    "foreign nation flags",
+    "congressional flag policy"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-prohibition-with-respect-to-flag-of-a-foreign-nation-on-the-floor-of-the-house",
+      "title": "Section 1 Prohibition with respect to flag of a foreign nation on the floor of the House",
+      "text": "General Rule: When the House of Representatives is meeting, no Member of Congress, Delegate, or Resident Commissioner can bring or show any flag from another country on the House floor. This rule applies to flags of any size from foreign countries. Exceptions: This rule does not apply to small flag pins worn on clothing lapels. It also does not apply to pictures or images of foreign flags that are used as part of a presentation during a speech or debate that follows House rules. Enforcement: The Sergeant at Arms of the House of Representatives (the person responsible for keeping order and security) is in charge of making sure this rule is followed.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

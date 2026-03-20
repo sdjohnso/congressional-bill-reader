@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-557",
+  "title": "Working Class Bonus Tax Relief Act of 2025",
+  "short_title": "Working Class Bonus Tax Relief Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.557",
+  "introduced_date": "2025-01-20",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "c289ebcc14257571",
+  "last_updated": "2026-03-20T12:57:46.441896+00:00",
+  "plain_summary": "This bill lets workers pay less in taxes on bonus money they get from their jobs until 2029. Workers can deduct up to 15 percent of their regular pay amount in bonuses from their taxes. Only workers who make less than $100,000 per year can use this deduction, though married couples can make up to $200,000 together and heads of household can make up to $150,000. This means workers who get bonuses will keep more of that extra money instead of paying it in taxes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-20",
+  "last_action_date": "2025-01-20",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Bacon, Don [R-NE-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "bonus tax relief",
+    "worker bonus taxes",
+    "tax break on bonuses",
+    "less taxes on bonus money",
+    "bonus tax deduction",
+    "working class tax relief",
+    "bonus money keep more",
+    "job bonus tax break",
+    "worker tax savings",
+    "bonus income taxes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Working Class Bonus Tax Relief Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-deduction-for-bonuses",
+      "title": "Section 2 Deduction for Bonuses",
+      "text": "This section creates a new tax deduction for people who receive bonus payments from their employers. Here is how it works. Workers can deduct part of their bonus money from their taxable income. The deduction cannot be more than fifteen percent of their regular wages from the same employer during that tax year. For example, if someone earns forty thousand dollars in regular wages, they can deduct up to six thousand dollars of bonus money. However, there are income limits for who can use this deduction. Married couples filing together cannot use this deduction if their total adjusted gross income is more than two hundred thousand dollars. Head of household filers cannot use it if their income is more than one hundred fifty thousand dollars. All other individual filers cannot use it if their income is more than one hundred thousand dollars. This deduction will only be available for bonuses received through December thirty first, two thousand twenty nine. The law makes sure that people can take this deduction whether they itemize their deductions or take the standard deduction. It also ensures that other tax limitation rules do not reduce this bonus deduction. The Treasury Department must update tax withholding tables and procedures to account for this new deduction. These changes apply to bonus payments received after this law is signed.",
+      "word_offset": 17,
+      "char_offset": 91
+    }
+  ]
+}

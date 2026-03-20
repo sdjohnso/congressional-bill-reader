@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-hr-31",
+  "title": "POLICE Act of 2025",
+  "short_title": "POLICE Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.31",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "8db9926af2a41996",
+  "last_updated": "2026-03-20T12:42:48.510484+00:00",
+  "plain_summary": "The POLICE Act of 2025 makes new rules about removing non-citizens from the United States. If a non-citizen is convicted of attacking or hurting a police officer, firefighter, or other first responder, they can be deported. This includes people who admit they committed these crimes even if they were not convicted in court. The Department of Homeland Security must publish a report every year that shows how many people were deported under this new law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Congressional oversight",
+    "Government information and archives",
+    "Immigration status and procedures",
+    "Internet, web applications, social media",
+    "Law enforcement officers",
+    "Violent crime"
+  ],
+  "sponsor_name": "Rep. Garbarino, Andrew R. [R-NY-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 18,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "deport criminals",
+    "remove immigrants who attack police",
+    "immigration enforcement",
+    "deporting violent immigrants",
+    "police officer protection",
+    "first responder safety",
+    "immigrant deportation rules",
+    "removing non-citizens",
+    "homeland security deportation",
+    "attacking police officers",
+    "firefighter protection law"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protect Our Law enforcement with Immigration Control and Enforcement Act of two thousand twenty five or the POLICE Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-assault-of-law-enforcement-officer",
+      "title": "Section 2 Assault of Law Enforcement Officer",
+      "text": "This section changes immigration law to add a new rule. Any person who is not a US citizen can be removed from the country if they have been found guilty of attacking a police officer or other law enforcement worker. This also applies if they admit to attacking an officer or admit to doing things that make up the crime of attacking an officer. The attack must happen in one of three situations. First, the officer was doing their job when they were attacked. Second, the officer was attacked because of the work they do. Third, the officer was attacked simply because they are a law enforcement officer. The word assault means whatever that word means in the place where the attack happened. A law enforcement officer means a person who is legally allowed to prevent crime, investigate crime, arrest people, prosecute people in court, or keep people in jail or prison. It also includes firefighters and other first responders like paramedics.",
+      "word_offset": 30,
+      "char_offset": 175
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-report-on-aliens-deported-for-assaulting-a-law-enforcement-officer",
+      "title": "Section 3 Report on Aliens Deported for Assaulting a Law Enforcement Officer",
+      "text": "Every year, the Secretary of Homeland Security must give Congress a report about how many people who are not US citizens were removed from the country for attacking law enforcement officers. This report must also be posted on the Department of Homeland Security website so the public can see it. The report will count how many people were removed the year before under the new rule created in Section two of this law.",
+      "word_offset": 192,
+      "char_offset": 1120
+    }
+  ]
+}

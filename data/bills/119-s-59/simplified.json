@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-s-59",
+  "title": "One Subject at a Time Act",
+  "short_title": "One Subject at a Time Act",
+  "congress": 119,
+  "bill_number": "S.59",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Rules and Administration.",
+  "version_hash": "004553e78ebcc296",
+  "last_updated": "2026-03-20T14:52:40.374758+00:00",
+  "plain_summary": "This bill would require Congress to only write laws about one topic at a time. The title of each law must clearly explain what that one topic is. If a law tries to cover more than one unrelated topic, courts can throw out the whole law or just the parts that don't belong. People who are hurt by laws that break these rules can sue the government in federal court to stop those laws from being enforced.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Rules and Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Appropriations",
+    "Civil actions and liability",
+    "Government liability",
+    "Legislative rules and procedure"
+  ],
+  "sponsor_name": "Sen. Paul, Rand [R-KY]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "one topic per law",
+    "single subject bills",
+    "congress one issue",
+    "lawmakers focus one thing",
+    "clear bill titles",
+    "stop omnibus bills",
+    "government accountability",
+    "legislative reform",
+    "sue government bad laws",
+    "court challenge laws",
+    "simple legislation",
+    "congressional rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the One Subject at a Time Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-one-subject-at-a-time",
+      "title": "Section 2  One Subject at a Time",
+      "text": "Each bill or joint resolution (a type of proposal that needs approval from both the House and Senate) can only deal with one subject or topic. The title of the bill or joint resolution must clearly describe what that subject is. Bills that provide money for government programs cannot include general laws or changes to existing laws unless they are directly related to the main subject of that spending bill. However, these spending bills can still include rules about how the money can be spent.",
+      "word_offset": 12,
+      "char_offset": 54
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-enforcement",
+      "title": "Section 3  Enforcement",
+      "text": "If a law's title talks about two or more unrelated subjects, the entire law becomes invalid and cannot be enforced. If a law's title only mentions one subject but the law itself contains parts about other subjects not mentioned in the title, only those extra parts become invalid. If a spending law contains a part that falls outside the responsibility of the committee that was supposed to handle it, that part becomes invalid. If a spending law contains general legislation or changes to existing law that are not related to the main subject of the spending bill, those parts become invalid. Any person who is harmed by a law that was passed without following these rules, or any member of Congress whose chamber did not follow these rules, can file a lawsuit in federal court. They can ask the court to stop the enforcement of laws that were not passed correctly, no matter how much money is involved in the case. When a judge reviews these cases, they will look at all the evidence fresh without giving special weight to previous decisions.",
+      "word_offset": 97,
+      "char_offset": 552
+    }
+  ]
+}

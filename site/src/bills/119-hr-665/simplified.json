@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-665",
+  "title": "Noncontiguous Shipping Competition Act",
+  "short_title": "Noncontiguous Shipping Competition Act",
+  "congress": 119,
+  "bill_number": "HR.665",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.",
+  "version_hash": "f6718f390a297d0c",
+  "last_updated": "2026-03-20T14:09:52.418649+00:00",
+  "plain_summary": "This bill changes the Jones Act, which normally requires that only American-built ships with American crews can carry goods between US ports. The new law would allow foreign ships to carry goods to Hawaii, Alaska, Puerto Rico, and other US territories if there isn't enough competition from American shipping companies. Foreign ships could only be used when fewer than three American companies serve a route, or when those companies don't each handle at least 20 percent of the goods on that route. The goal is to increase shipping competition and potentially lower costs for people living in these areas.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-24",
+  "last_action_date": "2025-02-04",
+  "last_action_text": "Sponsor introductory remarks on measure. (CR E90-91)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Case, Ed [D-HI-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "HI",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "shipping costs",
+    "Hawaii shipping",
+    "Alaska shipping",
+    "Puerto Rico shipping",
+    "foreign ships",
+    "American ships",
+    "Jones Act",
+    "shipping competition",
+    "territory shipping",
+    "cargo ships",
+    "interstate shipping",
+    "shipping monopoly"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Noncontiguous Shipping Competition Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-shipping-exemption-of-certain-noncontiguous-trade-from-the-coastwise-laws",
+      "title": "Section 2 Shipping: Exemption of Certain Noncontiguous Trade from the Coastwise Laws",
+      "text": "This section changes the existing shipping law in the United States Code. The law normally requires that only American ships can carry goods between American ports. This section adds a new exception to that rule. Foreign ships can now carry goods on routes to places like Hawaii, Alaska, Puerto Rico, and other territories that are not connected by land to the main United States. However, this exception only applies when there is not enough competition from American ships. If at least three different American shipping companies are already running ships on the same route, and each company handles at least twenty percent of the goods on that route, and these companies are not owned by the same people, then foreign ships still cannot be used. The companies must also be separate businesses not controlled by the same owners.",
+      "word_offset": 10,
+      "char_offset": 67
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-s-141",
+  "title": "Connected MOM Act",
+  "short_title": "Connected MOM Act",
+  "congress": 119,
+  "bill_number": "S.141",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Finance.",
+  "version_hash": "8e5f47132fb54a02",
+  "last_updated": "2026-03-20T13:10:15.672809+00:00",
+  "plain_summary": "The Connected MOM Act requires the health department to study how state Medicaid programs pay for remote monitoring devices for pregnant women and new mothers. These devices include things like blood pressure monitors and glucose meters that women can use at home. The department must write a report about what makes it hard for women to get these devices and suggest ways to fix those problems. Then they must update resources to help states do a better job providing these monitoring tools to improve the health of mothers and babies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Appropriations",
+    "Cardiovascular and respiratory health",
+    "Emergency medical services and trauma care",
+    "Government buildings, facilities, and property",
+    "Government employee pay, benefits, personnel management",
+    "Health promotion and preventive care",
+    "Health technology, devices, supplies",
+    "Infectious and parasitic diseases",
+    "Presidents and presidential powers, Vice Presidents",
+    "Public transit",
+    "Transportation safety and security"
+  ],
+  "sponsor_name": "Sen. Cassidy, Bill [R-LA]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "pregnancy monitoring devices",
+    "medicaid coverage pregnancy",
+    "remote health monitoring",
+    "blood pressure monitors pregnant women",
+    "home health devices mothers",
+    "glucose meters pregnancy",
+    "prenatal remote care",
+    "postpartum monitoring",
+    "medicaid telehealth pregnancy",
+    "at home pregnancy monitoring",
+    "maternal health devices",
+    "new mother health tracking"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Connected Maternal Online Monitoring Act or the Connected MOM Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-coverage-of-remote-physiologic-monitoring-devices",
+      "title": "Section 2 Coverage of Remote Physiologic Monitoring Devices and Impact on Maternal and Child Health Outcomes Under Medicaid",
+      "text": "The Secretary of Health and Human Services must write a report for Congress within eighteen months after this law is passed. The report must explain how states currently cover remote monitoring devices through their Medicaid programs (the government health insurance program for people with low incomes). Remote monitoring devices are medical tools that can check a person's health from far away, like devices that measure oxygen levels in blood, blood pressure cuffs, scales, and blood sugar monitors. The report must describe what problems and barriers stop states from covering these devices. It must also explain how this affects the health of mothers and their babies. The report should include suggestions for how to fix these problems so that pregnant women and new mothers who get Medicaid can better access these monitoring devices. The goal is to improve health outcomes for both mothers and children. After the report is finished, the Secretary has six more months to update the helpful materials that states use for their Medicaid telehealth programs (health care provided through technology from a distance). These updates must match the suggestions made in the report.",
+      "word_offset": 16,
+      "char_offset": 94
+    }
+  ]
+}

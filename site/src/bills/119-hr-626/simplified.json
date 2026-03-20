@@ -1,0 +1,91 @@
+{
+  "bill_id": "119-hr-626",
+  "title": "Northwest Energy Security Act",
+  "short_title": "Northwest Energy Security Act",
+  "congress": 119,
+  "bill_number": "HR.626",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Water Resources and Environment.",
+  "version_hash": "5dae2a1fb2116f6e",
+  "last_updated": "2026-03-20T12:53:01.839443+00:00",
+  "plain_summary": "This law requires three federal agencies to follow a 2020 plan for operating dams on the Columbia and Snake rivers. The plan focuses on keeping the dams running instead of removing them to help fish. The agencies can only change the plan if all three agree it is needed for safety or to keep the power grid working. Any changes that would make the dams produce less electricity or hurt river transportation would need approval from Congress first.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the Subcommittee on Water Resources and Environment.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Water Resources Development",
+  "subjects": [
+    "Alternative and renewable resources",
+    "Dams and canals",
+    "Electric power generation and transmission",
+    "Idaho",
+    "Lakes and rivers",
+    "Montana",
+    "Oregon",
+    "Washington State"
+  ],
+  "sponsor_name": "Rep. Newhouse, Dan [R-WA-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "WA",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Columbia River dams",
+    "Snake River dams",
+    "dam removal",
+    "hydroelectric power",
+    "salmon protection",
+    "fish vs dams",
+    "Northwest electricity",
+    "river transportation",
+    "dam operations",
+    "power grid stability"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Northwest Energy Security Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, certain terms have specific meanings. FCRPS means the parts of the Federal Columbia River Power System that are covered by the Supplemental Opinion. The Federal Columbia River Power System is a network of dams and power plants along the Columbia River. Secretaries means three government officials working together. These are the Secretary of the Interior working through the Commissioner of Reclamation, the Secretary of Energy working through the Administrator of the Bonneville Power Administration, and the Secretary of the Army working through the Chief of Engineers. Supplemental Opinion means a specific government document called Columbia River System Operations Environmental Impact Statement Record of Decision that was written in September two thousand twenty.",
+      "word_offset": 10,
+      "char_offset": 58
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-operation-of-fcrps",
+      "title": "Section 3 Operation of FCRPS",
+      "text": "The three Secretaries must run the Federal Columbia River Power System following the reasonable and prudent alternative described in the Supplemental Opinion. A reasonable and prudent alternative is a specific plan for operating the dams that was designed to protect endangered fish species.",
+      "word_offset": 125,
+      "char_offset": 843
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-amendments-to-supplemental-opinion",
+      "title": "Section 4 Amendments to Supplemental Opinion",
+      "text": "Even though Section three requires following the Supplemental Opinion, the Secretaries can make changes to parts of the Supplemental Opinion and operate the power system according to those changes. However, all three Secretaries must agree that the change is needed for one of two reasons. First, the change must be necessary for public safety or to keep the electrical transmission system and power grid working reliably. Second, the actions or requirements that the change would remove are no longer needed. Each Secretary gets to decide this on their own. The process described here is the only way the Secretaries can operate the power system in any way that does not follow the reasonable and prudent alternative in the Supplemental Opinion.",
+      "word_offset": 168,
+      "char_offset": 1135
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-limitation-on-restricting-fcrps-electrical-generation-clarification",
+      "title": "Section 5 Limitation on Restricting FCRPS Electrical Generation and Clarification",
+      "text": "No structural changes, actions, studies, or engineering plans that would reduce electricity production at any hydroelectric dam in the Federal Columbia River Power System can move forward. Also, no plans that would limit boat traffic on the Snake River in Washington, Oregon, or Idaho can proceed. These restrictions apply unless Congress specifically passes a new federal law after this law is enacted that clearly allows such proposals. However, this section does not stop the Secretaries from doing regular operation and maintenance work or making capital improvements that are necessary to meet the authorized purposes of the power system facilities.",
+      "word_offset": 288,
+      "char_offset": 1882
+    }
+  ]
+}

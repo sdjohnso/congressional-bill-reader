@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-s-33",
+  "title": "SOPRA",
+  "short_title": "SOPRA",
+  "congress": 119,
+  "bill_number": "S.33",
+  "introduced_date": "2025-01-08",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "4a653a35d373eb4a",
+  "last_updated": "2026-03-20T15:24:46.334374+00:00",
+  "plain_summary": "SOPRA is a law that changes how courts look at decisions made by government agencies. Right now, courts often trust agencies to explain what their own rules mean. This new law says courts must make their own decisions about what laws and agency rules mean, without giving the agencies special treatment. The law applies to all types of agency rules and guidance documents. This means courts will have more power to overturn agency decisions they disagree with.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-08",
+  "last_action_date": "2025-01-08",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Constitution and constitutional amendments",
+    "Judicial review and appeals"
+  ],
+  "sponsor_name": "Sen. Schmitt, Eric [R-MO]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government agency decisions",
+    "court review of regulations",
+    "federal agency power",
+    "judicial oversight",
+    "agency rule interpretation",
+    "government regulation challenges",
+    "federal bureaucracy control",
+    "administrative state reform",
+    "court authority over agencies",
+    "regulatory review process"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Separation of Powers Restoration Act of two thousand twenty five. It can also be called SOPRA for short.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-judicial-review-of-statutory-and-regulatory-interpretations",
+      "title": "Section 2  Judicial Review of Statutory and Regulatory Interpretations",
+      "text": "This section changes how courts review government agency decisions. It changes section seven hundred six of title five of the United States Code. The changes require courts to make their own fresh decisions about what laws mean when reviewing agency actions. Courts must decide for themselves what constitutional provisions mean, what laws passed by Congress mean, what rules made by agencies mean, and what guidance documents from agencies mean. This applies to all court cases that review agency actions, no matter what other laws might say. The only way another law can change this rule is if that law specifically mentions this section by name.",
+      "word_offset": 24,
+      "char_offset": 132
+    }
+  ]
+}

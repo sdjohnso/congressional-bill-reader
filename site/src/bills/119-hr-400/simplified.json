@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-400",
+  "title": "No taxpayer funding for United Nations Human Rights Council Act",
+  "short_title": "No taxpayer funding for United Nations Human Rights Council Act",
+  "congress": 119,
+  "bill_number": "HR.400",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Foreign Affairs.",
+  "version_hash": "ff74f21ab07d7b32",
+  "last_updated": "2026-03-20T11:33:47.482082+00:00",
+  "plain_summary": "This bill stops the US government from giving money to the United Nations Human Rights Council. The Secretary of State must hold back the part of America's regular UN payments that would go to this council. The government also cannot make any extra voluntary payments to the Human Rights Council. Any money that is held back will be taken away completely and will not be paid back later.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Roy, Chip [R-TX-21]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "UN funding",
+    "United Nations money",
+    "Human Rights Council",
+    "stop paying UN",
+    "taxpayer money UN",
+    "defund UN council",
+    "US payments United Nations",
+    "withdraw UN funding",
+    "America UN contributions",
+    "cut UN budget"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No taxpayer funding for United Nations Human Rights Council Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition",
+      "title": "Section 2  Prohibition",
+      "text": "The Secretary of State (the top person who handles America's relationships with other countries) must follow these rules. First, each year the Secretary must hold back part of the money that America normally gives to the United Nations general budget. The amount held back must equal the percentage that the United Nations would use to support the United Nations Human Rights Council. Second, the Secretary cannot give any extra voluntary money directly to the United Nations Human Rights Council. When the Secretary holds back this money, that money is permanently taken away and does not count as a debt that America owes to any United Nations organization.",
+      "word_offset": 16,
+      "char_offset": 92
+    }
+  ]
+}

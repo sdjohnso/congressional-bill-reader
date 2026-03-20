@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-573",
+  "title": "Studying NEPA’s Impact on Projects Act",
+  "short_title": "Studying NEPA’s Impact on Projects Act",
+  "congress": 119,
+  "bill_number": "HR.573",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+  "version_hash": "e7d877fdbf61cd7a",
+  "last_updated": "2026-03-20T11:02:50.476987+00:00",
+  "plain_summary": "This bill requires a government office called the Council on Environmental Quality to write a report every year about environmental reviews. The report must track how long these reviews take, how much they cost, and information about court cases related to environmental laws. The office has to put the report on their website and send it to Congress. The goal is to better understand how environmental review rules affect different projects across the country.",
+  "current_status": "committee_reported",
+  "status_date": "2025-12-04",
+  "last_action_date": "2025-12-10",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [
+    "Advisory bodies",
+    "Congressional oversight",
+    "Environmental assessment, monitoring, research",
+    "Government information and archives"
+  ],
+  "sponsor_name": "Rep. Yakym, Rudy [R-IN-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "environmental review",
+    "government projects",
+    "environmental impact study",
+    "project delays",
+    "environmental regulations",
+    "government reporting",
+    "environmental lawsuits",
+    "project costs",
+    "environmental compliance",
+    "government oversight"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Studying NEPA's Impact on Projects Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-annual-report-on-nepas-impact-on-projects",
+      "title": "Section 2 Annual Report on NEPA's Impact on Projects",
+      "text": "This section changes the National Environmental Policy Act of nineteen sixty-nine. It requires government agencies to create yearly reports about how environmental reviews affect projects. Starting by July first, two thousand twenty-six and every year after, the head of each lead agency (the main government agency in charge of a project) must send a report to the Council on Environmental Quality. The report must include four main parts. First, information about lawsuits claiming the agency broke environmental laws. This includes who sued, which court handled the case, how many lawsuits there were by agency, what the lawsuit was about by industry type, and what happened with each case. Second, information about environmental impact statements (detailed reports about how projects might affect the environment) made public in the past five years. This includes how many pages these reports had on average, how many reports each agency made, and how report lengths have changed over time. Third, an estimate of how much it cost to prepare these environmental reports, including staff time, contractor costs, and other expenses. Fourth, information about how long it took to complete environmental reviews over the past ten years. This includes dates for key steps like when applications were submitted, when reviews began, when reports were published, and when final decisions were made. The Council on Environmental Quality must publish these reports on their website and send them to congressional committees. They must also make the underlying data public so people can find court records and other information. When possible, all information should be organized by industry sectors like aviation, energy, manufacturing, mining, and others. The Council or agencies can add other industry sectors as needed.",
+      "word_offset": 12,
+      "char_offset": 67
+    }
+  ]
+}

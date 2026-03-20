@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hres-53",
+  "title": "Providing for consideration of the bill (H.R. 471) to expedite under the National Environmental Policy Act of 1969 and improve forest management activities on National Forest System lands, on public lands under the jurisdiction of the Bureau of Land Management, and on Tribal lands to return resilience to overgrown, fire-prone forested lands, and for other purposes, and providing for consideration of the bill (S. 5) to require the Secretary of Homeland Security to take into custody aliens who have been charged in the United States with theft, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.53",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "The House Committee on Rules reported an original measure, H. Rept. 119-1, by Mr. Scott, Austin.",
+  "version_hash": "6fb1375b4eb29137",
+  "last_updated": "2026-03-20T12:51:02.827387+00:00",
+  "plain_summary": "This House resolution sets up the rules for Congress to debate and vote on two different bills. The first bill is about making forest management faster and easier on government and tribal lands to help prevent dangerous wildfires. The second bill requires the government to arrest foreign nationals who have been charged with theft crimes. Both bills will have limited time for debate and lawmakers can only make a few changes before the final votes happen.",
+  "current_status": "introduced",
+  "status_date": "",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Motion to reconsider laid on the table Agreed to without objection.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "House of Representatives",
+    "Legislative rules and procedure"
+  ],
+  "sponsor_name": "Rep. Scott, Austin [R-GA-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "forest management",
+    "wildfire prevention",
+    "national forests",
+    "immigration detention",
+    "theft charges",
+    "foreign nationals",
+    "tribal lands",
+    "fire prevention",
+    "forest fires",
+    "immigrant arrest",
+    "public lands",
+    "congressional debate"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-forest-management-bill-procedures",
+      "title": "Section 1 Forest Management Bill Procedures",
+      "text": "This resolution allows the Speaker of the House to bring up bill HR 471 for consideration at any time. This bill is about making forest management faster and easier on federal lands and tribal lands to help prevent wildfires. When the House considers this bill, they will skip the first reading. All procedural objections to considering the bill are ignored. There will be one hour of general debate split equally between the committee chair and the top minority member from the Natural Resources Committee. After debate, the House can consider changes to the bill under the five minute rule, which means each person gets five minutes to speak about their proposed change. The bill will be treated as if it has already been read aloud. All objections to parts of the bill are ignored. Only changes that are printed in the Rules Committee report can be offered. These changes must be offered in the order listed in the report and only by the person named in the report. Each change can be debated for the time listed in the report, split between someone who supports it and someone who opposes it. These changes cannot be changed further and cannot be split into separate votes. All objections to these changes are ignored. After considering all changes, the committee will report back to the full House with whatever changes were approved. The House will then vote on final passage with only one chance for the minority party to send the bill back to committee with instructions.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-immigration-custody-bill-procedures",
+      "title": "Section 2 Immigration Custody Bill Procedures",
+      "text": "Once this resolution passes, the House can immediately consider bill S 5. This bill requires the Secretary of Homeland Security to arrest and hold foreign nationals who have been charged with theft in the United States. All procedural objections to considering this bill are ignored. The bill will be treated as if it has already been read aloud. All objections to parts of the bill are ignored. The House will vote on final passage after one hour of debate split equally between the chair and top minority member of the Judiciary Committee, with one chance for the minority party to send the bill back to committee.",
+      "word_offset": 254,
+      "char_offset": 1480
+    }
+  ]
+}

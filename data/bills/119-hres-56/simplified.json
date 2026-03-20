@@ -1,0 +1,72 @@
+{
+  "bill_id": "119-hres-56",
+  "title": "Memorializing the unborn by lowering the United States flag to half-staff on the 22d day of January each year.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.56",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "8c4f736341b32b5d",
+  "last_updated": "2026-03-20T14:48:11.856136+00:00",
+  "plain_summary": "This congressional resolution wants to create a special day called the Day of Tears on January 22nd each year. On this day, American flags would be lowered to half-staff to remember unborn babies who died from abortions. The resolution also encourages lawmakers to pass laws that protect unborn life and keep better records about abortions that happen in the United States.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "subjects": [
+    "Abortion",
+    "Commemorative events and holidays",
+    "National symbols"
+  ],
+  "sponsor_name": "Rep. Clyde, Andrew S. [R-GA-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 14,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "flag half staff",
+    "January 22",
+    "unborn babies",
+    "abortion memorial",
+    "Day of Tears",
+    "remembering unborn",
+    "flag lowering",
+    "abortion remembrance",
+    "memorial day unborn",
+    "half mast flag",
+    "unborn children memorial",
+    "abortion awareness day"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution is about remembering unborn children by lowering the United States flag to half-staff on January twenty-second each year.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Information",
+      "text": "On January twenty-second, nineteen seventy-three, most of the judges on the Supreme Court ruled that abortion was a right protected by the Constitution. On June twenty-fourth, twenty twenty-two, most of the Supreme Court judges overturned the Roe versus Wade case from nineteen seventy-three. They said the Constitution does not give people a right to abortion. Since January twenty-second, nineteen seventy-three, more than sixty-two million unborn children have died from abortion.",
+      "word_offset": 20,
+      "char_offset": 138
+    },
+    {
+      "id": "s3",
+      "slug": "house-resolution",
+      "title": "What the House of Representatives Resolves",
+      "text": "The House of Representatives supports recognizing the Day of Tears in the United States. The House encourages Americans to lower their flags to half-staff to mourn and honor the innocent lives lost to abortion. The House also encourages lawmakers to pass laws that respect the value of life and make sure detailed records about abortions are kept.",
+      "word_offset": 90,
+      "char_offset": 622
+    }
+  ]
+}

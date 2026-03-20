@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-290",
+  "title": "Rural Telehealth and Education Enhancement Act of 2025",
+  "short_title": "Rural Telehealth and Education Enhancement Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.290",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
+  "version_hash": "a0d57b5fb79f5956",
+  "last_updated": "2026-03-20T14:15:05.144578+00:00",
+  "plain_summary": "This bill keeps a government program running until 2030 that helps people in rural areas get better access to healthcare and education. The program is run by the Department of Agriculture and gives money to rural communities so they can buy technology and get training. With this technology, people in rural areas can see doctors remotely and take classes online without having to travel long distances. The program makes it easier for people living in the countryside to get medical care and education that people in cities can access more easily.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "rural healthcare",
+    "remote doctor visits",
+    "online medical care",
+    "countryside internet access",
+    "rural education funding",
+    "distance learning",
+    "telehealth",
+    "rural communities",
+    "remote areas healthcare",
+    "online classes rural",
+    "farming communities internet",
+    "small town medical access"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Rural Telehealth and Education Enhancement Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reauthorization-of-the-distance-learning-and-telemedicine-program",
+      "title": "Section 2 Reauthorization of the Distance Learning and Telemedicine Program",
+      "text": "This section changes an existing law about a government program that helps rural areas get better access to medical care from a distance and education through technology. The program is run by the Department of Agriculture. The change extends how long this program can continue to operate. Instead of ending in two thousand twenty three, the program can now continue until two thousand thirty.",
+      "word_offset": 17,
+      "char_offset": 103
+    }
+  ]
+}

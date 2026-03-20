@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-62",
+  "title": "WILLIS Act",
+  "short_title": "WILLIS Act",
+  "congress": 119,
+  "bill_number": "HR.62",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "a8b870bfeae51230",
+  "last_updated": "2026-03-20T12:46:06.337051+00:00",
+  "plain_summary": "The WILLIS Act would stop the federal government from giving any money to the Fulton County District Attorney's Office in Georgia. The bill would also take back any federal money that was set aside for this office but not spent yet. Additionally, the office would have to pay back all the federal money it received since January 1, 2021. The Department of Justice would be in charge of making sure the office pays back this money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Georgia",
+    "Lawyers and legal services",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal funding cut off",
+    "Georgia prosecutor office",
+    "Fulton County money",
+    "district attorney funding",
+    "government money taken away",
+    "federal grants removed",
+    "pay back federal funds",
+    "Georgia DA office",
+    "stop government funding",
+    "withdraw federal support",
+    "reclaim federal money",
+    "Justice Department enforcement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Withholding Investments from Lawless Litigators In States Act or the WILLIS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-federal-funding-with-respect-to-fulton-county-district-attorney",
+      "title": "Section 2  Prohibition on Federal Funding With Respect to Fulton County District Attorney",
+      "text": "The federal government cannot give any money to the Fulton County District Attorney's Office. This rule applies even if other laws say the office should get federal money. Any federal money that has already been set aside for the Fulton County District Attorney's Office but not yet spent must be taken back. The Attorney General (the top federal law enforcement official) must take steps to make the Fulton County District Attorney's Office pay back all federal money it received since January first, two thousand twenty one.",
+      "word_offset": 18,
+      "char_offset": 108
+    }
+  ]
+}

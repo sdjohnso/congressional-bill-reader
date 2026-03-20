@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-329",
+  "title": "Expanding Penalty Free Withdrawal Act",
+  "short_title": "Expanding Penalty Free Withdrawal Act",
+  "congress": 119,
+  "bill_number": "HR.329",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "881e535de9ab22d1",
+  "last_updated": "2026-03-20T13:53:07.958558+00:00",
+  "plain_summary": "This bill lets people take money out of their retirement accounts early without paying extra taxes if they have been unemployed for at least 26 weeks. To qualify, they must be getting unemployment benefits from the government during this time. People can only take out up to $50,000 per year, and the amount also depends on how much money is in their retirement accounts. Once someone gets a new job and works for 60 days, they have to start paying the penalty again if they want to take out more money early.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Employee benefits and pensions",
+    "Income tax deferral",
+    "Income tax exclusion",
+    "Income tax rates",
+    "Unemployment"
+  ],
+  "sponsor_name": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "retirement account early withdrawal",
+    "unemployment penalty free",
+    "401k early access unemployed",
+    "retirement savings unemployment",
+    "no penalty withdrawal jobless",
+    "early retirement withdrawal rules",
+    "unemployment benefits retirement",
+    "take money out 401k unemployed",
+    "penalty free retirement withdrawal",
+    "unemployment early withdrawal limit"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Expanding Penalty Free Withdrawal Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expansion-of-exception-for-penalty-on-early-distributions-to-unemployed-individuals-from-retirement-plans",
+      "title": "Section 2 Expansion of Exception for Penalty on Early Distributions to Unemployed Individuals from Retirement Plans",
+      "text": "This section changes the tax rules to help unemployed people take money from their retirement accounts without paying extra penalties. The new rule applies to people who lose their job and then receive unemployment benefits for twenty-six weeks in a row. It also applies if they get unemployment benefits for the longest time their state allows, even if that is less than twenty-six weeks. People can take money from their retirement accounts without penalties during the tax year they get unemployment benefits or the tax year right after that. The same rules that apply to taking money for health insurance when unemployed will also apply here. There are limits on how much money people can take out. They cannot take out more than fifty thousand dollars in one year. This fifty thousand dollar limit gets reduced by any other penalty-free withdrawals they made in the past year. They also cannot take out more than ten thousand dollars or half the total value of all their retirement accounts, whichever amount is bigger. If someone takes money from their retirement account to pay for health insurance while unemployed, that money does not count toward these new withdrawal limits. These new rules apply to money taken out of retirement accounts after December thirty-first, two thousand twenty-four.",
+      "word_offset": 11,
+      "char_offset": 66
+    }
+  ]
+}

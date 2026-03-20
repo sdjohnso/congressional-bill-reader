@@ -1,0 +1,72 @@
+{
+  "bill_id": "119-hres-27",
+  "title": "Expressing opposition to Central Business District Tolling Program of New York City.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.27",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Transportation and Infrastructure.",
+  "version_hash": "697ac6e6b0e89a91",
+  "last_updated": "2026-03-20T14:29:55.988847+00:00",
+  "plain_summary": "This resolution says Congress is against New York City's plan to charge drivers money to drive into busy parts of Manhattan. The plan would make drivers pay up to twenty-three dollars each day to enter Manhattan below 60th Street. Congress thinks this toll would hurt small businesses and make life harder for people who drive to work and families. The resolution asks New York to study how this toll would affect the economy and wants federal agencies to help stop the program from starting.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Transportation and Infrastructure.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [
+    "New York City",
+    "New York State",
+    "Roads and highways",
+    "Transportation programs funding",
+    "User charges and fees"
+  ],
+  "sponsor_name": "Rep. LaLota, Nick [R-NY-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Manhattan toll",
+    "NYC congestion pricing",
+    "New York City driving fees",
+    "Manhattan traffic toll",
+    "downtown Manhattan charges",
+    "NYC car toll",
+    "Manhattan driving tax",
+    "New York congestion toll",
+    "NYC traffic fees",
+    "Manhattan entry fee"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution expresses opposition to the Central Business District Tolling Program of New York City.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Reasons for Opposition",
+      "text": "The New York State Department of Transportation, New York City Department of Transportation, and Metropolitan Transportation Authority want to charge drivers up to twenty-three dollars per day to enter Manhattan south of 60th Street. Manhattan is an island with few ways to get in and out, so this toll program will hurt commuters, students, low-income families, and small businesses who need to travel there. Daily commuters could pay about five thousand dollars per year. Commercial vehicles might be charged every time they enter the area, even multiple times in one day. This program will especially hurt small businesses that must travel into Manhattan while they are still recovering from coronavirus pandemic shutdowns. Small businesses will have to pass these higher costs on to customers, who are already dealing with high inflation. People are worried this will cause more traffic jams in the outer areas of New York City. The toll program is expected to bring in one billion dollars each year. This money will support the Metropolitan Transportation Authority's fifteen billion dollar capital investment program and help pay for running the toll program. Most of this toll money is meant to help the Metropolitan Transportation Authority, which lost six hundred ninety million dollars in twenty twenty-two because people did not pay fares and faces a budget shortage of almost three billion dollars by twenty twenty-five.",
+      "word_offset": 15,
+      "char_offset": 104
+    },
+    {
+      "id": "s3",
+      "slug": "house-resolution",
+      "title": "House of Representatives Resolution",
+      "text": "The House of Representatives disapproves of the Central Business District Tolling Program of New York City. The House recognizes that this proposed toll program would create a serious financial burden on small businesses and strongly recommends that New York State conduct and make public an economic impact report on this program. The House also strongly recommends that relevant federal agencies and New York State stop implementing the Central Business District Tolling Program.",
+      "word_offset": 240,
+      "char_offset": 1537
+    }
+  ]
+}

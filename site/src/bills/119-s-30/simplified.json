@@ -1,0 +1,80 @@
+{
+  "bill_id": "119-s-30",
+  "title": "ERASER Act",
+  "short_title": "ERASER Act",
+  "congress": 119,
+  "bill_number": "S.30",
+  "introduced_date": "2025-01-08",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "e1c7c5a0b6a4704f",
+  "last_updated": "2026-03-20T12:33:06.636587+00:00",
+  "plain_summary": "The ERASER Act requires government agencies to cancel three old rules before they can make any new rule. If the new rule is a major one that costs more than 100 million dollars per year, the agency must make sure the new rule costs the same or less than the three old rules they are canceling. The bill only applies to certain types of rules and does not cover things like employee rules or how agencies buy supplies. The Government Accountability Office must write reports about how many rules exist and how much they cost.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-08",
+  "last_action_date": "2025-01-08",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Congressional oversight",
+    "Government studies and investigations"
+  ],
+  "sponsor_name": "Sen. Schmitt, Eric [R-MO]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government rules",
+    "cancel old regulations",
+    "reduce red tape",
+    "cut government regulations",
+    "eliminate bureaucracy",
+    "regulatory reform",
+    "government paperwork",
+    "federal agency rules",
+    "deregulation",
+    "streamline government",
+    "reduce compliance costs",
+    "simplify regulations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Expediting Reform And Stopping Excess Regulations Act or the ERASER Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, agency means a government department or office. Rule means a government regulation that tells people or businesses what they must do. Major rule means an important regulation that costs at least one hundred million dollars or has other big effects on the economy. State means any of the fifty states, Washington DC, US territories like Puerto Rico, and recognized Indian tribes.",
+      "word_offset": 17,
+      "char_offset": 100
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-repeal-of-regulations-required-before-issuance-of-a-new-rule",
+      "title": "Section 3 Repeal of Regulations Required Before Issuance of a New Rule",
+      "text": "Before a government agency can create any new rule, it must first cancel three or more old rules. The old rules should be related to the new rule when possible. For major rules that cost a lot of money, the agency must also make sure the new rule costs the same or less than the three old rules it cancels. The Office of Management and Budget must check and confirm that the costs match up properly. The old rules that get canceled must be ones that were created using the normal public comment process, not just internal agency guidance. When an agency cancels old rules, it must announce this in the Federal Register, which is the government's official newspaper. This law only applies to rules that cost money or create work for private people, businesses, or local governments. It does not apply to rules about how government agencies run themselves or buy things.",
+      "word_offset": 81,
+      "char_offset": 492
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-government-accountability-office-study-of-rules",
+      "title": "Section 4 Government Accountability Office Study of Rules",
+      "text": "Within one year after this law passes, and then every five years after that, the Government Accountability Office must study and report to Congress about government rules. The report must count how many regular rules are currently active, how many major rules are currently active, and estimate the total cost that all these rules impose on the economy.",
+      "word_offset": 234,
+      "char_offset": 1361
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-374",
+  "title": "DIRECT Act",
+  "short_title": "DIRECT Act",
+  "congress": 119,
+  "bill_number": "HR.374",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Appropriations, and in addition to the Committee on Ways and Means, for a period to be subs",
+  "version_hash": "1d7545b9ce1f4495",
+  "last_updated": "2026-03-20T14:03:16.456045+00:00",
+  "plain_summary": "The DIRECT Act takes leftover money that was supposed to go to the IRS for tax enforcement and gives it to border security instead. The money must be used by U.S. Customs and Border Protection to hire new border agents and officers. These new workers will help secure the southern border between the United States and Mexico. This bill moves the unused IRS money from the Inflation Reduction Act to border protection activities.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the Committee on Appropriations, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provi",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Appropriations",
+    "Border security and unlawful immigration",
+    "Department of Homeland Security",
+    "Government employee pay, benefits, personnel management",
+    "Law enforcement administration and funding",
+    "Law enforcement officers"
+  ],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border security funding",
+    "IRS money redirect",
+    "border patrol hiring",
+    "southern border agents",
+    "customs border protection",
+    "unused IRS funds",
+    "Mexico border security",
+    "border officer jobs",
+    "tax enforcement money",
+    "immigration enforcement funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Diverting IRS Resources to the Exigent Crisis Today Act or the DIRECT Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-rescission-of-certain-balances-made-available-to-the-internal-revenue-service",
+      "title": "Section 2 Rescission of Certain Balances Made Available to the Internal Revenue Service",
+      "text": "This section takes away money that was given to the Internal Revenue Service and gives it to border security instead. Any money that the IRS has not yet spent from a specific part of the Inflation Reduction Act will be taken away. This money was originally meant for IRS enforcement activities like audits and tax collection. The exact amount being taken away is whatever money the IRS still has left unspent from that program as of the day this law is passed. All of this money will then be given to U.S. Customs and Border Protection. The border agency must use this money specifically to pay the salaries and expenses of new agents and officers who will work to secure the southern border of the United States.",
+      "word_offset": 19,
+      "char_offset": 102
+    }
+  ]
+}

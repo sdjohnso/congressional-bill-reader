@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-hr-123",
+  "title": "Improving Science in Chemical Assessments Act",
+  "short_title": "Improving Science in Chemical Assessments Act",
+  "congress": 119,
+  "bill_number": "HR.123",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, fo",
+  "version_hash": "ffd74ba7e6185906",
+  "last_updated": "2026-03-20T13:52:26.268486+00:00",
+  "plain_summary": "This bill changes how the EPA studies whether chemicals are dangerous to people's health. Instead of having one central program do all the chemical safety studies, the bill moves this work to the specific EPA offices that actually need the information. The EPA must create a special committee to make sure different offices don't waste time doing the same work twice. The bill also sets up new rules for how these studies should be done and requires the EPA to regularly report to Congress about whether they are following good scientific methods.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consid",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Appropriations",
+    "Chemistry",
+    "Congressional oversight",
+    "Environmental Protection Agency (EPA)",
+    "Environmental assessment, monitoring, research",
+    "Environmental health",
+    "Environmental regulatory procedures",
+    "Executive agency funding and structure",
+    "Government information and archives",
+    "Hazardous wastes and toxic substances",
+    "Research administration and funding",
+    "Research and development",
+    "Scientific communication"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "EPA chemical testing",
+    "chemical safety studies",
+    "toxic chemicals research",
+    "EPA reorganization",
+    "chemical health risks",
+    "environmental chemical assessment",
+    "EPA scientific methods",
+    "chemical danger evaluation",
+    "EPA office restructuring",
+    "chemical toxicity testing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Improving Science in Chemical Assessments Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-research-needs-and-priorities-of-epa-program-offices",
+      "title": "Section 2  Research Needs and Priorities of EPA Program Offices",
+      "text": "This section changes an existing law from nineteen seventy eight. It removes one part and adds new sections seven, seven A, and seven B. Section seven explains how the Environmental Protection Agency must handle research about chemicals. The head of the EPA must make sure that money spent on environmental research matches what the different EPA offices need. The EPA has several offices that handle different areas like water, air, land, and chemical safety. When the EPA studies how dangerous a chemical might be to people's health, these studies used to be done by one central program called the Integrated Risk Information System. Now these studies will be done by whichever EPA office needs the information, as long as that office decides the study is necessary. These studies must follow strict scientific rules and be based on the best available scientific evidence. When an EPA office completes a study about a chemical, they must assign danger levels to that chemical if the science supports doing so. These danger levels should include a range of risk estimates and explain what scientists are uncertain about. If scientists can create multiple estimates, the office must look at all the data and decide how best to show the health risks from that chemical. All these danger levels will be stored in a chemical database that the EPA's Office of Research and Development will maintain. Any studies that were already in the old system will be kept in this new database. The database will be updated whenever an EPA office completes a new study. Starting two years after this law passes and every two years after that, the Office of Research and Development must send a report to three congressional committees. This report must confirm that all chemical studies completed during that time period followed the proper scientific standards. The section also defines important terms. A covered assessment means a study that looks at how a chemical might harm human health from long term exposure. A relevant program office includes the Office of Water, Office of Air and Radiation, Office of Land and Emergency Management, Office of Chemical Safety and Pollution Prevention, and any other offices the EPA Administrator decides are relevant. Section seven A creates a steering committee to coordinate chemical studies. The EPA Administrator must create this committee within thirty days of this law passing. The committee's job is to make sure EPA offices don't duplicate work by studying the same chemical. If more than one office wants to study the same chemical, the committee decides the best way to do one study instead of multiple studies. The committee can also consider studies done by other government agencies or scientists if those studies meet certain quality requirements. The committee will be led by the Assistant Administrator of the Office of Research and Development and have fifteen members who all work full time for the EPA. At least one member must come from each relevant program office and each regional EPA office. The EPA Administrator appoints all committee members. The committee must meet at least once per year. For the committee to use outside studies, those studies must follow the scientific standards in section seven B, have been reviewed by independent scientists for quality and completeness, and reflect the best available science. Section seven B sets the scientific standards for all chemical studies. Studies must use scientific information and methods that are consistent with the best available science. When doing a study, the EPA office must combine all types of scientific evidence and consider several factors. These factors include whether the scientific methods are reasonable for how the information will be used, whether the information is relevant for the EPA office's decisions about the chemical, how clearly the data and methods are documented and made available to the public while protecting privacy, how well scientists have evaluated uncertainty in the information, whether independent scientists have reviewed the work, whether other scientists can repeat the research and get the same results, and whether the available information supports creating models that show how different amounts of chemical exposure affect health risks.",
+      "word_offset": 12,
+      "char_offset": 74
+    }
+  ]
+}

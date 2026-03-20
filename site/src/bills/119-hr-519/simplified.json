@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-519",
+  "title": "Federal Subaward Reporting System Modernization and Expansion Act",
+  "short_title": "Federal Subaward Reporting System Modernization and Expansion Act",
+  "congress": 119,
+  "bill_number": "HR.519",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "c308306fbeaaae61",
+  "last_updated": "2026-03-20T11:14:10.729638+00:00",
+  "plain_summary": "This bill is about making it easier to track how the government spends money. Right now, the government can only track when it gives money to one organization, but it cannot see when that organization gives some of the money to another group. The bill requires the government to study how to track money through two levels instead of just one. It also requires the government to send regular reports to Congress about how well this tracking system is working.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Computers and information technology",
+    "Congressional oversight",
+    "Government information and archives",
+    "Public contracts and procurement"
+  ],
+  "sponsor_name": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government spending tracking",
+    "federal money tracking",
+    "subcontractor funding",
+    "government contracts",
+    "spending transparency",
+    "taxpayer money oversight",
+    "federal grant tracking",
+    "government accountability",
+    "public spending reports",
+    "contract money flow"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Federal Subaward Reporting System Modernization and Expansion Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-ffata-federal-subaward-reporting-system",
+      "title": "Section 2 FFATA Federal Subaward Reporting System",
+      "text": "This section requires improvements to the system that tracks how federal money gets passed down from one organization to another. When the government gives money to an organization, that organization might give some of that money to other groups to help do the work. This is called a subaward. The government needs to know where all this money goes.\n\nThe Inspector General (a government watchdog) of the General Services Administration must write a report within one hundred eighty days after this law passes. The report must review the current subaward reporting system to find problems that cause wrong or missing information. It must check how well the system works, including how accurate the data is, whether all agencies follow the same rules, how hard it is for organizations to report information, whether the public can access the data, and whether there are good ways to make sure people follow the rules. The report must also give suggestions for making the system better.\n\nWithin one year after this law passes, and every year after that until the work is done, the Administrator of General Services must work with the Director and the Secretary to create and carry out a plan to update the subaward reporting system. The plan must make sure the system gives correct, timely, and complete information about the first level of subawards from federal awards. The plan must include ways to make the data more accurate and complete, create the same reporting rules for all federal agencies, require organizations that do not make subawards to say so, reduce the work burden on organizations that get federal money, make it easier for the public to access subaward data, and create good ways to make sure people follow the reporting rules.\n\nStarting no later than one year after the first plan is submitted, each federal agency must collect information on the first two levels of subawards from federal awards. This means tracking not just who gets money directly from the government, but also who gets money from those groups and who gets money from them.\n\nWithin one year of this law passing, the Administrator must work with the Director to create reporting rules for federal agencies and develop a plan to track these two levels of subawards. The Administrator must get input from people and groups who care about this issue. The plan must include ways to improve data accuracy including tracking the final person or group who gets the money, create standard reporting rules for all agencies, reduce the work burden on organizations, make data easier for the public to access including information about final recipients, and create good enforcement methods.\n\nWithin two years of this law passing, each federal agency must start using this expanded tracking plan. The Administrator must work with the Director to send Congress a report about this plan within one year of the law passing, and then every year after that until the plan is fully working.\n\nThis section defines important terms. Administrator means the head of the General Services Administration. Director, Federal agency, Federal award, and Secretary have the same meanings as in the Federal Funding Accountability and Transparency Act of two thousand six. FFATA subaward reporting system and system mean the subaward tracking system described in that same two thousand six law.",
+      "word_offset": 14,
+      "char_offset": 94
+    }
+  ]
+}

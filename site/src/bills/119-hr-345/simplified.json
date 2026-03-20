@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-345",
+  "title": "Fire Department Repayment Act of 2025",
+  "short_title": "Fire Department Repayment Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.345",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Ordered to be Reported (Amended) by Unanimous Consent.",
+  "version_hash": "5121c5240ddfaae7",
+  "last_updated": "2026-03-20T13:59:05.210581+00:00",
+  "plain_summary": "The Fire Department Repayment Act of 2025 requires four government departments to create standard rules for paying local fire departments when they help fight wildfires on federal land. The Departments of Agriculture, Interior, Homeland Security, and Defense must make these rules within one year and review all current agreements to make sure they follow the new standards. The rules must make sure that fire departments get paid back quickly when they submit proper bills for helping fight fires. This bill aims to help local fire departments get their money faster when they assist with fires that spread across different areas owned by federal and local governments.",
+  "current_status": "committee_reported",
+  "status_date": "2025-07-23",
+  "last_action_date": "2025-07-23",
+  "last_action_text": "Ordered to be Reported (Amended) by Unanimous Consent.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Fires",
+    "First responders and emergency personnel",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Harder, Josh [D-CA-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "fire department payment",
+    "wildfire reimbursement",
+    "local firefighters federal land",
+    "fire department money back",
+    "wildfire assistance payment",
+    "federal fire fighting costs",
+    "fire department billing",
+    "local fire help federal",
+    "wildfire mutual aid payment",
+    "fire department expenses reimbursed"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Fire Department Repayment Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirements-relating-to-certain-fire-suppression-cost-share-agreements",
+      "title": "Section 2 Requirements Relating to Certain Fire Suppression Cost Share Agreements",
+      "text": "Within one year after this law is passed, four government department leaders must create standard rules for how quickly fire departments get paid back when they help fight fires on federal land.\n\nThese department leaders are the Secretary of Agriculture, the Secretary of the Interior, the Secretary of Homeland Security, and the Secretary of Defense. They must look at all existing agreements about sharing fire fighting costs and change them to follow the new standard rules.\n\nThe new rules must make sure that cost sharing agreements match up with cooperative fire protection agreements that apply to the same organization. When local fire departments send a proper bill for fighting fires, the federal government must pay them back according to cost settlement procedures.\n\nCongress believes that the government should pay back local fire departments as quickly as possible after they help fight fires, but no later than one year after the fire fighting happens.\n\nThese cost share agreements are based on a law from nineteen fifty five called the Reciprocal Fire Protection Act. This law lets different fire fighting organizations help each other and share the costs.",
+      "word_offset": 14,
+      "char_offset": 80
+    }
+  ]
+}

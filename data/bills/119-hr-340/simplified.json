@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-hr-340",
+  "title": "The HCT/P Modernization Act of 2025",
+  "short_title": "The HCT/P Modernization Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.340",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "cbdac89877b10a1b",
+  "last_updated": "2026-03-20T10:51:52.633979+00:00",
+  "plain_summary": "The HCT/P Modernization Act of 2025 requires the FDA to make it easier for people to understand the rules about human cells and tissues used in medical treatments. The FDA must hold workshops to teach people about these products and create a way for the public to share their thoughts about the rules. The agency also has to put helpful information on its website and publish details each year about how many companies are registered and how many inspections they do. By September 2026, the FDA must write a report for Congress with ideas on how to make the rules better.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Cell biology and embryology",
+    "Congressional oversight",
+    "Department of Health and Human Services",
+    "Government information and archives",
+    "Health information and medical records",
+    "Internet, web applications, social media",
+    "Organ and tissue donation and transplantation"
+  ],
+  "sponsor_name": "Rep. Crenshaw, Dan [R-TX-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "human cells medical treatment",
+    "tissue transplant rules",
+    "FDA medical regulations",
+    "stem cell therapy guidelines",
+    "organ donation laws",
+    "medical tissue safety",
+    "cell therapy approval process",
+    "human tissue products",
+    "regenerative medicine rules",
+    "biological treatment standards"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the HCT/P Modernization Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, these terms mean the following. Human cell and tissue product means the same thing as human cells, tissues, or cellular or tissue-based products as defined in federal regulation section 1271.3(d) of title 21, Code of Federal Regulations. Secretary means the Secretary of Health and Human Services. Tissue Reference Group means the Tissue Reference Group of the Food and Drug Administration (a government agency that helps answer questions about tissue products).",
+      "word_offset": 11,
+      "char_offset": 60
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-streamlining-regulatory-oversight",
+      "title": "Section 3  Streamlining Regulatory Oversight of Human Cell and Tissue Products",
+      "text": "The Secretary, working through the Commissioner of Food and Drugs, must put educational materials on the Food and Drug Administration's public website. These materials must explain what the Tissue Reference Group does and give best practices for getting quick and accurate advice from this group about human cell and tissue products. Within one year of this law being passed, and then every year for the next three years, the Secretary must publish certain information on the Food and Drug Administration website. This information includes how many human cell and tissue businesses registered with the Food and Drug Administration since January 1, 2019. It also includes how many inspections the Food and Drug Administration did of these businesses since January 1, 2019, and how this compares to inspections of blood businesses. The Secretary must also report how many questions people asked the Tissue Reference Group in the past year and what types of questions they were. Finally, the Secretary must report how long it takes the Tissue Reference Group to respond to submissions on average, including both first responses and final responses. The Secretary must provide information to important groups including businesses, tissue facilities, academic health centers, biomedical research groups, research organizations, and patients about how human cell and tissue products are regulated. The Secretary must also hold workshops and other educational meetings for these groups to help make regulations more predictable and support scientific progress when appropriate. This law changes section 3205 of the Food and Drug Omnibus Reform Act of 2022 by replacing certain text with new language about best practices for generating scientific data needed to help develop certain human cell, tissue, and cellular-based medical products, specifically stem cell and other cellular therapies, and the latest scientific information about such products. Within sixty days of this law being passed, the Secretary must create a public docket (a place where people can submit written comments) to receive written comments about two things. First, about the approaches recommended for discussion during the public workshop described in section 3205 of the Food and Drug Omnibus Reform Act of 2022. Second, about modernizing how human cell and tissue products are regulated, including considerations about assessing minimal manipulation and homologous use (terms defined in federal regulation section 1271.3 of title 21, Code of Federal Regulations) of human cell and tissue products. By September 30, 2026, the Secretary must summarize the approaches discussed in the public workshop described in section 3205 of the Food and Drug Omnibus Reform Act of 2022 and the public comments received in the docket described earlier. The Secretary must then develop recommendations about regulating human cell and tissue products, including provisions under sections 1271.10(a) and 1271.3 of title 21, Code of Federal Regulations. When making these recommendations, the Secretary must consider regulatory burden, scientific developments, access to human cell and tissue products regulated under section 361 of the Public Health Service Act, and protecting public health.",
+      "word_offset": 84,
+      "char_offset": 536
+    }
+  ]
+}

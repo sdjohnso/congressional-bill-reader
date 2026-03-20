@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-176",
+  "title": "No Immigration Benefits for Hamas Terrorists Act of 2025",
+  "short_title": "No Immigration Benefits for Hamas Terrorists Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.176",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "02ee95e886ca85fd",
+  "last_updated": "2026-03-20T13:42:39.645454+00:00",
+  "plain_summary": "This law stops certain people from entering the United States or getting help to stay here. It blocks members of Hamas and Palestinian Islamic Jihad from coming into the country. It also blocks anyone who helped with the October 7, 2023 attacks on Israel from entering the US or getting protection from being sent back to their home country. The law makes it so all members of the Palestinian Liberation Organization cannot enter the United States. Every year, the government must tell Congress how many people were blocked because of this law.",
+  "current_status": "committee_reported",
+  "status_date": "2025-03-21",
+  "last_action_date": "2025-12-02",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Immigration status and procedures",
+    "Israel",
+    "Middle East",
+    "Terrorism"
+  ],
+  "sponsor_name": "Rep. McClintock, Tom [R-CA-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 19,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Hamas ban",
+    "Palestinian groups immigration",
+    "October 7 attacks",
+    "Israel terrorism",
+    "immigration restrictions",
+    "Palestinian Islamic Jihad",
+    "terrorist groups entry ban",
+    "Middle East immigration",
+    "PLO members banned",
+    "immigration security"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Immigration Benefits for Hamas Terrorists Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-aliens-who-carried-out-participated-in-planned-financed-supported-or-otherwise-facilitated-attacks-against-israel",
+      "title": "Section 2 Aliens Who Carried Out, Participated In, Planned, Financed, Supported, Or Otherwise Facilitated Attacks Against Israel",
+      "text": "This section changes immigration law to address people who were involved in attacks against Israel. Part A adds new rules about people who participated in Hamas terrorism against Israel. It updates existing law to include Palestinian Islamic Jihad and Hamas in the list of terrorist organizations. The law also adds the word member to describe people who cannot enter the United States. It creates a new rule that says any foreign person who carried out, participated in, planned, financed, gave material support to, or otherwise helped with any of the attacks against Israel that Hamas started on October seventh two thousand twenty three cannot be admitted to the United States. Part B says these same people cannot get any protection or relief under immigration laws. This includes protection from being sent back to their home countries and asylum protection. Part C updates another section of immigration law to include the new rules about Hamas participants. Part D requires the Secretary of Homeland Security to write a report to Congress every year starting one year after this law passes. The report must include the number of foreign people who were found to be inadmissible under the new Hamas rule and the number who were found removable under the updated deportation rules.",
+      "word_offset": 18,
+      "char_offset": 105
+    }
+  ]
+}

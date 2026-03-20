@@ -1,0 +1,78 @@
+{
+  "bill_id": "119-hjres-4",
+  "title": "Proposing an amendment to the Constitution of the United States to provide that debate upon legislation pending before the Senate may not be brought to a close without the concurrence of a minimum of three-fifths of the Senators.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.4",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "c5bc58a07bf4032c",
+  "last_updated": "2026-03-20T11:51:34.849987+00:00",
+  "plain_summary": "This bill wants to change the Constitution to make it harder for the Senate to stop debating and vote on laws. Right now, the Senate can end debate with a simple majority vote in some cases, but this amendment would require at least 60 out of 100 Senators to agree before ending debate on most legislation. The rule would not apply when the Senate is voting on who the President picks for government jobs. To become part of the Constitution, this amendment would need approval from two-thirds of both the House and Senate, plus three-fourths of all state governments.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Constitution and constitutional amendments",
+    "Legislative rules and procedure",
+    "Senate"
+  ],
+  "sponsor_name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "senate rules",
+    "filibuster",
+    "60 votes",
+    "debate rules",
+    "stop talking",
+    "end debate",
+    "senate voting",
+    "three fifths",
+    "constitutional amendment",
+    "senate procedures"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution-title",
+      "title": "Joint Resolution Title",
+      "text": "This joint resolution proposes to change the Constitution of the United States. The change would require that when the Senate is debating any piece of legislation, they cannot end that debate without at least three-fifths of all Senators agreeing to end it.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "sponsors-and-committee",
+      "title": "Sponsors and Committee Assignment",
+      "text": "Representative Fitzpatrick and Representative Golden of Maine introduced this joint resolution on January third, two thousand twenty-five. The House of Representatives sent it to the Committee on the Judiciary to review.",
+      "word_offset": 42,
+      "char_offset": 258
+    },
+    {
+      "id": "s3",
+      "slug": "constitutional-amendment-process",
+      "title": "Constitutional Amendment Process",
+      "text": "For this to become part of the Constitution, both the Senate and House of Representatives must approve it with at least two-thirds of each chamber voting yes. After that, the legislatures of at least three-fourths of all states must also approve it.",
+      "word_offset": 73,
+      "char_offset": 479
+    },
+    {
+      "id": "s4",
+      "slug": "proposed-amendment-text",
+      "title": "Proposed Amendment Text",
+      "text": "The new constitutional article would say that when the Senate is debating any bill or motion, they cannot stop that debate and move to a vote unless one of three things happens. First, all Senators agree unanimously to end the debate. Second, they follow the same rules that were in place on January third, two thousand twenty-five. Third, at least three-fifths of all Senators who are properly chosen and sworn in agree to end the debate. This rule would not apply when the Senate is considering nominations for Presidential appointments.",
+      "word_offset": 115,
+      "char_offset": 729
+    }
+  ]
+}

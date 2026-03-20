@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-192",
+  "title": "Amtrak Executive Bonus Disclosure Act",
+  "short_title": "Amtrak Executive Bonus Disclosure Act",
+  "congress": 119,
+  "bill_number": "HR.192",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "version_hash": "4c9c9f7058e682f1",
+  "last_updated": "2026-03-20T13:23:57.112674+00:00",
+  "plain_summary": "This law makes Amtrak tell the public how much money they pay their top bosses each year. Amtrak must report both the regular pay and any extra bonus money given to their executive leaders. They also have to explain how they decide who gets bonuses and how much. All of this information must be put in a report to Congress and posted on Amtrak's website so anyone can read it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [
+    "Congressional oversight",
+    "Government employee pay, benefits, personnel management",
+    "Government information and archives",
+    "National Railroad Passenger Corporation (Amtrak)"
+  ],
+  "sponsor_name": "Rep. Rouzer, David [R-NC-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Amtrak executive pay",
+    "train company boss salaries",
+    "Amtrak bonus transparency",
+    "railroad CEO compensation",
+    "public disclosure executive pay",
+    "Amtrak management salaries",
+    "train service executive bonuses",
+    "government railroad pay disclosure",
+    "Amtrak leadership compensation",
+    "passenger rail executive salaries"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Amtrak Executive Bonus Disclosure Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amtrak-reports-and-audits",
+      "title": "Section 2. Amtrak Reports and Audits",
+      "text": "This section changes the rules about what information Amtrak must share with Congress and the public. The law changes an existing rule in the United States Code. Now Amtrak must do two new things. First, when Amtrak sends reports to Congress, they must also put those reports on their public website so everyone can see them. Second, Amtrak must report the yearly base pay and any bonus money paid to their top executives. This includes the chief executive officer, president, and other top officers. Amtrak must also explain what rules and measurements they use to decide how much bonus money to give these executives.",
+      "word_offset": 11,
+      "char_offset": 66
+    }
+  ]
+}

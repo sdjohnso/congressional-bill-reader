@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-169",
+  "title": "Prevent Family Fire Act of 2025",
+  "short_title": "Prevent Family Fire Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.169",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "927bc11960e5c4a8",
+  "last_updated": "2026-03-20T13:08:50.368911+00:00",
+  "plain_summary": "This bill creates a tax credit for businesses that sell gun safes and other secure storage devices. The credit equals ten percent of sales up to forty dollars per device. Only devices with locks that use combinations, keys, or fingerprints qualify for the credit. The tax credit will last until the end of 2032.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Firearms and explosives",
+    "Government information and archives",
+    "Income tax credits",
+    "Retail and wholesale trades"
+  ],
+  "sponsor_name": "Rep. Levin, Mike [D-CA-49]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gun safe tax credit",
+    "gun storage tax break",
+    "firearm safe discount",
+    "gun lock tax incentive",
+    "secure gun storage credit",
+    "gun safety device tax benefit",
+    "firearm storage tax relief",
+    "gun safe purchase incentive",
+    "weapon storage tax credit",
+    "gun cabinet tax break"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Prevent Family Fire Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-safe-firearm-storage-credit",
+      "title": "Section 2  Safe Firearm Storage Credit",
+      "text": "This section changes the tax code to create a new tax credit for businesses that sell gun safes and other safe storage devices. The credit equals ten percent of the money received from selling these devices to customers for the first time. However, the credit cannot be more than forty dollars per device, and it only applies to devices that cost four hundred dollars or less. The credit also cannot be more than what the device is actually worth. To qualify, the storage device must be designed to keep unauthorized people from accessing guns or ammunition. It must have a combination lock, key lock, or biometric lock that is built into the device and cannot be opened without the correct combination, key, or biometric information. The device cannot be part of the gun or ammunition itself, and it cannot be a product that has been recalled by the Consumer Product Safety Commission. The Treasury Secretary can create rules to take back credits that were claimed incorrectly and may require businesses to provide information or register to prevent this. This credit will end after December thirty first, twenty thirty two. The credit becomes part of the general business credit system and can be used even against the alternative minimum tax. The Treasury Secretary must publish an annual report showing how many credits were claimed in each state. These changes will apply to tax years that begin after this law is passed.",
+      "word_offset": 14,
+      "char_offset": 74
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-483",
+  "title": "Health Care Efficiency Through Flexibility Act",
+  "short_title": "Health Care Efficiency Through Flexibility Act",
+  "congress": 119,
+  "bill_number": "HR.483",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be",
+  "version_hash": "f30635357d4b90b2",
+  "last_updated": "2026-03-20T12:11:24.488765+00:00",
+  "plain_summary": "This bill gives healthcare groups called accountable care organizations more time and flexibility in how they report quality information to the government. Instead of having to use a new electronic reporting system right away, these organizations can wait until 2030 to switch. The bill also creates a test program to try out different digital ways of reporting and requires the government to make better standards that work for all kinds of healthcare groups. Until the new standards are ready in 2030, these organizations can keep using their current reporting methods.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Computers and information technology",
+    "Congressional oversight",
+    "Department of Health and Human Services",
+    "Health information and medical records",
+    "Health programs administration and funding",
+    "Internet, web applications, social media",
+    "Medicaid",
+    "Medicare"
+  ],
+  "sponsor_name": "Rep. Buchanan, Vern [R-FL-16]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "healthcare reporting flexibility",
+    "accountable care organizations",
+    "medical quality reporting",
+    "healthcare digital reporting",
+    "Medicare reporting requirements",
+    "healthcare data submission",
+    "medical record reporting",
+    "healthcare efficiency",
+    "hospital reporting standards",
+    "healthcare technology requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law may be called the Health Care Efficiency Through Flexibility Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-delay-in-implementation-of-ecqms-for-acos",
+      "title": "Section 2  Delay in Implementation of ECQMS for ACOS",
+      "text": "The Secretary of Health and Human Services must delay a new requirement for accountable care organizations (groups of doctors and hospitals that work together to provide coordinated care to Medicare patients). These organizations were supposed to change how they report quality information starting in twenty twenty five. Instead of using the current web-based system, they were supposed to switch to electronic Clinical Quality Metrics (a new digital way to track and report how well they care for patients). This change is now delayed until January first, twenty thirty.\n\nBy January first, twenty twenty six, the Secretary must start a test program to try out new digital ways of reporting quality information. Only some accountable care organizations that apply to join this test program will participate. Organizations in this test program do not have to use the electronic Clinical Quality Metrics during the test period. Being in the test program will not affect whether these organizations can earn bonus payments or face payment cuts under Medicare rules. The Secretary must provide help and support to organizations in the test program, including letting them skip certain reporting requirements if needed. By January first, twenty twenty eight, the Secretary must send Congress a report about how well the test program worked and recommendations for getting more organizations to use these new digital reporting methods.\n\nBy January first, twenty thirty, the Secretary must create final rules for digital quality reporting. These rules must make sure that all electronic health record systems (computer systems that store patient information) used by accountable care organizations can handle the new digital reporting methods. This must work for organizations of all sizes, medical specialties, and locations across the country. When creating these rules, the Secretary must work with important groups including the National Committee for Quality Assurance, companies that make electronic health record systems, accountable care organizations, insurance companies, and medical professional groups.\n\nUntil the Secretary creates the final digital reporting rules, accountable care organizations can keep using their current reporting methods. These include the CMS Web Interface portal, MIPS CQMs, Medicare CQMs, electronic Clinical Quality Metrics, or any other reporting methods they were already using. No penalties will be given to organizations that do not use electronic Clinical Quality Metrics before January first, twenty thirty, as long as they follow their existing reporting requirements.\n\nIn this section, accountable care organization means the same thing as defined in federal regulation section four hundred twenty five point twenty of title forty two of the Code of Federal Regulations. ACO participant means healthcare providers who are part of an accountable care organization as defined in the same regulation. Electronic health record means certified electronic health record technology as defined in section eighteen forty eight of the Social Security Act.",
+      "word_offset": 12,
+      "char_offset": 75
+    }
+  ]
+}

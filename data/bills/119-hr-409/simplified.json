@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-409",
+  "title": "Supporting Transit Commutes Act",
+  "short_title": "Supporting Transit Commutes Act",
+  "congress": 119,
+  "bill_number": "HR.409",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "61e9f4a68e155eb1",
+  "last_updated": "2026-03-20T11:25:59.612541+00:00",
+  "plain_summary": "This bill lets employers get tax breaks when they help pay for their workers' transportation costs. Employers can deduct money they spend on things like bus passes, train tickets, or van pools that help employees get to and from work. The most an employer can deduct is $325 per employee each month in 2025, and this amount will change each year. If employees can choose to get cash instead of transportation help, then employers can only deduct half of what they spend.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Commuting",
+    "Employee benefits and pensions",
+    "Income tax deductions",
+    "Transportation costs"
+  ],
+  "sponsor_name": "Rep. Auchincloss, Jake [D-MA-4]",
+  "sponsor_party": "D",
+  "sponsor_state": "MA",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "employer tax breaks",
+    "work transportation benefits",
+    "bus pass tax deduction",
+    "train ticket employer help",
+    "commuter benefits",
+    "employee transit costs",
+    "workplace transportation assistance",
+    "van pool tax breaks",
+    "getting to work expenses",
+    "public transit employer benefits",
+    "monthly transportation allowance",
+    "work commute tax relief"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Supporting Transit Commutes Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-deduction-allowed-for-certain-transportation-fringe-benefits-provided-by-employers",
+      "title": "Section 2  Deduction Allowed for Certain Transportation Fringe Benefits Provided by Employers",
+      "text": "This section changes the tax rules for employers who help pay for their workers' transportation costs. Right now, employers cannot deduct these costs from their taxes. This change will let employers deduct money they spend on certain transportation benefits for their employees. These benefits include help paying for public transportation like buses and trains, or parking costs. The employer can deduct up to the legal limit set by existing tax law. If the employer lets workers choose between getting the transportation help or getting cash instead, then the employer can only deduct half of what they spend on the transportation benefit. This section also makes a small change to keep the rules about bicycle commuting benefits separate. These new rules will apply to money employers spend on transportation benefits after this law is passed, for tax years that end after the law takes effect.",
+      "word_offset": 10,
+      "char_offset": 60
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-492",
+  "title": "Saving the Civil Service Act",
+  "short_title": "Saving the Civil Service Act",
+  "congress": 119,
+  "bill_number": "HR.492",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "75468f219d60b27e",
+  "last_updated": "2026-03-20T14:14:09.555031+00:00",
+  "plain_summary": "This bill stops the government from creating a new job category called Schedule F that would make it easier to fire federal workers. It also makes it much harder for government agencies to move employees between different types of job categories without their permission. The bill requires that workers must agree before being moved from jobs with strong protections to jobs with fewer protections. It also limits how many employees can be moved from regular government jobs to political jobs during each presidential term.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-09-16",
+  "last_action_text": "ASSUMING FIRST SPONSORSHIP - Mr. Walkinshaw asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 492, a bill originally introduced by Representative Connolly, for t",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Federal officials",
+    "Government employee pay, benefits, personnel management"
+  ],
+  "sponsor_name": "Rep. Connolly, Gerald E. [D-VA-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "VA",
+  "cosponsor_count": 98,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal workers",
+    "government employees",
+    "firing government workers",
+    "civil service jobs",
+    "job protections",
+    "government job security",
+    "political appointments",
+    "federal employment",
+    "government workforce",
+    "employee rights"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law may be called the Saving the Civil Service Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitations-on-excepting-positions",
+      "title": "Section 2 Limitations on Excepting Positions from Competitive Service and Transferring Positions",
+      "text": "General Rules. A job in the competitive service (jobs where people must compete through tests or applications) can only be moved to the excepted service (jobs where normal hiring rules don't apply) if it gets placed in one of the existing schedules A through E. These schedules must follow the same rules that were in place on September thirtieth, two thousand twenty.\n\nTransfers Between Services. Jobs already in the excepted service cannot be moved to any schedule other than schedules A through E. If an agency wants to move any filled job into schedule C (political appointments), they must first get permission from the Director of the Office of Personnel Management. During any four year presidential term, an agency cannot move more than one percent of its total workers from competitive service to excepted service, or five employees, whichever number is higher.\n\nEmployee Permission Required. No employee can be moved from one excepted service schedule to another without their written permission. No employee can be moved from competitive service to excepted service without their written permission.\n\nOther Rules. These rules apply to all federal jobs, including those at the Department of Veterans Affairs. The Director of the Office of Personnel Management must create regulations to carry out this section.\n\nDefinitions. Agency means any department, agency, or part of the federal government. Competitive service means jobs where people must compete through normal hiring processes as defined in federal law. Director means the Director of the Office of Personnel Management. Excepted service means jobs that are exempt from normal hiring rules as defined in federal law.",
+      "word_offset": 11,
+      "char_offset": 57
+    }
+  ]
+}

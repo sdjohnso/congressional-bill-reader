@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-283",
+  "title": "Panama Canal Repurchase Act of 2025",
+  "short_title": "Panama Canal Repurchase Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.283",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Foreign Affairs.",
+  "version_hash": "7790492edcb63539",
+  "last_updated": "2026-03-20T15:16:09.538022+00:00",
+  "plain_summary": "This bill gives the President permission to talk with Panama's government about buying back the Panama Canal. The Panama Canal is an important waterway that the United States used to own but gave to Panama years ago. The President must tell Congress within six months how these talks are going, what problems might come up, and what could happen. The goal is to see if America can get control of the Panama Canal again.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Johnson, Dusty [R-SD-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "SD",
+  "cosponsor_count": 29,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Panama Canal",
+    "buy back Panama Canal",
+    "America control Panama Canal",
+    "United States Panama Canal",
+    "Panama Canal ownership",
+    "President negotiate Panama",
+    "Panama Canal talks",
+    "America own Panama Canal again",
+    "Panama Canal purchase",
+    "US Panama Canal deal"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Panama Canal Repurchase Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-authorization-to-negotiate",
+      "title": "Section 2 Authorization to Negotiate",
+      "text": "The President is allowed to start talks with Panama about buying back the Panama Canal. The President must work with the Secretary of State (the person who handles relationships with other countries) when having these talks with Panama's government officials. Within one hundred eighty days after this law is passed, the President must send a report to Congress. This report must explain how the talks are going, what problems might come up, and what the President thinks might happen.",
+      "word_offset": 14,
+      "char_offset": 78
+    }
+  ]
+}

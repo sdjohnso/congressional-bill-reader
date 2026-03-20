@@ -1,0 +1,56 @@
+{
+  "bill_id": "119-s-181",
+  "title": "A bill to require agencies submit zero-based budgets.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "S.181",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "b2637c2b9a1ed6a1",
+  "last_updated": "2026-03-20T15:58:04.039967+00:00",
+  "plain_summary": "This bill requires all federal government agencies to create special budgets called zero-based budgets every six years. When making these budgets, agencies must look at all their programs from the beginning and decide which ones are most important. They also have to suggest ways to spend at least two percent less money than they did the year before. The Department of Defense and the National Nuclear Security Administration do not have to follow the rule about cutting spending.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Appropriations",
+    "Budget deficits and national debt",
+    "Budget process",
+    "Congressional oversight",
+    "Executive agency funding and structure"
+  ],
+  "sponsor_name": "Sen. Risch, James E. [R-ID]",
+  "sponsor_party": "R",
+  "sponsor_state": "ID",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "zero based budget",
+    "government spending cuts",
+    "federal agency budgets",
+    "reduce government spending",
+    "budget reform",
+    "government waste reduction",
+    "federal budget process",
+    "agency spending review",
+    "government efficiency",
+    "cut federal expenses"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-zero-based-budgets",
+      "title": "Section 1  Zero-Based Budgets",
+      "text": "This section explains what zero-based budgets are and requires government agencies to create them. An agency means any department or office in the federal government. A zero-based budget is a way of planning how to spend money where managers must look at their current goals, how they operate, and what things cost. They must also think about different ways to run their programs and rank their programs by how important they are to their organization. Every six years, each agency must give a zero-based budget to the Director of the Office of Management and Budget and to the Budget Committees in both the Senate and House of Representatives. This budget must cover the next year and the four years after that. Each agency, except the Department of Defense and the National Nuclear Security Administration, must also give recommendations about which programs Congress should cut or reduce funding for. These cuts must equal at least a two percent reduction from the money they got the year before for discretionary spending, which is money Congress can choose how to spend each year.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

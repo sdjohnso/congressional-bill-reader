@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hr-338",
+  "title": "Every Drop Counts Act",
+  "short_title": "Every Drop Counts Act",
+  "congress": 119,
+  "bill_number": "HR.338",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Water, Wildlife and Fisheries.",
+  "version_hash": "4770c8c9e4e16825",
+  "last_updated": "2026-03-20T13:12:20.937653+00:00",
+  "plain_summary": "The Every Drop Counts Act makes changes to a government program that gives money to water storage projects in western states. The law allows more types of water projects to get funding, including projects that store water underground or move water to and from underground storage areas. These projects must be able to store between 200 and 150,000 acre-feet of water each year. The law also extends the grant program for five more years so it will run for ten years total instead of five years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-11-12",
+  "last_action_date": "2025-11-19",
+  "last_action_text": "Subcommittee Hearings Held",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Water Resources Development",
+  "subjects": [
+    "Water resources funding",
+    "Water storage"
+  ],
+  "sponsor_name": "Rep. Costa, Jim [D-CA-21]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "water storage",
+    "underground water",
+    "western states water",
+    "water projects funding",
+    "government water grants",
+    "drought relief",
+    "water conservation",
+    "reservoir funding",
+    "aquifer storage",
+    "water infrastructure",
+    "western drought",
+    "water supply"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Every Drop Counts Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-eligible-water-storage-projects",
+      "title": "Section 2  Eligible Water Storage Projects",
+      "text": "This section changes the rules about which water storage projects can get government grants. Under the new rules, two types of projects can get money. First, projects that can store between two hundred and thirty thousand acre-feet of water. An acre-foot is the amount of water that covers one acre of land to a depth of one foot. These projects must either increase how much surface water or groundwater can be stored, or move water to or from storage areas. Second, projects that can store or recharge between two hundred and one hundred fifty thousand acre-feet of water per year on average over the life of the project. These projects must increase groundwater storage in underground water sources called aquifers, move water to or from underground storage, or keep groundwater levels steady. This section also changes how long the government can give out these grants from five years to ten years.",
+      "word_offset": 10,
+      "char_offset": 50
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-statutory-construction",
+      "title": "Section 3  Statutory Construction",
+      "text": "The changes made by this law do not override or conflict with existing water laws. This includes state laws about water, federal water laws, agreements between states, or treaty obligations with other countries. This law does not give the federal government permission to buy water. It also does not take away or interfere with anyone's existing water rights.",
+      "word_offset": 161,
+      "char_offset": 953
+    }
+  ]
+}

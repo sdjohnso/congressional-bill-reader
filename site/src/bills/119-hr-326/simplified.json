@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-326",
+  "title": "Border Wall Waste Accountability Act",
+  "short_title": "Border Wall Waste Accountability Act",
+  "congress": 119,
+  "bill_number": "HR.326",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Oversight, Investigations, and Accountability.",
+  "version_hash": "e543023132ae9f26",
+  "last_updated": "2026-03-20T13:32:54.152738+00:00",
+  "plain_summary": "This bill tells a government office called the Government Accountability Office to find out how much money was wasted on border wall materials. They need to look at construction materials that were bought but never used to build the wall between the US and Mexico. The study should cover the time period from January 2021 to January 2025. The office has to finish their report and give it to Congress within 90 days after this bill becomes a law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the Subcommittee on Oversight, Investigations, and Accountability.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Congressional oversight",
+    "Government studies and investigations"
+  ],
+  "sponsor_name": "Rep. Van Duyne, Beth [R-TX-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border wall money",
+    "wasted border materials",
+    "unused wall supplies",
+    "Mexico border construction",
+    "government waste report",
+    "border wall spending",
+    "leftover building materials",
+    "wall construction waste",
+    "border security money",
+    "unused wall materials",
+    "government accountability study",
+    "border wall audit"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Border Wall Waste Accountability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-gao-study-on-cost-of-unused-construction-materials-for-border-wall",
+      "title": "Section 2  GAO Study on Cost of Unused Construction Materials for Border Wall",
+      "text": "Within ninety days after this law is passed, the Comptroller General of the United States (the head of the Government Accountability Office, which is the group that checks how the government spends money) must give Congress a study. This study must show the total cost of all unused construction materials that the government bought to build a border wall along the border between the United States and Mexico. The study must cover the time period from January twentieth, two thousand twenty one, to January twentieth, two thousand twenty five.",
+      "word_offset": 11,
+      "char_offset": 65
+    }
+  ]
+}

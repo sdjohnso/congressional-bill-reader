@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-182",
+  "title": "Default Prevention Act",
+  "short_title": "Default Prevention Act",
+  "congress": 119,
+  "bill_number": "HR.182",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "cbc31449ff9e0535",
+  "last_updated": "2026-03-20T13:43:23.728300+00:00",
+  "plain_summary": "This bill tells the Treasury Secretary what to pay first if the United States runs out of money to pay all its bills. The most important payments are money owed to people who loaned money to the government and Medicare payments. Next come payments for the military and benefits for veterans. After that, other government bills get paid. Congress members and some government workers get paid last.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Budget deficits and national debt",
+    "Congressional oversight",
+    "Disability assistance",
+    "Government trust funds",
+    "Social security and elderly assistance"
+  ],
+  "sponsor_name": "Rep. McClintock, Tom [R-CA-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government debt ceiling",
+    "treasury payments priority",
+    "what gets paid first government shutdown",
+    "medicare payments protected",
+    "military pay during debt crisis",
+    "veterans benefits priority",
+    "congress pay cut",
+    "government running out of money",
+    "debt default prevention",
+    "treasury secretary payment order",
+    "government bills priority list",
+    "federal spending when broke"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Default Prevention Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-payment-of-obligations",
+      "title": "Section 2  Payment of Obligations",
+      "text": "When the United States has borrowed as much money as the law allows, the Secretary of the Treasury must follow these rules. The Secretary must first pay Tier One obligations (the most important payments) when they are due. The Secretary can create new government bonds or other debt instruments to make these Tier One payments or to put money into certain trust funds. The Secretary can only pay Tier Three obligations if there is still enough money to pay all Tier Two obligations when they become due. The Secretary can only pay Tier Four obligations if there is still enough money to pay all Tier Two and Tier Three obligations when they become due. The Secretary can only pay Tier Five obligations if there is still enough money to pay all Tier Two, Tier Three, and Tier Four obligations when they become due. The Secretary must send a written report every week to the House Ways and Means Committee and the Senate Finance Committee with the information described later in this section. Tier One obligations include paying back money and interest on government debt held by the public or by Social Security, Medicare, and disability trust funds, and payments for Medicare benefits. Tier Two obligations include any payments the Department of Defense owes and benefits for veterans. Tier Three obligations include any government payments that are not in the other four tiers. Tier Four obligations include pay for federal employees who do union work during official time, travel expenses for executive branch employees including the President and Vice President unless these are Tier One or Two payments, and salaries for executive branch employees who are not in the competitive service including the President and Vice President unless these are Tier One or Two payments. Tier Five obligations include salaries for members of Congress. New government bonds created under this section do not count toward the debt limit. However, they will count toward the debt limit again after the first date when Congress changes or suspends the debt limit. The weekly reports must include how much was paid in Tier One obligations during that week, how much in new government bonds was created during that week, and how much was paid in each of the other tiers during that week and how much in each tier was owed but not paid at the end of that week. During times when this section does not apply, nothing in this law limits the Secretary's existing power to decide which payments to make first.",
+      "word_offset": 9,
+      "char_offset": 51
+    }
+  ]
+}

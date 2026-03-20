@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-710",
+  "title": "Regulation Decimation Act",
+  "short_title": "Regulation Decimation Act",
+  "congress": 119,
+  "bill_number": "HR.710",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a p",
+  "version_hash": "0f72a34cb77b4454",
+  "last_updated": "2026-03-20T14:02:21.482906+00:00",
+  "plain_summary": "This bill requires government agencies to get rid of ten old rules before they can make any new rule that costs money or creates requirements for people, businesses, or local governments. If the new rule would cost more than 100 million dollars per year, the agency must make sure the ten old rules they remove cost at least as much as the new rule. The bill does not apply to rules about how agencies run themselves, government purchasing, or rules that are being changed to make them easier to follow. All agencies must also write reports to Congress listing their rules and saying which ones are too expensive, don't work well, repeat other rules, or are too old.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for considerati",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Congressional oversight",
+    "Government information and archives"
+  ],
+  "sponsor_name": "Rep. Taylor, David [R-OH-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 12,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "remove old regulations",
+    "cut government rules",
+    "eliminate federal regulations",
+    "reduce business requirements",
+    "get rid of government red tape",
+    "delete outdated rules",
+    "slash federal bureaucracy",
+    "remove costly regulations",
+    "cut regulatory burden",
+    "eliminate unnecessary rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Regulation Decimation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-regulations-required-before-issuance-of-a-new-rule",
+      "title": "Section 2 Repeal of Regulations Required Before Issuance of a New Rule",
+      "text": "Before a government agency can create any new rule, it must first get rid of ten old rules that are similar to the new one if possible. If the agency wants to create a major rule, which is a rule that costs a lot of money, it must also make sure the new rule costs the same amount or less than the ten old rules it removes. A special office called the Office of Information and Regulatory Affairs must check and confirm that the costs match up properly. When an agency removes old rules, it must announce this removal in the Federal Register, which is the government's official daily publication. This requirement only applies to rules that create costs or duties for private people, businesses, or state and local governments. It does not apply to rules about how agencies run themselves or buy things, or to rules that are being changed to make them less burdensome. Within ninety days after this law starts, each agency head must send a report to Congress and the Office of Management and Budget. This report must review all of the agency's rules and identify which ones are expensive, don't work well, repeat other rules, or are old and no longer useful. Within five years after this law starts, the President must send Congress a report about how many rules exist and how the number of rules has changed over those five years. In this section, agency means what it means in section five hundred fifty one of title five of the United States Code. Major rule means what it means in section eight hundred four of title five of the United States Code. Rule means what it means in section five hundred fifty one of title five of the United States Code. State means any of the fifty states, the District of Columbia, any territory or area owned by the United States, and any federally recognized Indian Tribe.",
+      "word_offset": 9,
+      "char_offset": 54
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hres-8",
+  "title": "Reaffirming the House of Representatives's commitment to ensuring secure elections throughout the United States by recognizing that the presentation of valid photograph identification is a fundamental component of secure elections.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.8",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on House Administration.",
+  "version_hash": "8e0454cdb81b8385",
+  "last_updated": "2026-03-20T14:41:22.474632+00:00",
+  "plain_summary": "This House resolution says that the House of Representatives wants to make sure elections in the United States are safe and secure. The resolution states that requiring voters to show a valid photo ID is a basic and important part of keeping elections secure. It compares voting to other everyday activities that already require people to show photo identification. The House is making it clear that they believe photo ID requirements are necessary for protecting elections across the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Elections, voting, political campaign regulation"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "voter ID",
+    "photo ID voting",
+    "election security",
+    "voter identification requirements",
+    "secure elections",
+    "voting photo ID",
+    "election integrity",
+    "voter ID laws",
+    "picture ID voting",
+    "voting identification",
+    "election safety",
+    "voter photo identification"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution reaffirms the House of Representatives's commitment to ensuring secure elections throughout the United States by recognizing that the presentation of valid photograph identification is a fundamental component of secure elections.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Reasons for This Resolution",
+      "text": "The House states several reasons for this resolution. Elections allow United States citizens to choose people who will speak for them in our constitutional republic (a government where people elect representatives). Free and fair elections are vital to Americans' trust in government. Countries that hold elections without basic security measures eventually lose the support of their people and damage faith in elections and the rule of law. Voting by mail and absentee voting systems that do not verify photos are less secure than voting in person with photo verification. United States citizens must show valid photo identification to prove who they are for many government services, including applications for food stamps, welfare, Social Security, and Medicaid. Citizens must also show photo identification for many private activities, including opening a bank account, renting or buying a house, applying for a mortgage, buying or renting a car, boarding an airplane, getting married, purchasing firearms, buying a cell phone, applying for fishing and hunting licenses, picking up prescription medication, and many other activities. United States citizens have no greater right than the right to vote, and they understand that protecting the security of voting and elections is crucial for maintaining our Republic and way of life.",
+      "word_offset": 32,
+      "char_offset": 246
+    },
+    {
+      "id": "s3",
+      "slug": "resolution-text",
+      "title": "What the House Resolves",
+      "text": "The House of Representatives reaffirms and repeats its commitment to ensuring secure elections throughout the United States. The House also recognizes that showing valid photograph identification is a fundamental part of secure elections throughout the United States.",
+      "word_offset": 235,
+      "char_offset": 1583
+    }
+  ]
+}

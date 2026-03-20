@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-273",
+  "title": "REMAIN in Mexico Act of 2025",
+  "short_title": "REMAIN in Mexico Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.273",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "3ead2dcf365d60a8",
+  "last_updated": "2026-03-20T12:48:43.523178+00:00",
+  "plain_summary": "This bill requires the Department of Homeland Security to bring back a policy called the Migrant Protection Protocols. Under this policy, people who come to the US-Mexico border seeking asylum or protection must wait in Mexico while their immigration cases go through the courts. The policy follows rules that were written in a 2019 memo. This means asylum seekers cannot stay in the United States while they wait for their court hearings.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Gill, Brandon [R-TX-26]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 109,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "asylum seekers",
+    "mexico border policy",
+    "immigration waiting",
+    "border protection",
+    "migrant protocols",
+    "asylum court cases",
+    "wait in mexico",
+    "border security",
+    "immigration policy",
+    "asylum process"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Return Excessive Migrants and Asylees to International Neighbors in Mexico Act of two thousand twenty five or the REMAIN in Mexico Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-migrant-protection-protocols",
+      "title": "Section 2 Migrant Protection Protocols",
+      "text": "The Secretary of Homeland Security must put into place the Migrant Protection Protocols (a policy that requires certain asylum seekers to wait in Mexico while their cases are processed). This requirement overrides any other law that might conflict with it. The Secretary must follow the rules written in a memo from Secretary Nielsen called Policy Guidance for Implementation of the Migrant Protection Protocols that was written on January twenty fifth, two thousand nineteen.",
+      "word_offset": 33,
+      "char_offset": 191
+    }
+  ]
+}

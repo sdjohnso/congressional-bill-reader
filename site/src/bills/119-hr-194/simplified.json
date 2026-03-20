@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-194",
+  "title": "Venue Named Under Exception Act",
+  "short_title": "Venue Named Under Exception Act",
+  "congress": 119,
+  "bill_number": "HR.194",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "5e38059cc7e985a8",
+  "last_updated": "2026-03-20T13:01:36.238121+00:00",
+  "plain_summary": "This bill changes the rules about where criminal cases are tried when crimes happen on federal property around Washington DC. Right now, these cases are automatically tried in Washington DC courts. Under this new law, defendants can have their cases moved to courts in the area where they live instead. If the court does not know where the defendant lives, then the case will still be tried in Washington DC. This gives defendants more choice about where their criminal trial takes place.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "District of Columbia",
+    "Federal district courts",
+    "Jurisdiction and venue",
+    "Maryland",
+    "Virginia"
+  ],
+  "sponsor_name": "Rep. Self, Keith [R-TX-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "criminal trial location",
+    "where crimes are tried",
+    "federal property crimes",
+    "Washington DC courts",
+    "defendant choice of court",
+    "trial venue change",
+    "federal building crimes",
+    "court location rules",
+    "criminal case location",
+    "government property crimes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Venue Named Under Exception Act or the VENUE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-venue-for-certain-offenses",
+      "title": "Section 2 Venue for Certain Offenses",
+      "text": "This section adds new rules to federal law about where certain criminal cases can be tried. When someone commits a crime in the National Capital Region on federal government property, the case can be filed in the court district where the person lives. If nobody knows where the person lives, the case can be filed in Washington DC instead. However, the defendant has the right to ask the court to move their case to the court district where they live. If there are multiple defendants who want to move the case, the court will only grant the request from whoever asked first. People who do not live in the United States cannot ask to move their case. The National Capital Region includes Washington DC, Montgomery County and Prince Georges County in Maryland, Arlington County, Fairfax County, Loudoun County, Prince William County, and the cities of Alexandria and Falls Church in Virginia, plus all cities and government areas within these places. Federal government property means land or buildings that the United States owns or rents, but does not include post offices. These rules apply to any case where a trial has not been scheduled yet when this law takes effect. These rules only apply to crimes that are not already covered by other specific federal venue laws.",
+      "word_offset": 15,
+      "char_offset": 77
+    }
+  ]
+}

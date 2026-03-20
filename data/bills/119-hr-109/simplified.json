@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-109",
+  "title": "TEAM Veteran Caregivers Act",
+  "short_title": "TEAM Veteran Caregivers Act",
+  "congress": 119,
+  "bill_number": "HR.109",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Health.",
+  "version_hash": "778b1481285eab71",
+  "last_updated": "2026-03-20T16:03:54.999754+00:00",
+  "plain_summary": "This bill makes changes to how the Department of Veterans Affairs handles caregiver programs for veterans. It requires the VA to put the names of all veteran caregivers in the veteran's health records so they are officially recognized. The VA must also send clear letters to veterans and caregivers explaining any decisions about their benefits, like if benefits are reduced or ended. When veterans lose eligibility for comprehensive caregiver benefits, they can keep getting those benefits for at least 90 more days, unless there are special reasons like fraud or the caregiver moving away.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-12-19",
+  "last_action_date": "2025-12-19",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Family services",
+    "Health care coverage and access",
+    "Health information and medical records",
+    "Military personnel and dependents",
+    "Veterans' medical care"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veteran caregiver benefits",
+    "VA caregiver program",
+    "veteran family support",
+    "caregiver assistance",
+    "veteran health records",
+    "VA benefits for caregivers",
+    "veteran caregiver eligibility",
+    "caregiver program changes",
+    "veteran family caregivers",
+    "VA caregiver support",
+    "veteran disability caregivers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Transparency and Effective Accountability Measures for Veteran Caregivers Act or the TEAM Veteran Caregivers Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modification-of-administration-of-caregiver-program",
+      "title": "Section 2  Modification of Administration of Caregiver Program of Department of Veterans Affairs",
+      "text": "The Secretary of Veterans Affairs must officially recognize all people who take care of veterans. The Secretary must put the names of these caregivers in the health records of the veterans they help. This includes family caregivers who get full help through the comprehensive assistance program and other caregivers who get support services.\n\nThe Secretary must send standardized letters to veterans and their caregivers about any medical decisions that affect their caregiver benefits. These decisions include approving or denying claims, reducing benefits, or ending benefits. The letters must include the same information that other Veterans Affairs decision notices include when those requirements make sense.\n\nWhen the Secretary decides that a veteran no longer qualifies for the comprehensive family caregiver program, the veteran and their family caregiver can keep getting benefits for at least ninety days after they receive the notice. This includes the monthly payments that caregivers receive. However, this ninety day extension does not apply in certain situations. The extension does not apply if the caregiver committed fraud or abused or neglected the veteran. It does not apply if a new primary caregiver is chosen within ninety days, because then the old caregiver loses benefits the day before the new one starts. It does not apply if another family caregiver is added within ninety days and there would be three total caregivers, because then the terminated caregiver loses benefits the day before the new one starts. It does not apply if the caregiver was living with the veteran but moves out, or if the caregiver abandons their relationship with the veteran. It also does not apply if the caregiver or veteran asks to end the benefits.",
+      "word_offset": 21,
+      "char_offset": 141
+    }
+  ]
+}

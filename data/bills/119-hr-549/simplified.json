@@ -1,0 +1,50 @@
+{
+  "bill_id": "119-hr-549",
+  "title": "To amend the Internal Revenue Code of 1986 to repeal the clean fuel production credit.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.549",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "38e3f9882f97a8cc",
+  "last_updated": "2026-03-20T13:47:15.209880+00:00",
+  "plain_summary": "This bill gets rid of a tax credit that businesses can use when they make clean fuels for cars and trucks. Right now, companies that make these cleaner fuels can get money back on their taxes from 2025 to 2027. If this bill passes, those companies will no longer get that tax break starting in 2025. This means it might cost more for businesses to make clean fuels without the government help.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Van Duyne, Beth [R-TX-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "clean fuel tax credit",
+    "business tax breaks",
+    "fuel company subsidies",
+    "green fuel incentives",
+    "alternative fuel credits",
+    "clean energy tax benefits",
+    "fuel production subsidies",
+    "eco-friendly fuel tax relief",
+    "renewable fuel credits",
+    "government fuel incentives"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-repeal-of-clean-fuel-production-credit",
+      "title": "Section 1  Repeal of Clean Fuel Production Credit",
+      "text": "This section removes the clean fuel production credit from the tax code. The clean fuel production credit is a tax benefit that helps companies that make clean fuels pay less in taxes. Part A of the tax code is changed by deleting section 45Z completely. This section is also removed from the table of contents. These changes will start affecting tax years that begin after December thirty-first, two thousand twenty-four.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

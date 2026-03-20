@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-703",
+  "title": "Main Street Tax Certainty Act",
+  "short_title": "Main Street Tax Certainty Act",
+  "congress": 119,
+  "bill_number": "HR.703",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "cda955d63924548f",
+  "last_updated": "2026-03-20T15:36:04.438376+00:00",
+  "plain_summary": "This bill makes a tax break for business owners permanent. Right now, certain business owners can reduce their taxes by up to 20 percent of their business income, but this tax break is set to end after 2025. The bill removes the expiration date so business owners can keep using this tax deduction forever. The change would start for tax years beginning after December 31, 2025.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Smucker, Lloyd [R-PA-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 192,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "business tax break",
+    "small business tax deduction",
+    "20 percent tax reduction",
+    "business owner tax relief",
+    "permanent tax cut",
+    "business income deduction",
+    "small business taxes",
+    "tax break extension",
+    "business tax savings",
+    "entrepreneur tax benefit"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Main Street Tax Certainty Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-deduction-for-qualified-business-income-made-permanent",
+      "title": "Section 2  Deduction for Qualified Business Income Made Permanent",
+      "text": "This section changes the tax code to make a business tax deduction permanent. Right now, there is a tax rule that lets certain business owners deduct up to twenty percent of their business income from their taxes. This deduction was supposed to end after a certain date. This bill removes the part of the tax code that would make the deduction expire. The change will start for tax years that begin after December thirty-first, two thousand twenty-five.",
+      "word_offset": 11,
+      "char_offset": 58
+    }
+  ]
+}

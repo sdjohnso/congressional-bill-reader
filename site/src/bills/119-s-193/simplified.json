@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-193",
+  "title": "Neighbors Not Enemies Act",
+  "short_title": "Neighbors Not Enemies Act",
+  "congress": 119,
+  "bill_number": "S.193",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "494d236a0d0cc85b",
+  "last_updated": "2026-03-20T13:56:24.645710+00:00",
+  "plain_summary": "The Neighbors Not Enemies Act removes an old law called the Alien Enemies Act from U.S. law books. This old law allowed the President to arrest and kick out people from other countries if the United States was at war with their home country or if their country threatened to invade America. The bill gets rid of four parts of this old law. By removing this law, the government would no longer have these special powers to remove foreign citizens during wartime.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Hirono, Mazie K. [D-HI]",
+  "sponsor_party": "D",
+  "sponsor_state": "HI",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "wartime deportation",
+    "foreign citizens rights",
+    "presidential powers wartime",
+    "alien enemies law",
+    "immigrant deportation wartime",
+    "removing foreigners during war",
+    "war powers immigration",
+    "deporting people from enemy countries",
+    "presidential authority immigrants",
+    "foreign nationals wartime",
+    "immigration emergency powers",
+    "kicking out foreigners war"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Neighbors Not Enemies Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-alien-enemies-act",
+      "title": "Section 2  Repeal of Alien Enemies Act",
+      "text": "Sections four thousand sixty seven through four thousand seventy of the Revised Statutes of the United States are removed from the law books. These sections are found in Title fifty, sections twenty one through twenty four of the United States Code.",
+      "word_offset": 10,
+      "char_offset": 54
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-543",
+  "title": "Iron Pipeline Review Act",
+  "short_title": "Iron Pipeline Review Act",
+  "congress": 119,
+  "bill_number": "HR.543",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "9a843f975aaa500f",
+  "last_updated": "2026-03-20T11:22:15.707232+00:00",
+  "plain_summary": "This bill makes a government agency called the Bureau of Alcohol, Tobacco, Firearms, and Explosives write a report every year about illegal gun trafficking. The report must focus on guns that are illegally moved along Interstate 95, which is a major highway on the East Coast. The agency has to study how guns are being trafficked, check how well current efforts to stop it are working, and suggest ways to make things better. They also need to give ideas for new laws that could help stop illegal gun trafficking.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Congressional oversight",
+    "Firearms and explosives",
+    "Intergovernmental relations",
+    "Roads and highways",
+    "Smuggling and trafficking",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Torres, Ritchie [D-NY-15]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "illegal gun trafficking",
+    "gun smuggling",
+    "Interstate 95",
+    "East Coast gun violence",
+    "ATF report",
+    "gun running",
+    "firearms trafficking",
+    "gun crime prevention",
+    "highway gun smuggling",
+    "gun control enforcement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Iron Pipeline Review Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-bureau-of-alcohol-tobacco-firearms-and-explosives-report-on-firearms-trafficking-along-the-i-95-corridor",
+      "title": "Section 2  Bureau of Alcohol, Tobacco, Firearms, and Explosives Report on Firearms Trafficking Along the I-95 Corridor",
+      "text": "Starting no more than one year after this law is passed, and then every year after that, the head of the Bureau of Alcohol, Tobacco, Firearms, and Explosives must create a report about illegal gun trafficking along Interstate 95. The bureau head must work with state and local police departments and other groups as needed to make this report. The report must be sent to the House and Senate Judiciary Committees. The report must include several things. First, it must analyze how many guns are illegally moved along Interstate 95. This analysis must list guns by which state they came from and include the brand and type of each gun. It must study how well current efforts to stop gun trafficking are working. It must look at specific local, state, and federal laws that affect how many guns are trafficked. It must describe any actions taken because of this analysis. Second, the report must give recommendations to federal, state, and local police on how to better stop gun trafficking. Third, the report must suggest new laws and funding that might be needed to better fight gun trafficking.",
+      "word_offset": 10,
+      "char_offset": 53
+    }
+  ]
+}

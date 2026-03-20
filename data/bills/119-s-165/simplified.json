@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-s-165",
+  "title": "Stopping Overdoses of Fentanyl Analogues Act",
+  "short_title": "Stopping Overdoses of Fentanyl Analogues Act",
+  "congress": 119,
+  "bill_number": "S.165",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "7c1e5b17d1e964e8",
+  "last_updated": "2026-03-20T10:52:06.472092+00:00",
+  "plain_summary": "This bill makes all fentanyl-related drugs permanently illegal under federal law. Fentanyl-related drugs are chemicals that are similar to fentanyl, which is a very dangerous drug that causes many overdoses. Right now, these drugs are only temporarily banned until March 2025, but this bill would make the ban permanent. The bill puts these drugs in Schedule I, which means they have a high risk of abuse and no accepted medical use, making them completely illegal to make, sell, or use.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Criminal procedure and sentencing",
+    "Drug trafficking and controlled substances"
+  ],
+  "sponsor_name": "Sen. Johnson, Ron [R-WI]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "fentanyl ban",
+    "fentanyl analogues",
+    "drug overdose prevention",
+    "synthetic drugs",
+    "fentanyl-related substances",
+    "permanent drug ban",
+    "illegal drugs",
+    "opioid crisis",
+    "fentanyl chemicals",
+    "drug trafficking",
+    "overdose deaths",
+    "synthetic opioids"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Stopping Overdoses of Fentanyl Analogues Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-fentanyl-related-substances",
+      "title": "Section 2 Fentanyl-Related Substances",
+      "text": "This section changes the Controlled Substances Act to add fentanyl-related substances to Schedule I. Schedule I means these drugs are illegal to make, sell, or possess because they have a high risk of abuse and no accepted medical use. Any material, mixture, or preparation that contains any amount of fentanyl-related substances will be treated as a Schedule I controlled substance. This includes all the different chemical forms these substances can take, such as their isomers (different arrangements of the same atoms), esters, ethers, and salts. Fentanyl-related substances are any drugs that have a chemical structure similar to fentanyl but with certain changes. These changes include replacing parts of the fentanyl molecule with different chemical groups, adding new chemical groups to different parts of the molecule, or substituting one part of the molecule with a different but similar part. This law takes effect one day after it is signed into law.",
+      "word_offset": 12,
+      "char_offset": 73
+    }
+  ]
+}

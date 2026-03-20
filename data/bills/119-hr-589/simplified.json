@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-589",
+  "title": "FACE Act Repeal Act of 2025",
+  "short_title": "FACE Act Repeal Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.589",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 13 - 10.",
+  "version_hash": "122ae200ea6ec441",
+  "last_updated": "2026-03-20T10:57:33.150342+00:00",
+  "plain_summary": "This bill removes a federal law that makes it a crime to block, threaten, or hurt people who are trying to get healthcare services or attend religious worship. The current law protects people going to places like abortion clinics and churches from being intimidated or harmed. If this bill passes, the federal government would no longer have this specific law to prosecute people who interfere with others seeking these services. The repeal would also apply to any court cases that are currently happening or might happen in the future under this law.",
+  "current_status": "committee_reported",
+  "status_date": "2025-06-10",
+  "last_action_date": "2025-06-10",
+  "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 13 - 10.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Assault and harassment offenses",
+    "Civil actions and liability",
+    "Crimes against property",
+    "Criminal investigation, prosecution, interrogation",
+    "Criminal procedure and sentencing",
+    "Family planning and birth control",
+    "Health facilities and institutions",
+    "Religion",
+    "Sex and reproductive health",
+    "Women's health"
+  ],
+  "sponsor_name": "Rep. Roy, Chip [R-TX-21]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 42,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "abortion clinic protection",
+    "church safety laws",
+    "healthcare access blocking",
+    "religious worship interference",
+    "clinic protesters",
+    "intimidation at medical facilities",
+    "threatening people at churches",
+    "blocking healthcare services",
+    "reproductive health clinic safety",
+    "religious freedom protection",
+    "medical facility harassment"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the FACE Act Repeal Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-prohibitions-relating-to-freedom-of-access-to-clinic-entrances",
+      "title": "Section 2  Repeal of Prohibitions Relating to Freedom of Access to Clinic Entrances",
+      "text": "This section removes a law from the federal criminal code. The law being removed is Section two hundred forty eight of title eighteen of the United States Code. This section also removes the reference to Section two hundred forty eight from the table of contents in chapter thirteen of title eighteen of the United States Code. The removal of this law will apply to any criminal cases that are still ongoing in court or that start on or after the day this new law takes effect.",
+      "word_offset": 15,
+      "char_offset": 76
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-s-134",
+  "title": "Saving the Civil Service Act",
+  "short_title": "Saving the Civil Service Act",
+  "congress": 119,
+  "bill_number": "S.134",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "1eee8fb9c0614f5f",
+  "last_updated": "2026-03-20T13:51:55.330961+00:00",
+  "plain_summary": "This bill stops the federal government from moving workers out of the competitive hiring system without good reasons. Federal workers in the competitive system have to take tests and meet requirements to get their jobs, and they also have more protection from being fired unfairly. The bill says agencies cannot move workers to different job categories without the worker agreeing to it first. It also limits how many workers can be moved each time there is a new president. The goal is to protect federal workers from losing their job protections when new presidents take office.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Federal officials",
+    "Government employee pay, benefits, personnel management"
+  ],
+  "sponsor_name": "Sen. Kaine, Tim [D-VA]",
+  "sponsor_party": "D",
+  "sponsor_state": "VA",
+  "cosponsor_count": 24,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal workers protection",
+    "government employees job security",
+    "civil service jobs",
+    "federal hiring system",
+    "government worker rights",
+    "presidential administration changes",
+    "federal employment protection",
+    "government job categories",
+    "civil service reform",
+    "federal worker firing protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Saving the Civil Service Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitations-on-excepting-positions-from-competitive-service-and-transferring-positions",
+      "title": "Section 2 Limitations on Excepting Positions from Competitive Service and Transferring Positions",
+      "text": "This section defines important terms and sets rules for government jobs. The word agency means any department or office that is part of the federal government. Competitive service means government jobs where people must take tests or meet specific requirements to get hired. The Director means the head of the Office of Personnel Management, which manages federal workers. Excepted service means government jobs that do not require the usual testing and hiring rules.\n\nThe law sets strict limits on moving jobs out of the competitive service system. A job can only be moved out of competitive service if it fits into specific categories called schedules A through E. These categories must follow the rules that were in place on September thirtieth, two thousand and twenty.\n\nThere are also rules about moving jobs between different categories within the excepted service. Jobs in excepted service can only be moved to the specific schedules mentioned above. If an agency wants to move any filled job into schedule C, which includes political appointments, they must get permission from the Director first.\n\nDuring each four year presidential term, agencies can only move a limited number of people from competitive service jobs to excepted service jobs. They cannot move more than one percent of their total workers or more than five workers, whichever number is larger.\n\nWorkers must give written permission before their jobs can be moved. If someone works in an excepted service job, they must agree in writing before being moved to a different type of excepted service schedule. If someone works in a competitive service job, they must agree in writing before being moved to excepted service.\n\nThis law applies to all federal positions, including jobs at the Department of Veterans Affairs that usually have different rules. Every year by March fifteenth, the Director must send Congress a report. This report must list every job that was moved from competitive service to excepted service during the previous year and explain why each move happened. The report must also list any violations of this law.\n\nThe Director has ninety days after this law is passed to create detailed rules for how to follow these requirements.",
+      "word_offset": 11,
+      "char_offset": 57
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hres-46",
+  "title": "Amending the Rules of the House of Representatives to exclude employees of the offices of Members who serve on certain committees of the House from the allotment of the number of employees of the office who may hold security clearances processed by the Office of House Security if such employees are members of the armed forces who hold a security clearance issued by the Department of Defense, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.46",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Rules.",
+  "version_hash": "044d60997db7de66",
+  "last_updated": "2026-03-20T11:47:49.591504+00:00",
+  "plain_summary": "This bill changes the rules for how many House staff members can have security clearances. Right now, each House member's office can only have a certain number of employees with security clearances. Under this new rule, military members who work for House offices and already have security clearances from the Defense Department would not count toward that limit. This special rule only applies to offices of House members who serve on committees that deal with defense, security, foreign affairs, or intelligence issues.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Rules.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "Congressional officers and employees",
+    "House Committee on Appropriations",
+    "House Committee on Armed Services",
+    "House Committee on Foreign Affairs",
+    "House Committee on Homeland Security",
+    "House Permanent Select Committee on Intelligence",
+    "House of Representatives",
+    "Intelligence activities, surveillance, classified information",
+    "Legislative rules and procedure",
+    "Military personnel and dependents"
+  ],
+  "sponsor_name": "Rep. Mills, Cory [R-FL-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "house staff security clearances",
+    "congressional employee background checks",
+    "military personnel congress jobs",
+    "defense committee staff rules",
+    "house office security limits",
+    "armed forces congressional workers",
+    "intelligence committee employees",
+    "pentagon clearance house staff",
+    "congress security clearance rules",
+    "military house office workers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-exemption-of-certain-house-employees",
+      "title": "Section 1  Exemption of Certain House Employees Who Are Members of Armed Forces From Allotment of Number of Employees of Member Office Who May Hold Security Clearances Processed by the Office of House Security",
+      "text": "This section changes the rules for how House of Representatives offices count their employees who can have security clearances. The change applies when a House member serves on certain important committees that deal with defense, homeland security, foreign affairs, or intelligence matters. If that House member's office has an employee who is also serving in the military and already has a security clearance from the Department of Defense, that employee does not count toward the office's limit on how many employees can have security clearances processed by the House Security Office. However, the military employee's security clearance level cannot be higher than either the clearance they already have from the Department of Defense or the highest level that the House office is allowed to sponsor for its employees. This rule applies to House members who serve on these specific committees and subcommittees: the Defense Appropriations Subcommittee, the Homeland Security Appropriations Subcommittee, the State and Foreign Operations Appropriations Subcommittee, the Armed Services Committee, the Foreign Affairs Committee, the Homeland Security Committee, and the Intelligence Committee.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

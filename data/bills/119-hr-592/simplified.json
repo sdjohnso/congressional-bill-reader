@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-592",
+  "title": "Protecting School Milk Choices Act of 2025",
+  "short_title": "Protecting School Milk Choices Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.592",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "1adf4b448e49d7d3",
+  "last_updated": "2026-03-20T12:54:01.203862+00:00",
+  "plain_summary": "This bill changes the rules for milk served in school lunch programs. Right now, schools can choose to offer both flavored milk like chocolate milk and plain milk to students. Under this new law, schools must offer both flavored and plain milk so students have choices. Schools can still choose to offer lactose-free milk for students who need it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "school lunch milk",
+    "chocolate milk schools",
+    "flavored milk cafeteria",
+    "school milk options",
+    "kids lunch milk choices",
+    "school food program milk",
+    "elementary school milk",
+    "cafeteria milk rules",
+    "student milk requirements",
+    "school nutrition milk",
+    "lunch program beverages"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting School Milk Choices Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-types-of-milk-offered-under-the-school-lunch-program",
+      "title": "Section 2  Types of Milk Offered Under the School Lunch Program",
+      "text": "This section changes the rules about what kinds of milk schools must offer in their lunch programs. The law changes the Richard B. Russell National School Lunch Act. Under the new rules, schools must offer students both flavored milk and plain milk without flavoring. Schools may also choose to offer lactose-free milk to students. Lactose-free milk is milk that has been changed so that people who cannot digest regular milk can drink it without getting sick.",
+      "word_offset": 16,
+      "char_offset": 91
+    }
+  ]
+}

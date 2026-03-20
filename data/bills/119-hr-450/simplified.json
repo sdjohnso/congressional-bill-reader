@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-450",
+  "title": "FORCE Act",
+  "short_title": "FORCE Act",
+  "congress": 119,
+  "bill_number": "HR.450",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Foreign Affairs.",
+  "version_hash": "93acf0a14be9af38",
+  "last_updated": "2026-03-20T14:08:19.535453+00:00",
+  "plain_summary": "The FORCE Act is a law that stops the President from taking Cuba off the list of countries that support terrorism. Cuba must stay on this list until the Cuban government changes completely and is no longer controlled by the Castro family. The bill says Cuba can only be removed from the terrorism list after it meets special rules from a 1996 law about Cuban freedom. This means Cuba will remain on the terrorism sponsor list until there is a new government in power.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Salazar, Maria Elvira [R-FL-27]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 30,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Cuba terrorism list",
+    "Cuba sanctions",
+    "Castro family government",
+    "Cuba regime change",
+    "President Cuba policy",
+    "Cuba state sponsor terrorism",
+    "Cuban government restrictions",
+    "Cuba diplomatic relations",
+    "Cuba freedom law",
+    "Cuban leadership change"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Fighting Oppression until the Reign of Castro Ends Act or the FORCE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-removal",
+      "title": "Section 2 Prohibition on Removal",
+      "text": "The United States keeps a list of countries that sponsor terrorism. Cuba is currently on this list. This section says that no matter what other laws might allow, neither the President nor the Secretary of State can take Cuba off this terrorism sponsor list. Cuba can only be removed from the list after the President makes a specific finding required by section two hundred five of the Cuban Liberty and Democratic Solidarity Act of nineteen ninety six. A state sponsor of terrorism means any country whose government the Secretary of State decides has repeatedly supported international terrorism. This determination can be made under several different laws including the Export Control Reform Act of twenty eighteen, the Foreign Assistance Act of nineteen sixty one, the Arms Export Control Act, or any other applicable law.",
+      "word_offset": 19,
+      "char_offset": 100
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "bill_id": "119-hr-473",
+  "title": "SHOW UP Act of 2025",
+  "short_title": "SHOW UP Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.473",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "72332bd71e02277b",
+  "last_updated": "2026-03-20T15:00:39.658296+00:00",
+  "plain_summary": "The SHOW UP Act of 2025 makes federal government workers go back to the same work-from-home rules they had before the coronavirus pandemic started in 2020. All government agencies have thirty days to change their policies back to what they were on December 31, 2019. If an agency wants to let more employees work from home than before the pandemic, they must get special permission and prove it will help their work and save money. The bill also requires agencies to study how the increase in remote work during the pandemic affected their operations.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Cardiovascular and respiratory health",
+    "Commuting",
+    "Computers and information technology",
+    "Congressional oversight",
+    "Emergency medical services and trauma care",
+    "Government buildings, facilities, and property",
+    "Government employee pay, benefits, personnel management",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Infectious and parasitic diseases",
+    "Performance measurement"
+  ],
+  "sponsor_name": "Rep. Comer, James [R-KY-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 23,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal employees work from home",
+    "government workers remote work",
+    "return to office mandate",
+    "telework policy changes",
+    "federal telework rules",
+    "government remote work restrictions",
+    "pre-pandemic work policies",
+    "federal agencies office requirements",
+    "work from home rollback",
+    "government employee office return"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Stopping Home Office Work's Unproductive Problems Act of two thousand twenty five or the SHOW UP Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reinstatement-of-pre-pandemic-telework-policies",
+      "title": "Section 2 Reinstatement of Pre-Pandemic Telework Policies, Practices, and Levels for Executive Agencies",
+      "text": "Within thirty days after this law is passed, every government agency must go back to using the same work from home rules they had on December thirty first, two thousand nineteen. They cannot allow more people to work from home than they did before the pandemic. Agencies cannot expand their work from home policies until they submit a plan to Congress and get approval from the Director of the Office of Personnel Management under section three.",
+      "word_offset": 28,
+      "char_offset": 157
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-study-plan-and-certification",
+      "title": "Section 3 Study, Plan, and Certification Regarding Executive Agency Telework Policies, Practices, and Levels for Executive Agencies",
+      "text": "Within six months after this law is passed, the head of each government agency must work with the Director of the Office of Personnel Management to send Congress three things. First, they must send a study about how letting more employees work from home during the coronavirus pandemic that started in two thousand nineteen affected their agency and its work. This study must look at any problems caused by more people working from home, including worse customer service. It must examine costs from owning or renting office space that was not being used and from paying workers extra money for their location when they should have been classified differently. The study must check if workers had proper internet, communication tools, secure access to agency information and records, and equipment to do their jobs well. It must also look at how work from home policies spread workers around the country and any other effects the agency thinks are important. Second, they must send any plan the agency has to let more people work from home than the rules in section two allow. Third, they must get a written approval from the Director saying the plan will significantly improve how well the agency does its job and serves customers, help spread agency workers around the nation, and fix any problems mentioned in the study. The approval must also say the plan will greatly reduce costs for office space and extra pay for workers in different locations, and make sure teleworking employees have proper internet, tools, secure access to information, and equipment without greatly increasing overall costs for these things. An agency cannot put its plan into action unless the Director gives written approval. If a plan does not get approved, the agency can keep submitting new plans until one gets approved, then send that approved plan to Congress.",
+      "word_offset": 104,
+      "char_offset": 603
+    }
+  ]
+}

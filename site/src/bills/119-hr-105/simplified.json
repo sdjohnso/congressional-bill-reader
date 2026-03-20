@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-105",
+  "title": "Increasing Public Access to Recreation Act",
+  "short_title": "Increasing Public Access to Recreation Act",
+  "congress": 119,
+  "bill_number": "HR.105",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "92c58d2df5cd8273",
+  "last_updated": "2026-03-20T12:56:25.533183+00:00",
+  "plain_summary": "This bill makes more money available for creating recreational activities on land owned by the federal government. The money comes from something called the Land and Water Conservation Fund. The bill increases the percentage of money that can be used for these projects from three percent to ten percent. It also raises the total dollar amount that can be spent from fifteen million dollars to fifty million dollars each year. This means more parks, trails, and outdoor recreation areas can be built on federal land for people to enjoy.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Parks, recreation areas, trails"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal land recreation",
+    "public parks funding",
+    "outdoor activities government land",
+    "hiking trails federal property",
+    "recreation areas budget",
+    "national parks access",
+    "outdoor recreation funding",
+    "federal land public use",
+    "government land recreation projects",
+    "hiking camping federal land"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Increasing Public Access to Recreation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-for-recreational-public-access",
+      "title": "Section 2 Increase for Recreational Public Access",
+      "text": "This section changes an existing law about recreation on federal land. It makes two changes to section two hundred three thousand and six of title fifty four of the United States Code. First, it changes three percent to ten percent. Second, it changes fifteen million dollars to fifty million dollars.",
+      "word_offset": 12,
+      "char_offset": 71
+    }
+  ]
+}

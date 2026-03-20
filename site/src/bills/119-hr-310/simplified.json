@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-310",
+  "title": "Restoring Energy Market Freedom Act",
+  "short_title": "Restoring Energy Market Freedom Act",
+  "congress": 119,
+  "bill_number": "HR.310",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "5b2fb4910a47ff7f",
+  "last_updated": "2026-03-20T13:32:06.079921+00:00",
+  "plain_summary": "The Restoring Energy Market Freedom Act removes tax breaks that people and companies could get for using clean energy like solar panels and wind power. It also takes away tax credits for environmental projects that help protect nature. These changes will start in 2025, so people won't be able to use these tax breaks on their taxes anymore. The bill is meant to change how the government supports different types of energy by ending special help for renewable energy projects.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Perry, Scott [R-PA-10]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "remove solar tax credits",
+    "end wind power tax breaks",
+    "eliminate renewable energy incentives",
+    "stop clean energy subsidies",
+    "cancel environmental tax credits",
+    "renewable energy tax policy",
+    "solar panel tax benefits",
+    "wind farm tax breaks",
+    "clean energy government support",
+    "environmental project funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Restoring Energy Market Freedom Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-credits",
+      "title": "Section 2  Repeal of Credits",
+      "text": "This section removes many tax credits from the tax code. These are special tax breaks that businesses and individuals could use to reduce the taxes they owe. The section removes specific tax credits by deleting entire sections of the tax code including sections forty five, forty five J, forty five Q, forty five U, forty five V, forty five X, forty five Y, forty eight, forty eight A, forty eight B, forty eight C, forty eight D, and forty eight E. These credits were for things like renewable energy, carbon capture, and other environmental projects. The section also removes references to these deleted credits from other parts of the tax code and fixes the numbering system so it still makes sense after the deletions. It updates many other sections of the tax code that mentioned these credits by adding phrases like as in effect immediately before its repeal to clarify that those references are to the old deleted rules. The section also simplifies some definitions and removes complex rules that were only needed because of the deleted credits. These changes will take effect for tax years that begin after December thirty first two thousand twenty four.",
+      "word_offset": 11,
+      "char_offset": 64
+    }
+  ]
+}

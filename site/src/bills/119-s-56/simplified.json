@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-s-56",
+  "title": "SAP Act",
+  "short_title": "SAP Act",
+  "congress": 119,
+  "bill_number": "S.56",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "version_hash": "5bb0f685b66598ff",
+  "last_updated": "2026-03-20T15:09:58.369615+00:00",
+  "plain_summary": "The SAP Act makes changes to a government program that gives money to help the maple syrup industry. Before giving out grants, the government must now ask maple syrup makers and other industry people what kind of research and education they need most. The government will use this information to decide which projects should get funding. The bill also keeps this maple syrup program running until 2030.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [
+    "Agricultural education",
+    "Agricultural marketing and promotion",
+    "Agricultural prices, subsidies, credit",
+    "Agricultural research",
+    "Food industry and services",
+    "Forests, forestry, trees"
+  ],
+  "sponsor_name": "Sen. Welch, Peter [D-VT]",
+  "sponsor_party": "D",
+  "sponsor_state": "VT",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "maple syrup",
+    "farm subsidies",
+    "agriculture grants",
+    "farming support",
+    "maple industry",
+    "tree farming",
+    "syrup production",
+    "agricultural research funding",
+    "farm education programs",
+    "maple sugar",
+    "government farm aid"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Supporting All Producers Act or the SAP Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-acer-access-and-development-program",
+      "title": "Section 2 Acer Access and Development Program",
+      "text": "This section changes an existing law about maple syrup programs from twenty fourteen. The changes move around some parts of the law and add new requirements. Starting at least one year after this new law passes, the Secretary of Agriculture must ask maple industry workers and business owners what research and education they think is most important. This must happen at least six months before the government asks for grant applications. When the Secretary decides who gets grants for maple programs, they must think about what the maple industry people said they needed. The law also extends the maple program until twenty thirty instead of twenty twenty three.",
+      "word_offset": 14,
+      "char_offset": 72
+    }
+  ]
+}

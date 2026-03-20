@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-92",
+  "title": "Defending American Sovereignty in Global Pandemics Act",
+  "short_title": "Defending American Sovereignty in Global Pandemics Act",
+  "congress": 119,
+  "bill_number": "S.92",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Foreign Relations. (text: CR S140)",
+  "version_hash": "b26d1ce17e2b7ca6",
+  "last_updated": "2026-03-20T14:51:10.347257+00:00",
+  "plain_summary": "This bill says the United States cannot join any World Health Organization agreement about pandemics unless two-thirds of the Senate votes to approve it as a treaty. The bill also stops all US government money from going to the World Health Organization starting when any pandemic agreement takes effect. The money would only start flowing again after the Senate approves the agreement. The bill is meant to make sure Congress has a say before the US joins international health agreements.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Read twice and referred to the Committee on Foreign Relations. (text: CR S140)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Barrasso, John [R-WY]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 15,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "pandemic treaty",
+    "World Health Organization",
+    "WHO funding",
+    "Senate approval",
+    "international health agreements",
+    "US sovereignty",
+    "pandemic agreements",
+    "congressional oversight",
+    "WHO treaty",
+    "health organization money",
+    "pandemic response",
+    "international treaties"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Defending American Sovereignty in Global Pandemics Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-temporary-suspension-of-united-states-funding-for-the-world-health-organization-until-pandemic-treaty-is-approved-by-the-senate",
+      "title": "Section 2 Temporary Suspension of United States Funding for the World Health Organization Until Pandemic Treaty is Approved by the Senate",
+      "text": "The United States cannot join any agreement with the World Health Organization that deals with preventing, preparing for, or responding to pandemics unless the Senate approves it as a treaty. This follows the rules in Article Two, Section Two of the Constitution that requires the Senate to approve treaties. If the World Health Organization creates such an agreement after this law passes, the United States government must stop all funding to the World Health Organization. The funding stays stopped until the Senate votes to approve the pandemic agreement as a treaty.",
+      "word_offset": 13,
+      "char_offset": 83
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-232",
+  "title": "SALT Fairness and Marriage Penalty Elimination Act",
+  "short_title": "SALT Fairness and Marriage Penalty Elimination Act",
+  "congress": 119,
+  "bill_number": "HR.232",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "5b0d4c82e2142be5",
+  "last_updated": "2026-03-20T12:05:01.117444+00:00",
+  "plain_summary": "This bill changes the rules for how much people can subtract from their federal taxes when they pay state and local taxes. Right now, people can only subtract up to ten thousand dollars from their federal taxes for state and local taxes they paid. This bill would raise that limit to one hundred thousand dollars for most people. Married couples who file their taxes together could subtract up to two hundred thousand dollars instead of the current ten thousand dollar limit.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Income tax deductions",
+    "State and local taxation"
+  ],
+  "sponsor_name": "Rep. Lawler, Michael [R-NY-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "state and local tax deduction",
+    "SALT deduction limit",
+    "property tax deduction",
+    "income tax deduction",
+    "married filing jointly",
+    "marriage penalty",
+    "tax deduction cap",
+    "local tax write off",
+    "state tax write off",
+    "federal tax deduction",
+    "tax relief for married couples"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the SALT Fairness and Marriage Penalty Elimination Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modification-of-limitation-on-deduction-for-certain-state-and-local-taxes-of-individuals",
+      "title": "Section 2  Modification of Limitation on Deduction for Certain State and Local Taxes of Individuals",
+      "text": "This section changes the rules about how much money people can subtract from their federal taxes for the state and local taxes they paid. Right now, people can only subtract up to ten thousand dollars for these state and local taxes. If married people file separate tax returns, they can each only subtract up to five thousand dollars. This law changes those limits. Instead, most people will be able to subtract up to one hundred thousand dollars for their state and local taxes. Married couples who file their taxes together will be able to subtract up to two hundred thousand dollars. These new rules will start applying to tax years that begin after December thirty first, two thousand twenty four.",
+      "word_offset": 13,
+      "char_offset": 79
+    }
+  ]
+}

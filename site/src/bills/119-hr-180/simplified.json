@@ -1,0 +1,98 @@
+{
+  "bill_id": "119-hr-180",
+  "title": "Endangered Species Transparency and Reasonableness Act of 2025",
+  "short_title": "Endangered Species Transparency and Reasonableness Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.180",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Water, Wildlife and Fisheries.",
+  "version_hash": "58e573834b09e83e",
+  "last_updated": "2026-03-20T11:03:48.340112+00:00",
+  "plain_summary": "This bill makes changes to how the government decides which animals and plants are endangered or threatened. The government must put all the scientific information they use to make these decisions on the internet for everyone to see, except for some private state information and military secrets. Any information that comes from state, tribal, or county governments automatically counts as good scientific data. The government must also keep track of and report how much money they spend on court cases about endangered species laws. Finally, the bill changes the rules about how much money lawyers can get paid when they win these court cases.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-07-16",
+  "last_action_date": "2025-07-22",
+  "last_action_text": "Subcommittee Hearings Held",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Civil actions and liability",
+    "Congressional oversight",
+    "Department of the Interior",
+    "Endangered and threatened species",
+    "Environmental assessment, monitoring, research",
+    "Government ethics and transparency, public corruption",
+    "Government information and archives",
+    "Judicial review and appeals",
+    "Public participation and lobbying",
+    "Public-private cooperation",
+    "State and local government operations",
+    "Wildlife conservation and habitat protection"
+  ],
+  "sponsor_name": "Rep. McClintock, Tom [R-CA-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "endangered species",
+    "threatened animals",
+    "wildlife protection",
+    "government transparency",
+    "scientific data",
+    "public information",
+    "lawyer fees",
+    "court cases",
+    "environmental lawsuits",
+    "species listing",
+    "government spending",
+    "legal costs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Endangered Species Transparency and Reasonableness Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirement-to-publish-on-the-internet-the-basis-for-listings",
+      "title": "Section 2 Requirement to Publish on the Internet the Basis for Listings",
+      "text": "This section changes the Endangered Species Act of nineteen seventy three. It adds a new rule that says the Secretary must put information on the internet. This information must show the best scientific and business data that supports decisions about which animals and plants are endangered or threatened. The Secretary must share this information for all rules, including proposed rules, made under this law. However, there are two exceptions. First, if a state governor, state agency, or state legislature asks the Secretary not to share certain information, the Secretary must respect that request. This happens when the state has laws that prevent sharing personal information or other protected data. Second, within thirty days after this new rule starts, the Secretary must make an agreement with the Secretary of Defense. This agreement will prevent sharing any classified military information about Defense Department people, buildings, lands, or waters.",
+      "word_offset": 17,
+      "char_offset": 111
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-decisional-transparency-and-use-of-state-tribal-and-local-information",
+      "title": "Section 3 Decisional Transparency and Use of State, Tribal, and Local Information",
+      "text": "This section makes two important changes to the Endangered Species Act. The first change requires the federal government to share information with states before making decisions. Before deciding whether a species is endangered or threatened, the government must give all the data behind that decision to any states that would be affected by the decision. The second change expands what counts as the best scientific and business data available. Under this new rule, the best scientific and business data available must include all such data that is submitted by state governments, tribal governments, or county governments.",
+      "word_offset": 163,
+      "char_offset": 1074
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-disclosure-of-expenditures-under-endangered-species-act-of-1973",
+      "title": "Section 4 Disclosure of Expenditures Under Endangered Species Act of 1973",
+      "text": "This section creates new rules about reporting money spent on lawsuits related to the Endangered Species Act. The Secretary of the Interior, working with the Secretary of Commerce, must do two things. First, within ninety days after each fiscal year ends, they must send a detailed annual report to two congressional committees. This report must show all federal government spending on covered suits during that year. Second, they must create and maintain a searchable database on the internet that is updated monthly with this spending information. The report must include many details about each covered suit. It must list the case name and number and provide links to court decisions and legal documents. It must describe each legal claim in the suit and name the federal agencies involved and all plaintiffs. The report must show how much money each covered agency spent to handle legal notices, prepare for court, fight the lawsuit, negotiate settlements, or provide help with the case. It must count how many full time employees worked on these activities. The report must include information about money judgments against the government and attorney fees awarded to the other side, including details about why these awards were made. It must also show any federal funding that helped someone bring a lawsuit. Each covered agency must give the Secretary all information needed to create these reports. The section defines covered agencies as agencies within the Department of the Interior, the Forest Service, the Environmental Protection Agency, the National Marine Fisheries Service, and four power administrations. Covered suits include civil lawsuits against the federal government based on actions by these agencies and certain administrative proceedings where the government pays fees to outside parties.",
+      "word_offset": 259,
+      "char_offset": 1698
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-award-of-litigation-costs-to-prevailing-parties-in-accordance-with-existing-law",
+      "title": "Section 5 Award of Litigation Costs to Prevailing Parties in Accordance with Existing Law",
+      "text": "This section changes how courts award attorney fees and costs in Endangered Species Act lawsuits. Instead of the current special rules for these cases, courts must now follow the same general federal laws that apply to all other types of lawsuits when deciding whether to award attorney fees and costs to winning parties.",
+      "word_offset": 541,
+      "char_offset": 3515
+    }
+  ]
+}

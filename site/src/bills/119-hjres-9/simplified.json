@@ -1,0 +1,54 @@
+{
+  "bill_id": "119-hjres-9",
+  "title": "Proposing an amendment to the Constitution of the United States prohibiting the United States Government from increasing its debt except for a specific purpose by law adopted by three-fourths of the membership of each House of Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.9",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "5ae66aba6cf745f8",
+  "last_updated": "2026-03-20T14:42:49.369368+00:00",
+  "plain_summary": "This bill wants to change the Constitution to make it much harder for the government to borrow money. Right now, Congress can increase the government's debt with a simple majority vote. If this amendment passes, it would require three-fourths of both the House and Senate to agree before the government could borrow more money for any specific reason. The change would only happen ten years after three-fourths of all state governments approve it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Budget deficits and national debt",
+    "Constitution and constitutional amendments",
+    "Legislative rules and procedure"
+  ],
+  "sponsor_name": "Rep. McClintock, Tom [R-CA-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government borrowing",
+    "national debt limit",
+    "constitutional amendment",
+    "federal spending",
+    "government debt",
+    "budget deficit",
+    "borrowing money",
+    "three fourths vote",
+    "congress voting rules",
+    "government finances"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution",
+      "title": "Joint Resolution",
+      "text": "This joint resolution proposes to change the Constitution of the United States. The change would make it much harder for the federal government to borrow more money. Under this proposed amendment, the government could only increase its debt if three-fourths of all members in both the House of Representatives and the Senate vote to approve it for a specific reason. This amendment would only become part of the Constitution if three-fourths of all state legislatures approve it within seven years. If the amendment is approved, it would not go into effect until ten years after it becomes part of the Constitution.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

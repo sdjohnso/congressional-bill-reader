@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-s-176",
+  "title": "Not One More Inch or Acre Act",
+  "short_title": "Not One More Inch or Acre Act",
+  "congress": 119,
+  "bill_number": "S.176",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Foreign Relations.",
+  "version_hash": "dba810bd300e03f2",
+  "last_updated": "2026-03-20T13:26:39.364185+00:00",
+  "plain_summary": "This bill would stop people from China and Chinese companies from buying any land or buildings in the United States. The only exceptions would be for Chinese people who are refugees or seeking safety in America. The President could also force Chinese owners to sell property they already own if it might be dangerous for our country's security. The bill also changes the punishment rules for a law that already exists about foreign countries buying farmland in America.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Read twice and referred to the Committee on Foreign Relations.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Cotton, Tom [R-AR]",
+  "sponsor_party": "R",
+  "sponsor_state": "AR",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "China land ownership",
+    "Chinese buying property",
+    "foreign property ban",
+    "China real estate restrictions",
+    "Chinese companies buying land",
+    "stop China from buying farms",
+    "foreign land ownership laws",
+    "China property investment ban",
+    "Chinese real estate in America",
+    "ban foreign land purchases",
+    "China farmland ownership",
+    "Chinese property restrictions"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Not One More Inch or Acre Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-purchase-of-real-estate",
+      "title": "Section 2 Prohibition on Purchase of Public or Private Real Estate Located in the United States by Citizens and Entities of the People's Republic of China",
+      "text": "Starting when this law takes effect, the President must take whatever actions are needed to stop Chinese citizens and certain Chinese organizations from buying any land or buildings in the United States. This ban applies to any citizen of China, any organization that works for or is controlled by the Chinese government or Chinese Communist Party, and any foreign person acting on behalf of China or Chinese citizens. If the President decides that land or buildings already owned by these people or organizations creates a risk to America's safety, the President can require them to sell that property within one year. There are two exceptions to these rules. First, Chinese citizens who came to America as refugees or were granted asylum (protection from persecution) can still buy property. Second, the requirement to sell existing property does not apply to homes or other property owned by American citizens or legal permanent residents for their personal use. The law defines several important terms. A covered foreign entity means any organization that works for China's government or Communist Party, is organized under Chinese law, has its main business in China, is owned or controlled by China's government or Communist Party, or is a subsidiary of such an organization. A foreign person means any individual or organization that is not American. The United States includes all fifty states, Washington DC, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the US Virgin Islands, and any other US territory. A United States person means an American citizen, legal permanent resident, or an organization formed under American law.",
+      "word_offset": 13,
+      "char_offset": 58
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-penalty-amount-under-agricultural-foreign-investment-disclosure-act",
+      "title": "Section 3 Penalty Amount Under Agricultural Foreign Investment Disclosure Act of 1978",
+      "text": "This section changes an existing law about foreign investment in American farmland. It updates the penalty rules so that fines cannot be less than ten percent or more than twenty five percent of a certain amount.",
+      "word_offset": 275,
+      "char_offset": 1714
+    }
+  ]
+}

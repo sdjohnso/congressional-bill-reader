@@ -1,0 +1,81 @@
+{
+  "bill_id": "119-hr-32",
+  "title": "No Bailout for Sanctuary Cities Act",
+  "short_title": "No Bailout for Sanctuary Cities Act",
+  "congress": 119,
+  "bill_number": "HR.32",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "d897a49383a9fc82",
+  "last_updated": "2026-03-20T15:27:25.044774+00:00",
+  "plain_summary": "This bill stops the federal government from giving money to cities and states that don't share information about immigrants with federal immigration officials. These places are called sanctuary jurisdictions because they have rules that limit working with immigration agents or sharing details about people's citizenship status. If a city or state refuses to hold immigrants for federal agents or tell them when someone is released from jail, they cannot get federal money that would be used to help people who are in the country illegally. The Department of Homeland Security must make a yearly list of places that don't cooperate with immigration requests.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Congressional oversight",
+    "Immigration status and procedures",
+    "State and local finance",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. LaLota, Nick [R-NY-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 21,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "sanctuary cities",
+    "immigration funding",
+    "federal money cities",
+    "immigration cooperation",
+    "sanctuary city funding ban",
+    "immigration enforcement cities",
+    "federal grants immigration",
+    "sanctuary jurisdiction money",
+    "immigration information sharing",
+    "cities lose federal funding",
+    "sanctuary cities federal aid"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Bailout for Sanctuary Cities Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-sanctuary-jurisdiction-defined",
+      "title": "Section 2 Sanctuary Jurisdiction Defined",
+      "text": "For this law, a sanctuary jurisdiction means any state or local government that has rules or practices that stop government workers from doing two things. First, they cannot send, receive, keep, or share information about whether someone is a citizen or has legal permission to be in the United States with federal, state, or local government agencies. Second, they cannot follow requests from the Department of Homeland Security to hold someone in jail longer or tell the department when they plan to release someone from jail. However, a state or local government is not considered a sanctuary jurisdiction just because it has a policy that protects crime victims or witnesses. Under this protection policy, officials do not have to share information about or hold people who come forward to report crimes or help with criminal cases.",
+      "word_offset": 12,
+      "char_offset": 64
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-sanctuary-jurisdictions-ineligible-for-certain-federal-funds",
+      "title": "Section 3 Sanctuary Jurisdictions Ineligible for Certain Federal Funds",
+      "text": "Starting either sixty days after this law is passed or on the first day of the next federal budget year, whichever comes first, sanctuary jurisdictions cannot receive certain federal money. They cannot get federal funds that they plan to use to help people who are in the United States without legal permission. This includes money for food, housing, healthcare, legal help, and transportation for these people.",
+      "word_offset": 148,
+      "char_offset": 901
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-report-on-noncompliance",
+      "title": "Section 4 Report on Noncompliance",
+      "text": "No later than one year after this law is passed, and then every year after that, the Secretary of Homeland Security must send a report to the House and Senate Judiciary Committees. This report must include a list of all states and local governments that have refused to follow Department of Homeland Security requests to hold people in jail longer or notify the department about releases.",
+      "word_offset": 214,
+      "char_offset": 1313
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-133",
+  "title": "Protecting American Energy Production Act",
+  "short_title": "Protecting American Energy Production Act",
+  "congress": 119,
+  "bill_number": "HR.133",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to",
+  "version_hash": "d93fe88732d0b120",
+  "last_updated": "2026-03-20T12:57:27.393971+00:00",
+  "plain_summary": "This bill stops the President from banning hydraulic fracturing, which is a way to get oil and gas from underground by injecting water and chemicals into rock. The President can only ban this drilling method if Congress first passes a law saying it's okay to ban it. The bill also says that Congress thinks state governments should be the ones making rules about hydraulic fracturing on state and private land, not the federal government. This drilling method is also called fracking and it helps produce energy in America.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of su",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [
+    "Congressional-executive branch relations",
+    "Mining",
+    "Oil and gas",
+    "Presidents and presidential powers, Vice Presidents",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Boebert, Lauren [R-CO-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "CO",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "fracking ban",
+    "hydraulic fracturing",
+    "oil drilling",
+    "gas drilling",
+    "energy production",
+    "presidential power",
+    "state rights",
+    "drilling regulations",
+    "fossil fuels",
+    "energy independence"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting American Energy Production Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-protecting-american-energy-production",
+      "title": "Section 2  Protecting American Energy Production",
+      "text": "Congress believes that states should have the main authority to make rules about hydraulic fracturing (a method of getting oil and natural gas out of the ground by injecting water and chemicals under high pressure) on lands owned by states and private companies. The President cannot ban or stop the use of hydraulic fracturing unless Congress passes a separate law that allows such a ban. This rule applies even if other laws might seem to give the President different powers.",
+      "word_offset": 11,
+      "char_offset": 70
+    }
+  ]
+}

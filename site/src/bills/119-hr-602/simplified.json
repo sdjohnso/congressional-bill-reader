@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-602",
+  "title": "SANE Act of 2025",
+  "short_title": "SANE Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.602",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Health.",
+  "version_hash": "e019665349a5c47e",
+  "last_updated": "2026-03-20T11:53:35.325823+00:00",
+  "plain_summary": "The SANE Act of 2025 requires every VA hospital and urgent care center to have at least one specially trained nurse or doctor who can examine patients who have been sexually assaulted. After the examination, the healthcare provider must tell the patient about mental health services they can get at the VA hospital or from outside providers if the wait time at the VA is more than 30 days. The VA must make sure that having these special nurses and doctors does not hurt the other medical care they provide to patients.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-04",
+  "last_action_date": "2025-03-04",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Assault and harassment offenses",
+    "Health care coverage and access",
+    "Health personnel",
+    "Mental health",
+    "Sex offenses",
+    "Veterans' medical care"
+  ],
+  "sponsor_name": "Rep. Burchett, Tim [R-TN-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "sexual assault nurses",
+    "VA hospital sexual assault care",
+    "veterans sexual assault help",
+    "specially trained nurses VA",
+    "sexual assault examination",
+    "VA mental health services",
+    "veterans hospital assault care",
+    "sexual assault medical care",
+    "VA urgent care sexual assault",
+    "veterans sexual violence support"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Sexual Assault Nurse Examiner in VA Hospitals Act of two thousand twenty five or the SANE Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-qualifications-of-health-care-providers",
+      "title": "Section 2 Qualifications of Health Care Providers Who Perform Sexual Assault Examinations at Certain Department of Veterans Affairs Medical Facilities",
+      "text": "The Secretary of Veterans Affairs must hire staff at every Veterans Affairs hospital and urgent care center. Each facility must have at least one sexual assault nurse examiner (a specially trained nurse who examines sexual assault victims and collects evidence). If the Secretary cannot hire a sexual assault nurse examiner, they must hire another health care provider who is qualified to do sexual assault forensic examinations (medical exams that collect evidence after a sexual assault). After examining someone for sexual assault, the health care provider must tell the person about mental health care services they can get. These services can be at a Veterans Affairs hospital or through a Veterans Care Agreement (a contract with outside providers) if the wait time at the VA hospital is more than thirty days. The Secretary must make sure that hiring these new staff members does not reduce or hurt the patient care that current VA employees already provide. In this section, sexual assault nurse examiner and sexual assault forensic examination have the same meanings as defined in section three hundred four part a of the DNA Sexual Assault Justice Act of two thousand four.",
+      "word_offset": 28,
+      "char_offset": 150
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "bill_id": "119-hr-120",
+  "title": "No Mandates Act",
+  "short_title": "No Mandates Act",
+  "congress": 119,
+  "bill_number": "HR.120",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on House Administration,",
+  "version_hash": "5d51f4c2b09e223e",
+  "last_updated": "2026-03-20T11:23:39.426163+00:00",
+  "plain_summary": "The No Mandates Act stops the federal government from making people get COVID-19 vaccines. It says federal agencies cannot make rules that require COVID-19 shots, and people cannot be forced to show proof of vaccination to enter federal buildings or get government services. The bill also says that any organization that gets money from the federal government cannot require COVID-19 vaccines from people who use their services. This law would protect people from being forced to get vaccinated to access government buildings, services, or programs funded by taxpayer money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on House Administration, and Energy and Commerce, for a period to be subsequently determined by the Spea",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Cardiovascular and respiratory health",
+    "Immunology and vaccination",
+    "Infectious and parasitic diseases"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "covid vaccine mandate",
+    "no vaccine requirements",
+    "federal vaccine rules",
+    "vaccine mandate ban",
+    "covid shot requirements",
+    "vaccine proof ban",
+    "government vaccine mandates",
+    "federal building vaccine rules",
+    "taxpayer funded vaccine mandates",
+    "covid vaccination requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Mandates Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-agencies-issuing-vaccine-mandates",
+      "title": "Section 2  Prohibition on Agencies Issuing Vaccine Mandates",
+      "text": "No government agency can create any rule or guidance that requires any person to get a COVID-19 vaccine. An agency means any department, office, or organization that is part of the federal government.",
+      "word_offset": 9,
+      "char_offset": 44
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-on-requiring-proof-of-covid-19-vaccination-for-federal-access",
+      "title": "Section 3  Prohibition on Requiring Proof of COVID-19 Vaccination for Federal Access",
+      "text": "A COVID-19 vaccination cannot be required for people to enter federal buildings or use federal services. This also applies to entering the grounds of Congress or using congressional services.",
+      "word_offset": 42,
+      "char_offset": 245
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-federal-funding-restrictions",
+      "title": "Section 4  Federal Funding Restrictions",
+      "text": "Any organization that received money from COVID-19 relief programs or gets any other federal money after this law passes cannot require people to have a COVID-19 vaccine to receive services from that organization. If an organization breaks this rule, it must pay back all the federal money it received. COVID-19 relief programs include the CARES Act, Coronavirus Preparedness and Response Supplemental Appropriations Act of 2020, Families First Coronavirus Response Act, Paycheck Protection Program and Health Care Enhancement Act, Consolidated Appropriations Act of 2021, and American Rescue Plan Act of 2021.",
+      "word_offset": 71,
+      "char_offset": 437
+    }
+  ]
+}

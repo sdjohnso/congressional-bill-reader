@@ -1,0 +1,219 @@
+{
+  "bill_id": "119-hr-160",
+  "title": "Restoring Faith in Elections Act",
+  "short_title": "Restoring Faith in Elections Act",
+  "congress": 119,
+  "bill_number": "HR.160",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on House Administration, and in addition to the Committee on Science, Space, and Technology, f",
+  "version_hash": "b530bb5c13edf206",
+  "last_updated": "2026-03-20T13:04:16.986183+00:00",
+  "plain_summary": "This bill creates new rules for how Americans vote in federal elections. It requires states to automatically register eligible people to vote and makes sure all voting methods are treated the same way. The bill also sets up rules for mail-in voting, including that ballots must arrive by the time polls close and makes it illegal for most people to collect and return someone else's ballot. It creates a national database to help states keep their voter lists accurate and up to date.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on House Administration, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consi",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Citizenship and naturalization",
+    "Civil actions and liability",
+    "Computers and information technology",
+    "Criminal investigation, prosecution, interrogation",
+    "Elections, voting, political campaign regulation",
+    "Fraud offenses and financial crimes",
+    "Government information and archives",
+    "Immigration status and procedures",
+    "Intergovernmental relations",
+    "Licensing and registrations",
+    "Military personnel and dependents",
+    "Motor vehicles",
+    "Photography and imaging",
+    "Postal service",
+    "Right of privacy",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "voting rules",
+    "voter registration",
+    "mail-in ballots",
+    "election security",
+    "voter database",
+    "ballot collection",
+    "automatic voter registration",
+    "federal elections",
+    "voting methods",
+    "election reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-table-of-contents",
+      "title": "Section 1 Short Title; Table of Contents",
+      "text": "This law can be called the Restoring Faith in Elections Act. The law has four main parts. The first part sets federal rules for mail-in ballots. The second part creates automatic voter registration. The third part makes election procedures more standard. The fourth part helps make voter registration lists more accurate.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "title-1-section-101-short-title",
+      "title": "Title I Section 101 Short Title",
+      "text": "This part of the law can be called the Verifiable, Orderly, and Timely Election Results Act.",
+      "word_offset": 51,
+      "char_offset": 322
+    },
+    {
+      "id": "s3",
+      "slug": "title-1-section-102-federal-standards-for-mail-in-ballots",
+      "title": "Title I Section 102 Federal Standards for Mail-in Ballots",
+      "text": "This section creates new federal rules for mail-in voting. When states allow mail-in voting for federal elections like president or Congress, they must follow these rules. To get a mail-in ballot, a person must ask for one using a special form. The form must prove who the person is, that they are registered to vote, and that they still live at their registered address. People must ask for their mail-in ballot at least twenty-one days before the election. Election officials must send out the ballot within three days of getting the request. Election officials must keep track of how many mail-in ballots they send out and mark on voter lists when someone gets a mail-in ballot. For a mail-in ballot to count, it must be filled out in blue or black ink, signed with the same signature used to register, dated, and received by the time polls close on election day. The person must also sign a statement saying they are the right person, they are registered to vote, and they will not try to vote in person too. People can return their mail-in ballot in person if they want. If someone gets a mail-in ballot but wants to vote in person instead, they must bring their blank ballot to the polling place. If they do not bring it, they have to vote with a provisional ballot (a special ballot used when there are questions). Only certain people can handle someone else's completed mail-in ballot. Immediate family members (spouse, child, parent, grandparent, or sibling) can handle up to two other people's ballots. Caregivers (people who take care of older adults) can also handle up to two other people's ballots. Postal workers and election officials can handle ballots as part of their jobs. Anyone who breaks these rules can be fined or go to jail for up to one year. These rules apply to federal elections held after this law is passed.",
+      "word_offset": 67,
+      "char_offset": 415
+    },
+    {
+      "id": "s4",
+      "slug": "title-1-section-103-federal-standards-for-reporting-election-results",
+      "title": "Title I Section 103 Federal Standards for Reporting Election Results",
+      "text": "This section creates rules for how quickly election results must be counted and reported. States must start counting mail-in ballots that arrive before election day at least one week early. One hour after polls close on election day, each voting location must report to the state how many mail-in ballots they received, how many people voted in person, and how many of all these ballots have been counted versus how many still need counting. All valid ballots must be counted and results reported within twenty-four hours after voting ends on election day. These rules apply to federal elections held after this law is passed.",
+      "word_offset": 388,
+      "char_offset": 2255
+    },
+    {
+      "id": "s5",
+      "slug": "title-2-section-201-short-title-findings-and-purpose",
+      "title": "Title II Section 201 Short Title; Findings and Purpose",
+      "text": "This part of the law can be called the Automatic Voter Registration Act of twenty twenty-five. Congress found that voting is a basic right for all US citizens. The government should make sure every eligible citizen is registered to vote. Current voter registration systems can be wrong, expensive, hard to use, and confusing. This hurts voter participation, especially among young people, people with disabilities, and racial and ethnic minorities. Voter registration systems need modern technology to stay secure. The purpose of this part is to make government at every level responsible for registering all eligible citizens to vote. It aims to register all eligible citizens using accurate, cost-effective, and up-to-date methods. It wants to modernize voter registration using electronic and internet technology. It also wants to protect and improve how fair, accurate, efficient, and accessible the voting process is for all eligible citizens.",
+      "word_offset": 492,
+      "char_offset": 2882
+    },
+    {
+      "id": "s6",
+      "slug": "title-2-section-202-automatic-registration-of-eligible-individuals",
+      "title": "Title II Section 202 Automatic Registration of Eligible Individuals",
+      "text": "Each state's top election official must create and run an automatic registration system for federal elections. Automatic registration means a system that registers eligible people to vote by electronically moving their information from government agencies to election officials. Unless the person says no, they will be automatically registered to vote. When a contributing agency (a government office that helps with registration) sends information about a person, the state must register that person to vote within fifteen days if they are eligible. The state must send written notice to the person about their voter registration status. For people already in agency records when this law starts, the state must identify who is eligible but not yet registered to vote. The state must send these people written notice explaining that voter registration is voluntary, but if they do not say no, they will be registered. The notice must offer the chance to decline registration and, in some states, to choose a political party or stay unaffiliated. The notice must explain voter qualifications and consequences of false registration. It must include instructions for correcting wrong information and providing additional needed information. If the person does not decline registration within thirty days, the state must register them to vote within forty-five days of sending the notice. The state must then send written notice about their registration status. States can treat people who are sixteen or seventeen years old as eligible if they will be eighteen by the time they can vote. A contributing agency means any government office listed in the law that helps with voter registration.",
+      "word_offset": 635,
+      "char_offset": 3831
+    },
+    {
+      "id": "s7",
+      "slug": "title-2-section-203-contributing-agency-assistance-in-registration",
+      "title": "Title II Section 203 Contributing Agency Assistance in Registration",
+      "text": "Government agencies must help register eligible people to vote. When agencies process applications for services or when people renew or change their address, and for colleges when students register for classes, agencies that normally ask about US citizenship must inform each US citizen that they will be registered to vote unless they decline. The agency must explain voter qualifications, consequences of false registration, political party requirements in some states, and that registration is voluntary and will not affect services. Agencies must make sure people cannot complete their application until they have a chance to decline voter registration. After thirty days, unless the person declined, agencies must electronically send the person's information to state election officials. This includes the person's name, birth date, address, citizenship proof, when the information was collected, electronic signature if available, political party choice if provided, and other information like driver's license number or last four digits of social security number if given. Some agencies that do not normally ask about citizenship must follow different rules. They must follow existing federal voter registration laws, make sure applicants indicate whether they want to register to vote, and send information for those who want to register. Agencies must offer registration opportunities with every application, renewal, or address change, even if the person previously declined. The law lists which agencies must help with voter registration, including motor vehicle departments, social service agencies, agencies that regulate guns, education agencies, agencies that handle criminal sentences, and others. Federal agencies like Social Security Administration, Veterans Affairs, Defense Department, Labor Department, Health and Human Services, and Immigration Services must also help. Colleges that receive federal money must help register their students. States must publish updated lists of all contributing agencies one hundred eighty days before each federal election. State election officials and agencies must educate the public about voter registration under this system.",
+      "word_offset": 898,
+      "char_offset": 5521
+    },
+    {
+      "id": "s8",
+      "slug": "title-2-section-204-one-time-contributing-agency-assistance-in-registration-of-eligible-voters-in-existing-records",
+      "title": "Title II Section 204 One-time Contributing Agency Assistance in Registration of Eligible Voters in Existing Records",
+      "text": "For people already in agency records when this law is passed, agencies must send their information to state election officials by the time the law takes effect. For people who enter agency records after the law is passed but before it takes effect, agencies must send their information within six months after the law takes effect.",
+      "word_offset": 1207,
+      "char_offset": 7707
+    },
+    {
+      "id": "s9",
+      "slug": "title-2-section-205-voter-protection-and-security-in-automatic-registration",
+      "title": "Title II Section 205 Voter Protection and Security in Automatic Registration",
+      "text": "People cannot be prosecuted, have immigration problems, or be accused of not being citizens for several reasons related to automatic registration. This includes notifying election offices about automatic registration, being registered when not eligible, being registered at the wrong address, or declining to register. People's automatic registration or decision to decline registration cannot be used as evidence against them in law enforcement cases. A person can prove they did not know about registration or did not do it on purpose just by their own testimony. However, this protection does not apply to people who knowingly make false statements to get registered or who knowingly vote illegally. Agencies cannot collect, keep, send, or publicly share a person's decision to decline registration, their decision not to confirm citizenship, or information they send except in normal business. Election officials cannot publicly share the identity of the contributing agency, information not needed for registration, information already protected by state or federal law, social security numbers, driver's license numbers, signatures, phone numbers, or email addresses. States must keep records of changes to voter information for at least two years and make them available for public inspection. The National Institute of Standards and Technology must create standards for comparing data when maintaining voter registration lists and for protecting privacy and security of voter registration information. States must annually certify they follow these standards. If a state does not file this certification, it will not receive federal payments. Information collected under this law cannot be used for business purposes, but can be used for political campaigns and political committees. States cannot discriminate against people or use their voter registration information for anything other than elections, election administration, or election crime enforcement.",
+      "word_offset": 1263,
+      "char_offset": 8039
+    },
+    {
+      "id": "s10",
+      "slug": "title-2-section-206-registration-portability-and-correction",
+      "title": "Title II Section 206 Registration Portability and Correction",
+      "text": "If a person is registered to vote in a state, election officials at polling places must let the person update their address, correct wrong information like their name or political party, and vote based on the updated or corrected information. The person's ballot must be treated as a regular ballot, not a provisional ballot. Election officials must quickly enter any address updates or corrections into the statewide computerized voter registration list.",
+      "word_offset": 1547,
+      "char_offset": 10008
+    },
+    {
+      "id": "s11",
+      "slug": "title-2-section-207-payments-and-grants",
+      "title": "Title II Section 207 Payments and Grants",
+      "text": "The Election Assistance Commission will give grants to states to help them implement automatic voter registration requirements. States are eligible if they submit an application describing what they will do with the grant, promise to carry out activities without partisan bias and without promoting particular political views, and provide other required information. The Commission will decide grant amounts and give priority to activities that speed up compliance with automatic registration requirements. Priority activities include electronic information transfer between agencies and election officials, updates to online voter registration systems, introducing online registration where it did not exist before, and public education about new registration methods. Congress authorizes five hundred million dollars for fiscal year twenty twenty-five and additional amounts as needed for future years. Appropriated money remains available until spent.",
+      "word_offset": 1618,
+      "char_offset": 10464
+    },
+    {
+      "id": "s12",
+      "slug": "title-2-section-208-treatment-of-exempt-states",
+      "title": "Title II Section 208 Treatment of Exempt States",
+      "text": "This automatic registration law does not apply to exempt states (states that already have automatic registration through their motor vehicle departments). However, exempt states must still follow rules about registration portability and correction, payments and grants, enforcement, and relation to other laws.",
+      "word_offset": 1747,
+      "char_offset": 11419
+    },
+    {
+      "id": "s13",
+      "slug": "title-2-section-209-miscellaneous-provisions",
+      "title": "Title II Section 209 Miscellaneous Provisions",
+      "text": "Agencies must make their automatic registration services available to people with disabilities the same way they make services available to everyone else. Agencies can hire third parties to help them send information as long as the third party follows all privacy and security rules. Services must be provided in a nonpartisan, nondiscriminatory way following existing federal voter registration law requirements. States can send notices by email if the person provided an email address and agreed to receive election materials electronically. All notices that require a response must let people respond at no cost. The same federal enforcement and private lawsuit rights that apply to the National Voter Registration Act also apply to this automatic registration law. This law does not change or override the Voting Rights Act, military and overseas voting laws, the National Voter Registration Act, or the Help America Vote Act.",
+      "word_offset": 1789,
+      "char_offset": 11730
+    },
+    {
+      "id": "s14",
+      "slug": "title-2-section-210-definitions",
+      "title": "Title II Section 210 Definitions",
+      "text": "In this automatic registration law, chief State election official means the person designated by each state to coordinate voter registration responsibilities under federal law. Commission means the Election Assistance Commission. Exempt State means a state that already operates automatic voter registration through its motor vehicle department under law that was in effect continuously after this federal law was passed. State means each of the fifty states and the District of Columbia.",
+      "word_offset": 1932,
+      "char_offset": 12661
+    },
+    {
+      "id": "s15",
+      "slug": "title-2-section-211-effective-date",
+      "title": "Title II Section 211 Effective Date",
+      "text": "This automatic registration law applies to states starting January first, twenty twenty-seven. However, if a state certifies to the Election Assistance Commission that it cannot meet this deadline because of extraordinary circumstances and explains why, the Commission can approve extending the deadline to January first, twenty twenty-nine.",
+      "word_offset": 2003,
+      "char_offset": 13150
+    },
+    {
+      "id": "s16",
+      "slug": "title-3-section-301-requiring-parity-in-treatment-of-methods-of-voting",
+      "title": "Title III Section 301 Requiring Parity in Treatment of Methods of Voting",
+      "text": "Each state and local jurisdiction must apply the same standards to all voting methods used in federal elections, including signature verification standards. States and jurisdictions cannot pay for or subsidize the costs of one voting method unless they also pay for or subsidize other voting methods by the same amount. This rule does not apply to costs for providing accommodations for disabled voters or meeting military and overseas voting requirements. These requirements apply starting with the November twenty twenty-six general election and all federal elections after that.",
+      "word_offset": 2050,
+      "char_offset": 13492
+    },
+    {
+      "id": "s17",
+      "slug": "title-3-section-302-requiring-standard-election-administration-procedures-in-all-jurisdictions-in-state",
+      "title": "Title III Section 302 Requiring Standard Election Administration Procedures in All Jurisdictions in State",
+      "text": "Each state must make sure that all jurisdictions within the state use the same procedures for administering federal elections. This includes the same procedures for determining when people can cast provisional ballots and the same criteria for accepting or rejecting provisional ballots. These requirements apply starting with the November twenty twenty-six general election and all federal elections after that.",
+      "word_offset": 2137,
+      "char_offset": 14074
+    },
+    {
+      "id": "s18",
+      "slug": "title-4-section-401-establishment-of-national-deconfliction-voting-database-and-clearinghouse",
+      "title": "Title IV Section 401 Establishment of National Deconfliction Voting Database and Clearinghouse",
+      "text": "A new National Deconfliction Voting Database and Clearinghouse is created within the Cybersecurity and Infrastructure Security Agency. This database will help states ensure election integrity by serving as a database and clearinghouse of voter registration records and lists of eligible voters for federal elections. The purpose is to help states make sure individual voters are registered in only one state where they live, dead voters are removed from voting rolls, and only US citizens vote in federal elections. In this section, State means the same as defined in the National Voter Registration Act of nineteen ninety-three.",
+      "word_offset": 2196,
+      "char_offset": 14487
+    },
+    {
+      "id": "s19",
+      "slug": "title-4-section-402-pre-election-maintenance-and-certification-of-official-voter-registration-list",
+      "title": "Title IV Section 402 Pre-election Maintenance and Certification of Official Voter Registration List",
+      "text": "At least ninety days before each federal election, each state and its chief election official must certify to the Election Assistance Commission and the Cybersecurity and Infrastructure Security Agency that the state has completed a program to remove ineligible voters from the official list. The state must also transfer its certified list of eligible voters to the Cybersecurity and Infrastructure Security Agency for inclusion in the National Deconfliction Voting Database and Clearinghouse. At least one hundred eighty days before each regular general federal election, the Postmaster General must send change-of-address information to state election officials and the Cybersecurity and Infrastructure Security Agency about people who moved out of the state since the previous election. The Social Security Administration Director must also send information about people from the state who died since the previous election to state officials and the Cybersecurity and Infrastructure Security Agency. These requirements apply starting with the November twenty twenty-six general election and all federal elections after that.",
+      "word_offset": 2292,
+      "char_offset": 15117
+    },
+    {
+      "id": "s20",
+      "slug": "title-4-section-403-requiring-applicants-for-motor-vehicle-drivers-licenses-in-new-state-to-indicate-whether-state-serves-as-residence-for-voter-registration-purposes",
+      "title": "Title IV Section 403 Requiring Applicants for Motor Vehicle Driver's Licenses in New State to Indicate Whether State Serves as Residence for Voter Registration Purposes",
+      "text": "State motor vehicle departments must require each person applying for a driver's license to swear under penalty of perjury whether they live in another state or used to live in another state before applying, and if so, to identify that state. They must also swear whether they intend for the new state to be their residence for voter registration purposes. If a person indicates the new state will be their residence for voting, the motor vehicle authority must notify the motor vehicle authority of their previous state, who must then notify that state's chief election official that the person no longer intends to use that state as their voting residence. These requirements take effect for elections in twenty twenty-five and after.",
+      "word_offset": 2453,
+      "char_offset": 16246
+    }
+  ]
+}

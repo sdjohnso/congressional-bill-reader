@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hr-65",
+  "title": "Armed Forces Endangered Species Exemption Act",
+  "short_title": "Armed Forces Endangered Species Exemption Act",
+  "congress": 119,
+  "bill_number": "HR.65",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "a5b26f010a0ba533",
+  "last_updated": "2026-03-20T12:43:49.040714+00:00",
+  "plain_summary": "This bill gives the military special permission to ignore some rules that protect endangered animals and plants. It stops the government from saying that military bases are special protected areas for endangered species. The bill also lets military workers harm or kill endangered animals if it happens during military training or defense work, as long as hurting the animals was not the main goal. The military does not have to ask permission from wildlife agencies before doing activities that might hurt endangered species.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [
+    "Endangered and threatened species",
+    "Military facilities and property",
+    "Military procurement, research, weapons development",
+    "Wildlife conservation and habitat protection"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "military endangered species",
+    "army base wildlife protection",
+    "military training animals",
+    "defense department endangered animals",
+    "military exemption wildlife laws",
+    "army training kill animals",
+    "military base protected species",
+    "defense training wildlife rules",
+    "military ignore animal protection",
+    "army base animal habitat"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Armed Forces Endangered Species Exemption Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exclusion-of-military-institutions-as-critical-habitat",
+      "title": "Section 2. Exclusion of Military Institutions as Critical Habitat",
+      "text": "This section changes the Endangered Species Act of nineteen seventy three. The Secretary of the Interior cannot name certain military areas as critical habitat for endangered animals. Critical habitat means areas that are essential for protecting endangered species. The Secretary cannot designate any military base or State-owned National Guard facility as critical habitat. The Secretary also cannot designate any other land, water, or area that the Secretary of Defense uses, including areas used by Defense Department contractors. This applies when the Secretary of Defense writes a letter saying the area is needed for military training, weapons testing, or any other military purpose the Secretary thinks is appropriate. The Secretary of Defense does not have to talk with the Secretary of the Interior about actions in these areas. This rule applies even if the area has a natural resources management plan under the Sikes Act.",
+      "word_offset": 12,
+      "char_offset": 74
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-additional-exclusions-and-exemptions-from-endangered-species-act-of-1973-for-defense-related-operations",
+      "title": "Section 3. Additional Exclusions and Exemptions from Endangered Species Act of 1973 for Defense-Related Operations",
+      "text": "This section adds new rules to the Endangered Species Act of nineteen seventy three. The normal bans in the law do not apply to military operations for national defense. Military personnel can take, import, or export endangered or threatened species during national defense operations. They can also damage, destroy, remove, cut, dig up, or harm these species during such operations. If a threatened or endangered species gets hurt or dies during a national defense operation, that is allowed as long as harming the species was not the main purpose of the operation. This applies whether the operation happens on a military base or somewhere else. National defense related operation means research, development, testing, and evaluation of military weapons and ammunition. It also means training military members to use weapons and ammunition, general training and military preparedness, or any action the Secretary of Defense says is needed to support the Defense Department mission. Military personnel means members of the Armed Forces and civilian employees or contractors of the Defense Department or other federal agencies when their work supports the Defense Department mission overseas.",
+      "word_offset": 156,
+      "char_offset": 1009
+    }
+  ]
+}

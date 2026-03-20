@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-242",
+  "title": "MANAGER Act",
+  "short_title": "MANAGER Act",
+  "congress": 119,
+  "bill_number": "HR.242",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "7e2f3677f66d29ec",
+  "last_updated": "2026-03-20T12:53:49.726651+00:00",
+  "plain_summary": "The MANAGER Act is a new law that makes government agencies ask their managers questions every year through a survey. The survey asks managers about their jobs, how they handle problem employees, and whether they feel supported by their agency. Agencies must share the survey results on their websites for everyone to see, unless sharing the information would hurt national security. The Office of Personnel Management will create standard questions that all agencies must include in their surveys.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Government employee pay, benefits, personnel management"
+  ],
+  "sponsor_name": "Rep. Sessions, Pete [R-TX-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government manager survey",
+    "federal employee management",
+    "manager performance review",
+    "government workplace problems",
+    "federal agency transparency",
+    "government supervisor evaluation",
+    "public employee management",
+    "government manager support",
+    "federal workplace survey",
+    "government employee oversight"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Manager Attitudes and Notions According to Government Employee Responses Act or the MANAGER Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-federal-employee-manager-surveys",
+      "title": "Section 2  Federal Employee Manager Surveys",
+      "text": "This section changes an existing law about employee surveys. It adds a requirement that government agencies must survey their managers every year. The survey must ask managers specific questions about their work experience. These questions include whether managers feel confident that their agency leaders will support them when they try to discipline employees who perform poorly. Managers must answer whether they trust the current system for disciplining employees and whether they feel supported in their management role. The survey asks if managers have enough training on how to discipline employees and enough time to help new employees improve during their trial period. Managers must say whether they chose not to discipline an employee in the past year because they had no confidence the system would work. The survey asks whether managers get to give input on labor negotiations that affect their work units. It asks if they would recommend that a colleague become a manager. Managers must answer whether their inability to discipline poor performers hurts the morale of their work teams and whether good employees have quit because problematic employees could not be disciplined. For each question, managers can write detailed responses in addition to selecting from other answer choices. The law defines agency as an Executive agency under federal law. It defines Federal manager as a government employee who has reached pay grade GS thirteen or higher and works as a supervisor or management official. The Office of Personnel Management must update the rules for these surveys within one hundred eighty days after this law takes effect.",
+      "word_offset": 20,
+      "char_offset": 124
+    }
+  ]
+}

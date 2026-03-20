@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-hr-205",
+  "title": "No Congressional Funds for Sanctuary Cities Act",
+  "short_title": "No Congressional Funds for Sanctuary Cities Act",
+  "congress": 119,
+  "bill_number": "HR.205",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a p",
+  "version_hash": "39fcb8525d8e352f",
+  "last_updated": "2026-03-20T11:40:32.612509+00:00",
+  "plain_summary": "This bill stops the federal government from giving special project money to cities and states that don't help with immigration enforcement. Starting in 2026, places that refuse to share information about people's citizenship status or won't hold immigrants for federal agents will lose this funding. The rule doesn't apply when someone is helping police as a crime victim or witness. The goal is to make local governments work with federal immigration officials if they want to receive special congressional funding for projects.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for considerati",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Van Duyne, Beth [R-TX-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "sanctuary cities",
+    "immigration enforcement",
+    "federal funding",
+    "local police cooperation",
+    "immigration agents",
+    "citizenship information",
+    "congressional funding",
+    "city funding cuts",
+    "immigration policy",
+    "local government cooperation",
+    "federal immigration",
+    "sanctuary city funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Congressional Funds for Sanctuary Cities Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-use-of-congressional-earmarks-targeted-to-sanctuary-jurisdictions",
+      "title": "Section 2 Prohibition on Use of Congressional Earmarks Targeted to Sanctuary Jurisdictions",
+      "text": "The federal government cannot spend money on congressional earmarks that are meant for states or local governments that are sanctuary jurisdictions. A congressional earmark is a special funding request that Congress members add to spending bills to direct money to specific projects in their districts. The exact definition of congressional earmark follows the rules used by the House of Representatives.",
+      "word_offset": 13,
+      "char_offset": 76
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-sanctuary-jurisdiction-defined",
+      "title": "Section 3 Sanctuary Jurisdiction Defined",
+      "text": "A sanctuary jurisdiction means any state or local government area that has laws, rules, or practices that stop government workers from doing two things. First, they cannot send, receive, keep, or share information about whether someone is a US citizen or what their immigration status is with federal, state, or local government agencies. Second, they cannot follow requests from the Department of Homeland Security to hold someone in jail longer or to tell the department when they are releasing someone from jail. However, a state or local government is not considered a sanctuary jurisdiction just because they have a policy that protects people who come forward as victims or witnesses to crimes. These victims and witnesses can get help without having their immigration information shared or being held for immigration reasons.",
+      "word_offset": 73,
+      "char_offset": 481
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-effective-date",
+      "title": "Section 4 Effective Date",
+      "text": "This law starts working for the fiscal year that begins in October twenty twenty five and continues for all years after that.",
+      "word_offset": 204,
+      "char_offset": 1314
+    }
+  ]
+}

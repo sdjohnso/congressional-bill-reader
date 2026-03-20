@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-510",
+  "title": "Regulatory Cooling Off Act of 2025",
+  "short_title": "Regulatory Cooling Off Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.510",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "2dc8445bd1456edf",
+  "last_updated": "2026-03-20T11:04:36.221109+00:00",
+  "plain_summary": "This bill makes government agencies wait longer before their new rules start working. Instead of waiting just 30 days, agencies must now wait 6 months before new rules take effect. The bill also gives regular people more time to share their thoughts about new rules before they become final. Agencies must tell Congress about their new rules 6 months ahead of time too. This gives everyone more time to review and discuss new government rules before they start.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Congressional oversight",
+    "Government information and archives"
+  ],
+  "sponsor_name": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government rules delay",
+    "agency regulations waiting period",
+    "new rules 6 months",
+    "federal agencies slow down",
+    "government rule making process",
+    "public comment period extension",
+    "regulatory delay requirements",
+    "agency rules cooling off",
+    "government regulation timeline",
+    "federal rule implementation delay"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Regulatory Cooling Off Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-delay-in-effective-date-of-rules",
+      "title": "Section 2 Delay in Effective Date of Rules",
+      "text": "This section changes the law about how government agencies make new rules. First, when an agency wants to make a new rule, they must give people at least sixty days to share their opinions about it. Second, after an agency finishes writing a rule, they must wait six months before the rule actually starts working instead of the current thirty days. Third, agencies must send their finished rules to Congress at least six months before the rules take effect so Congress can review them. Fourth, when a rule finally takes effect, the agency must publish a notice in the Federal Register on that same day. Fifth, agencies must put their proposed rules and final rules on their websites at least twenty four hours before publishing them in the Federal Register. The section also makes it easier for people to sue agencies about rules by allowing them to file lawsuits in courts where they live or where the agency has an office. Finally, it changes another law to require agencies to give Congress six months to review rules instead of sixty days, unless Congress passes a resolution saying they approve the rule.",
+      "word_offset": 15,
+      "char_offset": 83
+    }
+  ]
+}

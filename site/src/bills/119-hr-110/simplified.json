@@ -1,0 +1,81 @@
+{
+  "bill_id": "119-hr-110",
+  "title": "Small Business Prosperity Act of 2025",
+  "short_title": "Small Business Prosperity Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.110",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "5e329175ec85ac91",
+  "last_updated": "2026-03-20T11:01:44.182272+00:00",
+  "plain_summary": "This bill gives big tax cuts to small businesses. It lets them deduct more money from their taxes, first 43% and later 47% of their business income. It removes rules that stopped some businesses from getting this deduction and makes the tax cut last forever. The bill also gets rid of taxes when businesses change how they are legally set up and eliminates the estate tax that people pay when someone dies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Corporate finance and management",
+    "Income tax deductions",
+    "Small business",
+    "Tax administration and collection, taxpayers",
+    "Transfer and inheritance taxes"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "small business tax cuts",
+    "business tax deduction",
+    "small business taxes",
+    "estate tax elimination",
+    "death tax repeal",
+    "business income deduction",
+    "small business relief",
+    "tax breaks for small businesses",
+    "inheritance tax removal",
+    "business tax savings",
+    "small business tax benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Small Business Prosperity Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-and-expansion-of-deduction-for-qualified-business-income",
+      "title": "Section 2  Increase and Expansion of Deduction for Qualified Business Income",
+      "text": "This section makes several changes to tax deductions for business income. First, it makes the business income deduction permanent by removing the part of the tax law that would have ended it. Second, it increases the deduction amount. Instead of allowing people to deduct twenty percent of their business income, they can now deduct forty three percent. Starting in two thousand twenty six, they can deduct forty seven percent. This means business owners will pay much less in taxes on their business income. Third, it removes the limit that was based on how much the business paid in wages to employees. Now all qualifying business income gets the full deduction regardless of employee wages. Fourth, it removes the rule that excluded certain service businesses like doctors, lawyers, and consultants from getting this deduction. Now almost all businesses can claim this deduction, as long as the income does not come from working as someone else's employee. The section also makes technical changes to other parts of the tax code to match these new rules. These changes apply to tax years starting after December thirty first two thousand twenty four.",
+      "word_offset": 15,
+      "char_offset": 86
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-no-taxable-event-for-change-of-corporate-form",
+      "title": "Section 3  No Taxable Event for Change of Corporate Form",
+      "text": "When a business changes from one type of organization to another type, this change will not create any tax bill for the owners. This only applies if the same people still own the business in the same amounts and the business keeps the same assets, except for very small changes in assets. This rule applies to business structure changes that happen after December thirty first two thousand twenty four.",
+      "word_offset": 203,
+      "char_offset": 1240
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-repeal-of-estate-tax-and-retention-of-basis-step-up",
+      "title": "Section 4  Repeal of Estate Tax and Retention of Basis Step Up",
+      "text": "The estate tax is completely eliminated for people who die after December thirty first two thousand twenty four. The estate tax was a tax paid on the property and money that wealthy people left behind when they died.",
+      "word_offset": 272,
+      "char_offset": 1643
+    }
+  ]
+}

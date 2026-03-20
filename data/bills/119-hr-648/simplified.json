@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-648",
+  "title": "Strengthening our Servicemembers with Milk Act",
+  "short_title": "Strengthening our Servicemembers with Milk Act",
+  "congress": 119,
+  "bill_number": "HR.648",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Armed Services.",
+  "version_hash": "a8905f46d1bc729e",
+  "last_updated": "2026-03-20T15:09:10.054571+00:00",
+  "plain_summary": "This bill says the military must give different kinds of milk to soldiers at dining halls on military bases. The milk can be regular milk, powdered milk, or special types like organic milk. The military cannot buy this milk from companies that are owned by enemy countries. This is meant to help keep soldiers healthy and strong while making sure the milk comes from safe sources.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on Armed Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Food supply, safety, and labeling",
+    "Military personnel and dependents"
+  ],
+  "sponsor_name": "Rep. Van Orden, Derrick [R-WI-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 31,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "military milk",
+    "soldier food",
+    "army dining hall",
+    "base cafeteria",
+    "troops nutrition",
+    "servicemember meals",
+    "military food safety",
+    "enemy country suppliers",
+    "organic milk military",
+    "powdered milk soldiers",
+    "healthy military diet",
+    "foreign owned companies military"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Strengthening our Servicemembers with Milk Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-provision-of-milk-to-members-of-the-armed-forces-at-dining-facilities-on-military-installations",
+      "title": "Section 2  Provision of Milk to Members of the Armed Forces at Dining Facilities on Military Installations",
+      "text": "The Secretary of Defense must provide liquid milk or powdered milk to military service members at eating places on military bases. The milk can be many different types including plain milk, flavored milk, organic milk, non-organic milk, whole milk, reduced-fat milk, low-fat milk, fat-free milk, lactose-free milk, or any mix of these types. However, the Secretary cannot buy this milk from any company that is owned or controlled by a foreign enemy country. The Secretary of Commerce decides which countries count as foreign enemies according to federal rules.",
+      "word_offset": 12,
+      "char_offset": 75
+    }
+  ]
+}

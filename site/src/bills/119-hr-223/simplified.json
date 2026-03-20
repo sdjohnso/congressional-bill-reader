@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-223",
+  "title": "Preventing Unjust Red Flag Laws Act of 2025",
+  "short_title": "Preventing Unjust Red Flag Laws Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.223",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "f15b733fb6cf4723",
+  "last_updated": "2026-03-20T15:25:30.146973+00:00",
+  "plain_summary": "This bill stops the federal government from using taxpayer money to support red flag laws. Red flag laws allow courts to order the removal of guns from people who might be dangerous to themselves or others. The bill says these laws do not give people fair treatment in court before taking their guns away. Under this bill, no federal money can be used to create, enforce, or help states and local governments use these types of gun removal laws.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Due process and equal protection",
+    "Executive agency funding and structure",
+    "Firearms and explosives"
+  ],
+  "sponsor_name": "Rep. Crenshaw, Dan [R-TX-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gun confiscation",
+    "red flag laws",
+    "gun removal orders",
+    "taking guns away",
+    "federal funding guns",
+    "taxpayer money gun laws",
+    "gun rights protection",
+    "court orders guns",
+    "dangerous person guns",
+    "gun seizure laws",
+    "stopping gun laws",
+    "defund red flag"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Preventing Unjust Red Flag Laws Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-funding-for-implementation-and-enforcement-of-red-flag-laws-or-rules",
+      "title": "Section 2 Prohibition on Funding for Implementation and Enforcement of Red Flag Laws or Rules",
+      "text": "The federal government cannot use any of its money to carry out or enforce red flag laws. The federal government also cannot give money to state, local, tribal, or territorial governments to help them carry out or enforce red flag laws. A red flag law is a court order that allows officials to temporarily take away someone's firearms based on the risk they might harm themselves or others. These orders are given before the gun owner gets a chance to defend themselves in court, which means they happen without due process (the legal right to have a fair hearing before losing something important).",
+      "word_offset": 17,
+      "char_offset": 92
+    }
+  ]
+}

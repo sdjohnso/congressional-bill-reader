@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-s-164",
+  "title": "Midnight Rules Relief Act of 2025",
+  "short_title": "Midnight Rules Relief Act of 2025",
+  "congress": 119,
+  "bill_number": "S.164",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "60902e33ae5c2475",
+  "last_updated": "2026-03-20T11:06:30.151911+00:00",
+  "plain_summary": "This bill changes the rules about how Congress can reject regulations made by the President. Right now, Congress can only reject one regulation at a time during the President's last year in office. This new bill would let Congress group together many regulations from the President's final year and reject them all with just one vote. This would make it faster and easier for Congress to overturn multiple rules that were made near the end of a President's time in office.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-21",
+  "last_action_date": "2025-01-21",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Congressional oversight",
+    "Legislative rules and procedure",
+    "Presidents and presidential powers, Vice Presidents"
+  ],
+  "sponsor_name": "Sen. Johnson, Ron [R-WI]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "midnight rules",
+    "last minute regulations",
+    "outgoing president rules",
+    "congress reject regulations",
+    "presidential transition rules",
+    "end of term regulations",
+    "overturn president rules",
+    "congressional review regulations",
+    "reject multiple rules",
+    "presidential final year rules",
+    "block outgoing administration rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Midnight Rules Relief Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-en-bloc-consideration-of-resolutions-of-disapproval-pertaining-to-midnight-rules",
+      "title": "Section 2 En Bloc Consideration of Resolutions of Disapproval Pertaining to Midnight Rules",
+      "text": "Part A changes the existing law in section eight hundred one part d of title five of the United States Code. It adds a new rule that says when Congress wants to disapprove rules made during a President's final year in office, they can group multiple rules together in one joint resolution (a formal document that both the House and Senate vote on). This only applies to rules that were reported during the final year of a President's term. Part B changes section eight hundred two part a of the same law. It explains how these grouped resolutions should be written. When Congress wants to disapprove multiple midnight rules at once, the resolution must list each rule by filling in blanks that show which government agency made the rule and what the rule was about. The resolution will say that Congress disapproves all the listed rules and that those rules will have no power or effect. The resolution can include as many rules as needed by adding more description clauses.",
+      "word_offset": 15,
+      "char_offset": 82
+    }
+  ]
+}

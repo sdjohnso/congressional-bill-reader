@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-103",
+  "title": "Congressional Border Security Assessment Act",
+  "short_title": "Congressional Border Security Assessment Act",
+  "congress": 119,
+  "bill_number": "HR.103",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Natural Resources.",
+  "version_hash": "84c062841c746a74",
+  "last_updated": "2026-03-20T13:15:58.159100+00:00",
+  "plain_summary": "This bill lets members of Congress and their staff visit Native American reservations that are near the Mexico border. They can only visit reservations that have at least 50 miles of border with Mexico. The Congress members can use roads and paths on tribal land during these visits. The purpose is to check how well border security is working to keep the country safe.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Congressional oversight",
+    "Federal-Indian relations",
+    "Latin America",
+    "Members of Congress",
+    "Mexico"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border security",
+    "congress visits reservations",
+    "tribal land border",
+    "mexico border",
+    "native american reservations",
+    "congressional oversight",
+    "border patrol effectiveness",
+    "tribal border access",
+    "immigration security",
+    "reservation border visits",
+    "congress border assessment",
+    "tribal land security"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Congressional Border Security Assessment Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-access-to-indian-reservations-for-border-security-assessment",
+      "title": "Section 2 Access to Indian Reservations for Border Security Assessment",
+      "text": "Any member of Congress and their staff can legally visit Indian reservations that have fifty miles or more of border with Mexico. They can visit these places to gather information about national security, public safety, and border security. Congress members and their staff can also use any roads or paths that cross through Indian country (land that belongs to Native American tribes as defined by federal law). The term Indian country means the same thing as defined in section eleven fifty-one of title eighteen of the United States Code.",
+      "word_offset": 11,
+      "char_offset": 73
+    }
+  ]
+}

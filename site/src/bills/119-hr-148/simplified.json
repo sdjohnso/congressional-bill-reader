@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-148",
+  "title": "Keep Your Coins Act of 2025",
+  "short_title": "Keep Your Coins Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.148",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "74f03c68e05988b4",
+  "last_updated": "2026-03-20T13:59:58.149226+00:00",
+  "plain_summary": "The Keep Your Coins Act of 2025 stops government agencies from preventing people from using digital money like Bitcoin for their own spending. The law also protects people's right to keep their digital money in their own personal wallets that they control themselves. This means the government cannot make rules that stop you from buying things with cryptocurrency or from storing your digital coins in your own wallet instead of letting a company hold them for you.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [
+    "Bank accounts, deposits, capital",
+    "Currency",
+    "Digital media"
+  ],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "cryptocurrency",
+    "bitcoin",
+    "digital money",
+    "crypto wallet",
+    "government ban cryptocurrency",
+    "using bitcoin to buy things",
+    "personal crypto wallet",
+    "cryptocurrency regulations",
+    "digital currency rights",
+    "crypto spending ban"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Keep Your Coins Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-restricting-use-of-convertible-virtual-currency",
+      "title": "Section 2  Prohibition on Restricting Use of Convertible Virtual Currency by a Person to Retain Full Control Over Convertible Virtual Currency",
+      "text": "Federal agencies cannot stop people from using digital money like cryptocurrency for their personal needs. This includes buying real items or digital goods and services for themselves. Federal agencies also cannot stop people from storing their own digital money using a self-hosted wallet or other methods to make legal transactions. A convertible virtual currency means any digital money that has value equal to regular money or acts like regular money, even if it is not official government money. A covered user means any person who gets digital money to buy things for themselves, no matter how they got that digital money. A self-hosted wallet means a digital tool that helps people secure and move their digital money while keeping complete control over their own money.",
+      "word_offset": 15,
+      "char_offset": 76
+    }
+  ]
+}

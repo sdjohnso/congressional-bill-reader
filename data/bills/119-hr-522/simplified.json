@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-522",
+  "title": "FAITH in Small Business Act",
+  "short_title": "FAITH in Small Business Act",
+  "congress": 119,
+  "bill_number": "HR.522",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Small Business.",
+  "version_hash": "a940480bf3b6c36d",
+  "last_updated": "2026-03-20T14:02:48.007344+00:00",
+  "plain_summary": "This bill makes it easier for religious organizations and faith-based groups to get business loans and disaster help from the government. Right now, these groups often cannot get this help if their main job is teaching about religion. The bill would change the rules so that faith-based organizations can get the same business loans and disaster money as other small businesses. This change comes after court cases said it was unfair to deny help to groups just because they are religious.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Small Business.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Rep. Mann, Tracey [R-KS-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "KS",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "religious organizations loans",
+    "faith based business funding",
+    "church small business loans",
+    "religious groups disaster relief",
+    "faith organizations government help",
+    "religious discrimination lending",
+    "church business assistance",
+    "faith based disaster aid",
+    "religious small business support",
+    "government loans for churches"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Fair Assistance and Impartial Treatment of Help In Small Business Act or the FAITH in Small Business Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-ensuring-equal-treatment-for-certain-faith-based-organizations-in-certain-small-business-administration-programs",
+      "title": "Section 2  Ensuring Equal Treatment for Certain Faith-Based Organizations in Certain Small Business Administration Programs",
+      "text": "The Small Business Administration wrote a proposed rule on January nineteenth, two thousand twenty-one. This rule was called Ensuring Equal Treatment for Faith-Based Organizations in SBA's Loan and Disaster Assistance Programs. This bill makes that proposed rule into an official law that must be followed.",
+      "word_offset": 24,
+      "char_offset": 133
+    }
+  ]
+}

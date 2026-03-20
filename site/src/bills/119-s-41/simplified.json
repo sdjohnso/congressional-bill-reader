@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-s-41",
+  "title": "Advanced Border Coordination Act of 2025",
+  "short_title": "Advanced Border Coordination Act of 2025",
+  "congress": 119,
+  "bill_number": "S.41",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "f63a2d9123869c6e",
+  "last_updated": "2026-03-20T11:29:03.368465+00:00",
+  "plain_summary": "This bill makes the Department of Homeland Security create at least two special centers along the border between the United States and Mexico. These centers will help different police and government groups work together to catch criminals and stop people from crossing the border illegally. The centers will focus on finding criminal gangs and other dangerous groups. The government must tell Congress how well these centers are working each year.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Cortez Masto, Catherine [D-NV]",
+  "sponsor_party": "D",
+  "sponsor_state": "NV",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border security",
+    "Mexico border",
+    "illegal immigration",
+    "border patrol",
+    "homeland security",
+    "criminal gangs",
+    "border crossings",
+    "immigration enforcement",
+    "border control centers",
+    "drug cartels"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Advanced Border Coordination Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, Centers means the Joint Operations Centers that will be created under section three. Department means the Department of Homeland Security. Participating federal agency means the Department of Homeland Security, the Department of Defense, the Department of Justice, and any other federal agency that the Secretary of Homeland Security decides should be included. Secretary means the Secretary of Homeland Security. State means each state in the United States, the District of Columbia, and any territory or area that belongs to the United States.",
+      "word_offset": 14,
+      "char_offset": 83
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-establishment-of-joint-operations-centers",
+      "title": "Section 3  Establishment of Joint Operations Centers",
+      "text": "Within six months after this law takes effect, the Department of Homeland Security must set up at least two Joint Operations Centers along the southern border of the United States. These centers will be places where law enforcement officers from different federal, state, local, and tribal agencies can work together. The Centers will serve as main operation hubs for several important tasks. First, they will help coordinate and improve communication between different agencies during field operations when needed. Second, they will coordinate operations between participating agencies including activities on land, in the air, and on or in water. Third, they will coordinate and support border operations to stop and catch criminal activity. This includes fighting transnational criminal organizations (criminal groups that operate across country borders), stopping illegal border crossings, taking away weapons, taking away drugs, taking away valuable stolen property, preventing terrorism, stopping human trafficking (illegally moving people), stopping drug trafficking, and other matters the Secretary thinks are important. To make sure information flows well between all participating agencies, the coordination and communication must include federal agencies sharing important information with state, local, and tribal agencies through the Centers. Federal agencies must also tell participating state, local, and tribal agencies about operations happening in their areas. The Centers must keep track of and coordinate the placement of participating workers. The Centers must also coordinate training when needed.",
+      "word_offset": 99,
+      "char_offset": 642
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-report",
+      "title": "Section 4  Report",
+      "text": "No later than one year after this law takes effect, and then every year after that, the Secretary must talk with participating federal agencies and ask for feedback from participating state, local, and tribal agencies. The Secretary must then report to Congress about several things. The report must describe the efforts made to establish the Centers. It must identify the resources used to operate the Centers. It must describe the key operations that each Center coordinated and supported. It must describe any major problems with equipment working together or communication gaps found between participating agencies within each Center. It must include recommendations for better coordination and communication between participating federal agencies when developing and operating current and future Centers. The report must also include other information that the Secretary thinks is appropriate.",
+      "word_offset": 326,
+      "char_offset": 2262
+    }
+  ]
+}

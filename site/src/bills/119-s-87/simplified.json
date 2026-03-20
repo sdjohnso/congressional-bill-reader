@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-s-87",
+  "title": "Let's Get to Work Act of 2025",
+  "short_title": "Let's Get to Work Act of 2025",
+  "congress": 119,
+  "bill_number": "S.87",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "version_hash": "e45f434715aa3bf9",
+  "last_updated": "2026-03-20T14:21:44.610023+00:00",
+  "plain_summary": "This bill changes the rules about who has to work to get food stamps and government housing help. It makes more people follow work rules by raising the age limit from 55 to 60 and saying that only parents with kids under 6 are excused from working instead of kids under 18. Parents can now get food stamps for 6 months instead of 3 months while looking for work. The bill also adds the same work rules to people who live in government housing or get help paying rent.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "food stamps work requirements",
+    "government housing work rules",
+    "SNAP work requirements",
+    "public housing work requirements",
+    "food assistance work",
+    "rental assistance work rules",
+    "welfare work requirements",
+    "government benefits work",
+    "food stamps age limit",
+    "housing assistance work",
+    "welfare to work",
+    "public assistance work requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Let's Get to Work Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-snap-work-requirements",
+      "title": "Section 2  SNAP Work Requirements",
+      "text": "This section changes the rules for the Supplemental Nutrition Assistance Program (SNAP, which helps people buy food). Currently, some people who get SNAP benefits must work or do job training for at least twenty hours per week. If they do not meet this requirement, they can only get benefits for three months in a three year period. This law makes the following changes. First, parents or other people who take care of children will only be able to get benefits for six months instead of three months if they do not work enough hours. Second, it removes some people from the work requirements. People over sixty years old will no longer have to meet work requirements. People who care for children under six years old will not have to work. People who are married to someone who already meets the work requirements and who also take care of a dependent person will not have to work. The section also makes technical changes to other parts of the food assistance law to match these new rules.",
+      "word_offset": 15,
+      "char_offset": 72
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-work-requirements-for-public-housing-and-tenant-based-rental-assistance",
+      "title": "Section 3  Work Requirements for Public Housing and Tenant-Based Rental Assistance",
+      "text": "This section adds work requirements to two types of housing assistance programs. The same work rules that apply to SNAP food benefits will now also apply to people who live in public housing (housing owned by the government) and people who get rental vouchers (government help to pay rent in private housing). People in these housing programs will need to work or do job training for at least twenty hours per week, unless they qualify for an exemption. The exemptions are the same as those for SNAP, such as being over sixty years old, caring for young children, or being unable to work due to physical or mental health problems.",
+      "word_offset": 190,
+      "char_offset": 1065
+    }
+  ]
+}

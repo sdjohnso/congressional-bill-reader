@@ -1,0 +1,56 @@
+{
+  "bill_id": "119-hjres-6",
+  "title": "Proposing an amendment to the Constitution of the United States to provide for balanced budgets for the Government.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.6",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "edcb35d0d6a768c0",
+  "last_updated": "2026-03-20T14:25:29.684804+00:00",
+  "plain_summary": "This bill wants to add a new rule to the Constitution that says the federal government cannot spend more money than it takes in each year. The President would have to create a budget that does not spend more than the government receives. Congress could only break this rule if two-thirds of both the House and Senate vote to allow it, or if there is a war, natural disaster, or national emergency. This would force the government to balance its budget like families have to do with their money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Budget deficits and national debt",
+    "Constitution and constitutional amendments",
+    "Legislative rules and procedure"
+  ],
+  "sponsor_name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "balanced budget",
+    "government spending",
+    "constitutional amendment",
+    "federal budget",
+    "government debt",
+    "budget deficit",
+    "spending limits",
+    "government money",
+    "national debt",
+    "budget rules",
+    "government finances",
+    "spending control"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "constitutional-amendment-text",
+      "title": "Constitutional Amendment Text",
+      "text": "This joint resolution proposes to add a new article to the United States Constitution. The proposed amendment would require the federal government to balance its budget each year. Here are the main rules the amendment would create. First, the government cannot spend more money than it takes in during any fiscal year (the government's yearly budget period from October first to September thirtieth). However, Congress can allow spending more than the government receives if two thirds of both the House of Representatives and Senate vote to approve the extra spending in a recorded vote where each member's vote is counted individually. Second, before each fiscal year begins, the President must send Congress a proposed budget where spending does not go over the money the government expects to receive. Third, Congress can ignore these balanced budget rules during any fiscal year when the country has officially declared war, but only if both houses of Congress vote to waive the rules in a recorded vote. Fourth, Congress can also ignore these rules during a national emergency, but only if both houses pass a joint resolution (a measure that both chambers must approve) by a majority vote that declares the emergency and becomes law. Fifth, Congress can ignore the balanced budget rules during a natural disaster if both houses pass a joint resolution by majority vote declaring the disaster and it becomes law. Sixth, Congress has the power to pass laws to enforce this amendment and can use estimated amounts for spending and income when making these decisions. Seventh, this amendment would not take effect until the fifth fiscal year after enough states approve it to make it part of the Constitution.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

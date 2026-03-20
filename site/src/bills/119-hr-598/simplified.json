@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-598",
+  "title": "FIR Act",
+  "short_title": "FIR Act",
+  "congress": 119,
+  "bill_number": "HR.598",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Forestry and Horticulture.",
+  "version_hash": "2c5005d6115be832",
+  "last_updated": "2026-03-20T15:47:54.354538+00:00",
+  "plain_summary": "This bill changes the rules for how the Forest Service and Bureau of Land Management handle their land management plans when it comes to protecting endangered animals. Right now, these agencies have to talk with wildlife experts again whenever a new animal is added to the endangered species list or when they learn new information about how their plans might harm protected animals. This bill says they no longer have to have these new talks or restart their planning process. The agencies can keep using their current land management plans without going back to discuss potential harm to newly protected animals.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-28",
+  "last_action_date": "2025-02-28",
+  "last_action_text": "Referred to the Subcommittee on Forestry and Horticulture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Endangered and threatened species",
+    "Land use and conservation",
+    "Wildlife conservation and habitat protection"
+  ],
+  "sponsor_name": "Rep. Zinke, Ryan K. [R-MT-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "MT",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "endangered animals",
+    "forest service",
+    "land management",
+    "wildlife protection",
+    "national forests",
+    "threatened species",
+    "environmental rules",
+    "habitat protection",
+    "government land",
+    "wildlife consultation",
+    "species protection",
+    "forest planning"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Forest Information Reform Act or the FIR Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-no-additional-consultation-required",
+      "title": "Section 2 No Additional Consultation Required",
+      "text": "This section changes two existing laws about how the government manages public lands. First, it changes the Forest and Rangeland Renewable Resources Planning Act of nineteen seventy four. Under the new rules, the Secretary of Agriculture does not have to start new talks with wildlife experts about forest management plans in two situations. The first situation is when a new animal or plant species gets added to the endangered species list, or when the government sets aside new areas as critical habitat for endangered species. The second situation is when new information shows that a forest management plan might harm listed species or their habitat in ways that were not thought about before. Second, this section also changes the Federal Land Policy and Management Act of nineteen seventy six in the same way. The Secretary of the Interior does not have to restart talks with wildlife experts about land use plans managed by the Bureau of Land Management under the same two situations. These changes apply even if other laws would normally require such talks to happen again.",
+      "word_offset": 14,
+      "char_offset": 73
+    }
+  ]
+}

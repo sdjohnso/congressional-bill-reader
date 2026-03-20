@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-114",
+  "title": "Responsible Path to Full Obamacare Repeal Act",
+  "short_title": "Responsible Path to Full Obamacare Repeal Act",
+  "congress": 119,
+  "bill_number": "HR.114",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Wor",
+  "version_hash": "42190bb569820baa",
+  "last_updated": "2026-03-20T13:33:06.005303+00:00",
+  "plain_summary": "This bill would completely get rid of Obamacare starting in October 2025. Obamacare is the healthcare law that was passed in 2010 to help more people get health insurance. The bill would also remove another related healthcare law from the same time. After these laws are removed, all the old healthcare rules that existed before 2010 would come back. This means the healthcare system would go back to how it worked before Obamacare started.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Workforce, Natural Resources, the Judiciary, House Administration, Rules, and Appro",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Comprehensive health care",
+    "Government lending and loan guarantees",
+    "Health care costs and insurance",
+    "Health care coverage and access",
+    "Higher education",
+    "Student aid and college costs"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "repeal Obamacare",
+    "get rid of Obamacare",
+    "eliminate Obamacare",
+    "remove healthcare law",
+    "end Obamacare",
+    "healthcare before 2010",
+    "old healthcare rules",
+    "pre-Obamacare system",
+    "affordable care act repeal",
+    "health insurance changes",
+    "healthcare rollback"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Responsible Path to Full Obamacare Repeal Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-the-patient-protection-and-affordable-care-act-and-the-health-care-and-education-reconciliation-act-of-2010",
+      "title": "Section 2 Repeal of the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010",
+      "text": "Starting on October first, two thousand twenty five, the Patient Protection and Affordable Care Act (also known as Obamacare) will be completely removed from the law. All the laws that Obamacare changed or removed will go back to how they were before Obamacare was passed. Also starting on October first, two thousand twenty five, the Health Care and Education Reconciliation Act of two thousand ten will be completely removed from the law. All the laws that this act changed or removed will also go back to how they were before this act was passed.",
+      "word_offset": 13,
+      "char_offset": 74
+    }
+  ]
+}

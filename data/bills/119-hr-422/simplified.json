@@ -1,0 +1,89 @@
+{
+  "bill_id": "119-hr-422",
+  "title": "No Subsidies for Wealthy Universities Act",
+  "short_title": "No Subsidies for Wealthy Universities Act",
+  "congress": 119,
+  "bill_number": "HR.422",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Education and Workforce",
+  "version_hash": "41f406967d4a4477",
+  "last_updated": "2026-03-20T12:45:16.149494+00:00",
+  "plain_summary": "This bill changes the rules for how much money wealthy universities can charge the government to cover extra costs when they get federal research grants. Universities with more than five billion dollars saved up cannot charge the government anything extra, while universities with two to five billion dollars saved up can only charge up to eight percent extra. All other universities can charge up to fifteen percent extra for these costs, which help pay for things like buildings and office support that research projects need. The government will keep track of how this money is spent and write reports about it every year.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for co",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Congressional oversight",
+    "Government information and archives",
+    "Higher education",
+    "Research administration and funding"
+  ],
+  "sponsor_name": "Rep. Cline, Ben [R-VA-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "wealthy universities",
+    "rich colleges",
+    "university endowments",
+    "research grants",
+    "federal funding universities",
+    "college money from government",
+    "university savings",
+    "research costs",
+    "government spending colleges",
+    "billion dollar universities",
+    "university subsidies",
+    "college research funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Subsidies for Wealthy Universities Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, these terms mean the following things. An agency is any government department or office as defined in existing federal law. A direct cost is money spent directly on research work, like equipment or materials needed for the actual research project. An endowment fund is a pool of money that a college or university has saved up and invested to earn income over time. A federal research award is money or support that a government agency gives to a person or organization to do research work. This support can come as a grant, contract, agreement, or other type of arrangement. An indirect cost is money spent on things that support research but are not directly part of the research itself, like building maintenance or administrative staff. An indirect cost rate is the percentage that shows how much indirect costs compare to direct costs for a research project. An institution of higher education means a college or university as defined in existing education law.",
+      "word_offset": 12,
+      "char_offset": 70
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-capping-indirect-costs-allowable-under-federal-research-awards",
+      "title": "Section 3 Capping Indirect Costs Allowable Under Federal Research Awards",
+      "text": "The government will track how much money colleges and universities have in their endowment funds and limit how much they can charge for indirect costs. Each year by September thirtieth, the Commissioner for Education Statistics must collect information about endowment fund values from all colleges and universities that have agreements with the Department of Education. The Commissioner will identify which schools have endowment funds worth more than five billion dollars and which schools have endowment funds worth more than two billion dollars but not more than five billion dollars. The Commissioner will make lists of these schools and send the lists to the Director of the Office of Management and Budget. By September thirtieth each year, the Director must share these lists with government agency heads, Congress, and the public. Schools with the highest endowment funds, those worth more than five billion dollars, cannot use any federal research money for indirect costs. Schools with substantial endowment funds, those worth more than two billion dollars but not more than five billion dollars, can only charge an indirect cost rate of up to eight percent. All other schools can only charge an indirect cost rate of up to fifteen percent. Colleges and universities must provide their endowment information to the Commissioner for Education Statistics each year as part of their agreement to participate in federal student aid programs.",
+      "word_offset": 177,
+      "char_offset": 1050
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-improving-oversight-of-indirect-cost-reimbursement",
+      "title": "Section 4 Improving Oversight of Indirect Cost Reimbursement",
+      "text": "The Comptroller General of the United States must prepare and send Congress a report each year about indirect costs that were paid to colleges and universities from federal research awards in the previous year. The report must try to determine how much of the indirect cost money was used to pay administrative staff salaries and how much was used to pay staff members who work on diversity, equity, and inclusion programs. The report must also identify which research fields receive the most federal research funding at colleges and universities. Finally, the report must identify which government agencies gave the most research award money to colleges and universities and which schools received awards from those agencies.",
+      "word_offset": 403,
+      "char_offset": 2499
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-effective-date-applicability",
+      "title": "Section 5 Effective Date and Applicability",
+      "text": "This law will start working one year after it is signed and will apply to federal research awards made on or after that date.",
+      "word_offset": 518,
+      "char_offset": 3226
+    }
+  ]
+}

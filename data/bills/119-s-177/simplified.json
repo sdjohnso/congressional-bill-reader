@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-s-177",
+  "title": "Protect Funding for Women's Health Care Act",
+  "short_title": "Protect Funding for Women's Health Care Act",
+  "congress": 119,
+  "bill_number": "S.177",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "version_hash": "2d9c34ddd20922c4",
+  "last_updated": "2026-03-20T13:02:06.389987+00:00",
+  "plain_summary": "This bill stops the federal government from giving money to Planned Parenthood and any organizations connected to it. Instead, the money would go to other health care providers that help women, like community health centers and hospitals. The goal is to make sure women can still get health care services, but not through Planned Parenthood. The bill would cut off all federal funding that currently goes to Planned Parenthood clinics across the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Family planning and birth control",
+    "Health facilities and institutions",
+    "Health programs administration and funding",
+    "Sex and reproductive health",
+    "Social work, volunteer service, charitable organizations",
+    "Tax-exempt organizations",
+    "Women's health"
+  ],
+  "sponsor_name": "Sen. Ernst, Joni [R-IA]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 17,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "planned parenthood funding",
+    "defund planned parenthood",
+    "women's health care funding",
+    "federal money abortion clinics",
+    "community health centers",
+    "reproductive health funding",
+    "family planning money",
+    "women's clinics funding",
+    "government health care spending",
+    "abortion provider funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protect Funding for Women's Health Care Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2 Findings",
+      "text": "Congress has found the following facts. First, many different places already provide health services to women and will keep doing so. These places include state and county health departments, community health centers, hospitals, doctor offices, and other organizations. They provide services like lab tests, x-rays, well-child checkups, care before and after having babies, shots to prevent disease, family planning services including birth control, tests for sexually transmitted diseases, cervical and breast cancer screenings, and referrals to other doctors. Second, many of these places serve everyone regardless of whether they can afford to pay. They also provide services in areas where medical care is hard to find and to people who have trouble getting medical care. Third, all money that will no longer go to Planned Parenthood Federation of America will still be available for other qualified organizations to provide women's health care services.",
+      "word_offset": 13,
+      "char_offset": 72
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition",
+      "title": "Section 3 Prohibition",
+      "text": "No matter what any other law says, no federal money can be given to Planned Parenthood Federation of America or to any of its related organizations, branch offices, replacement organizations, or clinics. However, this law does not change any limits on abortion funding that are already in spending laws passed by Congress. This law also does not reduce the total amount of federal money available to support women's health care.",
+      "word_offset": 156,
+      "char_offset": 1031
+    }
+  ]
+}

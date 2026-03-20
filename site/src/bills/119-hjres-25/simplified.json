@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hjres-25",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Internal Revenue Service relating to \"Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales\".",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.25",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Reported by the Committee on Ways and Means. H. Rept. 119-7.",
+  "version_hash": "a80deb0ea69edf6d",
+  "last_updated": "2026-03-20T13:44:10.403653+00:00",
+  "plain_summary": "Congress is rejecting a new rule from the Internal Revenue Service that was created in December 2024. The rule would have made certain companies report information to the government when people buy and sell digital money like Bitcoin. This includes companies that help with special online financial transactions called decentralized finance or DeFi. By rejecting this rule, Congress is stopping it from becoming law. This means these companies will not have to follow the new reporting requirements.",
+  "current_status": "signed_into_law",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Became Public Law No: 119-5.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": true,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Congressional oversight",
+    "Currency",
+    "Digital media",
+    "Financial services and investments",
+    "Internal Revenue Service (IRS)",
+    "Tax administration and collection, taxpayers"
+  ],
+  "sponsor_name": "Rep. Carey, Mike [R-OH-15]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "bitcoin taxes",
+    "cryptocurrency reporting",
+    "digital money rules",
+    "IRS bitcoin requirements",
+    "congress blocks crypto rules",
+    "decentralized finance reporting",
+    "DeFi tax rules",
+    "bitcoin broker reporting",
+    "cryptocurrency tax reporting",
+    "digital asset taxes",
+    "crypto exchange rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution",
+      "title": "Joint Resolution",
+      "text": "Congress officially rejects a rule that was created by the Internal Revenue Service. This rule was about requiring companies that help people buy and sell digital assets like cryptocurrency to report information about those sales to the government. The rule was called Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales and was published in the Federal Register on December thirtieth, two thousand and twenty-four. Because Congress is rejecting this rule, it will not go into effect and has no legal power.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

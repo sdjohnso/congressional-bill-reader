@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-343",
+  "title": "Title X Abortion Provider Prohibition Act",
+  "short_title": "Title X Abortion Provider Prohibition Act",
+  "congress": 119,
+  "bill_number": "HR.343",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "aa89869bdb3d7334",
+  "last_updated": "2026-03-20T13:45:30.717577+00:00",
+  "plain_summary": "This bill stops the government from giving Title X family planning money to groups that do abortions. There are three exceptions when these groups can still get money: if the abortion is because of rape, incest, or to save the mother's life. Hospitals can still get the money unless they give money to other places that do abortions. The government must write a report to Congress every year about which groups get this money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Congressional oversight",
+    "Family planning and birth control",
+    "Health facilities and institutions",
+    "Health programs administration and funding"
+  ],
+  "sponsor_name": "Rep. Foxx, Virginia [R-NC-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 31,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "abortion funding ban",
+    "family planning money",
+    "Title X funding",
+    "government money abortion",
+    "planned parenthood funding",
+    "birth control funding",
+    "abortion provider money",
+    "family planning grants",
+    "reproductive health funding",
+    "abortion clinic funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Title X Abortion Provider Prohibition Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-abortion",
+      "title": "Section 2 Prohibition on Abortion",
+      "text": "This section adds new rules to Title X of the Public Health Service Act. Title X is a government program that gives money to organizations for family planning services. The new rule says the Secretary of Health and Human Services cannot give Title X money to any organization unless that organization promises it will not perform abortions. The organization must also promise it will not give any of its money to other organizations that perform abortions. There are two exceptions to this rule. First, the organization can perform abortions if the pregnancy happened because of rape or incest. Second, the organization can perform abortions if a doctor says the woman will die unless she has an abortion. This includes when the pregnancy itself is causing a life threatening condition. Hospitals get special treatment under this rule. A hospital can still get Title X money even if it performs abortions, as long as the hospital does not give money to non hospital organizations that perform abortions. The only abortions the hospital can fund at non hospital places are those allowed under the exceptions for rape, incest, or life threatening conditions. Every year, the Secretary must write a report to Congress. The report must be submitted within sixty days after this law starts and then every year after that. The report must list every organization that gets Title X money. For organizations that perform abortions under the exceptions, the report must show how many total abortions they performed, how many were because of rape, how many were because of incest, and how many were because a doctor said the woman would die. The report must also show when each organization last signed their promise not to perform abortions. Finally, the report must list any organizations that received money from the Title X grant recipients. The section defines two important terms. Entity means the whole legal organization, including any organizations that control it or are controlled by it or are under the same control. Hospital has the same meaning as defined in the Social Security Act.",
+      "word_offset": 12,
+      "char_offset": 70
+    }
+  ]
+}

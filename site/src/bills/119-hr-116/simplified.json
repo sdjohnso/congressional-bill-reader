@@ -1,0 +1,220 @@
+{
+  "bill_id": "119-hr-116",
+  "title": "Stopping Border Surges Act",
+  "short_title": "Stopping Border Surges Act",
+  "congress": 119,
+  "bill_number": "HR.116",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subs",
+  "version_hash": "33b2dc684e03dfc9",
+  "last_updated": "2026-03-20T11:15:49.587563+00:00",
+  "plain_summary": "This bill makes it much harder for people to seek safety in America through asylum. It shortens the time people have to apply for asylum from one year to six months and makes it more difficult to prove they need protection. The bill allows the government to quickly send unaccompanied children back to their home countries, even those from far away places. It also creates new crimes with up to 10 years in prison for lying during asylum cases and lets the government detain families with children longer.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provi",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Administrative remedies",
+    "Border security and unlawful immigration",
+    "Child safety and welfare",
+    "Correctional facilities and imprisonment",
+    "Department of Homeland Security",
+    "Detention of persons",
+    "Evidence and witnesses",
+    "Family relationships",
+    "Federal preemption",
+    "Foreign labor",
+    "Foreign language and bilingual programs",
+    "Fraud offenses and financial crimes",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Human rights",
+    "Human trafficking",
+    "Immigrant health and welfare",
+    "Immigration status and procedures",
+    "International law and treaties",
+    "Lawyers and legal services",
+    "Licensing and registrations",
+    "Refugees, asylum, displaced persons",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 28,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "asylum seekers",
+    "border control",
+    "immigration detention",
+    "unaccompanied children",
+    "deportation",
+    "family separation",
+    "immigration prison",
+    "refugee protection",
+    "border security",
+    "asylum applications",
+    "immigration enforcement",
+    "migrant families"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-table-of-contents",
+      "title": "Section 1  Short Title; Table of Contents",
+      "text": "This law can be called the Stopping Border Surges Act. The law has two main parts. The first part deals with children who come to America alone without their parents. The second part changes the rules for asylum, which is when people ask to stay in America because they fear being hurt in their home country.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-101-repatriation-of-unaccompanied-alien-children",
+      "title": "Section 101  Repatriation of Unaccompanied Alien Children",
+      "text": "This section changes the rules for children who arrive in America without their parents or guardians. Under the new rules, all children who come alone can be sent back to their home countries more quickly. Before, only children from countries that border America like Mexico could be sent back quickly. Now this applies to children from any country. When these children are caught at the border, they must be interviewed by specially trained officers who know how to talk to children who might have been victims of trafficking (being forced to work or sold by criminals). If a child does not meet certain safety requirements, they must get a hearing with an immigration judge within fourteen days. The government must also keep detailed records about where these children are placed, including the names and addresses of the people who will care for them. Children can still get legal help, but the government does not have to pay for lawyers.",
+      "word_offset": 56,
+      "char_offset": 309
+    },
+    {
+      "id": "s3",
+      "slug": "section-102-clarification-of-standards-for-family-detention",
+      "title": "Section 102  Clarification of Standards for Family Detention",
+      "text": "This section allows the government to keep families with children in detention centers while their immigration cases are being decided. The government can hold families together in these facilities when parents are only charged with the misdemeanor crime of crossing the border illegally. Children who are with their parents can only be released to a parent or legal guardian who is legally allowed to be in America. The government does not have to assume that children should be released from detention. States cannot require these family detention centers to get special licenses to operate. This section is meant to change an old court agreement called Flores versus Meese that limited how long children could be kept in detention.",
+      "word_offset": 215,
+      "char_offset": 1253
+    },
+    {
+      "id": "s4",
+      "slug": "section-103-special-immigrant-juvenile-status",
+      "title": "Section 103  Special Immigrant Juvenile Status for Immigrants Unable to Reunite with Either Parent",
+      "text": "This section makes it harder for children to get special immigrant juvenile status. This is a type of legal protection for children who cannot safely return to their parents because of abuse, neglect, or abandonment. Under the new rules, a child cannot get this protection if they can safely be reunited with even one parent or legal guardian. Before, children could get protection even if they could safely return to one parent but not the other.",
+      "word_offset": 333,
+      "char_offset": 1988
+    },
+    {
+      "id": "s5",
+      "slug": "section-201-credible-fear-interviews",
+      "title": "Section 201  Credible Fear Interviews",
+      "text": "This section makes it harder for people to pass their credible fear interviews. These interviews happen when someone asks for asylum and must show they have a reasonable fear of being persecuted in their home country. Under the new rules, immigration officers must believe it is more likely than not that the person is telling the truth about their fear. They must also believe the person can prove they qualify for asylum under the existing rules.",
+      "word_offset": 409,
+      "char_offset": 2436
+    },
+    {
+      "id": "s6",
+      "slug": "section-202-jurisdiction-of-asylum-applications",
+      "title": "Section 202  Jurisdiction of Asylum Applications",
+      "text": "This section removes a rule that allowed some people to have their asylum cases heard by immigration judges instead of asylum officers. It eliminates an option that gave people more ways to apply for asylum.",
+      "word_offset": 485,
+      "char_offset": 2885
+    },
+    {
+      "id": "s7",
+      "slug": "section-203-recording-expedited-removal-and-credible-fear-interviews",
+      "title": "Section 203  Recording Expedited Removal and Credible Fear Interviews",
+      "text": "This section requires the Department of Homeland Security to make sure all interviews with people who might be quickly removed from the country are recorded and conducted in a standard way. Immigration officers must use checklists of questions and must explain their decisions in writing. When possible, written statements must be backed up by recordings of the actual interviews. The government must provide interpreters who are not connected to the government of the country the person is fleeing from. All interviews must have audio or video recordings that become part of the official record. However, people cannot sue the government if these recording rules are not followed.",
+      "word_offset": 520,
+      "char_offset": 3093
+    },
+    {
+      "id": "s8",
+      "slug": "section-204-safe-third-country",
+      "title": "Section 204  Safe Third Country",
+      "text": "This section creates new rules about safe third countries. If someone travels through other countries before reaching America, they may not be able to apply for asylum here. The government can now decide case by case whether someone should have asked for protection in another country first. There are three exceptions to this rule. First, if the person applied for protection in every country they passed through and was denied. Second, if the person was a victim of severe human trafficking and could not apply for protection because of that trafficking. Third, if the countries they passed through have not signed important international agreements about protecting refugees.",
+      "word_offset": 627,
+      "char_offset": 3775
+    },
+    {
+      "id": "s9",
+      "slug": "section-205-renunciation-of-asylum-status",
+      "title": "Section 205  Renunciation of Asylum Status Pursuant to Return to Home Country",
+      "text": "This section says that people who are granted asylum will lose that status if they return to their home country, unless conditions there have changed. The Secretary of Homeland Security can make exceptions if the person had a compelling reason to return home. People can ask for this exception before they leave America or after they come back.",
+      "word_offset": 734,
+      "char_offset": 4454
+    },
+    {
+      "id": "s10",
+      "slug": "section-206-notice-concerning-frivolous-asylum-applications",
+      "title": "Section 206  Notice Concerning Frivolous Asylum Applications",
+      "text": "This section requires that asylum applications include a written warning about filing fake or frivolous claims. The warning must explain that people who file false applications will be permanently banned from getting any immigration benefits. An application is considered frivolous if it is clearly filed just to delay deportation or get work authorization, or if important parts of the story are knowingly made up. However, people must be given a chance to explain any problems with their story before being found to have filed a frivolous application. People who file frivolous asylum applications can still ask for other types of protection to avoid being sent back to face torture.",
+      "word_offset": 792,
+      "char_offset": 4799
+    },
+    {
+      "id": "s11",
+      "slug": "section-207-anti-fraud-investigative-work-product",
+      "title": "Section 207  Anti-Fraud Investigative Work Product",
+      "text": "This section allows immigration judges and asylum officers to consider government investigation reports and statements made to government officials when deciding if someone is telling the truth about their asylum claim. This applies both to asylum cases and other types of removal proceedings.",
+      "word_offset": 901,
+      "char_offset": 5485
+    },
+    {
+      "id": "s12",
+      "slug": "section-208-clarification-of-asylum-eligibility",
+      "title": "Section 208  Clarification of Asylum Eligibility",
+      "text": "This section limits who can apply for asylum by requiring that people must arrive at an official port of entry, such as a border crossing or airport. People who cross the border illegally at places other than official entry points cannot apply for asylum under these new rules.",
+      "word_offset": 944,
+      "char_offset": 5779
+    },
+    {
+      "id": "s13",
+      "slug": "section-209-application-timing",
+      "title": "Section 209  Application Timing",
+      "text": "This section reduces the time limit for filing asylum applications from one year to six months after arriving in the United States.",
+      "word_offset": 992,
+      "char_offset": 6057
+    },
+    {
+      "id": "s14",
+      "slug": "section-210-clarification-of-burden-of-proof",
+      "title": "Section 210  Clarification of Burden of Proof",
+      "text": "This section changes the legal standard for proving persecution. Instead of showing persecution was at least one central reason for their treatment, asylum seekers must now prove persecution was the central reason.",
+      "word_offset": 1014,
+      "char_offset": 6189
+    },
+    {
+      "id": "s15",
+      "slug": "section-211-additional-exception",
+      "title": "Section 211  Additional Exception",
+      "text": "This section adds a new reason to deny asylum. People cannot get asylum if there are reasonable grounds to believe they could avoid persecution by moving to a different part of their home country.",
+      "word_offset": 1046,
+      "char_offset": 6404
+    },
+    {
+      "id": "s16",
+      "slug": "section-212-clarification-regarding-employment-eligibility",
+      "title": "Section 212  Clarification Regarding Employment Eligibility",
+      "text": "This section changes when asylum seekers can get work permits. Instead of being able to apply after one hundred eighty days, they must now wait one full year. The work permits will also expire after six months instead of lasting longer.",
+      "word_offset": 1080,
+      "char_offset": 6601
+    },
+    {
+      "id": "s17",
+      "slug": "section-213-penalties-for-asylum-fraud",
+      "title": "Section 213  Penalties for Asylum Fraud",
+      "text": "This section creates stronger criminal penalties for lying in asylum cases. Anyone who knowingly makes false statements or uses fake documents in asylum or withholding of removal cases can be fined and imprisoned for up to ten years.",
+      "word_offset": 1121,
+      "char_offset": 6838
+    },
+    {
+      "id": "s18",
+      "slug": "section-214-statute-of-limitations-for-asylum-fraud",
+      "title": "Section 214  Statute of Limitations for Asylum Fraud",
+      "text": "This section extends the time limit for prosecuting asylum fraud. The government can now bring criminal charges within ten years of discovering the fraud, instead of having shorter time limits.",
+      "word_offset": 1159,
+      "char_offset": 7072
+    },
+    {
+      "id": "s19",
+      "slug": "section-215-technical-amendments",
+      "title": "Section 215  Technical Amendments",
+      "text": "This section updates asylum law to give the Secretary of Homeland Security the same powers that were previously held only by the Attorney General. This reflects the fact that immigration enforcement moved from the Justice Department to the Department of Homeland Security.",
+      "word_offset": 1189,
+      "char_offset": 7266
+    }
+  ]
+}

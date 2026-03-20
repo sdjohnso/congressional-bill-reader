@@ -1,0 +1,163 @@
+{
+  "bill_id": "119-hr-101",
+  "title": "Judicial Administration and Improvement Act of 2025",
+  "short_title": "Judicial Administration and Improvement Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.101",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "2442f735f6b917d0",
+  "last_updated": "2026-03-20T15:44:24.300808+00:00",
+  "plain_summary": "This law breaks up the ninth federal court circuit, which is currently the largest in the country, into two smaller circuits. The ninth circuit will now only include California, Hawaii, Oregon, Washington, Guam, and the Northern Mariana Islands. A brand new twelfth circuit will be created to handle Alaska, Arizona, Idaho, Montana, and Nevada. The law explains how judges will be moved to the new circuits and how court cases that are already happening will be handled during this change.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "Alaska",
+    "Arizona",
+    "California",
+    "Federal appellate courts",
+    "Guam",
+    "Hawaii",
+    "Idaho",
+    "Judges",
+    "Judicial procedure and administration",
+    "Montana",
+    "Nevada",
+    "Northern Mariana Islands",
+    "Oregon",
+    "Washington State"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "split ninth circuit",
+    "divide federal courts",
+    "break up court system",
+    "new twelfth circuit",
+    "federal appeals court changes",
+    "court reorganization",
+    "western states courts",
+    "California court system",
+    "Alaska Arizona court changes",
+    "federal judge redistribution",
+    "court circuit reform",
+    "judicial system restructure"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Judicial Administration and Improvement Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, the following words have these meanings. Former ninth circuit means the ninth federal court area as it exists the day before this law takes effect. New ninth circuit means the ninth federal court area that is created by the changes made in section three. Twelfth circuit means the twelfth federal court area that is created by the changes made in section three.",
+      "word_offset": 16,
+      "char_offset": 100
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-number-and-composition-of-circuits",
+      "title": "Section 3  Number and Composition of Circuits",
+      "text": "Section forty one of title twenty eight of the United States Code is changed as follows. First, the number of court areas changes from thirteen to fourteen. Second, the ninth circuit area changes to include only California, Hawaii, Oregon, Washington, Guam, and the Northern Mariana Islands. Third, a new twelfth circuit area is created that includes Alaska, Arizona, Idaho, Montana, and Nevada.",
+      "word_offset": 81,
+      "char_offset": 475
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-number-of-circuit-judges",
+      "title": "Section 4  Number of Circuit Judges",
+      "text": "The chart in section forty four part a of title twenty eight of the United States Code is changed as follows. The ninth circuit will have twenty one judges instead of its current number. The new twelfth circuit will have eight judges.",
+      "word_offset": 143,
+      "char_offset": 871
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-places-of-circuit-court",
+      "title": "Section 5  Places of Circuit Court",
+      "text": "The chart in section forty eight part a of title twenty eight of the United States Code is changed to add the twelfth circuit. The twelfth circuit will hold court in Las Vegas, Phoenix, Anchorage, and Missoula.",
+      "word_offset": 185,
+      "char_offset": 1106
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-election-of-assignment-of-circuit-judges",
+      "title": "Section 6  Election of Assignment of Circuit Judges",
+      "text": "Each circuit judge who is actively working in the former ninth circuit must be assigned to a new circuit based on where their main work station is located. Judges working in California, Oregon, Washington, Guam, Hawaii, or the Northern Mariana Islands will automatically become judges in the new ninth circuit when this law takes effect. Judges working in Alaska, Arizona, Idaho, Montana, or Nevada will automatically become judges in the twelfth circuit when this law takes effect, unless they choose otherwise. These judges can choose to stay with the new ninth circuit instead by telling the Director of the Administrative Office of the United States Courts about their choice. For each judge position that moves from the former ninth circuit to the twelfth circuit, the President must appoint one additional judge to the twelfth circuit after that position becomes empty. The President needs the Senate to approve these appointments. This happens whether or not the judge chooses to stay with the ninth circuit.",
+      "word_offset": 222,
+      "char_offset": 1317
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-election-of-assignment-by-senior-judges",
+      "title": "Section 7  Election of Assignment by Senior Judges",
+      "text": "Senior circuit judges are judges who have stepped back from full duties but still help with cases. Each senior circuit judge from the former ninth circuit whose main work station is in Alaska, Arizona, Idaho, Montana, or Nevada can choose which circuit they want to work with. They can pick either the new ninth circuit or the twelfth circuit. They must tell the Director of the Administrative Office of the United States Courts about their choice.",
+      "word_offset": 385,
+      "char_offset": 2333
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-authorization-of-temporary-judgeships",
+      "title": "Section 8  Authorization of Temporary Judgeships",
+      "text": "For each active circuit judge who chooses to stay with the new ninth circuit instead of moving to the twelfth circuit, the President must appoint one additional judge to the twelfth circuit. The President needs the Senate to approve these appointments. This new judge must live in the same area where the choosing judge worked before this law took effect. For each of these temporary appointments to the twelfth circuit, an equal number of judge positions in the twelfth circuit will not be filled when they become empty in the future.",
+      "word_offset": 461,
+      "char_offset": 2782
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-seniority-of-judges",
+      "title": "Section 9  Seniority of Judges",
+      "text": "Seniority determines the order of importance among judges and affects things like who makes decisions first. For judges who choose to move to either the twelfth circuit or stay with the new ninth circuit, their seniority will be based on when they first became a judge in the former ninth circuit. For new judges appointed specifically to the twelfth circuit under section eight, their seniority will be based on when they became a judge in the twelfth circuit.",
+      "word_offset": 552,
+      "char_offset": 3318
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-application-to-cases",
+      "title": "Section 10  Application to Cases",
+      "text": "This section explains what happens to court cases that are already in progress when this law takes effect. If a case has already been submitted for a decision, the case will continue in the same way as if this law had never been passed. If a case has not yet been submitted for a decision, the case will be moved to whichever court area it would have gone to if this law had been in effect when the case started. All the case papers and records will be properly transferred to the new court. If someone has asked for a rehearing by all the judges together and that request is still pending when this law takes effect, the request will be handled by the court area that would have received it if this law had been in effect when the original case was filed.",
+      "word_offset": 630,
+      "char_offset": 3780
+    },
+    {
+      "id": "s11",
+      "slug": "section-11-administration",
+      "title": "Section 11  Administration",
+      "text": "The current ninth circuit court can take whatever administrative steps are needed to make this law work properly. This includes handling paperwork, organizing staff, and managing other business matters. The current ninth circuit court will stop existing for administrative purposes two years after this law takes effect.",
+      "word_offset": 774,
+      "char_offset": 4537
+    },
+    {
+      "id": "s12",
+      "slug": "section-12-effective-date",
+      "title": "Section 12  Effective Date",
+      "text": "This law and all the changes it makes will take effect one year after the date this law is signed.",
+      "word_offset": 821,
+      "char_offset": 4858
+    },
+    {
+      "id": "s13",
+      "slug": "section-13-authorization-of-appropriations",
+      "title": "Section 13  Authorization of Appropriations",
+      "text": "Congress approves spending whatever money is needed to make this law work. This includes money for providing proper office space and buildings for any new judge positions created by this law.",
+      "word_offset": 841,
+      "char_offset": 4957
+    }
+  ]
+}

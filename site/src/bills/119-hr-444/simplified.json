@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-444",
+  "title": "Native American Health Savings Improvement Act",
+  "short_title": "Native American Health Savings Improvement Act",
+  "congress": 119,
+  "bill_number": "HR.444",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "40ff73c4871c1f02",
+  "last_updated": "2026-03-20T15:22:36.295634+00:00",
+  "plain_summary": "This bill helps Native Americans save money on healthcare costs. Right now, Native Americans who get healthcare from the Indian Health Service or tribal health programs cannot open special tax-free savings accounts for medical expenses. The law says these Native Americans should be allowed to have these Health Savings Accounts even though they already have other health coverage. This will help them save money on healthcare and pay less in taxes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Moolenaar, John R. [R-MI-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Native American healthcare",
+    "tribal health savings",
+    "Indian Health Service",
+    "medical savings accounts",
+    "healthcare tax breaks",
+    "Native American tax benefits",
+    "tribal healthcare costs",
+    "health savings accounts",
+    "Indian healthcare funding",
+    "Native American medical expenses"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Native American Health Savings Improvement Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-individuals-eligible-for-indian-health-service-assistance-not-disqualified-from-health-savings-accounts",
+      "title": "Section 2 Individuals Eligible for Indian Health Service Assistance Not Disqualified from Health Savings Accounts",
+      "text": "This section changes the tax code to help Native Americans. Currently, people cannot have a Health Savings Account (a special bank account for medical expenses with tax benefits) if they already have other health coverage. This law creates a special exception. Native Americans who get hospital care or medical services through the Indian Health Service or tribal health programs will still be allowed to have Health Savings Accounts. Getting care from these Native American health programs will not count as having other health coverage that would block them from opening a Health Savings Account. This change will apply to tax years that start after December thirty first, two thousand twenty four.",
+      "word_offset": 12,
+      "char_offset": 75
+    }
+  ]
+}

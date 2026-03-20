@@ -1,0 +1,56 @@
+{
+  "bill_id": "119-hjres-8",
+  "title": "Proposing an amendment to the Constitution of the United States to provide certain line item veto authority to the President.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.8",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "e2cfee47cbd12602",
+  "last_updated": "2026-03-20T14:17:30.131855+00:00",
+  "plain_summary": "This bill wants to change the Constitution to give the President new power over spending. When Congress sends a spending bill to the President, he could sign it but also cut some of the money amounts in it. The President would have to tell Congress within 10 days which spending he cut. If two-thirds of both the House and Senate disagree with the cuts, they can vote to put the money back to the original amount.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Appropriations",
+    "Congressional-executive branch relations",
+    "Constitution and constitutional amendments",
+    "Legislative rules and procedure",
+    "Presidents and presidential powers, Vice Presidents"
+  ],
+  "sponsor_name": "Rep. McClintock, Tom [R-CA-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "president cut spending",
+    "line item veto",
+    "president reduce budget",
+    "cut government spending",
+    "presidential veto power",
+    "reduce federal budget",
+    "president strike spending",
+    "congressional spending cuts",
+    "executive budget control",
+    "president eliminate wasteful spending"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "proposed-constitutional-amendment",
+      "title": "Proposed Constitutional Amendment",
+      "text": "This joint resolution proposes adding a new article to the United States Constitution. The amendment would give the President new power to reduce spending amounts in bills passed by Congress. When Congress passes a spending bill and sends it to the President, the President could sign the bill into law but cut down any spending amounts in that bill. The bill would still become law, but with the lower spending amounts the President chose. If the President uses this power to cut spending, the President must tell both the House of Representatives and the Senate about the cuts within ten days. Congress can then vote to reject the President's spending cuts. If two thirds of both the House and Senate vote to disapprove the cuts, then the original higher spending amounts would be put back into the law. This amendment would only become part of the Constitution if three fourths of all state legislatures approve it within seven years of Congress proposing it.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-317",
+  "title": "Healthcare Freedom Act of 2025",
+  "short_title": "Healthcare Freedom Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.317",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "bb6574b6b0c9861d",
+  "last_updated": "2026-03-20T13:29:43.492300+00:00",
+  "plain_summary": "This bill creates new health freedom accounts that replace the old health savings accounts. All Americans can put up to twelve thousand dollars per year into these accounts without paying taxes on that money, and they can use it to pay for doctor visits, medicine, and health insurance. In five years, when companies hire new workers, they will have to put money into these health freedom accounts instead of giving them regular health insurance through work. This gives people more control over their own healthcare spending.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Roy, Chip [R-TX-21]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 9,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "health savings account",
+    "tax free medical expenses",
+    "healthcare spending account",
+    "employer health insurance replacement",
+    "medical expenses tax deduction",
+    "personal healthcare fund",
+    "health insurance alternative",
+    "tax free healthcare money",
+    "medical savings plan",
+    "healthcare freedom spending",
+    "individual health account",
+    "healthcare tax benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Healthcare Freedom Act of twenty twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-health-freedom-accounts",
+      "title": "Section 2 Health Freedom Accounts",
+      "text": "This section changes the tax code to create new health freedom accounts. These accounts replace health savings accounts and work differently. All people can now put money into these accounts and get a tax deduction, not just people with certain high-deductible health plans. People can put up to twelve thousand dollars per year into their account. Married couples filing taxes together can put in twenty-four thousand dollars. People who are fifty-five years old or older can put in an extra five thousand dollars. Money in these accounts can be used to pay for medical expenses, including direct primary care where you pay doctors directly, health care sharing ministries where groups share medical costs, and other medical cost sharing organizations. People can also use the money to buy any kind of health insurance coverage. Account holders can move their money from one health freedom account to another within sixty days without paying taxes or penalties. These changes will start applying to tax years that begin after this law is passed.",
+      "word_offset": 12,
+      "char_offset": 73
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-exclusion-for-employer-contributions-to-health-freedom-accounts",
+      "title": "Section 3 Exclusion for Employer Contributions to Health Freedom Accounts",
+      "text": "This section changes how employers can help pay for employee health care. Starting five years after this law passes, employers will no longer be able to provide traditional health insurance benefits to new employees they hire. Instead, employers can contribute money directly to health freedom accounts for these new employees. When an employer puts money into an employee's health freedom account, the employee does not have to pay income tax on that contribution. This change only affects employees hired five years or more after this law passes. Employees who were already working before that date can keep their current employer health insurance benefits. During the time between when this law passes and when the five-year period ends, employers can still contribute to health freedom accounts under current tax rules.",
+      "word_offset": 181,
+      "char_offset": 1120
+    }
+  ]
+}

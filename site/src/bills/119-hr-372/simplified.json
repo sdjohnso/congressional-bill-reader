@@ -1,0 +1,81 @@
+{
+  "bill_id": "119-hr-372",
+  "title": "Drug Testing for Welfare Recipients Act",
+  "short_title": "Drug Testing for Welfare Recipients Act",
+  "congress": 119,
+  "bill_number": "HR.372",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+  "version_hash": "24ef487d0e4a34f5",
+  "last_updated": "2026-03-20T13:40:08.696258+00:00",
+  "plain_summary": "This bill makes states test adults for illegal drugs before they can get government help like food stamps, cash assistance, or housing aid. Adults who were arrested for drug crimes in the past five years must take a drug test, while others take a screening test first and only get drug tested if they seem at high risk. Anyone who fails a drug test cannot get benefits for at least one year until they complete drug treatment and pass a new test. Their family members can still get help even if the adult is denied benefits. States that do not follow these rules will get less money from the federal government.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-20",
+  "last_action_date": "2025-02-20",
+  "last_action_text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [
+    "Drug, alcohol, tobacco use",
+    "Food assistance and relief",
+    "Intergovernmental relations",
+    "Low- and moderate-income housing",
+    "Poverty and welfare assistance",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Rouzer, David [R-NC-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "drug testing welfare",
+    "drug test food stamps",
+    "welfare drug screening",
+    "benefits drug test",
+    "government assistance drug test",
+    "welfare recipients drug testing",
+    "food stamps drug requirements",
+    "housing assistance drug test",
+    "welfare drug policy",
+    "government benefits drug screening"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Drug Testing for Welfare Recipients Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-drug-screening-and-testing-under-state-programs-for-temporary-assistance-for-needy-families",
+      "title": "Section 2 Drug Screening and Testing Under State Programs for Temporary Assistance for Needy Families",
+      "text": "This section changes the rules for a government program called Temporary Assistance for Needy Families (also known as TANF). This program gives money and help to families who need it. Under this new law, states cannot give assistance to adults who are eighteen years old or older unless they pass certain drug tests or screenings first. Before someone can get help, the state must check if that person was arrested for any drug crimes in the past five years. If someone was arrested for drug crimes during those five years, they must take a drug test and test negative for controlled substances (illegal drugs or prescription drugs used without a prescription). If someone was not arrested for drug crimes in the past five years, they must complete a substance abuse screening. This is like a questionnaire or interview to see if they might have a high risk of using drugs. If the screening shows they have low risk, they can get assistance. If it shows high risk, they must take and pass a drug test. If someone fails a drug test by testing positive for controlled substances, they cannot get assistance for at least twelve months. They also cannot get assistance until they complete treatment programs for each drug they tested positive for and until they pass new drug tests. States must pay for all testing and screening. They cannot make people pay for these tests. If someone in a family is denied help because of drug test results, other family members can still get their assistance. The federal government will reduce funding to states by fifteen percent if they do not follow these drug testing rules. These changes will start on the first day of the first month that comes after two hundred forty days from when this law is passed.",
+      "word_offset": 12,
+      "char_offset": 68
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-drug-screening-and-testing-under-the-supplemental-nutrition-assistance-program",
+      "title": "Section 3 Drug Screening and Testing Under the Supplemental Nutrition Assistance Program",
+      "text": "This section changes the rules for the Supplemental Nutrition Assistance Program (also called SNAP or food stamps). This program helps people buy food. Under this new law, adults who are eighteen years old or older must pass drug tests or screenings before they can get food assistance. The rules work the same way as in Section 2. States must check if someone was arrested for drug crimes in the past five years. People arrested for drug crimes must take and pass drug tests. People not arrested for drug crimes must complete substance abuse screening and may need to take drug tests if the screening shows they have high risk of drug abuse. If someone fails a drug test, they cannot get food assistance for at least one year. They also cannot get assistance until they complete treatment and pass new drug tests. States must pay for all testing and cannot make people pay for it. If the federal government finds that a state is not following these drug testing rules, it will reduce the money it gives to that state for running the food assistance program by fifteen percent. These changes will start two hundred forty days after this law is passed.",
+      "word_offset": 314,
+      "char_offset": 1811
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-drug-screening-and-testing-under-public-housing-and-section-8-rental-assistance-programs",
+      "title": "Section 4 Drug Screening and Testing Under Public Housing and Section 8 Rental Assistance Programs",
+      "text": "This section changes the rules for government housing programs including public housing and Section 8 rental assistance. These programs help people pay for places to live. Under this new law, adults who are eighteen years old or older must pass drug tests or screenings before they can get housing assistance. The rules work the same way as in the other sections. Housing agencies must check if someone was arrested for drug crimes in the past five years. People arrested for drug crimes must take and pass drug tests. People not arrested for drug crimes must complete substance abuse screening and may need to take drug tests if they have high risk of drug abuse. If someone fails a drug test, they cannot get housing assistance for at least twelve months. They also cannot get assistance until they complete treatment and pass new drug tests. Housing agencies must pay for all testing and cannot make people pay for it. If someone in a family fails drug tests but other family members pass, the family can still get some housing help. The amount of help will be reduced based on how many family members passed their tests compared to the total number of family members. If housing agencies do not follow these drug testing rules, the federal government will reduce their funding by fifteen percent. Housing agencies can use money from their existing programs to pay for drug testing. These changes will start on the first day of the first month that comes after two hundred forty days from when this law is passed.",
+      "word_offset": 516,
+      "char_offset": 2963
+    }
+  ]
+}

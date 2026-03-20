@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-s-192",
+  "title": "Restricting First Use of Nuclear Weapons Act of 2025",
+  "short_title": "Restricting First Use of Nuclear Weapons Act of 2025",
+  "congress": 119,
+  "bill_number": "S.192",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Foreign Relations.",
+  "version_hash": "2e600278641579b9",
+  "last_updated": "2026-03-20T13:44:28.564921+00:00",
+  "plain_summary": "This bill says the United States cannot use nuclear weapons first in a fight with another country unless Congress officially declares war. The President would not be allowed to launch nuclear weapons at an enemy unless that enemy has already attacked America or its allies with nuclear weapons first. If Congress has not declared war, no government money can be spent on firing nuclear weapons first. This law would require Congress to vote and approve before America could be the first country to use nuclear weapons in any conflict.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Read twice and referred to the Committee on Foreign Relations.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [
+    "Congressional-executive branch relations",
+    "Military command and structure",
+    "Military operations and strategy",
+    "Nuclear weapons",
+    "Presidents and presidential powers, Vice Presidents",
+    "War and emergency powers"
+  ],
+  "sponsor_name": "Sen. Markey, Edward J. [D-MA]",
+  "sponsor_party": "D",
+  "sponsor_state": "MA",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "nuclear weapons",
+    "first strike",
+    "president nuclear power",
+    "congress declare war",
+    "nuclear attack",
+    "no first use",
+    "nuclear policy",
+    "presidential war powers",
+    "nuclear launch authority",
+    "congress approval nuclear",
+    "nuclear weapons restrictions",
+    "prevent nuclear war"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Restricting First Use of Nuclear Weapons Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings-and-declaration-of-policy",
+      "title": "Section 2 Findings and Declaration of Policy",
+      "text": "Congress has found the following facts. First, the Constitution gives only Congress the power to declare war. Second, the people who wrote the Constitution knew that the huge decision to go to war, which can cause massive death and destroy civilized society, must be made by the representatives of the people and not by just one person. Third, as stated in the War Powers Resolution, the President as Commander in Chief can only send US Armed Forces into fighting when Congress has declared war, when Congress has given specific permission by law, or when there is a national emergency created by an attack on the United States, its territories or possessions, or its armed forces. Fourth, nuclear weapons are uniquely powerful weapons that can instantly kill millions of people, create long term health and environmental problems around the world, directly harm global peace, and put the United States at risk of deadly nuclear strikes in return. Fifth, a first use nuclear strike by the United States would be a major act of war. Sixth, a first use nuclear strike done without a declaration of war by Congress would violate the Constitution. Seventh, the President has the sole power to authorize the use of nuclear weapons, which is an order that military officers of the United States must carry out according to their duties under the Uniform Code of Military Justice. Eighth, since the Constitution gives Congress the exclusive power to declare war, Congress must provide meaningful checks and balances to the President's sole power to authorize the use of a nuclear weapon. It is the policy of the United States that no first use nuclear strike should be conducted without a declaration of war by Congress.",
+      "word_offset": 18,
+      "char_offset": 101
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-on-conduct-of-first-use-nuclear-strikes",
+      "title": "Section 3 Prohibition on Conduct of First Use Nuclear Strikes",
+      "text": "No federal money may be promised or spent to conduct a first use nuclear strike unless that strike is conducted under a war declared by Congress that clearly authorizes such a strike. In this section, the term first use nuclear strike means an attack using nuclear weapons against an enemy that is conducted without the Secretary of Defense and the Chairman of the Joint Chiefs of Staff first confirming to the President that there has been a nuclear strike against the United States, its territories, or its allies as specified in section three part b number two of the Arms Export Control Act.",
+      "word_offset": 304,
+      "char_offset": 1815
+    }
+  ]
+}

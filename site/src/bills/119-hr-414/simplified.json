@@ -1,0 +1,83 @@
+{
+  "bill_id": "119-hr-414",
+  "title": "Student Visa Security Improvement Act",
+  "short_title": "Student Visa Security Improvement Act",
+  "congress": 119,
+  "bill_number": "HR.414",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "6558ab47736bcfa4",
+  "last_updated": "2026-03-20T12:53:27.040423+00:00",
+  "plain_summary": "This bill makes the rules stricter for foreign students who want to study in the United States. The Department of Homeland Security must do more careful background checks on student visa applications and may require face-to-face interviews to make sure applicants are not connected to terrorist activities. Schools that have foreign students must watch them more closely and quickly tell the government if students change their major or transfer to a different school. The bill also asks for a review of how much money the student visa program costs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Bilirakis, Gus M. [R-FL-12]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "student visas",
+    "foreign students",
+    "international students",
+    "background checks",
+    "student visa security",
+    "homeland security",
+    "terrorist screening",
+    "visa interviews",
+    "student monitoring",
+    "school reporting requirements",
+    "visa program costs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Student Visa Security Improvement Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-enhanced-student-visa-background-checks",
+      "title": "Section 2. Enhanced Student Visa Background Checks",
+      "text": "The Department of Homeland Security must make stronger background checks for student visas. Within one hundred eighty days after this law passes, the Secretary of Homeland Security must create new rules. These rules will require special employees to review all student visa applications that the State Department recommends approving. These employees must check applications for F visas (regular students), J visas (exchange visitors), and M visas (vocational students). The employees must do face-to-face interviews when needed before making final decisions. They must pay special attention to finding out if applicants might be involved in terrorist activities. The employees can also visit locations in person to review applications and supporting papers when they think it is necessary. The Department of Homeland Security and the State Department must update their written agreement about how these employees will do their jobs with student visas.",
+      "word_offset": 11,
+      "char_offset": 66
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-student-and-exchange-visitor-program",
+      "title": "Section 3. Student and Exchange Visitor Program",
+      "text": "The Department of Homeland Security must improve how it tracks foreign students and exchange visitors in the United States. Within one year after this law passes, the Secretary must create new rules for schools and exchange programs. Schools must make sure each covered student (someone with an F, J, or M visa) is actively participating in their program. Students cannot go unobserved for more than thirty days during school terms or more than sixty days during breaks. However, all students must be observed at least once every sixty days no matter what. Being observed means someone confirms where the student is through physical contact or electronic tracking. Schools must report to the government within ten days when students transfer schools, change their major, or make other important changes. Schools must have at least two trained users who can access the Student and Exchange Visitor Information System called SEVIS. For every two hundred students, schools need one more trained user. All users must complete government training. The government will provide technical support to help schools use the system. The SEVIS system will be updated to include information about whether students are meeting minimum grade requirements and other required data. The government can remove approval from any school or program immediately if they are involved in serious crimes or threaten national security.",
+      "word_offset": 152,
+      "char_offset": 1019
+    },
+    {
+      "id": "s4",
+      "slug": "section-3-comptroller-general-review",
+      "title": "Section 3. Comptroller General Review",
+      "text": "The Comptroller General of the United States must review the fees that the Department of Homeland Security charges for the Student and Exchange Visitor Program. This review must look at two separate time periods. The first period covers fiscal years two thousand seventeen through two thousand nineteen. The second period covers fiscal years two thousand twenty through two thousand twenty three. The review must consider all money collected by the Department and all costs related to reviewing applications, issuing visas, keeping records, collecting data, and enforcing the program rules.",
+      "word_offset": 372,
+      "char_offset": 2427
+    },
+    {
+      "id": "s5",
+      "slug": "section-3-biannual-report",
+      "title": "Section 3. Biannual Report",
+      "text": "The Secretary of Homeland Security must send a report to Congress every six months. This report goes to the House Committee on Homeland Security and the Senate Committee on Homeland Security and Governmental Affairs. The report must analyze information about students who break the program rules and lose their legal status. It must also examine how well schools report problems with students and whether they report these problems on time.",
+      "word_offset": 461,
+      "char_offset": 3018
+    }
+  ]
+}

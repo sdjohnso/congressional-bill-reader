@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-512",
+  "title": "Imported Seafood Safety Standards Act",
+  "short_title": "Imported Seafood Safety Standards Act",
+  "congress": 119,
+  "bill_number": "HR.512",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Agriculture, for a period to be su",
+  "version_hash": "fe31ad3597ca4715",
+  "last_updated": "2026-03-20T13:41:55.754898+00:00",
+  "plain_summary": "This bill creates a special fund that uses money collected from taxes on shrimp brought into the United States from other countries. Half of this money will help the Food and Drug Administration check imported shrimp to make sure it is safe to eat and does not contain harmful chemicals like antibiotics. The other half will help the Department of Agriculture encourage Americans to buy and eat shrimp that is caught or raised in the United States. The goal is to make imported shrimp safer while also supporting American shrimp farmers and fishermen.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such pro",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Higgins, Clay [R-LA-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "imported shrimp safety",
+    "foreign seafood inspection",
+    "shrimp tariffs",
+    "FDA food safety",
+    "American shrimp farmers",
+    "seafood antibiotics",
+    "buy American seafood",
+    "imported food taxes",
+    "shrimp contamination",
+    "domestic shrimp industry",
+    "foreign shrimp chemicals",
+    "seafood import fees"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Imported Seafood Safety Standards Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-inspection-and-consumption-of-shrimp-and-shrimp-products-fund",
+      "title": "Section 2  Inspection and Consumption of Shrimp and Shrimp Products Fund",
+      "text": "The government will create a special fund called the Inspection and Consumption of Shrimp and Shrimp Products Fund. This fund will hold money that comes from taxes collected on shrimp brought into the United States from other countries. The Treasury Secretary will put seventy percent of these tax dollars into this fund starting in fiscal year two thousand twenty six and every year after that. These taxes include regular import duties and special penalties called countervailing duties and antidumping duties that are charged when other countries sell shrimp unfairly cheap or get government help to lower their prices. The shrimp products covered by this fund include fresh shrimp, frozen shrimp, and prepared shrimp foods that fall under specific trade codes in the official import classification system. Half of the money in this fund will go to the Food and Drug Administration to inspect shrimp for dangerous antibiotic contamination, train inspectors, build inspection capacity, and work with other government agencies to make sure imported shrimp does not come from sources that use forced labor or illegal fishing practices. The other half will go to the Department of Agriculture to promote Americans eating more domestic shrimp through existing food assistance programs. The money in this fund does not expire and must be used in addition to other government funding for these purposes, not instead of existing funding.",
+      "word_offset": 11,
+      "char_offset": 66
+    }
+  ]
+}

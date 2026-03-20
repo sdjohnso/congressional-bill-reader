@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-275",
+  "title": "Special Interest Alien Reporting Act of 2025",
+  "short_title": "Special Interest Alien Reporting Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.275",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "d82d372a0a128051",
+  "last_updated": "2026-03-20T12:30:30.548503+00:00",
+  "plain_summary": "This law makes the Department of Homeland Security write a report every month about people who try to enter the United States illegally and might be dangerous to our country's safety. The reports must say how many of these people were caught, what countries they came from, and where they were found trying to cross the border. The government will publish these reports so people can see this information. This helps keep track of people who might pose security risks to the United States.",
+  "current_status": "committee_reported",
+  "status_date": "2025-06-17",
+  "last_action_date": "2025-06-27",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [
+    "Border security and unlawful immigration",
+    "Congressional oversight",
+    "Government information and archives"
+  ],
+  "sponsor_name": "Rep. Greene, Marjorie Taylor [R-GA-14]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 6,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border security",
+    "illegal immigration",
+    "dangerous immigrants",
+    "homeland security reports",
+    "border crossings",
+    "immigration threats",
+    "national security risks",
+    "monthly immigration reports",
+    "caught at border",
+    "immigration tracking",
+    "security screening immigrants"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Special Interest Alien Reporting Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-publication-by-department-of-homeland-security",
+      "title": "Section 2 Publication by the Department of Homeland Security of the Number of Special Interest Aliens Encountered",
+      "text": "Starting with the first complete month after this law takes effect, the Secretary of Homeland Security must publish a monthly report by the seventh day of each month. This report must be posted on a public website that anyone can see. The Secretary must also send this report to two Congressional committees that deal with homeland security. The report must show how many special interest aliens the Department found trying to enter the United States illegally during the previous month. It must also list what countries these people came from or where they last lived. The report must break down these numbers by different geographic areas where people were found. It must explain whether people were found at official border crossings by land, air, or sea, or whether they were caught between official crossings or inside the United States. The report must identify which of these countries are covered nations. The very first report must also include information going back from January twentieth, two thousand twenty one through January nineteenth, two thousand twenty five. For this law, the word alien means a person who is not a United States citizen, as defined in existing immigration law. A covered nation is a country identified as such under existing federal law dealing with national security. A special interest alien is a person who is not a United States citizen and who might pose a national security risk to the United States or its interests based on where they have traveled.",
+      "word_offset": 16,
+      "char_offset": 93
+    }
+  ]
+}

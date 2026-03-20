@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-86",
+  "title": "NOSHA Act",
+  "short_title": "NOSHA Act",
+  "congress": 119,
+  "bill_number": "HR.86",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "373996664d4c8ce6",
+  "last_updated": "2026-03-20T14:19:58.431082+00:00",
+  "plain_summary": "The NOSHA Act would shut down OSHA, which is the government agency that makes sure workplaces are safe for employees. OSHA creates safety rules for businesses and checks that companies follow them to protect workers from getting hurt or sick on the job. This bill would eliminate all of OSHA's work, including safety training and education programs. It would also get rid of the 1970 law that first created workplace safety rules. If this bill passes, there would no longer be a federal agency making sure American workers have safe places to work.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Labor and Employment",
+  "subjects": [
+    "Department of Labor",
+    "Executive agency funding and structure",
+    "Worker safety and health"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "workplace safety",
+    "worker protection",
+    "job safety rules",
+    "OSHA shutdown",
+    "eliminate safety agency",
+    "workplace accidents",
+    "employee safety standards",
+    "job site safety",
+    "worker rights",
+    "safety regulations",
+    "occupational safety",
+    "workplace hazards"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Nullify Occupational Safety and Health Administration Act or the NOSHA Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-in-general",
+      "title": "Section 2  In General",
+      "text": "The Occupational Safety and Health Act of nineteen seventy is canceled. The Occupational Safety and Health Administration (a government agency that makes and enforces workplace safety rules) is shut down completely.",
+      "word_offset": 17,
+      "char_offset": 103
+    }
+  ]
+}

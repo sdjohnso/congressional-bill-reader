@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-547",
+  "title": "No Child Tax Credit for Illegals Act of 2025",
+  "short_title": "No Child Tax Credit for Illegals Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.547",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "b05910509d10bb7a",
+  "last_updated": "2026-03-20T13:51:32.035175+00:00",
+  "plain_summary": "This bill changes the rules for getting the child tax credit on your taxes. To get this tax credit, parents must provide social security numbers for themselves and their children, but only certain types of social security numbers count. The social security numbers must be given to people who are allowed to work in the United States. Military families get special treatment under this rule. If someone doesn't provide the right social security number, the IRS will treat it as a math error on their tax return.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Van Drew, Jefferson [R-NJ-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "child tax credit",
+    "social security number",
+    "work authorization",
+    "tax benefits",
+    "illegal immigrants",
+    "undocumented workers",
+    "tax credits",
+    "IRS requirements",
+    "military families",
+    "immigration status",
+    "tax returns",
+    "employment eligibility"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Child Tax Credit for Illegals Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-social-security-number-required-for-child-tax-credit",
+      "title": "Section 2  Social Security Number Required for Child Tax Credit",
+      "text": "This section changes the tax law about the child tax credit. The child tax credit is money the government gives back to parents to help with the costs of raising children. Under the new rules, parents cannot get this tax credit unless they provide social security numbers for themselves and their children on their tax forms. If parents are married and file their taxes together, both parents must provide their social security numbers. There is one exception for people serving in the military. If someone is in the Armed Forces and is married, only one spouse needs to provide a social security number instead of both. The law also explains what counts as a social security number. It must be a real social security number given out by the Social Security Administration. The number must be given to someone who is a United States citizen or to certain other people who are allowed to have social security numbers under federal law. The social security number must be given out before the tax return is due. If someone does not include the required social security numbers on their tax form, the government will treat this as a math or clerical error. The law removes an old rule that allowed people to use other types of identification numbers instead of social security numbers. These changes will start applying to tax years that begin after this law is passed.",
+      "word_offset": 18,
+      "char_offset": 93
+    }
+  ]
+}

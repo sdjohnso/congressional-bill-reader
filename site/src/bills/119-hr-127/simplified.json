@@ -1,0 +1,78 @@
+{
+  "bill_id": "119-hr-127",
+  "title": "Protection from Obamacare Mandates and Congressional Equity Act",
+  "short_title": "Protection from Obamacare Mandates and Congressional Equity Act",
+  "congress": 119,
+  "bill_number": "HR.127",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, House Administrat",
+  "version_hash": "923dff4441aa3ae7",
+  "last_updated": "2026-03-20T11:19:42.160271+00:00",
+  "plain_summary": "This bill makes two main changes to health insurance rules. First, it says people don't have to buy health insurance if they live in a county where fewer than two insurance companies sell plans. Second, it requires all members of Congress, their workers, the President, Vice President, and other government officials to buy their health insurance from the same marketplace as regular people. These government workers would also have to pay for their own insurance without any help from the government.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, House Administration, and Oversight and Government Reform, for a period to be subsequently determ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Congressional committees",
+    "Congressional leadership",
+    "Congressional officers and employees",
+    "Federal officials",
+    "Government employee pay, benefits, personnel management",
+    "Health care costs and insurance",
+    "Health care coverage and access",
+    "Presidents and presidential powers, Vice Presidents",
+    "Sales and excise taxes"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "obamacare",
+    "health insurance mandate",
+    "congress health insurance",
+    "government officials insurance",
+    "health insurance marketplace",
+    "insurance company choices",
+    "government employee benefits",
+    "president vice president insurance",
+    "health care exemptions",
+    "congressional health benefits",
+    "mandatory health insurance",
+    "government worker insurance costs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protection from Obamacare Mandates and Congressional Equity Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modifications-to-exemption-from-requirement-to-maintain-health-coverage",
+      "title": "Section 2  Modifications to Exemption from Requirement to Maintain Health Coverage",
+      "text": "This section creates a new exemption from the requirement to have health insurance. If you live in a county where fewer than two health insurance companies are selling plans through the government health insurance marketplace (called an Exchange), you do not have to pay the tax penalty for not having health insurance. When counting how many insurance companies are available, companies that are owned by the same parent company count as just one company. This new rule applies to any month that begins after this law is passed.",
+      "word_offset": 14,
+      "char_offset": 92
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-health-insurance-coverage-for-certain-congressional-staff-and-members-of-the-executive-branch",
+      "title": "Section 3  Health Insurance Coverage for Certain Congressional Staff and Members of the Executive Branch",
+      "text": "This section requires more government officials to get their health insurance through the same marketplace that regular people use. The rule now applies to Members of Congress, their staff, the President, the Vice President, and political appointees. Political appointees include people in high-level executive positions, certain Senior Executive Service positions, and confidential policy-making positions. The government will not help pay for these officials' health insurance premiums like it does for other federal employees. These officials also cannot get bigger tax credits or cost-sharing help than what a regular person in the same situation would get. Members of Congress cannot pick and choose which of their staff members have to buy insurance through the marketplace. Congress is not considered a small employer for the purposes of the business marketplace.",
+      "word_offset": 102,
+      "char_offset": 622
+    }
+  ]
+}

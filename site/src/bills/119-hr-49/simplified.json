@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-49",
+  "title": "No Pro-Abortion Task Force Act",
+  "short_title": "No Pro-Abortion Task Force Act",
+  "congress": 119,
+  "bill_number": "HR.49",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "ade8690e2fa39c00",
+  "last_updated": "2026-03-20T11:26:43.200370+00:00",
+  "plain_summary": "This bill stops the government from using tax money to pay for a special group called the Reproductive Healthcare Access Task Force. This group was started in 2022 by the Department of Health and Human Services to help people get reproductive health care. The bill also says the government cannot fund any new groups that would do the same job as this task force. The people who wrote this bill do not want the government to spend money helping with reproductive health care access.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Department of Health and Human Services",
+    "Executive agency funding and structure",
+    "Health programs administration and funding"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "abortion funding ban",
+    "stop government abortion money",
+    "reproductive health task force",
+    "no tax money abortion",
+    "defund abortion programs",
+    "government abortion spending",
+    "reproductive healthcare funding",
+    "abortion task force ban",
+    "taxpayer abortion money",
+    "government reproductive health"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Pro-Abortion Task Force Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-against-use-of-federal-funds-for-hhs-reproductive-healthcare-access-task-force",
+      "title": "Section 2 Prohibition Against Use of Federal Funds for HHS Reproductive Healthcare Access Task Force",
+      "text": "No federal government money can be used to pay for the HHS Reproductive Healthcare Access Task Force. This task force was announced by the Secretary of Health and Human Services on January twenty-first, two thousand twenty-two. Federal money also cannot be used for any replacement task force or any task force that does basically the same work.",
+      "word_offset": 11,
+      "char_offset": 59
+    }
+  ]
+}

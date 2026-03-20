@@ -1,0 +1,99 @@
+{
+  "bill_id": "119-s-97",
+  "title": "Securing Semiconductor Supply Chains Act",
+  "short_title": "Securing Semiconductor Supply Chains Act",
+  "congress": 119,
+  "bill_number": "S.97",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. ",
+  "version_hash": "1326176a146eb63c",
+  "last_updated": "2026-03-20T12:49:07.870632+00:00",
+  "plain_summary": "This law tells a government program called SelectUSA to work with states to bring more foreign companies to build semiconductor factories in America. SelectUSA must ask state officials what they think about how to get more foreign investment in making computer chips. The program then has to write a report for Congress within two years about what the states said and how to get more companies to invest in American semiconductor manufacturing. The goal is to make sure America has a strong supply of computer chips by getting foreign companies to build their factories here.",
+  "current_status": "passed_senate",
+  "status_date": "2025-05-20",
+  "last_action_date": "2025-05-26",
+  "last_action_text": "Held at the desk.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [
+    "Competitiveness, trade promotion, trade deficits",
+    "Computers and information technology",
+    "Congressional oversight",
+    "Economic development",
+    "Manufacturing",
+    "U.S. and foreign investments"
+  ],
+  "sponsor_name": "Sen. Peters, Gary C. [D-MI]",
+  "sponsor_party": "D",
+  "sponsor_state": "MI",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "semiconductor factories",
+    "computer chip manufacturing",
+    "foreign investment America",
+    "bring chip companies to US",
+    "semiconductor supply chain",
+    "chip shortage solutions",
+    "foreign companies build factories",
+    "microchip production America",
+    "tech manufacturing jobs",
+    "computer chip independence",
+    "semiconductor investment program",
+    "chip factory incentives"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Securing Semiconductor Supply Chains Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-selectusa-defined",
+      "title": "Section 2. SelectUSA Defined",
+      "text": "In this law, SelectUSA means a program run by the Department of Commerce. This program was created by Executive Order thirteen thousand five hundred seventy seven to help bring foreign businesses to invest in the United States.",
+      "word_offset": 11,
+      "char_offset": 69
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-findings",
+      "title": "Section 3. Findings",
+      "text": "Congress has found the following facts. First, semiconductors (computer chips) are the foundation of the United States and world economies, including manufacturing industries. These chips are also essential for keeping America safe. Second, a shortage of semiconductors caused by COVID-19 and other supply chain problems has threatened America's economic recovery and industries that employ millions of Americans. Third, solving current problems and preparing for future risks requires making sure America has a secure and stable supply of semiconductors to meet economic and national security needs for the United States and its allies. Fourth, the semiconductor supply chain is complex and spans the globe. While America leads in some parts of the semiconductor industry, securing the supply chain requires bringing production back to America or finding diverse suppliers for vulnerable parts like manufacturing facilities, advanced packaging, and materials and equipment used to make semiconductor products. Fifth, the Federal Government can use foreign investment and private money to grow America's domestic manufacturing ability for vulnerable parts of the semiconductor supply chain. Sixth, the SelectUSA program, working with other federal agencies and state economic development organizations, is well positioned to increase foreign investment in domestic manufacturing and help secure America's semiconductor supply chain.",
+      "word_offset": 48,
+      "char_offset": 297
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-coordination-with-state-level-economic-development-organizations",
+      "title": "Section 4. Coordination with State-Level Economic Development Organizations",
+      "text": "Within one hundred eighty days after this law is passed, the Executive Director of SelectUSA must ask for comments from state economic development organizations. These comments should review what the Federal Government can do to support more foreign investment in any part of semiconductor production, what barriers to such investment exist and how to strengthen state efforts to attract investment, public opportunities these organizations have found to attract foreign investment to increase such investment, and resource gaps or other challenges that prevent these organizations from increasing such investment. The comments should also develop recommendations for how SelectUSA can increase such investment on its own or through partnerships with these organizations, and for working with allied countries to make sure foreign adversaries (as defined in section eight subsection c paragraph two of the Secure and Trusted Communications Networks Act of two thousand nineteen) do not benefit from United States efforts to increase such investment.",
+      "word_offset": 248,
+      "char_offset": 1730
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-report-on-increasing-foreign-direct-investment",
+      "title": "Section 5. Report on Increasing Foreign Direct Investment in Semiconductor-Related Manufacturing and Production",
+      "text": "Within two years after this law is passed, the Executive Director of SelectUSA, working with the Federal Interagency Investment Working Group created by Executive Order thirteen thousand five hundred seventy seven, must submit a report to the Senate Committee on Commerce, Science, and Transportation and the House Committee on Energy and Commerce. This report must include a review of the comments SelectUSA received from state economic development organizations under section four, a description of activities SelectUSA is doing to increase foreign investment in semiconductor manufacturing and production, and an assessment of strategies SelectUSA may use to achieve an increase in such investment and help secure the United States supply chain for semiconductors. These strategies include working with other relevant federal agencies and working with state economic development organizations and putting into action any strategies or recommendations SelectUSA received from those organizations.",
+      "word_offset": 401,
+      "char_offset": 2780
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-no-additional-funds",
+      "title": "Section 6. No Additional Funds",
+      "text": "No extra money is approved to be set aside for carrying out this law. The Executive Director of SelectUSA must carry out this law using money that is already available to the Executive Director for such purposes.",
+      "word_offset": 542,
+      "char_offset": 3779
+    }
+  ]
+}

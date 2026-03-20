@@ -1,0 +1,111 @@
+{
+  "bill_id": "119-hr-478",
+  "title": "Promoting New Bank Formation Act",
+  "short_title": "Promoting New Bank Formation Act",
+  "congress": 119,
+  "bill_number": "HR.478",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Reported (Amended) by the Committee on Financial Services. H. Rept. 119-90.",
+  "version_hash": "62b749e2a5385e21",
+  "last_updated": "2026-03-20T12:34:41.705793+00:00",
+  "plain_summary": "This bill makes it easier to start new banks by giving them three years to slowly build up the money they need to keep on hand instead of having it all right away. During those three years, new banks can ask to change their business plans and regulators have to respond within 30 days. The bill also helps small rural banks by lowering how much money they need to keep compared to their loans for the first three years. Finally, it lets federal savings associations make loans to farmers, which they couldn't do as much before.",
+  "current_status": "committee_reported",
+  "status_date": "2025-05-06",
+  "last_action_date": "2025-05-06",
+  "last_action_text": "Placed on the Union Calendar, Calendar No. 64.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Agricultural prices, subsidies, credit",
+    "Bank accounts, deposits, capital",
+    "Banking and financial institutions regulation",
+    "Congressional oversight",
+    "Credit and credit markets",
+    "Financial services and investments",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Rural conditions and development"
+  ],
+  "sponsor_name": "Rep. Barr, Andy [R-KY-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 24,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "new banks",
+    "starting a bank",
+    "bank startup",
+    "small banks",
+    "rural banks",
+    "farm loans",
+    "banking requirements",
+    "bank capital rules",
+    "community banks",
+    "agricultural lending",
+    "bank formation",
+    "local banks"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Promoting New Bank Formation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-phase-in-of-capital-standards",
+      "title": "Section 2 Phase-in of Capital Standards",
+      "text": "Federal banking agencies must create rules that give new banks three years to meet federal capital requirements. Capital requirements are rules about how much money banks must keep on hand to stay safe. This three year period starts either when the bank becomes insured by the federal government, or when a bank holding company's bank subsidiary becomes federally insured. A bank holding company is a company that owns one or more banks.",
+      "word_offset": 11,
+      "char_offset": 61
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-changes-to-business-plans",
+      "title": "Section 3 Changes to Business Plans",
+      "text": "During the first three years after a bank becomes federally insured, the bank or its holding company can ask to change their approved business plan. When they make this request, the federal banking agency has thirty days to approve it, approve it with conditions, or deny it. If the agency denies the request, they must tell the bank why and suggest changes that would make the request acceptable. If the agency does not respond within thirty days, the request is automatically approved.",
+      "word_offset": 83,
+      "char_offset": 499
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-rural-community-depository-institution-leverage-ratio",
+      "title": "Section 4 Rural Community Depository Institution Leverage Ratio",
+      "text": "During the first three years after a rural bank becomes federally insured, its Community Bank Leverage Ratio must be eight percent. The Community Bank Leverage Ratio is a measure of how much capital a bank has compared to its assets. Federal banking agencies must create rules to gradually increase this ratio during the first two years, with lower percentages in the beginning. A rural bank means a bank with less than ten billion dollars in total assets that is located in a rural area as defined by federal regulations.",
+      "word_offset": 165,
+      "char_offset": 987
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-agricultural-loan-authority-for-federal-savings-associations",
+      "title": "Section 5 Agricultural Loan Authority for Federal Savings Associations",
+      "text": "This section changes the Home Owners Loan Act to allow federal savings associations to make agricultural loans. These can be loans with or without collateral for farming purposes. The section also removes agricultural loans from a list of restricted loan types.",
+      "word_offset": 254,
+      "char_offset": 1510
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-study-on-de-novo-insured-depository-institutions",
+      "title": "Section 6 Study on De Novo Insured Depository Institutions",
+      "text": "Federal banking agencies must work together to study why so few new banks have been created in the past ten years. De novo means newly created. They must also study ways to encourage more new banks in areas that do not have enough banking services. The agencies have one year from when this law is passed to report their findings to Congress.",
+      "word_offset": 295,
+      "char_offset": 1772
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-definitions",
+      "title": "Section 7 Definitions",
+      "text": "The terms used in this law have the same meanings as defined in section three of the Federal Deposit Insurance Act. These terms include appropriate Federal banking agency, depository institution, depository institution holding company, Federal banking agency, and insured depository institution.",
+      "word_offset": 357,
+      "char_offset": 2115
+    }
+  ]
+}

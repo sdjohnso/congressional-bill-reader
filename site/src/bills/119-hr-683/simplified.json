@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-683",
+  "title": "Combat Veterans Pre-Enrollment Act of 2025",
+  "short_title": "Combat Veterans Pre-Enrollment Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.683",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Health.",
+  "version_hash": "c3692bb5666d6463",
+  "last_updated": "2026-03-20T15:08:43.474459+00:00",
+  "plain_summary": "This bill creates a new program that lets combat veterans sign up for VA healthcare while they are still in the military. Veterans who served in combat after the Gulf War can choose to enroll in VA healthcare during the six months before they leave military service. When they finish their military service, they will automatically be enrolled in VA healthcare on their last day. The program will last for three years as a test to see how well it works. The VA, Defense Department, and other agencies will work together to make this happen and report to Congress about how it is going.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-04",
+  "last_action_date": "2025-03-04",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Congressional oversight",
+    "Health care costs and insurance",
+    "Health care coverage and access",
+    "Military medicine",
+    "Military personnel and dependents",
+    "Performance measurement"
+  ],
+  "sponsor_name": "Rep. Kim, Young [R-CA-40]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "combat veterans healthcare",
+    "military healthcare enrollment",
+    "VA healthcare signup",
+    "veterans medical benefits",
+    "military to civilian healthcare",
+    "combat veterans benefits",
+    "early VA enrollment",
+    "military discharge healthcare",
+    "veterans healthcare transition",
+    "combat veterans medical care"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Combat Veterans Pre-Enrollment Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-pilot-program-for-pre-enrollment",
+      "title": "Section 2  Pilot Program for Pre-Enrollment of Certain Members of the Armed Forces in System of Annual Patient Enrollment of the Department of Veterans Affairs",
+      "text": "The Secretary of Veterans Affairs must start a test program by October first, two thousand twenty seven. This program will let certain military members sign up for Veterans Affairs healthcare before they leave the military. The program will automatically enroll them in VA healthcare on the day they finish their military service. The military members who can use this program are those who are currently serving on active duty, would qualify for VA healthcare when they leave the military, and are covered under a specific part of federal law about combat veterans. The Secretary of Veterans Affairs will work with the Secretary of Defense and the Secretary of Homeland Security to create a way for qualifying military members to sign up early. They can do this during the one hundred eighty days before they leave military service. Every one hundred eighty days after this law is passed, and then once a year while the program runs, a joint committee from the VA and Defense Department must give briefings to Congress about how the program is working. The Secretary must also give Congress yearly reports about how many military members joined the program, how many were accepted or rejected for VA healthcare, and how many chose not to join. The report must include basic information about these service members like their age, ethnicity, how long they served, their military rank, and which branch of the military they served in. This test program will end three years after this law is passed. Two years after the program ends, the Government Accountability Office must study how well the program worked and give Congress recommendations for improving it. In this law, active military service means the same thing as defined in federal veterans law. The appropriate congressional committees means the Veterans Affairs committees and Armed Services committees in both the House of Representatives and the Senate.",
+      "word_offset": 15,
+      "char_offset": 91
+    }
+  ]
+}

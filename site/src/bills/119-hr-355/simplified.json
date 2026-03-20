@@ -1,0 +1,84 @@
+{
+  "bill_id": "119-hr-355",
+  "title": "Justice for Jocelyn Act",
+  "short_title": "Justice for Jocelyn Act",
+  "congress": 119,
+  "bill_number": "HR.355",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "9b21f8a45c3f2880",
+  "last_updated": "2026-03-20T13:05:24.017713+00:00",
+  "plain_summary": "The Justice for Jocelyn Act makes big changes to how immigrants are supervised while waiting for their court cases. The bill says immigrants can only be released from jail if all detention beds are full and there are no other options left. If immigrants are released, they must wear GPS tracking devices at all times and follow strict curfews. The bill also says that if an immigrant breaks any of these rules, they can be automatically removed from the country without going to court.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Nehls, Troy E. [R-TX-22]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigrant detention",
+    "GPS tracking immigrants",
+    "immigration jail",
+    "deportation without trial",
+    "immigrant supervision",
+    "immigration enforcement",
+    "detention beds",
+    "immigrant curfew",
+    "automatic deportation",
+    "immigration court waiting",
+    "immigrant ankle monitor",
+    "detention facility overcrowding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Justice for Jocelyn Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-participation-in-alternatives-to-detention",
+      "title": "Section 2 Limitation on Participation in Alternatives to Detention",
+      "text": "The government can only release immigrants from detention centers and put them in the Alternatives to Detention program under certain conditions. First, all detention beds that the Secretary of Homeland Security has available must be full. Second, there must be no other way to keep immigrants in detention. Third, the Secretary must have tried everything reasonable to keep immigrants in detention facilities.",
+      "word_offset": 10,
+      "char_offset": 52
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-gps-tracking-and-curfew-requirements-for-certain-aliens",
+      "title": "Section 3 GPS Tracking and Curfew Requirements for Certain Aliens",
+      "text": "Every immigrant who is not in detention but has an immigration case must be put in the Alternatives to Detention program. These immigrants must wear a GPS tracking device at all times during their entire immigration case, including any appeals. If they are ordered to leave the United States, they must keep wearing the GPS device until they actually leave the country. They also must stay at their approved home address every night from ten o'clock at night until five o'clock in the morning.",
+      "word_offset": 72,
+      "char_offset": 463
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-removal-of-aliens-who-fail-to-comply-with-release-order",
+      "title": "Section 4 Removal of Aliens Who Fail to Comply with Release Order",
+      "text": "This section changes existing immigration law. It adds a new rule that says if an immigration officer writes a sworn statement telling an immigration judge that an immigrant broke the rules of their release, that immigrant will be automatically ordered to leave the United States even if they are not present at their court hearing.",
+      "word_offset": 156,
+      "char_offset": 957
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-severability",
+      "title": "Section 5 Severability",
+      "text": "If a federal court decides that any part of this law goes against the Constitution, the rest of the law will still be valid and enforceable. The unconstitutional part will not affect the other parts of the law.",
+      "word_offset": 211,
+      "char_offset": 1290
+    }
+  ]
+}

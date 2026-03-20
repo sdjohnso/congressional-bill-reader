@@ -1,0 +1,52 @@
+{
+  "bill_id": "119-hr-334",
+  "title": "To amend the Communications Act of 1934 to establish technical and procedural standards for artificial or prerecorded voice systems created through generative artificial intelligence, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.334",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "db19c5a2967a4025",
+  "last_updated": "2026-03-20T15:42:29.001491+00:00",
+  "plain_summary": "This bill updates old phone rules to include new AI technology that can create fake human voices for phone calls. When someone uses AI to make recorded phone calls, they must clearly say who is calling and give their phone number or address. The system must also hang up within five seconds when the person being called ends the call. The Federal Communications Commission will be in charge of making sure people follow these rules for AI voice calls.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Allen, Rick W. [R-GA-12]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "AI phone calls",
+    "fake voice calls",
+    "robocalls",
+    "artificial intelligence voices",
+    "phone scams",
+    "recorded calls",
+    "voice cloning",
+    "phone regulations",
+    "telemarketing rules",
+    "automated calls",
+    "deepfake voices",
+    "phone call identification"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-technical-and-procedural-standards",
+      "title": "Section 1  Technical and Procedural Standards for Artificial or Prerecorded Voice Systems Created Through Generative Artificial Intelligence",
+      "text": "This bill changes an existing law called the Communications Act of nineteen thirty-four. The law already has rules about telephone systems that use artificial or prerecorded voices. This bill adds new words to make it clear that these rules also apply to voice systems created by generative artificial intelligence (a type of computer technology that can create new content, including copying people's voices). This includes voice cloning technology and other similar technologies that the Federal Communications Commission decides are important to regulate in the future.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

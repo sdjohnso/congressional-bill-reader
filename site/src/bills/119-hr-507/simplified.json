@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-507",
+  "title": "Veterans Member Business Loan Act",
+  "short_title": "Veterans Member Business Loan Act",
+  "congress": 119,
+  "bill_number": "HR.507",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "9f597084384b1908",
+  "last_updated": "2026-03-20T15:33:34.527548+00:00",
+  "plain_summary": "This bill helps veterans get business loans from credit unions more easily. Right now, credit unions have limits on how many business loans they can give out to their members. Under this new law, business loans made to veterans will not count toward those limits. This means credit unions can make more business loans to veterans without worrying about reaching their loan limits. The new rules will start working six months after the bill becomes law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Gonzalez, Vicente [D-TX-34]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 61,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans business loans",
+    "credit union loans",
+    "veteran small business",
+    "military business funding",
+    "credit union lending limits",
+    "veteran entrepreneurs",
+    "small business loans veterans",
+    "credit union business lending",
+    "veteran owned business financing",
+    "military small business loans"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Veterans Member Business Loan Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-member-business-loan-definition",
+      "title": "Section 2  Member Business Loan Definition",
+      "text": "This section changes the rules about what counts as a member business loan under the Federal Credit Union Act. The changes add a new exception so that loans made to veterans will not count as member business loans. The section also defines that a veteran means someone who meets the definition found in section one hundred and one of title thirty-eight of the United States Code. These changes will start working six months after this law is passed.",
+      "word_offset": 11,
+      "char_offset": 62
+    }
+  ]
+}

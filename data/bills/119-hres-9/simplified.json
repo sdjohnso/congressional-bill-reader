@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-hres-9",
+  "title": "Reaffirming that the United States is not a party to the Rome Statute and does not recognize the jurisdiction of the International Criminal Court.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.9",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Foreign Affairs.",
+  "version_hash": "444e1c52b2d4ee0f",
+  "last_updated": "2026-03-20T14:22:12.384993+00:00",
+  "plain_summary": "This resolution says that the United States is not part of an international agreement called the Rome Statute and does not accept the power of the International Criminal Court. The House of Representatives strongly disagrees with the court trying to arrest two Israeli leaders, including the Prime Minister. The resolution supports Israel's right to protect itself and its leaders from these international legal actions.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [
+    "Criminal investigation, prosecution, interrogation",
+    "Federal officials",
+    "International law and treaties",
+    "Israel",
+    "Middle East",
+    "Specialized courts"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "International Criminal Court",
+    "ICC",
+    "Rome Statute",
+    "Israel Prime Minister arrest",
+    "international court jurisdiction",
+    "US Israel support",
+    "international arrest warrants",
+    "American sovereignty",
+    "Netanyahu ICC",
+    "international law rejection",
+    "Israel self defense",
+    "US international court"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution reaffirms that the United States is not a party to the Rome Statute and does not recognize the jurisdiction of the International Criminal Court.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Facts",
+      "text": "The Constitution requires approval from two-thirds of the Senators present to ratify and confirm international treaties. President Bill Clinton signed the Rome Statute on December thirty-first, two thousand, but did not submit the treaty to the Senate for ratification. On May sixth, two thousand two, the Bush administration announced that the United States does not intend to become a party to the Rome Statute of the International Criminal Court. Article one hundred twenty-five of the Rome Statute states that it is subject to ratification, acceptance, or approval by signatory States. On May twentieth, two thousand twenty-four, the Prosecutor of the International Criminal Court, Karim Khan, took unprecedented measures announcing arrest warrant applications for Israeli Prime Minister Benjamin Netanyahu and Minister of Defense Yoav Gallant. The United States and Israel are not parties to the Rome Statute or members of the International Criminal Court. The United States does not recognize the legitimacy or jurisdiction of the International Criminal Court.",
+      "word_offset": 26,
+      "char_offset": 161
+    },
+    {
+      "id": "s3",
+      "slug": "house-resolution",
+      "title": "House Resolution",
+      "text": "The House of Representatives reaffirms that the United States is not a party to the Rome Statute and does not recognize the jurisdiction of the International Criminal Court. The House condemns the International Criminal Court's issuance of arrest warrant applications for Israeli Prime Minister Benjamin Netanyahu and Minister of Defense Yoav Gallant. The House reiterates its unwavering support for the State of Israel and its right to defend itself and its leaders from unwarranted international legal actions.",
+      "word_offset": 184,
+      "char_offset": 1228
+    }
+  ]
+}

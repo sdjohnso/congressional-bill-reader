@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-hr-426",
+  "title": "Housing Survivors of Major Disasters Act",
+  "short_title": "Housing Survivors of Major Disasters Act",
+  "congress": 119,
+  "bill_number": "HR.426",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "version_hash": "303870bb155362d3",
+  "last_updated": "2026-03-20T15:11:31.594648+00:00",
+  "plain_summary": "This bill makes it easier for people to get federal housing help after disasters. People can now get assistance even if their home is only damaged, not completely destroyed. The bill also helps people who don't have official papers proving they own their home by letting them use other evidence like tax bills or insurance papers. If someone doesn't have enough paperwork, they can sign a statement explaining why they own the home and still get help.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [],
+  "sponsor_name": "Rep. Espaillat, Adriano [D-NY-13]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "disaster housing help",
+    "federal assistance after hurricane",
+    "housing aid damaged homes",
+    "disaster relief housing",
+    "FEMA housing assistance",
+    "emergency housing programs",
+    "disaster victims housing support",
+    "temporary housing after disasters",
+    "housing help without deed",
+    "disaster housing for renters"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Housing Survivors of Major Disasters Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, FEMA means the Federal Emergency Management Agency. This is the government agency that helps people during disasters. Administrator means the person who runs FEMA.",
+      "word_offset": 12,
+      "char_offset": 69
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-eligibility-for-and-use-of-disaster-assistance",
+      "title": "Section 3 Eligibility For and Use of Disaster Assistance",
+      "text": "Sometimes people live in homes they own but do not have official papers proving they own them. When deciding whether to give disaster help to these people, the President should consider if they have constructive ownership. This means it is more likely than not that they really do own the home. The FEMA Administrator must look at all proof that people provide. This proof can include copies of deeds or titles for the property, mortgage payment books or other mortgage papers, property title for mobile homes, property tax receipts, wills that show the person owns the home, death certificates and birth certificates that show the home was passed down to them in states that do not require wills, homeowners insurance papers, home purchase contracts like bills of sale or land contracts, receipts for major home repairs or maintenance from the past five years, court documents, letters from mobile home park owners or managers that meet FEMA requirements, notices of federal benefits, student loan papers, or any other papers that can reasonably connect the person asking for help to the property. If the proof of ownership is not enough, the Administrator can ask the person to write and sign a statement under penalty of perjury explaining why they own the property. The Administrator cannot require this statement to be notarized by a notary public. Constructive ownership means that a person lives in a home they own, as decided by the Administrator, for the purposes of getting disaster assistance. These rules apply to money set aside by Congress on or after this law takes effect.",
+      "word_offset": 39,
+      "char_offset": 246
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-repair-and-rebuilding",
+      "title": "Section 4 Repair and Rebuilding",
+      "text": "This section changes existing disaster assistance law. It removes the requirement that homes must be completely uninhabitable to get help. Instead, homes just need to be damaged by a major disaster to qualify for assistance. The President can provide certain types of housing help if it costs less than other housing solutions, including the costs of temporary housing. The section also removes time limits on a pilot program that provides grants to disaster survivors. These changes only apply to applications received on or after this law takes effect and to money set aside by Congress on or after this law takes effect.",
+      "word_offset": 302,
+      "char_offset": 1835
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-determination-of-budgetary-effects",
+      "title": "Section 5 Determination of Budgetary Effects",
+      "text": "The cost effects of this law for budget rules will be based on an official statement about budget effects submitted to the Congressional Record by the Chairman of the House Budget Committee before the vote on this bill.",
+      "word_offset": 404,
+      "char_offset": 2459
+    }
+  ]
+}

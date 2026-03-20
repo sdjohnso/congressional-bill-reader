@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-420",
+  "title": "Federal Grant Accountability Act",
+  "short_title": "Federal Grant Accountability Act",
+  "congress": 119,
+  "bill_number": "HR.420",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Science, Space, and Technology.",
+  "version_hash": "05142130606ad49e",
+  "last_updated": "2026-03-20T14:56:24.976053+00:00",
+  "plain_summary": "This bill changes the rules for how much money colleges and universities can charge the federal government for extra costs when doing research projects. Right now, when the government gives money for research, schools can charge extra fees to cover things like building costs and office staff that help with the research but are not part of the actual project. The bill says schools can only charge the government the same amount they charge private companies for these extra costs. The government will study how much schools currently charge for these costs and write a report about it within one year.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Congressional oversight",
+    "Government studies and investigations",
+    "Higher education",
+    "Research administration and funding",
+    "School administration"
+  ],
+  "sponsor_name": "Rep. Cline, Ben [R-VA-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "college research funding",
+    "university government grants",
+    "research overhead costs",
+    "federal grant rules",
+    "school charging government",
+    "research project expenses",
+    "university fees government",
+    "college grant accountability",
+    "research funding limits",
+    "government university contracts"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Federal Grant Accountability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitations-on-indirect-costs",
+      "title": "Section 2. Limitations on Indirect Costs Allowable Under Federal Research Awards",
+      "text": "This section sets new rules about how much money colleges and universities can use for indirect costs when they get federal research grants. Indirect costs are expenses that support research but are not directly part of the research project itself, like building maintenance, utilities, and administrative staff salaries. Under the new rule, colleges and universities cannot charge the federal government more for indirect costs than what private companies typically pay when they fund research at those same schools. The Office of Management and Budget must figure out what private companies pay for indirect costs at least once every year. When calculating indirect costs, the government will use the same rules that are already written in part E of title two of the Code of Federal Regulations. The Comptroller General of the United States must do a study about indirect costs. This study will look at how much colleges charge for indirect costs when they get money from the federal government compared to when they get money from private companies. The study will examine grants from organizations like the National Institutes of Health and the National Science Foundation. The study must include information about average indirect cost rates for both federal and private research funding, which research areas get the most money from each type of funding, how much indirect cost money goes to pay administrative staff including those who work on diversity equity and inclusion programs, and how well federal agencies follow the rules for setting indirect cost rates. The Comptroller General must give Congress a report about this study within one year after this law is passed. The report should include recommendations for making the system for determining indirect costs better. This section also defines important terms. A federal research award means money that a federal government department or agency gives to a person or organization to do research, which can be in the form of a grant, contract, cooperative agreement, or similar arrangement. An institution of higher education means what that term means in section one hundred two of the Higher Education Act of nineteen sixty five. A private research award means money that a private company gives to support research at a college or university.",
+      "word_offset": 10,
+      "char_offset": 61
+    }
+  ]
+}

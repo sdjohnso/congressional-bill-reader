@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-s-122",
+  "title": "Qualified Immunity Act of 2025",
+  "short_title": "Qualified Immunity Act of 2025",
+  "congress": 119,
+  "bill_number": "S.122",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "f03c14974a0bb6b0",
+  "last_updated": "2026-03-20T13:11:02.367179+00:00",
+  "plain_summary": "This bill creates legal protection for police officers when people sue them for violating their rights. If an officer makes a mistake while doing their job, they cannot be sued as long as the law was not clear about whether their actions were wrong at the time. The protection applies to all police officers whether they work for cities, states, or the federal government. The bill also protects police departments and local governments from being sued if their officers qualify for this protection.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "subjects": [
+    "Civil actions and liability",
+    "Constitution and constitutional amendments",
+    "Due process and equal protection",
+    "Government liability",
+    "Law enforcement officers"
+  ],
+  "sponsor_name": "Sen. Banks, Jim [R-IN]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "police protection from lawsuits",
+    "sue police officers",
+    "police immunity",
+    "police officer legal protection",
+    "police misconduct lawsuits",
+    "suing cops",
+    "police accountability",
+    "police lawsuit shield",
+    "officer mistake protection",
+    "police civil rights lawsuits",
+    "government police protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Qualified Immunity Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has found the following facts. First, qualified immunity is meant to protect all government workers except those who are clearly not doing their job properly or those who knowingly break the law. It is supposed to give government workers room to make reasonable mistakes about facts and laws. Second, the Supreme Court has said that qualified immunity balances two important needs. One need is to hold police officers responsible when they use their power badly. The other need is to protect officers from being harassed, distracted, or sued when they do their jobs in a reasonable way.",
+      "word_offset": 13,
+      "char_offset": 73
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-codification-of-qualified-immunity",
+      "title": "Section 3  Codification of Qualified Immunity",
+      "text": "This section changes an existing law called Section nineteen seventy nine of the Revised Statutes. The law defines a law enforcement agency as any federal, state, tribal, or local public agency that supervises, prevents, detects, investigates, or locks up people for breaking laws and that has the legal power to arrest people. A law enforcement officer means any federal, state, tribal, or local official who is legally allowed to engage in or supervise preventing, detecting, investigating, or locking up people for breaking laws and who has the legal power to arrest people. This includes police officers and other agents of law enforcement agencies. Under the new rules, a law enforcement officer being sued individually cannot be found responsible if they can prove one of two things. First, that the constitutional or federal legal right was not clearly established when they violated it, or that the law was not clear enough that any reasonable officer would have known their actions broke the Constitution or federal law. Second, that a court with proper authority had issued a final decision that said the specific conduct was allowed under the Constitution and federal laws, and this decision was never reversed, cancelled, or overruled. Law enforcement agencies and local governments that employed an officer cannot be held responsible for the officer's actions if the officer is found not responsible under these rules and was acting within their job duties. These changes take effect one hundred eighty days after this law is passed.",
+      "word_offset": 111,
+      "char_offset": 669
+    }
+  ]
+}

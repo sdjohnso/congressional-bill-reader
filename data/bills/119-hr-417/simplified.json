@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-417",
+  "title": "End U.N. Censorship Act",
+  "short_title": "End U.N. Censorship Act",
+  "congress": 119,
+  "bill_number": "HR.417",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Foreign Affairs.",
+  "version_hash": "de78d7548b799a1b",
+  "last_updated": "2026-03-20T15:18:09.453677+00:00",
+  "plain_summary": "This bill stops the U.S. government from giving money to the United Nations for a computer tool called iVerify. The tool checks information and decides if it is false or misleading. The bill also prevents funding for any other similar programs that label speech as bad information. If any money was supposed to go to these programs, it will be taken away permanently and given to the U.S. Treasury instead.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Cline, Ben [R-VA-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "United Nations funding",
+    "UN censorship",
+    "fact checking",
+    "government money UN",
+    "information verification",
+    "speech monitoring",
+    "false information detection",
+    "UN programs funding",
+    "censorship prevention",
+    "government funding restrictions",
+    "information control",
+    "UN technology funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the End U.N. Censorship Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition",
+      "title": "Section 2 Prohibition",
+      "text": "No money from the federal government that goes to the State Department or any other government agency can be used for several things. First, it cannot be used to develop, put into action, or support a computer tool called iVerify that was created by the United Nations Development Programme. Second, it cannot be used for any other effort that tries to label speech or what people say as bad information, wrong information, or fake information. Third, it cannot be used to make voluntary payments to the United Nations or any part of the United Nations that funds, puts into action, develops, or supports the iVerify system or any similar computer system. It also cannot be used to support programs that try to label speech or what people say as bad, wrong, or fake information. Fourth, it cannot be used to make payments to any other international organization to fund, put into action, develop, or support the iVerify system or any similar effort that tries to label speech or what people say as bad, wrong, or fake information. Any money that is held back because of this rule must be permanently taken away on the date when the Secretary makes the decision described in the first part of this section. This money must be put into the general fund of the Treasury. This money will not be considered as unpaid bills that need to be paid back to the United Nations or any part of the United Nations.",
+      "word_offset": 10,
+      "char_offset": 52
+    }
+  ]
+}

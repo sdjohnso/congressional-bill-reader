@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-164",
+  "title": "POWER Act of 2025",
+  "short_title": "POWER Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.164",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "32f61ee118325da5",
+  "last_updated": "2026-03-20T15:30:56.243906+00:00",
+  "plain_summary": "The POWER Act of 2025 helps electric companies make power systems stronger after disasters. When electric companies get federal money to fix power lines after storms or other emergencies, they can also use that money to make improvements that prevent future damage. Electric companies can also get separate federal money from FEMA to protect their equipment from future disasters, even if they already got money to fix things after an emergency. This law makes it easier for electric companies to both repair damage and prepare for future problems at the same time.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [
+    "Electric power generation and transmission"
+  ],
+  "sponsor_name": "Rep. Hoyle, Val T. [D-OR-4]",
+  "sponsor_party": "D",
+  "sponsor_state": "OR",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "electric companies",
+    "power lines",
+    "disaster preparedness",
+    "storm damage",
+    "electricity grid",
+    "power outages",
+    "federal funding",
+    "FEMA money",
+    "utility repairs",
+    "infrastructure protection",
+    "electrical system",
+    "emergency response"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Promoting Opportunities to Widen Electrical Resilience Act of two thousand twenty five or the POWER Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-essential-assistance",
+      "title": "Section 2 Essential Assistance",
+      "text": "This section changes an existing disaster relief law called the Robert T. Stafford Disaster Relief and Emergency Assistance Act. The changes add new rules about how electric companies can get help from the federal government during disasters. Electric companies can now do two things at the same time when they get federal disaster help. They can restore power after an emergency and also do work to prevent future damage from hazards like storms or floods. This prevention work is called hazard mitigation. If an electric company gets federal help to restore power after an emergency, they can still apply for other federal money to protect their equipment from future disasters. Getting help for power restoration does not prevent them from getting help for hazard mitigation if they qualify for it. These new rules only apply to money that Congress sets aside on or after the day this law is signed.",
+      "word_offset": 27,
+      "char_offset": 160
+    }
+  ]
+}

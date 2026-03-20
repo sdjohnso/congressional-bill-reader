@@ -1,0 +1,53 @@
+{
+  "bill_id": "119-s-26",
+  "title": "A bill to exclude locality adjustments from average pay for purposes of computing the amount of retirement annuities of new employees.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "S.26",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "96a573fe3ed123e9",
+  "last_updated": "2026-03-20T14:32:33.004337+00:00",
+  "plain_summary": "This bill changes how retirement benefits are calculated for new federal workers. Many federal employees get extra pay called locality adjustments if they work in areas where private sector jobs pay more than government jobs. Right now, this extra pay is included when calculating how much money federal workers will get in retirement. Under this new law, only federal employees hired after the law passes would have their retirement benefits calculated without counting this extra locality pay. This means their retirement benefits would likely be lower than under the current system.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Employee benefits and pensions",
+    "Government employee pay, benefits, personnel management"
+  ],
+  "sponsor_name": "Sen. Cassidy, Bill [R-LA]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal employee retirement",
+    "government worker pension",
+    "locality pay retirement",
+    "federal retirement benefits",
+    "government pension calculation",
+    "federal worker retirement pay",
+    "locality adjustment retirement",
+    "new federal employee benefits",
+    "government retirement changes",
+    "federal pension reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-exclusion-of-locality-adjustments-from-retirement-annuities",
+      "title": "Section 1  Exclusion of Locality Adjustments from Retirement Annuities",
+      "text": "This section changes how retirement payments are calculated for new federal employees. It makes changes to section eight thousand four hundred one of title five in the United States Code. The changes say that when calculating average pay for retirement benefits, new employees cannot include locality pay adjustments. Locality pay adjustments are extra money that federal workers get based on where they work to account for higher costs of living in some areas. The bill defines a revised average pay employee as someone who was not already a federal employee or member of Congress when this law takes effect and who has never worked in a federal job that counts toward retirement. This person must start federal employment after this law passes. For these new workers, their retirement payments will be based only on their basic pay without the extra locality adjustments added in.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

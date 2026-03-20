@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hr-695",
+  "title": "Medal of Honor Act",
+  "short_title": "Medal of Honor Act",
+  "congress": 119,
+  "bill_number": "HR.695",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent.",
+  "version_hash": "bfd600db01d1808e",
+  "last_updated": "2026-03-20T11:40:15.496938+00:00",
+  "plain_summary": "This bill increases the special monthly payments that Medal of Honor recipients receive from about $1,400 to over $8,300. It also creates a new monthly payment of about $1,400 for spouses whose Medal of Honor recipient husbands or wives have died. Both payment amounts will go up each year to keep up with rising costs. The bill extends certain payment limits until January 2033.",
+  "current_status": "signed_into_law",
+  "status_date": "2025-12-01",
+  "last_action_date": "2025-12-01",
+  "last_action_text": "Became Public Law No: 119-43.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": true,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Inflation and prices",
+    "Veterans' pensions and compensation"
+  ],
+  "sponsor_name": "Rep. Nehls, Troy E. [R-TX-22]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "medal of honor",
+    "military heroes",
+    "veteran benefits",
+    "monthly payments",
+    "military awards",
+    "spouse benefits",
+    "veteran compensation",
+    "military families",
+    "hero pay",
+    "survivor benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Medal of Honor Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress states these facts. The Medal of Honor is the highest military award in the United States. To earn the Medal of Honor, a person must do something so brave and outstanding that it clearly goes far beyond the normal duty expected of a soldier. The actions of Medal of Honor recipients inspire courage and the willingness to sacrifice everything in those who serve in the military and those who will serve in the future. Those whose names are on the Medal of Honor Roll represent the best qualities of military members and are part of a long and proud tradition of people who went beyond what was required of them. According to section fifteen sixty-two of title thirty-eight of the United States Code, the Secretary of Veterans Affairs must pay a special monthly pension to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll. Recipients of the Medal of Honor have earned a large and historic increase to this special pension because of their obvious courage, steady commitment, and heroic actions that went far beyond what was required.",
+      "word_offset": 10,
+      "char_offset": 47
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-increase-in-department-of-veterans-affairs-special-pension-payable-to-medal-of-honor-recipients",
+      "title": "Section 3  Increase in Department of Veterans Affairs Special Pension Payable to Medal of Honor Recipients",
+      "text": "Section fifteen sixty-two of title thirty-eight of the United States Code is changed as follows. In part a, number one, the text is changed by adding letter A before The Secretary. The amount one thousand four hundred six dollars and seventy-three cents is removed and replaced with the rate described in letter B. A new letter B is added that says the rate described in this part equals the amount of monthly compensation paid to a veteran without dependents under part m of section eleven fourteen of this title, increased to the next intermediate rate under part p of that same section. In part e, the word Effective gets number one added before it. The words subject to paragraph two are added before the word shall. A new paragraph two is added that says the Secretary will not increase the amount of monthly special pension payable under part a in a year if that amount was already increased during that same year.",
+      "word_offset": 201,
+      "char_offset": 1153
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-extension-of-certain-limits-on-payments-of-pension",
+      "title": "Section 4  Extension of Certain Limits on Payments of Pension",
+      "text": "Section fifty-five oh three, part d, number seven of title thirty-eight of the United States Code is changed by removing November thirtieth, two thousand thirty-one and replacing it with January thirty-first, two thousand thirty-three.",
+      "word_offset": 363,
+      "char_offset": 2074
+    }
+  ]
+}

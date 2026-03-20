@@ -1,0 +1,81 @@
+{
+  "bill_id": "119-s-82",
+  "title": "Telework Reform Act of 2025",
+  "short_title": "Telework Reform Act of 2025",
+  "congress": 119,
+  "bill_number": "S.82",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "c9643865d789cb31",
+  "last_updated": "2026-03-20T11:53:06.817913+00:00",
+  "plain_summary": "This bill changes the rules for federal employees working from home. It requires agencies to review telework agreements every year and limits most telework arrangements to one year at a time. The bill also makes it easier for veterans, military spouses, and law enforcement spouses to get hired for jobs that allow full-time remote work. Additionally, it requires better security measures for employees working from home and asks for a study on how well government offices are serving the public compared to before the pandemic.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Commuting",
+    "Computers and information technology",
+    "Congressional oversight",
+    "Employee performance",
+    "Employment and training programs",
+    "Family relationships",
+    "Government employee pay, benefits, personnel management",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Labor-management relations",
+    "Law enforcement officers",
+    "Office of Personnel Management (OPM)",
+    "Veterans' education, employment, rehabilitation"
+  ],
+  "sponsor_name": "Sen. Lankford, James [R-OK]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal employees working from home",
+    "government telework rules",
+    "remote work for federal workers",
+    "work from home government jobs",
+    "veterans remote work",
+    "military spouse employment",
+    "government office security",
+    "federal telework agreements",
+    "pandemic government services",
+    "home office cybersecurity"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Telework Reform Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-telework-and-remote-work",
+      "title": "Section 2  Telework and Remote Work",
+      "text": "This section changes the rules about working from home for federal government workers. First, it creates clear definitions. An agency designated worksite is the main office building where an employee would normally work. An approved alternative worksite is any other place the government approves for an employee to work from, like their home. Remote work means working full time from an approved place that is not the main office. Telework means working from an approved place other than the main office on a regular, occasional, or full time basis.\n\nThe law sets new requirements for telework agreements. These agreements can only last for one year at a time. Every year, supervisors must review each teleworking employee. They must check if the work setup still makes sense, how well the employee is performing, and what the agency needs. The law also says that telework can be restricted if an employee was disciplined for not showing up to work without permission while teleworking, if their work performance falls below acceptable levels, or if they break other rules in the telework policy.\n\nFor remote workers, the law creates special limits. Remote workers may need to come into the main office sometimes. If a remote worker lives within seventy five miles of their main office, the government will not pay for their travel to that office unless the travel is required during work hours and approved by the agency head.\n\nThe law requires better training for all telework employees and their managers. This training must happen every year and must include how to accurately report telework in government time keeping systems. Agencies must also create systems to make sure employees are only working from approved locations.\n\nThe Office of Personnel Management must create new guidelines within one hundred eighty days of this law passing. These guidelines must protect information and computer systems used for telework. The Office of Management and Budget must review these guidelines every year with help from the Department of Homeland Security.\n\nTelework Managing Officers at each agency must do more work under this law. They must send out surveys every two years to see how well telework is working. They must also maintain websites with telework information for employees.\n\nThe law requires more detailed reporting about telework. Reports must show how many eligible employees work remotely full time, seven or more days per pay period, five or six days per pay period, three or four days per pay period, one or two days per pay period, or just occasionally.\n\nThe Office of Personnel Management must write new regulations to carry out this law. These regulations must explain how agencies decide which jobs can be done through telework, how to process changes in remote work locations, and who can approve remote work positions.\n\nSeveral reports are required. Within one hundred eighty days, Chief Human Capital Officers must report on updating telework rules. Within one year, agency heads must report on the benefits and problems of increasing remote work. The Office of Management and Budget must report monthly on federal employee attendance for five years. The Government Accountability Office must study how telework affects services to the public.\n\nFinally, the Office of Personnel Management must change existing regulations within one year to clarify that remote workers official worksite is their approved home location, not their government office.",
+      "word_offset": 13,
+      "char_offset": 70
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-noncompetitive-appointment-to-remote-work-positions",
+      "title": "Section 3  Noncompetitive Appointment to Remote Work Positions",
+      "text": "This section creates special hiring rules for remote work jobs in the federal government. It defines several important terms. A qualified covered veteran is a veteran who meets certain requirements under existing law. A remote work position is a job that an agency decides can be done entirely from home or another approved location away from the government office.\n\nThe law allows government agencies to hire certain people for remote work jobs without making them compete with other applicants. These special hiring rules apply to qualified veterans and people who are married to members of the military. The agency head must still decide that the person is qualified for the job.\n\nThe law also creates a seven year pilot program for spouses of law enforcement officers. During this time, agencies can hire spouses of law enforcement officers for remote work positions without competition, as long as they are qualified. Law enforcement officer includes federal agents who investigate crimes, carry guns, Department of Veterans Affairs police officers, and certain Customs and Border Protection employees who handle seized property.\n\nThe Office of Personnel Management must report on this law enforcement spouse pilot program. Starting four years after the law passes, and then every year until the program ends, they must tell Congress how many people were hired, what their pay levels and locations are, how long they have worked for the federal government, and other relevant information about whether the program works well.\n\nThe Office of Personnel Management must write or change regulations within one hundred eighty days to make this section work.",
+      "word_offset": 568,
+      "char_offset": 3546
+    }
+  ]
+}

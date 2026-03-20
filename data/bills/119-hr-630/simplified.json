@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-630",
+  "title": "Neighbors Not Enemies Act",
+  "short_title": "Neighbors Not Enemies Act",
+  "congress": 119,
+  "bill_number": "HR.630",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "ea3574e15610ceae",
+  "last_updated": "2026-03-20T14:40:19.978227+00:00",
+  "plain_summary": "The Neighbors Not Enemies Act removes an old law that gave the president special powers during wars. This old law let the president arrest and kick out people from other countries if the United States was at war with their home country or if their country threatened to attack America. The bill was introduced by Representative Omar and other members of Congress in January 2025. By removing this law, the government would no longer have these special powers to remove people based on what country they come from during wartime.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Omar, Ilhan [D-MN-5]",
+  "sponsor_party": "D",
+  "sponsor_state": "MN",
+  "cosponsor_count": 65,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "wartime detention",
+    "immigrant detention",
+    "foreign nationals arrest",
+    "presidential war powers",
+    "enemy aliens",
+    "wartime immigration",
+    "detention without trial",
+    "Omar immigration bill",
+    "removing people during war",
+    "arresting immigrants wartime",
+    "foreign country citizens detention",
+    "war emergency powers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Neighbors Not Enemies Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-alien-enemies-act",
+      "title": "Section 2 Repeal of Alien Enemies Act",
+      "text": "This section removes sections four thousand sixty seven through four thousand seventy of the Revised Statutes of the United States. These sections are found in title fifty of the United States Code, sections twenty one through twenty four. These sections made up what was called the Alien Enemies Act.",
+      "word_offset": 10,
+      "char_offset": 54
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-632",
+  "title": "Protecting Life on College Campus Act of 2025",
+  "short_title": "Protecting Life on College Campus Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.632",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "d679a0700a8c381f",
+  "last_updated": "2026-03-20T11:34:02.934995+00:00",
+  "plain_summary": "This bill would stop colleges and universities from getting federal money if their campus health clinics provide abortions or abortion drugs to students or employees. Schools that have health clinics on campus would have to promise in writing every year that they do not offer these services. If they want to keep receiving money from the federal government, they must follow this rule.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Abortion",
+    "Education programs funding",
+    "Health facilities and institutions",
+    "Higher education"
+  ],
+  "sponsor_name": "Rep. Roy, Chip [R-TX-21]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 28,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "college abortion ban",
+    "campus health clinics",
+    "federal funding abortion",
+    "university health services",
+    "college funding restrictions",
+    "campus abortion services",
+    "federal money colleges",
+    "university abortion ban",
+    "college health center funding",
+    "campus clinic restrictions"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting Life on College Campus Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-award-of-funds-to-certain-institutions-of-higher-education",
+      "title": "Section 2 Prohibition on Award of Funds to Certain Institutions of Higher Education",
+      "text": "The federal government cannot give money to any college or university that has or works with a health clinic on campus that gives abortion pills or performs abortions for students or employees. This includes money given directly to the school or through contracts with other organizations. To keep getting federal money, any college or university that has health clinics on campus must send a yearly report to the Secretary of Education and the Secretary of Health and Human Services. This report must promise that none of their health clinics give abortion pills or perform abortions for students or employees. An abortion drug means any medicine or substance used to kill an unborn baby when a woman is known to be pregnant, or to end a pregnancy on purpose for reasons other than having a live birth, removing a baby that has already died, or treating a pregnancy that grows outside the womb. An institution of higher education means a college or university as defined in the Higher Education Act of nineteen sixty five. A school-based service site means a health clinic on a college campus that gets federal money and provides health care to students. This includes basic health services, family planning services, online health services, and pharmacy services, whether provided by clinic employees or outside contractors. This does not include hospitals as defined by Social Security law.",
+      "word_offset": 17,
+      "char_offset": 94
+    }
+  ]
+}

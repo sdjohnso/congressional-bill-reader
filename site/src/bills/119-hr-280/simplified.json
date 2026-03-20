@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hr-280",
+  "title": "COAL Act of 2025",
+  "short_title": "COAL Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.280",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Energy and Mineral Resources.",
+  "version_hash": "acb779ce3fd46462",
+  "last_updated": "2026-03-20T12:45:54.179862+00:00",
+  "plain_summary": "The COAL Act of 2025 requires the government to quickly approve applications from companies that want to lease federal land to mine coal. If a company has already started the approval process, the government must finish reviewing their application and grant permission to lease the land. The bill also requires the government to give any additional approvals needed for mining to start on land that companies already lease. Finally, the bill cancels a 2016 order that stopped most new coal leases on federal land while the government reviewed its coal program.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-07-02",
+  "last_action_date": "2025-09-03",
+  "last_action_text": "Subcommittee Hearings Held",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [
+    "Coal",
+    "Environmental assessment, monitoring, research",
+    "Licensing and registrations",
+    "Mining"
+  ],
+  "sponsor_name": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "coal mining",
+    "federal land leasing",
+    "government approval process",
+    "mining permits",
+    "coal leases",
+    "public land mining",
+    "energy extraction",
+    "mining rights",
+    "coal industry",
+    "land use permits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Combating Obstruction Against Leasing Act of two thousand twenty five or the COAL Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-leasing-for-certain-qualified-coal-applications",
+      "title": "Section 2 Leasing for Certain Qualified Coal Applications",
+      "text": "In this section, a coal lease means an agreement where the United States government rents out land for coal mining through the Bureau of Land Management using their official form number three thousand four hundred dash zero twelve. A qualified application means any request that is waiting to be approved under the lease by application program run by the Bureau of Land Management. This program follows the Mineral Leasing Act and federal regulations in title forty three, part three thousand four hundred twenty five. The request must have already started the environmental review process required by the National Environmental Policy Act of nineteen sixty nine. As soon as possible after this law is passed, the Secretary of the Interior must quickly do several things for each qualified application. First, if it has not been done already, the Secretary must publish a draft environmental assessment for public comment as required by the National Environmental Policy Act and related rules. Second, the Secretary must finalize the fair market value of the coal land area where someone wants a lease. Third, the Secretary must take all the steps needed in between to approve the qualified application. Fourth, the Secretary must approve the qualified application. The Secretary must also approve any additional permissions from the Department of the Interior or its agencies that are needed for mining activities to start on coal leases that were already given out before.",
+      "word_offset": 25,
+      "char_offset": 142
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-future-coal-leasing",
+      "title": "Section 3 Future Coal Leasing",
+      "text": "Even if a court decision says otherwise or the department reviews the federal coal leasing program, Secretarial Order three thousand three hundred thirty eight will have no power or effect. This order was issued by the Secretary of the Interior on January fifteenth, two thousand sixteen.",
+      "word_offset": 260,
+      "char_offset": 1617
+    }
+  ]
+}

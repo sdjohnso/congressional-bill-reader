@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-367",
+  "title": "Territorial Tax Parity and Clarification Act",
+  "short_title": "Territorial Tax Parity and Clarification Act",
+  "congress": 119,
+  "bill_number": "HR.367",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "cb1544c4457c8979",
+  "last_updated": "2026-03-20T15:35:51.520124+00:00",
+  "plain_summary": "This bill changes tax rules for people who sell personal property in US territories like Puerto Rico and Guam. It adds new rules to the existing tax code to make things clearer for people living in these areas. The new rules will start working for taxes filed in 2024 and later years. The goal is to make tax rules more fair and easier to understand for people in US territories.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Caribbean area",
+    "Energy prices",
+    "Oil and gas",
+    "Sales and excise taxes",
+    "U.S. territories and protectorates",
+    "Virgin Islands"
+  ],
+  "sponsor_name": "Del. Plaskett, Stacey E. [D-VI]",
+  "sponsor_party": "D",
+  "sponsor_state": "VI",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Puerto Rico taxes",
+    "Guam taxes",
+    "US territory taxes",
+    "Virgin Islands taxes",
+    "selling property taxes",
+    "territory tax rules",
+    "island tax laws",
+    "Puerto Rico tax fairness",
+    "territory residents taxes",
+    "US island tax changes",
+    "Caribbean tax rules",
+    "personal property sales tax"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Territorial Tax Parity and Clarification Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modification-of-source-rules-for-personal-property-sales-in-possessions",
+      "title": "Section 2 Modification of Source Rules for Personal Property Sales in Possessions",
+      "text": "This section changes the tax rules about where income comes from when people sell personal property in United States territories. The law adds section nine hundred thirty two to an existing part of the tax code that already included section nine hundred thirty one. These changes will start applying to tax years that begin after December thirty first two thousand twenty three.",
+      "word_offset": 12,
+      "char_offset": 73
+    }
+  ]
+}

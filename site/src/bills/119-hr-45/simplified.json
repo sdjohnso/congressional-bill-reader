@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-45",
+  "title": "FIND Act",
+  "short_title": "FIND Act",
+  "congress": 119,
+  "bill_number": "HR.45",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "a9c58280d9d17568",
+  "last_updated": "2026-03-20T14:40:54.063420+00:00",
+  "plain_summary": "The FIND Act stops the federal government from hiring companies that treat gun and ammunition businesses unfairly. Any company that wants to work with the government must promise they do not have rules that hurt gun businesses and will not make such rules while working for the government. If a company breaks this promise, the government will end their contract and may not hire them again in the future. This rule also applies to smaller companies that work under the main contractor.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Firearms and explosives",
+    "Public contracts and procurement"
+  ],
+  "sponsor_name": "Rep. Bergman, Jack [R-MI-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 117,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gun businesses",
+    "ammunition companies",
+    "government contracts",
+    "federal hiring",
+    "gun discrimination",
+    "firearm industry",
+    "contractor requirements",
+    "gun rights",
+    "business discrimination",
+    "government procurement",
+    "weapon manufacturers",
+    "gun company protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Firearm Industry Non-Discrimination Act or the FIND Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-entering-into-contracts-with-entities-discriminating-against-the-firearm-and-ammunition-industry",
+      "title": "Section 2  Prohibition on Entering Into Contracts With Entities Discriminating Against the Firearm and Ammunition Industry",
+      "text": "This section creates new rules for government contracts. When a government agency makes a contract to buy goods or services, they must include special requirements. The main contractor must promise in writing that they do not have any policies or practices that unfairly treat firearm businesses or gun industry groups. They must also promise not to create such policies while working on the government contract. If the main contractor hires subcontractors (other companies to help with the work), there are similar rules. If a subcontractor will do more than ten percent of the total contract work, that subcontractor must make the same promises about not discriminating against firearm businesses. The main contractor cannot split up the work in tricky ways just to avoid these rules. If a contractor breaks these promises, the government will cancel their contract and may ban them from getting future government contracts. These rules do not apply to contracts where the government can only buy from one specific company because no other options exist. The law defines discrimination as making unfair judgments based on dislike of gun businesses rather than using fair business standards like credit history or legal compliance. A firearm entity means any licensed gun dealer, ammunition seller, gun safety device maker, or gun parts maker. A firearm trade association means an organization that represents gun industry businesses. These new rules will apply to all government contracts made after this law takes effect.",
+      "word_offset": 14,
+      "char_offset": 84
+    }
+  ]
+}

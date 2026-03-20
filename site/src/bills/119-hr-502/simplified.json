@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-502",
+  "title": "Protecting Infrastructure Investments for Rural America Act",
+  "short_title": "Protecting Infrastructure Investments for Rural America Act",
+  "congress": 119,
+  "bill_number": "HR.502",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Highways and Transit.",
+  "version_hash": "b4096e7c01354d59",
+  "last_updated": "2026-03-20T13:24:58.040542+00:00",
+  "plain_summary": "This bill makes changes to a government program that gives money to rural areas for building and fixing roads, bridges, and tunnels. The bill makes it easier for smaller towns to get this money by changing the rules about what counts as rural and requiring that very small communities get at least five percent of all the funding. It also allows the government to pay for up to 90 percent of project costs in the smallest towns, which helps them afford these important transportation improvements. The goal is to help rural areas grow their economies and improve life for people living there.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-17",
+  "last_action_date": "2025-01-17",
+  "last_action_text": "Referred to the Subcommittee on Highways and Transit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Finstad, Brad [R-MN-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "MN",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "rural roads funding",
+    "small town infrastructure money",
+    "bridge repair rural areas",
+    "country road improvements",
+    "federal highway grants",
+    "transportation funding rural communities",
+    "infrastructure investment small towns",
+    "rural bridge construction",
+    "highway money rural areas",
+    "small community road repairs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting Infrastructure Investments for Rural America Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-rural-surface-transportation-grant-program",
+      "title": "Section 2 Rural Surface Transportation Grant Program",
+      "text": "This section changes the rules for a federal program that gives money to rural areas for transportation projects like roads and bridges. The changes include defining what counts as a rural area and a small community. A rural area is now defined as a place with thirty thousand people or less, instead of the old limit of over two hundred thousand people. A small community is defined as an area outside of cities that has five thousand people or less. The program's goals are expanded to include helping rural areas grow economically and improving the quality of life for people in rural areas and small communities. The types of projects that can get money are expanded to include highway, road, bridge, or tunnel projects that would help the economic development or improve quality of life for people in the community where the project happens. For projects in small communities, the federal government can pay up to ninety percent of the costs. The Secretary of Transportation must use at least five percent of the program's money each year specifically for projects in small communities.",
+      "word_offset": 13,
+      "char_offset": 88
+    }
+  ]
+}

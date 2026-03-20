@@ -1,0 +1,93 @@
+{
+  "bill_id": "119-s-135",
+  "title": "Wildland Firefighter Paycheck Protection Act of 2025",
+  "short_title": "Wildland Firefighter Paycheck Protection Act of 2025",
+  "congress": 119,
+  "bill_number": "S.135",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "f030ea945174ddfe",
+  "last_updated": "2026-03-20T13:31:50.142010+00:00",
+  "plain_summary": "This bill gives federal wildland firefighters higher pay than they get now. Firefighters with lower job levels get bigger pay raises than those with higher job levels. When firefighters work on big fires that last more than 36 hours, they get extra pay on top of their regular wages. The bill also gives firefighters paid time off to rest after working on these long fire emergencies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Employee leave",
+    "Fires",
+    "First responders and emergency personnel",
+    "Forests, forestry, trees",
+    "Government employee pay, benefits, personnel management",
+    "Government information and archives",
+    "Wages and earnings"
+  ],
+  "sponsor_name": "Sen. Padilla, Alex [D-CA]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "wildfire fighter pay",
+    "forest fire pay raise",
+    "firefighter wages",
+    "wildland firefighter salary",
+    "fire emergency pay",
+    "firefighter overtime",
+    "forest service pay",
+    "wildfire worker benefits",
+    "fire crew wages",
+    "firefighter time off",
+    "emergency responder pay",
+    "wildfire hazard pay"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Wildland Firefighter Paycheck Protection Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-special-base-rates-of-pay-for-wildland-firefighters",
+      "title": "Section 2 Special Base Rates of Pay for Wildland Firefighters",
+      "text": "This section creates new higher base pay rates for wildland firefighters. A wildland firefighter is someone who fights fires in forests and wildlands, not building fires. They must work for the Forest Service or the Department of the Interior. The new pay rates replace the regular government pay scale rates. For lower pay grades like GS one through GS five, firefighters get much bigger increases ranging from forty two percent down to thirty percent. For higher pay grades like GS thirteen through GS fifteen, the increases are smaller, ranging from six percent down to one and a half percent. This higher base pay counts as regular salary for all purposes, including calculating overtime and retirement benefits. Workers who are paid by the hour instead of salary also get similar percentage increases. These changes take effect after the temporary firefighter pay increases that were already in place end.",
+      "word_offset": 15,
+      "char_offset": 95
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-wildland-fire-incident-response-premium-pay",
+      "title": "Section 3 Wildland Fire Incident Response Premium Pay",
+      "text": "This section creates extra premium pay for wildland firefighters when they are sent away from their normal work location to fight fires or respond to fire emergencies. The premium pay equals four hundred fifty percent of their regular hourly pay rate for each day they are deployed. However, there are limits. Workers earning more than a GS ten step ten salary only get the premium based on that lower salary level. Also, no worker can get more than nine thousand dollars in premium pay per year. The premium pay applies when firefighters are sent to fight wildfires, help with planned burns, or are positioned in high fire risk areas. It does not apply to small fires that are put out within thirty six hours. This premium pay does not count toward regular salary for retirement or other benefit calculations. The Secretaries of Agriculture and Interior can adjust these amounts after studying how the new pay compares to what firefighters earned in twenty twenty three and twenty twenty four. They must report their findings to Congress.",
+      "word_offset": 162,
+      "char_offset": 1006
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-rest-and-recuperation-leave-for-employees-engaged-in-wildland-firefighting",
+      "title": "Section 4 Rest and Recuperation Leave for Employees Engaged in Wildland Firefighting",
+      "text": "This section gives wildland firefighters paid time off to rest after fighting fires. The Secretaries of Agriculture and Interior will create rules about when firefighters get this rest time. The rules may include limits on how many days firefighters can work on a fire assignment before they must get rest days. The rules may also limit firefighters to no more than sixteen hours per day on average over a fourteen day period. The rest time is paid like regular vacation leave and must be used right after the fire assignment ends. Firefighters cannot save this rest time for later use and do not get paid if they do not use it. Workers with irregular schedules get the same rest time as regular workers and receive pay as if they were using the rest leave.",
+      "word_offset": 337,
+      "char_offset": 2046
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-transfer-authority",
+      "title": "Section 5 Transfer Authority",
+      "text": "This section allows up to five million dollars to be moved from Forest Service wildfire management money to Interior Department wildfire management money. This transfer can only happen if needed to continue paying the temporary firefighter salary increases that were already in place before this new law takes effect.",
+      "word_offset": 471,
+      "char_offset": 2804
+    }
+  ]
+}

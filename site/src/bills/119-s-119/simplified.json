@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-s-119",
+  "title": "No Retaining Every Gun In a System That Restricts Your Rights Act",
+  "short_title": "No Retaining Every Gun In a System That Restricts Your Rights Act",
+  "congress": 119,
+  "bill_number": "S.119",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "20ab7cbe253e1d29",
+  "last_updated": "2026-03-20T16:01:54.428034+00:00",
+  "plain_summary": "This bill changes the rules about gun sale records when gun stores close down. Right now, when a gun store goes out of business, it has to give all its records about gun sales to a government agency called the ATF. This bill says gun stores don't have to do that anymore, and it makes the ATF destroy all the gun sale records it already collected from closed stores. The ATF also has to tell Congress how many records it destroyed.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Congressional oversight",
+    "Firearms and explosives",
+    "Government information and archives"
+  ],
+  "sponsor_name": "Sen. Risch, James E. [R-ID]",
+  "sponsor_party": "R",
+  "sponsor_state": "ID",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "gun store records",
+    "gun sale records",
+    "ATF records",
+    "gun shop closes",
+    "firearm purchase records",
+    "gun store shutdown",
+    "destroy gun records",
+    "gun registry",
+    "gun sale tracking",
+    "firearm records deletion"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the No Retaining Every Gun In a System That Restricts Your Rights Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-destruction-of-bureau-of-alcohol-tobacco-firearms-and-explosives-firearm-transaction-records-of-discontinued-firearms-businesses",
+      "title": "Section 2. Destruction of Bureau of Alcohol, Tobacco, Firearms, and Explosives Firearm Transaction Records of Discontinued Firearms Businesses",
+      "text": "Within ninety days after this law goes into effect, the head of the Bureau of Alcohol, Tobacco, Firearms, and Explosives (a federal agency that regulates guns) must destroy all gun sale records that gun stores gave to the Attorney General when those gun stores went out of business. The law also changes the existing rules to stop the federal government from collecting these records from gun stores that close down in the future.",
+      "word_offset": 18,
+      "char_offset": 94
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-report-to-congress",
+      "title": "Section 3. Report to Congress",
+      "text": "The head of the Bureau of Alcohol, Tobacco, Firearms, and Explosives must send a written report to Congress that tells how many gun sale records were destroyed as required by Section 2.",
+      "word_offset": 91,
+      "char_offset": 525
+    }
+  ]
+}

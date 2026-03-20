@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-638",
+  "title": "Housing Temperature Safety Act of 2025",
+  "short_title": "Housing Temperature Safety Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.638",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "1e47370e5816c0da",
+  "last_updated": "2026-03-20T14:19:18.637681+00:00",
+  "plain_summary": "This law creates a three-year program to help keep rental homes at safe temperatures. The government will give money to housing agencies and landlords to put special temperature measuring devices in homes that get government help with rent. These devices will help make sure the homes are not too hot or too cold for people living there. After testing how well these devices work, the government will write reports to Congress about what they learned.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [
+    "Congressional oversight",
+    "Government information and archives",
+    "Housing and community development funding",
+    "Housing for the elderly and disabled",
+    "Lighting, heating, cooling",
+    "Low- and moderate-income housing",
+    "Performance measurement",
+    "Public housing"
+  ],
+  "sponsor_name": "Rep. Torres, Ritchie [D-NY-15]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "rental housing temperature",
+    "apartment heating cooling",
+    "safe housing temperatures",
+    "government rental assistance",
+    "housing temperature monitoring",
+    "landlord heating requirements",
+    "rental home safety",
+    "apartment temperature control",
+    "housing assistance programs",
+    "rental property standards"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Housing Temperature Safety Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-temperature-sensor-pilot-program",
+      "title": "Section 2 Temperature Sensor Pilot Program",
+      "text": "The Secretary of Housing and Urban Development will create a three year test program. This program will give money to public housing agencies and owners of government assisted rental homes. The money will help them buy and install devices that measure temperature in apartments and houses. The goal is to test how well these devices work to make sure homes stay at safe temperatures. The Secretary has one hundred eighty days after this law passes to create rules about who can join the test program. These rules must make sure the program includes different types of participants from different parts of the country with different climates and different sizes and types of housing. The rules must also explain what the temperature devices need to do and whether they need internet connections. Public housing agencies and owners who get these temperature devices must ask permission from residents before installing them in their homes. Then they must watch and keep track of the information the devices collect. These agencies and owners must also collect and keep records about complaints and problems related to temperature in their buildings. The Secretary has one hundred eighty days to explain what counts as a temperature related complaint and what counts as a temperature related violation. All information collected from the temperature devices must be kept until the Secretary says the test program and review are finished. The Secretary has one hundred eighty days to create rules for protecting private personal information that gets collected during this test program by housing agencies, owners, and the Secretary. After twelve months of the test program, the Secretary must write and publish a report for Congress. This report must look at how many temperature complaints and violations happened in government assisted rental homes that have temperature devices. The report must separate this information by the type of temperature device used and the climate of the area. The report must compare complaints and violations that happened before the devices were installed with those that happened after installation if this information is available. The report must also identify any problems that prevent the temperature devices from working properly including lack of internet access and whether tenants participate. After thirty six months from when the test program ends, the Secretary must write and publish a final report for Congress. This final report must examine the same information as the twelve month report about temperature complaints and violations before and after device installation separated by device type and climate area. It must identify barriers to using temperature devices effectively including internet access and tenant participation. The final report must also compare different types of temperature devices based on climate zones, cost, features, and any other factors the Secretary thinks are important. For this law, a temperature sensor means an internet connected device that can measure air temperature and report it to the tenth of a degree in both Fahrenheit and Celsius. Covered federally assisted rental dwelling unit means a home or apartment that is rented out and receives help from the federal government or is part of a housing project that gets federal help. This includes homes that get help under section eight project based rental assistance, public housing, supportive housing for elderly people under section two hundred two, or supportive housing for people with disabilities under section eight hundred eleven. Owner means different things depending on the type of housing program. For section eight project based rental assistance, it means any private person or organization including cooperatives, federal agencies, or public housing agencies that have the legal right to rent out homes. For public housing, it means a public housing agency or an owner of public housing units as defined in federal regulations. For supportive housing for elderly people, it means a private nonprofit organization. For supportive housing for people with disabilities, it means a private nonprofit organization. Secretary means the Secretary of Housing and Urban Development. Congress approves spending whatever money is needed for the Secretary to give grants to owners of government assisted rental homes participating in this test program, to run the test program, and to provide technical help to owners participating in the test program.",
+      "word_offset": 15,
+      "char_offset": 87
+    }
+  ]
+}

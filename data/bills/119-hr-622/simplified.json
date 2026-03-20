@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-622",
+  "title": "To amend the Food Security Act of 1985 to increase funding for the conservation stewardship program, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.622",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+  "version_hash": "5fd64c0faa9d8683",
+  "last_updated": "2026-03-20T15:21:18.551505+00:00",
+  "plain_summary": "This bill gives more money to a program that helps farmers take better care of the environment while they grow crops and raise animals. The program pays farmers to use methods that protect soil, water, and wildlife on their farms. The bill sets aside 1.8 billion dollars each year from 2025 to 2031 for this program. It also moves over 5 billion dollars from leftover money from another law called the Inflation Reduction Act to help pay for the program.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-28",
+  "last_action_date": "2025-02-28",
+  "last_action_text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Kelly, Trent [R-MS-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "MS",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "farm conservation program",
+    "farmers environment money",
+    "soil protection funding",
+    "water conservation farm program",
+    "wildlife protection farmers",
+    "conservation stewardship program",
+    "farm environmental payments",
+    "agriculture conservation funding",
+    "farmers paid protect environment",
+    "sustainable farming money",
+    "farm stewardship funding",
+    "conservation program increase"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-annual-funding",
+      "title": "Section 1 Annual Funding",
+      "text": "This section changes how much money is set aside each year for the conservation stewardship program. The conservation stewardship program helps farmers and ranchers use farming practices that protect the environment. Under this change, the program will receive one billion eight hundred million dollars each year from twenty twenty five through twenty thirty one.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-transfer-of-funds",
+      "title": "Section 2 Transfer of Funds",
+      "text": "This section moves five billion twenty million dollars from money that was approved under the Inflation Reduction Act of twenty twenty two but has not been spent yet. This money will be given to the Secretary of Agriculture to run the conservation stewardship program. The Secretary will use the Commodity Credit Corporation (a government organization that handles farm programs) to manage this funding.",
+      "word_offset": 54,
+      "char_offset": 364
+    }
+  ]
+}

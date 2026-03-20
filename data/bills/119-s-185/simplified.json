@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-s-185",
+  "title": "Justice for Victims of Sanctuary Cities Act of 2025",
+  "short_title": "Justice for Victims of Sanctuary Cities Act of 2025",
+  "congress": 119,
+  "bill_number": "S.185",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "40d1e34276c2fd57",
+  "last_updated": "2026-03-20T13:23:43.808917+00:00",
+  "plain_summary": "This bill lets crime victims sue local and state governments that have sanctuary city policies if they were hurt by someone who benefited from those policies. If a city or state takes certain federal grant money, they cannot claim legal immunity to avoid these lawsuits. The bill also protects local government workers who help federal immigration officers by making the federal government responsible if anyone sues them for following immigration requests. To sue under this law, the victim must have been hurt by someone who committed a serious crime and who the local government failed to hold or report to federal immigration authorities when asked.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Tillis, Thomas [R-NC]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "sanctuary cities",
+    "crime victims",
+    "sue local government",
+    "immigration policies",
+    "federal grants",
+    "local immunity",
+    "immigration enforcement",
+    "victim lawsuits",
+    "sanctuary city lawsuits",
+    "immigration crimes",
+    "local government liability",
+    "federal immigration cooperation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Justice for Victims of Sanctuary Cities Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, these words have the following meanings. The word alien means a person who is not a United States citizen, as defined in section one hundred and one of the Immigration and Nationality Act. A sanctuary jurisdiction is any state or local government that has laws, rules, or practices that stop government workers from sharing information about a person's citizenship or immigration status with federal, state, or local governments. It also means stopping workers from following requests from the Department of Homeland Security to hold someone or tell them when someone is released from jail. However, a state or local government is not considered a sanctuary jurisdiction just because it has a policy that protects people who come forward as victims or witnesses to crimes. A sanctuary policy means any law, rule, or practice described above. A sanctuary-related civil action is a lawsuit filed against a sanctuary jurisdiction by a person who was hurt by a non-citizen who was helped by the sanctuary policy. The person filing the lawsuit must show they would not have been hurt if the non-citizen had not been helped by the sanctuary policy.",
+      "word_offset": 17,
+      "char_offset": 94
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-civil-action-for-harm",
+      "title": "Section 3 Civil Action for Harm by an Alien that Benefitted from a Sanctuary Policy",
+      "text": "Any person who is the victim of murder, rape, or any serious crime can file a lawsuit for money damages against a state or local government. The non-citizen who committed the crime must have been arrested, convicted, or sentenced to at least one year in prison. The victim can also be represented by their spouse, parent, or child if the victim is dead or permanently unable to act for themselves. The lawsuit can only be filed if the state or local government failed to follow a legal request from the Department of Homeland Security to hold the non-citizen in jail or notify them when the non-citizen was released. The lawsuit must be filed within ten years of when the crime happened or when someone died from the crime, whichever is later. If the victim wins the lawsuit, the court must order the state or local government to pay the victim's lawyer fees and other court costs. Any state or local government that accepts certain federal grants must agree to give up legal immunity for these types of lawsuits. The grants include money for public works and economic development, planning expenses, supplemental grants, training and research grants, and community development block grants. However, disaster relief grants are not included in this requirement.",
+      "word_offset": 207,
+      "char_offset": 1250
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-ensuring-cooperation",
+      "title": "Section 4 Ensuring Cooperation Between Federal and Local Law Enforcement Officers to Safeguard Our Communities",
+      "text": "When a state, local government, or their workers follow a federal request to hold someone in jail, they are considered to be working as agents of the Department of Homeland Security. They must follow the same rules that apply to federal immigration officers. If someone files a lawsuit challenging whether it was legal to arrest or hold someone based on a federal immigration request, the state or local government cannot be held responsible for following that request. The workers who followed the request will be treated as federal employees who were doing their job properly. In these cases, only the federal government can be sued, not the state or local government or their workers. However, this protection does not apply to anyone who knowingly violates a person's civil rights or constitutional rights.",
+      "word_offset": 418,
+      "char_offset": 2512
+    }
+  ]
+}

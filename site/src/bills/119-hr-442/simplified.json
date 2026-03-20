@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-442",
+  "title": "Quality Loss Adjustment Improvement for Farmers Act",
+  "short_title": "Quality Loss Adjustment Improvement for Farmers Act",
+  "congress": 119,
+  "bill_number": "HR.442",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+  "version_hash": "52cb5b4f4d029c3f",
+  "last_updated": "2026-03-20T15:05:42.527628+00:00",
+  "plain_summary": "This bill makes changes to crop insurance that helps farmers when their crops are damaged and lose quality. It requires the government to review and update the rules for quality loss insurance every five years starting in 2025, and farmers and farm groups must be included in these reviews. The bill also creates special discount rules for soybeans when there are disasters or when farmers have to sell damaged soybeans at lower prices. These changes are meant to make crop insurance work better for farmers when their crops are hurt by bad weather or other problems.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Letlow, Julia [R-LA-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "crop insurance",
+    "farm insurance",
+    "damaged crops",
+    "soybean discounts",
+    "farmer help",
+    "crop quality loss",
+    "bad weather crops",
+    "agricultural insurance",
+    "farm disaster relief",
+    "crop damage compensation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Quality Loss Adjustment Improvement for Farmers Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-quality-loss-adjustment-coverage",
+      "title": "Section 2  Quality Loss Adjustment Coverage",
+      "text": "This section changes the Federal Crop Insurance Act to improve how crop insurance companies handle quality loss adjustments. A quality loss adjustment is when crops are damaged but can still be sold at a lower price due to reduced quality. Starting in the year two thousand twenty five and then every five years after that, the crop insurance company must hire someone qualified to review their quality loss adjustment procedures. Each review must be finished within one year of starting. During each review, the company must get input from farmers and industry groups from different regions for each type of crop that has quality loss adjustment coverage. After each review is done, the company must send a report to the Senate Committee on Agriculture, Nutrition, and Forestry and the House Committee on Agriculture. The report must explain what they found in the review, what changes they made to their procedures, and how they got input from farmers and industry groups. The section also creates new rules for soybeans. When there is a disaster declared by the Secretary of Agriculture, a major disaster declared by the President, an emergency declared by the President, or when there is a salvage market for soybeans in a state or region, the crop insurance company must create a discount factor. This discount factor should reflect the average quality discounts that affect local or regional soybean market prices. Any discount factor they create must be included in the five year reviews and reports.",
+      "word_offset": 13,
+      "char_offset": 80
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "bill_id": "119-s-161",
+  "title": "She DRIVES Act",
+  "short_title": "She DRIVES Act",
+  "congress": 119,
+  "bill_number": "S.161",
+  "introduced_date": "2025-01-21",
+  "stage": "reported_by_committee",
+  "stage_label": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substi",
+  "version_hash": "7fd9ce6db723931c",
+  "last_updated": "2026-03-20T13:42:22.073353+00:00",
+  "plain_summary": "The She DRIVES Act requires the Transportation Department to change how cars are tested for safety crashes. Right now, crash test dummies are mostly based on men's bodies, but this law says car companies must also test their cars using crash test dummies made to look like women's bodies. The government will create new rules for testing both front crashes and side crashes using both male and female crash test dummies. The law also requires the government's car safety rating program to use these new female crash test dummies when testing how safe cars are.",
+  "current_status": "committee_reported",
+  "status_date": "2025-07-31",
+  "last_action_date": "2025-07-31",
+  "last_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 141.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [
+    "Accidents",
+    "Administrative law and regulatory procedures",
+    "Congressional oversight",
+    "Department of Transportation",
+    "Motor vehicles",
+    "Transportation safety and security"
+  ],
+  "sponsor_name": "Sen. Fischer, Deb [R-NE]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 13,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "women car safety",
+    "female crash test dummies",
+    "car crash testing",
+    "vehicle safety for women",
+    "crash test dummy gender",
+    "women driving safety",
+    "car safety standards",
+    "female body crash tests",
+    "auto safety testing",
+    "women automotive safety",
+    "car crash protection",
+    "transportation safety rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the She Develops Regulations In Vehicle Equality and Safety Act or the She DRIVES Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, crashworthiness means how well a vehicle protects people during a crash, as defined in existing federal law. Secretary means the Secretary of Transportation. Testing device means the crash test dummies and equipment used to test if cars meet federal safety rules.",
+      "word_offset": 20,
+      "char_offset": 110
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-federal-motor-vehicle-safety-standards-updates",
+      "title": "Section 3 Federal Motor Vehicle Safety Standards Updates",
+      "text": "The Secretary must update car safety testing rules to include new crash test dummies for front and side crashes. For front crashes, within fifteen days of this law passing, the Secretary must add two new types of crash test dummies to the federal rules. These are the THOR dummies that represent an average-sized man and a small woman. Within one hundred eighty days, the Secretary must create a final rule requiring the use of the male dummy. Within sixty days, the Secretary must propose a rule for the female dummy, and within one hundred twenty days, make it final. When making these rules, the Secretary must set injury standards for different body parts based on real-world crash data and create tests for female occupants in all front seats currently tested for male occupants. For side crashes, within eighteen months of this law passing, the Secretary must add two new side-impact crash test dummies to the rules. These represent an average man and a small woman. Within two years, the Secretary must propose a rule to require these dummies, and within thirty months, make it final. The Secretary must set injury standards based on real crashes and test female occupants in all front seats currently tested for males.",
+      "word_offset": 64,
+      "char_offset": 387
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-new-car-assessment-program-update",
+      "title": "Section 4 New Car Assessment Program Update",
+      "text": "The Secretary must update the New Car Assessment Program (the government program that rates car safety) to use the new crash test dummies described in Section 3. For front crash tests, the Secretary must issue a final decision to use both the male and female THOR dummies. This should happen at the same time as the safety rule for the male dummy, unless doing so would delay that rule. For side crash tests, the Secretary must issue a final decision to use both the male and female side-impact dummies. This should happen at the same time as the side-impact safety rule, unless doing so would delay that rule.",
+      "word_offset": 271,
+      "char_offset": 1614
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-testing-devices-roadmap",
+      "title": "Section 5 Testing Devices Roadmap",
+      "text": "Within one year of this law passing, the Secretary must send Congress a report. This report must identify when the Secretary plans to add other crash test dummies they are currently studying to the federal rules. It must also identify crash test dummies used in other countries that are better than what the United States uses. The report must describe how the Secretary can update American crash testing, including whether we can adopt better dummies already used in other countries like those used in European safety programs. If the Secretary thinks current American crash test dummies do not need updating, the report must explain why for each type of dummy. Five years later, the Secretary must send another report to Congress describing whether they met their timeline and identifying any new crash test dummies from other countries that are better than what the United States requires or studies.",
+      "word_offset": 379,
+      "char_offset": 2225
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-savings-provision",
+      "title": "Section 6 Savings Provision",
+      "text": "Nothing in this law stops the Secretary from updating crash test dummies through other processes beyond what this law requires.",
+      "word_offset": 527,
+      "char_offset": 3129
+    }
+  ]
+}

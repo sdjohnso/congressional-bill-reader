@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-639",
+  "title": "Doctor Knows Best Act of 2025",
+  "short_title": "Doctor Knows Best Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.639",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Government Reform, f",
+  "version_hash": "0a0f4950ce86cd19",
+  "last_updated": "2026-03-20T14:43:54.052247+00:00",
+  "plain_summary": "This bill makes it so health insurance companies and government health programs cannot require patients to get permission before receiving medical care that their insurance covers. Insurance companies also cannot force patients to try cheaper treatments first or check if the medical care is really needed. The new rules apply to all health insurance plans and government health programs like Medicare and Medicaid. These changes will start on January 1, 2026.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consi",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Health care costs and insurance",
+    "Health care coverage and access"
+  ],
+  "sponsor_name": "Rep. Van Drew, Jefferson [R-NJ-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "health insurance approval",
+    "doctor permission",
+    "prior authorization",
+    "insurance denying treatment",
+    "medical care approval",
+    "insurance company interference",
+    "doctor patient decisions",
+    "healthcare coverage rules",
+    "insurance barriers",
+    "medical treatment delays"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Doctor Knows Best Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibiting-prior-authorization-requirements-utilization-management-techniques-and-medical-necessity-reviews",
+      "title": "Section 2 Prohibiting Prior Authorization Requirements, Utilization Management Techniques, and Medical Necessity Reviews",
+      "text": "Part A covers private insurance companies. Starting January first two thousand twenty six, private insurance companies cannot require patients to get approval before receiving medical care that their insurance covers. Insurance companies also cannot use management techniques that control how patients use their benefits. This includes requiring patients to try cheaper treatments first before getting the treatment their doctor wants to give them. Insurance companies also cannot review whether medical care is truly necessary when the care is covered by the patient's insurance plan. Part B covers government health programs like Medicare and Medicaid. Starting January first two thousand twenty six, government health programs cannot require patients to get approval before receiving medical care. These programs also cannot use techniques to control how patients use their benefits, including making patients try cheaper treatments first. Government health programs also cannot review whether medical care is necessary when the care is covered by the program. Part C states that the rules for private insurance companies will start with insurance plan years that begin on or after January first two thousand twenty six.",
+      "word_offset": 15,
+      "char_offset": 78
+    }
+  ]
+}

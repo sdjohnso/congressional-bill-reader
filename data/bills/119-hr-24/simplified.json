@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-24",
+  "title": "Federal Reserve Transparency Act of 2025",
+  "short_title": "Federal Reserve Transparency Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.24",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "07785afb048b804e",
+  "last_updated": "2026-03-20T11:59:51.496571+00:00",
+  "plain_summary": "This bill requires the Government Accountability Office to do a complete audit of the Federal Reserve within one year. The audit must look at all parts of the Federal Reserve, including the main board and all the regional banks. The bill removes current rules that prevent auditors from checking things like international money deals, decisions about interest rates, and private talks between Federal Reserve officials. After the audit is done, Congress must get a detailed report within 90 days.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [
+    "Accounting and auditing",
+    "Bank accounts, deposits, capital",
+    "Congressional oversight",
+    "Federal Reserve System",
+    "Government studies and investigations"
+  ],
+  "sponsor_name": "Rep. Massie, Thomas [R-KY-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 46,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal reserve audit",
+    "fed audit",
+    "central bank investigation",
+    "interest rate decisions",
+    "government accountability office",
+    "federal reserve transparency",
+    "banking oversight",
+    "monetary policy audit",
+    "fed secrecy",
+    "central banking reform",
+    "government bank audit",
+    "federal reserve accountability"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Federal Reserve Transparency Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-audit-reform-and-transparency",
+      "title": "Section 2. Audit Reform and Transparency for the Board of Governors of the Federal Reserve System",
+      "text": "The main part of this section says that the Comptroller General of the United States (the head of the Government Accountability Office who reviews government spending) must complete a full audit of the Federal Reserve within twelve months after this law is passed. This audit requirement overrides any other existing laws that might prevent such an audit. The report section says that within ninety days after the audit is finished, the Comptroller General must give Congress a detailed report about what they found. This report must be shared with the Speaker of the House, the majority and minority leaders in both the House and Senate, the chairmen and ranking members of all committees that have authority over the Federal Reserve, and any other member of Congress who asks for it. The report must include detailed findings and conclusions from the audit, along with recommendations for new laws or administrative changes if needed. The third part removes certain legal limits that currently prevent full audits of the Federal Reserve. The final part makes technical changes to existing laws to align with these new audit requirements, including changes to the Federal Reserve Act that update definitions and remove outdated references to audit limitations.",
+      "word_offset": 15,
+      "char_offset": 89
+    }
+  ]
+}

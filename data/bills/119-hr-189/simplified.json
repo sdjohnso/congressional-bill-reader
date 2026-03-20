@@ -1,0 +1,72 @@
+{
+  "bill_id": "119-hr-189",
+  "title": "Securities and Exchange Commission Real Estate Leasing Authority Revocation Act",
+  "short_title": "Securities and Exchange Commission Real Estate Leasing Authority Revocation Act",
+  "congress": 119,
+  "bill_number": "HR.189",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "version_hash": "96973dc2060c30a1",
+  "last_updated": "2026-03-20T11:13:44.966230+00:00",
+  "plain_summary": "This bill takes away the Securities and Exchange Commission's power to rent its own office buildings. Instead, the General Services Administration will have to find and rent office space for the SEC. Any leases the SEC already signed before this law passes will stay the same. The Government Accountability Office must also write a new report about which other government agencies can still rent their own office space.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-14",
+  "last_action_date": "2025-01-14",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Government buildings, facilities, and property",
+    "Lease and rental services",
+    "Public contracts and procurement",
+    "Securities and Exchange Commission (SEC)"
+  ],
+  "sponsor_name": "Del. Norton, Eleanor Holmes [D-DC]",
+  "sponsor_party": "D",
+  "sponsor_state": "DC",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "SEC office space",
+    "government agency rent",
+    "federal building leases",
+    "Securities Exchange Commission headquarters",
+    "government office rentals",
+    "federal agency real estate",
+    "SEC building authority",
+    "government lease agreements",
+    "federal office space management",
+    "SEC rent control"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Securities and Exchange Commission Real Estate Leasing Authority Revocation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-leasing-of-space-for-securities-and-exchange-commission",
+      "title": "Section 2 Leasing of Space for Securities and Exchange Commission",
+      "text": "This section changes the law about how the Securities and Exchange Commission can rent office space. Starting when this law takes effect, the Securities and Exchange Commission cannot rent general office space on its own anymore. Instead, the Administrator of General Services must rent office space for them using existing government rules. However, any office leases that the Securities and Exchange Commission already signed before this law takes effect will still be valid and will continue as they were.",
+      "word_offset": 16,
+      "char_offset": 108
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-independent-leasing-authorities",
+      "title": "Section 3 Independent Leasing Authorities",
+      "text": "The Comptroller General of the United States must write a report for three congressional committees. These committees are the House Committee on Transportation and Infrastructure, the Senate Committee on Environment and Public Works, and the Senate Committee on Homeland Security and Governmental Affairs. The Comptroller General must update a report from two thousand sixteen that looked at which government agencies can rent their own office and warehouse space without going through the General Services Administration. The new report must include updated information about which agencies still have this power, how many have lost this power or had it changed, how much space these agencies rent, how often they use the General Services Administration for help with renting space, and what progress has been made on the recommendations from the original two thousand sixteen report.",
+      "word_offset": 95,
+      "char_offset": 617
+    }
+  ]
+}

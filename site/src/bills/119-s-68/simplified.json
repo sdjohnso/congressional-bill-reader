@@ -1,0 +1,115 @@
+{
+  "bill_id": "119-s-68",
+  "title": "Complete COVID Collections Act",
+  "short_title": "Complete COVID Collections Act",
+  "congress": 119,
+  "bill_number": "S.68",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Committee on Small Business and Entrepreneurship. Reported by Senator Ernst with amendments. Without written report.",
+  "version_hash": "1aca6108317d3f34",
+  "last_updated": "2026-03-20T14:59:05.657424+00:00",
+  "plain_summary": "The government gave out lots of money during COVID-19 to help people and businesses. Some people took this money when they should not have or lied to get it. This new law says the government must work harder to get back money that was stolen or given to the wrong people. The government will have more time to catch these people and take them to court. Any money they get back will be used to help pay off the country's debt.",
+  "current_status": "committee_reported",
+  "status_date": "2025-02-10",
+  "last_action_date": "2025-02-10",
+  "last_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 8.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [
+    "Debt collection",
+    "Fraud offenses and financial crimes",
+    "Government ethics and transparency, public corruption",
+    "Government information and archives",
+    "Government lending and loan guarantees",
+    "Government studies and investigations",
+    "Infectious and parasitic diseases"
+  ],
+  "sponsor_name": "Sen. Ernst, Joni [R-IA]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "COVID money fraud",
+    "pandemic relief fraud",
+    "stolen COVID funds",
+    "PPP loan fraud",
+    "government money recovery",
+    "COVID stimulus fraud",
+    "fake pandemic loans",
+    "recover stolen relief money",
+    "COVID scam investigation",
+    "pandemic money theft",
+    "fraudulent relief claims"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Complete COVID Collections Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, these words mean the following things. Administration and Administrator mean the Small Business Administration and the person who runs it. Covered funds means money that was set aside to help people during COVID-19 under six different laws passed between 2020 and 2021. These laws include the Coronavirus Preparedness and Response Supplemental Appropriations Act of 2020, the Families First Coronavirus Response Act, the CARES Act, the Paycheck Protection Program and Health Care Enhancement Act, parts of the Consolidated Appropriations Act of 2021, and the American Rescue Plan Act of 2021. Covered loan means two types of loans. First, loans that were guaranteed under special COVID-19 programs in the Small Business Act. Second, disaster loans made under the Small Business Act that were related to COVID-19. Covered program means five different types of help given to businesses during COVID-19. This includes the special guaranteed loans, COVID-19 disaster loans, advance payments given to businesses, grants to help restaurants stay open, and grants to help entertainment venues that had to close. Improper payment means a payment that should not have been made according to federal law about government payments.",
+      "word_offset": 10,
+      "char_offset": 59
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-special-inspector-general-for-pandemic-recovery",
+      "title": "Section 3 Special Inspector General for Pandemic Recovery",
+      "text": "This section makes changes to the job of the Special Inspector General for Pandemic Recovery. The Inspector General will now also watch over programs run by the Small Business Administration, not just programs run by the Treasury Department. The Inspector General's job will last until September 30, 2030, instead of ending five years after the CARES Act was passed. The Small Business Administration must work with the Special Inspector General and give them the same information they give to their own Inspector General. The Small Business Administration must provide data about covered programs to the Special Inspector General.",
+      "word_offset": 198,
+      "char_offset": 1293
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-fraud-enforcement-harmonization",
+      "title": "Section 4 Fraud Enforcement Harmonization",
+      "text": "This section sets time limits for bringing legal cases against people who committed fraud with COVID-19 relief money. For emergency relief programs under the CARES Act, any criminal charges or civil lawsuits claiming fraud must be filed within ten years after the crime happened. The same ten-year rule applies to grants given to entertainment venues that had to shut down and grants given to restaurants. This rule applies even if other laws say something different about time limits for filing these cases.",
+      "word_offset": 296,
+      "char_offset": 1925
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-prohibition-on-suspending-collections-on-sba-loans-related-to-covid-19",
+      "title": "Section 5 Prohibition on Suspending Collections on SBA Loans Related to COVID-19",
+      "text": "The Small Business Administration must send any claims to collect money on COVID-19 loans under one hundred thousand dollars to the Department of the Treasury. The Department of the Treasury will decide whether to stop, end, or continue trying to collect the money. The Administrator of the Small Business Administration must brief Congress every thirty days starting thirty days after this law is passed. These briefings will cover progress in collecting money owed on COVID-19 loans and transferring claims to the Treasury Department. The Administrator must testify before Congress every year about collecting money on COVID-19 loans, improper payments in COVID-19 programs, and following reporting rules required by federal law. The Administrator cannot ask someone else to testify instead.",
+      "word_offset": 378,
+      "char_offset": 2434
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-department-of-justice-covid-19-program-fraud-report",
+      "title": "Section 6 Department of Justice COVID-19 Program Fraud Report",
+      "text": "The Attorney General must give Congress a report every month starting ninety days after this law passes. The report will cover what the Department of Justice is doing about fraud in COVID-19 programs. Each report must include a summary with the total number of prosecutions, total money recovered, total number of referrals and where they came from, and total number of cases they decided not to pursue and why. For each COVID-19 program, the report must show how many prosecutions there were and what happened in each case, how much money was recovered, how many cases were declined and why, how many referrals came from the Department of Justice versus other agencies, and what happened to each referral. The Attorney General can include other information they think is important.",
+      "word_offset": 497,
+      "char_offset": 3228
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-recoveries-transparency",
+      "title": "Section 7 Recoveries Transparency",
+      "text": "Within sixty days after this law passes, the Pandemic Response Accountability Committee must create and keep updated a website that shows real-time information about COVID-19 relief money recovered by the federal government. The information must be broken down by the type of relief funds and the dollar amount recovered.",
+      "word_offset": 626,
+      "char_offset": 4011
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-fraud-recovery-collections",
+      "title": "Section 8 Fraud Recovery Collections",
+      "text": "Any money collected from people who got COVID-19 relief funds through fraud must be used only to reduce the federal debt.",
+      "word_offset": 675,
+      "char_offset": 4333
+    }
+  ]
+}

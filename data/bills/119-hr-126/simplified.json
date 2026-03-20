@@ -1,0 +1,81 @@
+{
+  "bill_id": "119-hr-126",
+  "title": "Original Students Voicing Opinions in Today’s Elections (VOTE) Act",
+  "short_title": "Original Students Voicing Opinions in Today’s Elections (VOTE) Act",
+  "congress": 119,
+  "bill_number": "HR.126",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on House Administration.",
+  "version_hash": "da0dcbd79fc7494d",
+  "last_updated": "2026-03-20T10:58:19.975425+00:00",
+  "plain_summary": "This law creates a test program in 2025 where the Election Assistance Commission gives money to school districts to help 12th grade students learn how to register to vote. School districts have to apply for this money and work with local election officials to create their programs. The goal is to teach high school seniors about voter registration before they graduate. School districts must report back on how well their programs worked.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Civics education",
+    "Education programs funding",
+    "Elections, voting, political campaign regulation",
+    "Elementary and secondary education"
+  ],
+  "sponsor_name": "Rep. Green, Al [D-TX-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "high school voting",
+    "student voter registration",
+    "teaching kids to vote",
+    "12th grade civics",
+    "school voting programs",
+    "teen voter education",
+    "high school seniors voting",
+    "student election training",
+    "school district voting",
+    "youth voter registration",
+    "teaching voting in schools",
+    "senior year voting program"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Original Students Voicing Opinions in Today's Elections Act or the VOTE Act for short.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-pilot-program-for-providing-voter-registration-information",
+      "title": "Section 2  Pilot Program for Providing Voter Registration Information to Secondary School Students Prior to Graduation",
+      "text": "The Election Assistance Commission (a federal agency that helps with elections) must create a test program. In this program, the Commission will give money during the year twenty twenty five to school districts that qualify. The school districts will use this money to teach twelfth grade high school students how to register to vote in government elections. To get this money, a school district must send an application to the Commission. The application must include a description of what the school district plans to do with the money, how much they think it will cost, and any other information the Commission asks for. The Commission will decide when applications are due and what format they should use. School districts that get money must work with state and local election officials when planning their voter registration programs. These election officials are the people who run elections in the area where the school district is located. In this law, local educational agency means school district, and secondary school means high school. These terms have the same meaning as they do in the Elementary and Secondary Education Act.",
+      "word_offset": 20,
+      "char_offset": 114
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-reports",
+      "title": "Section 3  Reports",
+      "text": "School districts that receive money must write a report to the Election Assistance Commission. They have ninety days after getting the money to submit this report. The report must describe what they did with the money and explain how well their voter registration programs worked. The Election Assistance Commission must also write a report to Congress about the entire test program. They have sixty days after receiving the last report from a school district to submit their report to Congress.",
+      "word_offset": 205,
+      "char_offset": 1256
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-authorization-of-appropriations",
+      "title": "Section 4  Authorization of Appropriations",
+      "text": "Congress is allowed to set aside whatever amount of money is needed to make this law work.",
+      "word_offset": 285,
+      "char_offset": 1752
+    }
+  ]
+}

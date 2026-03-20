@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-96",
+  "title": "Buzz Off Act",
+  "short_title": "Buzz Off Act",
+  "congress": 119,
+  "bill_number": "HR.96",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "4b23aec1da2b3109",
+  "last_updated": "2026-03-20T12:47:24.826141+00:00",
+  "plain_summary": "The Buzz Off Act stops federal police from using drones to spy on specific American citizens or their homes. There are three times when they can still use drones to watch people. They can use drones if they get permission from a judge first, if there is a serious terrorist threat, or if the person being watched agrees in writing to let everyone see the recording. This law protects Americans from being watched by government drones without a good reason.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Aviation and airports",
+    "Government information and archives",
+    "Intelligence activities, surveillance, classified information",
+    "Law enforcement administration and funding",
+    "Photography and imaging"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government drones spying",
+    "police drones watching citizens",
+    "drone surveillance privacy",
+    "federal agents using drones",
+    "drones spying on homes",
+    "government watching with drones",
+    "drone privacy protection",
+    "police drone spying laws",
+    "stop government drone surveillance",
+    "drones spying without warrant"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Buzz Off Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibiting-use-of-unmanned-aerial-vehicles",
+      "title": "Section 2. Prohibiting Use of Unmanned Aerial Vehicles",
+      "text": "Federal law enforcement agencies cannot use unmanned aerial vehicles (drones that fly without a pilot on board) to watch, gather evidence about, collect information on, or take pictures or electronic recordings of specific American citizens or their private property. However, federal law enforcement agencies can use drones to take pictures or record American citizens if they plan to publish or share those pictures or recordings publicly, but only if the citizen gives written permission first. This rule does not apply in two situations. First, if the President working with the Secretary of Homeland Security allows drone surveillance and the Secretary signs a written statement under oath saying the surveillance is needed to stop a high risk terrorist attack by a specific person or group. Second, if the head of a federal law enforcement agency gets a search warrant signed by a judge that allows them to use a drone.",
+      "word_offset": 9,
+      "char_offset": 41
+    }
+  ]
+}

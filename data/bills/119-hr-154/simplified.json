@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-154",
+  "title": "Election Day Act",
+  "short_title": "Election Day Act",
+  "congress": 119,
+  "bill_number": "HR.154",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "5c8684c8e1ede1d1",
+  "last_updated": "2026-03-20T15:54:36.795016+00:00",
+  "plain_summary": "The Election Day Act would make Election Day a new federal holiday. This means that federal government workers would get the day off from work on Election Day. The goal is to make it easier for people to vote by giving them time off. Right now, Election Day is not an official federal holiday like Christmas or Independence Day. If this bill passes, it would be added to the list of days when federal employees do not have to work.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Commemorative events and holidays",
+    "Elections, voting, political campaign regulation"
+  ],
+  "sponsor_name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 12,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "election day holiday",
+    "voting day off work",
+    "federal holiday election",
+    "time off to vote",
+    "election day work",
+    "voting holiday",
+    "day off voting",
+    "federal employees election day",
+    "election day paid holiday",
+    "make voting easier",
+    "election day free time"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Election Day Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-patriot-day",
+      "title": "Section 2  Patriot Day",
+      "text": "This section changes the federal law about government holidays. It adds Election Day to the official list of federal holidays. Election Day will be listed right after Columbus Day in the law that governs when federal employees get days off work.",
+      "word_offset": 9,
+      "char_offset": 45
+    }
+  ]
+}

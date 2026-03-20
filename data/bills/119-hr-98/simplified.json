@@ -1,0 +1,85 @@
+{
+  "bill_id": "119-hr-98",
+  "title": "End Endless Criminal Statutes Act",
+  "short_title": "End Endless Criminal Statutes Act",
+  "congress": 119,
+  "bill_number": "HR.98",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 16 - 14.",
+  "version_hash": "9db338f7aec7c231",
+  "last_updated": "2026-03-20T12:52:41.112146+00:00",
+  "plain_summary": "This bill gets rid of many unusual federal crimes that can get people in trouble for simple everyday actions. It removes laws that make it illegal to write checks for less than one dollar, sell margarine that is not the right color or shape, sled on Capitol grounds, or wear postal worker uniforms without planning to commit a crime. The bill also allows people to make metal coins as long as they do not look like real US money or foreign money. These changes will stop people from accidentally breaking strange old laws that most people do not even know exist.",
+  "current_status": "committee_reported",
+  "status_date": "2025-06-10",
+  "last_action_date": "2025-06-10",
+  "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 16 - 14.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Bank accounts, deposits, capital",
+    "Crimes against property",
+    "Currency",
+    "Fraud offenses and financial crimes",
+    "Fruit and vegetables",
+    "Marine and inland water transportation",
+    "Postal service",
+    "U.S. Capitol"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "weird federal crimes",
+    "strange old laws",
+    "outdated criminal laws",
+    "everyday actions illegal",
+    "unusual federal offenses",
+    "margarine color laws",
+    "check writing crimes",
+    "postal uniform laws",
+    "sledding illegal",
+    "making coins legal",
+    "accidentally breaking laws",
+    "removing old crimes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the End Endless Criminal Statutes Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2 Findings",
+      "text": "Congress finds that some actions carry unnecessary criminal penalties under federal laws. These actions include writing a check for less than one dollar. They also include selling or possessing colored oleomargarine or colored margarine unless they are packaged and labeled properly or served in a triangular shape. Other actions include discarding produce without good reason or making false reports about produce. Removing a stamp from any mail also carries criminal penalties. Making metal coins with original designs or trying to use such coins is another action. Wearing the uniform of Postal Service letter carriers is included. Detaining a seaman's clothing carries penalties too. Boarding any ship before it finishes arriving at its destination is another action. Placing mail in a mailbox without postage attached to it also has penalties. Finally, sledding on the Capitol grounds when the Capitol Police are told to prevent any part of the Capitol grounds from being used as a playground carries criminal penalties.",
+      "word_offset": 11,
+      "char_offset": 62
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-repeal-of-federal-provisions",
+      "title": "Section 3 Repeal of Federal Provisions",
+      "text": "Several parts of federal law are removed by this bill. Section three hundred thirty six of title eighteen of the United States Code is removed completely. Parts b, c, and d of section four hundred seven of the Federal Food, Drug, and Cosmetic Act are removed completely. Section one of the Act of March third nineteen twenty seven is removed completely. Section seventeen twenty of title eighteen of the United States Code is changed by removing the words about unlawfully removing stamps from mail. Section four hundred eighty six of title eighteen of the United States Code is changed by removing the words about original design. Section eleven thousand one hundred ten of title forty six of the United States Code is changed by removing the second sentence. Section twenty two seventy nine of title eighteen of the United States Code is removed completely. Section seventeen twenty five of title eighteen of the United States Code is removed completely. The Act called An Act to protect the public property, turf, and grass of the Capitol Grounds from injury is removed completely.",
+      "word_offset": 169,
+      "char_offset": 1088
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-intent-requirement-for-offense-related-to-uniforms-of-letter-carrier",
+      "title": "Section 4 Intent Requirement for Offense Related to Uniforms of Letter Carrier",
+      "text": "Section seventeen thirty of title eighteen of the United States Code is changed. After the words about uniforms worn by letter carriers, new words are added that say with the intent to commit an offense under this chapter. This means someone must plan to commit a crime while wearing the uniform for it to be illegal. The second paragraph without a number is removed from this section.",
+      "word_offset": 350,
+      "char_offset": 2173
+    }
+  ]
+}

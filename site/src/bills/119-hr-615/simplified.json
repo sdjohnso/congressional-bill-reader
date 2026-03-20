@@ -1,0 +1,55 @@
+{
+  "bill_id": "119-hr-615",
+  "title": "To amend the Internal Revenue Code of 1986 to establish a refundable tax credit for individuals for amounts paid for gas and electricity for primary residences.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.615",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "7af235e7980a72ff",
+  "last_updated": "2026-03-20T14:58:32.536127+00:00",
+  "plain_summary": "This bill creates a new tax credit that helps people pay for their gas and electricity bills at their main home. People can get up to three hundred fifty dollars back each year if they qualify. To get this money, you must earn less than two hundred thousand dollars per year if you are single or four hundred thousand dollars if you are married and filing taxes together. If you rent your home and pay for utilities as part of your rent, your landlord must report how much of your rent goes toward gas and electricity. You cannot use this credit if someone else claims you as a dependent on their taxes or if you already get other tax breaks for the same utility costs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Energy prices",
+    "Income tax credits",
+    "Landlord and tenant",
+    "Public utilities and utility rates"
+  ],
+  "sponsor_name": "Rep. Gottheimer, Josh [D-NJ-5]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "utility bills tax credit",
+    "gas electric bill help",
+    "tax refund utility costs",
+    "home energy bill assistance",
+    "electricity gas tax break",
+    "utility payment tax relief",
+    "home energy costs refund",
+    "gas electric bill rebate",
+    "utility bill tax deduction",
+    "energy bill financial help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-electricity-and-gas-credit",
+      "title": "Section 1  Electricity and Gas Credit",
+      "text": "This section creates a new tax credit for people who pay for electricity and gas at their main home. People can get a credit of up to three hundred fifty dollars per year for money they spend on gas and electric bills. The credit applies to bills paid directly to utility companies or to landlords who include utilities in the rent. To qualify for this credit, a person's income must be below certain limits. Single people must earn less than two hundred thousand dollars per year, and married couples filing together must earn less than four hundred thousand dollars per year. People cannot get this credit if someone else claims them as a dependent on their taxes. People also cannot use this credit for the same expenses they use for other tax breaks. If landlords include utility costs in rent, they must give tenants a receipt by January thirty-first showing how much of the rent paid for utilities in the previous year.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

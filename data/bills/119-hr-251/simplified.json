@@ -1,0 +1,156 @@
+{
+  "bill_id": "119-hr-251",
+  "title": "Legal Workforce Act",
+  "short_title": "Legal Workforce Act",
+  "congress": 119,
+  "bill_number": "HR.251",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Education and Workf",
+  "version_hash": "664dca322dbf9a51",
+  "last_updated": "2026-03-20T11:30:22.733121+00:00",
+  "plain_summary": "This law requires all employers in the United States to use a government computer system to check that their workers are legally allowed to work in America. The system will replace the current E-Verify system and will be required for all companies, starting with the biggest companies first over two years. Employers who hire workers without proper work permission will face bigger fines than before. The government will also create new programs to stop people from stealing identities and using fake information in the system.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case fo",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Calvert, Ken [R-CA-41]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 36,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "employer verification system",
+    "work authorization check",
+    "E-Verify replacement",
+    "hiring illegal workers",
+    "employment eligibility",
+    "worker documentation requirements",
+    "business hiring rules",
+    "immigration status verification",
+    "employee work permits",
+    "identity theft prevention",
+    "fake ID protection",
+    "mandatory worker screening"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Legal Workforce Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-employment-eligibility-verification-process",
+      "title": "Section 2 Employment Eligibility Verification Process",
+      "text": "This section changes how employers must check if workers are allowed to work in the United States. Employers must use an electronic system to verify that new workers can legally work here. When hiring someone, the employer must have the worker fill out a form and show documents that prove their identity and work permission. The employer must then check this information using a government computer system within three business days of hiring. The system will tell the employer if the person is confirmed to work, needs more checking, or is not allowed to work. If someone gets a tentative no answer, they have ten working days to fix any problems with their information. The law sets different start dates for different sized companies. Companies with ten thousand or more workers must start using the system six months after this law passes. Smaller companies get more time, with the smallest companies getting two years. Companies that deal with farm work get thirty months to start using the system. Employers must also recheck workers whose permission to work has an expiration date. Some current government workers and people with security clearances must be checked within six months. Employers can choose to check their current workers early if they want to. Companies that already use the E-Verify system can start using the new system right away if they choose.",
+      "word_offset": 9,
+      "char_offset": 48
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-employment-eligibility-verification-system",
+      "title": "Section 3 Employment Eligibility Verification System",
+      "text": "The Department of Homeland Security must create and run a computer system that employers can use to check if workers are allowed to work in the United States. Employers can call a free phone number or use the internet to check worker information any time. The system must give an answer within three working days of when an employer asks. If the system cannot confirm someone right away, it gives a tentative no answer. Workers then have ten working days to fix any problems with their information through a secondary checking process. The system must be designed to protect people's private information and prevent unfair treatment based on where someone is from or their citizenship status. The Social Security Administration will check names and Social Security numbers, while the Department of Homeland Security will check information about foreign workers. Both agencies must keep their information up to date and provide ways for people to fix mistakes. If someone believes they lost a job because of a mistake in the system, they can only seek help through the Federal Tort Claims Act. No group lawsuits are allowed for these problems.",
+      "word_offset": 236,
+      "char_offset": 1421
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-recruitment-referral-and-continuation-of-employment",
+      "title": "Section 4 Recruitment, Referral, and Continuation of Employment",
+      "text": "This section expands the law to cover more types of work situations. Companies that help people find jobs (recruiters and referral services) must also use the verification system, not just direct employers. The law now applies to keeping current workers employed, not just hiring new ones. The section defines recruiting as actively looking for workers and referring them to employers for pay. Referring means sending or directing someone to a job opportunity and includes union hiring halls and labor agencies. These recruiting and referring rules start one year after the law passes, but the rules about keeping current workers start six months after the law passes.",
+      "word_offset": 425,
+      "char_offset": 2564
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-good-faith-defense",
+      "title": "Section 5 Good Faith Defense",
+      "text": "Employers who honestly try to follow the verification rules are protected from lawsuits and penalties. If an employer properly uses the verification system and gets the wrong information from the government, they cannot be sued by workers, the government, or states and cities for actions they took based on that wrong information. To prove they followed the law, employers must show they used the verification system correctly and did not know a worker was not allowed to work in the United States. The government must prove with very strong evidence that an employer knew they were hiring someone illegally. If an employer uses good technology to check worker identities, this helps show they were acting in good faith. However, employers cannot use this protection if they never tried to check a worker through the system or if they did not get proper verification within the required time.",
+      "word_offset": 531,
+      "char_offset": 3233
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-preemption-and-states-rights",
+      "title": "Section 6 Preemption and States Rights",
+      "text": "This law replaces all state and local laws about checking if workers are allowed to work in the United States. States and cities cannot make their own rules about employment verification or penalties for hiring illegal workers. However, states can still use their business licensing powers to punish employers who do not use the verification system properly. States can enforce this federal law themselves, but they must follow all federal rules and penalties exactly. States can keep any fines they collect. If both federal agents and state agents want to investigate the same violation, whichever one starts first gets to handle the case. The federal government must share all training materials and guidance with states that enforce this law.",
+      "word_offset": 678,
+      "char_offset": 4127
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-repeal",
+      "title": "Section 7 Repeal",
+      "text": "This section removes the old E-Verify program from federal law and replaces it with the new verification system created by this act. Any existing references to the old E-Verify system in federal laws, executive orders, or government documents now refer to the new system instead. This change takes effect thirty months after this law is passed. The section also removes outdated references from the table of contents in the old immigration law.",
+      "word_offset": 797,
+      "char_offset": 4873
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-penalties",
+      "title": "Section 8 Penalties",
+      "text": "This section increases the financial penalties for employers who break the employment verification law. For hiring illegal workers, first-time violators face fines between two thousand five hundred and five thousand dollars per worker, up from the old range of two hundred fifty to two thousand dollars. Second-time violators face five thousand to ten thousand dollars per worker. Third-time violators face ten thousand to twenty five thousand dollars per worker. For paperwork violations, fines increase from one hundred to one thousand dollars per worker, up to a maximum of twenty five thousand dollars. Not using the verification system or giving false information is treated the same as hiring an illegal worker. Employers who act in good faith can have their penalties reduced or removed. The size of the business is considered when setting penalty amounts. Repeat violators or those convicted of crimes can be banned from getting federal contracts or grants. The Department of Homeland Security must create an office where state and local governments can report suspected violations and must investigate complaints that appear valid.",
+      "word_offset": 869,
+      "char_offset": 5318
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-fraud-and-misuse-of-documents",
+      "title": "Section 9 Fraud and Misuse of Documents",
+      "text": "This section makes it a federal crime to make fake work authorization documents or to use someone else's work documents. The law now specifically includes all documents used to prove someone can work in the United States, not just identification documents. This covers documents like work permits, Social Security cards, and driver's licenses when used for employment purposes.",
+      "word_offset": 1044,
+      "char_offset": 6459
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-protection-of-social-security-administration-programs",
+      "title": "Section 10 Protection of Social Security Administration Programs",
+      "text": "The Department of Homeland Security must pay the Social Security Administration for all costs related to running the employment verification system. This includes buying and maintaining computer equipment and responding to people who disagree with verification results. The payment must be made in advance each quarter based on estimated costs. The agencies must review actual costs each year and adjust payments accordingly. If the agencies cannot agree on funding by October first of any year, the previous year's agreement continues with adjustments for inflation and changes in the number of verification requests. Both agencies must notify Congress if they cannot reach a funding agreement and provide regular updates on their negotiations.",
+      "word_offset": 1102,
+      "char_offset": 6837
+    },
+    {
+      "id": "s11",
+      "slug": "section-11-fraud-prevention",
+      "title": "Section 11 Fraud Prevention",
+      "text": "The Department of Homeland Security must create programs to prevent identity theft in the employment verification system. Social Security numbers that are used by multiple people inappropriately or suspected of being stolen will be blocked from use unless the real owner can prove their identity through additional security steps. People who are victims of identity theft can ask to have their Social Security number suspended or limited in the verification system. Parents or legal guardians can also request that their minor children's Social Security numbers be protected from misuse in the employment system. The Department can start these programs on a small scale before making them available to everyone.",
+      "word_offset": 1213,
+      "char_offset": 7583
+    },
+    {
+      "id": "s12",
+      "slug": "section-12-use-of-employment-eligibility-verification-photo-tool",
+      "title": "Section 12 Use of Employment Eligibility Verification Photo Tool",
+      "text": "Employers who use the photo matching feature of the E-Verify System must compare three things: the photo from the government database, the photo on the worker's identity document, and the actual face of the person presenting the document. This helps make sure the person is who they claim to be.",
+      "word_offset": 1322,
+      "char_offset": 8295
+    },
+    {
+      "id": "s13",
+      "slug": "section-13-identity-authentication-employment-eligibility-verification-pilot-programs",
+      "title": "Section 13 Identity Authentication Employment Eligibility Verification Pilot Programs",
+      "text": "Within two years of this law passing, the Department of Homeland Security must create at least two test programs using different technologies to verify worker identity and employment eligibility. These pilot programs will be available to any employer who wants to participate. Employers can leave the pilot programs after one year without penalty and can join again later if they want. The Department must report to Congress about these pilot programs within one year of starting them, including information about what technologies were chosen.",
+      "word_offset": 1372,
+      "char_offset": 8591
+    },
+    {
+      "id": "s14",
+      "slug": "section-14-inspector-general-audits",
+      "title": "Section 14 Inspector General Audits",
+      "text": "Within one year of this law passing, the Inspector General of the Social Security Administration must complete three types of audits to find evidence of people working illegally. The first audit looks at workers who dispute wages reported under their Social Security number because they believe someone else used it. The second audit examines children's Social Security numbers being used for work. The third audit identifies employers whose workers show many mismatched Social Security numbers or names on wage reports. The Inspector General must give these audit results to specific Congressional committees, who will then decide what information to share with the Department of Homeland Security for investigation.",
+      "word_offset": 1456,
+      "char_offset": 9136
+    }
+  ]
+}

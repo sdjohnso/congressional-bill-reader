@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-s-99",
+  "title": "Strengthening Support for American Manufacturing Act",
+  "short_title": "Strengthening Support for American Manufacturing Act",
+  "congress": 119,
+  "bill_number": "S.99",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. ",
+  "version_hash": "babd8ee2b55e6b6e",
+  "last_updated": "2026-03-20T12:45:36.324955+00:00",
+  "plain_summary": "This bill tells the Department of Commerce to hire an outside group to study how well the department helps American businesses with manufacturing and supply chains. The study must look at all the different offices that do this work and figure out what each one does, how well they work, and where they might be doing the same things. The group doing the study will then give suggestions on how to make these offices work better together and be more helpful to American manufacturers. The goal is to make sure the government is doing the best job possible to support American manufacturing and keep supply chains strong.",
+  "current_status": "passed_senate",
+  "status_date": "2025-10-23",
+  "last_action_date": "2025-10-24",
+  "last_action_text": "Held at the desk.",
+  "passed_house": false,
+  "passed_senate": true,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [
+    "Advanced technology and technological innovations",
+    "Advisory bodies",
+    "Congressional oversight",
+    "Industrial policy and productivity",
+    "Manufacturing",
+    "Product development and innovation"
+  ],
+  "sponsor_name": "Sen. Peters, Gary C. [D-MI]",
+  "sponsor_party": "D",
+  "sponsor_state": "MI",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "american manufacturing support",
+    "manufacturing help",
+    "supply chain study",
+    "commerce department review",
+    "manufacturing assistance",
+    "business manufacturing support",
+    "government manufacturing programs",
+    "supply chain strengthening",
+    "manufacturing efficiency",
+    "american factories help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Strengthening Support for American Manufacturing Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, these terms mean the following things. The appropriate committees of Congress means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives. Covered offices and bureaus means the offices and bureaus of the Department of Commerce that are identified in section three of this law. Critical supply chain means the complete system that turns raw materials into finished products in important areas including defense, public health and biological preparedness, information and communications technology, energy, transportation, and agricultural supply chains. Critical supply chain resilience means reducing gaps and weak spots in critical supply chains by reducing the risk of harmful sabotage or outside or inside manipulation and improving the ability to handle supply chain disruptions like shipping problems and shortages of workers, materials, equipment, or products. Manufacturing and industrial innovation means providing help, resources, or services to manufacturers or manufacturing workers in the United States, offering expertise, improvements, research, and development or other help in technological innovations or advanced manufacturing in partnership with or for use by manufacturers in the United States, or developing policy that significantly affects the manufacturing sector in the United States. Secretary means the Secretary of Commerce.",
+      "word_offset": 12,
+      "char_offset": 81
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-study-relating-to-manufacturing-programs-of-the-department-of-commerce",
+      "title": "Section 3 Study Relating to Manufacturing Programs of the Department of Commerce",
+      "text": "The Secretary must create a report within one year after this law is signed. The report must identify offices and bureaus of the Department of Commerce that handle critical supply chain resilience and manufacturing and industrial innovation. The report must identify the duties, responsibilities, programs, and expertise related to critical supply chain resilience and manufacturing and industrial innovation of each covered office and bureau. The report must identify and assess the purpose, legal authority, effectiveness, efficiency, and limitations of each covered office and bureau. The report must identify gaps between offices with overlapping duties, responsibilities, programs, and expertise within the Department of Commerce that are doing activities related to critical supply chain resilience and manufacturing and industrial innovation. The report must provide recommendations to improve the effectiveness, efficiency, and impact of each covered office and bureau, including recommendations to optimize operations within or across covered offices and bureaus, improve coordination across covered offices and bureaus, and improve coordination with federal agencies doing similar activities related to critical supply chain resilience and manufacturing and industrial innovation. The Secretary must hire the National Academy of Public Administration to help create this report. Within one hundred eighty days after the Secretary finishes the report, the Secretary must send to the appropriate committees of Congress the report, recommendations for possible legislative action addressing recommendations in the report, and a response from the Secretary to the recommendations included in the report.",
+      "word_offset": 217,
+      "char_offset": 1535
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "bill_id": "119-hr-142",
+  "title": "Regulations from the Executive in Need of Scrutiny Act of 2025",
+  "short_title": "Regulations from the Executive in Need of Scrutiny Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.142",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to ",
+  "version_hash": "f2749a1557067c0c",
+  "last_updated": "2026-03-20T11:11:50.242374+00:00",
+  "plain_summary": "This law changes how government agencies make new rules. Before any major rule that costs more than $100 million or seriously affects the economy can go into effect, Congress must vote to approve it first. For smaller rules that cost less, Congress can still vote to reject them if they want to. The law also requires the government to study and count all the rules that currently exist and figure out how much they cost the economy.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of suc",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Advanced technology and technological innovations",
+    "Budget deficits and national debt",
+    "Business investment and capital",
+    "Competition and antitrust",
+    "Competitiveness, trade promotion, trade deficits",
+    "Congressional oversight",
+    "Congressional-executive branch relations",
+    "Economic performance and conditions",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Industrial policy and productivity",
+    "Inflation and prices",
+    "Judicial review and appeals",
+    "Legislative rules and procedure",
+    "Monetary policy",
+    "Unemployment"
+  ],
+  "sponsor_name": "Rep. Cammack, Kat [R-FL-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 93,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress approve regulations",
+    "government rules approval",
+    "federal agency oversight",
+    "regulatory costs",
+    "business regulations",
+    "congressional review",
+    "government red tape",
+    "rule making process",
+    "regulatory burden",
+    "federal rules congress"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Regulations from the Executive in Need of Scrutiny Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-purpose",
+      "title": "Section 2. Purpose",
+      "text": "The goal of this law is to make the federal government more accountable and open when it creates new rules. The Constitution gives Congress the power to make all laws. Over time, Congress has given too much of this power to government agencies without keeping proper watch over them or staying responsible for the laws it passes. By requiring Congress to vote on major rules, this REINS Act will lead to better written and more detailed laws, a better process for making rules, and a Congress that is truly answerable to the American people for the laws that affect them.",
+      "word_offset": 19,
+      "char_offset": 111
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-congressional-review-of-agency-rulemaking",
+      "title": "Section 3. Congressional Review of Agency Rulemaking",
+      "text": "This section replaces Chapter eight of title five of the United States Code with new rules about how Congress reviews government agency rulemaking. The new chapter includes seven sections that cover congressional review, approval procedures for major rules, disapproval procedures for nonmajor rules, definitions, judicial review, exemptions for monetary policy, and effective dates of certain rules.\n\nSection eight hundred one requires federal agencies to publish information about new rules in the Federal Register and submit reports to Congress and the Comptroller General before rules can take effect. For major rules, agencies must provide copies of the rule, a general statement about it, classification as major or nonmajor with explanations, related regulatory actions and their economic effects, and the proposed effective date. Agencies must also submit cost-benefit analyses, information about jobs gained or lost, and compliance with various legal requirements.\n\nThe Comptroller General must provide a report on each major rule within fifteen days after submission. Major rules can only take effect if Congress passes a joint resolution of approval. If Congress does not pass this approval within seventy session days or legislative days, the rule cannot take effect. The President can allow a major rule to take effect for ninety days in emergencies, for criminal law enforcement, for national security, or for international trade agreements.\n\nSection eight hundred two sets up the approval process for major rules. Only specific types of joint resolutions can approve major rules, and these must be introduced within three days of receiving the agency report. These resolutions cannot be changed and must follow strict procedures in both the House and Senate, including automatic committee discharge after fifteen days and limited debate time.\n\nSection eight hundred three creates a disapproval process for nonmajor rules. Congress can pass a joint resolution to disapprove these rules within sixty days of receiving the agency report. The procedures are similar to major rule approval but allow more debate time in the Senate.\n\nSection eight hundred four defines key terms. A federal agency means any agency as defined in existing law. A major rule is one that the Office of Management and Budget finds has or will have an annual economic effect of one hundred million dollars or more, major increases in costs or prices, or significant adverse effects on competition, employment, investment, productivity, innovation, or the ability of United States companies to compete with foreign companies. A nonmajor rule is any rule that is not major.\n\nSection eight hundred five limits judicial review. Courts cannot review most determinations under this chapter but can determine whether agencies have completed the necessary requirements for rules to take effect. Approval of a joint resolution does not grant new authority to agencies or affect legal challenges to rules.\n\nSection eight hundred six exempts monetary policy rules from the Federal Reserve System and Federal Open Market Committee from these requirements.\n\nSection eight hundred seven allows certain rules to take effect without following the normal procedures, including rules about hunting, fishing, or camping programs, and nonmajor rules that agencies determine are impractical, unnecessary, or contrary to public interest to delay.",
+      "word_offset": 119,
+      "char_offset": 683
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-budgetary-effects-of-rules",
+      "title": "Section 4. Budgetary Effects of Rules Subject to Section 802 of Title 5, United States Code",
+      "text": "This section changes the Balanced Budget and Emergency Deficit Control Act of nineteen eighty-five to add a new requirement. Any rule that needs congressional approval under section eight hundred two and affects budget authority, government spending, or receipts will be assumed to be effective unless Congress does not approve it according to the required procedures.",
+      "word_offset": 633,
+      "char_offset": 4094
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-government-accountability-office-study",
+      "title": "Section 5. Government Accountability Office Study of Rules",
+      "text": "The Comptroller General of the United States must conduct a study to determine how many rules were in effect when this law was passed, how many of those were major rules, and the total estimated economic cost of all these rules. The Comptroller General must submit a report to Congress with these findings within one year after this law is passed.",
+      "word_offset": 688,
+      "char_offset": 4463
+    }
+  ]
+}

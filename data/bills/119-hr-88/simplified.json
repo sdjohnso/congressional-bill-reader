@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-88",
+  "title": "Medical Innovation Acceleration Act of 2025",
+  "short_title": "Medical Innovation Acceleration Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.88",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "9a3a7f7679c2c0d1",
+  "last_updated": "2026-03-20T14:23:39.753144+00:00",
+  "plain_summary": "This bill would change the rules about medical devices that doctors use to check for health problems. It would remove government oversight from diagnostic tools that do not break the skin, go inside the body, or use dangerous radiation. These devices can only cause small changes like light pressure or temperature on the body. The goal is to let these safe diagnostic tools reach patients faster by skipping strict government approval processes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "medical devices",
+    "diagnostic tools",
+    "health screening equipment",
+    "medical testing devices",
+    "FDA approval",
+    "medical device regulation",
+    "faster medical innovation",
+    "non-invasive medical devices",
+    "medical equipment oversight",
+    "healthcare technology regulation",
+    "medical device safety rules",
+    "streamline medical approvals"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Medical Innovation Acceleration Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exempting-non-invasive-diagnostic-devices-from-regulation-as-devices",
+      "title": "Section 2 Exempting Non-Invasive Diagnostic Devices From Regulation as Devices",
+      "text": "This section changes the Federal Food, Drug, and Cosmetic Act. The change says that non-invasive diagnostic devices do not have to follow the same rules as other medical devices. A non-invasive diagnostic device is a tool that helps doctors figure out what is wrong with a patient. To be considered non-invasive, the device cannot break through the skin or go inside the body. It cannot be put into or attached inside the body. It can only cause very brief pressure or temperature changes to body tissues. It also cannot expose body tissues to harmful radiation like X-rays.",
+      "word_offset": 15,
+      "char_offset": 92
+    }
+  ]
+}

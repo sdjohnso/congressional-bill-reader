@@ -1,0 +1,106 @@
+{
+  "bill_id": "119-hr-306",
+  "title": "ESCRA Act",
+  "short_title": "ESCRA Act",
+  "congress": 119,
+  "bill_number": "HR.306",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Financial Services.",
+  "version_hash": "ff156030580252be",
+  "last_updated": "2026-03-20T13:00:08.568265+00:00",
+  "plain_summary": "The ESCRA Act creates new rules to protect people from dishonest credit repair companies. These companies can only get paid after they prove they actually fixed someone's credit problems, and they must wait at least six months to show proof. The law also makes it illegal for credit repair companies to lie to government agencies and requires them to get a state license starting in 2026. If companies break these rules, they have to pay at least 500 dollars for each violation.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. McBride, Sarah [D-DE-At Large]",
+  "sponsor_party": "D",
+  "sponsor_state": "DE",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "credit repair companies",
+    "credit score fix",
+    "credit repair scams",
+    "credit repair fraud",
+    "credit repair licensing",
+    "credit repair payment rules",
+    "credit repair consumer protection",
+    "dishonest credit repair",
+    "credit repair waiting period",
+    "credit repair company regulations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Ending Scam Credit Repair Act or the ESCRA Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-credit-repair-organization-definition",
+      "title": "Section 2 Credit Repair Organization Definition",
+      "text": "This section changes the definition of credit repair organization in existing law. A credit repair organization is a company that helps people fix their credit reports for money. The new definition makes it clear that lawyers who represent people in court cases are not considered credit repair organizations when they get paid for that work. The law also excludes attorneys who provide legal services for bankruptcy cases or other federal court cases, as long as the attorney works at the same law firm and the case is filed or will be filed within twelve months.",
+      "word_offset": 15,
+      "char_offset": 75
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibited-practices",
+      "title": "Section 3 Prohibited Practices",
+      "text": "This section lists things that credit repair companies cannot do. First, companies cannot knowingly make false statements to credit reporting agencies, the Consumer Financial Protection Bureau, the Federal Trade Commission, or any law enforcement agency. Congress notes that lying to the Consumer Financial Protection Bureau is already against the law. Second, companies cannot charge customers before they actually fix the credit problem. They must wait at least six months after providing the service and then show proof with a credit report that the problem was fixed. Third, companies cannot spam the same dispute over and over again. They can only resubmit a dispute if the credit agency had enough time to investigate the first dispute, the agency sent back results, and the new dispute explains exactly what information is wrong.",
+      "word_offset": 110,
+      "char_offset": 640
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-disclosures",
+      "title": "Section 4 Disclosures",
+      "text": "This section requires credit repair companies to give customers important information. Companies must tell customers that credit repair organizations do not provide any services that customers cannot do themselves for free. The disclosure must also include contact information for both the Federal Trade Commission and the Consumer Financial Protection Bureau. Companies must keep copies of all written statements and phone call recordings with customers for five years instead of two years.",
+      "word_offset": 240,
+      "char_offset": 1477
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-consumer-contract-required",
+      "title": "Section 5 Consumer Contract Required",
+      "text": "This section requires credit repair companies to give customers copies of all communications sent on the customer's behalf at the time those communications are sent. The section also makes technical changes to clarify when documents must be provided to customers.",
+      "word_offset": 311,
+      "char_offset": 1969
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-noncompliance",
+      "title": "Section 6 Noncompliance",
+      "text": "This section adds new rules about following the law. Credit repair companies must follow these rules even if they employ lawyers, except for specific types of bankruptcy attorneys. Starting January first, two thousand twenty six, anyone who wants to operate as a credit repair organization must have a license from their state government.",
+      "word_offset": 351,
+      "char_offset": 2233
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-credit-repair-organization-communications-with-furnishers-of-information",
+      "title": "Section 7 Credit Repair Organization Communications with Furnishers of Information",
+      "text": "This section creates new rules for how credit repair companies must communicate with businesses that report information to credit agencies. When mailing disputes, companies must use first class mail and put their name and state license number on the envelope. All disputes must include the company name, state license number if they have one, and the customer's name. If companies send follow up communications, they must clearly explain what new information they are providing. If companies sell blank dispute forms to customers, the forms must show the company name, address, and license number. Companies must respond within fifteen business days if someone asks for more information about a dispute. Attorney credit repair organizations must certify that their communications match the information the customer gave them. All dispute letters must include a disclosure statement explaining that the letter came from a credit repair organization as defined by federal law.",
+      "word_offset": 404,
+      "char_offset": 2572
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-civil-liability",
+      "title": "Section 8 Civil Liability",
+      "text": "This section changes the penalties for credit repair companies that break the law. Instead of just actual damages, customers can now collect either actual damages, the amount they paid to the company, or five hundred dollars for each violation of the law, whichever amount is greater.",
+      "word_offset": 552,
+      "char_offset": 3547
+    }
+  ]
+}

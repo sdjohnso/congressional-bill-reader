@@ -1,0 +1,250 @@
+{
+  "bill_id": "119-hr-137",
+  "title": "TCJA Permanency Act",
+  "short_title": "TCJA Permanency Act",
+  "congress": 119,
+  "bill_number": "HR.137",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Ways and Means.",
+  "version_hash": "28d6bbe1048d0321",
+  "last_updated": "2026-03-20T15:47:39.195045+00:00",
+  "plain_summary": "The TCJA Permanency Act makes tax cuts from 2017 permanent instead of letting them expire in 2025. The bill keeps lower tax rates for individuals and families, a bigger standard deduction, and a larger child tax credit. It also keeps limits on how much people can deduct for state and local taxes and mortgage interest. Without this bill, these tax changes would end and taxes would go back to higher rates.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [
+    "Capital gains tax",
+    "Charitable contributions",
+    "Disability assistance",
+    "Egypt",
+    "Foreign property",
+    "Income tax credits",
+    "Income tax deductions",
+    "Income tax rates",
+    "Middle East",
+    "Military personnel and dependents",
+    "Small business",
+    "State and local finance",
+    "Tax administration and collection, taxpayers",
+    "Tax treatment of families",
+    "Transfer and inheritance taxes"
+  ],
+  "sponsor_name": "Rep. Buchanan, Vern [R-FL-16]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 53,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "tax cuts permanent",
+    "2017 tax cuts",
+    "lower tax rates",
+    "standard deduction",
+    "child tax credit",
+    "state local tax deduction",
+    "mortgage interest deduction",
+    "taxes going up 2025",
+    "keep tax cuts",
+    "family tax relief"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-etc",
+      "title": "Section 1 Short Title, Etc.",
+      "text": "This law can be called the TCJA Permanency Act. When this law changes or removes parts of other laws, those changes apply to the Internal Revenue Code of nineteen eighty-six unless we say otherwise. The first part of Public Law one hundred fifteen dash ninety-seven can be called the Tax Cuts and Jobs Act. This law includes a table of contents that shows all the different parts and what they cover.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-101-modification-of-rates",
+      "title": "Section 101 Modification of Rates",
+      "text": "This section changes the tax rates that people pay on their income. It creates new tax tables for different types of taxpayers. For married couples filing together, single people, heads of household, and married people filing separately, the tax rates start at ten percent for the lowest income levels and go up to thirty-seven percent for the highest income levels. The income levels where each tax rate applies are different for each type of taxpayer. For example, married couples filing together pay ten percent on income up to nineteen thousand fifty dollars, while single people pay ten percent on income up to nine thousand five hundred twenty-five dollars. The law also changes how these income levels are adjusted each year for inflation, using twenty seventeen as the starting year instead of twenty sixteen. It makes changes to how capital gains taxes work with these new income tax brackets. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 71,
+      "char_offset": 401
+    },
+    {
+      "id": "s3",
+      "slug": "section-111-deduction-for-qualified-business-income",
+      "title": "Section 111 Deduction for Qualified Business Income",
+      "text": "This section removes the expiration date from the law that allows certain business owners to deduct up to twenty percent of their qualified business income from their taxes. This deduction was set to expire, but this change makes it permanent. The change applies to tax years that begin after this law is passed.",
+      "word_offset": 232,
+      "char_offset": 1374
+    },
+    {
+      "id": "s4",
+      "slug": "section-112-limitation-on-losses-for-taxpayers-other-than-corporations",
+      "title": "Section 112 Limitation on Losses for Taxpayers Other Than Corporations",
+      "text": "This section makes permanent the rule that limits how much business losses individual taxpayers can use to reduce their other income. The rule says that if someone who is not a corporation has excess business losses in a tax year, they cannot use those losses to offset other income in that same year. The section also makes technical changes to keep other parts of the tax code working correctly with this rule. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 285,
+      "char_offset": 1687
+    },
+    {
+      "id": "s5",
+      "slug": "section-121-increase-in-standard-deduction",
+      "title": "Section 121 Increase in Standard Deduction",
+      "text": "This section increases the standard deduction amounts that taxpayers can claim. For married couples filing together, the standard deduction increases from four thousand four hundred dollars to eighteen thousand dollars. For single people and married people filing separately, it increases from three thousand dollars to twelve thousand dollars. The section also changes how these amounts are adjusted for inflation each year, using twenty seventeen as the starting year. It removes certain sunset provisions that would have caused these higher amounts to expire. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 370,
+      "char_offset": 2170
+    },
+    {
+      "id": "s6",
+      "slug": "section-122-increase-in-and-modification-of-child-tax-credit",
+      "title": "Section 122 Increase in and Modification of Child Tax Credit",
+      "text": "This section changes the child tax credit rules. Families can get two thousand dollars for each qualifying child under age seventeen and five hundred dollars for each other qualifying dependent. The credit starts to decrease when a family's income goes over four hundred thousand dollars for married couples filing together or two hundred thousand dollars for others. To get the credit, the child or dependent must have their name and tax identification number on the tax return. Part of the credit can be refunded even if the family owes no taxes, but this refundable portion is limited to one thousand four hundred dollars per child and requires the family to have earned at least two thousand five hundred dollars. The section removes various temporary expansions of the credit that were set to expire. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 465,
+      "char_offset": 2803
+    },
+    {
+      "id": "s7",
+      "slug": "section-123-increased-limitation-for-certain-charitable-contributions",
+      "title": "Section 123 Increased Limitation for Certain Charitable Contributions",
+      "text": "This section makes permanent the rule that allows taxpayers to deduct cash donations to certain charities up to sixty percent of their adjusted gross income, instead of the lower fifty percent limit. If someone donates more than they can deduct in one year, they can carry forward the excess donations and deduct them over the next five years. The section also makes technical changes to coordinate this higher limit with other donation limits. These changes apply to charitable contributions made in tax years that begin after this law is passed.",
+      "word_offset": 611,
+      "char_offset": 3679
+    },
+    {
+      "id": "s8",
+      "slug": "section-124-increased-contributions-to-able-accounts",
+      "title": "Section 124 Increased Contributions to ABLE Accounts",
+      "text": "This section makes permanent two benefits related to ABLE accounts, which are special savings accounts for people with disabilities. First, it removes the expiration date on the rule that allows people with disabilities to contribute more money from their own earnings to their ABLE accounts. Second, it removes the expiration date on the rule that allows contributions to ABLE accounts to qualify for the retirement savings tax credit. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 701,
+      "char_offset": 4227
+    },
+    {
+      "id": "s9",
+      "slug": "section-125-rollovers-to-able-programs-from-529-programs",
+      "title": "Section 125 Rollovers to ABLE Programs from 529 Programs",
+      "text": "This section makes permanent the rule that allows families to move money from five twenty-nine education savings accounts to ABLE accounts for family members with disabilities without tax penalties. This rule was set to expire, but this change removes the expiration date. The change applies to distributions made after this law is passed.",
+      "word_offset": 782,
+      "char_offset": 4734
+    },
+    {
+      "id": "s10",
+      "slug": "section-126-treatment-of-certain-individuals-performing-services-in-the-sinai-peninsula-of-egypt",
+      "title": "Section 126 Treatment of Certain Individuals Performing Services in the Sinai Peninsula of Egypt",
+      "text": "This section expands the combat zone tax benefits to include people serving in the Sinai Peninsula of Egypt. Currently, military personnel and certain civilian employees get special tax treatment when they serve in designated combat zones. This change adds the Sinai Peninsula of Egypt to the list of areas where these tax benefits apply, but only during periods when US Armed Forces members are entitled to special hostile fire pay for serving in that area. The change applies to services performed on or after the date this law is passed.",
+      "word_offset": 835,
+      "char_offset": 5074
+    },
+    {
+      "id": "s11",
+      "slug": "section-131-treatment-of-student-loan-discharges",
+      "title": "Section 131 Treatment of Student Loan Discharges",
+      "text": "This section makes changes to when forgiven student loans are treated as taxable income. It ends the temporary rule that made most forgiven student loans non-taxable, returning that rule to expire at the end of twenty twenty-four instead of twenty twenty-five. However, it creates a new permanent rule that student loans forgiven because the borrower died or became totally and permanently disabled will not be taxable income. This applies to both federal student loans and private education loans. These changes apply to loan forgiveness after December thirty-first, twenty twenty-four.",
+      "word_offset": 925,
+      "char_offset": 5615
+    },
+    {
+      "id": "s12",
+      "slug": "section-132-529-account-funding-for-homeschool-and-additional-elementary-and-secondary-expenses",
+      "title": "Section 132 529 Account Funding for Homeschool and Additional Elementary and Secondary Expenses",
+      "text": "This section expands what families can use five twenty-nine education savings account money for when it comes to elementary and secondary education. In addition to tuition, families can now use the money for curriculum materials, books, online educational materials, tutoring by qualified instructors, standardized tests, college entrance exams, dual enrollment fees, and educational therapy for students with disabilities. All of these expenses are allowed for public schools, private schools, religious schools, and homeschools. The change applies to distributions made after this law is passed.",
+      "word_offset": 1014,
+      "char_offset": 6203
+    },
+    {
+      "id": "s13",
+      "slug": "section-141-repeal-of-deduction-for-personal-exemptions",
+      "title": "Section 141 Repeal of Deduction for Personal Exemptions",
+      "text": "This section eliminates the personal exemption deduction that taxpayers used to claim for themselves, their spouse, and their dependents. While the deduction is removed, the definition of who counts as a dependent is kept and moved to a different part of the tax code. The section makes many technical changes throughout the tax code to remove references to personal exemptions and replace them with references to dependents where appropriate. It also changes the income thresholds that determine when people must file tax returns, since these were previously based partly on the exemption amounts. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 1098,
+      "char_offset": 6801
+    },
+    {
+      "id": "s14",
+      "slug": "section-142-limitation-on-deduction-for-state-and-local-etc-taxes",
+      "title": "Section 142 Limitation on Deduction for State and Local, Etc., Taxes",
+      "text": "This section makes permanent the ten thousand dollar limit on how much taxpayers can deduct for state and local taxes, including income taxes, sales taxes, and property taxes. For married couples filing separately, the limit is five thousand dollars each. The section also permanently eliminates the deduction for foreign real property taxes. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 1204,
+      "char_offset": 7470
+    },
+    {
+      "id": "s15",
+      "slug": "section-143-limitation-on-deduction-for-qualified-residence-interest",
+      "title": "Section 143 Limitation on Deduction for Qualified Residence Interest",
+      "text": "This section makes permanent changes to the mortgage interest deduction. It eliminates the deduction for interest on home equity loans unless the money was used to buy or improve the home. For new mortgages, taxpayers can only deduct interest on up to seven hundred fifty thousand dollars of mortgage debt (three hundred seventy-five thousand for married filing separately). However, mortgages taken out on or before December fifteenth, twenty seventeen, can still deduct interest on up to one million dollars of debt (five hundred thousand for married filing separately) under the old rules. The section includes special rules for refinancing and binding contracts signed before the deadline. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 1269,
+      "char_offset": 7883
+    },
+    {
+      "id": "s16",
+      "slug": "section-144-modification-of-deduction-for-personal-casualty-losses",
+      "title": "Section 144 Modification of Deduction for Personal Casualty Losses",
+      "text": "This section makes permanent the rule that taxpayers can only deduct personal casualty and theft losses if they happened in a federally declared disaster area. Previously, taxpayers could deduct casualty losses from any cause, but the Tax Cuts and Jobs Act temporarily limited this to federally declared disasters. This section removes the expiration date, making the limitation permanent. The change applies to losses that happen in tax years that begin after this law is passed.",
+      "word_offset": 1388,
+      "char_offset": 8647
+    },
+    {
+      "id": "s17",
+      "slug": "section-145-termination-of-miscellaneous-itemized-deductions",
+      "title": "Section 145 Termination of Miscellaneous Itemized Deductions",
+      "text": "This section permanently eliminates most miscellaneous itemized deductions for individual taxpayers. Previously, individuals could deduct certain expenses like unreimbursed employee expenses, tax preparation fees, and investment expenses, but only if they exceeded two percent of their adjusted gross income. This section makes the temporary elimination of these deductions permanent. The section moves some technical rules about how estates and trusts calculate their adjusted gross income to a different part of the tax code. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 1463,
+      "char_offset": 9128
+    },
+    {
+      "id": "s18",
+      "slug": "section-146-repeal-of-overall-limitation-on-itemized-deductions",
+      "title": "Section 146 Repeal of Overall Limitation on Itemized Deductions",
+      "text": "This section permanently eliminates the overall limit on itemized deductions that used to reduce deductions for high-income taxpayers. Previously, taxpayers with higher incomes had their itemized deductions reduced by a percentage. This section removes that limitation entirely, though it keeps some specific limits on state and local tax deductions. It also updates the income thresholds used in those specific limits and provides for inflation adjustments using twenty twelve as the base year. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 1549,
+      "char_offset": 9726
+    },
+    {
+      "id": "s19",
+      "slug": "section-147-termination-of-exclusion-for-qualified-bicycle-commuting-reimbursement",
+      "title": "Section 147 Termination of Exclusion for Qualified Bicycle Commuting Reimbursement",
+      "text": "This section permanently eliminates the tax exclusion for qualified bicycle commuting reimbursements that employers could provide to employees. Previously, employers could reimburse employees for bicycle commuting expenses and the employee would not have to pay taxes on that reimbursement. This section removes that tax benefit entirely. It also removes the temporary suspension of the business tax deduction for providing bicycle commuting benefits. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 1634,
+      "char_offset": 10292
+    },
+    {
+      "id": "s20",
+      "slug": "section-148-qualified-moving-expense-reimbursement-exclusion-limited-to-members-of-armed-forces",
+      "title": "Section 148 Qualified Moving Expense Reimbursement Exclusion Limited to Members of Armed Forces",
+      "text": "This section permanently limits the tax exclusion for moving expense reimbursements to only members of the Armed Forces. Previously, all employees could receive tax-free reimbursements from their employers for qualified moving expenses. Now, only active-duty military members who move because of military orders and a permanent change of station can receive tax-free moving expense reimbursements. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 1709,
+      "char_offset": 10814
+    },
+    {
+      "id": "s21",
+      "slug": "section-149-deduction-for-moving-expenses-limited-to-members-of-armed-forces",
+      "title": "Section 149 Deduction for Moving Expenses Limited to Members of Armed Forces",
+      "text": "This section permanently limits the moving expense deduction to only members of the Armed Forces. Previously, most taxpayers could deduct qualified moving expenses when they moved for work. Now, only active-duty military members who move because of military orders and a permanent change of station can deduct their moving expenses. The section also provides that moving expenses paid or provided by the military are not taxable income to the service member or their family. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 1777,
+      "char_offset": 11282
+    },
+    {
+      "id": "s22",
+      "slug": "section-150-limitation-on-wagering-losses",
+      "title": "Section 150 Limitation on Wagering Losses",
+      "text": "This section makes permanent the rule that limits how much gambling losses taxpayers can deduct. The rule says that taxpayers can only deduct gambling losses up to the amount of their gambling winnings. This prevents people from deducting more in gambling losses than they actually won from gambling. The change applies to tax years that begin after this law is passed.",
+      "word_offset": 1864,
+      "char_offset": 11827
+    },
+    {
+      "id": "s23",
+      "slug": "section-151-increase-in-estate-and-gift-tax-exemption",
+      "title": "Section 151 Increase in Estate and Gift Tax Exemption",
+      "text": "This section makes permanent the doubled estate and gift tax exemption. It increases the basic exemption amount from five million dollars to ten million dollars per person before estate and gift taxes apply. This amount is still adjusted for inflation each year. The section removes the provision that would have caused this higher exemption to expire. These changes apply to people who die and gifts made after this law is passed.",
+      "word_offset": 1925,
+      "char_offset": 12197
+    },
+    {
+      "id": "s24",
+      "slug": "section-201-increased-exemption-for-individuals",
+      "title": "Section 201 Increased Exemption for Individuals",
+      "text": "This section makes permanent the higher exemption amounts for the alternative minimum tax. The exemption increases to one hundred nine thousand four hundred dollars for married couples filing jointly and seventy thousand three hundred dollars for single filers. The income level where these exemptions start to phase out also increases significantly, to one million dollars for joint filers. The section updates the inflation adjustment rules to use twenty seventeen as the base year for most amounts and twenty eleven for others. It also removes some complex rules that are no longer needed. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 1996,
+      "char_offset": 12629
+    }
+  ]
+}

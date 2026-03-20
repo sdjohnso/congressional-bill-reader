@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-370",
+  "title": "Voluntary School Prayer Protection Act of 2025",
+  "short_title": "Voluntary School Prayer Protection Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.370",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "8fe92e70d700482e",
+  "last_updated": "2026-03-20T11:12:02.010036+00:00",
+  "plain_summary": "This bill stops the Department of Education from giving money to public schools that don't allow voluntary prayer. The prayer must be the kind that is protected by the Constitution. Schools cannot get federal funding if they have rules that stop students from praying voluntarily or make it hard for them to pray. The bill is meant to protect students' right to pray in school if they choose to.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-13",
+  "last_action_date": "2025-01-13",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "subjects": [
+    "Education programs funding",
+    "Elementary and secondary education",
+    "Religion",
+    "School administration",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Rouzer, David [R-NC-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "school prayer",
+    "prayer in schools",
+    "student prayer rights",
+    "voluntary prayer",
+    "religious freedom schools",
+    "praying at school",
+    "school funding prayer",
+    "federal money schools prayer",
+    "students right to pray",
+    "school prayer protection",
+    "prayer constitutional rights",
+    "education department funding prayer"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Voluntary School Prayer Protection Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-funding-contingent-on-respect-for-constitutionally-protected-school-prayer",
+      "title": "Section 2 Funding Contingent on Respect for Constitutionally Protected School Prayer",
+      "text": "The federal government will not give money from the Department of Education to any state or local school system that has rules against voluntary prayer in public schools. This applies when the prayer is protected by the Constitution. Schools cannot stop students or others from praying voluntarily if the Constitution protects that prayer. However, no person can be forced to pray or to change what someone else prays about in public schools.",
+      "word_offset": 15,
+      "char_offset": 95
+    }
+  ]
+}

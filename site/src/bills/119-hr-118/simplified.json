@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-118",
+  "title": "No Federal Funds for Political Prosecutions Act",
+  "short_title": "No Federal Funds for Political Prosecutions Act",
+  "congress": 119,
+  "bill_number": "HR.118",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be ",
+  "version_hash": "9597dba0b6f89388",
+  "last_updated": "2026-03-20T11:18:50.328430+00:00",
+  "plain_summary": "This bill stops state and local police departments from using certain federal money to go after presidents, vice presidents, or people running for president. The money comes from a program where the federal government shares money and property taken from criminals with local police. If police departments want to keep getting this federal money, they have to promise not to use it to investigate or charge these high-level political figures with crimes. If they break this rule, they will lose access to the federal funds.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such p",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Criminal investigation, prosecution, interrogation",
+    "Law enforcement administration and funding",
+    "Presidents and presidential powers, Vice Presidents",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal money police",
+    "local police funding",
+    "investigating presidents",
+    "prosecuting politicians",
+    "federal funds restrictions",
+    "police department money",
+    "political investigations",
+    "criminal forfeiture money",
+    "presidential immunity funding",
+    "state police federal grants"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This Act can be called the No Federal Funds for Political Prosecutions Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-use-of-forfeited-funds-made-available-pursuant-to-equitable-sharing",
+      "title": "Section 2 Limitation on Use of Forfeited Funds Made Available Pursuant to Equitable Sharing",
+      "text": "No state or local police agency that has the power to bring criminal charges can use certain federal money or property to investigate or prosecute current or former Presidents, current or former Vice Presidents, or people running for President. This federal money and property comes from a program called equitable sharing where the federal government gives state and local police agencies a share of money and items that were taken away from criminals. These state and local police agencies must promise in writing to the Attorney General that they will follow this rule. If the Attorney General decides that a state or local police agency has broken this rule, then the Attorney General cannot give that agency any more money or property through the equitable sharing program. For this section, the word candidate means the same thing it means in the Federal Election Campaign Act of nineteen seventy one.",
+      "word_offset": 13,
+      "char_offset": 76
+    }
+  ]
+}

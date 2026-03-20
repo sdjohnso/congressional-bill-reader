@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-621",
+  "title": "Protecting First Responders from Secondary Exposure Act of 2025",
+  "short_title": "Protecting First Responders from Secondary Exposure Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.621",
+  "introduced_date": "2025-01-22",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "6c3b7161a1bb76f9",
+  "last_updated": "2026-03-20T12:50:42.828201+00:00",
+  "plain_summary": "This bill changes the rules for how the government can spend money from a special program that fights drug problems. The new rules let police, firefighters, and other first responders use this money to buy special equipment that protects them from dangerous drugs like fentanyl. The money can also pay for training to teach first responders how to use this safety equipment properly. This helps keep the people who help us safe when they are doing their jobs around deadly substances.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-22",
+  "last_action_date": "2025-01-22",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Drug trafficking and controlled substances",
+    "Employment and training programs",
+    "First responders and emergency personnel"
+  ],
+  "sponsor_name": "Rep. Joyce, David P. [R-OH-14]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 22,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "first responders safety",
+    "police protection equipment",
+    "firefighter drug exposure",
+    "fentanyl protection gear",
+    "emergency worker safety",
+    "drug exposure training",
+    "protective equipment funding",
+    "first responder health",
+    "dangerous drug safety",
+    "emergency personnel protection",
+    "fentanyl safety equipment"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting First Responders from Secondary Exposure Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-providing-training-and-resources-for-first-responders",
+      "title": "Section 2 Providing Training and Resources for First Responders on the Use of Containment Devices to Prevent Secondary Exposure to Fentanyl and Other Potentially Lethal Substances, and Purchasing Such Containment Devices for Use by First Responders",
+      "text": "This section changes an existing law called the Omnibus Crime Control and Safe Streets Act of nineteen sixty eight. The change adds a new way that government grant money can be used. The money can now be spent on training first responders like police officers, firefighters, and paramedics about how to use special equipment called containment devices. These devices help protect first responders from accidentally breathing in or touching dangerous drugs like fentanyl that could make them very sick or even kill them. The grant money can also be used to buy these protective containment devices for first responder teams to use.",
+      "word_offset": 18,
+      "char_offset": 112
+    }
+  ]
+}

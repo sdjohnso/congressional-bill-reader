@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-s-90",
+  "title": "Historic Roadways Protection Act",
+  "short_title": "Historic Roadways Protection Act",
+  "congress": 119,
+  "bill_number": "S.90",
+  "introduced_date": "2025-01-14",
+  "stage": "reported_by_committee",
+  "stage_label": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favora",
+  "version_hash": "a1a8d860152162de",
+  "last_updated": "2026-03-20T12:51:50.898911+00:00",
+  "plain_summary": "This bill stops the Bureau of Land Management from using federal money to close historic roads in Utah until courts decide who owns the rights to these roads. Utah and 22 counties are suing the government because they say they have the legal right to keep old roads open that were created in the 1800s to help people settle the West. The bill blocks the government from making new travel plans for ten areas in Utah and stops four existing plans from being put into action. The government cannot spend money on these road closures until all the court cases are finished.",
+  "current_status": "committee_reported",
+  "status_date": "2026-02-04",
+  "last_action_date": "2026-02-04",
+  "last_action_text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Land use and conservation",
+    "Roads and highways",
+    "Utah"
+  ],
+  "sponsor_name": "Sen. Lee, Mike [R-UT]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Utah roads",
+    "historic roads",
+    "old western roads",
+    "road closures",
+    "government land",
+    "Bureau of Land Management",
+    "Utah counties lawsuit",
+    "federal land roads",
+    "pioneer roads",
+    "western settlement roads",
+    "public land access",
+    "road rights"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Historic Roadways Protection Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-use-of-funds",
+      "title": "Section 2  Prohibition on Use of Funds to Finalize and Implement Certain Travel Management Plans in the State of Utah",
+      "text": "In this section, several terms are defined. The applicable period means the time starting when this law is passed and ending when the Secretary of the Interior tells Congress that all the R.S. 2477 court cases have been decided. A covered travel management area means any of these ten specific areas in Utah: the Henry Mountains and Fremont Gorge area, the Dinosaur North area, the Book Cliffs area in Vernal, the Nine Mile Canyon area in Vernal, the San Rafael Swell area, the Nine Mile Canyon area in Price, the Book Cliffs area in Moab, the Dolores River area, the Trail Canyon area, and the Paunsaugunt area. R.S. 2477 cases refers to twenty-two specific court cases where Utah counties and the state of Utah are suing the United States government over road rights. The Secretary means the Secretary of the Interior working through the Director of the Bureau of Land Management. During the applicable period, the Secretary cannot spend any federal money to create new travel management plans for the ten covered areas in Utah or to put into action four existing travel management plans: the Indian Creek Canyon Rims plan, the San Rafael Desert plan, the San Rafael Swell plan, or the Labyrinth Gemini Bridges plan. This rule applies even if other laws say something different.",
+      "word_offset": 10,
+      "char_offset": 61
+    }
+  ]
+}

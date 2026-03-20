@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-hr-431",
+  "title": "Pony Up Act",
+  "short_title": "Pony Up Act",
+  "congress": 119,
+  "bill_number": "HR.431",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "version_hash": "544279e715873364",
+  "last_updated": "2026-03-20T11:27:25.949956+00:00",
+  "plain_summary": "The Pony Up Act makes the Postal Service pay people back when they get charged late fees because their mail was delivered too slowly. If the Postal Service gets a bill at least 12 days before it is due but delivers it less than 6 days before the due date, or if they get a payment 5 days early but deliver it late, they have to pay any late fees the person got charged. The Postal Service does not have to pay if the delay was caused by something they could not control, like a natural disaster. The bill also makes the Postal Service report to Congress every year about mail delays and requires them to study whether big companies get better mail service than regular people.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Accounting and auditing",
+    "Administrative remedies",
+    "Congressional oversight",
+    "Government information and archives",
+    "Postal service",
+    "U.S. Postal Service",
+    "User charges and fees"
+  ],
+  "sponsor_name": "Rep. Graves, Sam [R-MO-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "postal service late fees",
+    "mail delivery too slow",
+    "usps refund late charges",
+    "post office compensation",
+    "mail delivered late",
+    "postal service delays",
+    "usps pay back fees",
+    "slow mail delivery reimbursement",
+    "postal service liability",
+    "mail service quality",
+    "post office accountability"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Pony Up Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-payment-of-fees-resulting-from-delayed-delivery",
+      "title": "Section 2 Payment of Fees Resulting from Delayed Delivery",
+      "text": "The United States Postal Service must pay back late fees that people get charged when their bills or bill payments arrive late in the mail. The Postal Service will pay the full amount of any late fees or penalties that a person has to pay because of delayed mail delivery. To get this money back, people must fill out an application with the Postal Service. The Postal Service must let people apply online on their website, by mail, or at any post office. The Postal Service does not have to pay if the delay was caused by something they could not control, like a major disaster or emergency declared by the President. If the Postal Service says no to someone's application, that person can appeal the decision to a special officer called the Judicial Officer within thirty days. The Judicial Officer will make the final decision as quickly as possible. The Postal Service must create rules for how this works within sixty days after this law is passed. A bill or notice is delivered late if the Postal Service got it at least twelve days before the payment was due but delivered it less than six days before the due date. A payment is delivered late if the Postal Service got it at least five days before it was due but delivered it after the due date. The Judicial Officer is a special official appointed under existing postal law.",
+      "word_offset": 9,
+      "char_offset": 40
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-report-on-mail-delivery-delays",
+      "title": "Section 3 Report on Mail Delivery Delays",
+      "text": "Starting one year after this law is passed and then every year after that, the Postal Service must give Congress a report about mail delivery delays. The report must include information for each type of mail about how long delivery takes on average and how long delays are on average. The report must separate mail sent under special agreements between big senders and the Postal Service from all other mail. The report must also explain how much mail is presorted and how presorting affects delivery times. The Inspector General of the Postal Service must study whether the Postal Service gives priority to mail from big business customers over regular mail of the same type. The Inspector General must report their findings to Congress within one year after this law is passed. For this section, class of mail means the different types of mail services defined in existing postal laws.",
+      "word_offset": 248,
+      "char_offset": 1374
+    }
+  ]
+}

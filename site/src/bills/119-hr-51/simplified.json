@@ -1,0 +1,136 @@
+{
+  "bill_id": "119-hr-51",
+  "title": "Washington, D.C. Admission Act",
+  "short_title": "Washington, D.C. Admission Act",
+  "congress": 119,
+  "bill_number": "HR.51",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Rules, Armed Services",
+  "version_hash": "5b3d852353e788ea",
+  "last_updated": "2026-03-20T14:50:54.837185+00:00",
+  "plain_summary": "This bill would make Washington D.C. into the 51st state called Washington Douglass Commonwealth. The new state would include most of the current D.C. area, but important government buildings like the White House, Capitol, and Supreme Court would stay as a separate federal area called the Capital. The new state would get to send two senators and one representative to Congress just like other states. Current D.C. laws and court cases would continue under the new state government, and a special group would help make the change from D.C. to statehood go smoothly.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Rules, Armed Services, the Judiciary, and Energy and Commerce, for a period to be subsequently determ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional districts and representation",
+    "Congressional elections",
+    "Constitution and constitutional amendments",
+    "District of Columbia",
+    "Elections, voting, political campaign regulation",
+    "Government buildings, facilities, and property",
+    "House of Representatives",
+    "Legislative rules and procedure",
+    "Members of Congress",
+    "Presidents and presidential powers, Vice Presidents",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Del. Norton, Eleanor Holmes [D-DC]",
+  "sponsor_party": "D",
+  "sponsor_state": "DC",
+  "cosponsor_count": 206,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "DC statehood",
+    "Washington DC become state",
+    "51st state",
+    "District of Columbia voting rights",
+    "DC representation in Congress",
+    "Washington Douglass Commonwealth",
+    "DC senators and representatives",
+    "federal district",
+    "Capitol building federal area",
+    "DC government change",
+    "voting rights Washington DC",
+    "new state from DC"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Washington D.C. Admission Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-101-admission-into-union",
+      "title": "Section 101  Admission Into the Union",
+      "text": "When the President issues the required announcement as described in section 103, the area known as Washington D.C. will become a new state called Washington Douglass Commonwealth. This new state will be equal to all other states in every way. The new state must have a constitution that follows republican principles and does not conflict with the U.S. Constitution or the Declaration of Independence. If any part of this section is ruled invalid by a court, then this entire law becomes invalid.",
+      "word_offset": 10,
+      "char_offset": 58
+    },
+    {
+      "id": "s3",
+      "slug": "section-102-elections-senators-representative",
+      "title": "Section 102  Elections of Senators and Representative",
+      "text": "Within thirty days of receiving confirmation that this law has been enacted, the Mayor must announce the first elections for two Senators and one Representative from the new state. The two Senate positions will be treated as separate offices and no person can run for both at the same time. The elections will include both primary and general elections following Washington D.C.'s election laws. The Mayor must send the election results in writing to the President. Once the new state is admitted to the Union, these newly elected Senators and Representative will take their seats in Congress with full rights and privileges. The House of Representatives will permanently increase from four hundred thirty five members to four hundred thirty six members to include the new state's Representative. Until the next official census and redistricting, the new state gets one Representative. Future redistricting will be based on four hundred thirty six total Representatives instead of the current number.",
+      "word_offset": 92,
+      "char_offset": 555
+    },
+    {
+      "id": "s4",
+      "slug": "section-103-presidential-proclamation",
+      "title": "Section 103  Issuance of Presidential Proclamation",
+      "text": "After receiving the official election results from the Mayor, the President must announce those results publicly within ninety days.",
+      "word_offset": 249,
+      "char_offset": 1556
+    },
+    {
+      "id": "s5",
+      "slug": "section-111-territory-boundaries",
+      "title": "Section 111  Territory and Boundaries",
+      "text": "The new state will include all the territory that is currently Washington D.C., except for the area that will remain as the Capital (the seat of the federal government). Within one hundred eighty days of this law being enacted, the President will work with the National Capital Planning Commission to conduct a detailed survey of the boundaries of the Capital area.",
+      "word_offset": 268,
+      "char_offset": 1689
+    },
+    {
+      "id": "s6",
+      "slug": "section-112-description-capital",
+      "title": "Section 112  Description of Capital",
+      "text": "The Capital will include the main federal monuments, the White House, the Capitol Building, the Supreme Court Building, and federal office buildings near the National Mall and Capitol Building. The specific boundaries are described in detail using street names and property lines throughout downtown Washington D.C. The Capital will not include the John A. Wilson Building, which currently serves as D.C.'s city hall. The Frances Perkins Building will be completely included in the Capital area.",
+      "word_offset": 329,
+      "char_offset": 2055
+    },
+    {
+      "id": "s7",
+      "slug": "section-113-retention-title-property",
+      "title": "Section 113  Retention of Title to Property",
+      "text": "The federal government will keep ownership of all property it currently owns or controls. The new state will keep ownership of all property that Washington D.C. currently owns or controls.",
+      "word_offset": 404,
+      "char_offset": 2551
+    },
+    {
+      "id": "s8",
+      "slug": "section-114-effect-admission-current-laws",
+      "title": "Section 114  Effect of Admission on Current Laws",
+      "text": "All laws that currently apply in Washington D.C. will continue to apply in the Capital area after statehood. These laws will be treated as federal laws that only apply in the Capital.",
+      "word_offset": 434,
+      "char_offset": 2740
+    },
+    {
+      "id": "s9",
+      "slug": "section-115-capital-national-guard",
+      "title": "Section 115  Capital National Guard",
+      "text": "The law creates a Capital National Guard to replace the current D.C. National Guard. Throughout federal law, references to the District of Columbia National Guard will be changed to Capital National Guard. The Capital is defined as the seat of the federal government as described in section 112. For the Capital National Guard, the commanding general will serve the role that a state governor normally serves.",
+      "word_offset": 466,
+      "char_offset": 2924
+    },
+    {
+      "id": "s10",
+      "slug": "section-116-termination-legal-status",
+      "title": "Section 116  Termination of Legal Status",
+      "text": "Once the new state is admitted, the Capital area will no longer function as a municipal corporation or local government.",
+      "word_offset": 532,
+      "char_offset": 3334
+    }
+  ]
+}

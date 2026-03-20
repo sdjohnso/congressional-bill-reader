@@ -1,0 +1,90 @@
+{
+  "bill_id": "119-s-60",
+  "title": "Write the Laws Act",
+  "short_title": "Write the Laws Act",
+  "congress": 119,
+  "bill_number": "S.60",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "5ce54cb6a42f6c85",
+  "last_updated": "2026-03-20T15:20:01.072970+00:00",
+  "plain_summary": "The Write the Laws Act would stop Congress from letting other parts of government make rules that act like laws. Instead, Congress would have to write all the laws themselves with specific details. The bill says that any new laws, rules, or decisions made 90 days after this bill passes must follow this requirement or they will not count. A government office would have to find all the old laws that give rule-making power to agencies and report them to Congress.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Congressional-executive branch relations",
+    "Government information and archives",
+    "Legislative rules and procedure",
+    "Presidents and presidential powers, Vice Presidents"
+  ],
+  "sponsor_name": "Sen. Paul, Rand [R-KY]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress write laws",
+    "stop agencies making rules",
+    "government rule making",
+    "congress vs agencies",
+    "who makes laws",
+    "federal agencies power",
+    "congress control rules",
+    "government departments rules",
+    "legislative power",
+    "congress authority",
+    "agency regulations",
+    "government rule changes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Write the Laws Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-constitutional-authority-statement",
+      "title": "Section 2 Constitutional Authority Statement",
+      "text": "Congress has the power to make this law for two main reasons. First, the Constitution gives Congress all the power to make laws for the country. Second, the Constitution lets Congress make any laws that are needed to carry out the powers it was given. This law also helps protect the right in the Fifth Amendment that says the government cannot take away a person's life, freedom, or property without following proper legal steps.",
+      "word_offset": 10,
+      "char_offset": 47
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-findings",
+      "title": "Section 3 Findings",
+      "text": "Congress has found the following facts. The Constitution divides government power into three separate parts. Congress makes the laws. The President carries out the laws. The courts decide what the laws mean in legal cases. The Constitution was written this way on purpose to prevent any one part of government from having too much power. The Supreme Court has said that each branch of government must stay within its own area of power and cannot take over the jobs of the other branches. But starting in the late eighteen hundreds, Congress began creating government agencies that have all three types of power mixed together. These agencies can make rules like Congress, enforce rules like the President, and decide legal cases like courts. This mixing of powers goes against how the Constitution set up our government. When Congress lets agencies make rules that affect people's lives, it creates a system where the same agency writes the rule, enforces the rule, and decides if someone broke the rule. This is unfair and goes against the Fifth Amendment's promise of due process. The Constitution does not allow Congress to give away its power to make laws to other parts of government or to agencies. When Congress lets agencies write the rules instead of writing them itself, it takes away important protections like having both the House and Senate vote on laws and letting the President veto laws he disagrees with. This has created too many burdensome rules for American people and has broken the constitutional separation of powers.",
+      "word_offset": 84,
+      "char_offset": 478
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-restoring-the-separation-of-powers",
+      "title": "Section 4 Restoring the Separation of Powers",
+      "text": "This section adds new rules to federal law about separating government powers. The new rules define what it means to give away Congress's law-making power. This includes letting agencies create or explain any criminal offense or civil penalty. It also includes letting agencies create rules, bans, or limits that apply to the public unless Congress has written out all the details completely in a law. However, agencies can still make factual findings to determine when a law should start, stop, or restart. The rules do not apply to Presidential announcements, internal agency operations, or conditions on government grants and contracts. The new law says Congress cannot give its law-making power to any part of the legislative branch, the President or anyone in the executive branch, the judicial branch, any agency, any semi-public agency, any state or local government, or any other organization or person. No new Presidential orders, decisions, rules, or regulations that govern or limit what people or businesses can do may be created or changed unless Congress has passed a law that follows these rules. The only exception is for rules about federal government workers. Within six months after this law passes, the Comptroller General (the head of the Government Accountability Office) must give Congress a report. The report must list all laws passed before this new law takes effect that improperly give away Congress's law-making power. Any law, Presidential order, decision, rule, or regulation that does not follow these new rules will have no legal power. No one can be prosecuted or sued under such rules. Any person hurt by a government action based on a rule that violates these requirements can sue the United States in federal court to stop the enforcement of that rule. The court must review these cases completely from the beginning. These new rules will apply to any law, Presidential order, decision, rule, or regulation created or changed ninety days or more after this law is passed.",
+      "word_offset": 339,
+      "char_offset": 2020
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-severability-clause",
+      "title": "Section 5 Severability Clause",
+      "text": "If any court finds that any part of this law is not valid, the rest of the law will still remain in effect. The invalid part will not affect the other parts of the law or how they apply to other people or situations.",
+      "word_offset": 664,
+      "char_offset": 4029
+    }
+  ]
+}

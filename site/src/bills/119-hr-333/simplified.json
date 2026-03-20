@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-333",
+  "title": "Disabled Veterans Tax Termination Act",
+  "short_title": "Disabled Veterans Tax Termination Act",
+  "congress": 119,
+  "bill_number": "HR.333",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+  "version_hash": "20e5d0bdf113eb5c",
+  "last_updated": "2026-03-20T15:43:47.688193+00:00",
+  "plain_summary": "This bill helps disabled veterans get more money by letting them receive both their military retirement pay and their disability payments at the same time. Right now, veterans with less serious disabilities have to choose between the two types of payments instead of getting both. The bill also helps disabled veterans who had to retire early before serving for twenty years. These changes mean that more disabled veterans will be able to keep all the money they have earned from their military service and their disabilities.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-02-11",
+  "last_action_text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Disability and paralysis",
+    "Military personnel and dependents",
+    "Veterans' pensions and compensation"
+  ],
+  "sponsor_name": "Rep. Bishop, Sanford D. [D-GA-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "GA",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "disabled veterans pay",
+    "military retirement money",
+    "disability payments",
+    "veteran benefits",
+    "double dipping military pay",
+    "concurrent receipt",
+    "military pension and disability",
+    "veteran compensation",
+    "retired military pay",
+    "disabled vet money",
+    "veteran financial help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Disabled Veterans Tax Termination Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-concurrent-receipt",
+      "title": "Section 2  Concurrent Receipt of Both Retired Pay and Veterans' Disability Compensation for Military Retirees with Compensable Service-Connected Disabilities",
+      "text": "This section changes the rules so that more retired military members can receive both their military retirement pay and disability payments from the Veterans Administration at the same time. Currently, many veterans must choose between one or the other, which is sometimes called the disability tax.\n\nThe first change allows any retired military member with a disability caused by their military service to receive both payments. Right now, only those with disabilities rated at fifty percent or higher can do this.\n\nThe second change helps military members who had to retire because of disabilities before completing twenty years of service. These members will also be able to receive both types of payments, with only a small reduction based on a specific formula.\n\nThe section also removes old rules that were part of a gradual phase-in period that is no longer needed. It updates the title of the law section to better describe what it does.\n\nThese changes will start on the first day of the first month after this law is passed. The new rules will apply to all payments made from that date forward.",
+      "word_offset": 11,
+      "char_offset": 66
+    }
+  ]
+}

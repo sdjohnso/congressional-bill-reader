@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hr-497",
+  "title": "Medicaid Third Party Liability Act",
+  "short_title": "Medicaid Third Party Liability Act",
+  "congress": 119,
+  "bill_number": "HR.497",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "f1bea3caba1b367d",
+  "last_updated": "2026-03-20T12:00:30.909943+00:00",
+  "plain_summary": "This bill changes the rules about who pays first when Medicaid patients also have other health insurance. Right now, Medicaid sometimes pays first for children's checkups and then tries to get the money back from other insurance companies later. The new law would make other insurance companies always pay first before Medicaid pays anything. States would also have to check and make sure they have correct insurance information for all Medicaid patients, or the federal government won't help pay for their care.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Child health",
+    "Health care costs and insurance",
+    "Medicaid",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Crenshaw, Dan [R-TX-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "medicaid insurance payment order",
+    "who pays first medicaid or private insurance",
+    "medicaid third party liability",
+    "children checkups insurance coverage",
+    "medicaid payment rules",
+    "other insurance before medicaid",
+    "medicaid patients with multiple insurance",
+    "insurance verification medicaid",
+    "medicaid federal funding requirements",
+    "dual insurance coverage medicaid"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Medicaid Third Party Liability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-medicaid-third-party-liability",
+      "title": "Section 2 Medicaid Third Party Liability",
+      "text": "This section makes changes to how Medicaid works with other insurance companies when someone has both Medicaid and other health coverage. First, it removes special rules that protected certain types of medical care and payments from having to go through other insurance first. Second, it requires states to be clear about their agreements with health insurance companies starting January first twenty twenty six. When a state works with a health insurer to provide Medicaid services, the contract must spell out whether the state is giving the insurance company the right to collect money back from other responsible parties who should have paid for medical services. The contract must also say whether the state is giving the insurance company the right to collect payments that patients have assigned to the state. If a state chooses either of these options, the state must promise that its laws give the insurance company the same authority the state would have had. Third, the law allows states more flexibility in how they handle situations where someone else should pay for medical services instead of Medicaid. After January first twenty twenty six, if a state approves medical services for someone eligible for Medicaid, that approval can be used as valid permission for the responsible third party to provide those services. Fourth, starting January first twenty twenty six, states must collect and verify information about whether someone applying for Medicaid has other health insurance coverage and which plan they are enrolled in. If states do not collect and verify this insurance information, they cannot get federal matching funds for medical assistance provided to those individuals.",
+      "word_offset": 11,
+      "char_offset": 63
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-effective-date",
+      "title": "Section 3 Effective Date",
+      "text": "If the Secretary of Health and Human Services decides that a state needs to pass new laws to follow the requirements in this act, the state will not be considered out of compliance just because they have not met these new requirements yet. States have until the first day of the first three month period that begins after their state legislature finishes its first regular session following the date this act becomes law. For states that have legislatures that meet for two years at a time, each year counts as a separate regular session.",
+      "word_offset": 279,
+      "char_offset": 1764
+    }
+  ]
+}

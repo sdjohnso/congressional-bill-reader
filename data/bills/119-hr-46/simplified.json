@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-hr-46",
+  "title": "Rural Broadband Window of Opportunity Act",
+  "short_title": "Rural Broadband Window of Opportunity Act",
+  "congress": 119,
+  "bill_number": "HR.46",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Energy and Commerce.",
+  "version_hash": "52ab9860eafa070d",
+  "last_updated": "2026-03-20T11:47:13.595153+00:00",
+  "plain_summary": "This bill tells the Federal Communications Commission to process internet company applications faster in places where the weather makes it hard to build things for most of the year. These are areas that get lots of snow and have very long winters, so companies only have a short time each year to build internet equipment. The bill focuses on a government program called the Rural Digital Opportunity Fund that helps bring internet service to rural areas that don't have good internet yet. By processing applications faster for these snowy areas, internet companies will have more time to actually build the internet systems during the short warm months when construction is possible.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Atmospheric science and weather",
+    "Federal Communications Commission (FCC)",
+    "Government trust funds",
+    "Internet, web applications, social media",
+    "Rural conditions and development",
+    "Telephone and wireless communication"
+  ],
+  "sponsor_name": "Rep. Bergman, Jack [R-MI-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "rural internet",
+    "broadband construction",
+    "winter weather delays",
+    "snow construction problems",
+    "internet access rural areas",
+    "FCC application processing",
+    "short building season",
+    "rural digital opportunity",
+    "internet infrastructure weather",
+    "cold climate broadband",
+    "seasonal construction limits",
+    "faster internet permits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Rural Broadband Window of Opportunity Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-purpose",
+      "title": "Section 2 Purpose",
+      "text": "The goal of this law is to make things fair for internet service companies that take part in the Rural Digital Opportunity Fund. Some companies are at a disadvantage because they work in places where the building season is very short due to bad weather.",
+      "word_offset": 12,
+      "char_offset": 70
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-application-processing-prioritization",
+      "title": "Section 3 Application Processing Prioritization",
+      "text": "This section is about the Rural Digital Opportunity Fund Phase Two auction. This is a government program that was created by the Federal Communications Commission on January thirtieth, two thousand twenty. Companies that want to participate in this program must fill out long applications and other paperwork. The Federal Communications Commission must handle these applications faster for certain companies. The Commission must give priority to applications from companies that want to provide internet service in areas that have the shortest building seasons. These are places like areas that have long winters with lots of heavy snow where construction work is very difficult.",
+      "word_offset": 57,
+      "char_offset": 324
+    }
+  ]
+}

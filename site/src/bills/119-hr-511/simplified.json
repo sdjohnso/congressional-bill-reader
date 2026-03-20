@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-511",
+  "title": "AMERICANS Act",
+  "short_title": "AMERICANS Act",
+  "congress": 119,
+  "bill_number": "HR.511",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Armed Services.",
+  "version_hash": "2e7c3413b2fcd4cb",
+  "last_updated": "2026-03-20T10:53:05.369860+00:00",
+  "plain_summary": "The AMERICANS Act stops the Defense Secretary from making new COVID-19 vaccine rules for military members. It helps service members who were kicked out or punished for not getting the COVID-19 vaccine by letting them return to service with clean records and get back pay. The bill also says these service members don't have to pay back any bonuses they received. Military members who don't have the vaccine must be treated fairly and given the same chances for promotions as everyone else.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Referred to the House Committee on Armed Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Administrative remedies",
+    "Cardiovascular and respiratory health",
+    "Immunology and vaccination",
+    "Infectious and parasitic diseases",
+    "Military personnel and dependents"
+  ],
+  "sponsor_name": "Rep. Harrigan, Pat [R-NC-10]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 29,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "military covid vaccine",
+    "soldiers fired vaccine",
+    "troops kicked out covid",
+    "military vaccine mandate",
+    "service members rehired",
+    "army covid shots",
+    "military back pay vaccine",
+    "defense department vaccine rules",
+    "soldiers vaccine punishment",
+    "military promotion vaccine",
+    "troops return service covid",
+    "armed forces vaccine requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Allowing Military Exemptions, Recognizing Individual Concerns About New Shots Act of two thousand twenty five. It can also be called the AMERICANS Act for short.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-remedies-for-members-of-the-armed-forces",
+      "title": "Section 2 Remedies for Members of the Armed Forces Discharged or Subject to Adverse Action Under the COVID-19 Vaccine Mandate",
+      "text": "The Secretary of Defense cannot create a new COVID nineteen vaccine requirement to replace the one that was canceled in two thousand twenty three. The Secretary can only do this if Congress passes a new law that clearly allows it. This section also makes several changes to an existing law from two thousand twenty one. First, it says that any service member who gets discharged for refusing the COVID nineteen vaccine must receive an honorable discharge. Second, the Secretary of Defense cannot take any harmful action against a service member just because they refused the COVID nineteen vaccine. Third, service members who were discharged or faced punishment because of their COVID nineteen vaccination status can ask for several remedies. They can get their discharge status changed to honorable if they were separated only for refusing the vaccine. They can be put back into service at their previous rank if they want to return. If they faced other punishments besides being discharged, they can get their rank restored and receive compensation for lost pay and benefits. All negative records related to COVID nineteen vaccination status must be removed from their files. Time spent separated from service will count toward their retirement pay if they are reinstated. The Secretary must try to keep unvaccinated service members and give them equal opportunities for professional development and promotions. The Secretary can only consider vaccination status when making deployment decisions if a foreign country requires vaccination for entry and the service member must be in that country to do their job. For these situations, the Secretary must create a process to give exemptions to service members who have natural immunity, health conditions that make vaccination risky, or sincere religious beliefs against vaccination. Former service members who were separated for refusing the COVID nineteen vaccine do not have to pay back any bonuses they received. If they already paid money back, they will be reimbursed. All of these remedies apply to service members regardless of whether they asked for an accommodation to the COVID nineteen vaccination policy.",
+      "word_offset": 31,
+      "char_offset": 189
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-415",
+  "title": "Stop Act",
+  "short_title": "Stop Act",
+  "congress": 119,
+  "bill_number": "HR.415",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on House Administration.",
+  "version_hash": "debed967ac5d1518",
+  "last_updated": "2026-03-20T12:23:29.503913+00:00",
+  "plain_summary": "The Stop Act is a new law that changes the rules about how federal officials can raise money for political campaigns. Under this law, federal officials like members of Congress cannot directly ask people to donate money to political committees or campaigns. However, they are still allowed to go to fundraising events and even speak at them, as long as they don't actually ask anyone for money while they are there. These new rules will apply to all requests for political donations that happen after the law goes into effect.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Elections, voting, political campaign regulation"
+  ],
+  "sponsor_name": "Rep. Boyle, Brendan F. [D-PA-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "PA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress fundraising rules",
+    "politicians asking for money",
+    "campaign donation restrictions",
+    "federal officials fundraising ban",
+    "political fundraising limits",
+    "congress money requests",
+    "campaign finance reform",
+    "politicians soliciting donations",
+    "fundraising event rules",
+    "political money raising laws"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Stop Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibiting-direct-solicitation",
+      "title": "Section 2 Prohibiting Direct Solicitation of Campaign Contributions or Funds for Federal Election Activity by Federal Officeholders",
+      "text": "This section changes existing campaign finance law to add new rules about how federal officials can ask for money. Federal officials are people who hold jobs in the federal government like members of Congress, the President, or federal judges. Under the new rules, these officials cannot directly ask any person for money that would go to political committees or be used for federal election activities. Federal election activities are things like voter registration drives, get out the vote efforts, and other activities related to federal elections. However, federal officials can still participate in fundraising events. They can help plan these events, attend them, give speeches at them, or be featured guests. The only thing they cannot do is actually ask people for money either by speaking or writing during these events.",
+      "word_offset": 8,
+      "char_offset": 37
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-effective-date",
+      "title": "Section 3 Effective Date",
+      "text": "The new rules in this law will start applying to any requests for money made on or after the day this law officially becomes law.",
+      "word_offset": 139,
+      "char_offset": 867
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "bill_id": "119-hr-694",
+  "title": "Restoring Trade Fairness Act",
+  "short_title": "Restoring Trade Fairness Act",
+  "congress": 119,
+  "bill_number": "HR.694",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.",
+  "version_hash": "93d5001f2222ee58",
+  "last_updated": "2026-03-20T12:08:15.753744+00:00",
+  "plain_summary": "This bill ends the special trade deal the United States has with China and puts big taxes called tariffs on goods coming from China. Most Chinese products will have taxes of at least 35%, while some high-tech items and important materials will have taxes of 100%. The higher taxes will be added slowly over five years, and the money collected will go into a special fund to help American businesses that get hurt when China fights back. The bill also stops small packages from China, North Korea, Russia, and Iran from getting free shipping into the US without paying taxes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Foreign Trade and International Finance",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Agricultural trade",
+    "Asia",
+    "Budget deficits and national debt",
+    "China",
+    "Congressional oversight",
+    "Customs enforcement",
+    "Department of Defense",
+    "Executive agency funding and structure",
+    "Government information and archives",
+    "Government trust funds",
+    "Inflation and prices",
+    "Normal trade relations, most-favored-nation treatment",
+    "Presidents and presidential powers, Vice Presidents",
+    "Tariffs",
+    "Trade restrictions",
+    "U.S. International Trade Commission"
+  ],
+  "sponsor_name": "Rep. Moolenaar, John R. [R-MI-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "China tariffs",
+    "trade war",
+    "Chinese imports tax",
+    "35 percent tariff",
+    "100 percent tax China",
+    "end China trade deal",
+    "stop Chinese goods",
+    "tariffs on China products",
+    "China trade restrictions",
+    "block China imports",
+    "tax Chinese merchandise",
+    "China economic sanctions"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Restoring Trade Fairness Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings-sense-of-congress",
+      "title": "Section 2  Findings; Sense of Congress",
+      "text": "Congress has found the following facts. The United States gives normal trade relations status to every country in the world except Belarus, Cuba, North Korea, and Russia. When countries have normal trade relations status, their goods coming into America face lower taxes called tariffs. These tariffs are listed in column one of the Harmonized Tariff Schedule of the United States. Countries without this status face much higher tariffs listed in column two. The United States has the lowest average tariffs among all World Trade Organization members at three point four percent. China got normal trade relations status in February nineteen eighty. From nineteen eighty to two thousand one, China had to meet certain requirements about letting people leave their country freely. In two thousand one, Congress made China's normal trade relations status permanent. In two thousand eighteen, the United States put extra tariffs on about one third of goods coming from China because China was stealing intellectual property. China signed a trade deal in two thousand twenty promising to make changes, but did not follow through. A government commission reported in two thousand twenty two that trying to get China to change its harmful trade practices has not worked. The United States has lost tens of thousands of factories, millions of manufacturing jobs, and trillions of dollars worth of stolen ideas since China joined the World Trade Organization. America now has chronic trade deficits of over one trillion dollars per year, mainly because of China's unfair trade practices. Congress believes that continuing to treat China as having normal trade relations threatens national security and makes it harder to build supply chains with America's allies.",
+      "word_offset": 10,
+      "char_offset": 57
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-suspension-of-normal-trade-relations",
+      "title": "Section 3  Suspension of Normal Trade Relations With the People's Republic of China",
+      "text": "Starting the day after this law takes effect, China will no longer receive normal trade relations treatment. This means Chinese goods will face much higher tariffs when entering the United States.",
+      "word_offset": 284,
+      "char_offset": 1812
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-modifications-to-rates-of-duty",
+      "title": "Section 4  Modifications to Rates of Duty to Address Trade With the People's Republic of China",
+      "text": "The President must change the tariff schedule to include special tariff rates that apply only to goods from China. These rates will generally be the higher column two rates, but with some changes. For tariffs expressed as percentages, most will be raised to at least thirty five percent. For certain specific articles listed in section ten, the minimum tariff will be one hundred percent. For tariffs expressed as specific dollar amounts, these will be adjusted for inflation based on price increases since nineteen thirty. The tariff increases will be phased in over five years, starting with ten percent of the increase after one hundred eighty days, then twenty five percent after two years, fifty percent after four years, and the full increase after five years. For goods that America only imports from China, special quotas will be set based on how much America consumes versus how much it produces. Goods within these quotas will keep lower tariffs for three years, then face gradual increases. Goods above the quota limits will face one hundred percent tariffs. The President can raise tariffs even higher if needed to reduce dependence on Chinese imports or punish China for unfair practices. The President can also set quotas to eliminate reliance on Chinese goods or completely ban imports that threaten national security or are made using unfair practices or human rights violations.",
+      "word_offset": 315,
+      "char_offset": 2009
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-valuation-of-merchandise",
+      "title": "Section 5  Valuation of Merchandise Imported From the People's Republic of China",
+      "text": "Goods imported from China must be valued based on their United States value, which means the price they are sold for in America's main markets. Importers must submit statements about the United States value of their Chinese goods. United States Customs and Border Protection must verify these values and report to the United States International Trade Commission whether the values are accurate.",
+      "word_offset": 541,
+      "char_offset": 3405
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-cooperation-and-accountability",
+      "title": "Section 6  Cooperation and Accountability at World Trade Organization",
+      "text": "The United States Trade Representative must direct America's ambassador to the World Trade Organization to change America's Schedule of Concessions on goods. This will allow the United States to deny normal trade relations status to any World Trade Organization member without breaking America's trade commitments.",
+      "word_offset": 603,
+      "char_offset": 3801
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-exception-to-duty-exemption",
+      "title": "Section 7  Exception to Duty Exemption for De Minimis Entries and Modifications to Entry Regulations",
+      "text": "Goods from covered nations, including China, can no longer enter America duty free under the de minimis rule. This rule normally allows small shipments worth less than eight hundred dollars to enter without paying tariffs. This change takes effect fifteen days after this law is enacted.",
+      "word_offset": 648,
+      "char_offset": 4116
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-allocation-of-duty-revenue",
+      "title": "Section 8  Allocation of Duty Revenue on Imports From the People's Republic of China as Compensation for Retaliation by the People's Republic of China",
+      "text": "A trust fund is created using money collected from tariffs on Chinese goods. This money will be used to compensate American producers who lose money because China restricts imports from America in retaliation for this law. Agricultural producers get first priority for compensation through the Commodity Credit Corporation. If there is not enough borrowing authority, money from the trust fund will be transferred to buy unsold agricultural products. After agricultural compensation, money goes to help producers in semiconductors, mineral fuels, aircraft, and other industries that cannot sell their goods to China. Any remaining money goes to the Department of Defense to buy weapons and defense systems to protect Taiwan and other allies in the Indo Pacific region from Chinese aggression. The trust fund ends ten years after this law takes effect, and any remaining money goes to reduce the federal deficit.",
+      "word_offset": 694,
+      "char_offset": 4404
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-authorization-of-appropriations",
+      "title": "Section 9  Authorization of Appropriations for United States International Trade Commission",
+      "text": "The United States International Trade Commission is authorized to receive three million six hundred thousand dollars in fiscal year two thousand twenty five and three million dollars each year after that to hire additional employees and improve information technology.",
+      "word_offset": 835,
+      "char_offset": 5316
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-articles-specified",
+      "title": "Section 10  Articles Specified",
+      "text": "This section lists specific types of goods that will face the higher one hundred percent minimum tariff rate. These include all articles in section five of the Harmonized Tariff Schedule and a detailed list of specific chemical compounds, machinery, electronics, vehicles, aircraft, weapons, and other high technology items identified by their tariff classification numbers.",
+      "word_offset": 874,
+      "char_offset": 5585
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-99",
+  "title": "Protecting Businesses From Frivolous COVID Lawsuits Act of 2025",
+  "short_title": "Protecting Businesses From Frivolous COVID Lawsuits Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.99",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "aa5560490ea0c84e",
+  "last_updated": "2026-03-20T12:23:44.003970+00:00",
+  "plain_summary": "This bill is about lawsuits related to COVID-19. It requires federal judges to tell juries that a business cannot be found guilty of being careless just because it stayed open during the pandemic. The jury must be told that simply being open for business is not enough proof that a business did something wrong. This rule only applies to federal court cases where someone is suing for money because they say they got COVID-19 due to a business being negligent.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "Business ethics",
+    "Cardiovascular and respiratory health",
+    "Civil actions and liability",
+    "Emergency medical services and trauma care",
+    "Evidence and witnesses",
+    "Infectious and parasitic diseases"
+  ],
+  "sponsor_name": "Rep. Biggs, Andy [R-AZ-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "COVID lawsuit protection",
+    "business coronavirus lawsuits",
+    "pandemic liability shield",
+    "COVID negligence cases",
+    "business staying open COVID",
+    "coronavirus business immunity",
+    "pandemic lawsuit reform",
+    "COVID business lawsuits",
+    "frivolous coronavirus suits",
+    "business COVID liability"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting Businesses From Frivolous COVID Lawsuits Act of twenty twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-jury-instruction-in-federal-civil-actions-that-include-a-claim-alleging-negligence-arising-from-the-transmission-of-covid-19",
+      "title": "Section 2 Jury Instruction in Federal Civil Actions That Include a Claim Alleging Negligence Arising From the Transmission of COVID-19",
+      "text": "When someone files a lawsuit in federal court claiming that a person or business was careless and that this carelessness led to someone getting COVID-19, and they want money for damages, the judge must tell the jury four important things. First, the judge must explain that the standard for deciding if someone was careless is the reasonable person standard. Second, the judge must explain that a person is careless if they either do something that a reasonably careful person would not do in the same situation, or if they fail to do something that a reasonably careful person would do in the same situation. Third, the judge must tell the jury that simply opening a business is considered reasonable under the law. Fourth, the judge must explain that a person or business cannot be found careless just because they stayed open for business.",
+      "word_offset": 16,
+      "char_offset": 106
+    }
+  ]
+}

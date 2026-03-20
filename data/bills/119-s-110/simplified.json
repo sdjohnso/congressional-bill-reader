@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-110",
+  "title": "Veterans Member Business Loan Act",
+  "short_title": "Veterans Member Business Loan Act",
+  "congress": 119,
+  "bill_number": "S.110",
+  "introduced_date": "2025-01-16",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "version_hash": "be0b214981f614e2",
+  "last_updated": "2026-03-20T16:07:19.478882+00:00",
+  "plain_summary": "This bill helps military veterans get business loans from credit unions. Right now, credit unions can only make a certain amount of business loans before hitting their limit. Under this new law, when credit unions make business loans to veterans, those loans will not count toward that limit. This means credit unions can make more business loans to veterans without worrying about going over their usual lending limits. The law will start working six months after it gets signed.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-16",
+  "last_action_date": "2025-01-16",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Sen. Sullivan, Dan [R-AK]",
+  "sponsor_party": "R",
+  "sponsor_state": "AK",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veteran business loans",
+    "credit union lending limits",
+    "military veteran small business",
+    "veteran entrepreneur financing",
+    "credit union business lending",
+    "veteran loan programs",
+    "small business loans veterans",
+    "military business startup loans",
+    "veteran owned business funding",
+    "credit union veteran loans"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Veterans Member Business Loan Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-member-business-loan-definition",
+      "title": "Section 2  Member Business Loan Definition",
+      "text": "This section changes the Federal Credit Union Act. Credit unions are like banks that are owned by their members instead of stockholders. Right now, credit unions have limits on how much money they can lend for business loans to their members. This change says that loans made to veterans do not count toward those business loan limits. A veteran means someone who served in the military, as defined in federal law. This change will start working one hundred eighty days after this law is signed.",
+      "word_offset": 11,
+      "char_offset": 62
+    }
+  ]
+}

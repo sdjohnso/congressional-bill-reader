@@ -1,0 +1,92 @@
+{
+  "bill_id": "119-hr-696",
+  "title": "End Unaccountable Amnesty Act",
+  "short_title": "End Unaccountable Amnesty Act",
+  "congress": 119,
+  "bill_number": "HR.696",
+  "introduced_date": "2025-01-23",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Border Security and Enforcement.",
+  "version_hash": "f9e610ae5cc4b4cf",
+  "last_updated": "2026-03-20T14:06:50.704124+00:00",
+  "plain_summary": "This bill makes it much harder for immigrants to stay in the United States legally. It requires Congress to vote before giving Temporary Protected Status to people from dangerous countries, and it ends a program that let some people avoid deportation. The bill also makes it easier to send unaccompanied children back to their home countries quickly. It bans certain immigration documents from being used at airports and limits special permission for people to enter the US to only 1,000 people per year.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the Subcommittee on Border Security and Enforcement.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Nehls, Troy E. [R-TX-22]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "immigration restrictions",
+    "deportation rules",
+    "temporary protected status",
+    "unaccompanied children",
+    "asylum limits",
+    "immigration documents",
+    "border control",
+    "sending kids back",
+    "immigration permits",
+    "staying in america legally",
+    "congress immigration vote",
+    "immigration crackdown"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the End Unaccountable Amnesty Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-temporary-protected-status",
+      "title": "Section 2 Temporary Protected Status",
+      "text": "This section changes the rules for Temporary Protected Status (a program that lets people from certain dangerous countries stay in the United States temporarily). Under the new rules, only Congress can decide which countries get this protection by passing a law. The law must explain why the country needs protection, such as war, natural disasters, or other dangerous conditions. The law must also estimate how many people would qualify and set a time limit of no more than twelve months. Congress can extend the protection for another twelve months by passing another law. If Congress does not extend the protection, it ends automatically. The Secretary of Homeland Security (not the Attorney General) will now handle these cases. People without legal immigration status can also apply for this protection.",
+      "word_offset": 10,
+      "char_offset": 58
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-unaccompanied-alien-children",
+      "title": "Section 3 Unaccompanied Alien Children",
+      "text": "This section changes rules for children who cross the border alone. Under the new rules, all unaccompanied children (not just those from neighboring countries) can be sent back to their home countries quickly if they do not qualify for protection. Children must get a hearing before an immigration judge within fourteen days. Before placing a child with a family member or guardian, the Department of Health and Human Services must give the Department of Homeland Security information about that person, including their name, social security number, address, and immigration status. If the person is in the country illegally, the government must start removal proceedings within thirty days. The rules also change Special Immigrant Juvenile Status so that children cannot get this protection if they can safely reunite with even one parent or legal guardian. Children can still be screened to see if they face danger in their home country or were victims of trafficking.",
+      "word_offset": 138,
+      "char_offset": 867
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-repeal-of-cancellation-of-removal",
+      "title": "Section 4 Repeal of Cancellation of Removal and Adjustment of Status",
+      "text": "This section eliminates a program that allowed some people facing deportation to stay in the United States permanently if they met certain requirements, such as living here for many years, having family members who are citizens, or showing that their removal would cause extreme hardship. The section removes all references to this program from immigration law.",
+      "word_offset": 292,
+      "char_offset": 1838
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-prohibited-identification-documents",
+      "title": "Section 5 Prohibited Identification Documents for Air Travel",
+      "text": "This section bans certain documents from being used as identification for air travel. The Transportation Security Administration cannot accept the Customs and Border Protection phone app, Notice to Appear forms, or Notice to Report forms as valid identification at airport security checkpoints. Airlines cannot operate flights to or from the United States if they allow passengers to use these documents to board planes.",
+      "word_offset": 348,
+      "char_offset": 2200
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-immigration-parole-reform",
+      "title": "Section 6 Immigration Parole Reform",
+      "text": "This section severely limits immigration parole (temporary permission to enter the United States for people who do not have visas). Parole can only be granted case by case for urgent humanitarian reasons or significant public benefit, not to entire groups of people. Urgent humanitarian reasons are limited to medical emergencies, attending funerals or visiting dying family members, donating organs, or helping with law enforcement. Significant public benefit only applies when someone helps law enforcement. The government can parole no more than one thousand people per year total. Special rules allow parole for military family members and some Cuban nationals. People with parole generally cannot work, cannot get permanent status, and can only stay for up to one year with one possible extension. The Secretary of Homeland Security must report to Congress each year about everyone who received parole. The law allows people to sue the government if they lose more than one thousand dollars because the government does not follow these rules.",
+      "word_offset": 411,
+      "char_offset": 2621
+    }
+  ]
+}

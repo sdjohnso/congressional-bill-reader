@@ -1,0 +1,104 @@
+{
+  "bill_id": "119-s-51",
+  "title": "Washington, D.C. Admission Act",
+  "short_title": "Washington, D.C. Admission Act",
+  "congress": 119,
+  "bill_number": "S.51",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "version_hash": "52133cc7ec0ffe82",
+  "last_updated": "2026-03-20T15:12:19.876041+00:00",
+  "plain_summary": "This bill would make Washington D.C. into the 51st state called Washington Douglass Commonwealth. Most of D.C. would become the new state, but important government buildings like the White House, Capitol, and Supreme Court would stay as a separate federal area called the Capital. The new state would get to elect two senators and one representative to Congress just like other states. A special group would help make sure the change from being a federal district to becoming a state goes smoothly.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional districts and representation",
+    "Congressional elections",
+    "Constitution and constitutional amendments",
+    "District of Columbia",
+    "Elections, voting, political campaign regulation",
+    "Government buildings, facilities, and property",
+    "House of Representatives",
+    "Legislative rules and procedure",
+    "Members of Congress",
+    "Presidents and presidential powers, Vice Presidents",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Sen. Van Hollen, Chris [D-MD]",
+  "sponsor_party": "D",
+  "sponsor_state": "MD",
+  "cosponsor_count": 43,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "DC statehood",
+    "Washington DC become state",
+    "51st state",
+    "District of Columbia state",
+    "DC voting rights",
+    "Washington Douglass Commonwealth",
+    "DC senators representatives",
+    "DC federal district",
+    "making DC a state",
+    "Washington DC government",
+    "DC state admission",
+    "capital city statehood"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-table-of-contents",
+      "title": "Section 1  Short Title; Table of Contents",
+      "text": "This law can be called the Washington D.C. Admission Act. The law is organized into four main parts. Title One covers how Washington D.C. becomes a state. Title Two covers how the federal government will be affected. Title Three covers which federal programs and responsibilities will continue. Title Four contains general rules and definitions.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-101-admission-into-the-union",
+      "title": "Section 101  Admission Into the Union",
+      "text": "When the President makes an official announcement as required in Section One Hundred Three, Washington D.C. will become a new state called Washington Douglass Commonwealth. This new state will have all the same rights and powers as every other state in America. The new state must have a government that follows the rules of democracy. Its laws must follow the United States Constitution and the ideas in the Declaration of Independence. If any part of this section is found to be against the law, then this entire bill becomes invalid and cannot be used.",
+      "word_offset": 54,
+      "char_offset": 346
+    },
+    {
+      "id": "s3",
+      "slug": "section-102-elections-of-senators-and-representative",
+      "title": "Section 102  Elections of Senators and Representative",
+      "text": "Within thirty days of getting official word from the President that this law has been passed, the Mayor of Washington D.C. must announce the first elections for two Senators and one Representative in Congress from the new state. These two Senate positions will be kept separate so no person can run for both at the same time. The Senate will later decide how long each Senator will serve in their first terms. These elections will include a primary election and a general election. People who can vote in D.C. will choose these officials following D.C. voting laws. The Mayor must give the election results to the President in writing. Once the new state joins the Union, these newly elected Senators and Representative can take their seats in Congress with all the same rights as officials from other states. Starting with the Congress when the new state joins, the House of Representatives will have four hundred thirty six members total, including any from the new state. Until the next official population count and redistricting, the new state will get one Representative. The law that controls how Representatives are distributed among states will be changed so that there are always four hundred thirty six Representatives total after the new state joins.",
+      "word_offset": 148,
+      "char_offset": 902
+    },
+    {
+      "id": "s4",
+      "slug": "section-103-issuance-of-presidential-proclamation",
+      "title": "Section 103  Issuance of Presidential Proclamation",
+      "text": "After the President gets the official election results from the Mayor, the President must make a public announcement about these results within ninety days. This announcement will officially declare who won the elections for Senator and Representative from the new state.",
+      "word_offset": 357,
+      "char_offset": 2165
+    },
+    {
+      "id": "s5",
+      "slug": "section-111-territory-and-boundaries",
+      "title": "Section 111  Territory and Boundaries",
+      "text": "The new state will include all the land that is currently Washington D.C., except for a small area that will remain as the Capital where the federal government is located. This Capital area is described in Section One Hundred Twelve and will continue to serve as the seat of the United States government as required by the Constitution. Within one hundred eighty days of this law being passed, the President will work with the Chair of the National Capital Planning Commission to conduct an official survey to mark the exact boundaries of the Capital area.",
+      "word_offset": 398,
+      "char_offset": 2437
+    },
+    {
+      "id": "s6",
+      "slug": "section-112-description-of-capital",
+      "title": "Section 112  Description of Capital",
+      "text": "When the new state joins the Union, the Capital will include the main federal monuments, the White House, the Capitol Building, the Supreme Court Building, and the federal executive, legislative, and judicial office buildings near the Mall and Capitol Building. The Capital boundaries are described in very detailed terms using street names and property lines throughout downtown Washington D.C. This description includes many specific streets, intersections, and property boundaries that form the borders of the federal area. However, the building known as the John A. Wilson Building will not be included in the Capital area after the new state is formed. The entire Frances Perkins Building, including any part north of D Street Northwest, will be considered part of the Capital.",
+      "word_offset": 493,
+      "char_offset": 2994
+    }
+  ]
+}

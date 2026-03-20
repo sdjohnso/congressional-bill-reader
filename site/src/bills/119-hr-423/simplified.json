@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-423",
+  "title": "Private Student Loan Bankruptcy Fairness Act of 2025",
+  "short_title": "Private Student Loan Bankruptcy Fairness Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.423",
+  "introduced_date": "2025-01-15",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "198a9acee4f7bd23",
+  "last_updated": "2026-03-20T12:30:45.275391+00:00",
+  "plain_summary": "This bill makes it easier for people to get rid of private student loan debt when they file for bankruptcy. Right now, both government and private student loans are very hard to erase in bankruptcy because you have to prove they cause serious financial hardship. The bill changes the rules so that private student loans can be discharged in bankruptcy just like credit card debt or other regular debts. Government student loans would still keep their special protection and be hard to discharge. This means people with private student loans would have more options to get a fresh start if they cannot pay their debts.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-15",
+  "last_action_date": "2025-01-15",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Cohen, Steve [D-TN-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "TN",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "student loan bankruptcy",
+    "private student loans",
+    "discharge student debt",
+    "bankruptcy relief",
+    "student loan forgiveness",
+    "erase student loans",
+    "student debt help",
+    "bankruptcy protection",
+    "private loan discharge",
+    "student loan reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Private Student Loan Bankruptcy Fairness Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exceptions-to-discharge",
+      "title": "Section 2 Exceptions to Discharge",
+      "text": "This section changes the federal bankruptcy law. Currently, the law makes it very hard to get rid of student loan debt when filing for bankruptcy. This change removes private student loans from that protection. After this change, only government student loans and loans from schools that get most of their money from the government will be protected from being wiped out in bankruptcy. Private student loans from banks and other lenders will be treated like regular debt that can be eliminated in bankruptcy.",
+      "word_offset": 17,
+      "char_offset": 101
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-effective-date-application-of-amendments",
+      "title": "Section 3 Effective Date and Application of Amendments",
+      "text": "This law starts working on the day it is signed. However, the changes only apply to bankruptcy cases that are filed on or after the day this law is signed. People who already filed for bankruptcy before this law was signed will not benefit from these changes.",
+      "word_offset": 100,
+      "char_offset": 610
+    }
+  ]
+}

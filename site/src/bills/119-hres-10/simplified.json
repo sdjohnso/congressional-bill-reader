@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-10",
+  "title": "HEALTH Act",
+  "short_title": "HEALTH Act",
+  "congress": 119,
+  "bill_number": "HRES.10",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Rules.",
+  "version_hash": "3da1040be9bfa250",
+  "last_updated": "2026-03-20T14:08:34.715876+00:00",
+  "plain_summary": "This bill creates a new permanent committee in the House of Representatives that will be in charge of health issues. The new Committee on Health will oversee medical research, government health agencies like the FDA and CDC, and health care paid for by the government. It will also handle laws about public health and preventing disease. To avoid having multiple committees working on the same things, some health duties will be taken away from other existing committees and given to this new one.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Rules.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Centers for Disease Control and Prevention (CDC)",
+    "Congressional committees",
+    "Congressional operations and organization",
+    "Congressional oversight",
+    "Food and Drug Administration (FDA)",
+    "Health programs administration and funding",
+    "House Committee on Education and Workforce",
+    "House Committee on Energy and Commerce",
+    "House of Representatives"
+  ],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "house health committee",
+    "new health committee congress",
+    "CDC FDA oversight",
+    "government health agencies",
+    "medical research funding",
+    "public health laws",
+    "disease prevention",
+    "healthcare committee",
+    "health policy congress",
+    "reorganize health committees"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This resolution can be called the House Endeavor to Accelerate a Legislative Transformation of Healthcare Act or the HEALTH Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-establishment-of-committee-on-health",
+      "title": "Section 2  Establishment of Committee on Health",
+      "text": "This section changes the House of Representatives rules to create a new permanent Committee on Health. The committee would be responsible for three main areas. First, it would handle biomedical research and development, including oversight of the Food and Drug Administration (the federal agency that approves medicines and medical devices). Second, it would deal with health, health facilities, and health care that gets money from general government revenues, but not veterans hospitals or medical care for veterans. Third, it would handle public health and quarantine issues, including oversight of the Centers for Disease Control and Prevention (the federal agency that tracks and prevents disease outbreaks). To make room for this new committee, the resolution also changes what other existing committees are responsible for. The Committee on Education and the Workforce would no longer handle health insurance programs. The Committee on Energy and Commerce would lose some of its current health-related responsibilities, which would be moved to the new Health Committee.",
+      "word_offset": 20,
+      "char_offset": 129
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-349",
+  "title": "Goldie’s Act",
+  "short_title": "Goldie’s Act",
+  "congress": 119,
+  "bill_number": "HR.349",
+  "introduced_date": "2025-01-13",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
+  "version_hash": "f9586a70ea723580",
+  "last_updated": "2026-03-20T10:50:42.537981+00:00",
+  "plain_summary": "Goldie's Act makes the rules for protecting animals stronger. The government must check on places that keep animals like zoos and research labs at least once a year. If they find animals being hurt or treated badly, they have to take those animals away right away. When someone breaks the animal protection rules, they can be fined up to ten thousand dollars for each thing they did wrong. The government also has to quickly tell local police and animal control officers when they find someone breaking these rules.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Animals",
+  "subjects": [],
+  "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 90,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "animal protection",
+    "zoo inspections",
+    "animal cruelty",
+    "research lab animals",
+    "animal welfare",
+    "pet safety laws",
+    "animal abuse penalties",
+    "laboratory animal rights",
+    "animal rescue",
+    "wildlife protection",
+    "animal treatment rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called Goldie's Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increasing-usda-enforcement-of-violations-of-animal-welfare-act",
+      "title": "Section 2  Increasing USDA Enforcement of Violations of Animal Welfare Act",
+      "text": "This section makes several changes to strengthen how the government enforces animal welfare laws. First, it clearly defines what counts as a violation. A violation means any failure to follow the Animal Welfare Act or any rules made under that law. This includes not meeting requirements or doing something wrong related to animal care. Second, it requires the Secretary of Agriculture to check if animal dealers, zoos, research labs, and other businesses are following animal welfare laws. The Secretary must be allowed to visit these places and look at their animals, facilities, and records at reasonable times. The Secretary must inspect each research facility and animal dealer at least once every year. If violations are found, follow-up visits must happen until all problems are fixed. During inspections, the Secretary must write down detailed descriptions of any violations found. If an animal is suffering physical or psychological harm because someone broke animal welfare laws, inspectors must take that animal away immediately. This applies when the animal is owned by a dealer, zoo, research lab, or similar business. For research animals, this only applies if the research is finished and the animal is no longer needed. Once an inspector says they plan to take an animal, the owner cannot kill that animal or any other animals they own without written permission from the Secretary. Third, the Secretary must share copies of all violation records with local animal control and law enforcement within twenty four hours of finding the violations. Fourth, the penalties for breaking animal welfare laws are increased. Each violation can result in a fine of up to ten thousand dollars. Each separate violation and each day a violation continues counts as a separate offense. The Secretary must also order the violator to stop the harmful behavior immediately. When someone gets an inspection report, that serves as official notice of violations. Before penalties are given, the person must have a chance to respond and be heard. Any penalty order is final unless the person appeals to a federal appeals court. Hearings about violations must include at least one veterinarian and two animal care specialists or directors. These hearings must happen within twenty one days unless there is a good reason to wait longer. When deciding penalties, the Secretary must consider how big the business is, how serious the violation was, whether the person acted in good faith, and their history of past violations. Penalties are calculated based on each animal affected and each violation. Penalties cannot be reduced by ten percent or more. The Department of Agriculture must create guidelines for penalties that discourage future violations and make sure these guidelines are followed. If someone does not pay their penalty, the Attorney General can take them to federal court to collect the money. Anyone who knowingly ignores a stop order from the Secretary faces an additional penalty of one thousand five hundred dollars.",
+      "word_offset": 7,
+      "char_offset": 37
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-188",
+  "title": "Amtrak Transparency and Accountability for Passengers and Taxpayers Act",
+  "short_title": "Amtrak Transparency and Accountability for Passengers and Taxpayers Act",
+  "congress": 119,
+  "bill_number": "HR.188",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-144.",
+  "version_hash": "61b46763567e206b",
+  "last_updated": "2026-03-20T10:47:49.072890+00:00",
+  "plain_summary": "This bill makes Amtrak hold public meetings that anyone can attend, just like other government agencies do. Amtrak's board of directors would have to follow rules about letting people know when meetings happen and allowing the public to come. However, Amtrak can still keep some meetings private when they talk about things like employee issues, contract deals, or information that could hurt their business. The goal is to make Amtrak more open about how they make decisions since they use taxpayer money.",
+  "current_status": "committee_reported",
+  "status_date": "2025-06-06",
+  "last_action_date": "2025-06-06",
+  "last_action_text": "Placed on the Union Calendar, Calendar No. 113.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [
+    "Congressional oversight",
+    "Government ethics and transparency, public corruption",
+    "Government information and archives",
+    "National Railroad Passenger Corporation (Amtrak)",
+    "Railroads"
+  ],
+  "sponsor_name": "Rep. Nehls, Troy E. [R-TX-22]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Amtrak meetings",
+    "Amtrak transparency",
+    "public train meetings",
+    "Amtrak open to public",
+    "taxpayer money Amtrak",
+    "Amtrak board meetings",
+    "train company accountability",
+    "Amtrak public access",
+    "railroad transparency",
+    "Amtrak government oversight"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Amtrak Transparency and Accountability for Passengers and Taxpayers Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-open-meetings",
+      "title": "Section 2 Open Meetings",
+      "text": "This section changes the law about how Amtrak holds its board meetings. The changes require Amtrak to follow federal open meeting rules, which means their board meetings must generally be open to the public. However, Amtrak can close parts of meetings or keep some information private in certain situations. They can do this when discussing contract negotiations that would hurt Amtrak's competitive position if made public. They can also close meetings when talking about union contracts or employee agreements. Meetings can be private when discussing hiring, firing, evaluating, or disciplining specific employees, unless those employees ask in writing for the discussion to be public. Amtrak can also keep confidential business information private. The same privacy rules that apply to other federal agencies also apply to Amtrak meetings. Nothing in this law requires Amtrak to share information that could endanger the safety of customers or employees. Amtrak can still follow other laws, honor existing contracts, and do normal business activities as needed for their mission.",
+      "word_offset": 15,
+      "char_offset": 100
+    }
+  ]
+}

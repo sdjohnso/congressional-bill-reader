@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-240",
+  "title": "Protect Local Farms Act",
+  "short_title": "Protect Local Farms Act",
+  "congress": 119,
+  "bill_number": "HR.240",
+  "introduced_date": "2025-01-07",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Education and Workforce.",
+  "version_hash": "2a2f68006366ebfd",
+  "last_updated": "2026-03-20T14:54:12.741369+00:00",
+  "plain_summary": "The Protect Local Farms Act changes rules about paying farm workers extra money for working long hours. Right now, some states make farms pay overtime to workers who work more than a certain number of hours each week. This bill says states cannot require farms to pay overtime unless a worker works more than 60 hours in one week. The federal government's rule of 60 hours will be more important than any state law that sets a lower number of hours.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-07",
+  "last_action_date": "2025-01-07",
+  "last_action_text": "Referred to the House Committee on Education and Workforce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Labor and Employment",
+  "subjects": [
+    "Labor standards",
+    "State and local government operations",
+    "Wages and earnings"
+  ],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "farm worker overtime",
+    "farm worker pay",
+    "agricultural overtime rules",
+    "farm employee hours",
+    "state farm labor laws",
+    "60 hour work week",
+    "farmhand overtime pay",
+    "agricultural worker wages",
+    "farm overtime requirements",
+    "local farm labor rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protect Local Farms Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-preemption-of-certain-state-overtime-laws-for-agricultural-employees",
+      "title": "Section 2 Preemption of Certain State Overtime Laws for Agricultural Employees",
+      "text": "This section changes an existing federal law called the Fair Labor Standards Act of nineteen thirty eight. The change says that federal law will override any state law that limits farm workers to working fewer than sixty hours per week before they must be paid overtime. This means states cannot require farms to pay overtime to their workers if those workers have worked fewer than sixty hours in one week. The federal government's rules will be the only ones that count for this issue.",
+      "word_offset": 10,
+      "char_offset": 52
+    }
+  ]
+}

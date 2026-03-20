@@ -1,0 +1,130 @@
+{
+  "bill_id": "119-hjres-10",
+  "title": "Proposing a balanced budget amendment to the Constitution of the United States.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.10",
+  "introduced_date": "2025-01-03",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "version_hash": "bb31b650bc778146",
+  "last_updated": "2026-03-20T10:48:14.719968+00:00",
+  "plain_summary": "This bill wants to add a new rule to the Constitution that says the government cannot spend more money than it gets each year. If Congress wants to spend extra money or borrow more, at least three out of every five members in both the House and Senate must vote yes. The President would have to make a budget plan each year that does not spend more than the government receives. The only time these rules would not apply is during a war or when the country faces a serious military threat that could harm national security.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Budget deficits and national debt",
+    "Constitution and constitutional amendments",
+    "Economic performance and conditions",
+    "Income tax rates",
+    "Legislative rules and procedure"
+  ],
+  "sponsor_name": "Rep. Nunn, Zachary [R-IA-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 15,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "balanced budget",
+    "government spending limits",
+    "constitutional amendment",
+    "federal deficit",
+    "government debt",
+    "budget rules",
+    "spending more than income",
+    "borrowing money limits",
+    "Congress voting requirements",
+    "presidential budget",
+    "national debt crisis",
+    "government overspending"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution-title",
+      "title": "Joint Resolution Title",
+      "text": "This is a joint resolution that proposes adding a balanced budget amendment to the United States Constitution. A joint resolution is a type of law that both the House of Representatives and the Senate must pass. This amendment would require the federal government to spend no more money than it takes in each year.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "resolution-process",
+      "title": "Resolution Process",
+      "text": "The Senate and House of Representatives must both pass this resolution with a two-thirds majority vote in each chamber. After Congress passes it, the proposed amendment must be approved by the legislatures of three-fourths of all states within seven years to become part of the Constitution.",
+      "word_offset": 54,
+      "char_offset": 315
+    },
+    {
+      "id": "s3",
+      "slug": "section-1-balanced-budget-requirement",
+      "title": "Section 1 Balanced Budget Requirement",
+      "text": "Each fiscal year (a twelve-month budget period for the government), the federal government cannot spend more money than it receives in income. The only exception is if three-fifths of all members in both the House and Senate vote by roll call (where each member's vote is recorded by name) to allow spending more than the government receives for that specific year.",
+      "word_offset": 100,
+      "char_offset": 607
+    },
+    {
+      "id": "s4",
+      "slug": "section-2-debt-limit-increases",
+      "title": "Section 2 Debt Limit Increases",
+      "text": "The amount of money the United States government owes to the public cannot be increased unless three-fifths of all members in both the House and Senate vote by roll call to allow such an increase.",
+      "word_offset": 161,
+      "char_offset": 973
+    },
+    {
+      "id": "s5",
+      "slug": "section-3-presidential-budget-proposal",
+      "title": "Section 3 Presidential Budget Proposal",
+      "text": "Before each fiscal year begins, the President must send Congress a proposed budget for the United States Government. In this proposed budget, the total amount of spending must not be more than the total amount of money the government expects to receive.",
+      "word_offset": 196,
+      "char_offset": 1170
+    },
+    {
+      "id": "s6",
+      "slug": "section-4-tax-increase-requirements",
+      "title": "Section 4 Tax Increase Requirements",
+      "text": "Any law that increases taxes or other government revenue must be approved by a majority of all members in both the House and Senate through a roll call vote where each member's vote is recorded by name.",
+      "word_offset": 238,
+      "char_offset": 1424
+    },
+    {
+      "id": "s7",
+      "slug": "section-5-military-exceptions",
+      "title": "Section 5 Military Exceptions",
+      "text": "Congress can ignore the balanced budget rules during any fiscal year when the United States has officially declared war. Congress can also ignore these rules when the United States is fighting in a military conflict that creates a direct and serious threat to national security. This exception requires a joint resolution (a law passed by both chambers) approved by a majority of all members in both the House and Senate. Any such exception must clearly identify the specific extra spending needed because of the military conflict and must be limited to that amount for that year only.",
+      "word_offset": 275,
+      "char_offset": 1627
+    },
+    {
+      "id": "s8",
+      "slug": "section-6-enforcement",
+      "title": "Section 6 Enforcement",
+      "text": "Congress has the power to pass laws to enforce and carry out this amendment. These laws may use estimated amounts for government spending and income when exact numbers are not yet available.",
+      "word_offset": 372,
+      "char_offset": 2213
+    },
+    {
+      "id": "s9",
+      "slug": "section-7-definitions",
+      "title": "Section 7 Definitions",
+      "text": "Total receipts means all money the United States Government receives except money from borrowing. Total outlays means all money the United States Government spends except money used to pay back the principal amount (the original amount borrowed, not including interest) of debts.",
+      "word_offset": 404,
+      "char_offset": 2404
+    },
+    {
+      "id": "s10",
+      "slug": "section-8-effective-date",
+      "title": "Section 8 Effective Date",
+      "text": "This amendment will begin to take effect starting with the fifth fiscal year that begins after it is ratified (officially approved) by the states.",
+      "word_offset": 446,
+      "char_offset": 2684
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "bill_id": "119-s-54",
+  "title": "A bill to authorize an additional district judgeship for the district of Idaho.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "S.54",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Read twice and referred to the Committee on the Judiciary.",
+  "version_hash": "644cefb56b7369ca",
+  "last_updated": "2026-03-20T12:27:14.108004+00:00",
+  "plain_summary": "This bill creates one new federal judge position in Idaho. Right now, Idaho has two federal judges, and this bill would make it three. The President gets to pick who the new judge will be. The Senate has to agree with the President's choice before the new judge can start working.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "Federal district courts",
+    "Idaho",
+    "Judges"
+  ],
+  "sponsor_name": "Sen. Crapo, Mike [R-ID]",
+  "sponsor_party": "R",
+  "sponsor_state": "ID",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Idaho federal judge",
+    "new judge Idaho",
+    "additional judge",
+    "federal court Idaho",
+    "more judges",
+    "Idaho district court",
+    "third judge Idaho",
+    "federal judgeship",
+    "Idaho court system",
+    "President appoints judge"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-district-judgeship-for-the-district-of-idaho",
+      "title": "Section 1  District Judgeship for the District of Idaho",
+      "text": "The President will choose one more federal judge for the state of Idaho. The Senate must approve this choice before the judge can start working. The official law book that lists how many judges each state has will be changed. The line for Idaho will now show three judges instead of two.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

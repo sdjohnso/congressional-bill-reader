@@ -1,0 +1,83 @@
+{
+  "bill_id": "119-hres-23",
+  "title": "Proxy Voting for New Parents Resolution",
+  "short_title": "Proxy Voting for New Parents Resolution",
+  "congress": 119,
+  "bill_number": "HRES.23",
+  "introduced_date": "2025-01-09",
+  "stage": "reported_by_committee",
+  "stage_label": "Referred to the House Committee on Rules.",
+  "version_hash": "79c8633c4a4ad287",
+  "last_updated": "2026-03-20T12:02:59.504282+00:00",
+  "plain_summary": "This resolution lets House members who just had a baby or whose spouse had a baby vote through another member for up to 12 weeks. It also applies to pregnant members who cannot travel safely or have serious medical problems. To use proxy voting, members must write a signed letter saying why they need it and which other member will vote for them. The proxy votes count in regular voting but not when counting how many members are present for a quorum. Members can cancel their proxy voting by showing up and voting themselves or by writing another letter.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-09",
+  "last_action_date": "2025-01-09",
+  "last_action_text": "Referred to the House Committee on Rules.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Commuting",
+    "Congressional officers and employees",
+    "Family relationships",
+    "House of Representatives",
+    "Legislative rules and procedure",
+    "Members of Congress"
+  ],
+  "sponsor_name": "Rep. Pettersen, Brittany [D-CO-7]",
+  "sponsor_party": "D",
+  "sponsor_state": "CO",
+  "cosponsor_count": 174,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "new parent voting",
+    "congress baby leave",
+    "voting while pregnant",
+    "house members maternity leave",
+    "proxy voting parents",
+    "congressman new baby",
+    "voting from home new parent",
+    "congress pregnancy voting",
+    "maternity leave voting rights",
+    "new father congress voting",
+    "pregnant representative voting",
+    "congress childcare voting"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This resolution can be called the Proxy Voting for New Parents Resolution.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-authorization-of-remote-voting-by-proxy-in-house-and-in-committee-of-the-whole-for-members-becoming-parents",
+      "title": "Section 2 Authorization of Remote Voting by Proxy in House and in Committee of the Whole for Members Becoming Parents",
+      "text": "House members who have a baby or whose spouse has a baby can choose another House member to vote for them. This other member is called a proxy. The proxy can cast votes and mark the member as present during House meetings and Committee of the Whole meetings. This permission starts on the day the baby is born and lasts for twelve weeks. If a member's doctor says her pregnancy creates serious health problems or she cannot travel safely, she can choose a proxy before the baby is born. In this case, the twelve week period starts when she first picks the proxy, not when the baby is born. Any weeks before the birth when she does not have a proxy do not count toward the twelve week limit. To pick a proxy, the member must send a signed and dated letter to the Clerk of the House. The letter can be sent by computer. The letter must be sent before the first vote the member wants the proxy to handle. The letter must say that a baby was born or that a doctor says the pregnancy creates health problems. It must say the member wants to vote by proxy and give the name and state of the person who agreed to be the proxy. The letter must have the member's real signature. The member can change or cancel the proxy choice anytime by sending another signed letter to the Clerk. If a member who chose a proxy votes or marks themselves present in person, this automatically cancels the proxy. The member can pick a new proxy later if needed. When the Clerk gets a proxy letter, the Clerk must check that it is correct. The Clerk must tell the Speaker, the Majority Leader, the Minority Leader, and the proxy member about the choice. If the letter is missing required information, the Clerk must tell the member what is missing, and the proxy cannot vote until the problem is fixed. The Clerk must keep a current list of all active proxy choices and changes. This list must be available to the public online. When voting by electronic device, the proxy member must use a ballot card and write by proxy on it. Before voting for another member, the proxy must get exact instructions from that member about how to vote. The member should give written voting instructions to the proxy when possible. Right before voting, the proxy must ask the Chair for permission to speak and announce how they plan to vote based on the other member's instructions. The proxy must vote exactly as the other member instructed. Members whose votes are cast by proxy do not count toward the minimum number of members needed to conduct business, which is called a quorum.",
+      "word_offset": 12,
+      "char_offset": 75
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-authorization-of-remote-voting-by-proxy-in-committee-for-members-becoming-parents",
+      "title": "Section 3 Authorization of Remote Voting by Proxy in Committee for Members Becoming Parents",
+      "text": "A House member who has chosen a proxy for House voting under Section 2 can also choose proxies for committee meetings. The member can pick one proxy for each committee they serve on. The proxy must be another member of that same committee. This committee proxy permission lasts for the same twelve week period as the House proxy. To choose a committee proxy, the member must send a signed and dated letter to both the committee chair and the ranking minority member. The letter can be sent by computer. The letter must give the name of the committee member who agreed to be the proxy. The letter must be sent before the first committee meeting where the member wants the proxy to vote. The member can change or cancel the committee proxy choice anytime by sending another signed letter to the committee chair and ranking minority member. If a member who chose a committee proxy votes in person at a committee meeting, this automatically cancels the proxy for that committee. The member can pick a new committee proxy later if needed. Before voting for another member in committee, the proxy must get exact instructions from that member about how to vote. The member should give written voting instructions to the committee proxy when possible. Members whose votes are cast by committee proxy do not count toward the minimum number of committee members needed to conduct business.",
+      "word_offset": 475,
+      "char_offset": 2617
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-application-to-delegates-and-the-resident-commissioner",
+      "title": "Section 4 Application to Delegates and the Resident Commissioner",
+      "text": "For Sections 2 and 3, the word Member includes Delegates and the Resident Commissioner. The word State includes the District of Columbia and territories. However, Delegates and the Resident Commissioner cannot vote or be marked present in House meetings because they do not have that power normally. Delegates and the Resident Commissioner can only choose other Delegates or the Resident Commissioner as their proxy for House voting, not regular House members.",
+      "word_offset": 711,
+      "char_offset": 3997
+    }
+  ]
+}
