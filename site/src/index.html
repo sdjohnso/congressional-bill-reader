@@ -154,17 +154,6 @@
     }
     .tts-bar.visible { display: flex; }
 
-    /* Voice selector */
-    .voice-select {
-      padding: 6px 10px;
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      font-family: sans-serif;
-      font-size: 0.85rem;
-      background: var(--surface);
-      max-width: 180px;
-    }
-
     /* Add padding to bottom of reader content so it doesn't get hidden behind sticky bar */
     #reader-view { padding-bottom: 80px; }
     .tts-btn {
@@ -223,7 +212,6 @@
         flex-wrap: wrap;
         justify-content: flex-start;
       }
-      .voice-select { max-width: 140px; font-size: 0.8rem; }
       #reader-view { padding-bottom: 120px; }
     }
   </style>
@@ -261,10 +249,7 @@
   <button class="tts-btn" id="play-btn" onclick="startTTS()">Listen to bill</button>
   <button class="tts-btn secondary" id="pause-btn" onclick="togglePause()" style="display:none">Pause</button>
   <button class="tts-btn secondary" onclick="stopTTS()">Stop</button>
-  <select class="voice-select" id="voice-select" onchange="selectVoice(this.value)" title="Select voice">
-    <option value="">Loading voices...</option>
-  </select>
-  <label>Speed
+<label>Speed
     <input type="range" min="0.5" max="2" step="0.1" value="1.0"
       oninput="updateRate(this.value)" title="Playback speed">
   </label>
@@ -283,80 +268,6 @@
   let currentSections = [];
   let currentSectionIndex = 0;
   let speechRate = 1.0;
-  let selectedVoice = null;
-  let availableVoices = [];
-
-  // ---- Voice selection ----
-  // Prefer natural-sounding voices (ranked by quality)
-  const preferredVoices = [
-    'Samantha',           // macOS - very natural
-    'Karen',              // macOS Australian - clear
-    'Daniel',             // macOS British - clear
-    'Google US English',  // Chrome - good quality
-    'Google UK English Female',
-    'Microsoft Zira',     // Windows - decent
-    'Microsoft David',    // Windows
-    'Alex',               // macOS - classic
-  ];
-
-  function loadVoices() {
-    availableVoices = window.speechSynthesis.getVoices();
-    if (availableVoices.length === 0) return;
-
-    // Sort voices: preferred first, then alphabetically
-    const sortedVoices = [...availableVoices].sort((a, b) => {
-      const aIndex = preferredVoices.findIndex(p => a.name.includes(p));
-      const bIndex = preferredVoices.findIndex(p => b.name.includes(p));
-      if (aIndex !== -1 && bIndex !== -1) return aIndex - bIndex;
-      if (aIndex !== -1) return -1;
-      if (bIndex !== -1) return 1;
-      return a.name.localeCompare(b.name);
-    });
-
-    // Filter to English voices only
-    const englishVoices = sortedVoices.filter(v =>
-      v.lang.startsWith('en') || v.name.toLowerCase().includes('english')
-    );
-
-    const voiceSelect = document.getElementById('voice-select');
-    voiceSelect.innerHTML = englishVoices.map(v => {
-      const isPreferred = preferredVoices.some(p => v.name.includes(p));
-      const label = v.name.replace('Microsoft ', '').replace('Google ', '');
-      return `<option value="${v.name}" ${isPreferred ? 'style="font-weight:bold"' : ''}>${label}</option>`;
-    }).join('');
-
-    // Auto-select best available voice
-    if (!selectedVoice) {
-      for (const preferred of preferredVoices) {
-        const match = englishVoices.find(v => v.name.includes(preferred));
-        if (match) {
-          selectedVoice = match;
-          voiceSelect.value = match.name;
-          break;
-        }
-      }
-      if (!selectedVoice && englishVoices.length > 0) {
-        selectedVoice = englishVoices[0];
-        voiceSelect.value = englishVoices[0].name;
-      }
-    }
-  }
-
-  function selectVoice(voiceName) {
-    selectedVoice = availableVoices.find(v => v.name === voiceName) || null;
-    // If currently speaking, restart with new voice
-    if (window.speechSynthesis && window.speechSynthesis.speaking) {
-      const resumeAt = currentSectionIndex;
-      stopTTS();
-      startTTS(resumeAt);
-    }
-  }
-
-  // Load voices (Chrome loads them async)
-  if (window.speechSynthesis) {
-    loadVoices();
-    window.speechSynthesis.onvoiceschanged = loadVoices;
-  }
 
   // ---- Fuse.js configuration ----
   const fuseOptions = {
@@ -525,9 +436,6 @@
     const text = section.title + '. ' + section.text;
     currentUtterance = new SpeechSynthesisUtterance(text);
     currentUtterance.rate = speechRate;
-    if (selectedVoice) {
-      currentUtterance.voice = selectedVoice;
-    }
     currentUtterance.onend = () => {
       currentSectionIndex++;
       speakSection(currentSectionIndex);
