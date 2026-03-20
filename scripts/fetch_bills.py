@@ -170,11 +170,13 @@ def get_bill_cosponsors_count(congress: int, bill_type: str, bill_number: str) -
     return pagination.get("count", 0)
 
 
-def get_bill_text_url(congress: int, bill_type: str, bill_number: str) -> str | None:
+def get_bill_text_url(congress: int, bill_type: str, bill_number: str, debug: bool = False) -> str | None:
     """Fetch the URL of the most recent plain-text version of a bill."""
     url = f"{BASE_URL}/bill/{congress}/{bill_type.lower()}/{bill_number}/text"
     data = fetch_json(url, {"limit": 10})
     versions = data.get("textVersions", [])
+    if debug:
+        print(f"      DEBUG text API for {bill_type}.{bill_number}: {len(versions)} versions, keys={list(data.keys())}", flush=True)
     if not versions:
         return None
 
@@ -265,8 +267,9 @@ def run(dry_run: bool = False):
                 skipped_no_committee += 1
                 continue
 
-            # Get the text URL
-            text_url = get_bill_text_url(congress, bill_type, number)
+            # Get the text URL (debug first 5 bills that cleared committee)
+            debug_text = (skipped_no_text + queued) < 5
+            text_url = get_bill_text_url(congress, bill_type, number, debug=debug_text)
             if not text_url:
                 print(f"    No text available yet, skipping.")
                 skipped_no_text += 1
