@@ -43,6 +43,10 @@ COMMITTEE_CLEARED_ACTIONS = [
 PAGE_SIZE = 50
 TARGET_CONGRESS = int(os.environ.get("TARGET_CONGRESS", 119))
 
+# Only process bills introduced on or after this date (YYYY-MM-DD)
+# Set to None to process all bills
+MIN_INTRODUCED_DATE = os.environ.get("MIN_INTRODUCED_DATE", "2026-01-01")
+
 
 def fetch_json(url: str, params: dict) -> dict:
     """Make a GET request to the Congress.gov API with rate-limit handling."""
@@ -226,14 +230,14 @@ def run(dry_run: bool = False, limit: int = 0):
         print("ERROR: CONGRESS_API_KEY environment variable not set.")
         sys.exit(1)
 
-    if limit > 0:
-        print(f"Fetching bills for Congress {TARGET_CONGRESS} (limit: {limit})...")
-    else:
-        print(f"Fetching bills for Congress {TARGET_CONGRESS}...")
+    date_filter = f", since {MIN_INTRODUCED_DATE}" if MIN_INTRODUCED_DATE else ""
+    limit_info = f", limit: {limit}" if limit > 0 else ""
+    print(f"Fetching bills for Congress {TARGET_CONGRESS}{date_filter}{limit_info}...")
     queued = 0
     skipped_unchanged = 0
     skipped_no_committee = 0
     skipped_no_text = 0
+    skipped_too_old = 0
     offset = 0
     max_pages = 20
 
@@ -278,12 +282,18 @@ def run(dry_run: bool = False, limit: int = 0):
             # ENRICHMENT: Fetch additional data from Congress.gov API
             print(f"    Fetching enrichment data...")
 
-            # Get bill detail for sponsor info
+            # Get bill detail for sponsor info and date check
             detail = get_bill_detail(congress, bill_type, number)
             sponsors = detail.get("sponsors", [])
             sponsor = sponsors[0] if sponsors else {}
             introduced_date = detail.get("introducedDate", "")
             time.sleep(0.3)
+
+            # Skip bills introduced before minimum date
+            if MIN_INTRODUCED_DATE and introduced_date:
+                if introduced_date < MIN_INTRODUCED_DATE:
+                    skipped_too_old += 1
+                    continue
 
             # Get subjects and policy area
             subject_data = get_bill_subjects(congress, bill_type, number)
@@ -364,6 +374,8 @@ def run(dry_run: bool = False, limit: int = 0):
     print(f"  Skipped (unchanged): {skipped_unchanged}")
     print(f"  Skipped (no committee action): {skipped_no_committee}")
     print(f"  Skipped (no text): {skipped_no_text}")
+    if MIN_INTRODUCED_DATE:
+        print(f"  Skipped (before {MIN_INTRODUCED_DATE}): {skipped_too_old}")
 
 
 if __name__ == "__main__":
