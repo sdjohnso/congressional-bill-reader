@@ -150,43 +150,6 @@
       text-decoration: underline;
     }
 
-    /* Sponsors modal */
-    .sponsors-modal-content {
-      max-width: 500px;
-    }
-    .sponsors-modal-content h2 {
-      margin-bottom: 16px;
-    }
-    .sponsor-item {
-      padding: 10px 0;
-      border-bottom: 1px solid var(--border);
-      font-size: 0.9rem;
-    }
-    .sponsor-item:last-child {
-      border-bottom: none;
-    }
-    .sponsor-item .sponsor-name {
-      font-weight: 600;
-      color: var(--text);
-    }
-    .sponsor-item .sponsor-party {
-      color: var(--muted);
-      margin-left: 4px;
-    }
-    .sponsor-item.primary-sponsor {
-      background: var(--primary-light);
-      margin: 0 -28px;
-      padding: 10px 28px;
-      border-radius: var(--radius);
-    }
-    .sponsor-item .sponsor-label {
-      font-size: 0.7rem;
-      text-transform: uppercase;
-      color: var(--primary);
-      font-weight: bold;
-      display: block;
-      margin-bottom: 2px;
-    }
 
     /* Bill reader */
     #reader-view { display: none; }
@@ -467,17 +430,6 @@
   </div>
 </header>
 
-<!-- Sponsors Modal -->
-<div id="sponsors-modal" class="modal-overlay" onclick="closeSponsorsModal(event)">
-  <div class="modal-content sponsors-modal-content" onclick="event.stopPropagation()">
-    <button class="modal-close" onclick="closeSponsorsModal()">&times;</button>
-    <h2>Bill Sponsors</h2>
-    <div id="sponsors-list">
-      <div class="loading">Loading sponsors...</div>
-    </div>
-  </div>
-</div>
-
 <!-- Info Modal -->
 <div id="info-modal" class="modal-overlay" onclick="closeInfoModal(event)">
   <div class="modal-content" onclick="event.stopPropagation()">
@@ -597,9 +549,19 @@
   }
 
   function handleSearch(query) {
+    // If in reader view, switch back to list view
+    if (document.getElementById('reader-view').style.display !== 'none') {
+      showList();
+    }
+
     if (!query.trim()) {
       renderBillList(allBills);
       updateSearchInfo(allBills.length, allBills.length);
+      return;
+    }
+
+    if (!fuse) {
+      console.error('Fuse not initialized');
       return;
     }
 
@@ -677,14 +639,22 @@
       </div>
     `).join('');
 
-    // Build sponsor line with "See all sponsors" link
+    // Build sponsor line with link to Congress.gov for all sponsors
     let sponsorHtml = '';
     if (data.sponsor_name) {
       const totalSponsors = 1 + (data.cosponsor_count || 0);
+      // Build Congress.gov URL
+      const parts = data.bill_id.split('-');
+      const congress = parts[0];
+      const billType = parts[1];
+      const billNumber = parts.slice(2).join('-');
+      const congressGovType = billType === 'hr' ? 'house-bill' : billType === 's' ? 'senate-bill' : billType === 'hjres' ? 'house-joint-resolution' : billType === 'sjres' ? 'senate-joint-resolution' : billType;
+      const congressGovUrl = `https://www.congress.gov/bill/${congress}th-congress/${congressGovType}/${billNumber}/cosponsors`;
+
       sponsorHtml = `
         <div class="meta sponsor-meta">
           Sponsored by ${escapeHtml(data.sponsor_name)} (${data.sponsor_party || '?'}-${data.sponsor_state || '??'})
-          ${totalSponsors > 1 ? `<a href="#" class="see-sponsors-link" onclick="openSponsorsModal(event)">See all ${totalSponsors} sponsors</a>` : ''}
+          ${totalSponsors > 1 ? `<a href="${congressGovUrl}" target="_blank" class="see-sponsors-link">See all ${totalSponsors} sponsors</a>` : ''}
         </div>
       `;
     }
@@ -876,71 +846,10 @@
     document.body.style.overflow = '';
   }
 
-  // ---- Sponsors Modal ----
-  async function openSponsorsModal(event) {
-    event.preventDefault();
-    document.getElementById('sponsors-modal').classList.add('visible');
-    document.body.style.overflow = 'hidden';
-
-    const listEl = document.getElementById('sponsors-list');
-    listEl.innerHTML = '<div class="loading">Loading sponsors...</div>';
-
-    if (!currentBillData) return;
-
-    try {
-      // Build Congress.gov API URL for cosponsors
-      const billId = currentBillData.bill_id; // e.g., "119-hr-17"
-      const parts = billId.split('-');
-      const congress = parts[0];
-      const billType = parts[1];
-      const billNumber = parts.slice(2).join('-');
-
-      const apiUrl = `https://api.congress.gov/v3/bill/${congress}/${billType}/${billNumber}/cosponsors?format=json&limit=250`;
-
-      // Note: This requires CORS proxy or the user's API key
-      // For now, show the primary sponsor and indicate cosponsors need API access
-      let html = '';
-
-      // Primary sponsor
-      html += `
-        <div class="sponsor-item primary-sponsor">
-          <span class="sponsor-label">Primary Sponsor</span>
-          <span class="sponsor-name">${escapeHtml(currentBillData.sponsor_name || 'Unknown')}</span>
-          <span class="sponsor-party">(${currentBillData.sponsor_party || '?'}-${currentBillData.sponsor_state || '??'})</span>
-        </div>
-      `;
-
-      // Cosponsors info
-      if (currentBillData.cosponsor_count > 0) {
-        html += `
-          <div style="padding: 16px 0; color: var(--muted); font-size: 0.85rem;">
-            <strong>${currentBillData.cosponsor_count} cosponsor${currentBillData.cosponsor_count !== 1 ? 's' : ''}</strong><br>
-            <a href="https://www.congress.gov/bill/${congress}th-congress/${billType === 'hr' ? 'house-bill' : billType === 's' ? 'senate-bill' : billType}/${billNumber}/cosponsors"
-               target="_blank" style="color: var(--primary);">
-              View full list on Congress.gov →
-            </a>
-          </div>
-        `;
-      }
-
-      listEl.innerHTML = html;
-
-    } catch (e) {
-      listEl.innerHTML = `<div class="error">Could not load sponsors. ${e.message}</div>`;
-    }
-  }
-
-  function closeSponsorsModal(event) {
-    if (event && event.target !== event.currentTarget) return;
-    document.getElementById('sponsors-modal').classList.remove('visible');
-    document.body.style.overflow = '';
-  }
-
   // Close modals on Escape key
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
       closeInfoModal();
-      closeSponsorsModal();
     }
   });
 
