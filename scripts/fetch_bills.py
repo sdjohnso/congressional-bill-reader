@@ -223,12 +223,15 @@ def queue_bill_for_processing(folder: Path):
     (folder / "needs_processing").touch()
 
 
-def run(dry_run: bool = False):
+def run(dry_run: bool = False, limit: int = 0):
     if not API_KEY:
         print("ERROR: CONGRESS_API_KEY environment variable not set.")
         sys.exit(1)
 
-    print(f"Fetching bills for Congress {TARGET_CONGRESS}...")
+    if limit > 0:
+        print(f"Fetching bills for Congress {TARGET_CONGRESS} (limit: {limit})...")
+    else:
+        print(f"Fetching bills for Congress {TARGET_CONGRESS}...")
     queued = 0
     skipped_unchanged = 0
     skipped_no_committee = 0
@@ -345,6 +348,15 @@ def run(dry_run: bool = False):
             queued += 1
             time.sleep(0.5)
 
+            # Check if we've hit the limit
+            if limit > 0 and queued >= limit:
+                print(f"\n  Reached limit of {limit} bills.")
+                break
+
+        # Also break outer loop if limit reached
+        if limit > 0 and queued >= limit:
+            break
+
         offset += PAGE_SIZE
         if len(bills) < PAGE_SIZE:
             break
@@ -361,5 +373,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true",
                         help="Print what would be queued without writing files")
+    parser.add_argument("--limit", type=int, default=0,
+                        help="Limit number of bills to queue (0 = no limit)")
     args = parser.parse_args()
-    run(dry_run=args.dry_run)
+    run(dry_run=args.dry_run, limit=args.limit)
