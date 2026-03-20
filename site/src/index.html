@@ -205,19 +205,21 @@
 
     /* Add padding to bottom of reader content so it doesn't get hidden behind sticky bar */
     #reader-view { padding-bottom: 80px; }
+
+    /* TTS Buttons - unified style */
     .tts-btn {
       background: var(--surface);
       color: var(--primary);
       border: 1px solid var(--border);
       border-radius: 50%;
-      width: 44px;
-      height: 44px;
-      font-size: 1.2rem;
+      width: 52px;
+      height: 52px;
       cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
       transition: background 0.15s, border-color 0.15s;
+      position: relative;
     }
     .tts-btn:hover {
       background: var(--primary-light);
@@ -227,23 +229,75 @@
       opacity: 0.4;
       cursor: not-allowed;
     }
-    .tts-btn.play {
+    /* Inner button shape */
+    .tts-btn .btn-inner {
       background: var(--primary);
       color: white;
-      width: 52px;
-      height: 52px;
-      font-size: 1.4rem;
+      border-radius: 8px;
+      width: 32px;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.9rem;
     }
-    .tts-btn.play:hover { background: #163d66; }
+    .tts-btn.play {
+      background: var(--primary);
+      border-color: var(--primary);
+      width: 60px;
+      height: 60px;
+    }
+    .tts-btn.play .btn-inner {
+      background: transparent;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      font-size: 1.3rem;
+    }
+    .tts-btn.play:hover { background: #163d66; border-color: #163d66; }
+
+    /* Speed control with styled slider */
     .speed-control {
       display: flex;
       align-items: center;
-      gap: 8px;
-      margin-left: 12px;
+      gap: 10px;
+      margin-left: 16px;
       color: var(--muted);
-      font-size: 0.85rem;
+      font-size: 0.9rem;
     }
-    .speed-control input[type=range] { width: 80px; }
+    .speed-control input[type=range] {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 100px;
+      height: 6px;
+      background: var(--border);
+      border-radius: 3px;
+      outline: none;
+    }
+    .speed-control input[type=range]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 18px;
+      height: 18px;
+      background: white;
+      border: 2px solid var(--primary);
+      border-radius: 50%;
+      cursor: pointer;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    }
+    .speed-control input[type=range]::-moz-range-thumb {
+      width: 18px;
+      height: 18px;
+      background: white;
+      border: 2px solid var(--primary);
+      border-radius: 50%;
+      cursor: pointer;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    }
+    .speed-control input[type=range]::-webkit-slider-runnable-track {
+      background: linear-gradient(to right, var(--primary) 0%, var(--primary) var(--value, 50%), var(--border) var(--value, 50%), var(--border) 100%);
+      border-radius: 3px;
+    }
 
     /* Sections */
     .section-block {
@@ -402,10 +456,12 @@
         gap: 10px;
         padding: 10px 16px;
       }
-      .tts-btn { width: 40px; height: 40px; font-size: 1.1rem; }
-      .tts-btn.play { width: 48px; height: 48px; font-size: 1.3rem; }
+      .tts-btn { width: 46px; height: 46px; }
+      .tts-btn .btn-inner { width: 28px; height: 28px; font-size: 0.8rem; }
+      .tts-btn.play { width: 54px; height: 54px; }
+      .tts-btn.play .btn-inner { font-size: 1.1rem; }
       .speed-control { margin-left: 8px; }
-      .speed-control input[type=range] { width: 60px; }
+      .speed-control input[type=range] { width: 70px; }
       #reader-view { padding-bottom: 100px; }
       .modal-content { padding: 20px; }
       .bill-item h2 { font-size: 0.95rem; }
@@ -485,12 +541,18 @@
 
 <!-- Sticky TTS Bar (outside container for full-width) -->
 <div class="tts-bar" id="tts-bar">
-  <button class="tts-btn" id="prev-btn" onclick="prevSection()" title="Previous section">⏮</button>
-  <button class="tts-btn play" id="play-btn" onclick="togglePlay()" title="Play">▶</button>
-  <button class="tts-btn" id="next-btn" onclick="nextSection()" title="Next section">⏭</button>
+  <button class="tts-btn" id="prev-btn" onclick="prevSection()" title="Previous section">
+    <span class="btn-inner">⏮</span>
+  </button>
+  <button class="tts-btn play" id="play-btn" onclick="togglePlay()" title="Play">
+    <span class="btn-inner">▶</span>
+  </button>
+  <button class="tts-btn" id="next-btn" onclick="nextSection()" title="Next section">
+    <span class="btn-inner">⏭</span>
+  </button>
   <div class="speed-control">
     <span>Speed</span>
-    <input type="range" min="0.5" max="2" step="0.1" value="1.0"
+    <input type="range" id="speed-slider" min="0.5" max="2" step="0.1" value="1.0"
       oninput="updateRate(this.value)" title="Playback speed">
     <span id="rate-label">1.0x</span>
   </div>
@@ -781,7 +843,10 @@
   function updatePlayButton(playing) {
     const btn = document.getElementById('play-btn');
     if (btn) {
-      btn.textContent = playing ? '⏸' : '▶';
+      const inner = btn.querySelector('.btn-inner');
+      if (inner) {
+        inner.textContent = playing ? '⏸' : '▶';
+      }
       btn.title = playing ? 'Pause' : 'Play';
     }
   }
@@ -789,6 +854,12 @@
   function updateRate(val) {
     speechRate = parseFloat(val);
     document.getElementById('rate-label').textContent = speechRate.toFixed(1) + 'x';
+    // Update slider visual
+    const slider = document.getElementById('speed-slider');
+    if (slider) {
+      const percent = ((val - 0.5) / 1.5) * 100;
+      slider.style.setProperty('--value', percent + '%');
+    }
     if (isPlaying && !isPaused) {
       // Restart current section with new rate
       speakSection(currentSectionIndex);
