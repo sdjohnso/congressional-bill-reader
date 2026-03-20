@@ -133,20 +133,40 @@
     }
     .summary-box strong { display: block; font-family: sans-serif; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--primary); margin-bottom: 6px; }
 
-    /* TTS controls */
+    /* TTS controls - sticky bottom bar */
     .tts-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
       background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 14px 18px;
-      margin-bottom: 28px;
-      display: flex;
+      border-top: 1px solid var(--border);
+      box-shadow: 0 -2px 12px rgba(0,0,0,0.1);
+      padding: 12px 20px;
+      display: none; /* Hidden until reader view */
       align-items: center;
+      justify-content: center;
       gap: 14px;
       flex-wrap: wrap;
       font-family: sans-serif;
       font-size: 0.85rem;
+      z-index: 100;
     }
+    .tts-bar.visible { display: flex; }
+
+    /* Voice selector */
+    .voice-select {
+      padding: 6px 10px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-family: sans-serif;
+      font-size: 0.85rem;
+      background: var(--surface);
+      max-width: 180px;
+    }
+
+    /* Add padding to bottom of reader content so it doesn't get hidden behind sticky bar */
+    #reader-view { padding-bottom: 80px; }
     .tts-btn {
       background: var(--primary);
       color: white;
@@ -195,9 +215,17 @@
     .loading { text-align: center; padding: 48px; color: var(--muted); font-family: sans-serif; }
     .error { color: #c62828; font-family: sans-serif; padding: 20px; }
 
-    @media (max-width: 500px) {
+    @media (max-width: 600px) {
       body { font-size: 16px; }
-      .tts-bar { gap: 10px; }
+      .tts-bar {
+        gap: 8px;
+        padding: 10px 12px;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+      }
+      .voice-select { max-width: 140px; font-size: 0.8rem; }
+      #tts-status { width: 100%; text-align: center; margin-top: 4px; }
+      #reader-view { padding-bottom: 120px; }
     }
   </style>
 </head>
@@ -224,9 +252,25 @@
 
   <!-- Reader view -->
   <div id="reader-view">
-    <button class="back-btn" onclick="showList()">Back to all bills</button>
+    <button class="back-btn" onclick="showList()">← Back to all bills</button>
     <div id="reader-content"></div>
   </div>
+</div>
+
+<!-- Sticky TTS Bar (outside container for full-width) -->
+<div class="tts-bar" id="tts-bar">
+  <button class="tts-btn" id="play-btn" onclick="startTTS()">Listen to bill</button>
+  <button class="tts-btn secondary" id="pause-btn" onclick="togglePause()" style="display:none">Pause</button>
+  <button class="tts-btn secondary" onclick="stopTTS()">Stop</button>
+  <select class="voice-select" id="voice-select" onchange="selectVoice(this.value)" title="Select voice">
+    <option value="">Loading voices...</option>
+  </select>
+  <label>Speed
+    <input type="range" min="0.5" max="2" step="0.1" value="1.0"
+      oninput="updateRate(this.value)" title="Playback speed">
+  </label>
+  <span id="rate-label" style="color:var(--muted)">1.0x</span>
+  <span id="tts-status" style="color:var(--muted);font-style:italic"></span>
 </div>
 
 <!-- Fuse.js for fuzzy search -->
@@ -241,6 +285,80 @@
   let currentSections = [];
   let currentSectionIndex = 0;
   let speechRate = 1.0;
+  let selectedVoice = null;
+  let availableVoices = [];
+
+  // ---- Voice selection ----
+  // Prefer natural-sounding voices (ranked by quality)
+  const preferredVoices = [
+    'Samantha',           // macOS - very natural
+    'Karen',              // macOS Australian - clear
+    'Daniel',             // macOS British - clear
+    'Google US English',  // Chrome - good quality
+    'Google UK English Female',
+    'Microsoft Zira',     // Windows - decent
+    'Microsoft David',    // Windows
+    'Alex',               // macOS - classic
+  ];
+
+  function loadVoices() {
+    availableVoices = window.speechSynthesis.getVoices();
+    if (availableVoices.length === 0) return;
+
+    // Sort voices: preferred first, then alphabetically
+    const sortedVoices = [...availableVoices].sort((a, b) => {
+      const aIndex = preferredVoices.findIndex(p => a.name.includes(p));
+      const bIndex = preferredVoices.findIndex(p => b.name.includes(p));
+      if (aIndex !== -1 && bIndex !== -1) return aIndex - bIndex;
+      if (aIndex !== -1) return -1;
+      if (bIndex !== -1) return 1;
+      return a.name.localeCompare(b.name);
+    });
+
+    // Filter to English voices only
+    const englishVoices = sortedVoices.filter(v =>
+      v.lang.startsWith('en') || v.name.toLowerCase().includes('english')
+    );
+
+    const voiceSelect = document.getElementById('voice-select');
+    voiceSelect.innerHTML = englishVoices.map(v => {
+      const isPreferred = preferredVoices.some(p => v.name.includes(p));
+      const label = v.name.replace('Microsoft ', '').replace('Google ', '');
+      return `<option value="${v.name}" ${isPreferred ? 'style="font-weight:bold"' : ''}>${label}</option>`;
+    }).join('');
+
+    // Auto-select best available voice
+    if (!selectedVoice) {
+      for (const preferred of preferredVoices) {
+        const match = englishVoices.find(v => v.name.includes(preferred));
+        if (match) {
+          selectedVoice = match;
+          voiceSelect.value = match.name;
+          break;
+        }
+      }
+      if (!selectedVoice && englishVoices.length > 0) {
+        selectedVoice = englishVoices[0];
+        voiceSelect.value = englishVoices[0].name;
+      }
+    }
+  }
+
+  function selectVoice(voiceName) {
+    selectedVoice = availableVoices.find(v => v.name === voiceName) || null;
+    // If currently speaking, restart with new voice
+    if (window.speechSynthesis && window.speechSynthesis.speaking) {
+      const resumeAt = currentSectionIndex;
+      stopTTS();
+      startTTS(resumeAt);
+    }
+  }
+
+  // Load voices (Chrome loads them async)
+  if (window.speechSynthesis) {
+    loadVoices();
+    window.speechSynthesis.onvoiceschanged = loadVoices;
+  }
 
   // ---- Fuse.js configuration ----
   const fuseOptions = {
@@ -335,6 +453,7 @@
       if (!resp.ok) throw new Error('Could not load bill.');
       const data = await resp.json();
       renderBill(data);
+      showTTSBar();
     } catch (e) {
       document.getElementById('reader-content').innerHTML =
         '<div class="error">Could not load bill. ' + e.message + '</div>';
@@ -370,18 +489,6 @@
       <div class="summary-box">
         <strong>Plain Language Summary</strong>
         ${escapeHtml(data.plain_summary || '')}
-      </div>
-
-      <div class="tts-bar">
-        <button class="tts-btn" id="play-btn" onclick="startTTS()">Listen to bill</button>
-        <button class="tts-btn secondary" id="pause-btn" onclick="togglePause()" style="display:none">Pause</button>
-        <button class="tts-btn secondary" onclick="stopTTS()">Stop</button>
-        <label>Speed
-          <input type="range" min="0.5" max="2" step="0.1" value="1.0"
-            oninput="updateRate(this.value)" title="Playback speed">
-        </label>
-        <span id="rate-label" style="color:var(--muted)">1.0x</span>
-        <span id="tts-status" style="color:var(--muted);font-style:italic"></span>
       </div>
 
       <div id="sections-container">${sectionsHtml}</div>
@@ -422,6 +529,9 @@
     const text = section.title + '. ' + section.text;
     currentUtterance = new SpeechSynthesisUtterance(text);
     currentUtterance.rate = speechRate;
+    if (selectedVoice) {
+      currentUtterance.voice = selectedVoice;
+    }
     currentUtterance.onend = () => {
       currentSectionIndex++;
       speakSection(currentSectionIndex);
@@ -495,6 +605,11 @@
     stopTTS();
     document.getElementById('reader-view').style.display = 'none';
     document.getElementById('list-view').style.display = 'block';
+    document.getElementById('tts-bar').classList.remove('visible');
+  }
+
+  function showTTSBar() {
+    document.getElementById('tts-bar').classList.add('visible');
   }
 
   // ---- Helpers ----
