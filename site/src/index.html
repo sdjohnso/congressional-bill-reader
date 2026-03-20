@@ -224,7 +224,6 @@
         justify-content: flex-start;
       }
       .voice-select { max-width: 140px; font-size: 0.8rem; }
-      #tts-status { width: 100%; text-align: center; margin-top: 4px; }
       #reader-view { padding-bottom: 120px; }
     }
   </style>
@@ -270,7 +269,6 @@
       oninput="updateRate(this.value)" title="Playback speed">
   </label>
   <span id="rate-label" style="color:var(--muted)">1.0x</span>
-  <span id="tts-status" style="color:var(--muted);font-style:italic"></span>
 </div>
 
 <!-- Fuse.js for fuzzy search -->
@@ -516,7 +514,6 @@
 
   function speakSection(index) {
     if (index >= currentSections.length) {
-      setTTSStatus('');
       highlightSection(null);
       return;
     }
@@ -524,7 +521,6 @@
     const section = currentSections[index];
     highlightSection(index);
     scrollToSection(section.id);
-    setTTSStatus('Reading: ' + section.title);
 
     const text = section.title + '. ' + section.text;
     currentUtterance = new SpeechSynthesisUtterance(text);
@@ -537,7 +533,6 @@
       speakSection(currentSectionIndex);
     };
     currentUtterance.onerror = () => {
-      setTTSStatus('');
       highlightSection(null);
     };
 
@@ -552,12 +547,10 @@
       window.speechSynthesis.resume();
       isPaused = false;
       document.getElementById('pause-btn').textContent = 'Pause';
-      setTTSStatus('Reading...');
     } else {
       window.speechSynthesis.pause();
       isPaused = true;
       document.getElementById('pause-btn').textContent = 'Resume';
-      setTTSStatus('Paused');
     }
   }
 
@@ -565,7 +558,6 @@
     if (window.speechSynthesis) window.speechSynthesis.cancel();
     isPaused = false;
     highlightSection(null);
-    setTTSStatus('');
     const playBtn = document.getElementById('play-btn');
     const pauseBtn = document.getElementById('pause-btn');
     if (playBtn) playBtn.style.display = 'inline-block';
@@ -595,10 +587,6 @@
     if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
-  function setTTSStatus(msg) {
-    const el = document.getElementById('tts-status');
-    if (el) el.textContent = msg;
-  }
 
   // ---- Navigation ----
   function showList() {
