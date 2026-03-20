@@ -136,6 +136,58 @@
       color: #888;
     }
 
+    /* Sponsor link on bill page */
+    .sponsor-meta {
+      margin-top: 6px;
+    }
+    .see-sponsors-link {
+      color: var(--primary);
+      margin-left: 8px;
+      font-size: 0.85rem;
+      text-decoration: none;
+    }
+    .see-sponsors-link:hover {
+      text-decoration: underline;
+    }
+
+    /* Sponsors modal */
+    .sponsors-modal-content {
+      max-width: 500px;
+    }
+    .sponsors-modal-content h2 {
+      margin-bottom: 16px;
+    }
+    .sponsor-item {
+      padding: 10px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.9rem;
+    }
+    .sponsor-item:last-child {
+      border-bottom: none;
+    }
+    .sponsor-item .sponsor-name {
+      font-weight: 600;
+      color: var(--text);
+    }
+    .sponsor-item .sponsor-party {
+      color: var(--muted);
+      margin-left: 4px;
+    }
+    .sponsor-item.primary-sponsor {
+      background: var(--primary-light);
+      margin: 0 -28px;
+      padding: 10px 28px;
+      border-radius: var(--radius);
+    }
+    .sponsor-item .sponsor-label {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      color: var(--primary);
+      font-weight: bold;
+      display: block;
+      margin-bottom: 2px;
+    }
+
     /* Bill reader */
     #reader-view { display: none; }
 
@@ -415,6 +467,17 @@
   </div>
 </header>
 
+<!-- Sponsors Modal -->
+<div id="sponsors-modal" class="modal-overlay" onclick="closeSponsorsModal(event)">
+  <div class="modal-content sponsors-modal-content" onclick="event.stopPropagation()">
+    <button class="modal-close" onclick="closeSponsorsModal()">&times;</button>
+    <h2>Bill Sponsors</h2>
+    <div id="sponsors-list">
+      <div class="loading">Loading sponsors...</div>
+    </div>
+  </div>
+</div>
+
 <!-- Info Modal -->
 <div id="info-modal" class="modal-overlay" onclick="closeInfoModal(event)">
   <div class="modal-content" onclick="event.stopPropagation()">
@@ -562,17 +625,9 @@
       return;
     }
     el.innerHTML = bills.map(b => {
-      // Build sponsor string
-      let sponsorStr = '';
-      if (b.sponsor_name) {
-        // Extract just last name for brevity
-        const nameParts = b.sponsor_name.split(' ');
-        const lastName = nameParts[nameParts.length - 1].replace(/[\[\]]/g, '');
-        sponsorStr = `${lastName} (${b.sponsor_party || '?'}-${b.sponsor_state || '??'})`;
-        if (b.cosponsor_count > 0) {
-          sponsorStr += ` <span class="cosponsor-count">+${b.cosponsor_count}</span>`;
-        }
-      }
+      // Total sponsors = 1 (primary) + cosponsors
+      const totalSponsors = 1 + (b.cosponsor_count || 0);
+      const sponsorText = `${totalSponsors} sponsor${totalSponsors !== 1 ? 's' : ''}`;
 
       return `
       <div class="bill-item" onclick="loadBill('${b.bill_id}')">
@@ -582,7 +637,8 @@
           <span class="separator">·</span>
           <span>${formatDate(b.introduced_date)}</span>
           ${b.policy_area ? `<span class="separator">·</span><span class="policy-badge">${escapeHtml(b.policy_area)}</span>` : ''}
-          ${sponsorStr ? `<span class="separator">·</span><span class="sponsor-info">${sponsorStr}</span>` : ''}
+          <span class="separator">·</span>
+          <span class="sponsor-info">${sponsorText}</span>
         </div>
       </div>
     `}).join('');
@@ -607,7 +663,11 @@
     }
   }
 
+  // Store current bill data for sponsor modal
+  let currentBillData = null;
+
   function renderBill(data) {
+    currentBillData = data;
     currentSections = data.sections || [];
 
     const sectionsHtml = currentSections.map((s, i) => `
@@ -617,20 +677,27 @@
       </div>
     `).join('');
 
-    const sponsorInfo = data.sponsor_name ?
-      `Sponsored by ${escapeHtml(data.sponsor_name)} (${data.sponsor_party || '?'}-${data.sponsor_state || '??'})` : '';
+    // Build sponsor line with "See all sponsors" link
+    let sponsorHtml = '';
+    if (data.sponsor_name) {
+      const totalSponsors = 1 + (data.cosponsor_count || 0);
+      sponsorHtml = `
+        <div class="meta sponsor-meta">
+          Sponsored by ${escapeHtml(data.sponsor_name)} (${data.sponsor_party || '?'}-${data.sponsor_state || '??'})
+          ${totalSponsors > 1 ? `<a href="#" class="see-sponsors-link" onclick="openSponsorsModal(event)">See all ${totalSponsors} sponsors</a>` : ''}
+        </div>
+      `;
+    }
 
     document.getElementById('reader-content').innerHTML = `
       <div class="bill-title-block">
         <h1>${escapeHtml(data.short_title || data.title)}</h1>
         <div class="meta">
           ${escapeHtml(data.bill_number || '')}
-          &nbsp; Introduced ${formatDate(data.introduced_date)}
-          &nbsp; Updated ${formatDate(data.last_updated)}
-          &nbsp; <span class="stage-badge">${escapeHtml(data.stage_label || '')}</span>
-          ${data.policy_area ? `&nbsp; <span class="policy-badge">${escapeHtml(data.policy_area)}</span>` : ''}
+          &nbsp;·&nbsp; Introduced ${formatDate(data.introduced_date)}
+          ${data.policy_area ? `&nbsp;·&nbsp; <span class="policy-badge">${escapeHtml(data.policy_area)}</span>` : ''}
         </div>
-        ${sponsorInfo ? `<div class="meta" style="margin-top:4px">${sponsorInfo}</div>` : ''}
+        ${sponsorHtml}
       </div>
 
       <div class="summary-box">
@@ -797,7 +864,7 @@
     } catch { return dateStr; }
   }
 
-  // ---- Modal ----
+  // ---- Info Modal ----
   function openInfoModal() {
     document.getElementById('info-modal').classList.add('visible');
     document.body.style.overflow = 'hidden';
@@ -809,9 +876,72 @@
     document.body.style.overflow = '';
   }
 
-  // Close modal on Escape key
+  // ---- Sponsors Modal ----
+  async function openSponsorsModal(event) {
+    event.preventDefault();
+    document.getElementById('sponsors-modal').classList.add('visible');
+    document.body.style.overflow = 'hidden';
+
+    const listEl = document.getElementById('sponsors-list');
+    listEl.innerHTML = '<div class="loading">Loading sponsors...</div>';
+
+    if (!currentBillData) return;
+
+    try {
+      // Build Congress.gov API URL for cosponsors
+      const billId = currentBillData.bill_id; // e.g., "119-hr-17"
+      const parts = billId.split('-');
+      const congress = parts[0];
+      const billType = parts[1];
+      const billNumber = parts.slice(2).join('-');
+
+      const apiUrl = `https://api.congress.gov/v3/bill/${congress}/${billType}/${billNumber}/cosponsors?format=json&limit=250`;
+
+      // Note: This requires CORS proxy or the user's API key
+      // For now, show the primary sponsor and indicate cosponsors need API access
+      let html = '';
+
+      // Primary sponsor
+      html += `
+        <div class="sponsor-item primary-sponsor">
+          <span class="sponsor-label">Primary Sponsor</span>
+          <span class="sponsor-name">${escapeHtml(currentBillData.sponsor_name || 'Unknown')}</span>
+          <span class="sponsor-party">(${currentBillData.sponsor_party || '?'}-${currentBillData.sponsor_state || '??'})</span>
+        </div>
+      `;
+
+      // Cosponsors info
+      if (currentBillData.cosponsor_count > 0) {
+        html += `
+          <div style="padding: 16px 0; color: var(--muted); font-size: 0.85rem;">
+            <strong>${currentBillData.cosponsor_count} cosponsor${currentBillData.cosponsor_count !== 1 ? 's' : ''}</strong><br>
+            <a href="https://www.congress.gov/bill/${congress}th-congress/${billType === 'hr' ? 'house-bill' : billType === 's' ? 'senate-bill' : billType}/${billNumber}/cosponsors"
+               target="_blank" style="color: var(--primary);">
+              View full list on Congress.gov →
+            </a>
+          </div>
+        `;
+      }
+
+      listEl.innerHTML = html;
+
+    } catch (e) {
+      listEl.innerHTML = `<div class="error">Could not load sponsors. ${e.message}</div>`;
+    }
+  }
+
+  function closeSponsorsModal(event) {
+    if (event && event.target !== event.currentTarget) return;
+    document.getElementById('sponsors-modal').classList.remove('visible');
+    document.body.style.overflow = '';
+  }
+
+  // Close modals on Escape key
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') closeInfoModal();
+    if (e.key === 'Escape') {
+      closeInfoModal();
+      closeSponsorsModal();
+    }
   });
 
   // ---- Init ----
