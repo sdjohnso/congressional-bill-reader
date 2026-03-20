@@ -135,6 +135,9 @@
     .cosponsor-count {
       color: #888;
     }
+    .bill-policy {
+      margin-top: 4px;
+    }
 
     /* Sponsor link on bill page */
     .sponsor-meta {
@@ -668,10 +671,10 @@
           <span>${escapeHtml(b.bill_number || '')}</span>
           <span class="separator">·</span>
           <span>${formatDate(b.introduced_date)}</span>
-          ${b.policy_area ? `<span class="separator">·</span><span class="policy-badge">${escapeHtml(b.policy_area)}</span>` : ''}
           <span class="separator">·</span>
           <span class="sponsor-info">${sponsorText}</span>
         </div>
+        ${b.policy_area ? `<div class="bill-policy"><span class="policy-badge">${escapeHtml(b.policy_area)}</span></div>` : ''}
       </div>
     `}).join('');
   }
