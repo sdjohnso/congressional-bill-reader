@@ -1101,7 +1101,10 @@
 
   function scrollToSection(sectionId) {
     const el = document.getElementById('section-' + sectionId);
-    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (!el) return;
+    const headerHeight = document.querySelector('header').offsetHeight;
+    const top = el.getBoundingClientRect().top + window.scrollY - headerHeight - 12;
+    window.scrollTo({ top, behavior: 'smooth' });
   }
 
 
