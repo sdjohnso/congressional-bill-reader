@@ -322,55 +322,22 @@
     /* Add padding to bottom of reader content so it doesn't get hidden behind sticky bar */
     #reader-view { padding-bottom: 80px; }
 
-    /* TTS Buttons - unified style */
+    /* TTS Buttons - clean icons */
     .tts-btn {
-      background: var(--surface);
-      color: var(--primary);
-      border: 1px solid var(--border);
-      border-radius: 50%;
-      width: 52px;
-      height: 52px;
+      background: none;
+      border: none;
       cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
-      transition: background 0.15s, border-color 0.15s;
-      position: relative;
+      padding: 6px;
+      color: var(--primary);
+      transition: opacity 0.15s;
     }
-    .tts-btn:hover {
-      background: var(--primary-light);
-      border-color: var(--primary);
-    }
-    .tts-btn:disabled {
-      opacity: 0.4;
-      cursor: not-allowed;
-    }
-    /* Inner button shape */
-    .tts-btn .btn-inner {
-      background: var(--primary);
-      color: white;
-      border-radius: 8px;
-      width: 32px;
-      height: 32px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 0.9rem;
-    }
-    .tts-btn.play {
-      background: var(--primary);
-      border-color: var(--primary);
-      width: 60px;
-      height: 60px;
-    }
-    .tts-btn.play .btn-inner {
-      background: transparent;
-      width: 100%;
-      height: 100%;
-      border-radius: 50%;
-      font-size: 1.3rem;
-    }
-    .tts-btn.play:hover { background: #163d66; border-color: #163d66; }
+    .tts-btn:hover { opacity: 0.7; }
+    .tts-btn:disabled { opacity: 0.25; cursor: not-allowed; }
+    .tts-btn svg { width: 28px; height: 28px; fill: var(--primary); }
+    .tts-btn.play svg { width: 44px; height: 44px; }
 
     /* Speed control with styled slider */
     .speed-control {
@@ -581,10 +548,8 @@
         gap: 10px;
         padding: 10px 16px;
       }
-      .tts-btn { width: 46px; height: 46px; }
-      .tts-btn .btn-inner { width: 28px; height: 28px; font-size: 0.8rem; }
-      .tts-btn.play { width: 54px; height: 54px; }
-      .tts-btn.play .btn-inner { font-size: 1.1rem; }
+      .tts-btn svg { width: 24px; height: 24px; }
+      .tts-btn.play svg { width: 38px; height: 38px; }
       .speed-control { margin-left: 8px; }
       .speed-control input[type=range] { width: 70px; }
       #reader-view { padding-bottom: 100px; }
@@ -678,13 +643,13 @@
 <!-- Sticky TTS Bar (outside container for full-width) -->
 <div class="tts-bar" id="tts-bar">
   <button class="tts-btn" id="prev-btn" onclick="prevSection()" title="Previous section">
-    <span class="btn-inner">⏮</span>
+    <svg viewBox="0 0 24 24"><path d="M6 6h2v12H6zm3.5 6l8.5 6V6z"/></svg>
   </button>
   <button class="tts-btn play" id="play-btn" onclick="togglePlay()" title="Play">
-    <span class="btn-inner">▶</span>
+    <svg viewBox="0 0 24 24" id="play-icon"><path d="M8 5v14l11-7z"/></svg>
   </button>
   <button class="tts-btn" id="next-btn" onclick="nextSection()" title="Next section">
-    <span class="btn-inner">⏭</span>
+    <svg viewBox="0 0 24 24"><path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"/></svg>
   </button>
   <div class="speed-control">
     <span>Speed</span>
@@ -1101,9 +1066,11 @@
   function updatePlayButton(playing) {
     const btn = document.getElementById('play-btn');
     if (btn) {
-      const inner = btn.querySelector('.btn-inner');
-      if (inner) {
-        inner.textContent = playing ? '⏸' : '▶';
+      const svg = btn.querySelector('svg');
+      if (svg) {
+        svg.innerHTML = playing
+          ? '<path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>'
+          : '<path d="M8 5v14l11-7z"/>';
       }
       btn.title = playing ? 'Pause' : 'Play';
     }
