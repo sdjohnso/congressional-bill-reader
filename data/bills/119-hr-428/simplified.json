@@ -6,14 +6,14 @@
   "bill_number": "HR.428",
   "introduced_date": "2025-01-15",
   "stage": "reported_by_committee",
-  "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
+  "stage_label": "Ordered to be Reported (Amended) by the Yeas and Nays: 40 - 0.",
   "version_hash": "c3c213bccc6240a8",
-  "last_updated": "2026-03-20T15:17:11.651404+00:00",
-  "plain_summary": "This bill gives government workers cash rewards for finding ways their agencies waste money. Workers can get up to twenty thousand dollars if they spot wasteful spending that their agency agrees is not needed. The agency's money expert has to check that it really is waste. Then the agency must tell the President about the wasted money so it can be cut from the budget. This program already existed but now includes more types of waste and gives bigger rewards than before.",
-  "current_status": "referred_to_committee",
-  "status_date": "2025-01-15",
+  "last_updated": "2026-03-21T01:18:37.734153+00:00",
+  "plain_summary": "This law gives cash bonuses to federal workers who find ways the government is wasting money. Workers can get up to twenty thousand dollars if they spot spending that is not needed. When workers find wasteful spending, their agency must ask the President to cut that money from the budget. The law makes the bonus amounts twice as big as they used to be.",
+  "current_status": "committee_reported",
+  "status_date": "2026-03-18",
   "last_action_date": "2026-03-18",
-  "last_action_text": "Committee Consideration and Mark-up Session Held",
+  "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 40 - 0.",
   "passed_house": false,
   "passed_senate": false,
   "became_law": false,
@@ -31,23 +31,22 @@
   "crs_summary_available": true,
   "plain_keywords": [
     "government waste",
-    "employee rewards",
-    "cash bonuses",
-    "cost cutting",
+    "federal worker bonuses",
+    "cost cutting rewards",
     "wasteful spending",
-    "government workers",
-    "money saving",
-    "budget cuts",
-    "waste reporting",
+    "government savings",
     "employee incentives",
-    "government efficiency"
+    "budget cuts",
+    "tax money waste",
+    "government efficiency",
+    "federal employee rewards"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
       "title": "Section 1  Short Title",
-      "text": "This law can be called the Bonuses for Cost-Cutters Act of two thousand twenty-five.",
+      "text": "This law can be called the Bonuses for Cost-Cutters Act of two thousand twenty five.",
       "word_offset": 0,
       "char_offset": 0
     },
@@ -55,8 +54,8 @@
       "id": "s2",
       "slug": "section-2-cost-savings-enhancements",
       "title": "Section 2  Cost Savings Enhancements",
-      "text": "This section changes the rules about giving money awards to government workers who find ways to save money. First, it adds a new definition for wasteful expenses. Wasteful expenses are money set aside for salaries, operations, maintenance, or similar costs that an employee says is wasteful and that the Chief Financial Officer (the person in charge of an agency's money) agrees is not needed for its intended purpose. The section also gives agency heads the power to pay cash awards to employees who identify wasteful expenses to the Chief Financial Officer that result in cost savings for the agency. The maximum award amount increases from ten thousand dollars to twenty thousand dollars. When the Chief Financial Officer decides that wasteful expenses identified by an employee meet the requirements, the agency head must tell the President so the President can propose cutting that spending through a special budget process. If an agency does not have a Chief Financial Officer, the agency head must choose someone to make these decisions about wasteful expenses. Each agency must report information about wasteful expenses that employees find, including descriptions of each case that has merit and the number and amount of cash awards given. Some people cannot receive these awards, including workers in Inspector General offices and people who are not eligible under other award rules. The Office of Personnel Management must make sure each agency follows these rules and report to Congress each year about whether agencies are following them. The Comptroller General (the head of the government's audit office) must report to Congress about how this program is working three years after this law starts and then every three years for six more years, including suggestions for changes.",
-      "word_offset": 14,
+      "text": "This section makes changes to existing federal law about giving cash awards to government workers who save money. First, it adds a new definition for wasteful expenses. Wasteful expenses are money set aside for worker salaries, daily operations, or similar purposes that an employee identifies as wasteful and that the agency's Chief Financial Officer decides is not actually needed. The law increases the maximum cash award amount from ten thousand dollars to twenty thousand dollars. It gives agency heads the power to pay cash awards to employees who identify wasteful expenses that result in cost savings. When the Chief Financial Officer determines that wasteful expenses identified by an employee meet the requirements, the agency head must notify the President so the expenses can be proposed for cancellation under federal budget rules. For agencies without a Chief Financial Officer, the agency head must choose an employee to make these decisions about wasteful expenses. Each agency must provide yearly information about these waste disclosures, including descriptions of each disclosure that had merit and the number and amount of cash awards given. Workers in Inspector General offices and certain other ineligible employees cannot receive these cash awards. The Office of Personnel Management must make sure each agency follows these rules and report to Congress yearly about whether agencies are following them. The Comptroller General must report to Congress about how well this program is working three years after this law starts and then every three years for six more years, including any suggestions for changes.",
+      "word_offset": 15,
       "char_offset": 85
     }
   ]

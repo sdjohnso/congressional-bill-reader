@@ -8,8 +8,8 @@
   "stage": "reported_by_committee",
   "stage_label": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "version_hash": "2d9c34ddd20922c4",
-  "last_updated": "2026-03-20T13:02:06.389987+00:00",
-  "plain_summary": "This bill stops the federal government from giving money to Planned Parenthood and any organizations connected to it. Instead, the money would go to other health care providers that help women, like community health centers and hospitals. The goal is to make sure women can still get health care services, but not through Planned Parenthood. The bill would cut off all federal funding that currently goes to Planned Parenthood clinics across the country.",
+  "last_updated": "2026-03-21T01:18:20.730100+00:00",
+  "plain_summary": "This bill would stop the federal government from giving money to Planned Parenthood and any organizations connected to it. The government currently provides funding to Planned Parenthood to help pay for health care services for women. If this bill becomes law, that money would no longer go to Planned Parenthood, but other doctors and health care providers could still get federal money to provide women's health services. The bill's supporters say other health care providers will be able to take care of women who currently go to Planned Parenthood.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-22",
   "last_action_date": "2025-01-22",
@@ -32,25 +32,25 @@
   "sponsor_name": "Sen. Ernst, Joni [R-IA]",
   "sponsor_party": "R",
   "sponsor_state": "IA",
-  "cosponsor_count": 17,
+  "cosponsor_count": 18,
   "crs_summary_available": true,
   "plain_keywords": [
     "planned parenthood funding",
+    "women's health care money",
     "defund planned parenthood",
-    "women's health care funding",
-    "federal money abortion clinics",
-    "community health centers",
     "reproductive health funding",
+    "birth control funding",
     "family planning money",
-    "women's clinics funding",
-    "government health care spending",
-    "abortion provider funding"
+    "abortion funding ban",
+    "women's health services",
+    "healthcare provider funding",
+    "reproductive rights funding"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1 Short Title",
+      "title": "Section 1  Short Title",
       "text": "This law can be called the Protect Funding for Women's Health Care Act.",
       "word_offset": 0,
       "char_offset": 0
@@ -58,18 +58,18 @@
     {
       "id": "s2",
       "slug": "section-2-findings",
-      "title": "Section 2 Findings",
-      "text": "Congress has found the following facts. First, many different places already provide health services to women and will keep doing so. These places include state and county health departments, community health centers, hospitals, doctor offices, and other organizations. They provide services like lab tests, x-rays, well-child checkups, care before and after having babies, shots to prevent disease, family planning services including birth control, tests for sexually transmitted diseases, cervical and breast cancer screenings, and referrals to other doctors. Second, many of these places serve everyone regardless of whether they can afford to pay. They also provide services in areas where medical care is hard to find and to people who have trouble getting medical care. Third, all money that will no longer go to Planned Parenthood Federation of America will still be available for other qualified organizations to provide women's health care services.",
+      "title": "Section 2  Findings",
+      "text": "Congress has found these facts. State and county health departments, community health centers, hospitals, doctor offices, and other groups currently provide health services to women and will keep providing them. These health services include lab tests, X-rays, well-child care, care during and after pregnancy, shots to prevent disease, family planning services including birth control, testing for diseases spread through sex, cancer screenings for the cervix and breasts, and referrals to other doctors. Many of these groups provide services to all people, no matter if they can pay or not. They also provide services in areas where there are not enough doctors and to groups of people who have trouble getting medical care. All money that is no longer available to Planned Parenthood Federation of America will still be made available to other qualified groups to provide women's health care services.",
       "word_offset": 13,
       "char_offset": 72
     },
     {
       "id": "s3",
       "slug": "section-3-prohibition",
-      "title": "Section 3 Prohibition",
-      "text": "No matter what any other law says, no federal money can be given to Planned Parenthood Federation of America or to any of its related organizations, branch offices, replacement organizations, or clinics. However, this law does not change any limits on abortion funding that are already in spending laws passed by Congress. This law also does not reduce the total amount of federal money available to support women's health care.",
-      "word_offset": 156,
-      "char_offset": 1031
+      "title": "Section 3  Prohibition",
+      "text": "Even if other laws say something different, no federal money can be given to Planned Parenthood Federation of America or to any of its partner organizations, smaller companies it owns, groups that take its place, or clinics. Nothing in this law should be understood to change any rules in spending laws about abortion. Nothing in this law should be understood to reduce the total amount of federal money available to support women's health.",
+      "word_offset": 153,
+      "char_offset": 977
     }
   ]
 }
