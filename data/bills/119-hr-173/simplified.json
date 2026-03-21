@@ -8,8 +8,16 @@
   "stage": "reported_by_committee",
   "stage_label": "Referred to the House Committee on Ways and Means.",
   "version_hash": "2fa1aa400b5c007a",
-  "last_updated": "2026-03-20T01:21:21.900119+00:00",
-  "plain_summary": "This bill helps building owners who add fire sprinkler systems to tall apartment buildings. It lets them save money on their taxes faster than before. Instead of taking many years to get the tax break, building owners can now get it over just fifteen years. This makes it cheaper for them to install sprinklers, which helps keep people safer in tall buildings.",
+  "last_updated": "2026-03-21T13:06:03.908165+00:00",
+  "plain_summary": "This bill helps owners of tall apartment buildings save money on taxes when they add fire sprinkler systems. Instead of waiting many years to get tax breaks for this safety equipment, building owners can spread the costs over just fifteen years. This faster tax schedule makes it cheaper for them to install sprinklers that can save lives in fires. The goal is to encourage more building owners to add these important safety systems to older tall buildings that might not have them yet.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-03",
+  "last_action_date": "2025-01-03",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
   "policy_area": "Taxation",
   "subjects": [
     "Business investment and capital",
@@ -20,28 +28,26 @@
   "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
   "sponsor_party": "R",
   "sponsor_state": "NY",
-  "cosponsor_count": 7,
+  "cosponsor_count": 8,
   "crs_summary_available": false,
   "plain_keywords": [
     "fire sprinklers",
     "apartment building safety",
-    "high rise buildings",
-    "tax breaks for landlords",
-    "building fire safety",
-    "sprinkler system installation",
-    "tall building fire protection",
-    "tax incentives for safety upgrades",
-    "apartment fire prevention",
-    "building owner tax savings",
+    "high rise fire safety",
+    "building sprinkler systems",
+    "fire prevention",
+    "apartment fire protection",
+    "tall building safety",
+    "sprinkler installation tax breaks",
     "fire safety equipment",
-    "residential building improvements"
+    "building owner tax incentives"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
       "title": "Section 1 Short Title",
-      "text": "This law can be called the High Rise Fire Sprinkler Incentive Act of two thousand twenty five.",
+      "text": "This law can be called the High Rise Fire Sprinkler Incentive Act of twenty twenty five.",
       "word_offset": 0,
       "char_offset": 0
     },
@@ -49,9 +55,9 @@
       "id": "s2",
       "slug": "section-2-classification-of-certain-automatic-fire-sprinkler-system-retrofits",
       "title": "Section 2 Classification of Certain Automatic Fire Sprinkler System Retrofits",
-      "text": "This section changes the tax rules for building owners who add fire sprinkler systems to existing tall buildings. The law makes changes to the Internal Revenue Code (the main tax law for the United States). When someone installs an automatic fire sprinkler system retrofit (adding sprinklers to a building that did not have them before), they can claim the cost as a business expense over fifteen years instead of a longer period. This helps building owners save money on their taxes sooner. The law defines automatic fire sprinkler system retrofit property as sprinkler systems that meet National Fire Protection Association standards and are installed in residential buildings. The building must be one that was already built and in use before the sprinklers were added. The building must also be tall enough that it has floors more than seventy five feet above where fire trucks can reach. These new tax rules will start working after this law is passed.",
-      "word_offset": 17,
-      "char_offset": 95
+      "text": "This section changes the tax rules for certain fire sprinkler systems. When a building owner installs a fire sprinkler system in an existing high rise building, they can now treat it as fifteen year property for tax purposes. This means they can deduct the cost of the system over fifteen years instead of a longer period. The system must meet safety standards set by the National Fire Protection Association. It must be installed in a residential building that was built before the sprinkler system was added. The building must also be tall enough that it has a floor more than seventy five feet above where fire trucks can park to reach the building. These tax changes take effect after this law is signed.",
+      "word_offset": 16,
+      "char_offset": 89
     }
   ]
 }
