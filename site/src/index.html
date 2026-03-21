@@ -802,11 +802,12 @@
     });
 
     const statusOrder = [
-      'signed_into_law', 'vetoed', 'to_president', 'resolving_differences',
-      'passed_senate', 'passed_house', 'committee_reported', 'referred_to_committee', 'introduced'
+      'introduced', 'referred_to_committee', 'committee_reported',
+      'passed_house', 'passed_senate', 'resolving_differences',
+      'to_president', 'signed_into_law', 'vetoed'
     ];
 
-    const sortedPolicies = Object.entries(policyCounts).sort((a, b) => b[1] - a[1]);
+    const sortedPolicies = Object.entries(policyCounts).sort((a, b) => a[0].localeCompare(b[0]));
 
     let html = '<div class="filter-section"><div class="filter-section-title">Status</div>';
     statusOrder.forEach(s => {
