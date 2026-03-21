@@ -5,8 +5,8 @@
   "congress": 119,
   "bill_number": "HR.144",
   "introduced_date": "2025-01-03",
-  "stage": "reported_by_committee",
-  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+  "stage": "committee_reported",
+  "stage_label": "Passed Committee",
   "version_hash": "b8158873c3ad71f8",
   "last_updated": "2026-03-20T01:21:36.389727+00:00",
   "plain_summary": "This bill makes the Tennessee Valley Authority report more information to Congress each year. The Tennessee Valley Authority is a government company that provides electricity to Tennessee and nearby states. Starting again, they must file a yearly financial report with Congress every March. The report must include the names, salaries, and job duties of management workers who earn more than a certain government pay level, but this salary information stays private and is not shared with the public.",
@@ -51,5 +51,13 @@
       "word_offset": 12,
       "char_offset": 79
     }
-  ]
+  ],
+  "current_status": "committee_reported",
+  "status_date": "",
+  "last_action_date": "",
+  "last_action_text": "",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false
 }

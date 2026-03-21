@@ -5,8 +5,8 @@
   "congress": 119,
   "bill_number": "HR.134",
   "introduced_date": "2025-01-03",
-  "stage": "reported_by_committee",
-  "stage_label": "Referred to the House Committee on the Judiciary.",
+  "stage": "committee_reported",
+  "stage_label": "Passed Committee",
   "version_hash": "26f822ea06147d8f",
   "last_updated": "2026-03-20T01:22:04.258115+00:00",
   "plain_summary": "This bill makes new rules about non-citizens who commit sexual assault crimes in America. If a non-citizen is arrested or charged with sexual assault, they must be held in jail and cannot be released. Non-citizens who are convicted of sexual assault cannot enter the United States and must be removed from the country if they are already here. The bill is meant to protect communities by making sure sexual predators who are not American citizens are kept away from the public.",
@@ -62,5 +62,13 @@
       "word_offset": 95,
       "char_offset": 560
     }
-  ]
+  ],
+  "current_status": "committee_reported",
+  "status_date": "",
+  "last_action_date": "",
+  "last_action_text": "",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false
 }

@@ -56,9 +56,14 @@
     .search-container {
       margin-bottom: 16px;
     }
+    .search-wrapper {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
     .search-input {
       width: 100%;
-      padding: 12px 16px;
+      padding: 12px 44px 12px 16px;
       font-size: 1rem;
       border: 1px solid var(--border);
       border-radius: var(--radius);
@@ -73,6 +78,102 @@
     .search-input::placeholder {
       color: var(--muted);
     }
+
+    /* Filter button inside search bar */
+    .filter-btn {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: var(--muted);
+      padding: 4px;
+      display: flex;
+      align-items: center;
+      transition: color 0.15s;
+    }
+    .filter-btn:hover { color: var(--primary); }
+    .filter-btn.active { color: var(--primary); }
+    .filter-btn svg { width: 20px; height: 20px; }
+
+    /* Filter dropdown */
+    .filter-dropdown {
+      display: none;
+      position: absolute;
+      top: calc(100% + 6px);
+      right: 0;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+      z-index: 40;
+      width: 300px;
+      max-height: 420px;
+      overflow-y: auto;
+      font-family: sans-serif;
+    }
+    .filter-dropdown.visible { display: block; }
+    .filter-section {
+      padding: 12px 16px 8px;
+    }
+    .filter-section:not(:last-child) {
+      border-bottom: 1px solid var(--border);
+    }
+    .filter-section-title {
+      font-size: 0.7rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+    .filter-option {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 6px 8px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 0.85rem;
+      color: var(--text);
+      transition: background 0.1s;
+    }
+    .filter-option:hover { background: var(--primary-light); }
+    .filter-option.selected { background: var(--primary-light); color: var(--primary); font-weight: 600; }
+    .filter-count {
+      font-size: 0.75rem;
+      color: #999;
+      font-weight: normal;
+    }
+
+    /* Active filter pills below search */
+    .active-filters {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-top: 8px;
+    }
+    .active-filters:empty { display: none; }
+    .filter-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: var(--primary-light);
+      color: var(--primary);
+      font-size: 0.75rem;
+      font-family: sans-serif;
+      padding: 3px 8px 3px 10px;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: background 0.1s;
+    }
+    .filter-pill:hover { background: #d0e2f2; }
+    .filter-pill .remove {
+      font-size: 0.85rem;
+      line-height: 1;
+      opacity: 0.6;
+    }
+    .filter-pill:hover .remove { opacity: 1; }
 
     /* Search info below header */
     .list-header {
@@ -467,7 +568,10 @@
       }
       .search-input {
         font-size: 0.95rem;
-        padding: 10px 14px;
+        padding: 10px 40px 10px 14px;
+      }
+      .filter-dropdown {
+        width: 260px;
       }
     }
 
@@ -543,9 +647,20 @@
   <!-- Bill list view -->
   <div id="list-view">
     <div class="search-container">
-      <input type="text" id="search-input" class="search-input"
-        placeholder="Search bills by topic, keyword, sponsor, or bill number..."
-        oninput="handleSearch(this.value)">
+      <div class="search-wrapper">
+        <input type="text" id="search-input" class="search-input"
+          placeholder="Search bills..."
+          oninput="handleSearch(this.value)">
+        <button class="filter-btn" id="filter-btn" onclick="toggleFilterDropdown()" title="Filter bills">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="4" y1="6" x2="20" y2="6"></line>
+            <line x1="7" y1="12" x2="17" y2="12"></line>
+            <line x1="10" y1="18" x2="14" y2="18"></line>
+          </svg>
+        </button>
+        <div class="filter-dropdown" id="filter-dropdown"></div>
+      </div>
+      <div class="active-filters" id="active-filters"></div>
     </div>
     <div class="list-header">
       <div id="search-info" class="search-info"></div>
@@ -586,6 +701,7 @@
   // ---- State ----
   let allBills = [];
   let fuse = null;
+  let activeFilters = { status: null, policy: null };
   let currentUtterance = null;
   let isPaused = false;
   let currentSections = [];
@@ -631,37 +747,154 @@
     }
   }
 
+  function applyFilters(bills) {
+    return bills.filter(b => {
+      if (activeFilters.status && b.current_status !== activeFilters.status) return false;
+      if (activeFilters.policy && b.policy_area !== activeFilters.policy) return false;
+      return true;
+    });
+  }
+
+  function getFilteredResults() {
+    const query = document.getElementById('search-input').value;
+    let bills;
+    if (query.trim() && fuse) {
+      bills = fuse.search(query).map(r => r.item);
+    } else {
+      bills = allBills;
+    }
+    return applyFilters(bills);
+  }
+
+  function refreshList() {
+    const filtered = getFilteredResults();
+    renderBillList(filtered);
+    updateSearchInfo(filtered.length, allBills.length);
+  }
+
   function handleSearch(query) {
-    // If in reader view, switch back to list view
     if (document.getElementById('reader-view').style.display !== 'none') {
       showList();
     }
-
-    if (!query.trim()) {
-      renderBillList(allBills);
-      updateSearchInfo(allBills.length, allBills.length);
-      return;
-    }
-
-    if (!fuse) {
-      console.error('Fuse not initialized');
-      return;
-    }
-
-    const results = fuse.search(query);
-    const matchedBills = results.map(r => r.item);
-    renderBillList(matchedBills);
-    updateSearchInfo(matchedBills.length, allBills.length);
+    refreshList();
   }
 
   function updateSearchInfo(showing, total) {
     const el = document.getElementById('search-info');
-    if (showing === total) {
+    const hasFilters = activeFilters.status || activeFilters.policy;
+    if (showing === total && !hasFilters) {
       el.textContent = `Showing all ${total} bill${total !== 1 ? 's' : ''}`;
     } else {
       el.textContent = `Found ${showing} of ${total} bills`;
     }
   }
+
+  // ---- Filter logic ----
+  function buildFilterDropdown() {
+    const statusCounts = {};
+    const policyCounts = {};
+    allBills.forEach(b => {
+      const s = b.current_status || 'unknown';
+      statusCounts[s] = (statusCounts[s] || 0) + 1;
+      if (b.policy_area) {
+        policyCounts[b.policy_area] = (policyCounts[b.policy_area] || 0) + 1;
+      }
+    });
+
+    const statusOrder = [
+      'signed_into_law', 'vetoed', 'to_president', 'resolving_differences',
+      'passed_senate', 'passed_house', 'committee_reported', 'referred_to_committee', 'introduced'
+    ];
+
+    const sortedPolicies = Object.entries(policyCounts).sort((a, b) => b[1] - a[1]);
+
+    let html = '<div class="filter-section"><div class="filter-section-title">Status</div>';
+    statusOrder.forEach(s => {
+      if (!statusCounts[s]) return;
+      const selected = activeFilters.status === s ? ' selected' : '';
+      html += `<div class="filter-option${selected}" onclick="setFilter('status','${s}')">
+        <span>${formatStatus(s)}</span>
+        <span class="filter-count">${statusCounts[s]}</span>
+      </div>`;
+    });
+    html += '</div>';
+
+    html += '<div class="filter-section"><div class="filter-section-title">Policy Area</div>';
+    sortedPolicies.forEach(([p, count]) => {
+      const selected = activeFilters.policy === p ? ' selected' : '';
+      html += `<div class="filter-option${selected}" onclick="setFilter('policy',${JSON.stringify(p)})">
+        <span>${escapeHtml(p)}</span>
+        <span class="filter-count">${count}</span>
+      </div>`;
+    });
+    html += '</div>';
+
+    document.getElementById('filter-dropdown').innerHTML = html;
+  }
+
+  function toggleFilterDropdown() {
+    const dd = document.getElementById('filter-dropdown');
+    const btn = document.getElementById('filter-btn');
+    if (dd.classList.contains('visible')) {
+      dd.classList.remove('visible');
+    } else {
+      buildFilterDropdown();
+      dd.classList.add('visible');
+    }
+  }
+
+  function setFilter(type, value) {
+    if (activeFilters[type] === value) {
+      activeFilters[type] = null;
+    } else {
+      activeFilters[type] = value;
+    }
+    buildFilterDropdown();
+    renderActiveFilters();
+    refreshList();
+    updateFilterBtnState();
+  }
+
+  function removeFilter(type) {
+    activeFilters[type] = null;
+    renderActiveFilters();
+    refreshList();
+    updateFilterBtnState();
+  }
+
+  function renderActiveFilters() {
+    const el = document.getElementById('active-filters');
+    let html = '';
+    if (activeFilters.status) {
+      html += `<span class="filter-pill" onclick="removeFilter('status')">
+        ${formatStatus(activeFilters.status)} <span class="remove">&times;</span>
+      </span>`;
+    }
+    if (activeFilters.policy) {
+      html += `<span class="filter-pill" onclick="removeFilter('policy')">
+        ${escapeHtml(activeFilters.policy)} <span class="remove">&times;</span>
+      </span>`;
+    }
+    el.innerHTML = html;
+  }
+
+  function updateFilterBtnState() {
+    const btn = document.getElementById('filter-btn');
+    if (activeFilters.status || activeFilters.policy) {
+      btn.classList.add('active');
+    } else {
+      btn.classList.remove('active');
+    }
+  }
+
+  // Close filter dropdown when clicking outside
+  document.addEventListener('click', function(e) {
+    const dd = document.getElementById('filter-dropdown');
+    const btn = document.getElementById('filter-btn');
+    if (dd && !dd.contains(e.target) && !btn.contains(e.target)) {
+      dd.classList.remove('visible');
+    }
+  });
 
   function renderBillList(bills) {
     const el = document.getElementById('bill-list');

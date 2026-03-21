@@ -45,6 +45,11 @@ jobs:
           CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
         run: python scripts/process_bill.py
 
+      - name: Update bill statuses from Congress.gov
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+        run: python scripts/update_statuses.py
+
       - name: Rebuild the bill index
         run: python scripts/build_index.py
 

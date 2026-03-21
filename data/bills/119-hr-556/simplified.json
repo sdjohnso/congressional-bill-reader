@@ -5,11 +5,11 @@
   "congress": 119,
   "bill_number": "HR.556",
   "introduced_date": "2025-01-16",
-  "stage": "reported_by_committee",
-  "stage_label": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
-  "version_hash": "36740cf4d5b35290",
-  "last_updated": "2026-03-21T13:07:31.502870+00:00",
-  "plain_summary": "This bill stops three federal agencies from banning lead ammunition and fishing tackle on federal lands and waters where hunting and fishing are allowed. The agencies that cannot make these bans are the Fish and Wildlife Service, Bureau of Land Management, and Forest Service. There are only two exceptions to this rule. First, any bans that already exist can stay in place. Second, these agencies can create new bans only if they can prove with local data that lead use is the main reason wildlife populations are dropping in that specific area, and the state government agrees with the ban.",
+  "stage": "committee_reported",
+  "stage_label": "Passed Committee",
+  "version_hash": "78a3c37e97c552c5",
+  "last_updated": "2026-03-20T13:13:04.772228+00:00",
+  "plain_summary": "This bill stops three federal agencies from banning lead ammunition and fishing tackle on federal lands where hunting and fishing are allowed. The agencies that cannot make these bans are the Fish and Wildlife Service, the Bureau of Land Management, and the Forest Service. There are only two exceptions to this rule. First, any lead bans that already exist can stay in place. Second, these agencies can ban lead in a specific area only if they have proof from that exact location showing that lead is the main reason wildlife populations are dropping, and only if the state government agrees with the ban.",
   "current_status": "committee_reported",
   "status_date": "2025-11-25",
   "last_action_date": "2026-03-19",
@@ -33,17 +33,17 @@
   "crs_summary_available": true,
   "plain_keywords": [
     "lead ammunition ban",
-    "lead fishing tackle ban",
     "hunting on federal land",
-    "fishing on federal land",
-    "lead bullets",
-    "lead sinkers",
-    "wildlife protection from lead",
-    "hunting and fishing restrictions",
-    "federal land hunting rules",
-    "lead poisoning wildlife",
-    "ammunition restrictions",
-    "fishing tackle regulations"
+    "fishing tackle lead",
+    "federal hunting restrictions",
+    "lead bullets banned",
+    "fishing weights lead",
+    "national forest hunting",
+    "wildlife lead poisoning",
+    "hunting ammunition rules",
+    "federal land fishing ban",
+    "lead sinkers fishing",
+    "government hunting regulations"
   ],
   "sections": [
     {
@@ -58,7 +58,7 @@
       "id": "s2",
       "slug": "section-2-protecting-access-for-hunters-and-anglers-on-federal-land-and-water",
       "title": "Section 2 Protecting Access for Hunters and Anglers on Federal Land and Water",
-      "text": "This section explains when government officials can and cannot ban lead ammunition and fishing tackle on federal lands and waters. The Secretary of the Interior works with the Fish and Wildlife Service and Bureau of Land Management. The Secretary of Agriculture works with the Forest Service. These officials cannot ban lead ammunition or fishing tackle on federal lands and waters that are open for hunting or fishing. They also cannot make rules about how much lead can be in ammunition or tackle used on these lands and waters. However, there are some exceptions to this rule that already exist in current regulations. There is also a special exception that allows bans in specific areas. This exception only applies if the government official can prove two things using actual field data from that specific area. First, they must show that wildlife populations are declining mainly because of lead ammunition or tackle use. Second, any ban or new rule must match the laws of the state where the federal land or water is located, or match the state fish and wildlife department policy, or be approved by that state department. When government officials use this special exception to ban lead ammunition or tackle in a specific area, they must publish a notice in the Federal Register. This notice must explain how their ban or new rule meets all the required conditions.",
+      "text": "In general, the Secretary of the Interior and the Secretary of Agriculture cannot ban hunters and anglers from using lead bullets or fishing gear on federal lands and waters. This includes lands managed by the Fish and Wildlife Service, Bureau of Land Management, and Forest Service. These government officials also cannot make rules about how much lead can be in bullets or fishing gear used on these federal areas that are open for hunting and fishing. However, there is an exception to this rule. The government can ban lead bullets or fishing gear in a specific area if two things are true. First, they must have scientific data from that exact area showing that lead is the main cause of wildlife dying there. Second, the ban must follow the laws of the state where the federal land is located, match the state fish and wildlife department policies, or be approved by that state department. When the government makes such a ban, they must publish a notice in the Federal Register explaining how their ban meets these requirements.",
       "word_offset": 13,
       "char_offset": 74
     }

@@ -5,8 +5,8 @@
   "congress": 119,
   "bill_number": "HR.209",
   "introduced_date": "2025-01-03",
-  "stage": "reported_by_committee",
-  "stage_label": "Referred to the House Committee on House Administration.",
+  "stage": "committee_reported",
+  "stage_label": "Passed Committee",
   "version_hash": "3ac0b441e0699c4d",
   "last_updated": "2026-03-20T01:22:27.463291+00:00",
   "plain_summary": "This bill says that members of Congress will not get their paychecks if their part of Congress does not pass all the yearly spending bills on time. The House and Senate each have to pass these bills before October 1st, which is when the government's budget year starts. If they don't finish the work on time, their pay gets put aside and they can't have it until they pass all the bills or until their time in Congress ends. This rule would start in 2026 and is meant to make Congress members work harder to avoid government shutdowns.",
@@ -79,5 +79,13 @@
       "word_offset": 263,
       "char_offset": 1593
     }
-  ]
+  ],
+  "current_status": "committee_reported",
+  "status_date": "",
+  "last_action_date": "",
+  "last_action_text": "",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false
 }
