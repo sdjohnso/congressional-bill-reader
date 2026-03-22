@@ -5,8 +5,8 @@
   "congress": 119,
   "bill_number": "HR.173",
   "introduced_date": "2025-01-03",
-  "stage": "committee_reported",
-  "stage_label": "Passed Committee",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
   "version_hash": "2fa1aa400b5c007a",
   "last_updated": "2026-03-21T13:06:03.908165+00:00",
   "plain_summary": "This bill helps owners of tall apartment buildings save money on taxes when they add fire sprinkler systems. Instead of waiting many years to get tax breaks for this safety equipment, building owners can spread the costs over just fifteen years. This faster tax schedule makes it cheaper for them to install sprinklers that can save lives in fires. The goal is to encourage more building owners to add these important safety systems to older tall buildings that might not have them yet.",
@@ -59,13 +59,5 @@
       "word_offset": 16,
       "char_offset": 89
     }
-  ],
-  "current_status": "committee_reported",
-  "status_date": "",
-  "last_action_date": "",
-  "last_action_text": "",
-  "passed_house": false,
-  "passed_senate": false,
-  "became_law": false,
-  "vetoed": false
+  ]
 }
