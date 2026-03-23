@@ -129,9 +129,9 @@
   "vetoed": false,
   "vetoed_date": "",
   "simplified_complete": false,
-  "queued_at": "2026-03-23T01:25:27.177380+00:00",
+  "queued_at": "2026-03-23T13:24:56.278525+00:00",
   "process_failed": true,
-  "process_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'prompt is too long: 203452 tokens > 200000 maximum'}, 'request_id': 'req_011CZK9ACzd1d5k5vXAuXj3N'}",
+  "process_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'prompt is too long: 203452 tokens > 200000 maximum'}, 'request_id': 'req_011CZL62DZ34a4waK9whdA6U'}",
   "failed_chunk": 1,
-  "last_process_attempt": "2026-03-23T01:26:20.932902+00:00"
+  "last_process_attempt": "2026-03-23T13:25:47.641716+00:00"
 }
