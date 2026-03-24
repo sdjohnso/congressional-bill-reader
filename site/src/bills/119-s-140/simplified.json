@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "8575f75e1e4e8ddf",
-  "last_updated": "2026-03-20T13:20:02.482859+00:00",
-  "plain_summary": "This bill requires federal agencies to do much more forest management to prevent wildfires, including cutting down trees and doing controlled burns. The agencies must increase these activities by at least forty percent by 2029 compared to recent years. The bill also makes it easier and faster to get approval for removing dangerous trees and clearing vegetation around power lines. It creates a program to test new wildfire prevention technologies and gives local governments and tribes the right to join court cases about forest management projects.",
+  "last_updated": "2026-03-24T13:36:49.141802+00:00",
+  "plain_summary": "This bill requires federal agencies like the Forest Service to do more work to prevent wildfires on government land. They must cut down more trees, do more controlled burns, and use cattle grazing to reduce fire risks, with goals to increase these activities by 40% by 2029. The bill also creates a program to test new wildfire technology with private companies and makes it easier to do this work without long environmental reviews. Local governments and tribes can now join court cases about forest projects that help prevent fires or involve cutting timber.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-16",
   "last_action_date": "2025-12-02",
@@ -39,136 +39,136 @@
   "crs_summary_available": true,
   "plain_keywords": [
     "wildfire prevention",
-    "forest management",
+    "forest fires",
     "controlled burns",
     "tree cutting",
-    "forest thinning",
-    "power line vegetation",
     "fire safety",
-    "federal forest policy",
-    "wildfire technology",
-    "forest fire prevention"
+    "government land",
+    "cattle grazing",
+    "fire risk",
+    "forest management",
+    "wildfire technology"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title-table-of-contents",
-      "title": "Section 1  Short Title; Table of Contents",
-      "text": "This law can be called the Wildfire Prevention Act of twenty twenty five. This section also shows the table of contents which lists all the parts of this law. The law has three main titles. Title one is called Accomplishments Over Rhetoric and covers how to speed up forest treatments, create reports, and track forest work. Title two is called Forest Management and covers managing plants around power lines, timber sales, removing dangerous trees, who can join lawsuits, and using grazing animals to reduce fire risk. Title three is called Cultural Change in Agencies and covers requiring agencies to use existing tools, creating partnerships to test new wildfire technology, and getting rid of certain reports.",
+      "title": "Section 1 Short Title; Table of Contents",
+      "text": "This law can be called the Wildfire Prevention Act of 2025. The law has three main parts. The first part is called Accomplishments Over Rhetoric and includes rules about speeding up forest treatments, making reports each year, being more open about reducing dangerous forest materials, tracking carbon in forests by region, and measuring how well wildfire work is done. The second part is about Forest Management and covers managing plants around power lines, selling timber from national forests, removing dangerous trees more easily, giving local governments more say in lawsuits, and using cattle grazing to reduce wildfire risk. The third part is about Cultural Change in Agencies and requires using existing fast-track rules, creating partnerships to test new wildfire technology, and stopping certain old reports.",
       "word_offset": 0,
       "char_offset": 0
     },
     {
       "id": "s2",
       "slug": "section-2-definitions",
-      "title": "Section 2  Definitions",
-      "text": "This section explains what important terms mean in this law. Federal land means land in the National Forest System and public lands managed by the Bureau of Land Management. Hazardous fuels reduction activity means any work to manage plants and reduce wildfire risk, like cutting trees or doing controlled burns, but does not include signing contracts for this work. National Forest System means the system of forests managed by the Forest Service, but does not include forest reserves not created from public domain land. Secretary concerned means either the Secretary of Agriculture working through the Forest Service Chief for National Forest land, or the Secretary of the Interior working through the Bureau of Land Management Director for other public lands. Wildland-urban interface means areas where homes and wildlands meet, as defined in an existing law from two thousand three.",
-      "word_offset": 115,
-      "char_offset": 714
+      "title": "Section 2 Definitions",
+      "text": "Federal land means land in the National Forest System and public lands managed by the Bureau of Land Management. Hazardous fuels reduction activity means any work to manage plants and reduce wildfire risk, including cutting trees and doing controlled burns. It does not include giving out contracts for this work. National Forest System means the system of forests managed by the Forest Service, but does not include forest reserves that were not created from public domain land. Secretary concerned means the Secretary of Agriculture working through the Forest Service Chief for national forest land, or the Secretary of the Interior working through the Bureau of Land Management Director for other federal land. Wildland-urban interface means areas where homes and wildland plants meet, as defined in another law called the Healthy Forests Restoration Act of 2003.",
+      "word_offset": 125,
+      "char_offset": 820
     },
     {
       "id": "s3",
       "slug": "section-101-accelerating-treatments-on-federal-land",
-      "title": "Section 101  Accelerating Treatments on Federal Land",
-      "text": "The government agencies must figure out their baseline numbers for forest treatments. They must look at how many acres they thinned trees and did controlled burns each year from twenty nineteen through twenty twenty three, then calculate the average. Starting in twenty twenty five, agencies must set yearly goals for tree thinning and controlled burns. For twenty twenty five and twenty twenty six, the goals must be at least as high as the baseline average. For twenty twenty seven and twenty twenty eight, goals must be twenty percent higher than the baseline. Starting in twenty twenty nine, goals must be forty percent higher than the baseline. Within ninety days of this law passing, and every year after, agencies must assign how many acres each region or state will work on. All this information must be made public on agency websites. This section does not override other laws like the Infrastructure Investment and Jobs Act or the Wilderness Act. Setting these goals and assignments does not require environmental reviews under NEPA (the National Environmental Policy Act).",
-      "word_offset": 254,
-      "char_offset": 1602
+      "title": "Section 101 Accelerating Treatments on Federal Land",
+      "text": "The responsible Secretary must figure out how many acres were treated each year from 2019 through 2023. This includes acres where trees were cut for commercial use, acres where trees were cut but not sold, and acres treated with controlled burns. They must calculate the average number of acres treated during those five years. Starting in 2025, the Secretary must set yearly goals for tree cutting and controlled burns. For 2025 and 2026, the goals must be at least as high as the 2019-2023 average. For 2027 and 2028, the goals must be at least twenty percent higher than that average. For 2029 and after, the goals must be at least forty percent higher than that average. Within ninety days of this law passing, and every year after, the Secretary must assign yearly acre amounts for tree cutting and controlled burns to different regions or states. The Secretary must make all this information available to the public on Forest Service and Bureau of Land Management websites. This section does not change other existing laws, including the Infrastructure Investment and Jobs Act and the Wilderness Act. Setting these goals and assignments does not require environmental impact studies under the National Environmental Policy Act.",
+      "word_offset": 260,
+      "char_offset": 1687
     },
     {
       "id": "s4",
       "slug": "section-102-annual-reports",
-      "title": "Section 102  Annual Reports",
-      "text": "Starting by September thirtieth twenty twenty five and every year after, the Forest Service and Bureau of Land Management must publish reports on their websites about the previous year. The reports must include how many acres were treated under the Infrastructure Investment and Jobs Act, how many acres had trees thinned and controlled burns, and whether they met their yearly goals. They must explain any problems that stopped them from meeting goals, like lawsuits or delays in environmental paperwork. The reports must show how many acres had regeneration harvests (cutting trees to help new ones grow). They must identify which treated acres are in areas where at least twenty five percent of trees might die from bugs and diseases over fifteen years, or areas with very high or high wildfire danger. The reports must show how many acres used streamlined environmental review processes like categorical exclusions or emergency authorities. They must also show how many acres involved partnerships with states, tribes, or private groups through various agreement programs.",
-      "word_offset": 429,
-      "char_offset": 2686
+      "title": "Section 102 Annual Reports",
+      "text": "Starting by September 30, 2025, and every year after, the responsible Secretary must publish information on Forest Service and Bureau of Land Management websites about the previous year. The report must include how many acres were treated under the Infrastructure Investment and Jobs Act, how many acres had trees cut, how many acres were treated with controlled burns, and whether these numbers met or exceeded the yearly goals. The report must explain any problems or delays that stopped them from meeting goals, including lawsuits or delays in preparing environmental paperwork. The report must include how many acres had regeneration harvest, which means cutting trees so new ones can grow. For all these treated acres, the report must show how many were in areas where at least twenty-five percent of trees might die from insects and diseases over fifteen years, or in areas with very high or high wildfire danger. The report must show how many acres used fast-track environmental review processes like categorical exclusions or emergency actions. The report must show how many acres used partnerships with others to do the work, including good neighbor agreements, stewardship agreements, tribal forest protection agreements, or stewardship contracts.",
+      "word_offset": 462,
+      "char_offset": 2921
     },
     {
       "id": "s5",
       "slug": "section-103-transparency-in-hazardous-fuels-reduction-activity-reporting",
-      "title": "Section 103  Transparency in Hazardous Fuels Reduction Activity Reporting",
-      "text": "Agencies must include detailed reports about hazardous fuels reduction work in their budget materials sent to the President. From twenty twenty five through twenty thirty, they must report using both their old counting methods and new methods described in this section. Starting in twenty thirty one, they must only use the new methods. The new methods require agencies to count each acre only once per year, even if multiple treatments happened on that acre. Reports must show which acres are in wildland-urban interface areas, the wildfire risk level at the start and end of each year, what types of treatments were done, the cost per acre, which region the work was in, and how effective the treatments were at reducing wildfire risk. All reports must be made public on agency websites. Within ninety days of this law passing, agencies must create standard procedures for tracking this data. The procedures must include regular data reviews, verification methods, analysis of treatment effectiveness, and ways to distinguish between acres inside and outside the wildland-urban interface. Within fourteen days of implementing these procedures, agencies must send Congress a report describing the procedures and recommending any policy changes needed.",
-      "word_offset": 597,
-      "char_offset": 3763
+      "title": "Section 103 Transparency in Hazardous Fuels Reduction Activity Reporting",
+      "text": "The responsible Secretary must include a special report in the materials sent to support the President's budget request to Congress. From 2025 through 2030, this report must show how many acres had dangerous fuel reduction work done each year using both the old way of counting and a new way. Starting in 2031, the report only needs to use the new way of counting. The new counting method must record each acre only once per year, even if multiple activities happened on that acre. The report must include which acres are in the wildland-urban interface, what the wildfire risk level was at the beginning and end of each year, what types of activities were done, how much the activities cost per acre, which region the acres are in, and how well the activities worked to reduce wildfire risk. The Secretary must make these reports available to the public on Department websites. Within ninety days of this law passing, the Secretary must create standard procedures for tracking data about dangerous fuel reduction activities. These procedures must include regular reviews to make sure data is accurate and entered on time, methods to check that data matches the actual work done, analysis of how well the activities work in the short and long term, and ways to tell which acres are inside or outside the wildland-urban interface. Within fourteen days of creating these procedures, the Secretary must send Congress a report describing the procedures and recommendations for improving data tracking.",
+      "word_offset": 657,
+      "char_offset": 4179
     },
     {
       "id": "s6",
       "slug": "section-104-regional-forest-carbon-accounting",
-      "title": "Section 104  Regional Forest Carbon Accounting",
-      "text": "Starting by September thirtieth twenty twenty five and every three years after, the Forest Service must figure out the net forest carbon balance for each Forest Service region. This means determining whether National Forest land in each region is a carbon source (releases more carbon than it stores) or a carbon sink (stores more carbon than it releases). The Forest Service must use data from their forest inventory and analysis program to make these calculations. They must publish this information on the Forest Service website.",
-      "word_offset": 791,
-      "char_offset": 5016
+      "title": "Section 104 Regional Forest Carbon Accounting",
+      "text": "Starting by September 30, 2025, and every three years after, the Secretary of Agriculture working through the Forest Service Chief must figure out the net forest carbon balance for each Forest Service region. This means determining whether the National Forest System land in each region takes in more carbon from the air than it releases, making it a carbon sink, or releases more carbon than it takes in, making it a carbon source. The Secretary must use data from the forest inventory and analysis program to make these calculations. The Secretary must publish this information on the Forest Service website.",
+      "word_offset": 904,
+      "char_offset": 5677
     },
     {
       "id": "s7",
       "slug": "section-105-wildland-fire-performance-metrics",
-      "title": "Section 105  Wildland Fire Performance Metrics",
-      "text": "Within eighteen months of this law passing, the agencies must send a report to four Congressional committees about how they measure wildfire risk reduction performance. The report must identify solutions for tracking hazardous fuels reduction work and forest restoration treatments. It must include strategies to track whether land management reduces wildfire dangers, track local outcomes, standardize national monitoring, quantify catastrophic wildfire risk reduction, identify problems preventing annual wildfire risk mapping updates, and use advanced technologies to improve information quality. The report goes to the Senate Committee on Energy and Natural Resources, Senate Committee on Agriculture Nutrition and Forestry, House Committee on Natural Resources, and House Committee on Agriculture.",
-      "word_offset": 876,
-      "char_offset": 5549
+      "title": "Section 105 Wildland Fire Performance Metrics",
+      "text": "Within eighteen months of this law passing, the responsible Secretary must send a report to specific Congressional committees about existing ways to measure performance and potential new ways to measure results in reducing wildfire risk on federal land. The report must identify solutions to track how well dangerous fuel reduction activities and forest restoration treatments work. This includes strategies to track whether land management activities are reducing wildfire dangers and ways to count and track acres that are being maintained, to track local outcomes, to create standard national monitoring measures, to measure how much catastrophic wildfire risk is reduced, to identify problems with models and data that prevent yearly wildfire risk mapping updates, and to use advanced technologies that will improve the quality of reported information. The Congressional committees that will receive this report are the Senate Committee on Energy and Natural Resources, the Senate Committee on Agriculture, Nutrition, and Forestry, the House Committee on Natural Resources, and the House Committee on Agriculture.",
+      "word_offset": 1004,
+      "char_offset": 6288
     },
     {
       "id": "s8",
       "slug": "section-201-vegetation-management-facility-inspection-operation-maintenance-electric-transmission-distribution-facility-rights-of-way",
-      "title": "Section 201  Vegetation Management, Facility Inspection, and Operation and Maintenance Relating to Electric Transmission and Distribution Facility Rights-of-Way",
-      "text": "This section changes existing law about managing plants around electric power lines on federal land. It increases the distance from ten feet to fifty feet around power lines where dangerous trees can be removed without extra permits. It also allows electric utility companies to cut and remove trees or other plants near their power lines on National Forest or Bureau of Land Management land without needing separate timber sales, as long as the work follows applicable plans and environmental laws. If the utility company sells any of the removed material, they must give the government any money they get from the sale, minus transportation costs. However, they are not required to sell the removed material.",
-      "word_offset": 984,
-      "char_offset": 6352
+      "title": "Section 201 Vegetation Management, Facility Inspection, and Operation and Maintenance Relating to Electric Transmission and Distribution Facility Rights-of-Way",
+      "text": "This section changes an existing law about managing dangerous trees near electric power lines. It increases the distance from ten feet to fifty feet around electric power lines where dangerous trees can be removed. The section also adds new rules for special use permits and easements given to electric power line owners and operators on National Forest System or Bureau of Land Management land. The responsible Secretary can give permission to cut and remove trees or other plants near electric facilities without requiring a separate timber sale, as long as the cutting follows the applicable plans and environmental laws. If the power line owner or operator sells any of the removed material, they must give the proceeds from the sale to the responsible Secretary, minus transportation costs. However, the power line owner or operator is not required to sell the removed material.",
+      "word_offset": 1167,
+      "char_offset": 7406
     },
     {
       "id": "s9",
       "slug": "section-202-timber-sales-on-national-forest-system-land",
-      "title": "Section 202  Timber Sales on National Forest System Land",
-      "text": "This section increases the dollar limit for certain timber sales on National Forest land from ten thousand dollars to fifty five thousand dollars. This change affects when special procedures are required for timber sales under the National Forest Management Act.",
-      "word_offset": 1099,
-      "char_offset": 7063
+      "title": "Section 202 Timber Sales on National Forest System Land",
+      "text": "This section changes the dollar amount for timber sales on National Forest System land. It increases the threshold from ten thousand dollars to fifty-five thousand dollars. This change affects when certain procedures must be followed for timber sales under the National Forest Management Act of 1976.",
+      "word_offset": 1309,
+      "char_offset": 8290
     },
     {
       "id": "s10",
       "slug": "section-203-categorical-exclusion-for-high-priority-hazard-trees",
-      "title": "Section 203  Categorical Exclusion for High-Priority Hazard Trees",
-      "text": "This section defines high-priority hazard trees as standing trees that present visible dangers to people or federal property due to damage or deterioration, are very likely to fall and cause injury or damage, and are within three hundred feet of certain National Forest roads, along forest trails, or in developed recreation sites. High-priority hazard tree activities include pruning, cutting down, and disposing of these dangerous trees, but exclude work in wilderness areas, building permanent roads or trails, work on land where Congress or the President has restricted tree removal, work that conflicts with forest plans, or work in roadless areas. Within one year of this law passing, the Secretary of Agriculture must create a categorical exclusion (a type of streamlined environmental review) for high-priority hazard tree activities. Projects using this categorical exclusion cannot exceed three thousand acres. The Secretary must still follow environmental laws and apply extraordinary circumstances procedures when deciding whether to use this streamlined process.",
-      "word_offset": 1139,
-      "char_offset": 7326
+      "title": "Section 203 Categorical Exclusion for High-Priority Hazard Trees",
+      "text": "A high-priority hazard tree is a standing tree that poses a visible danger to people or federal property because of damage to its roots, trunk, stem, or limbs, or because of how it is leaning. The Secretary must determine that the tree is very likely to fall and would likely cause injury or damage if it fell. The tree must be within three hundred feet of a National Forest System road with maintenance level 3, 4, or 5, along a National Forest System trail, or in a developed recreation site operated by the Secretary. High-priority hazard tree activity means forest management work to reduce risks from these trees, including pruning, cutting down, and disposing of the trees. This does not include activities in wilderness areas or wilderness study areas, building permanent roads or trails, activities on land where Congress or Presidential order restricts removing vegetation, activities inconsistent with land management plans, or activities in inventoried roadless areas. Within one year of this law passing, the Secretary of Agriculture must create a categorical exclusion for high-priority hazard tree activities. A categorical exclusion is a type of fast-track environmental review under the National Environmental Policy Act. The Secretary must follow environmental laws and use extraordinary circumstances procedures when deciding whether to use this categorical exclusion. Projects using this categorical exclusion cannot exceed three thousand acres.",
+      "word_offset": 1355,
+      "char_offset": 8591
     },
     {
       "id": "s11",
       "slug": "section-204-intervenor-status",
-      "title": "Section 204  Intervenor Status",
-      "text": "This section gives local governments and Indian tribes special rights in court cases about certain forest projects. If a project is on federal land near their jurisdiction, has been approved by the government, and either reduces wildfire or disease risks or generates timber revenue, then local governments and tribes have the right to join any lawsuit about the project. They also get to participate fully in any settlement negotiations if they join the case. The government agency decides whether the federal land has sufficient connections to the local government or tribal land.",
-      "word_offset": 1296,
-      "char_offset": 8402
+      "title": "Section 204 Intervenor Status",
+      "text": "For lawsuits about qualified projects, local government units or Indian Tribes have the right to join the lawsuit if the project is on federal land next to their land or has enough connection to their land, as determined by the responsible Secretary. The project must be approved by the responsible Secretary and must either reduce wildfire, insect, or disease risk, or generate money from harvesting timber. If the local government or Indian Tribe joins the lawsuit, they are considered full participants in any settlement talks about the project.",
+      "word_offset": 1578,
+      "char_offset": 10056
     },
     {
       "id": "s12",
       "slug": "section-205-utilizing-grazing-for-wildfire-risk-reduction",
-      "title": "Section 205  Utilizing Grazing for Wildfire Risk Reduction",
-      "text": "Within eighteen months of this law passing, the agencies must develop and send Congress a strategy for using livestock grazing to reduce wildfire risks on federal land. The strategy must analyze opportunities to increase use of grazing authorities, modify grazing permits to allow changes, use targeted grazing to reduce dangerous fuels, use advanced technologies to better control where livestock graze, use grazing to fight invasive grasses and help areas recover after fires, and make it easier to temporarily use empty grazing areas during extreme weather or disasters. The strategy goes to the Senate Committee on Energy and Natural Resources and House Committee on Natural Resources. This section does not affect any existing grazing programs or legal authorities.",
-      "word_offset": 1388,
-      "char_offset": 8985
+      "title": "Section 205 Utilizing Grazing for Wildfire Risk Reduction",
+      "text": "Within eighteen months of this law passing, the responsible Secretary must create and send to the Senate Committee on Energy and Natural Resources and the House Committee on Natural Resources a strategy to analyze and find opportunities to use livestock grazing as a wildfire risk reduction tool on federal land. The strategy must follow laws that apply to the responsible Secretary. The strategy must analyze opportunities to increase use of livestock grazing authorities including changes to grazing permits or leases to allow differences, to use targeted grazing to reduce dangerous fuels, to use advanced technologies to adjust where livestock are placed, to use livestock grazing to get rid of invasive annual grasses and as a strategy for restoration and recovery after fires, and to make it easier and faster to temporarily use vacant allotments during extreme weather events or natural disasters. The strategy must also analyze any other opportunities the responsible Secretary thinks are appropriate. This section does not affect any livestock grazing programs carried out by the responsible Secretary as of when this law passes, or any legal authority for those programs.",
+      "word_offset": 1666,
+      "char_offset": 10605
     },
     {
       "id": "s13",
       "slug": "section-301-mandatory-use-of-existing-authorities",
-      "title": "Section 301  Mandatory Use of Existing Authorities",
-      "text": "Within three years of this law passing, for each unit of federal land that contains areas with high insect and disease risks or high wildfire danger, the agencies must use at least one streamlined environmental review process. The section lists six specific legal authorities from the Healthy Forests Restoration Act, the Infrastructure Investment and Jobs Act, and the Wildfire Suppression Funding and Forest Management Activities Act that agencies can choose from to speed up environmental reviews.",
-      "word_offset": 1505,
-      "char_offset": 9756
+      "title": "Section 301 Mandatory Use of Existing Authorities",
+      "text": "Within three years of this law passing, the responsible Secretary must use at least one fast-track environmental review authority for each unit of federal land that contains land with high wildfire risk or high risk from insects and diseases. The Secretary can choose from six different existing authorities created by previous laws, including sections from the Healthy Forests Restoration Act of 2003, the Infrastructure Investment and Jobs Act, and the Wildfire Suppression Funding and Forest Management Activities Act. These authorities allow faster environmental reviews for certain types of forest management projects.",
+      "word_offset": 1849,
+      "char_offset": 11787
     },
     {
       "id": "s14",
       "slug": "section-302-public-private-wildfire-technology-deployment-testbed-partnership",
-      "title": "Section 302  Public-Private Wildfire Technology Deployment and Testbed Partnership",
-      "text": "This section creates a seven-year pilot program to test new wildfire technologies. The Secretaries of Agriculture and Interior must establish the program within sixty days, working with eight types of federal agencies involved in wildfire response including land management agencies, Department of Defense, weather agencies, and emergency management. The program will work with private companies, nonprofits, and colleges to test new technologies. The agencies will identify priority technology areas like hazardous fuels reduction, emergency communications, remote sensing, safety equipment, and operational dashboards. Companies and organizations can apply to test their technologies, with priority given to those developing emerging technologies like artificial intelligence, quantum sensing, augmented reality, and advanced communications networks. The agencies must publicize the priority areas and invite applications. Each year, they must report to four Congressional committees about participating organizations, technologies tested, costs, outreach efforts, and recommendations for adopting new technologies at larger scales. The program ends seven years after this law passes.",
-      "word_offset": 1581,
-      "char_offset": 10257
+      "title": "Section 302 Public-Private Wildfire Technology Deployment and Testbed Partnership",
+      "text": "This section creates definitions for key terms and establishes a pilot program. Appropriate committees include several Senate and House committees dealing with agriculture, natural resources, energy, commerce, science, and transportation. Covered agencies include federal land management agencies, the Department of Defense, the National Oceanic and Atmospheric Administration, the United States Fire Administration, the Federal Emergency Management Agency, the National Aeronautics and Space Administration, the Bureau of Indian Affairs, and other federal agencies involved in wildfire response. Covered entities include private companies, nonprofit organizations, and colleges and universities. Within sixty days of this law passing, the Secretary of Agriculture and Secretary of the Interior working together, coordinating with the heads of covered agencies, must establish a pilot program for testing new wildfire prevention, detection, communication, and mitigation technologies. The program must be incorporated into an existing interagency group on wildfires, identify key technology priority areas including dangerous fuels reduction, dispatch communications, remote sensing and tracking, safety equipment, and operational dashboards, and connect selected entities with the right agencies to test technology during real wildfire work and training. To participate, entities must submit applications with proposals to test technologies in the priority areas. The Secretaries must give priority to entities developing emerging technologies like artificial intelligence, quantum sensing, computing applications, augmented reality, and 5G networks for wildfire work. The Secretaries must make priority areas public and invite entities to apply. Each year for the duration of the program, the Secretaries must send reports to the appropriate committees listing participating entities, describing tested technologies, estimating costs of acquiring and scaling up technologies, describing outreach efforts, and making assessments and recommendations about new technologies for federal wildfire efforts. The pilot program ends seven years after this law passes.",
+      "word_offset": 1940,
+      "char_offset": 12411
     },
     {
       "id": "s15",
       "slug": "section-303-repeal-of-flame-reports",
-      "title": "Section 303  Repeal of FLAME Reports",
-      "text": "This section eliminates a reporting requirement from the FLAME Act of two thousand nine. It removes the requirement for agencies to submit annual reports about their FLAME (Federal Land Assistance Management and Enhancement) accounts and renumbers the remaining subsections in that law.",
-      "word_offset": 1736,
-      "char_offset": 11444
+      "title": "Section 303 Repeal of FLAME Reports",
+      "text": "This section changes the FLAME Act of 2009 by removing the requirement for certain reports and renumbering the remaining sections accordingly.",
+      "word_offset": 2224,
+      "char_offset": 14572
     }
   ]
 }

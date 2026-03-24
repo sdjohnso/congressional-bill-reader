@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "3ec5ffc2d8f22220",
-  "last_updated": "2026-03-20T10:51:17.254102+00:00",
-  "plain_summary": "This bill lets a special group called the National Medal of Honor Museum Foundation build a monument on the National Mall in Washington DC. The monument will honor people who received the Medal of Honor, which is the highest military award for bravery. The monument must be built in a special area near famous landmarks like the Lincoln Memorial. Congress believes Medal of Honor winners deserve to be remembered in this important location because of their courage and sacrifice.",
+  "last_updated": "2026-03-24T13:37:08.419439+00:00",
+  "plain_summary": "This bill lets a group called the National Medal of Honor Museum Foundation build a special monument on the National Mall in Washington DC. The monument will honor people who received the Medal of Honor, which is the highest military award for bravery. Usually, no new monuments are allowed in the most important part of the National Mall near the Lincoln Memorial, but this bill makes an exception. The group still has to follow all the other rules for building monuments on federal land.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-22",
   "last_action_date": "2025-12-09",
@@ -40,17 +40,18 @@
     "military heroes monument",
     "Washington DC memorial",
     "Medal of Honor recipients",
-    "veteran memorial",
+    "veteran memorial National Mall",
     "military bravery monument",
-    "Lincoln Memorial area",
-    "honor military heroes",
-    "Medal of Honor museum"
+    "Lincoln Memorial area monument",
+    "Medal of Honor museum",
+    "war heroes memorial",
+    "military monument Washington"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1 Short Title",
+      "title": "Section 1  Short Title",
       "text": "This law can be called the Hershel Woody Williams National Medal of Honor Monument Location Act.",
       "word_offset": 0,
       "char_offset": 0
@@ -58,18 +59,18 @@
     {
       "id": "s2",
       "slug": "section-2-findings",
-      "title": "Section 2 Findings",
-      "text": "Congress states these facts. In two thousand twenty one, Congress and the President approved a law that lets the National Medal of Honor Museum Foundation build a monument in Washington DC. This monument will honor Medal of Honor recipients and their brave actions and sacrifices. President Abraham Lincoln created the Medal of Honor one hundred sixty years ago on March twenty fifth, eighteen sixty three. President George H.W. Bush made March twenty fifth National Medal of Honor Day in nineteen ninety one. The Medal of Honor is the highest award for bravery in combat that the United States military gives to service members. Fewer Medal of Honor recipients are still alive today, which makes it more important to honor them and teach future generations about their heroism. Hershel Woody Williams was the last living World War Two Medal of Honor recipient. He died in two thousand twenty two and his body was honored at the United States Capitol. The Medal of Honor represents the best of America. It goes to ordinary people who did extraordinary things beyond what their duty required and became heroes. These examples inspire all Americans and show the spirit of our country. The Medal of Honor is important enough to our nation and history to deserve a place on the National Mall. Putting the National Medal of Honor Monument near the Lincoln Memorial would honor President Lincoln's legacy and show what regular people can do when they work for the good of everyone.",
+      "title": "Section 2  Findings",
+      "text": "Congress has found the following facts. In two thousand twenty one, Congress passed a law and the President signed it. This law gave permission to the National Medal of Honor Museum Foundation to build a memorial in Washington D.C. to honor the brave acts and sacrifices of Medal of Honor winners. President Abraham Lincoln created the Medal of Honor one hundred sixty years ago on March twenty fifth, eighteen sixty three. This medal is part of Lincoln's lasting legacy. In nineteen ninety one, President George H.W. Bush made March twenty fifth National Medal of Honor Day every year. The Medal of Honor is given to people in all branches of the military. It is our country's highest award for brave acts in combat. The number of living Medal of Honor winners keeps getting smaller. This makes it more important to honor them and inspire future generations. Hershel Woody Williams was the last World War Two Medal of Honor winner still alive. He died in two thousand twenty two and his body was placed in honor at the United States Capitol. The Medal of Honor represents the best of our country. It goes to ordinary people who did extraordinary things beyond what was expected and became heroes. These examples inspire all citizens and spark the spirit of America in us. The Medal of Honor is so important to our nation and history that it deserves to be represented on the National Mall. Placing the National Medal of Honor Monument near the Lincoln Memorial would respectfully continue his legacy and show what ordinary people can do when they work for the greater good.",
       "word_offset": 16,
       "char_offset": 97
     },
     {
       "id": "s3",
       "slug": "section-3-national-medal-of-honor-monument-location",
-      "title": "Section 3 National Medal of Honor Monument Location",
-      "text": "The monument will be built in a special area. Even though federal law usually says commemorative works cannot be built in the Reserve area, this Medal of Honor monument can be built there. The Reserve is a special protected area around the National Mall as defined by federal law. All other rules about building commemorative works will still apply to this monument. These rules are found in a federal law called the Commemorative Works Act.",
-      "word_offset": 263,
-      "char_offset": 1573
+      "title": "Section 3  National Medal of Honor Monument Location",
+      "text": "The memorial that was approved by an earlier law must be built in the Reserve area. The Reserve area is a special part of the National Mall defined by federal law. Even though there is usually a rule that prevents new memorials in this area, this monument is allowed to be built there anyway. All other rules about building commemorative works will still apply to this monument. These rules are found in a federal law commonly called the Commemorative Works Act.",
+      "word_offset": 287,
+      "char_offset": 1672
     }
   ]
 }

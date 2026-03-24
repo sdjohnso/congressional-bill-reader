@@ -8,8 +8,8 @@
   "stage": "committee_reported",
   "stage_label": "Passed Committee",
   "version_hash": "f379ebf608a8e0f6",
-  "last_updated": "2026-03-20T12:06:34.683464+00:00",
-  "plain_summary": "This law requires government agencies that manage federal lands to report how many acres they worked on each year to prevent wildfires by removing dangerous plants and trees. The agencies must also create better ways to track their work and make sure their numbers are accurate. They need to study whether their wildfire prevention work actually helps reduce fire risks over time. Finally, an independent government office will check to see if this new law is working properly and report back to Congress.",
+  "last_updated": "2026-03-24T13:40:53.358978+00:00",
+  "plain_summary": "The ACRES Act requires two government departments to create better reports about work they do to prevent wildfires on federal lands. These departments must count how many acres of land they worked on each year and check if their fire prevention work actually helps reduce wildfire risk. They also need to create standard ways to track and verify this information to make sure it is accurate. The reports will be shared with Congress as part of the budget process, and another government office will study how well this new system works.",
   "current_status": "committee_reported",
   "status_date": "2026-03-04",
   "last_action_date": "2026-03-04",
@@ -34,20 +34,20 @@
   "plain_keywords": [
     "wildfire prevention",
     "forest management",
-    "federal land cleanup",
-    "removing dead trees",
+    "federal land",
     "fire safety",
-    "government land agencies",
-    "wildfire reduction",
-    "forest fire prevention",
-    "land management reporting",
-    "preventing forest fires"
+    "government reporting",
+    "acres treated",
+    "wildfire risk reduction",
+    "forest service",
+    "land management",
+    "fire prevention tracking"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1  Short Title",
+      "title": "Section 1 Short Title",
       "text": "This law can be called the Accurately Counting Risk Elimination Solutions Act or the ACRES Act.",
       "word_offset": 0,
       "char_offset": 0
@@ -55,8 +55,8 @@
     {
       "id": "s2",
       "slug": "section-2-accurate-hazardous-fuels-reduction-reports",
-      "title": "Section 2  Accurate Hazardous Fuels Reduction Reports",
-      "text": "Starting with the first budget year after this law passes, government officials who manage federal lands must create yearly reports about their wildfire prevention work. These reports must be included when they submit budget requests to the President.\n\nThese officials must count how many acres of federal land they worked on to reduce wildfire danger during the past year. They must count each acre only once, even if they did multiple projects on the same land. The reports must include details about where the work was done, how dangerous the fire risk was before and after the work, what types of activities they completed, how much the work cost per acre, which region the land is in, and how well the work reduced fire danger.\n\nThe reports must also show which acres are in areas where wilderness meets towns and cities (called wildland-urban interface). They must separate work done during actual wildfires from work done as planned prevention projects.\n\nThese reports must be made available to the public on government websites.\n\nWithin ninety days of this law passing, these officials must create standard ways to track and verify their wildfire prevention data. They must regularly check that their data is accurate and matches the actual work they completed. They must analyze whether their prevention work actually reduces fire danger over short and long periods of time.\n\nWithin two weeks of creating these tracking methods, they must tell Congress what procedures they put in place and recommend any policy changes needed to improve data tracking.\n\nTwo years after this law passes, the Government Accountability Office (an independent government watchdog agency) must study how well this law is working and report any problems to Congress.\n\nThis law defines several important terms. Hazardous fuels reduction activity means any work to manage plants and trees to reduce wildfire risk, including cutting vegetation and doing controlled burns. It does not include just hiring contractors to do the work. Federal lands means lands controlled by the Department of Agriculture or Department of Interior. Secretary concerned means the Secretary of Agriculture for National Forest lands and the Secretary of Interior for other public lands and national parks.\n\nNo extra money is approved to carry out this law. The work can only be done with money that Congress has already set aside for these purposes.",
+      "title": "Section 2 Accurate Hazardous Fuels Reduction Reports",
+      "text": "Starting with the first budget year after this law passes, the Secretary of Agriculture and the Secretary of the Interior must include a special report when they submit their budget requests to the President. This report must show how many acres of federal land they worked on to reduce fire dangers during the previous year.\n\nWhen counting acres for this report, they must follow specific rules. They can only count each acre once, even if they did multiple fire prevention activities on the same piece of land during that year. They must record acres only after the fire prevention work is completely finished.\n\nThe report must include detailed information about the acres they worked on. This includes which acres are located where wild areas meet towns and cities, called the wildland-urban interface. They must show the wildfire risk level as high, moderate, or low at the beginning and end of the reporting period. The report must explain what types of fire prevention activities they completed and whether this work was done during a managed wildfire or through a planned project. They must include the cost per acre for the fire prevention work, identify which region the acres are located in, and explain how well the fire prevention activities worked to reduce wildfire risk.\n\nThese reports must be made available to the public on the websites of the Department of Agriculture and Department of the Interior.\n\nWithin ninety days after this law passes, both Secretaries must create standard procedures for tracking information about fire prevention activities. These procedures must include regular reviews to make sure the data is accurate and entered on time. They must have methods to verify that the data correctly matches the actual fire prevention work being done. The procedures must analyze how well the fire prevention activities work in both the short term and long term to reduce wildfire risk. For areas that are partly in the wildland-urban interface, they must have ways to tell which acres are inside this interface and which are outside.\n\nWithin two weeks after creating these standard procedures, the Secretaries must send Congress a report describing the procedures and any recommendations for improving how they track fire prevention data.\n\nTwo years after this law passes, the Comptroller General of the United States must study how well this law is working. The study must look at any problems with reporting fire prevention activities or tracking related data. The Comptroller General must then send Congress a report about what the study found.\n\nThis law defines several important terms. Hazardous fuels reduction activity means any work done to manage vegetation and reduce wildfire risk, including mechanical treatments like cutting trees and prescribed burning. It does not include giving out contracts for this work. Federal lands means lands controlled by the Secretary of the Interior or Secretary of Agriculture. Secretary concerned means the Secretary of Agriculture for National Forest System lands and the Secretary of the Interior for public lands and National Park System units. Wildland-urban interface has the same meaning given in the Healthy Forests Restoration Act of two thousand three.\n\nNo extra money is approved to carry out this law. The activities required by this law can only be done if Congress provides funding for them in advance.",
       "word_offset": 16,
       "char_offset": 96
     }

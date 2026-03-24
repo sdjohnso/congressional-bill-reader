@@ -8,8 +8,8 @@
   "stage": "signed_into_law",
   "stage_label": "Signed Into Law",
   "version_hash": "1446baef85163453",
-  "last_updated": "2026-03-20T11:07:33.987710+00:00",
-  "plain_summary": "The MAPWaters Act of 2025 requires the Forest Service and Department of the Interior to work together to create shared rules for collecting and sharing information about public access to federal waterways. These agencies must put detailed information online within five years about where people can access federal waterways, what restrictions exist, and current fishing rules. The waterway information must be updated twice a year, while fishing rules must be updated right away when they change. The agencies also have to create a way for people to ask questions or share comments about this information online.",
+  "last_updated": "2026-03-24T13:35:23.812273+00:00",
+  "plain_summary": "The MAPWaters Act of 2025 requires the Forest Service and Department of the Interior to create online databases that show the public where they can use federal waterways for boating, fishing, and other water activities. These agencies must work together to make sure their computer systems can share information easily and that all the data follows the same standards. Within five years, they must put maps and information online showing which waterways people can access, what restrictions exist, and where fishing is allowed or not allowed. The agencies must update boating and waterway information at least twice a year and update fishing rules right away when they change. The public will also be able to ask questions or make comments about the information provided.",
   "current_status": "signed_into_law",
   "status_date": "2025-12-26",
   "last_action_date": "2025-12-26",
@@ -37,17 +37,18 @@
   "cosponsor_count": 3,
   "crs_summary_available": true,
   "plain_keywords": [
-    "public waterways access",
-    "fishing rules federal land",
-    "boat launch information",
-    "river access points",
-    "lake fishing regulations",
-    "federal water recreation",
-    "where can I fish public water",
-    "boat ramp locations",
-    "waterway restrictions",
-    "fishing license requirements",
-    "public water access maps"
+    "public water access",
+    "boating maps",
+    "fishing locations",
+    "federal waterways",
+    "water recreation",
+    "lake access",
+    "river fishing",
+    "boating restrictions",
+    "water activity database",
+    "fishing rules online",
+    "public boat launch",
+    "water access information"
   ],
   "sections": [
     {
@@ -62,7 +63,7 @@
       "id": "s2",
       "slug": "section-2-definitions",
       "title": "Section 2 Definitions",
-      "text": "In this law, these terms mean the following. Federal fishing restriction means an area where the government has banned or limited fishing activities either temporarily or permanently. Federal land or water management agency means five government agencies: the Bureau of Reclamation, the National Park Service, the Bureau of Land Management, the United States Fish and Wildlife Service, and the Forest Service. Federal waterway means waters that are managed by one or more of the government officials called Secretaries. Federal waterway restriction means a limit on how people can access or use a federal waterway, put in place by one or more Secretaries according to existing laws. Secretaries means two government officials: the Secretary of Agriculture working through the Chief of the Forest Service, and the Secretary of the Interior. State means all fifty states, the District of Columbia, and all territories of the United States.",
+      "text": "In this law, these terms mean the following. A Federal fishing restriction is an area where the government temporarily or permanently stops or limits all fishing or certain types of fishing. A Federal land or water management agency means the Bureau of Reclamation, the National Park Service, the Bureau of Land Management, the United States Fish and Wildlife Service, and the Forest Service. A Federal waterway means waters that are managed by one or more of the government officials called Secretaries. A Federal waterway restriction means a rule that limits how people can access or use a Federal waterway. The rule is made by one or more of the Secretaries under existing laws. Secretaries means the Secretary of Agriculture who works through the Chief of the Forest Service and the Secretary of the Interior. State means each of the fifty states, the District of Columbia, and each territory of the United States.",
       "word_offset": 27,
       "char_offset": 157
     },
@@ -70,41 +71,41 @@
       "id": "s3",
       "slug": "section-3-interagency-data-standardization",
       "title": "Section 3 Interagency Data Standardization",
-      "text": "Within thirty months after this law is passed, the Secretaries must work together with the Federal Geographic Data Committee to create shared standards. These standards will make sure that different government computer databases can work together when collecting and sharing location information about public outdoor recreation access to federal waterways and federal fishing restrictions.",
-      "word_offset": 172,
-      "char_offset": 1095
+      "text": "No later than thirty months after this law is passed, the Secretaries must work together with the Federal Geographic Data Committee to create shared standards. These standards will make sure that different government databases can work together when they collect and share location information about public outdoor recreation access to Federal waterways and Federal fishing restrictions.",
+      "word_offset": 179,
+      "char_offset": 1076
     },
     {
       "id": "s4",
       "slug": "section-4-data-consolidation-and-publication",
       "title": "Section 4 Data Consolidation and Publication",
-      "text": "Within five years after this law is passed, each Secretary must put information into digital form and make it available online for the public. For federal waterway restrictions, this includes information about when waterways are open or closed to boats, including requirements for boat inspection and cleaning, restrictions on low-flying aircraft, and diving rules. It also includes dates when waterways are closed during certain seasons, areas where motorized boats are restricted including limits on horsepower or fuel type, areas with anchoring restrictions or no wake zones, restrictions on which direction boats can travel, and what types of watercraft are allowed in each area including canoes, motorboats, personal watercraft, airboats, aircraft that land on water, hovercraft, vehicles that drive on frozen water, large ships, swimming, and other recreational activities. For federal waterway access and navigation information, this includes the location of boat ramps, portages, and fishing access sites controlled by federal agencies, the dates these facilities are open or closed, and water depth information when possible. For federal fishing restrictions, this includes the location and boundaries of areas where recreational and commercial fishing is restricted or banned, restrictions on specific types of fishing equipment or bait, and requirements for catch and release fishing. The Secretaries must create a way for the public to ask questions or make comments about this information. They must update waterway restriction and access information at least twice per year and update fishing restriction information in real time as changes happen. This section does not apply to irrigation canals and flowage easements. Any location information made public cannot reveal details about historic, paleontological, or archaeological resources, following existing laws.",
-      "word_offset": 226,
-      "char_offset": 1485
+      "text": "No later than five years after this law is passed, each Secretary must digitize and put online geographic information system data about Federal waterway restrictions. This includes information about when Federal waterways are open or closed to boats and people, including requirements for boat inspections and cleaning, low-flying aircraft, or diving. It includes dates when waterways are seasonally closed. It includes areas where motorized boats, certain horsepower levels, or fuel types are restricted. It includes areas with anchoring restrictions, no wake zones, exclusion zones, danger areas, or boat speed limits. It includes restrictions on which direction boats can travel, such as upstream or downstream. It includes what activities are allowed in each area, such as canoes and paddlecraft, rafts and driftboats, motorboats, personal watercraft, airboats, amphibious aircraft, hovercraft, snowmobiles and other motorized vehicles on frozen water, oceangoing ships, swimming, and other recreational activities as determined by the Secretaries. Each Secretary must also digitize and put online information about Federal waterway access and navigation. This includes the location of boat ramps, portages, and fishing access sites that the Federal agencies control. It includes when these facilities and sites are open or closed. It includes underwater depth information and depth charts when possible. Each Secretary must also digitize and put online information about Federal fishing restrictions. This includes the location and boundaries of areas where recreational and commercial fishing is restricted, including full or partial closures, no-take zones, and fishing restrictions in or around marine protected areas. It includes restrictions on using specific types of equipment or bait. It includes Federal requirements about catch and release fishing. The Secretaries must create a way for the public to ask questions or make comments about this information. The Secretaries must update the waterway restriction and access information at least two times per year. They must update the fishing restriction information in real time as changes happen. This section does not apply to irrigation canals and flowage easements (legal agreements that allow water to flow across property). Any geographic information made public under this section cannot reveal details about the nature, location, character, or ownership of historic, paleontological (fossil-related), or archaeological resources, following existing laws.",
+      "word_offset": 235,
+      "char_offset": 1464
     },
     {
       "id": "s5",
       "slug": "section-5-cooperation-and-coordination",
       "title": "Section 5 Cooperation and Coordination",
-      "text": "To carry out this law, the Secretaries can work with and partner with non-federal agencies and private and nonprofit partners, including state natural resource agencies, tribal natural resource agencies, technology companies, geospatial data companies, and experts in data science, analytics, and operations research. They can also make agreements with third parties to carry out any part of this law. The Secretaries can work with the Director of the United States Geological Survey to collect, combine, digitize, standardize, and publish data to meet the requirements of this law. The Secretaries must develop the data following all applicable federal, state, and tribal laws and regulations, and must include a notice that any location data is subject to these laws and regulations. When possible, the Secretary in charge should use or include existing data, maps, and resources when carrying out this law, including data developed under the Modernizing Access to Our Public Land Act, section one hundred and three of division DD of the Consolidated Appropriations Act of two thousand and twenty-three, or other applicable laws.",
-      "word_offset": 498,
-      "char_offset": 3366
+      "text": "To carry out this law, the Secretaries can work with and partner with non-Federal agencies and private sector and nonprofit partners. These include State natural resource agencies, Tribal natural resource agencies, technology companies, geospatial data companies, and experts in data science, analytics, and operations research. The Secretaries can make agreements with third parties to carry out any part of this law. The Secretaries can work with the Director of the United States Geological Survey to collect, combine, digitize, standardize, and publish data on behalf of the Secretaries to meet the requirements of this law. The Secretaries must develop the data following all applicable Federal, State, and Tribal laws and regulations. They must include a notice that any location data is subject to applicable Federal, State, and Tribal laws and regulations. When possible, the Secretary must use or include existing applicable data, maps, and resources when carrying out this law. This includes data, maps, and resources developed under the Modernizing Access to Our Public Land Act, section one hundred and three of division DD of the Consolidated Appropriations Act of two thousand and twenty-three, or other applicable laws.",
+      "word_offset": 595,
+      "char_offset": 3990
     },
     {
       "id": "s6",
       "slug": "section-6-reports",
       "title": "Section 6 Reports",
-      "text": "Within one year after this law is passed and every year after that through March thirtieth, two thousand and thirty-four, the Secretaries must submit a report describing their progress in meeting the requirements of this law. They must send this report to the Committee on Natural Resources of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, the Committee on Agriculture of the House of Representatives, the Committee on Energy and Natural Resources of the Senate, and the Committee on Agriculture, Nutrition, and Forestry of the Senate.",
-      "word_offset": 671,
-      "char_offset": 4498
+      "text": "No later than one year after this law is passed and then every year until March thirtieth, two thousand and thirty-four, the Secretaries must submit a report describing their progress in meeting the requirements of this law. They must send this report to the Committee on Natural Resources of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, the Committee on Agriculture of the House of Representatives, the Committee on Energy and Natural Resources of the Senate, and the Committee on Agriculture, Nutrition, and Forestry of the Senate.",
+      "word_offset": 782,
+      "char_offset": 5225
     },
     {
       "id": "s7",
       "slug": "section-7-effect",
       "title": "Section 7 Effect",
-      "text": "Nothing in this law changes or alters the definition of navigable waters under federal law, affects the jurisdiction or authority of state or federal agencies to regulate navigable waters, changes the authority or jurisdiction of federal or state agencies to manage fisheries, or authorizes or is intended to result in a change in the accessibility of waters open to hunting, fishing, or other forms of outdoor recreation as of the date this law is enacted.",
-      "word_offset": 764,
-      "char_offset": 5088
+      "text": "Nothing in this law changes or alters the definition of navigable waters under Federal law. This law does not affect the jurisdiction or authority of State or Federal agencies to regulate navigable waters. This law does not change or alter the authority or jurisdiction of Federal or State agencies to manage fisheries. This law does not authorize or intend to result in a change in the accessibility of waters open to hunting, fishing, or other forms of outdoor recreation as they existed on the date this law was passed.",
+      "word_offset": 876,
+      "char_offset": 5814
     }
   ]
 }

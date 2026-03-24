@@ -8,8 +8,8 @@
   "stage": "committee_reported",
   "stage_label": "Passed Committee",
   "version_hash": "59f99295150442cc",
-  "last_updated": "2026-03-20T13:57:51.630900+00:00",
-  "plain_summary": "This bill gives free passes to law enforcement officers and firefighters so they can visit national parks and other federal recreation areas without paying fees. Right now, military members and their families already get these free passes. The bill explains who counts as a law enforcement officer or firefighter to get this benefit. These passes would be good for the entire lifetime of the person who gets them.",
+  "last_updated": "2026-03-24T13:37:34.379165+00:00",
+  "plain_summary": "This bill creates free passes for law enforcement officers and firefighters to visit national parks and other federal recreation areas. These workers would get the same type of free annual passes that military members already receive. To get a free pass, law enforcement officers and firefighters must show proof that they work in these jobs. The passes would allow them to visit national parks and federal recreation lands without paying the usual entrance fees.",
   "current_status": "committee_reported",
   "status_date": "2025-07-16",
   "last_action_date": "2025-07-22",
@@ -33,32 +33,30 @@
   "crs_summary_available": true,
   "plain_keywords": [
     "free national park passes",
-    "police officer benefits",
     "firefighter benefits",
-    "law enforcement perks",
+    "police officer benefits",
     "national park discounts",
-    "first responder benefits",
-    "free park entry",
-    "police park passes",
-    "firefighter park passes",
-    "lifetime park passes",
-    "federal recreation areas free",
-    "first responder discounts"
+    "first responder perks",
+    "law enforcement free admission",
+    "firefighter free passes",
+    "national park entrance fees",
+    "government worker benefits",
+    "emergency worker discounts"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1 Short Title",
+      "title": "Section 1  Short Title",
       "text": "This law can be called the Law Enforcement Officer and Firefighter Recreation Pass Act.",
       "word_offset": 0,
       "char_offset": 0
     },
     {
       "id": "s2",
-      "slug": "section-2-national-recreational-passes",
-      "title": "Section 2 National Recreational Passes for Law Enforcement Officers and Firefighters",
-      "text": "This section changes an existing law called the Federal Lands Recreation Enhancement Act. The change updates the rules about who can get a free annual pass to visit national parks and other federal recreation areas. Under the new rules, the government must give free annual passes to members of the Armed Forces and their family members who depend on them for support. The government must also give free annual passes to law enforcement officers and firefighters. These people must show adequate proof that they qualify for the free pass. The government will decide what kind of proof is needed. The law explains what these terms mean. A firefighter is any person who works for the federal government, a state government, a local government, or an Indian tribe and whose job involves putting out fires, including wildfires. A law enforcement officer is any officer, agent, or employee who works for the federal government, a state government, a local government, or an Indian tribe. This person must be authorized by law or by a government agency to prevent crimes, detect crimes, investigate crimes, or supervise people who have been sentenced for crimes.",
+      "slug": "section-2-national-recreational-passes-for-law-enforcement-officers-and-firefighters",
+      "title": "Section 2  National Recreational Passes for Law Enforcement Officers and Firefighters",
+      "text": "This section changes an existing law called the Federal Lands Recreation Enhancement Act. It changes the rules about who can get free annual passes to national parks and federal recreation areas. The new rules say that the government must give free annual passes to members of the military and their family members. The government must also give free passes to law enforcement officers and firefighters who can prove they are eligible. The Secretary of the Interior will decide what proof people need to show. The law explains that a firefighter means any government employee at the federal, state, local, or tribal level whose job involves putting out fires, including wildfires. A law enforcement officer means any government officer, agent, or employee at the federal, state, local, or tribal level who is legally allowed to prevent crime, investigate crimes, or supervise people who have been convicted of crimes.",
       "word_offset": 14,
       "char_offset": 88
     }

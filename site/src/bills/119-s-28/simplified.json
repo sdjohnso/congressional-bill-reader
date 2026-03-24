@@ -8,8 +8,8 @@
   "stage": "committee_reported",
   "stage_label": "Passed Committee",
   "version_hash": "bb628f8d5dac1668",
-  "last_updated": "2026-03-20T14:28:23.940229+00:00",
-  "plain_summary": "This law says that companies must tell customers before they buy smart devices if those devices have cameras or microphones inside them. Smart devices are things that connect to the internet like smart TVs, smart speakers, or smart home gadgets. The law does not apply to phones, tablets, or laptops because people already know those devices have cameras and microphones. The Federal Trade Commission will make sure companies follow this rule and will help companies understand what they need to do.",
+  "last_updated": "2026-03-24T13:31:59.027940+00:00",
+  "plain_summary": "This new law says that companies must tell customers if internet-connected devices have cameras or microphones before people buy them. This rule applies to smart devices like internet appliances, but not to phones or laptops since people already expect those to have cameras and microphones. The Federal Trade Commission will make sure companies follow this rule. The government agency has six months to create guidelines that help companies understand how to follow the new law.",
   "current_status": "committee_reported",
   "status_date": "2025-04-28",
   "last_action_date": "2025-04-28",
@@ -31,25 +31,26 @@
   "sponsor_name": "Sen. Cruz, Ted [R-TX]",
   "sponsor_party": "R",
   "sponsor_state": "TX",
-  "cosponsor_count": 2,
+  "cosponsor_count": 3,
   "crs_summary_available": true,
   "plain_keywords": [
     "smart device privacy",
     "camera microphone disclosure",
-    "smart TV hidden camera",
-    "smart speaker recording",
-    "internet device surveillance",
-    "home gadget spying",
+    "internet connected devices",
+    "smart home appliances",
+    "device privacy labels",
     "consumer protection technology",
-    "FTC smart device rules",
-    "hidden microphone warning",
-    "smart home privacy rights"
+    "hidden cameras microphones",
+    "smart device transparency",
+    "IoT device disclosure",
+    "technology privacy rights",
+    "FTC smart devices"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1 Short Title",
+      "title": "Section 1  Short Title",
       "text": "This law can be called the Informing Consumers about Smart Devices Act.",
       "word_offset": 0,
       "char_offset": 0
@@ -57,34 +58,34 @@
     {
       "id": "s2",
       "slug": "section-2-required-disclosure",
-      "title": "Section 2 Required Disclosure of a Camera or Recording Capability in Certain Internet-Connected Devices",
-      "text": "Every company that makes a covered device must tell customers clearly and obviously before they buy the device whether it has a camera or microphone built into it.",
+      "title": "Section 2  Required Disclosure of a Camera or Recording Capability in Certain Internet-Connected Devices",
+      "text": "Every company that makes a covered device must clearly tell customers before they buy the device whether it has a camera or microphone built into it. This information must be easy to see and understand.",
       "word_offset": 12,
       "char_offset": 72
     },
     {
       "id": "s3",
       "slug": "section-3-enforcement-by-ftc",
-      "title": "Section 3 Enforcement by the Federal Trade Commission",
-      "text": "If a company breaks the rule in Section 2, it will be treated as an unfair or deceptive business practice under existing Federal Trade Commission rules. The Federal Trade Commission will enforce this law using the same powers and methods it uses for other consumer protection laws. Companies that break this law can face the same penalties as other violations of Federal Trade Commission rules. This law does not limit any other authority the Federal Trade Commission already has. Within one hundred eighty days after this law is passed, the Federal Trade Commission must create guidance to help companies follow this law. The guidance will include best practices for making disclosures clear and easy to understand for all ages, including using pictures or symbols when helpful. A company can ask the Federal Trade Commission for specific guidance about how to meet the requirements for their particular device. Any guidance from the Federal Trade Commission does not give anyone special rights and does not force the commission to follow the guidance in every case. In enforcement actions, the Federal Trade Commission must point to a specific violation of this law, not just say a company failed to follow guidance.",
-      "word_offset": 40,
-      "char_offset": 236
+      "title": "Section 3  Enforcement by the Federal Trade Commission",
+      "text": "If a company breaks the rule in Section 2, it will be treated as an unfair or deceptive business practice. The Federal Trade Commission (a government agency that protects consumers) will enforce this law using the same powers and methods it uses for other consumer protection laws. Companies that break this law will face the same penalties as companies that violate other Federal Trade Commission rules. This law does not take away any other powers the Federal Trade Commission already has. Within one hundred eighty days after this law is signed, the Federal Trade Commission must create guidance to help companies follow this law. This guidance will include best practices for making disclosures clear and easy to understand for people of all ages, and for using pictures or symbols to show this information. Companies can ask the Federal Trade Commission for specific advice about how to meet the requirements for their particular devices. However, this guidance does not give anyone special rights and does not force the Federal Trade Commission to follow the guidance in every situation. When the Federal Trade Commission takes action against a company, it must point to a specific violation of this law, not just say the company did not follow the guidance.",
+      "word_offset": 47,
+      "char_offset": 275
     },
     {
       "id": "s4",
       "slug": "section-4-definition-of-covered-device",
-      "title": "Section 4 Definition of Covered Device",
-      "text": "A covered device means a consumer product that can connect to the internet and has a camera or microphone as part of it. This does not include phones including mobile phones, laptops, tablets, or any device that a customer would reasonably expect to have a microphone or camera. It also does not include any device that is specifically sold as a camera, phone equipment, or microphone. Finally, it does not include certain telecommunications devices that are already regulated under other parts of federal communications law.",
-      "word_offset": 238,
-      "char_offset": 1455
+      "title": "Section 4  Definition of Covered Device",
+      "text": "A covered device means a consumer product that can connect to the internet and has a camera or microphone as part of it. However, covered devices do not include phones (including cell phones), laptops, tablets, or any device that people would normally expect to have a microphone or camera. They also do not include devices that are specifically sold as cameras, communication devices, or microphones. Finally, they do not include certain devices described in specific sections of the Communications Act of 1934 and related regulations.",
+      "word_offset": 254,
+      "char_offset": 1540
     },
     {
       "id": "s5",
       "slug": "section-5-effective-date",
-      "title": "Section 5 Effective Date",
-      "text": "This law will apply to all covered devices made after one hundred eighty days from when the Federal Trade Commission issues its guidance. It will not apply to covered devices that were made or sold before that date or otherwise entered the marketplace before that date.",
-      "word_offset": 323,
-      "char_offset": 1981
+      "title": "Section 5  Effective Date",
+      "text": "This law will apply to all covered devices made after one hundred eighty days from when the Federal Trade Commission issues its guidance. It will not apply to devices that were made or sold before that date, or that entered interstate commerce (were shipped across state lines for sale) before that date.",
+      "word_offset": 339,
+      "char_offset": 2077
     }
   ]
 }

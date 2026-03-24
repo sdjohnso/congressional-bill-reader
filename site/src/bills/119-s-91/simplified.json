@@ -8,8 +8,8 @@
   "stage": "committee_reported",
   "stage_label": "Passed Committee",
   "version_hash": "7ba25615c345a8d1",
-  "last_updated": "2026-03-20T12:22:01.410489+00:00",
-  "plain_summary": "The Western Wildfire Support Act of 2025 helps the federal government better deal with wildfires before, during, and after they happen. The bill creates special teams to help areas recover after fires burn through them and sets up funding to fix damaged land and replace important buildings. It also pays for research into new firefighting tools like drones and sensors that can spot fires early. The law requires government agencies to work together better and helps states create websites where people can find disaster help. Finally, it creates a contest to find new technology that can control harmful plants that grow after wildfires.",
+  "last_updated": "2026-03-24T13:39:54.178415+00:00",
+  "plain_summary": "The Western Wildfire Support Act of 2025 helps the government better handle wildfires from start to finish. The bill creates special emergency teams to help areas right after fires happen and sets up money to fix damaged land and buildings over time. It also speeds up getting new technology like sensors and cameras to spot fires early, gives money to Native American tribes for firefighting equipment, and funds research on using drones to fight fires. The law requires the government to use the best science when planning how to manage fires and makes sure states get paid back when military training accidentally causes fires.",
   "current_status": "committee_reported",
   "status_date": "2026-02-04",
   "last_action_date": "2026-02-04",
@@ -57,139 +57,139 @@
   "cosponsor_count": 1,
   "crs_summary_available": true,
   "plain_keywords": [
-    "wildfire prevention",
-    "forest fire recovery",
+    "wildfire",
+    "forest fire",
+    "fire prevention",
+    "emergency response",
+    "disaster relief",
+    "drone firefighting",
     "fire damage repair",
-    "firefighting drones",
-    "early fire detection",
-    "western states fires",
-    "disaster recovery funding",
-    "burned land restoration",
-    "fire technology research",
-    "government wildfire response",
-    "invasive plants after fires",
-    "wildfire preparation"
+    "Native American firefighting",
+    "fire detection technology",
+    "military fire accidents",
+    "wildfire research",
+    "fire management"
   ],
   "sections": [
     {
       "id": "s1",
-      "slug": "section-1-short-title",
-      "title": "Section 1 Short Title; Table of Contents",
-      "text": "This law can be called the Western Wildfire Support Act of 2025. The law has three main parts. Part One is called Preparation and covers making firefighting accounts more transparent, getting money back when military training causes fires, making strategic wildfire plans, and studying how to include local firefighters in wildfire response. Part Two is called Wildfire Detection and Suppression Support and covers putting in equipment to detect fires, buying slip-on tank units for trucks, researching fire-fighting drones, studying how private drones interfere with firefighting, and studying how to modernize fire response technology. Part Three is called Post-Fire Recovery Support and covers funding online guides to help after disasters, managing land after fires, creating a special account for long-term burned area repair, and creating a prize contest for reducing invasive species that grow after fires.",
+      "slug": "section-1-short-title-table-of-contents",
+      "title": "Section 1  Short Title; Table of Contents",
+      "text": "This law can be called the Western Wildfire Support Act of 2025. The law is organized into different sections that cover three main areas. Title 1 deals with preparation for wildfires, including making firefighting accounts more transparent, getting money back when military training causes fires, planning how to manage fires, and studying how to use local firefighters better. Title 2 covers equipment and support for detecting and fighting wildfires, including detection equipment, special fire trucks, research on unmanned aircraft, and studies on drones and new technologies. Title 3 focuses on help after fires are over, including online guides for disaster help, managing burned areas, creating a special account for long-term recovery, and prizes for reducing invasive plants after fires.",
       "word_offset": 0,
       "char_offset": 0
     },
     {
       "id": "s2",
       "slug": "section-2-definitions",
-      "title": "Section 2 Definitions",
-      "text": "This section explains important terms used in this law. Congressional committees means the committees in the House and Senate that oversee energy, natural resources, and government spending. Federal land means public lands managed by the government, national parks, wildlife refuges, land held in trust for Indian tribes, and national forests. A fireshed is an area of forest where a fire starting anywhere in that area would threaten homes, communities, or important buildings and equipment. National Forest System means the forests managed by the Forest Service, but does not include grasslands or forests east of the one hundredth meridian (a line that runs through the middle of the United States). Resource management plan means a plan that describes how federal land will be managed. Secretaries means the Secretary of the Interior and the Secretary of Agriculture. Secretary concerned means whichever Secretary is in charge of the specific federal land being discussed.",
-      "word_offset": 135,
-      "char_offset": 914
+      "title": "Section 2  Definitions",
+      "text": "This section explains what certain terms mean in this law. Congressional committees means specific committees in the Senate and House of Representatives that deal with natural resources and money for government programs. Federal land includes public lands managed by different government agencies, national parks, wildlife refuges, land held in trust for Native American tribes, and national forests. A fireshed is an area of forest where a fire could threaten homes, communities, or important buildings and infrastructure. The National Forest System means forests managed by the government, but does not include grasslands or forests east of the one hundredth meridian (a line running through the middle of the United States). A resource management plan is a document that guides how land should be managed. Secretaries means the Secretary of the Interior and the Secretary of Agriculture, who are the government officials in charge of different types of federal land. Secretary concerned means whichever Secretary is responsible for the specific piece of land being discussed.",
+      "word_offset": 119,
+      "char_offset": 797
     },
     {
       "id": "s3",
       "slug": "section-101-firefighting-account-transparency",
-      "title": "Section 101 Firefighting Account Transparency",
-      "text": "This section changes the law to require better reporting about how money is spent fighting wildfires. Each year, the government must report how much money was spent from wildfire management accounts, including any emergency money that was used. The reports must include details about catastrophic wildfires, which are fires that require federal firefighting help and either burn at least one hundred thousand acres or burn at least fifty thousand acres with half of that at high severity. These fires must also either cost at least fifty million dollars to fight, destroy at least one home, or directly cause at least one death. The reports must break down costs by ground operations, aircraft operations, personnel, support costs, administrative costs, and other relevant factors.",
-      "word_offset": 285,
-      "char_offset": 1891
+      "title": "Section 101  Firefighting Account Transparency",
+      "text": "This section changes the rules for how the government reports on money spent fighting wildfires. The government must now provide annual reports about how much money was spent from wildfire management accounts each year, including any extra emergency funding used. The reports must include detailed information about catastrophic wildfires, which are defined as fires that require federal firefighting help and either burn at least one hundred thousand acres or burn at least fifty thousand acres with half or more burned severely. These catastrophic fires must also either cost fifty million dollars or more to fight, destroy at least one home, or directly cause at least one death. The reports must break down costs by different categories including ground operations, aircraft operations, personnel, support costs, administrative costs, and other relevant factors.",
+      "word_offset": 282,
+      "char_offset": 1876
     },
     {
       "id": "s4",
-      "slug": "section-102-reimbursement-for-wildfires-caused-by-military-training",
-      "title": "Section 102 Reimbursement for Wildfires Caused by Military Training",
-      "text": "The Secretary of Defense must make agreements with state agencies to help each other fight fires. These agreements must include paying back state agencies for firefighting services when fires are caused by military training or other planned military actions. The payments only cover services directly related to fighting the specific fire. State agencies must provide detailed lists of what services they provided and how much they cost. The Defense Department will pay for this using money set aside for operations and maintenance. Any agreements that already exist will count as agreements under this new law as long as they meet the requirements.",
-      "word_offset": 407,
-      "char_offset": 2673
+      "slug": "section-102-reimbursement-wildfires-caused-military-training",
+      "title": "Section 102  Reimbursement for Wildfires Caused by Military Training",
+      "text": "The Department of Defense must make agreements with state agencies to help each other fight fires. When military training or other planned military activities cause a fire, the Department of Defense must pay back the state agency for the cost of fighting that fire. The state agency must provide a detailed list of services and costs when asking for money back. Only services directly related to fighting the specific fire can be reimbursed. The Department of Defense will use money from its operation and maintenance budget to make these payments. Any agreements that already exist when this law takes effect will count as agreements under this new law if they meet the requirements.",
+      "word_offset": 412,
+      "char_offset": 2743
     },
     {
       "id": "s5",
       "slug": "section-103-strategic-wildland-fire-management-planning",
-      "title": "Section 103 Strategic Wildland Fire Management Planning",
-      "text": "By September thirtieth, twenty twenty-six, the Secretary in charge of each area must review existing fire management policies for each fireshed on federal land and create new or updated policies using the best science and planning tools available. These policies must be reviewed and updated regularly, including within one year after a wildfire happens in the area and at least once every ten years. The policies must identify potential wildfire and smoke risks to first responders, communities, important buildings and equipment, and valuable resources. They must work with any resource management plans for the area and work with states to identify potential wildfire control locations and places where firefighter risk might be higher due to steep slopes, dangerous fuel buildup, or other known hazards. The policies must also describe what weather conditions would create severe fire conditions and include other planning items as needed. When developing or updating resource management plans for federal land, the Secretary must try to include someone who helped develop the fire management policies for that fireshed on the planning team.",
-      "word_offset": 509,
-      "char_offset": 3323
+      "title": "Section 103  Strategic Wildland Fire Management Planning",
+      "text": "By September thirtieth, 2026, the government officials in charge of federal land must review and update fire management policies for each fireshed on federal land using the best available science and planning tools. These policies must be updated regularly, including within one year after a wildfire happens in the area and at least once every ten years. The policies must identify wildfire and smoke risks to first responders, communities, important infrastructure, and valuable resources. They must be consistent with other land management plans and work with states to identify places where fires could be controlled and areas where firefighters might face extra danger due to steep slopes, dangerous fuels, or other hazards. The policies must also describe what weather conditions would create severe fire conditions and include other planning provisions for wildfire response. When developing or updating land management plans, the government should include an employee who helped develop fire management policies for that area.",
+      "word_offset": 525,
+      "char_offset": 3428
     },
     {
       "id": "s6",
-      "slug": "section-104-study-on-integrating-local-firefighters-into-wildfire-response",
-      "title": "Section 104 Study and Report on Integrating Local Firefighters into Wildfire Response",
-      "text": "Within one year of this law being passed, the Secretary of Homeland Security, working through the U.S. Fire Administration and with the National Wildfire Coordinating Group, must study the gaps in training for building firefighters in high wildfire risk areas and submit a report to Congress about the results. The report must include a summary of how federal wildland firefighters currently work with state, local, or tribal firefighters. It must analyze the differences in how state, local, or tribal firefighters respond to a fire threatening one building compared to a wildfire threatening a whole community. The report must describe existing training modules available through the National Fire Academy for training state, local, or tribal firefighters on best practices for community-threatening wildfires, or identify gaps in these training modules. It must also provide an estimated cost and spending plan to address any gaps in existing training.",
-      "word_offset": 684,
-      "char_offset": 4469
+      "slug": "section-104-study-report-integrating-local-firefighters-wildfire-response",
+      "title": "Section 104  Study and Report on Integrating Local Firefighters into Wildfire Response",
+      "text": "Within one year of this law taking effect, the Secretary of Homeland Security, working with the U.S. Fire Administration and the National Wildfire Coordinating Group, must study gaps in training for structural firefighters in areas with high wildfire risk and submit a report to congressional committees. The report must include a summary of how federal wildfire fighters currently work with state, local, or tribal firefighters. It must analyze the differences in how these firefighters respond to fires that threaten a single building versus fires that threaten an entire community. The report must identify existing training programs available through the National Fire Academy for firefighters dealing with community-threatening wildfires, or gaps in such training. It must also estimate the cost and create a spending plan to address any gaps in training programs.",
+      "word_offset": 680,
+      "char_offset": 4463
     },
     {
       "id": "s7",
       "slug": "section-201-wildfire-detection-equipment",
-      "title": "Section 201 Wildfire Detection Equipment",
-      "text": "As much as possible, the Secretary in charge of each area must speed up placing wildfire detection equipment like sensors, cameras, and other relevant equipment in areas at risk of wildfire. They must expand the use of satellite data to improve wildfire detection and response and speed up any permits needed for installing, maintaining, or removing wildfire detection equipment. They must use unmanned aerial vehicles (drones) to assess wildland fires in their early stages to determine the right initial response. They must review permitting and purchasing requirements for wildfire detection equipment in the context of modern and innovative technology. Each year, they must provide a forum for companies developing and testing new wildland fire technology to meet with wildland fire managers.",
-      "word_offset": 829,
-      "char_offset": 5425
+      "title": "Section 201  Wildfire Detection Equipment",
+      "text": "The government officials in charge of federal land must work to speed up the placement of wildfire detection equipment like sensors and cameras in areas at risk of wildfire. They must expand the use of satellite data to improve wildfire detection and response, and speed up any permits needed for installing, maintaining, or removing detection equipment. They must use unmanned aerial vehicles to assess wildfires in their early stages to determine the right response actions. They must review permitting and purchasing requirements for detection equipment to account for modern and innovative technology. Each year, they must provide a forum for companies developing and testing new wildfire technology to meet with wildfire managers.",
+      "word_offset": 811,
+      "char_offset": 5333
     },
     {
       "id": "s8",
       "slug": "section-202-slip-on-tanker-units",
-      "title": "Section 202 Slip-on Tanker Units",
-      "text": "This section changes existing law to allow Indian tribes, in addition to local governments, to receive financial help to buy firefighting slip-on tanker units (portable water tanks that can be mounted on trucks). The Secretary of the Interior must submit yearly reports to Congress about how this program is working, including the total number of slip-on tanker units bought with government help by state, the number of requests received for help, and any barriers that prevent local governments and Indian tribes from participating. The first report is due by October first, twenty twenty-six, and the reporting requirement ends on October first, twenty twenty-eight. The Secretaries, working with those who receive help buying slip-on tanker units, must work with the U.S. Fire Administration to create guidance for using slip-on tanker units in wildfire response, include them in resource tracking systems when possible, and work together on any necessary training for operators.",
-      "word_offset": 950,
-      "char_offset": 6222
+      "title": "Section 202  Slip-on Tanker Units",
+      "text": "This section expands a program that provides financial help to buy firefighting slip-on tanker units (portable water tanks that can be mounted on trucks) to include Native American tribes, not just local governments. The Secretary of the Interior must submit annual reports to congressional committees about this program, including how many units were purchased with government help by state, how many requests were received, and any barriers that prevent local governments and tribes from participating. The first report is due by October first, 2026, and the reporting requirement ends on October first, 2028. The Secretaries must work with people who receive this financial help and the U.S. Fire Administration to create guidance for using these units in wildfire response, include them in resource tracking systems when possible, and collaborate on necessary training for operators.",
+      "word_offset": 923,
+      "char_offset": 6069
     },
     {
       "id": "s9",
-      "slug": "section-203-research-and-development-of-unmanned-aircraft-system-fire-applications",
-      "title": "Section 203 Research and Development of Unmanned Aircraft System Fire Applications",
-      "text": "In this section, unmanned aircraft system means an unmanned aircraft and all the parts needed to control it safely and efficiently, including communication links. The Secretaries must work through the Joint Fire Science Program with universities and other research institutions to research and develop wildfire response uses for unmanned aircraft systems. The Secretaries can work with the Federal Aviation Administration to test unmanned aircraft systems developed under this section at unmanned aircraft test ranges as allowed by federal law. Congress authorizes the Secretaries to spend whatever money is necessary to carry out this section.",
-      "word_offset": 1100,
-      "char_offset": 7205
+      "slug": "section-203-research-development-unmanned-aircraft-system-fire-applications",
+      "title": "Section 203  Research and Development of Unmanned Aircraft System Fire Applications",
+      "text": "An unmanned aircraft system means an unmanned aircraft and all the parts needed to operate it safely, including communication links and control components. The Secretaries must work through the Joint Fire Science Program with universities and other research institutions to research and develop how unmanned aircraft systems can be used in wildfire response. They may work with the Federal Aviation Administration to test these systems at unmanned aircraft test ranges according to federal law. Congress authorizes whatever money is necessary for the Secretaries to carry out this section.",
+      "word_offset": 1057,
+      "char_offset": 6957
     },
     {
       "id": "s10",
-      "slug": "section-204-study-on-drone-incursions-on-wildfire-suppression",
-      "title": "Section 204 Study on Drone Incursions on Wildfire Suppression",
-      "text": "In this section, Administrator means the Administrator of the Federal Aviation Administration, drone means an unmanned aircraft system owned by a private person or company, and drone incursion means operating a drone in airspace where the Administrator has issued a temporary flight restriction because of a wildfire. The Administrator, working with the Secretary of the Interior and Secretary of Agriculture through the Chief of the Forest Service, must study how drone incursions affect wildfire suppression on land managed by the Interior or Agriculture Departments. The study must determine for each of the five most recent years how many times drone incursions interfered with wildfire suppression and estimate how each incident affected the time needed to completely suppress the fire, any delays in sending out aerial firefighting units, and the amounts spent by the federal government. The study must also evaluate how feasible and effective various actions to prevent drone incursions would be, including using counter-drone radio towers, using reasonable force to disable or destroy drones, seizing drones including with net devices, and spreading educational materials about how drone incursions affect wildfire suppression. Within eighteen months of this law being passed, the Administrator must submit a report to congressional committees describing the study findings and any recommendations.",
-      "word_offset": 1194,
-      "char_offset": 7850
+      "slug": "section-204-study-drone-incursions-wildfire-suppression",
+      "title": "Section 204  Study on Drone Incursions on Wildfire Suppression",
+      "text": "This section defines terms used in the study. Administrator means the head of the Federal Aviation Administration. A drone is an unmanned aircraft owned by a private person or company. A drone incursion happens when someone flies a drone in airspace where the Federal Aviation Administration has banned flights because of a wildfire. The Federal Aviation Administration Administrator, working with the Interior and Agriculture Secretaries, must study how drone incursions affect wildfire suppression on federal land. The study must determine for the past five years how many times drone incursions interfered with fighting wildfires and estimate the effects on suppression time, delays in aerial firefighting units, and federal costs. The study must also evaluate different ways to prevent drone incursions, including counter-drone radio towers, using reasonable force to disable drones, seizing drones with nets, and educating people about how drone incursions affect wildfire fighting. Within eighteen months of this law taking effect, the Administrator must submit a report with the study findings and recommendations to several congressional committees.",
+      "word_offset": 1145,
+      "char_offset": 7547
     },
     {
       "id": "s11",
-      "slug": "section-205-study-on-modernizing-wildfire-response-technologies",
-      "title": "Section 205 Study on Modernizing Wildfire Response Technologies",
-      "text": "The Secretaries must study necessary improvements to radio communications systems during wildland fire or prescribed fire operations. This includes assessing the quality and reliability of existing radio infrastructure, assessing the impacts when radio communications fail during forest management or wildfire response activities, comparing existing options to improve on-the-ground communications, and analyzing costs and timelines to install the most feasible option. They must also study real-time or near-real-time situational awareness tools for operational firefighters, including standards to ensure different firefighting entities can work together, requirements for additional remote sensing and mapping capabilities, and cost comparisons between commercially available systems and internally developed systems. The study must cover wildland fire predictive modeling, including analyzing data needed to reduce predictive error for existing or developing models, analyzing computing needs to more quickly or accurately model wildland fire, studying the feasibility of using artificial intelligence for wildland fire modeling, and examining existing or developing models that could help establish safe conditions for starting prescribed fires. Within one year of this law being passed, the Secretaries must submit the study results to congressional committees and make them available to the public.",
-      "word_offset": 1400,
-      "char_offset": 9257
+      "slug": "section-205-study-modernizing-wildfire-response-technologies",
+      "title": "Section 205  Study on Modernizing Wildfire Response Technologies",
+      "text": "The Secretaries must study improvements needed for radio communications during wildfire operations, including assessing the quality and reliability of existing radio infrastructure, impacts when radio systems fail, comparing options to improve ground communications, and analyzing costs and timelines to install the best option. They must also study real-time situational awareness tools for firefighters, including standards to ensure different agencies can work together, requirements for additional remote sensing and mapping, and cost comparisons between commercial and internally developed systems. The study must cover wildfire predictive modeling, including analyzing data needed to reduce errors in existing models, computing needs for faster or more accurate modeling, the feasibility of using artificial intelligence, and existing models that could help establish safe conditions for prescribed fires. Within one year of this law taking effect, the Secretaries must submit the study results to congressional committees and make them available to the public.",
+      "word_offset": 1313,
+      "char_offset": 8705
     },
     {
       "id": "s12",
-      "slug": "section-301-funding-for-online-guides-for-post-disaster-assistance",
-      "title": "Section 301 Funding for Online Guides for Post-Disaster Assistance",
-      "text": "This section changes existing disaster relief law to add post-disaster assistance to the services that can be provided. It allows the Administrator of the Federal Emergency Management Agency to make agreements to provide funding or technical help to state agencies to create, update, or operate websites that provide information about post-disaster recovery funding and resources to communities or individuals affected by major disasters or emergencies. These websites must be managed by the state agency and be suitable for residents of that state. The Administrator can provide funding for websites that provide lists of federal, state, and local sources of post-disaster recovery funding for communities or individuals, or technical guides that list and explain the costs and benefits of alternatives available to communities to reduce disaster impacts and prepare for follow-up hazards like flooding after wildfires. State agencies receiving this funding must work with several federal departments and agencies when creating, updating, or operating their websites. They must update their websites at least once every one hundred eighty days.",
-      "word_offset": 1586,
-      "char_offset": 10663
+      "slug": "section-301-funding-online-guides-post-disaster-assistance",
+      "title": "Section 301  Funding for Online Guides for Post-Disaster Assistance",
+      "text": "This section changes existing disaster relief law to add post-disaster assistance to the list of services that government agencies can provide to each other. It allows the Federal Emergency Management Agency Administrator to make agreements with state agencies to provide money or technical help to create, update, or operate websites that give information about recovery funding and resources to communities or individuals affected by major disasters or emergencies. These websites must be managed by the state agency and suitable for residents of that state. The websites can provide lists of federal, state, and local sources of recovery funding for communities and individuals, and technical guides explaining costs and benefits of different ways to reduce disaster impacts and prepare for related hazards like flooding after wildfires. State agencies receiving this help must work with various federal departments and agencies in creating and operating these websites. The websites must be updated at least once every one hundred eighty days.",
+      "word_offset": 1459,
+      "char_offset": 9773
     },
     {
       "id": "s13",
-      "slug": "section-302-post-fire-management-and-recovery",
-      "title": "Section 302 Post-Fire Management and Recovery",
-      "text": "Within one hundred eighty days of this law being passed, the Secretary in charge of each area must establish one or more permanent Burned Area Emergency Response Teams (called BAER Teams) to coordinate immediate post-wildfire emergency stabilization and erosion planning efforts. These teams must survey landscapes affected by wildfires to determine burn severity, identify and remove dead or dying trees that may pose immediate hazards to people, communities, or critical infrastructure, and stabilize or remove hazardous materials from wildfires that may pose immediate hazards to people, communities, or the environment. They must conduct emergency landscape stabilization and erosion prevention work, prioritizing efforts that ensure public safety, prevent the spread of invasive species, help inform the public of wildfire hazards, work with activities in section three hundred three, and conduct other work as needed. BAER Teams should coordinate and respond to immediate post-wildfire emergency stabilization and erosion planning needs for no more than one year after a wildfire is contained. The Secretary can use existing Infrastructure Investment and Jobs Act funding to pay for this work.",
-      "word_offset": 1754,
-      "char_offset": 11809
+      "slug": "section-302-post-fire-management-recovery",
+      "title": "Section 302  Post-Fire Management and Recovery",
+      "text": "Within one hundred eighty days of this law taking effect, the government official in charge of the affected federal land must create one or more permanent Burned Area Emergency Response Teams to coordinate immediate post-wildfire emergency work and erosion planning. These teams must survey landscapes affected by wildfires to determine burn severity, identify and remove dead or dying trees that might pose immediate danger to people, communities, or critical infrastructure, stabilize or remove hazardous materials from wildfires that might immediately endanger people, communities, or the environment, conduct emergency landscape stabilization and erosion prevention work with public safety as the priority, prevent the spread of invasive species, help inform the public about wildfire hazards, work with activities under section 303, and conduct other work as determined necessary. To the maximum extent possible, these teams should coordinate and respond to immediate post-wildfire emergency stabilization and erosion planning needs for no more than one year after a wildfire is contained. The government official in charge can use money made available by existing infrastructure law to carry out this section.",
+      "word_offset": 1616,
+      "char_offset": 10821
     },
     {
       "id": "s14",
       "slug": "section-303-long-term-burned-area-rehabilitation-account",
-      "title": "Section 303 Long-Term Burned Area Rehabilitation Account",
-      "text": "This section creates a new account in the U.S. Treasury called the Long-Term Burned Area Rehabilitation account for the Department of Agriculture. Congress authorizes spending up to one hundred million dollars each year starting in fiscal year twenty twenty-five to carry out rehabilitation activities. Starting in fiscal year twenty twenty-six, the Secretary of Agriculture must request money through the President's budget process for these activities. The Secretary can use this money for rehabilitation projects at sites affected by wildfires or post-wildfire flooding, primarily on federal land but also including non-federal land. These projects can restore ecosystem functions like revegetation and reforestation, watershed restoration, invasive species removal, and wildlife habitat restoration. They can also repair or replace infrastructure or facilities critical for land management activities. Rehabilitation projects must begin after a wildfire is contained and be completed within five years of containment. The Secretary can make agreements with non-federal entities to carry out these activities, with the non-federal share being no more than twenty percent and allowing in-kind contributions. The Secretary must prioritize projects nationwide based on downstream effects on water resources. Starting in fiscal year twenty twenty-seven, the Secretary must submit yearly reports to Congress on burned area recovery work performed using money from this account and other existing funding sources.",
-      "word_offset": 1929,
-      "char_offset": 13009
+      "title": "Section 303  Long-Term Burned Area Rehabilitation Account",
+      "text": "This section creates a new account in the U.S. Treasury called the Long-Term Burned Area Rehabilitation account for the Department of Agriculture. Congress authorizes up to one hundred million dollars each year starting in fiscal year 2025 for this account. Starting in fiscal year 2026, the Secretary of Agriculture must request money for this account through the President's budget. The Secretary must use money from this account for rehabilitation projects at sites affected by wildfires or post-wildfire flooding, mainly on federal land but potentially including some non-federal land. Projects can restore ecosystem functions by identifying areas where natural regrowth is unlikely, revegetating and replanting forests including site preparation and salvage harvesting, restoring watersheds, controlling and removing invasive species, and restoring wildlife habitat. Projects can also repair or replace infrastructure or facilities needed for land management activities. Projects must begin after the wildfire is contained and be completed within five years of containment. The Secretary can make agreements with non-federal entities to carry out these activities, with the non-federal share of costs being no more than twenty percent and including in-kind contributions. The Secretary must prioritize projects nationwide based on downstream effects on water resources. Starting in fiscal year 2027, the Secretary must submit annual reports to Congress on burned area recovery work using money from this new account and other existing funding sources.",
+      "word_offset": 1792,
+      "char_offset": 12037
     },
     {
       "id": "s15",
-      "slug": "section-304-prize-for-wildfire-related-invasive-species-reduction",
-      "title": "Section 304 Prize for Wildfire-Related Invasive Species Reduction",
-      "text": "This section creates a new prize contest called the Theodore Roosevelt Genius Prize for the management of wildfire-related invasive species. The Secretary must establish this contest within one hundred eighty days of this law being passed to encourage technological innovation and award one or more prizes each year for technological advances that manage wildfire-related invasive species. A Management of Wildfire-Related Invasive Species Technology Advisory Board with at least nine members will be established to provide expertise in invasive species, biology, technology development, engineering, economics, business development, wildfire, and other necessary disciplines. The Board will select topics, issue problem statements, advise the Secretary about innovation opportunities, and advise winners about opportunities to pilot and implement winning technologies. The Board must consult widely with federal and non-federal stakeholders when selecting topics and issuing problem statements. The Secretary, working through the Executive Director of the National Invasive Species Council, will administer the prize contest. The Secretary will appoint at least three judges to select annual winners, though the Secretary can determine that no technological advancement merits an award in any given year. Within sixty days of awarding a cash prize, the Secretary must submit a report to Congress that includes a statement from the Board describing their activities, a description of the winners, and a statement from the judges explaining why the winners were selected. All authority under this section ends on December thirty-first, twenty twenty-eight.",
-      "word_offset": 2140,
-      "char_offset": 14520
+      "slug": "section-304-prize-wildfire-related-invasive-species-reduction",
+      "title": "Section 304  Prize for Wildfire-Related Invasive Species Reduction",
+      "text": "This section amends existing law to create a new prize competition called the Theodore Roosevelt Genius Prize for the management of wildfire-related invasive species. The Secretary must establish this prize competition within one hundred eighty days of this law taking effect to encourage technological innovation for managing invasive species related to wildfires and to award one or more prizes annually. The section creates the Management of Wildfire-Related Invasive Species Technology Advisory Board with at least nine members appointed by the Secretary who have expertise in invasive species, biology, technology development, engineering, economics, business development and management, wildfire, and other necessary disciplines. The Board must select topics, issue problem statements, advise the Secretary about technological innovation opportunities, and advise winners about opportunities to pilot and implement winning technologies with various partners. The Board must consult widely with federal and non-federal stakeholders including various agencies and organizations with jurisdiction over invasive species and wildfire management. The Secretary, working through the Executive Director of the National Invasive Species Council, will administer the prize competition. The Secretary will appoint at least three judges to select annual winners, but the Secretary can determine that no entry merits an award in any fiscal year. Within sixty days of awarding a prize, the Secretary must submit a report to congressional committees describing the Board's activities, the winners, and the judges' reasoning for their selection. The Board and all authority under this section end on December thirty-first, 2028.",
+      "word_offset": 2015,
+      "char_offset": 13594
     }
   ]
 }
