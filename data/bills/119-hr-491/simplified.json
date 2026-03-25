@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "7ec5ac2f05ee83c3",
-  "last_updated": "2026-03-20T11:41:56.239893+00:00",
-  "plain_summary": "The Equal COLA Act changes how much extra money retired federal workers get each year to help with rising costs. Right now, workers who retired under the newer system get smaller yearly increases than workers who retired under the older system. This bill makes it so both groups get the same cost-of-living increases that match exactly how much prices have gone up. This means retired federal workers will get fair increases to help them afford things as they get more expensive.",
+  "last_updated": "2026-03-25T13:30:02.618317+00:00",
+  "plain_summary": "This bill changes how the government gives yearly raises to federal workers who retired under the Federal Employees Retirement System. Right now, these retirees get smaller raises than what inflation actually is when prices go up a lot. The bill would make sure these retirees always get the full inflation increase, just like retirees in the older retirement system already do. This means their retirement payments would keep up better with rising costs of living.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-16",
   "last_action_date": "2025-09-16",
@@ -26,19 +26,21 @@
   "sponsor_name": "Rep. Connolly, Gerald E. [D-VA-11]",
   "sponsor_party": "D",
   "sponsor_state": "VA",
-  "cosponsor_count": 69,
+  "cosponsor_count": 71,
   "crs_summary_available": true,
   "plain_keywords": [
-    "federal worker retirement",
+    "federal retirement",
     "cost of living increase",
-    "retiree benefits",
-    "government pension",
-    "retirement pay raise",
+    "retiree pay raise",
     "inflation adjustment",
+    "government pension",
+    "federal worker retirement",
+    "retirement benefits",
+    "pension increase",
+    "retiree cost of living",
     "federal employee benefits",
-    "pension cost of living",
-    "retired government worker",
-    "fair retirement increases"
+    "retirement pay adjustment",
+    "inflation protection"
   ],
   "sections": [
     {
@@ -53,7 +55,7 @@
       "id": "s2",
       "slug": "section-2-increase-in-cola-for-fers-annuities",
       "title": "Section 2 Increase in COLA for FERS Annuities",
-      "text": "This section changes how cost-of-living adjustments work for federal employees who retire under the Federal Employees Retirement System (also called FERS). Currently, FERS retirees get smaller cost-of-living increases than people who retired under the older Civil Service Retirement System. Starting on December first of each year, FERS retirement payments will be increased by the same amount as the change in the Consumer Price Index from the previous year. This increase will be rounded to the nearest one-tenth of one percent. These changes will apply to all cost-of-living adjustments made after this law is passed. It will also apply to all retirement payments under FERS, whether those payments started before, on, or after this law becomes effective.",
+      "text": "Part A makes changes to how much the government increases retirement payments each year for federal workers who are in the Federal Employees Retirement System (a retirement plan for government workers). Starting each December first, these retirement payments will go up by the same amount that prices have gone up during the year. The government will measure this by looking at how much prices have changed compared to the same time period in the previous year when an increase was made. The increase will be rounded to the nearest one tenth of one percent. Part B explains that these new rules will apply to all cost of living increases made after this law is passed. It will also apply to all retirement payments under this system, whether those payments started before this law was passed, on the day it was passed, or after it was passed.",
       "word_offset": 9,
       "char_offset": 43
     }

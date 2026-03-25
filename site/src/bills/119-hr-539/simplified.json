@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "452c0f89e2df4b64",
-  "last_updated": "2026-03-20T15:56:15.509161+00:00",
-  "plain_summary": "This bill changes what Medicare will pay for when people see chiropractors. Right now, Medicare only covers spine adjustments, but this bill would let Medicare pay for all the treatments that chiropractors are allowed to do in their state. Before chiropractors can provide these new covered services, they must watch and complete a training video online one time. This would give older Americans on Medicare more treatment options when they visit chiropractors.",
+  "last_updated": "2026-03-25T13:30:37.003080+00:00",
+  "plain_summary": "This bill changes Medicare to cover more chiropractic services than it does now. Currently, Medicare only pays for chiropractors to adjust the spine, but this bill would let Medicare pay for any service that chiropractors are allowed to do in their state. Chiropractors would need to take a one-time online training class to provide these new services, but they can keep doing spine adjustments without taking the class. This gives older Americans on Medicare access to more types of chiropractic care.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-16",
   "last_action_date": "2025-01-16",
@@ -31,44 +31,44 @@
   "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
   "sponsor_party": "R",
   "sponsor_state": "FL",
-  "cosponsor_count": 152,
+  "cosponsor_count": 155,
   "crs_summary_available": true,
   "plain_keywords": [
-    "medicare chiropractor coverage",
-    "chiropractic services medicare",
-    "medicare pay chiropractor",
-    "senior chiropractic benefits",
-    "medicare coverage expansion",
-    "chiropractor training requirements",
-    "medicare alternative medicine",
-    "older adults chiropractic care",
-    "medicare musculoskeletal treatment",
-    "chiropractic modernization act"
+    "medicare chiropractic coverage",
+    "chiropractor services medicare",
+    "medicare pay for chiropractor",
+    "chiropractic care seniors",
+    "medicare benefits chiropractic",
+    "chiropractor medicare expansion",
+    "spine adjustment medicare",
+    "chiropractic treatment coverage",
+    "medicare modernization chiropractic",
+    "older adults chiropractic care"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1 Short Title",
-      "text": "This law can be called the Chiropractic Medicare Coverage Modernization Act of two thousand twenty five.",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Chiropractic Medicare Coverage Modernization Act of two thousand twenty-five.",
       "word_offset": 0,
       "char_offset": 0
     },
     {
       "id": "s2",
       "slug": "section-2-findings-statement-of-purpose",
-      "title": "Section 2 Findings and Statement of Purpose",
-      "text": "Congress has found several important facts. In nineteen seventy two, Medicare started covering chiropractic care for people who qualify for Medicare. However, the old law only allows Medicare patients to get one type of service at chiropractic offices. Medicare coverage for chiropractic care has not kept up with private insurance coverage or other federal health programs. Today, research shows that chiropractic services work well and cost less money. Because of this good evidence, private insurance companies now cover more chiropractic services. State licenses for chiropractors have also improved to better serve patients and get better health results. This law would make Medicare chiropractic coverage more similar to what the Department of Veterans Affairs, Department of Defense, Federal Employee Health Benefits Program, and private health insurance provide. The purpose of this law is to expand how Medicare recognizes and covers doctors of chiropractic as physicians under the Medicare program. This includes their current service of manual manipulation of the spine to correct a subluxation, which is a condition where spine bones are out of their normal position. The coverage would include any function or action that the state legally allows the doctor of chiropractic to perform.",
-      "word_offset": 16,
+      "title": "Section 2  Findings; Statement of Purpose",
+      "text": "Congress has found several important facts. In nineteen seventy-two, Medicare started covering chiropractic care for people who receive Medicare benefits. However, the old law limits beneficiaries to only one type of service at a chiropractic clinic. Medicare coverage for chiropractic care has not kept up with what private insurance companies cover or what other federal health programs offer. Today, research shows that chiropractic services work well and cost less money. Because of this good evidence, private insurance coverage for chiropractic services has grown. State licenses for chiropractors have also improved to better serve patients and improve health results. This law would make Medicare chiropractic coverage more similar to what is provided by the Department of Veterans Affairs, the Department of Defense, the Federal Employee Health Benefits Program, and private health insurance. The purpose of this law is to expand how Medicare recognizes and covers doctors of chiropractic as physicians under the Medicare program. This includes their current service of manual manipulation of the spine to correct a subluxation (a misalignment of the spine) and any other function or action that the state legally allows them to perform.",
+      "word_offset": 15,
       "char_offset": 105
     },
     {
       "id": "s3",
       "slug": "section-3-providing-medicare-coverage-for-all-physicians-services-furnished-by-doctors-of-chiropractic-within-the-scope-of-their-license",
-      "title": "Section 3 Providing Medicare Coverage for All Physicians Services Furnished by Doctors of Chiropractic Within the Scope of Their License",
-      "text": "This section changes the Social Security Act to expand what Medicare covers when doctors of chiropractic provide services. The current law only covers chiropractors for manual manipulation of the spine to correct a subluxation, which is when spine bones are out of their normal position. The new law would cover a doctor of chiropractic who has a license from the state where they work. The license must legally allow them to perform the function or action in that state or area. This section also adds limits on payment for services from certain doctors of chiropractic. Medicare will only pay for these services if one of two things is true. First, the services must be provided by a doctor of chiropractic who has completed an educational training webinar created by the Secretary of Health and Human Services or a similar electronic training program. The doctor only needs to complete this training once and be verified as having attended it. Second, Medicare will pay if the services are treatment using manual manipulation of the spine to correct a subluxation.",
-      "word_offset": 211,
-      "char_offset": 1404
+      "title": "Section 3  Providing Medicare Coverage for All Physicians' Services Furnished by Doctors of Chiropractic Within the Scope of Their License",
+      "text": "This section changes the Social Security Act to expand what chiropractic services Medicare will cover. Currently, Medicare only covers chiropractors for manual manipulation of the spine to correct a subluxation if they are licensed by their state and meet minimum standards set by the Secretary of Health and Human Services. The new law changes this to cover any doctor of chiropractic who is licensed as a doctor of chiropractic or chiropractor by their state. Medicare will now cover any function or action that their state license legally allows them to perform. However, there are some limits on payment for these expanded services. Medicare will only pay for these new expanded services if the doctor of chiropractic has completed an educational webinar designed by the Secretary of Health and Human Services or an updated version of this webinar. The doctor only needs to complete this verification process once. Medicare will continue to pay for the traditional spine manipulation services without requiring this webinar.",
+      "word_offset": 202,
+      "char_offset": 1352
     }
   ]
 }

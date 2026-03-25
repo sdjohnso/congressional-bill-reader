@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "062ecb68b98a7b59",
-  "last_updated": "2026-03-20T16:03:35.599377+00:00",
-  "plain_summary": "This law stops the government from using taxpayer money to pay for abortions or health insurance that covers abortions. The only times this rule does not apply is when the pregnancy happened because of rape or incest, or when the mother's life is in danger. The law also says that government hospitals and government doctors cannot perform abortions except in those same special cases. Health insurance companies must tell people clearly if their plans cover abortions and how much extra it costs.",
+  "last_updated": "2026-03-25T13:32:07.820805+00:00",
+  "plain_summary": "This bill makes permanent rules that stop the federal government from using taxpayer money to pay for abortions or health insurance plans that cover abortions. The rules apply to all federal agencies and programs, including those in Washington DC. There are three exceptions where federal money can be used: when the pregnancy is from rape or incest, or when the mother's life is in danger. The bill also stops federal employees from performing abortions at government health centers. Health insurance companies must clearly explain to customers if their plans cover abortions and how much extra it costs.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-22",
   "last_action_date": "2025-01-22",
@@ -39,26 +39,26 @@
   "sponsor_name": "Rep. Smith, Christopher H. [R-NJ-4]",
   "sponsor_party": "R",
   "sponsor_state": "NJ",
-  "cosponsor_count": 90,
+  "cosponsor_count": 91,
   "crs_summary_available": true,
   "plain_keywords": [
     "taxpayer money abortion",
-    "government funding abortion",
+    "federal funding abortion ban",
+    "government pay abortion",
     "abortion insurance coverage",
     "health insurance abortion disclosure",
-    "federal abortion funding ban",
+    "federal employees abortion services",
     "rape incest abortion exceptions",
     "mother's life danger abortion",
-    "government hospitals abortion",
-    "abortion coverage transparency",
-    "insurance plans abortion costs"
+    "permanent abortion funding rules",
+    "insurance plans cover abortion costs"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title-table-of-contents",
       "title": "Section 1 Short Title; Table of Contents",
-      "text": "This law can be called the No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2025. The law has two main parts. The first part prohibits using taxpayer money to pay for abortions. The second part explains how this applies to health insurance under the Affordable Care Act.",
+      "text": "This law is called the No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of two thousand twenty-five. The law has two main parts. Title One stops the federal government from using tax money to pay for abortions. Title Two explains how this applies to the Affordable Care Act, including rules about premium credits and requirements to tell people about abortion coverage.",
       "word_offset": 0,
       "char_offset": 0
     },
@@ -66,33 +66,33 @@
       "id": "s2",
       "slug": "section-101-prohibiting-taxpayer-funded-abortions",
       "title": "Section 101 Prohibiting Taxpayer Funded Abortions",
-      "text": "This section adds a new chapter to the United States Code that creates rules about using government money for abortions. No money that comes from federal taxes or federal programs can be spent on abortions. No federal money can be spent on health insurance plans that cover abortions. Federal hospitals and doctors who work for the government cannot perform abortions as part of their job. People and states can still buy separate abortion coverage with their own private money, but they cannot use any federal matching funds. This law does not change other existing federal laws about abortion funding. Federal money can be used to treat medical problems that happen because of an abortion. There are exceptions that allow federal money to be used for abortions when the pregnancy resulted from rape or incest, or when the mother's life is in danger. These rules also apply to Washington DC.",
-      "word_offset": 51,
-      "char_offset": 301
+      "text": "This section adds a new chapter to federal law called Prohibiting Taxpayer Funded Abortions. Section three hundred one says no federal money can be spent on any abortion. Section three hundred two says no federal money can be spent on health insurance plans that cover abortions. Section three hundred three says federal hospitals and federal government doctors cannot perform abortions. Section three hundred four says people, organizations, states, and cities can still buy separate abortion coverage using only their own money, not federal money. Section three hundred five says private insurance companies can still offer abortion coverage as long as only private money pays for it. Section three hundred six says this new law does not change any other federal laws that already limit abortion funding. Section three hundred seven says this law does not apply to treating medical problems caused by abortions. Section three hundred eight says the ban on federal funding does not apply to abortions when the pregnancy was caused by rape or incest, or when the woman's life is in danger. Section three hundred nine says these rules also apply to Washington D.C.",
+      "word_offset": 64,
+      "char_offset": 397
     },
     {
       "id": "s3",
       "slug": "section-102-amendment-to-table-of-chapters",
       "title": "Section 102 Amendment to Table of Chapters",
-      "text": "This section updates the official list of chapters in the United States Code to include the new chapter about prohibiting taxpayer funded abortions.",
-      "word_offset": 200,
-      "char_offset": 1194
+      "text": "This section adds the new chapter about prohibiting taxpayer funded abortions to the official list of chapters in federal law.",
+      "word_offset": 251,
+      "char_offset": 1561
     },
     {
       "id": "s4",
       "slug": "section-201-clarifying-application-of-prohibition-to-premium-credits-and-cost-sharing-reductions-under-aca",
-      "title": "Section 201 Clarifying Application of Prohibition to Premium Credits and Cost-Sharing Reductions Under ACA",
-      "text": "This section changes tax rules in the Affordable Care Act. People cannot get tax credits or cost-sharing help from the government to pay for health insurance plans that cover abortions, except for cases involving rape, incest, or when the mother's life is in danger. People can still buy separate abortion coverage with their own money, but they cannot get government help to pay for it. Small businesses also cannot get tax credits for health insurance plans that cover abortions. Insurance companies can still offer separate abortion coverage, but employers cannot use tax credits to help pay for it. These changes apply to health plans that start after December 31, 2025. The rules also apply to multi-state health plans offered through government exchanges, which cannot provide abortion coverage that would be paid for with federal money.",
-      "word_offset": 223,
-      "char_offset": 1343
+      "title": "Section 201 Clarifying Application of Prohibition to Premium Credits and Cost-sharing Reductions Under ACA",
+      "text": "This section changes tax law to say people cannot get government help paying for health insurance if their plan covers abortions, except for cases of rape, incest, or danger to the mother's life. People can still buy separate abortion coverage with their own money, but the government will not help pay for it. Insurance companies can still offer these separate plans, but no government money can be used. The section also says small businesses cannot get tax credits for health plans that cover abortions, but they can buy separate abortion coverage for their workers using only their own money. These changes apply to tax years ending after December thirty-first, two thousand twenty-five. The rules also apply to multi-state health plans sold on government insurance exchanges.",
+      "word_offset": 271,
+      "char_offset": 1688
     },
     {
       "id": "s5",
       "slug": "section-202-revision-of-notice-requirements-regarding-disclosure-of-extent-of-health-plan-coverage-of-abortion-and-abortion-premium-surcharges",
       "title": "Section 202 Revision of Notice Requirements Regarding Disclosure of Extent of Health Plan Coverage of Abortion and Abortion Premium Surcharges",
-      "text": "This section requires health insurance plans to clearly tell customers whether they cover abortion services. This information must be shown when people sign up for insurance and must be easy to see in all advertising materials, comparison tools, and benefit summaries. If a health plan covers abortions and charges an extra fee for that coverage, that extra charge must be listed separately and clearly identified in all materials where the premium cost is shown. These new disclosure rules start thirty days after this law is passed.",
-      "word_offset": 358,
-      "char_offset": 2187
+      "text": "This section requires health insurance plans to clearly tell people about any abortion coverage when they sign up. The information must be easy to see in all advertising materials, comparison tools, and benefit summaries. If a health plan covers abortions and charges extra for this coverage, the plan must show this extra charge separately and clearly identify it. These new disclosure rules take effect thirty days after this law is passed.",
+      "word_offset": 396,
+      "char_offset": 2469
     }
   ]
 }

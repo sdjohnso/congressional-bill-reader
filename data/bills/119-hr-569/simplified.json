@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "ef2c2cfb19abb686",
-  "last_updated": "2026-03-20T13:13:33.343521+00:00",
-  "plain_summary": "This bill would change who automatically becomes a U.S. citizen when born in America. Under the new law, babies born in the United States would only become citizens if at least one parent is already a U.S. citizen, a legal permanent resident, or someone serving in the U.S. military. Right now, almost all babies born in America automatically become citizens regardless of their parents' status. The change would only apply to people born after the law goes into effect, so it would not affect anyone who has already been born.",
+  "last_updated": "2026-03-25T13:32:40.803767+00:00",
+  "plain_summary": "This bill changes the rules for who automatically becomes a US citizen when they are born in America. Under the new rules, a baby born in the US would only become a citizen if at least one parent is a US citizen, a legal permanent resident, or a non-citizen legally serving in the military. Right now, almost all babies born in the US automatically become citizens regardless of their parents' status. The new rules would not change the citizenship of anyone who was already born before this law takes effect.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-21",
   "last_action_date": "2025-01-21",
@@ -23,21 +23,21 @@
   "sponsor_name": "Rep. Babin, Brian [R-TX-36]",
   "sponsor_party": "R",
   "sponsor_state": "TX",
-  "cosponsor_count": 81,
+  "cosponsor_count": 82,
   "crs_summary_available": true,
   "plain_keywords": [
     "birthright citizenship",
+    "babies born in America",
     "automatic citizenship",
-    "born in America citizenship",
-    "citizenship for babies",
-    "immigrant children citizenship",
-    "anchor babies",
-    "14th amendment citizenship",
-    "citizenship requirements",
-    "parent citizenship status",
+    "citizenship rules",
     "born in US citizen",
-    "citizenship law changes",
-    "immigration citizenship rules"
+    "parent citizenship requirements",
+    "immigration citizenship law",
+    "who becomes US citizen",
+    "birth citizenship changes",
+    "citizen by birth",
+    "newborn citizenship",
+    "immigration reform"
   ],
   "sections": [
     {
@@ -52,7 +52,7 @@
       "id": "s2",
       "slug": "section-2-citizenship-at-birth-for-certain-persons-born-in-the-united-states",
       "title": "Section 2  Citizenship at Birth for Certain Persons Born in the United States",
-      "text": "This section changes the Immigration and Nationality Act to add new rules about who becomes a US citizen when born in America. The law recognizes that the Fourteenth Amendment to the Constitution gives birthright citizenship. However, it adds that a person born in the United States is only considered under US legal control if at least one parent meets certain requirements. The parent must be either a US citizen, a legal permanent resident living in the US, or a non-citizen with legal status who is actively serving in the US military. The military service definition comes from title ten of the United States Code. These new rules will not change the citizenship status of anyone who was born before this law goes into effect.",
+      "text": "This section changes the Immigration and Nationality Act, which is the main law that decides who becomes a US citizen. The changes add new rules about when babies born in the United States automatically become citizens. The law recognizes that the Fourteenth Amendment to the Constitution gives birthright citizenship, which means people born here are usually citizens. However, this bill says that to be considered under US legal control for citizenship purposes, a baby born in the United States must have at least one parent who fits one of these descriptions. The parent must be a US citizen or US national. Or the parent must be a legal permanent resident who lives in the United States. Or the parent must be a non-citizen with legal status who is actively serving in the US military. These changes will not affect anyone who was already born before this law takes effect. Those people keep whatever citizenship status they already have.",
       "word_offset": 14,
       "char_offset": 83
     }
