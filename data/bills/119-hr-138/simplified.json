@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "f0bbc9449639af4c",
-  "last_updated": "2026-03-25T13:32:25.781577+00:00",
-  "plain_summary": "This bill makes it easier for people to help pay for their parents' medical bills. Starting in 2025, workers can use money from their special health savings accounts and workplace health programs to cover their parents' healthcare costs. Before this law, people had to pay extra taxes if they used this money for their parents' medical expenses. Now they won't have to pay those extra taxes, which will save money for families who are taking care of their aging parents.",
+  "last_updated": "2026-03-26T13:47:04.877758+00:00",
+  "plain_summary": "This bill makes it easier for people to help pay for their parents' medical bills. Starting in 2025, people can use money from special tax-free health accounts to cover their parents' healthcare costs. These accounts include Health Savings Accounts and other workplace health programs that many people already have. This change will help families take better care of their aging parents without paying extra taxes on the money they use for medical expenses.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-03",
   "last_action_date": "2025-01-03",
@@ -29,25 +29,25 @@
   "sponsor_name": "Rep. Buchanan, Vern [R-FL-16]",
   "sponsor_party": "R",
   "sponsor_state": "FL",
-  "cosponsor_count": 18,
+  "cosponsor_count": 19,
   "crs_summary_available": false,
   "plain_keywords": [
     "pay for parents medical bills",
     "health savings account for parents",
-    "tax free money for parents healthcare",
+    "tax free money for parent healthcare",
     "help aging parents with medical costs",
-    "workplace health benefits for family",
-    "caregivers tax relief",
-    "adult children paying parents medical expenses",
-    "family healthcare tax breaks",
-    "taking care of elderly parents costs",
-    "health insurance money for parents"
+    "family caregiver expenses",
+    "use HSA for parents",
+    "adult children paying parent medical bills",
+    "tax benefits for parent care",
+    "family healthcare costs",
+    "caring for elderly parents expenses"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1 Short Title",
+      "title": "Section 1. Short Title",
       "text": "This law can be called the Lowering Costs for Caregivers Act of two thousand twenty five.",
       "word_offset": 0,
       "char_offset": 0
@@ -55,26 +55,26 @@
     {
       "id": "s2",
       "slug": "section-2-health-savings-accounts",
-      "title": "Section 2 Health Savings Accounts",
-      "text": "This section changes the rules for Health Savings Accounts. A Health Savings Account is a special bank account that lets people save money tax-free for medical expenses. Right now, people can use money from these accounts to pay for medical care for themselves and their spouse. This law adds parents to that list. Starting after December thirty first two thousand twenty four, people can also use their Health Savings Account money to pay for medical care for their parents or their spouse's parents.",
+      "title": "Section 2. Health Savings Accounts",
+      "text": "This section changes the tax rules for Health Savings Accounts (special bank accounts that let people save money tax-free for medical expenses). Currently, people can only use money from these accounts to pay for medical expenses for themselves, their spouse, and their children. This law adds parents to that list. Now people can also use money from their Health Savings Account to pay for medical expenses for their own parents or their spouse's parents. This change applies to money spent after December thirty first, two thousand twenty four.",
       "word_offset": 16,
       "char_offset": 90
     },
     {
       "id": "s3",
       "slug": "section-3-flexible-spending-and-health-reimbursement-arrangements",
-      "title": "Section 3 Flexible Spending and Health Reimbursement Arrangements",
-      "text": "This section changes the rules for two types of workplace health benefit programs. Flexible Spending Arrangements let workers set aside money from their paychecks before taxes to pay for medical expenses. Health Reimbursement Arrangements are accounts that employers fund to help workers pay for medical costs. Right now, these programs mainly cover the worker and their family members. This law says that these programs can also be used to pay for medical care for the worker's parents or their spouse's parents. Workers will not have to pay extra taxes when they use this money for their parents' medical care. This change applies to medical expenses that happen after December thirty first two thousand twenty four.",
-      "word_offset": 99,
-      "char_offset": 592
+      "title": "Section 3. Flexible Spending and Health Reimbursement Arrangements",
+      "text": "This section changes the tax rules for two types of employer benefit programs. Flexible Spending Arrangements let workers set aside money from their paychecks before taxes to pay for medical expenses. Health Reimbursement Arrangements let employers give workers money to pay for medical expenses. Currently, these programs can only be used to pay for medical expenses for the worker, their spouse, and their children. This law adds parents to that list. Now workers can also use money from these programs to pay for medical expenses for their own parents or their spouse's parents. The money used for parents' medical expenses will not count as taxable income. This change applies to medical expenses that happen after December thirty first, two thousand twenty four.",
+      "word_offset": 104,
+      "char_offset": 637
     },
     {
       "id": "s4",
       "slug": "section-4-archer-msas",
-      "title": "Section 4 Archer MSAs",
-      "text": "This section changes the rules for Archer Medical Savings Accounts. These are older types of health savings accounts that are similar to Health Savings Accounts but were created earlier and have different rules. Just like with Health Savings Accounts, this law allows people to use money from their Archer Medical Savings Account to pay for medical care for their parents or their spouse's parents. This change applies to money paid for medical care after December thirty first two thousand twenty four.",
-      "word_offset": 214,
-      "char_offset": 1311
+      "title": "Section 4. Archer MSAs",
+      "text": "This section changes the tax rules for Archer Medical Savings Accounts (an older type of special savings account for medical expenses that is no longer available to new users). Currently, people can only use money from these accounts to pay for medical expenses for themselves, their spouse, and their children. This law adds parents to that list. Now people can also use money from their Archer Medical Savings Account to pay for medical expenses for their own parents or their spouse's parents. This change applies to money spent after December thirty first, two thousand twenty four.",
+      "word_offset": 226,
+      "char_offset": 1405
     }
   ]
 }
