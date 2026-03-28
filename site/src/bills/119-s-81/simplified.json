@@ -8,8 +8,8 @@
   "stage": "committee_reported",
   "stage_label": "Passed Committee",
   "version_hash": "40af226bfb019589",
-  "last_updated": "2026-03-20T14:39:50.140237+00:00",
-  "plain_summary": "The Guidance Clarity Act of 2025 requires all federal agencies to put a clear warning on their guidance documents. The warning must be placed on the first page of every guidance document. It must tell people that the guidance is not a law and cannot force anyone to do anything. The warning also must explain that the guidance only helps people understand existing laws and agency rules. This helps make sure people know the difference between real laws and guidance that just explains those laws.",
+  "last_updated": "2026-03-28T01:23:36.417916+00:00",
+  "plain_summary": "This law makes federal agencies put a warning on their guidance documents. The warning must say that the guidance is not a law and cannot be enforced like a law. It also must say that the guidance is only meant to help people understand rules that already exist. The warning has to go on the first page of these documents. This helps people know the difference between real laws and helpful guidance.",
   "current_status": "committee_reported",
   "status_date": "2025-11-03",
   "last_action_date": "2025-11-03",
@@ -29,32 +29,34 @@
   "cosponsor_count": 2,
   "crs_summary_available": true,
   "plain_keywords": [
-    "government guidance warning",
-    "federal agency documents",
-    "guidance not law",
-    "agency rules explanation",
-    "government document labels",
-    "federal guidance clarity",
-    "agency advice disclaimer",
+    "federal agency guidance",
+    "government warnings",
+    "guidance documents",
+    "agency rules",
+    "federal guidance labels",
+    "government document warnings",
+    "agency guidance clarity",
+    "federal rule guidance",
     "government guidance vs law",
-    "federal document warnings",
-    "agency guidance requirements"
+    "agency document labels",
+    "federal guidance requirements",
+    "government guidance notifications"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1 Short Title",
-      "text": "This law can be called the Guidance Clarity Act of two thousand twenty five.",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Guidance Clarity Act of two thousand twenty-five.",
       "word_offset": 0,
       "char_offset": 0
     },
     {
       "id": "s2",
       "slug": "section-2-guidance-clarity-statement-required",
-      "title": "Section 2 Guidance Clarity Statement Required",
-      "text": "Starting thirty days after the Office of Management and Budget creates instructions for how to follow this law, all federal agencies must add a clear warning statement to their guidance documents. Federal agencies are government departments and offices that make rules and provide services to the public. Guidance documents are papers that explain how agencies interpret laws and rules, but they are not laws themselves. The warning statement must be placed prominently on the first page of every guidance document. The statement must say exactly this: The contents of this document do not have the force and effect of law and do not, of themselves, bind the public or the agency. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies. Within ninety days of this law being passed, the Director of the Office of Management and Budget must create instructions for how agencies should follow this new requirement. The Office of Management and Budget is a government office that helps the President manage how federal agencies work.",
-      "word_offset": 14,
+      "title": "Section 2  Guidance Clarity Statement Required",
+      "text": "Starting thirty days after the Office of Management and Budget (the government office that helps the President manage federal agencies) creates instructions for this law, all federal agencies must add a clear statement to certain guidance documents they create. This guidance clarity statement must be placed prominently on the first page of the document. The statement must say exactly this: The contents of this document do not have the force and effect of law and do not, of themselves, bind the public or the agency. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies. The Office of Management and Budget must create instructions for how agencies should follow this law within ninety days after this law is passed.",
+      "word_offset": 13,
       "char_offset": 77
     }
   ]
