@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "7ec5ac2f05ee83c3",
-  "last_updated": "2026-03-27T13:24:41.135327+00:00",
-  "plain_summary": "The Equal COLA Act changes how cost-of-living adjustments work for federal workers under the Federal Employees Retirement System. Right now, these workers get smaller yearly increases than the actual inflation rate when prices go up a lot. This bill fixes that unfairness by making sure all federal retirees get the full inflation increase every year, no matter how high inflation gets. This means workers under both federal retirement systems will be treated the same way when their benefits are adjusted for rising costs.",
+  "last_updated": "2026-03-28T13:11:41.771802+00:00",
+  "plain_summary": "This bill changes how much extra money retired federal workers get each year to help with rising costs. Right now, workers in the Federal Employees Retirement System get less money than the full amount that prices go up. The bill would give these workers the same full cost of living increases that workers in the older Civil Service Retirement System already get. This means their retirement payments would go up by the same amount that things like food and gas get more expensive each year.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-16",
   "last_action_date": "2025-09-16",
@@ -26,26 +26,26 @@
   "sponsor_name": "Rep. Connolly, Gerald E. [D-VA-11]",
   "sponsor_party": "D",
   "sponsor_state": "VA",
-  "cosponsor_count": 73,
+  "cosponsor_count": 74,
   "crs_summary_available": true,
   "plain_keywords": [
     "federal employee retirement",
-    "government worker benefits",
-    "cost of living increases",
-    "inflation adjustments",
-    "federal retiree pay",
-    "government pension fairness",
-    "retirement cost of living",
-    "federal worker inflation",
-    "government employee cola",
-    "federal retirement equality"
+    "cost of living increase",
+    "retired government workers",
+    "FERS benefits",
+    "federal pension payments",
+    "inflation adjustment",
+    "government retiree pay",
+    "federal worker retirement money",
+    "rising costs for retirees",
+    "equal retirement benefits"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
       "title": "Section 1  Short Title",
-      "text": "This law can be called the Equal COLA Act. COLA stands for cost-of-living adjustment, which means extra money added to retirement payments when prices go up.",
+      "text": "This law can be called the Equal COLA Act.",
       "word_offset": 0,
       "char_offset": 0
     },
@@ -53,9 +53,9 @@
       "id": "s2",
       "slug": "section-2-increase-in-cola-for-fers-annuities",
       "title": "Section 2  Increase in COLA for FERS Annuities",
-      "text": "This section changes the rules for how much extra money federal workers get added to their retirement payments each year to help with rising costs. Right now, workers under two different retirement systems get different amounts of help. This law makes it so workers under the Federal Employees Retirement System get the same cost-of-living increases as workers under the Civil Service Retirement System. Starting each December first, retirement payments will go up by the same percentage that prices have gone up during the year. The increase will be rounded to the nearest tenth of one percent. These new rules will apply to all cost-of-living adjustments made after this law passes. They will also apply to all retirement payments, whether they started before, on, or after this law takes effect.",
-      "word_offset": 26,
-      "char_offset": 158
+      "text": "This section changes how cost of living adjustments work for federal workers in the Federal Employees Retirement System. Starting on December first of each year, retirement payments from this system will go up by the same amount that prices have gone up. The increase will be based on comparing prices from the current year to prices from the previous year when an adjustment was last made. The increase will be rounded to the nearest one tenth of one percent. This new rule applies to all cost of living adjustments made after this law is passed. It also applies to all retirement payments under this system, whether they started before, on, or after this law takes effect.",
+      "word_offset": 9,
+      "char_offset": 43
     }
   ]
 }

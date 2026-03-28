@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "1d35bc76f193ca60",
-  "last_updated": "2026-03-27T13:25:12.652405+00:00",
-  "plain_summary": "This bill makes changes to a tax credit that helps railroad companies pay for fixing their tracks. Right now, companies can get up to $3,500 per mile of track they own or lease, but this bill increases that amount to $6,100 per mile. Starting in 2026, this credit amount will go up each year to keep up with inflation. The bill also lets companies use this tax credit for tracks they got as late as 2024, instead of only tracks they had before 2015. These changes will start for taxes filed in 2025.",
+  "last_updated": "2026-03-28T13:12:20.092432+00:00",
+  "plain_summary": "This bill makes changes to a tax credit that helps railroad companies pay for fixing and maintaining their train tracks. The tax credit amount goes up from $3,500 to $6,100 for each mile of track a company owns or uses. Starting in 2026, this amount will automatically go up each year to keep up with rising prices. The bill also lets more railroad companies qualify for this tax credit by including tracks they owned as of 2024 instead of just tracks from 2015. These changes start for expenses made in 2025.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-16",
   "last_action_date": "2025-01-16",
@@ -23,26 +23,26 @@
   "sponsor_name": "Rep. Kelly, Mike [R-PA-16]",
   "sponsor_party": "R",
   "sponsor_state": "PA",
-  "cosponsor_count": 158,
+  "cosponsor_count": 159,
   "crs_summary_available": true,
   "plain_keywords": [
     "railroad tax credit",
-    "train track repair money",
-    "railway maintenance funding",
+    "train track maintenance",
     "railroad company tax break",
-    "train track fix credit",
-    "railway repair tax help",
-    "railroad maintenance incentive",
-    "train infrastructure tax credit",
-    "railway track funding",
-    "railroad repair subsidy"
+    "track repair costs",
+    "railroad infrastructure",
+    "train track funding",
+    "railway maintenance credit",
+    "railroad tax incentive",
+    "track upkeep expenses",
+    "train company tax relief"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-modification-of-railroad-track-maintenance-credit",
       "title": "Section 1  Modification of Railroad Track Maintenance Credit",
-      "text": "This section changes the tax credit that railroad companies can claim for maintaining their tracks. First, it increases the credit amount from three thousand five hundred dollars to six thousand one hundred dollars per mile of track maintained. Second, it adds a rule that starting in tax year twenty twenty six, this six thousand one hundred dollar amount will go up each year based on inflation. The inflation adjustment will use the same method the tax code uses for other amounts, comparing costs to the year twenty twenty four. Any increase that is not an even multiple of one hundred dollars will be rounded to the nearest hundred dollars. Third, it updates the date that determines which track maintenance costs qualify for the credit from January first two thousand fifteen to January first two thousand twenty four. These changes will apply to money spent on track maintenance in tax years that begin after December thirty first two thousand twenty four.",
+      "text": "This section changes the tax credit that railroad companies can claim for maintaining their tracks. First, it increases the credit amount from three thousand five hundred dollars to six thousand one hundred dollars per mile of track maintained. Second, it adds a rule that starting in twenty twenty six, this six thousand one hundred dollar amount will go up each year based on inflation. The inflation increase will be calculated using the same method the government uses for other tax adjustments, starting from twenty twenty four as the base year. Any inflation increase that is not a round one hundred dollar amount will be rounded to the nearest one hundred dollars. Third, it updates the definition of qualified railroad track maintenance spending by changing the starting date from January first, two thousand fifteen to January first, two thousand twenty four. All of these changes apply to money spent on track maintenance in tax years that begin after December thirty first, two thousand twenty four.",
       "word_offset": 0,
       "char_offset": 0
     }

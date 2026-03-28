@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "9b30632389241574",
-  "last_updated": "2026-03-21T13:06:54.390717+00:00",
-  "plain_summary": "This bill would change the rules for buying silencers, which are devices that make guns quieter. Right now, people have to pay extra taxes and fill out lots of paperwork to buy a silencer, but this bill would get rid of those requirements. Instead, buying a silencer would work just like buying a regular gun, with only a ten percent sales tax added. The government would also have to destroy the records they keep about silencers that people already own. States would not be allowed to make their own registration systems for silencers.",
+  "last_updated": "2026-03-28T13:12:06.670617+00:00",
+  "plain_summary": "This bill would make it easier to buy firearm silencers by removing special federal taxes and registration rules that currently apply to them. Instead of the current system, silencers would be treated more like regular guns when people buy them. The government would have to destroy records they currently keep about silencer owners. States would not be allowed to create their own special taxes or registration rules for silencers, but there would be a new ten percent tax when silencers are made.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-15",
   "last_action_date": "2025-01-15",
@@ -23,25 +23,26 @@
   "sponsor_name": "Rep. Cline, Ben [R-VA-6]",
   "sponsor_party": "R",
   "sponsor_state": "VA",
-  "cosponsor_count": 116,
+  "cosponsor_count": 117,
   "crs_summary_available": false,
   "plain_keywords": [
     "gun silencers",
     "firearm suppressors",
-    "gun noise reduction",
-    "silencer taxes",
-    "gun accessory laws",
-    "firearm registration",
-    "gun paperwork requirements",
+    "silencer tax removal",
+    "gun accessory rules",
+    "silencer registration",
+    "firearm noise reduction",
+    "gun silencer laws",
     "silencer purchase rules",
-    "gun sound dampeners",
-    "firearm tax changes"
+    "firearm sound suppressors",
+    "gun mufflers",
+    "silencer federal tax"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1  Short Title",
+      "title": "Section 1 Short Title",
       "text": "This law can be called the Hearing Protection Act.",
       "word_offset": 0,
       "char_offset": 0
@@ -49,50 +50,50 @@
     {
       "id": "s2",
       "slug": "section-2-equal-treatment-of-silencers-and-firearms",
-      "title": "Section 2  Equal Treatment of Silencers and Firearms",
-      "text": "This section changes the tax law to remove silencers from the list of items that require special federal taxes and paperwork. Silencers are devices that reduce the noise when a gun is fired. Right now, silencers are treated the same as machine guns and other heavily regulated weapons under federal tax law. This change would make silencers subject to the same rules as regular guns instead. The new rules would start ninety days after this law is passed.",
+      "title": "Section 2 Equal Treatment of Silencers and Firearms",
+      "text": "This section changes the tax code so that silencers are no longer treated as special firearms that need extra paperwork and taxes. It removes silencers from a list of weapons that have strict rules. This change will start ninety days after this law is passed.",
       "word_offset": 9,
       "char_offset": 51
     },
     {
       "id": "s3",
       "slug": "section-3-treatment-of-certain-silencers",
-      "title": "Section 3  Treatment of Certain Silencers",
-      "text": "This section says that if someone gets or owns a silencer following the regular federal gun laws, they automatically meet any registration and licensing requirements under the National Firearms Act. The National Firearms Act is the law that currently requires special paperwork and taxes for certain weapons. This means people would not need to do the extra paperwork that is currently required for silencers.",
-      "word_offset": 87,
-      "char_offset": 507
+      "title": "Section 3 Treatment of Certain Silencers",
+      "text": "If someone gets or owns a firearm silencer following the regular gun laws in Chapter forty-four of Title eighteen of the United States Code, they will be considered to have met all the registration and licensing requirements of the National Firearms Act for that silencer. This means they do not need to do extra paperwork just for the silencer.",
+      "word_offset": 54,
+      "char_offset": 311
     },
     {
       "id": "s4",
       "slug": "section-4-preemption-of-certain-state-laws-in-relation-to-firearm-silencers",
-      "title": "Section 4  Preemption of Certain State Laws in Relation to Firearm Silencers",
-      "text": "This section stops state and local governments from creating their own special taxes, record keeping requirements, or registration systems for silencers. States can still charge regular sales tax on silencers like they do for other products. However, states cannot create special silencer taxes or require people to register silencers with the state if those silencers are being made, sold, used, owned, or moved between states or to other countries.",
-      "word_offset": 151,
-      "char_offset": 917
+      "title": "Section 4 Preemption of Certain State Laws in Relation to Firearm Silencers",
+      "text": "States and local governments cannot make laws that put special taxes on firearm silencers beyond normal sales taxes. They also cannot make laws requiring special marking, record keeping, or registration for silencers when those silencers are being made, sold, used, owned, or moved across state lines or to other countries. These state and local laws will have no power.",
+      "word_offset": 113,
+      "char_offset": 657
     },
     {
       "id": "s5",
       "slug": "section-5-destruction-of-records",
-      "title": "Section 5  Destruction of Records",
-      "text": "Within one year after this law passes, the Attorney General must destroy all government records about silencers. This includes any registration records for silencers in the National Firearms Registration and Transfer Record, any applications to transfer silencers to new owners, and any applications to make silencers. The National Firearms Registration and Transfer Record is the government database that tracks certain regulated weapons.",
-      "word_offset": 220,
-      "char_offset": 1368
+      "title": "Section 5 Destruction of Records",
+      "text": "Within one year after this law is passed, the Attorney General must destroy all government records about silencers. This includes any registration records for silencers kept in the National Firearms Registration and Transfer Record, any applications to transfer silencers, and any applications to make silencers.",
+      "word_offset": 172,
+      "char_offset": 1028
     },
     {
       "id": "s6",
       "slug": "section-6-amendments-to-title-18-united-states-code",
-      "title": "Section 6  Amendments to Title 18 United States Code",
-      "text": "This section changes federal gun laws to include silencers and mufflers as types of firearms that can be sold to adults. It creates a clear definition of what counts as a firearm silencer or muffler. These devices are designed to make guns quieter when fired and can be attached directly to the gun or through adapters. The section also requires that silencers and mufflers have serial numbers marked on their main housing or structure, just like regular guns do. If marking the main part is not practical, manufacturers can ask the Attorney General for permission to mark it somewhere else. The section treats silencers and mufflers the same as regular guns when it comes to age restrictions for sales.",
-      "word_offset": 282,
-      "char_offset": 1808
+      "title": "Section 6 Amendments to Title Eighteen United States Code",
+      "text": "This section updates the definitions and rules for firearm silencers and firearm mufflers in federal gun laws. It defines these devices as anything designed to make guns quieter when fired and that can attach to a gun directly or through mounting equipment. The section also requires gun dealers to follow the same age rules for selling silencers as they do for rifles and shotguns. For marking requirements, silencers must have serial numbers engraved on their main housing, but manufacturers can ask for permission to mark them differently if the normal way is not practical.",
+      "word_offset": 217,
+      "char_offset": 1341
     },
     {
       "id": "s7",
       "slug": "section-7-imposition-of-tax-on-firearm-silencers-or-firearm-mufflers",
-      "title": "Section 7  Imposition of Tax on Firearm Silencers or Firearm Mufflers",
-      "text": "This section creates a new ten percent tax on silencers and mufflers when they are sold by manufacturers. This is similar to the tax already placed on other gun equipment. The tax applies to any device designed to make portable guns quieter. The new tax rules start ninety days after this law is passed. This section also updates other tax rules to include silencers and mufflers in the same category as other firearms equipment.",
-      "word_offset": 401,
-      "char_offset": 2512
+      "title": "Section 7 Imposition of Tax on Firearm Silencers or Firearm Mufflers",
+      "text": "This section adds firearm silencers and firearm mufflers to a list of items that have a ten percent tax when sold by manufacturers. It defines these devices as anything that makes guns quieter when fired. The section also updates other tax rules to include silencers and mufflers with other firearms and ammunition that are taxed. These tax changes will begin ninety days after this law is passed.",
+      "word_offset": 311,
+      "char_offset": 1919
     }
   ]
 }
