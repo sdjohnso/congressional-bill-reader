@@ -8,8 +8,8 @@
   "stage": "committee_reported",
   "stage_label": "Passed Committee",
   "version_hash": "40af226bfb019589",
-  "last_updated": "2026-03-28T01:23:36.417916+00:00",
-  "plain_summary": "This law makes federal agencies put a warning on their guidance documents. The warning must say that the guidance is not a law and cannot be enforced like a law. It also must say that the guidance is only meant to help people understand rules that already exist. The warning has to go on the first page of these documents. This helps people know the difference between real laws and helpful guidance.",
+  "last_updated": "2026-03-31T13:53:38.441295+00:00",
+  "plain_summary": "This bill makes all government agencies add a warning message to the first page of their guidance documents. The warning must tell people that the guidance is not a real law and cannot be enforced like a law. It also must explain that the guidance is only meant to help people better understand rules that already exist. This way, people will know that guidance documents are just helpful explanations, not new laws they have to follow.",
   "current_status": "committee_reported",
   "status_date": "2025-11-03",
   "last_action_date": "2025-11-03",
@@ -29,24 +29,24 @@
   "cosponsor_count": 2,
   "crs_summary_available": true,
   "plain_keywords": [
-    "federal agency guidance",
-    "government warnings",
-    "guidance documents",
-    "agency rules",
-    "federal guidance labels",
-    "government document warnings",
-    "agency guidance clarity",
-    "federal rule guidance",
-    "government guidance vs law",
-    "agency document labels",
-    "federal guidance requirements",
-    "government guidance notifications"
+    "government guidance warning",
+    "agency documents not laws",
+    "government advice vs rules",
+    "federal guidance disclaimers",
+    "government help documents",
+    "agency guidance enforcement",
+    "government explanations not binding",
+    "federal agency warnings",
+    "government document labels",
+    "agency advice legal status",
+    "government guidance clarity",
+    "federal document warnings"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1  Short Title",
+      "title": "Section 1 Short Title",
       "text": "This law can be called the Guidance Clarity Act of two thousand twenty-five.",
       "word_offset": 0,
       "char_offset": 0
@@ -54,8 +54,8 @@
     {
       "id": "s2",
       "slug": "section-2-guidance-clarity-statement-required",
-      "title": "Section 2  Guidance Clarity Statement Required",
-      "text": "Starting thirty days after the Office of Management and Budget (the government office that helps the President manage federal agencies) creates instructions for this law, all federal agencies must add a clear statement to certain guidance documents they create. This guidance clarity statement must be placed prominently on the first page of the document. The statement must say exactly this: The contents of this document do not have the force and effect of law and do not, of themselves, bind the public or the agency. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies. The Office of Management and Budget must create instructions for how agencies should follow this law within ninety days after this law is passed.",
+      "title": "Section 2 Guidance Clarity Statement Required",
+      "text": "Starting thirty days after the Office of Management and Budget creates instructions for this law, all government agencies must add a special statement to their guidance documents. This statement must be placed clearly on the first page of any guidance document the agency creates. The statement must say exactly this: The contents of this document do not have the force and effect of law and do not, of themselves, bind the public or the agency. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies. Within ninety days after this law is passed, the Director of the Office of Management and Budget must create instructions to help agencies follow this law.",
       "word_offset": 13,
       "char_offset": 77
     }

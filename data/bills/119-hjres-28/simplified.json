@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "1a1795589cc63173",
-  "last_updated": "2026-03-20T10:48:24.325857+00:00",
-  "plain_summary": "This bill wants to change the Constitution to make sure the Supreme Court always has exactly nine judges. Right now, the Constitution doesn't say how many judges the Supreme Court must have. To make this change happen, two-thirds of both parts of Congress and three-fourths of all the states would have to agree. The states would have seven years to decide if they want this change.",
+  "last_updated": "2026-03-31T13:51:45.934131+00:00",
+  "plain_summary": "This bill wants to change the Constitution to make sure the Supreme Court always has exactly nine judges. Right now, the Constitution doesn't say how many judges should be on the Supreme Court, so Congress could change that number if they wanted to. This new rule would lock in nine judges forever. To make this change, two-thirds of Congress and three-fourths of all the states would have to agree to it.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-22",
   "last_action_date": "2025-01-22",
@@ -27,26 +27,26 @@
   "sponsor_name": "Rep. Johnson, Dusty [R-SD-At Large]",
   "sponsor_party": "R",
   "sponsor_state": "SD",
-  "cosponsor_count": 103,
+  "cosponsor_count": 104,
   "crs_summary_available": true,
   "plain_keywords": [
-    "Supreme Court judges",
+    "Supreme Court",
     "nine justices",
+    "constitutional amendment",
     "court packing",
     "Supreme Court size",
-    "constitutional amendment",
-    "Supreme Court reform",
-    "fixing number of judges",
+    "number of judges",
+    "court reform",
     "Supreme Court expansion",
-    "nine Supreme Court justices",
-    "Constitution change Supreme Court"
+    "judicial branch",
+    "Constitution change"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "joint-resolution",
       "title": "Joint Resolution",
-      "text": "This joint resolution proposes to change the United States Constitution. It requires both the Senate and House of Representatives to approve it by a two-thirds vote in each chamber. The proposed change would become part of the Constitution only if the legislatures of three-fourths of all states approve it within seven years after Congress submits it to them. The amendment would add one simple rule to the Constitution: The Supreme Court of the United States must have exactly nine justices.",
+      "text": "This joint resolution proposes an amendment to the United States Constitution. The amendment would require the Supreme Court to always have exactly nine justices. For this amendment to become part of the Constitution, it must be approved by two-thirds of both the Senate and House of Representatives. Then it must be approved by the legislatures of three-fourths of all the states within seven years of being submitted to them for approval.",
       "word_offset": 0,
       "char_offset": 0
     }
