@@ -8,8 +8,8 @@
   "stage": "committee_reported",
   "stage_label": "Passed Committee",
   "version_hash": "51df5ea289cd41e9",
-  "last_updated": "2026-03-20T11:00:04.480534+00:00",
-  "plain_summary": "This bill makes government agencies do more careful studies before creating expensive new rules that cost at least one hundred million dollars each year. The agencies must talk with private businesses and small companies before making these rules. They also have to pick the option that helps people the most. If agencies don't follow these rules, people can take them to court.",
+  "last_updated": "2026-03-31T01:32:14.668171+00:00",
+  "plain_summary": "This bill makes government agencies do more homework before creating new rules that cost a lot of money or affect many people. Agencies must study how much their new rules will cost and ask businesses and other groups what they think about the changes. A special government office will watch over this process to make sure agencies follow the rules. If agencies don't do their homework properly, courts can step in and make them fix their mistakes.",
   "current_status": "committee_reported",
   "status_date": "2026-01-13",
   "last_action_date": "2026-01-13",
@@ -44,25 +44,23 @@
   "cosponsor_count": 4,
   "crs_summary_available": false,
   "plain_keywords": [
-    "government rules cost study",
-    "expensive regulations review",
-    "business input new rules",
-    "small company consultation",
-    "hundred million dollar rules",
+    "government rules cost money",
+    "federal agencies new regulations",
+    "business impact studies",
+    "regulatory oversight",
+    "government mandates on states",
     "agency accountability",
-    "sue government agencies",
-    "costly government mandates",
-    "private business feedback",
-    "regulatory impact study",
-    "government rule making process",
-    "expensive federal requirements"
+    "rule making process",
+    "federal compliance costs",
+    "government red tape",
+    "regulatory burden on business"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
       "title": "Section 1 Short Title",
-      "text": "This law can be called the Unfunded Mandates Accountability and Transparency Act of two thousand twenty five.",
+      "text": "This law can be called the Unfunded Mandates Accountability and Transparency Act of 2025.",
       "word_offset": 0,
       "char_offset": 0
     },
@@ -70,73 +68,73 @@
       "id": "s2",
       "slug": "section-2-regulatory-impact-analyses-for-certain-rules",
       "title": "Section 2 Regulatory Impact Analyses for Certain Rules",
-      "text": "This section changes an older law from nineteen ninety five called the Unfunded Mandates Reform Act. First, it changes the word tribal to Tribal with a capital T everywhere it appears. Second, it adds a new definition for major rule. A major rule is a government regulation that the Office of Information and Regulatory Affairs decides will likely cause one of these things. It will have a yearly effect on the economy of one hundred million dollars or more. This amount will be updated every five years based on how much prices have gone up for everyday items. Or it will cause a big increase in costs or prices for consumers, individual industries, or government agencies at the federal, state, local, or tribal level. Or it will cause serious harmful effects on competition, jobs, investment, productivity, new ideas, public health and safety, or the ability of American companies to compete with foreign companies. Third, this section completely rewrites the part of the old law that deals with analyzing the impact of regulations. It requires agencies to prepare and publish two types of analysis before making any major rule. They must do an initial analysis when they first propose the rule and a final analysis when they finish the rule. The analysis must include several things. It must look at the expected benefits and costs of the rule and put numbers on them when possible. It must also look at other reasonable options the agency could choose instead, including options that use rewards and market forces to encourage good behavior, give people information so they can make their own choices, or use flexible approaches that give the most freedom in meeting the goals of the law. The analysis must explain how the rule follows the requirements in another section of the law. It must assess how much the costs to state, local, and tribal governments might be paid by federal money and whether federal resources are available to carry out the rule. It must estimate any uneven budget effects the rule might have on different regions of the country, different types of governments, different types of communities like urban or rural areas, or different parts of the private sector. It must also estimate the effect on creating or losing jobs and put numbers on this when possible. Finally, the analysis must describe how much the agency talked with elected representatives from affected governments, summarize the comments and concerns these governments shared, and explain how the agency evaluated these comments and concerns.",
-      "word_offset": 17,
-      "char_offset": 110
+      "text": "This section changes the Unfunded Mandates Reform Act of 1995 in several ways. First, it changes the word tribal to Tribal with a capital T everywhere it appears in the law. Second, it adds a new definition for major rule. A major rule is any government regulation that the Administrator of the Office of Information and Regulatory Affairs decides is likely to cause one of three things. It could have an annual effect on the economy of one hundred million dollars or more. This dollar amount will be adjusted every five years to account for inflation using the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics. It could cause a major increase in costs or prices for consumers, individual industries, Federal State local or Tribal government agencies, or geographic regions. Or it could cause significant harmful effects on competition, employment, investment, productivity, innovation, public health and safety, or the ability of United States based companies to compete with foreign companies in domestic and export markets. Third, this section completely rewrites the requirements for regulatory impact analyses. The term cost means the cost of following the rule and any reasonably expected indirect costs, including lost revenues, that result from a major rule. Before creating any proposed or final major rule, the government agency must prepare and publish an initial and final regulatory impact analysis in the Federal Register. The initial analysis must come with the notice of proposed rulemaking and be open to public comment. The final analysis must come with the final major rule. Each analysis must include several things. It must analyze the expected benefits and costs of the major rule, with numbers whenever possible. It must analyze the benefits and costs of a reasonable number of other regulatory options the agency could choose under the law that gives it authority, including options that use incentives and market based ways to encourage desired behavior, provide information so the public can make choices, or use other flexible regulatory options that give the greatest flexibility in achieving the goals of the authorizing law. It must explain how the major rule follows the requirements of section 205. It must assess how much the costs to State local and Tribal governments may be paid with Federal money or otherwise paid by the Federal Government, and whether Federal resources are available to carry out the major rule. It must estimate any unequal budget effects of the major rule on particular regions of the United States, State local or Tribal governments, types of communities including urban or rural communities, or segments of the private sector. It must estimate the effect of the major rule on job creation or job loss, with numbers whenever possible. It must describe how much the agency consulted with elected representatives of each affected State local or Tribal government under section 204. It must summarize the comments and concerns presented to the agency by State local or Tribal governments either spoken or written. It must summarize how the agency evaluated those comments and concerns. When an analysis is required, the agency must include a summary of the analysis information when it issues the rule. The agency can combine this analysis with other required statements or analyses as long as the combined document meets all the requirements.",
+      "word_offset": 14,
+      "char_offset": 90
     },
     {
       "id": "s3",
       "slug": "section-3-enhanced-stakeholder-consultation",
       "title": "Section 3 Enhanced Stakeholder Consultation",
-      "text": "This section changes the part of the law about getting input from people affected by regulations. It expands this to include private sector parties, including small businesses, not just government officials. The law now requires agencies to talk with these private sector parties when making federal mandates. The section also updates the guidelines for these consultations. Consultations must happen as early as possible, before the agency even publishes a proposed rule, continue through the final rule, and be built into the rulemaking process. Agencies must consult with many different state, local, and tribal officials and private sector parties including small businesses. They should consider geographic, political, and other factors that might create different points of view. Agencies should estimate benefits and costs to help with these consultations, and the amount of consultation should match how costly and important the federal mandate is. Agencies must try to get the views of governments and private sector parties on costs, benefits, and risks. They must also ask for ideas about different ways to comply and potential flexibility, and get input on whether the federal regulation will work well with similar laws at other levels of government without duplicating them. Consultations must address the combined impact of multiple regulations on the affected groups. Agencies may accept electronic comments from relevant parties but cannot use those comments as the only way to meet these consultation requirements.",
-      "word_offset": 437,
-      "char_offset": 2649
+      "text": "This section changes the consultation requirements in the Unfunded Mandates Reform Act. It adds private sector input to the section heading. It requires agencies to consult with impacted parties in the private sector including small businesses, in addition to State local and Tribal governments. It changes the requirement from consulting only about Federal intergovernmental mandates to consulting about all Federal mandates. The section establishes new guidelines for consultation. Consultations must happen as early as possible before issuing a notice of proposed rulemaking, continue through the final rule stage, and be clearly built into the rulemaking process. Agencies must consult with a wide variety of State local and Tribal officials and impacted parties in the private sector including small businesses. They should consider geographic political and other factors that may create different points of view. Agencies should estimate benefits and costs to help with these consultations. The scope of consultation should match the cost and importance of the Federal mandate being considered. Agencies must try to seek out the views of State local and Tribal governments and impacted parties in the private sector including small businesses on costs benefits and risks. They must ask for ideas about alternative ways to comply and potential flexibilities, and input on whether the Federal regulation will work well with and not duplicate similar laws at other levels of government. Consultations must address the combined impact of regulations on the affected groups. Agencies may accept electronic comments from relevant parties but cannot use those comments as the only way to satisfy these guidelines.",
+      "word_offset": 565,
+      "char_offset": 3530
     },
     {
       "id": "s4",
       "slug": "section-4-maximize-net-benefits-or-provide-explanation",
       "title": "Section 4 Maximize Net Benefits or Provide Explanation",
-      "text": "This section replaces an old section of the law with new requirements about choosing the best regulatory option. It defines cost the same way as in the previous section. Before making any major rule that requires an impact analysis, an agency must choose the option from those they considered that provides the most net benefits. They can only consider costs and benefits that fall within the scope of the law that gives them authority to make the rule. An agency can only choose a different option if the Administrator of the Office of Information and Regulatory Affairs approves it and the different option is chosen for one of two reasons. The first reason is to account for costs or benefits that cannot be measured with numbers, including costs or benefits related to constitutional or civil rights. The agency must identify all such costs and benefits and explain why they justify choosing the different option. The second reason is to achieve additional benefits or cost savings. The agency must identify all the additional benefits and their costs, or all the cost savings and their associated benefits. The agency must also explain why the additional benefits justify the extra costs or why the additional cost savings justify any benefits given up.",
-      "word_offset": 668,
-      "char_offset": 4182
+      "text": "This section replaces section 205 of the Unfunded Mandates Reform Act with new requirements. The term cost has the same meaning as defined in section 202. Before creating any proposed or final major rule that requires a regulatory impact analysis under section 202, an agency must choose the alternative from those identified and considered that maximizes net benefits. The agency can only consider costs and benefits that fall within the scope of the law that authorizes the rulemaking. An agency can adopt a different alternative only if the Administrator of the Office of Information and Regulatory Affairs approves it and the alternative is adopted for one of two reasons. The first reason is to account for costs or benefits that cannot be measured with numbers, including costs or benefits related to constitutional or civil rights. The agency must identify all such costs and benefits and explain why they justify adopting the alternative. The second reason is to achieve additional benefits or cost reductions. The agency must identify all additional benefits and their associated costs, and all cost reductions and their associated benefits. The agency must explain why the additional benefits justify the additional costs or why the additional cost reductions justify any benefits given up.",
+      "word_offset": 822,
+      "char_offset": 5243
     },
     {
       "id": "s5",
       "slug": "section-5-new-authorities-and-responsibilities-for-office-of-information-and-regulatory-affairs",
       "title": "Section 5 New Authorities and Responsibilities for Office of Information and Regulatory Affairs",
-      "text": "This section completely rewrites the responsibilities of the Office of Information and Regulatory Affairs. The Administrator of this office must provide meaningful guidance and oversight to make sure that major rules requiring impact analysis follow the principles and requirements of this part of the law and other applicable laws. The Administrator must also make sure these rules do not conflict with the policies or actions of other agencies. If the Administrator determines that an agency's major rules do not comply with the law requirements, are not consistent with other laws, or conflict with other agencies' policies or actions, the Administrator must identify areas where the agency is not following the rules, notify the agency, and ask the agency to comply before finalizing the rule. The Administrator must submit a yearly written report to Congress, including specific committees in the Senate and House of Representatives. This report must detail how well each agency followed the requirements for major rules in the previous year, including activities the Administrator requested to improve compliance. The report must also include an appendix detailing how well each agency followed the consultation requirements.",
-      "word_offset": 877,
-      "char_offset": 5441
+      "text": "This section replaces section 208 of the Unfunded Mandates Reform Act with new responsibilities for the Administrator of the Office of Information and Regulatory Affairs. The Administrator must provide meaningful guidance and oversight to ensure that major rules requiring regulatory impact analyses are consistent with the principles and requirements of this title as well as other applicable laws, and do not conflict with the policies or actions of other agencies. If the Administrator determines that an agency's major rules do not comply with these requirements, are not consistent with other applicable laws, or conflict with other agency policies or actions, the Administrator must identify areas of noncompliance, notify the agency, and request that the agency comply before finalizing the major rule. The Administrator must submit to Congress an annual written report. The report goes to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives. For the one year period before the report, it must detail how well each agency complied with the requirements of this title that relate to major rules requiring regulatory impact analyses, including activities undertaken at the Administrator's request to improve compliance. The report must contain an appendix detailing how well each agency complied with section 204.",
+      "word_offset": 1027,
+      "char_offset": 6544
     },
     {
       "id": "s6",
       "slug": "section-6-initiation-of-rulemaking",
       "title": "Section 6 Initiation of Rulemaking",
-      "text": "This section adds a new requirement to the law about starting the rulemaking process for major rules. When an agency decides to start a rulemaking that might result in a major rule, the agency must do two things. First, they must set up an electronic file system for that rulemaking, which may also have a physical version. Second, they must publish a notice in the Federal Register announcing they are starting the rulemaking process. This notice must briefly describe the subject and goals of the major rule and the problem it is trying to solve. It must refer to the legal authority the agency has to make the rule, including the specific law that allows the rulemaking. It must invite interested people to suggest alternatives and other ideas about how the agency can best accomplish its goals in the most effective way. It must tell people how they can submit written materials for the file. The notice must appear in the Federal Register no later than ninety days before the agency publishes its proposed rule.",
-      "word_offset": 1063,
-      "char_offset": 6673
+      "text": "This section renumbers the existing section 209 to section 210 and adds a new section 209 to the Unfunded Mandates Reform Act. When an agency determines to start a rulemaking that may result in a major rule, the agency must do two things. First, it must establish an electronic docket for that rulemaking, which may have a physical counterpart. Second, it must publish a notice of initiation of rulemaking in the Federal Register. This notice must briefly describe the subject and objectives of the major rule and the problem to be solved. It must refer to the legal authority under which the major rule would be proposed, including the specific law that authorizes the rulemaking. It must invite interested people to propose alternatives and other ideas about how to best accomplish the agency's objectives in the most effective way. It must indicate how interested people may submit written material for the docket. The notice must appear in the Federal Register no later than ninety days before the agency publishes a notice of proposed rulemaking for the major rule.",
+      "word_offset": 1242,
+      "char_offset": 7970
     },
     {
       "id": "s7",
       "slug": "section-7-inclusion-of-application-to-independent-regulatory-agencies",
       "title": "Section 7 Inclusion of Application to Independent Regulatory Agencies",
-      "text": "This section makes two changes to expand which agencies must follow these rules. First, it removes language that excluded independent regulatory agencies from the definition of agency in the Congressional Budget Act. This means independent regulatory agencies will now have to follow the unfunded mandates rules like other agencies. Second, it adds a new section to the Unfunded Mandates Reform Act that creates an exception for monetary policy. Nothing in the main parts of the law will apply to rules about monetary policy proposed or implemented by the Board of Governors of the Federal Reserve System or the Federal Open Market Committee.",
-      "word_offset": 1238,
-      "char_offset": 7690
+      "text": "This section makes two changes. First, it changes the Congressional Budget Act of 1974 to remove the exemption for independent regulatory agencies. Second, it adds a new section 6 to the Unfunded Mandates Reform Act that exempts monetary policy. Nothing in title II, III, or IV of the Unfunded Mandates Reform Act applies to rules about monetary policy proposed or implemented by the Board of Governors of the Federal Reserve System or the Federal Open Market Committee.",
+      "word_offset": 1420,
+      "char_offset": 9041
     },
     {
       "id": "s8",
       "slug": "section-8-judicial-review",
       "title": "Section 8 Judicial Review",
-      "text": "This section replaces the old judicial review section with new rules about court challenges. A person who is harmed by a final agency action in adopting a major rule that is subject to the impact analysis requirements can take the agency to court. They can challenge whether the agency followed the rules about preparing impact analyses, analyzing alternatives, or maximizing net benefits. The courts will follow the normal rules in federal law about the scope of review when looking at these challenges. Any court that has the power to review a rule for compliance with normal rulemaking procedures or under any other law will also have the power to review claims under this section. When granting relief in a lawsuit under this section, a court must order the agency that made the rule to take corrective action consistent with federal law.",
-      "word_offset": 1340,
-      "char_offset": 8333
+      "text": "This section replaces section 401 of the Unfunded Mandates Reform Act with new judicial review provisions. A person who is harmed by final agency action in adopting a major rule that is subject to section 202 can ask a court to review whether the agency followed section 202 about regulatory impact analyses or section 205 about maximizing net benefits. Chapter 7 of title 5 of the United States Code governs how courts review these cases. Each court that has the power to review a rule for compliance with section 553 of title 5 or under any other law also has the power to review a claim brought under this section. When granting relief in an action under this section, a court must order the agency that created the major rule under review to take corrective action consistent with chapter 7 of title 5.",
+      "word_offset": 1497,
+      "char_offset": 9512
     },
     {
       "id": "s9",
       "slug": "section-9-applying-substantive-point-of-order-to-private-sector-mandates",
       "title": "Section 9 Applying Substantive Point of Order to Private Sector Mandates",
-      "text": "This section makes a small change to the Congressional Budget Act. It expands the point of order procedure in Congress to cover all federal mandates, not just those affecting governments between different levels. This means the procedural rules that help Congress consider the costs of mandates will now also apply to mandates affecting the private sector.",
-      "word_offset": 1481,
-      "char_offset": 9176
+      "text": "This section changes the Congressional Budget Act of 1974 to expand the scope of certain procedural rules in Congress. It changes Federal intergovernmental mandates to Federal mandates and updates a cross reference to include both subsection (a)(1) and (b)(1) of section 424.",
+      "word_offset": 1640,
+      "char_offset": 10319
     },
     {
       "id": "s10",
       "slug": "section-10-effective-date",
       "title": "Section 10 Effective Date",
-      "text": "The changes made in sections three, four, five, and seven of this law and their amendments will take effect one hundred twenty days after this law is passed.",
-      "word_offset": 1537,
-      "char_offset": 9533
+      "text": "Sections 3, 4, 5, and 7 of this Act and the changes made by those sections will take effect one hundred twenty days after this Act becomes law.",
+      "word_offset": 1682,
+      "char_offset": 10595
     }
   ]
 }
