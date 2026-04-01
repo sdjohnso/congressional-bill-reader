@@ -8,8 +8,8 @@
   "stage": "signed_into_law",
   "stage_label": "Signed Into Law",
   "version_hash": "cb0ffd446ab88bce",
-  "last_updated": "2026-03-20T14:39:26.853554+00:00",
-  "plain_summary": "This law helps Alaska Native people who are elderly, blind, or have disabilities. When these people get money from special Alaska Native Settlement Trusts, that money will not count against them when they apply for government help programs like food stamps. This means they can still get the government benefits they need even if they receive trust payments. The rule will last for five years and makes sure Alaska Native people can get both their trust money and government assistance at the same time.",
+  "last_updated": "2026-04-01T01:55:34.663898+00:00",
+  "plain_summary": "This law helps Alaska Natives who are elderly, blind, or disabled get government benefits more easily. Sometimes Alaska Natives get money from special settlement trusts, and this money used to count against them when they applied for help like food stamps or other aid programs. Now for the next five years, this settlement trust money will not count as income when the government decides if someone can get benefits. This means more Alaska Natives who need help will be able to get it without losing their settlement payments.",
   "current_status": "signed_into_law",
   "status_date": "2025-07-07",
   "last_action_date": "2025-07-07",
@@ -33,23 +33,21 @@
   "crs_summary_available": true,
   "plain_keywords": [
     "Alaska Native benefits",
-    "elderly disability assistance",
-    "food stamps Alaska",
-    "Native trust money",
-    "government benefits eligibility",
-    "Alaska Native settlement",
+    "settlement trust money",
     "disability benefits Alaska",
-    "trust payments welfare",
-    "Native American assistance",
-    "Alaska indigenous benefits",
-    "elderly Native benefits",
-    "disability trust income"
+    "food stamps Alaska Native",
+    "government aid Alaska",
+    "elderly blind disabled benefits",
+    "Alaska Native settlement payments",
+    "welfare benefits Alaska Native",
+    "trust income benefits",
+    "Alaska Native government help"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1 Short Title",
+      "title": "Section 1  Short Title",
       "text": "This law can be called the Alaska Native Settlement Trust Eligibility Act.",
       "word_offset": 0,
       "char_offset": 0
@@ -57,8 +55,8 @@
     {
       "id": "s2",
       "slug": "section-2-eligibility-for-certain-programs",
-      "title": "Section 2 Eligibility for Certain Programs",
-      "text": "This section changes an existing law called the Alaska Native Claims Settlement Act. The change affects how certain payments are counted when determining if someone qualifies for government programs. The new rule says that money or benefits given to Alaska Natives or their descendants from a Settlement Trust (a special type of fund created for Alaska Natives) will not count against their eligibility for certain programs. This protection applies specifically to Alaska Natives or their descendants who are aged, blind, or disabled, as defined by Social Security rules. This special protection will last for five years starting from when this new law takes effect.",
+      "title": "Section 2  Eligibility for Certain Programs",
+      "text": "This section changes an existing law called the Alaska Native Claims Settlement Act. The change affects how certain payments are counted when the government decides if someone qualifies for benefit programs like food stamps or Medicaid. Under this new rule, if an Alaska Native person or their descendant is aged, blind, or disabled, then money they receive from a Settlement Trust will not count against them when applying for government benefits. A Settlement Trust is a special type of fund set up to benefit Alaska Native people. The aged, blind, or disabled definition comes from Social Security rules. This special protection for Settlement Trust payments will last for five years starting from when this law goes into effect.",
       "word_offset": 12,
       "char_offset": 75
     }

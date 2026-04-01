@@ -8,8 +8,8 @@
   "stage": "signed_into_law",
   "stage_label": "Signed Into Law",
   "version_hash": "89a14fe814458abe",
-  "last_updated": "2026-03-20T11:06:46.137760+00:00",
-  "plain_summary": "This bill makes it easier for people to get extra time to file their taxes when disasters happen. Right now, only disasters declared by the federal government can give people tax deadline extensions, but this bill would let state governors ask for extensions when their state declares a disaster too. The disaster must be something serious like a flood, fire, explosion, or other natural catastrophe that causes major damage. The bill also gives people more time by increasing automatic extensions from 60 days to 120 days for people who live or work in disaster areas or help with disaster relief.",
+  "last_updated": "2026-04-01T01:55:16.766032+00:00",
+  "plain_summary": "This law helps people who live in areas hit by natural disasters get more time to file their taxes. Right now, only disasters declared by the federal government can delay tax deadlines, but this law lets state governors and the mayor of Washington DC also request deadline extensions for disasters they declare in their areas. The law also gives people twice as much extra time to file their taxes after a disaster, increasing the automatic extension from 60 days to 120 days. This means people dealing with floods, fires, explosions, and other emergencies will have more time to handle their taxes while they recover from the disaster.",
   "current_status": "signed_into_law",
   "status_date": "2025-07-24",
   "last_action_date": "2025-07-24",
@@ -36,20 +36,22 @@
     "tax deadline extension",
     "disaster tax relief",
     "natural disaster taxes",
+    "filing taxes after disaster",
     "hurricane tax help",
     "flood tax extension",
     "wildfire tax deadline",
-    "state disaster tax relief",
-    "IRS disaster extension",
-    "emergency tax filing help",
-    "catastrophe tax postponement"
+    "emergency tax relief",
+    "state disaster tax break",
+    "governor tax extension",
+    "120 day tax extension",
+    "disaster victim taxes"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
       "title": "Section 1  Short Title",
-      "text": "This law may be called the Filing Relief for Natural Disasters Act.",
+      "text": "This law can be called the Filing Relief for Natural Disasters Act.",
       "word_offset": 0,
       "char_offset": 0
     },
@@ -57,7 +59,7 @@
       "id": "s2",
       "slug": "section-2-modification-of-rules-for-postponing-certain-deadlines-by-reason-of-disaster",
       "title": "Section 2  Modification of Rules for Postponing Certain Deadlines by Reason of Disaster",
-      "text": "This section changes the tax code to give people more time to file their taxes when disasters happen. First, it allows the Secretary of the Treasury to delay federal tax deadlines when a state governor declares a disaster. The Secretary must talk with the head of FEMA (the Federal Emergency Management Agency) before making this decision. A governor can write a letter asking for this help. The law defines a qualified state declared disaster as any natural disaster like hurricanes, tornadoes, storms, floods, earthquakes, volcanic eruptions, landslides, mudslides, snowstorms, or droughts. It also includes fires, floods, or explosions no matter what caused them. The governor must decide that the disaster caused enough damage to need tax deadline relief. For this law, the word state includes the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands. Second, this section changes how long tax deadline extensions can last. Instead of sixty days, extensions can now last up to one hundred twenty days. These changes will apply to disaster declarations made after this law is signed.",
+      "text": "This section makes changes to the tax law about delaying tax deadlines when disasters happen. The first change allows the Secretary of the Treasury to delay federal tax deadlines when a state governor declares a disaster. The Secretary must talk with the head of the Federal Emergency Management Agency first. The governor of a state or the mayor of Washington DC can ask in writing for this help. A qualified state declared disaster means any natural disaster like hurricanes, tornadoes, storms, flooding, tsunamis, earthquakes, volcanic eruptions, landslides, mudslides, snowstorms, or droughts. It also includes fires, floods, or explosions no matter what caused them. The governor or mayor must decide that the damage is bad enough to need tax deadline relief. For this law, a state includes Washington DC, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands. The second change extends the longest time tax deadlines can be delayed from sixty days to one hundred twenty days. These changes only apply to disaster declarations made after this law is passed.",
       "word_offset": 12,
       "char_offset": 68
     }

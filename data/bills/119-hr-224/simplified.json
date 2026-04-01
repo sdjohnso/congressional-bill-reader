@@ -8,8 +8,8 @@
   "stage": "signed_into_law",
   "stage_label": "Signed Into Law",
   "version_hash": "6c17b2f732ad3e56",
-  "last_updated": "2026-03-20T15:28:53.527349+00:00",
-  "plain_summary": "This law helps disabled veterans get housing assistance by not counting their disability payments as income when they apply for help. When the government decides if a veteran qualifies for housing programs, they cannot include the money veterans get for injuries from their military service. The law also tells a government office to study all housing programs to see how they treat veteran disability payments and suggest ways to make things better and more fair. This change makes it easier for disabled veterans to get the housing help they need.",
+  "last_updated": "2026-04-01T01:54:44.292081+00:00",
+  "plain_summary": "This bill helps disabled veterans get housing assistance more easily. When veterans apply for community development housing programs, the government will no longer count their disability payments as income. This means more disabled veterans will qualify for help with housing. The bill also requires the government to study other housing programs to see if they should be changed to help veterans in the same way.",
   "current_status": "signed_into_law",
   "status_date": "2026-01-20",
   "last_action_date": "2026-01-20",
@@ -32,15 +32,15 @@
   "crs_summary_available": true,
   "plain_keywords": [
     "disabled veterans housing",
-    "veteran disability benefits",
-    "housing assistance for veterans",
-    "disabled vet home help",
+    "veteran disability payments",
+    "housing assistance veterans",
+    "disabled veteran benefits",
+    "veteran housing help",
+    "disability income housing",
     "veteran housing programs",
-    "military disability payments",
-    "housing aid disabled veterans",
-    "veteran home loans",
-    "disabled veteran benefits housing",
-    "help veterans find housing"
+    "disabled vet housing support",
+    "veteran housing qualification",
+    "housing aid disabled veterans"
   ],
   "sections": [
     {
@@ -55,7 +55,7 @@
       "id": "s2",
       "slug": "section-2-service-connected-disability-compensation",
       "title": "Section 2  Service Connected Disability Compensation",
-      "text": "This section changes an existing housing law from nineteen seventy four. It adds a new rule that says when states, local governments, or Indian tribes decide if someone has low or moderate income for housing programs, they cannot count disability payments that veterans get from the Department of Veterans Affairs. These disability payments are money that veterans receive because they were injured or became sick while serving in the military. When deciding if a veteran qualifies for housing help based on their income level, these disability payments must be left out of the income calculation.",
+      "text": "This section changes an existing housing law from nineteen seventy four. It adds a new rule about how to count income when deciding if someone qualifies for housing help. The new rule says that states, local governments, and Indian tribes must not count disability payments from the Department of Veterans Affairs when they figure out if a veteran has low income, moderate income, or low to moderate income. These disability payments are money that veterans get because they were injured or became sick due to their military service. By not counting this money as income, more disabled veterans will qualify for housing assistance programs.",
       "word_offset": 11,
       "char_offset": 66
     },
@@ -63,9 +63,9 @@
       "id": "s3",
       "slug": "section-3-report",
       "title": "Section 3  Report",
-      "text": "The Comptroller General of the United States must write a report to Congress within one year after this law is signed. The Comptroller General is the head of an office that checks how the government spends money and runs programs. The report must do three things. First, it must look at how disability payments to veterans are handled when people apply for all housing programs run by the Secretary of Housing and Urban Development. Second, it must find any cases where these disability payments are treated differently than what this new law requires. Third, for each housing program that treats veteran disability payments the wrong way, the report must suggest new laws that could help these programs better serve veterans and communities that do not get enough help.",
-      "word_offset": 106,
-      "char_offset": 664
+      "text": "The Comptroller General of the United States must write a report to Congress within one year after this law is passed. The Comptroller General is the head of an office that reviews how the government spends money and runs programs. The report must do three things. First, it must look at how veteran disability payments are handled when deciding who can get help from all programs run by the Secretary of Housing and Urban Development. Second, it must find any cases where veteran disability payments are treated differently than what this new law requires. Third, for each housing program that treats veteran disability payments the wrong way, the report must suggest new laws that would help these programs better serve veterans and communities that do not get enough help.",
+      "word_offset": 115,
+      "char_offset": 707
     }
   ]
 }

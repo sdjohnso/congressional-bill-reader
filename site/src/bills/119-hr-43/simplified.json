@@ -8,8 +8,8 @@
   "stage": "signed_into_law",
   "stage_label": "Signed Into Law",
   "version_hash": "74299293f45ebbfc",
-  "last_updated": "2026-03-20T14:24:37.067941+00:00",
-  "plain_summary": "This law is about land that belongs to Alaska Native village corporations. Right now, these corporations have to give some of their land to the state of Alaska to save for towns that might be created later. This law says they don't have to give away that land anymore. It also lets them get back land they already gave to the state if both the corporation and the village people agree to it.",
+  "last_updated": "2026-04-01T01:54:59.435574+00:00",
+  "plain_summary": "This law helps Alaska Native village corporations get back land they had to give away to the state. Under an old law, these corporations had to give certain lands to the state to hold for possible future city governments, even if those cities were never created. Now these corporations can get their land back if both the corporation and the village residents agree to it. The law also says these corporations do not have to give away any more land to the state for this reason in the future.",
   "current_status": "signed_into_law",
   "status_date": "2025-07-07",
   "last_action_date": "2025-07-07",
@@ -32,33 +32,34 @@
   "crs_summary_available": true,
   "plain_keywords": [
     "Alaska Native land",
-    "village land rights",
-    "Alaska state land transfer",
-    "Native corporation land",
-    "Alaska village property",
-    "tribal land restoration",
-    "Alaska Native villages",
-    "land given back to tribes",
-    "Alaska municipal land",
-    "Native land ownership",
-    "village corporation property"
+    "village land back",
+    "Alaska village corporations",
+    "getting land returned",
+    "Native village property",
+    "Alaska land restoration",
+    "tribal land rights",
+    "village corporation land",
+    "Alaska Native property rights",
+    "getting back village land",
+    "Native Alaska villages",
+    "corporation land recovery"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
       "title": "Section 1 Short Title",
-      "text": "This law can be called the Alaska Native Village Municipal Lands Restoration Act of two thousand and twenty five.",
+      "text": "This law can be called the Alaska Native Village Municipal Lands Restoration Act of twenty twenty five.",
       "word_offset": 0,
       "char_offset": 0
     },
     {
       "id": "s2",
-      "slug": "section-2-reversion-of-certain-land",
+      "slug": "section-2-reversion-of-certain-land-conveyed-in-trust-to-the-state-of-alaska",
       "title": "Section 2 Reversion of Certain Land Conveyed in Trust to the State of Alaska",
-      "text": "This section changes part of an older law called the Alaska Native Claims Settlement Act. The changes affect what happens with land that Alaska Native Village Corporations must set aside. Here are the key changes. First, if a Village Corporation already gave land to the state to hold in trust before this new law was passed, and no city government was ever created on that land, then the Village Corporation and the village residents can vote together to get their land back. The state must then give the land back to the Village Corporation. Second, starting when this new law takes effect, Village Corporations will not have to give any more land to the state for future city governments. Third, when land goes back to a Village Corporation, the corporation must respect any existing legal rights that other people or groups already have to use that land. This includes any leases, easements for roads, or other agreements that were made while the state held the land in trust. The Village Corporation must also take over any responsibilities that came with those agreements.",
-      "word_offset": 19,
-      "char_offset": 114
+      "text": "This section changes the Alaska Native Claims Settlement Act. The changes affect how Native village corporations handle land that was given to Alaska in trust to possibly create city governments. The main changes are that Native village corporations will no longer be required to give any more land to the state for creating future city governments. If a village corporation already gave land to the state for this purpose but no city government was actually created, the village corporation and village residents can ask for that land to come back to them. When land comes back to the village corporation, it must still respect any existing rights that other people have to use the land, like leases or roads. The village corporation must also take over any responsibilities that came with the trust agreement when they get the land back.",
+      "word_offset": 17,
+      "char_offset": 104
     }
   ]
 }
