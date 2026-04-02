@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "7158be7bac72d363",
-  "last_updated": "2026-03-20T11:25:28.433651+00:00",
-  "plain_summary": "This bill makes permanent changes to help more people afford health insurance. Right now, people who make too much money cannot get tax credits to help pay for their health insurance, but this bill removes that income limit so anyone can qualify. The bill also keeps in place a system where people pay a smaller percentage of their income for health insurance premiums, which means they get bigger tax credits to help cover the costs. These changes will stay in place permanently instead of ending after a few years like they were supposed to.",
+  "last_updated": "2026-04-02T01:29:08.850775+00:00",
+  "plain_summary": "This bill makes it easier for people to get help paying for health insurance. Right now, people who make more than four times the poverty level cannot get tax credits to help pay for their insurance, but this bill removes that limit so more people can get help. The bill also keeps lower payment rates that were temporarily put in place, which means people will pay less of their income toward health insurance based on how much money they make. These changes were supposed to end soon, but this bill makes them permanent so people can keep getting this extra help with their health insurance costs.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-09",
   "last_action_date": "2025-01-09",
@@ -30,33 +30,33 @@
   "cosponsor_count": 44,
   "crs_summary_available": true,
   "plain_keywords": [
+    "health insurance help",
+    "cheaper health insurance",
     "health insurance tax credits",
     "affordable health care",
     "health insurance subsidies",
     "lower health insurance costs",
-    "health insurance help",
-    "cheaper health insurance",
-    "health care financial assistance",
-    "health insurance premium support",
-    "making health insurance affordable",
-    "health insurance income limits removed"
+    "health insurance payment assistance",
+    "income based health insurance",
+    "health insurance for middle class",
+    "health care financial help"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1 Short Title",
-      "text": "This law can be called the Health Care Affordability Act of twenty twenty five.",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Health Care Affordability Act of two thousand twenty five.",
       "word_offset": 0,
       "char_offset": 0
     },
     {
       "id": "s2",
       "slug": "section-2-increase-in-eligibility-for-credit",
-      "title": "Section 2 Increase in Eligibility for Credit",
-      "text": "This section changes the tax code to help more people get help paying for health insurance. Right now, people can only get tax credits to help pay for health insurance if they make less than four hundred percent of the poverty line. This law removes that limit so people who make more money can also get help. The law also sets up a new system for how much help people get based on their income. People who make up to one hundred fifty percent of the poverty line pay nothing for their health insurance premiums. People who make between one hundred fifty and two hundred percent of the poverty line pay between zero and two percent. People who make between two hundred and two hundred fifty percent pay between two and four percent. People who make between two hundred fifty and three hundred percent pay between four and six percent. People who make between three hundred and four hundred percent pay between six and eight and a half percent. People who make more than four hundred percent of the poverty line pay eight and a half percent. The exact amount someone pays depends on exactly how much they make within each group. These changes will start for tax years beginning after December thirty first, twenty twenty five.",
-      "word_offset": 14,
-      "char_offset": 80
+      "title": "Section 2  Increase in Eligibility for Credit",
+      "text": "This section changes who can get help paying for health insurance through tax credits. Currently, people who make more than four hundred percent of the federal poverty level cannot get these credits. This law removes that limit so more people can get help. The law also sets up a new table that shows how much people have to pay for health insurance based on their income. People who make up to one hundred fifty percent of the poverty level pay nothing. People who make between one hundred fifty and two hundred percent pay between zero and two percent of their income. People who make between two hundred and two hundred fifty percent pay between two and four percent. People who make between two hundred fifty and three hundred percent pay between four and six percent. People who make between three hundred and four hundred percent pay between six and eight and a half percent. People who make four hundred percent or more pay eight and a half percent of their income. The law also removes some old rules about when coverage is considered affordable. These changes will start for tax years beginning after December thirty first, two thousand twenty five.",
+      "word_offset": 15,
+      "char_offset": 86
     }
   ]
 }
