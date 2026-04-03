@@ -7,13 +7,13 @@
   "introduced_date": "2025-01-03",
   "stage": "committee_reported",
   "stage_label": "Passed Committee",
-  "version_hash": "b35cbbd16b2e171a",
-  "last_updated": "2026-03-20T11:52:28.257864+00:00",
-  "plain_summary": "This bill helps five Alaska Native communities in Southeast Alaska that were left out of an earlier land deal. The communities are Haines, Ketchikan, Petersburg, Tenakee, and Wrangell. Each community can now form a special corporation and receive about 23,000 acres of federal land. The Native people in these communities will get shares in their new corporations while keeping their existing rights. These corporations can also create trusts to help with health, education, and preserving their Native culture.",
+  "version_hash": "e845e29476297030",
+  "last_updated": "2026-04-03T13:21:40.874976+00:00",
+  "plain_summary": "This bill helps five Alaska Native villages in Southeast Alaska that were left out when land was given to other Native communities years ago. The villages are Haines, Ketchikan, Petersburg, Tenakee, and Wrangell. Each village can now form a special corporation and will receive about 23,000 acres of federal land. The Native people living in these villages can become owners in their new corporations while still keeping their rights in the larger regional corporation. These new corporations can also create trusts to help their people with health, education, and preserving their Native culture.",
   "current_status": "committee_reported",
-  "status_date": "2026-03-05",
-  "last_action_date": "2026-03-05",
-  "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
+  "status_date": "2026-04-02",
+  "last_action_date": "2026-04-02",
+  "last_action_text": "Placed on the Union Calendar, Calendar No. 499.",
   "passed_house": false,
   "passed_senate": false,
   "became_law": false,
@@ -37,22 +37,23 @@
   "cosponsor_count": 1,
   "crs_summary_available": true,
   "plain_keywords": [
-    "Alaska Native land rights",
-    "Southeast Alaska communities",
+    "Alaska Native villages",
+    "Southeast Alaska land rights",
     "Native corporation land",
-    "Alaska Native compensation",
+    "Alaska village recognition",
     "Haines Ketchikan Petersburg",
-    "Tenakee Wrangell Alaska",
-    "Native village recognition",
-    "Alaska land settlement",
+    "Native land settlement",
+    "Alaska tribal compensation",
+    "forgotten Native communities",
+    "Alaska Native corporations",
     "tribal land grants",
-    "Native health education funding"
+    "Native village benefits"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1  Short Title",
+      "title": "Section 1 Short Title",
       "text": "This law can be called the Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act.",
       "word_offset": 0,
       "char_offset": 0
@@ -60,42 +61,42 @@
     {
       "id": "s2",
       "slug": "section-2-purpose",
-      "title": "Section 2  Purpose",
-      "text": "The goal of this law is to fix a problem. Five Alaska Native communities in southeast Alaska were left out of an earlier law called the Alaska Native Claims Settlement Act. These communities are Haines, Ketchikan, Petersburg, Tenakee, and Wrangell. This new law allows Alaska Natives enrolled in these five communities to form special business companies called Urban Corporations. It also allows them to receive land that they should have gotten under the earlier law.",
+      "title": "Section 2 Purpose",
+      "text": "The purpose of this law is to fix a problem. Five Alaska Native communities in southeast Alaska were left out when the Alaska Native Claims Settlement Act was created. These communities are Haines, Ketchikan, Petersburg, Tenakee, and Wrangell. This law allows Alaska Natives who are enrolled in these communities to form Urban Corporations (special business organizations for Alaska Natives) and to receive certain settlement land under the Alaska Native Claims Settlement Act.",
       "word_offset": 15,
       "char_offset": 110
     },
     {
       "id": "s3",
       "slug": "section-3-establishment-of-additional-native-corporations",
-      "title": "Section 3  Establishment of Additional Native Corporations",
-      "text": "This section changes an existing law by adding new rules. The Native residents of the Native Villages of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell in Alaska can now organize themselves into Urban Corporations. These are special business companies that Alaska Natives can form. Creating these new corporations will not affect the land rights of any Native Corporation that was already established before this law was passed.",
-      "word_offset": 90,
-      "char_offset": 579
+      "title": "Section 3 Establishment of Additional Native Corporations",
+      "text": "This section changes the Alaska Native Claims Settlement Act by adding new rules. The Native residents of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell, Alaska can now organize as Urban Corporations. This change does not affect any land rights that other Native Corporations already have.",
+      "word_offset": 87,
+      "char_offset": 588
     },
     {
       "id": "s4",
       "slug": "section-4-shareholder-eligibility",
-      "title": "Section 4  Shareholder Eligibility",
-      "text": "This section explains who can own shares in the new Urban Corporations. The Secretary of the Interior must enroll individual Natives into the Urban Corporation for their respective village. Each Native person who gets enrolled and who was already a shareholder in the Regional Corporation for Southeast Alaska will receive one hundred shares of Settlement Common Stock in their Urban Corporation. If a Native person received shares in the Regional Corporation through inheritance from someone who originally enrolled in one of these five villages, and that deceased person was not already a shareholder in a Village Corporation or Urban Corporation, then the inheriting person will get the same number of shares in the new Urban Corporation as they inherited from the deceased person. These new share arrangements will not change any previous or future land allocations to Regional Corporations.",
-      "word_offset": 156,
-      "char_offset": 1014
+      "title": "Section 4 Shareholder Eligibility",
+      "text": "This section changes the Alaska Native Claims Settlement Act to add rules about who can own shares in the new Urban Corporations. The Secretary (a government official) must enroll individual Natives into Urban Corporations based on which village they originally enrolled in. Each Native who gets enrolled and who was already a shareholder of the Regional Corporation for Southeast Alaska will receive one hundred shares of Settlement Common Stock in their Urban Corporation. If a Native received shares through inheritance from a deceased Native who originally enrolled in one of these five villages, they will receive the same number of shares in the Urban Corporation. These changes do not affect land allocations to Regional Corporations.",
+      "word_offset": 131,
+      "char_offset": 884
     },
     {
       "id": "s5",
       "slug": "section-5-distribution-rights",
-      "title": "Section 5  Distribution Rights",
-      "text": "This section changes the rules about how corporate money and profits are shared. Native members of the five villages who become shareholders in an Urban Corporation will continue to be eligible to receive money distributions as at large shareholders of the Regional Corporation for Southeast Alaska. The law also states that this new act will not change the ratio for determining how revenue is distributed among Native Corporations. It will also not affect existing settlement agreements among Regional Corporations or Village Corporations.",
-      "word_offset": 295,
-      "char_offset": 1910
+      "title": "Section 5 Distribution Rights",
+      "text": "This section changes how corporate funds and income are distributed under the Alaska Native Claims Settlement Act. It reorganizes existing text and adds a new rule. Native members of Haines, Ketchikan, Petersburg, Tenakee, and Wrangell who become shareholders in an Urban Corporation can still receive distributions as at-large shareholders of the Regional Corporation for Southeast Alaska. The section also states that this new law will not change the ratio for revenue distribution among Native Corporations or affect existing settlement agreements between Regional Corporations or Village Corporations.",
+      "word_offset": 246,
+      "char_offset": 1626
     },
     {
       "id": "s6",
       "slug": "section-6-compensation",
-      "title": "Section 6  Compensation",
-      "text": "This section creates detailed rules for giving land to the five new Urban Corporations. Each Urban Corporation will receive approximately twenty three thousand and forty acres of federal land. The Secretary of the Interior must transfer the surface rights of this land to each Urban Corporation, while the underground mineral rights go to the Regional Corporation for Southeast Alaska. The Secretary should complete these land transfers within two years of when each Urban Corporation is officially formed, though this deadline can be extended by up to one year if needed for certain legal processes.\n\nThe federal government will withdraw these lands from being available for other uses like mining or leasing until the transfers are complete. The land given to each Urban Corporation must be treated the same as land given under existing law, which means it has the same rules and protections.\n\nThe transferred lands will have public easements reserved, which means the public may still have certain rights to use roads or paths. The government must publish notice before terminating any public easement. The lands must remain open for public uses like hunting, fishing, and recreation, though the Urban Corporations can impose reasonable restrictions for safety, to prevent conflicts between different uses, or to protect cultural or environmental resources.\n\nAny existing special use permits for guiding or outfitting on the transferred lands will end when the land is transferred, but the Urban Corporation must give the permit holder authorization to continue their activities for the remaining term plus one additional ten year renewal period.\n\nThe Secretary of Agriculture must try to make agreements for shared use of roads and transportation facilities between the Urban Corporations and the Forest Service. These agreements should allow both parties and their designees to use each other's roads and facilities.\n\nThe transferred land will include all roads, trails, log transfer facilities, leases, and related structures. Any existing rights of way, easements, or agreements will continue unless they expire naturally or are renegotiated.\n\nEach Urban Corporation may establish a settlement trust to promote health, education, and welfare of their community members and preserve Native heritage and culture. Money from these trusts must first support elderly people and children, then other enrolled members.",
-      "word_offset": 377,
-      "char_offset": 2452
+      "title": "Section 6 Compensation",
+      "text": "This section adds a new section to the Alaska Native Claims Settlement Act that creates Urban Corporations for Haines, Ketchikan, Petersburg, Tenakee, and Wrangell. The Secretary must give each Urban Corporation the surface rights to approximately twenty three thousand and forty acres of federal land. The specific parcels are shown on detailed maps dated June twenty seven, two thousand twenty five. The Regional Corporation for Southeast Alaska gets the subsurface rights to this same land. The government has two years to complete these land transfers after each Urban Corporation is formed. These land transfers are the full and final payment to these communities under this law. The federal land is withdrawn from other uses until it is transferred. The transferred land must remain open for public hunting, fishing, and recreation, but the Urban Corporations can impose reasonable restrictions for safety and other purposes. Special use permits for guiding and outfitting on the transferred land will be transferred to the Urban Corporations. The Forest Service and Urban Corporations must create mutual use agreements for roads and facilities. Each Urban Corporation may also establish a settlement trust to promote health, education, and welfare in their communities, with proceeds first going to elders and children.",
+      "word_offset": 332,
+      "char_offset": 2232
     }
   ]
 }

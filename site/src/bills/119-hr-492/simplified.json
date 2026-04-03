@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "75468f219d60b27e",
-  "last_updated": "2026-03-27T13:23:59.217110+00:00",
-  "plain_summary": "This bill protects government workers from being moved to different job categories without their permission. It stops presidents from creating new job types like Schedule F that would make it easier to fire government employees. The bill says agencies can only move a small number of workers from protected jobs to unprotected jobs each presidential term. It also requires workers to agree before their jobs can be changed to a different category.",
+  "last_updated": "2026-04-03T13:22:00.491982+00:00",
+  "plain_summary": "This bill stops the government from creating Schedule F jobs, which are a type of government position that can be easily fired. It makes sure that most government workers keep their job protections and cannot be moved to different types of positions without agreeing to it first. The bill also limits how many workers can be moved from protected jobs to unprotected jobs each time there is a new president. This protects government employees from being fired just because of their political beliefs.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-16",
   "last_action_date": "2025-09-16",
@@ -26,19 +26,21 @@
   "sponsor_name": "Rep. Connolly, Gerald E. [D-VA-11]",
   "sponsor_party": "D",
   "sponsor_state": "VA",
-  "cosponsor_count": 100,
+  "cosponsor_count": 101,
   "crs_summary_available": true,
   "plain_keywords": [
-    "government workers protection",
-    "federal employees job security",
-    "firing government workers",
+    "government workers",
     "civil service jobs",
-    "presidential powers federal workers",
-    "government employee rights",
+    "federal employees",
+    "job protection",
+    "firing government workers",
     "Schedule F",
-    "protect federal jobs",
-    "government worker categories",
-    "civil service reform"
+    "political firings",
+    "government job security",
+    "federal worker rights",
+    "presidential appointments",
+    "bureaucrat protection",
+    "government employment"
   ],
   "sections": [
     {
@@ -53,7 +55,7 @@
       "id": "s2",
       "slug": "section-2-limitations-on-excepting-positions",
       "title": "Section 2 Limitations on Excepting Positions from Competitive Service and Transferring Positions",
-      "text": "This section sets rules about how government jobs can be moved between different job categories. The competitive service includes most federal government jobs where people must take tests or go through fair hiring processes. The excepted service includes special government jobs that do not require the usual competitive hiring process. A job in the competitive service can only be moved out of that category if it goes into one of the existing job schedules called A through E that were in place on September thirtieth two thousand twenty. These moves must follow the same rules that were in effect on that date. Jobs already in the excepted service cannot be moved to any schedule other than schedules A through E. Government agencies cannot move any filled job into schedule C without first getting permission from the Director of the Office of Personnel Management. Schedule C jobs are political appointments that can be filled by people chosen by elected officials. During any four year presidential term, an agency cannot move more than one percent of its total workers from competitive service to excepted service, or five employees, whichever number is higher. This limit is based on how many employees the agency had on the first day of the presidential term. No employee can be moved from one excepted service schedule to another without their written permission. No employee in competitive service can be moved to excepted service without their written permission. These rules apply to all federal government positions, including those at the Department of Veterans Affairs that are usually handled under different rules. The Director of the Office of Personnel Management must create regulations to make these rules work. In this section, agency means any department, agency, or part of the federal government. Competitive service means the job category defined in section twenty one oh two of title five of United States Code. Director means the Director of the Office of Personnel Management. Excepted service means the job category defined in section twenty one oh three of title five of United States Code.",
+      "text": "This section sets rules about how government jobs can be moved between different hiring systems. The competitive service means jobs that are filled through fair hiring processes like tests or open competition. The excepted service means jobs that can be filled without this competition. A government job that is normally hired through competition can only be moved to the excepted service if it goes into one of the existing schedules A through E that were in place on September thirtieth two thousand twenty. The same rules and conditions that were in effect on that date must also be followed. Jobs already in the excepted service can only be moved to these same approved schedules. If a government agency wants to move a job that someone is already working in to schedule C of the excepted service, they must get permission from the Director of the Office of Personnel Management first. Schedule C jobs are typically political appointments. During any four year presidential term, an agency cannot move more than one percent of its total employees from competitive service jobs to excepted service jobs. However, they can always move at least five employees even if that is more than one percent. No employee can be moved from their current job type to a different schedule without their written permission. This applies whether they are moving within the excepted service or from competitive service to excepted service. These rules also apply to jobs at the Department of Veterans Affairs even though they normally have different rules. The Director of the Office of Personnel Management must create regulations to carry out this section. The section defines agency as any department, agency, or part of the Federal Government. Competitive service and excepted service have the meanings given in existing federal law. Director means the Director of the Office of Personnel Management.",
       "word_offset": 11,
       "char_offset": 57
     }

@@ -8,8 +8,8 @@
   "stage": "committee_reported",
   "stage_label": "Passed Committee",
   "version_hash": "3f15391cb58b8e55",
-  "last_updated": "2026-03-20T13:27:12.661710+00:00",
-  "plain_summary": "This bill changes the rules for when power plants and factories need special permits from the EPA before making changes to their equipment. Under the new rules, a facility would only need a permit if the changes make it able to pollute more per hour than it could during any hour in the past 10 years. The bill also says that changes made to reduce pollution or make the facility safer or more reliable do not count as modifications that need permits. However, if the EPA thinks these safety or efficiency changes would still harm people's health or the environment, they can still require permits.",
+  "last_updated": "2026-04-03T13:24:06.262331+00:00",
+  "plain_summary": "This bill changes the rules for when factories and power plants need special permits under the Clean Air Act. Under the new rules, a facility only needs a new permit if it actually increases the maximum amount of pollution it can release per hour compared to the past 10 years. Changes made to reduce pollution, improve safety, or make operations more reliable do not require new permits unless the EPA decides they would harm people's health or the environment. The bill also says that changes that do not significantly increase emissions do not count as major modifications that need permits.",
   "current_status": "committee_reported",
   "status_date": "2026-01-21",
   "last_action_date": "2026-01-21",
@@ -30,60 +30,62 @@
   "sponsor_name": "Rep. Griffith, H. Morgan [R-VA-9]",
   "sponsor_party": "R",
   "sponsor_state": "VA",
-  "cosponsor_count": 18,
+  "cosponsor_count": 19,
   "crs_summary_available": true,
   "plain_keywords": [
-    "power plant permits",
-    "factory pollution rules",
-    "EPA permit requirements",
-    "air pollution permits",
-    "industrial emissions",
-    "pollution control changes",
+    "factory permits",
+    "power plant pollution",
+    "air pollution rules",
+    "clean air permits",
+    "emission limits",
+    "pollution control",
     "environmental permits",
-    "factory equipment changes",
+    "factory emissions",
     "air quality regulations",
-    "pollution permit process"
+    "industrial pollution",
+    "smokestack emissions",
+    "plant modifications"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1 Short Title",
+      "title": "Section 1  Short Title",
       "text": "This law can be called the New Source Review Permitting Improvement Act.",
       "word_offset": 0,
       "char_offset": 0
     },
     {
       "id": "s2",
-      "slug": "section-2-clarification-of-definition-of-modification",
-      "title": "Section 2 Clarification of Definition of a Modification: Emission Rate Increases, Pollution Control, Efficiency, Safety, and Reliability Projects",
-      "text": "This section changes how we define a modification under the Clean Air Act. A modification happens when changes at a pollution source increase the amount of air pollution it creates. Under the new rules, a change only counts as increasing pollution if the highest hourly pollution rate possible after the change is higher than the highest hourly pollution rate that was possible during any hour in the ten years before the change. However, some changes do not count as modifications even if they might increase pollution. These exceptions include changes that are designed to reduce the amount of pollution created for each unit of production, or changes that are designed to restore, maintain, or improve how reliably or safely the facility operates. The only time these exceptions do not apply is when the Environmental Protection Agency determines that the increase in the maximum hourly pollution rate would cause harmful effects to human health or the environment.",
+      "slug": "section-2-clarification-of-definition-of-a-modification",
+      "title": "Section 2  Clarification of Definition of a Modification: Emission Rate Increases, Pollution Control, Efficiency, Safety, and Reliability Projects",
+      "text": "This section changes how we define when a factory or power plant has been modified under the Clean Air Act. A change at a facility only counts as increasing pollution if the highest amount of pollution the facility can produce per hour after the change is more than the highest amount it could produce during any hour in the ten years before the change. However, a change does not count as a modification if it is designed to reduce the amount of pollution produced for each unit made, or to make the facility safer or more reliable. The only exception is when the government administrator decides that even these good changes would still cause harm to people's health or the environment because they increase pollution too much.",
       "word_offset": 12,
       "char_offset": 73
     },
     {
       "id": "s3",
-      "slug": "section-3-clarification-of-definition-of-construction",
-      "title": "Section 3 Clarification of Definition of Construction for Prevention of Significant Deterioration",
-      "text": "This section changes the definition of construction for major pollution sources in areas with clean air. Construction includes modifications as defined in the previous section, but it does not include changes at major pollution facilities that do not result in a significant increase in yearly actual pollution or a significant net increase in yearly actual pollution at that facility.",
-      "word_offset": 168,
-      "char_offset": 1042
+      "slug": "section-3-clarification-of-definition-of-construction-for-prevention-of-significant-deterioration",
+      "title": "Section 3  Clarification of Definition of Construction for Prevention of Significant Deterioration",
+      "text": "This section changes the rules for major facilities that produce pollution in areas where air quality is already good. The term construction includes modifications to these facilities, but a modification does not count if it does not cause a significant increase in the actual yearly amount of pollution the facility produces.",
+      "word_offset": 139,
+      "char_offset": 803
     },
     {
       "id": "s4",
-      "slug": "section-4-clarification-of-definition-of-modifications-for-nonattainment-areas",
-      "title": "Section 4 Clarification of Definition of Modifications and Modified for Nonattainment Areas",
-      "text": "This section changes the definition of modifications for areas that do not meet clean air standards. The terms modifications and modified mean a modification as defined in Section Two of this law, except they do not include changes at major pollution facilities that do not result in a significant increase in yearly actual pollution or a significant net increase in yearly actual pollution at that facility.",
-      "word_offset": 227,
-      "char_offset": 1428
+      "slug": "section-4-clarification-of-definition-of-modifications-and-modified-for-nonattainment-areas",
+      "title": "Section 4  Clarification of Definition of Modifications and Modified for Nonattainment Areas",
+      "text": "This section changes the rules for major facilities that produce pollution in areas where air quality is already poor. The terms modifications and modified follow the same definition as in Section Two of this law, but they do not include changes that do not cause a significant increase in the actual yearly amount of pollution the facility produces.",
+      "word_offset": 190,
+      "char_offset": 1130
     },
     {
       "id": "s5",
       "slug": "section-5-rule-of-construction",
-      "title": "Section 5 Rule of Construction",
-      "text": "Nothing in this law should be understood to treat any change as a modification under any part of the Clean Air Act if that change would not have been treated as a modification the day before this law was passed.",
-      "word_offset": 293,
-      "char_offset": 1837
+      "title": "Section 5  Rule of Construction",
+      "text": "Nothing in this law should be understood to make any change count as a modification under the Clean Air Act if that same change would not have been considered a modification before this law was passed.",
+      "word_offset": 248,
+      "char_offset": 1481
     }
   ]
 }
