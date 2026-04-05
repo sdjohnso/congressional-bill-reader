@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-s-501",
+  "title": "Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats",
+  "short_title": "Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats",
+  "congress": 119,
+  "bill_number": "S.501",
+  "introduced_date": "2025-02-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b7ed463350f0fe3d",
+  "last_updated": "2026-04-05T04:35:53.825483+00:00",
+  "plain_summary": "This bill tells the Secretary of Health and Human Services to make a plan for protecting people from dangerous uses of artificial intelligence. The plan needs to be finished in six months and must explain how to get ready for and deal with AI being used to make harmful germs or diseases that are hard to treat. The Secretary has to share this plan with Congress while keeping important secrets safe. The goal is to make sure the country is prepared if someone tries to use AI to hurt people's health.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-10",
+  "last_action_date": "2025-02-10",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Advanced technology and technological innovations",
+    "Chemical and biological weapons",
+    "Congressional oversight",
+    "Emergency planning and evacuation",
+    "Infectious and parasitic diseases"
+  ],
+  "sponsor_name": "Sen. Budd, Ted [R-NC]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "artificial intelligence health risks",
+    "AI bioweapons protection",
+    "government AI safety plan",
+    "artificial intelligence dangerous diseases",
+    "AI created germs protection",
+    "health department AI threats",
+    "artificial intelligence biological weapons",
+    "AI pandemic preparedness",
+    "computer generated diseases",
+    "AI health emergency plan"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-strategy-for-public-health-preparedness-and-response-to-artificial-intelligence-threats",
+      "title": "Section 2  Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats",
+      "text": "This section explains what certain words mean and what the government must do about artificial intelligence threats to public health.\n\nFirst, here are the important definitions. Artificial intelligence means computer systems that can think and learn like humans, as defined in an earlier defense law from two thousand eighteen. Qualified countermeasure, security countermeasure, and qualified pandemic or epidemic product are special medical tools to fight diseases and health emergencies, as defined in the Public Health Service Act. Secretary means the Secretary of Health and Human Services, who runs the main health department for the country.\n\nThe Secretary must create a plan within one hundred eighty days after this law passes. The Secretary must work with outside groups, including companies that make medical countermeasures and people who understand artificial intelligence technology. The plan must address how artificial intelligence could be misused in ways that threaten the health and safety of Americans.\n\nThe plan must include several important parts. It must have a framework for preparing for and responding to artificial intelligence health threats. It must list what the Secretary is responsible for doing to prepare for these threats, including ways to measure if the goals are being met. The plan must identify what public health abilities are missing to handle these threats. It must explain how to fill these gaps and make the country better prepared for artificial intelligence health emergencies.\n\nThe plan must also explain how to reduce specific risks from artificial intelligence misuse. At minimum, this includes preventing the development of biological weapons using artificial intelligence and stopping the design of viruses and bacteria that cannot be treated with medicine. The Secretary can include other artificial intelligence risks as needed.\n\nThe Secretary must share this plan with the Senate Committee on Health, Education, Labor, and Pensions and the House Committee on Energy and Commerce, plus other relevant congressional committees. However, the Secretary must share the plan in a way that does not harm national security.\n\nFinally, this section changes an existing law about coordinating responses to all types of public health emergencies. It adds that federal responses must also include the artificial intelligence threat strategy described in this new law.",
+      "word_offset": 17,
+      "char_offset": 116
+    }
+  ]
+}

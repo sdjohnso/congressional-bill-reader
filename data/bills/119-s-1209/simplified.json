@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1209",
+  "title": "American Prairie Conservation Act",
+  "short_title": "American Prairie Conservation Act",
+  "congress": 119,
+  "bill_number": "S.1209",
+  "introduced_date": "2025-03-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "907e996096ac1a77",
+  "last_updated": "2026-04-05T03:02:08.727531+00:00",
+  "plain_summary": "This bill is about protecting America's natural grasslands. It says that farmers must tell the government when they dig up native grassland to plant crops instead. Farmers have to fill out special forms and provide maps showing what they did. Then the government will write reports every year to tell Congress how much grassland was turned into farmland in different parts of the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-31",
+  "last_action_date": "2025-03-31",
+  "last_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S1926)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Sen. Thune, John [R-SD]",
+  "sponsor_party": "R",
+  "sponsor_state": "SD",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "grassland protection",
+    "prairie conservation",
+    "farmland conversion",
+    "native grassland",
+    "crop planting rules",
+    "farmers reporting requirements",
+    "grassland to farmland",
+    "agricultural land use",
+    "prairie preservation",
+    "grassland destruction tracking"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the American Prairie Conservation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-crop-production-on-native-sod",
+      "title": "Section 2 Crop Production on Native Sod",
+      "text": "This section changes two existing farm laws to create new rules about native sod (land covered with grasses that have grown there naturally for many years). For Federal Crop Insurance, farmers who plow up native sod land to grow crops that can be insured must report this to the government. They must use a special form called FSA-578 and include maps showing where they plowed. If farmers later find mistakes in their paperwork, they must fix these errors as soon as possible. The Secretary of Agriculture must send a report to Congress every January first from two thousand twenty six through two thousand thirty. This report must show how much native sod land was plowed in each county and state. The same rules also apply to the Noninsured Crop Disaster Assistance program, which helps farmers who grow crops that cannot get regular crop insurance. Farmers in this program must follow the exact same reporting requirements if they plow native sod land.",
+      "word_offset": 10,
+      "char_offset": 62
+    }
+  ]
+}

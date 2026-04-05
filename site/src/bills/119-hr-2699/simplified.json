@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2699",
+  "title": "Veterans’ Telecommunication Protection Act",
+  "short_title": "Veterans’ Telecommunication Protection Act",
+  "congress": 119,
+  "bill_number": "HR.2699",
+  "introduced_date": "2025-04-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c1ba7817ca1e0779",
+  "last_updated": "2026-04-05T03:31:02.408514+00:00",
+  "plain_summary": "This bill helps veterans' organizations save money on their phone and cable TV bills. Right now, these groups often have to pay higher business rates for their services. The new law says phone and cable companies must charge veterans' organizations the same low prices that regular families pay at home. This rule only applies to official veterans' groups and covers cable TV and regular phone service, but not cell phones.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-07",
+  "last_action_date": "2025-04-07",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Van Drew, Jefferson [R-NJ-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "veterans discounts",
+    "phone bill savings",
+    "cable TV rates",
+    "veterans organizations",
+    "lower telecommunications costs",
+    "business vs residential rates",
+    "veterans phone service",
+    "cable bill reduction",
+    "military groups savings",
+    "telecommunications discounts veterans"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Veterans' Telecommunication Protection Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-residential-rates-for-veterans-organizations",
+      "title": "Section 2 Residential Rates for Veterans' Organizations",
+      "text": "This section changes the Communications Act of nineteen thirty four by adding a new section seven hundred twenty three. The new section says that companies that provide cable TV and phone services must charge veterans' organizations the same low rates they charge regular families and individuals at home. This only applies if the home rate is cheaper than what the company would normally charge the veterans' organization. The veterans' organization must be officially recognized by the Secretary of Veterans Affairs under section five thousand nine hundred two of title thirty eight of the United States Code. Covered services include cable TV service and voice phone service, but not mobile phone service. This rule starts working right away when this law is passed for all services provided from that date forward.",
+      "word_offset": 10,
+      "char_offset": 71
+    }
+  ]
+}

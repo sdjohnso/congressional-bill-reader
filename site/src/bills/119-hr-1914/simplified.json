@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1914",
+  "title": "HIRE CREDIT Act",
+  "short_title": "HIRE CREDIT Act",
+  "congress": 119,
+  "bill_number": "HR.1914",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "117293633f9e4751",
+  "last_updated": "2026-04-05T04:15:00.425038+00:00",
+  "plain_summary": "The HIRE CREDIT Act creates a tax break for businesses that hire people who lost their jobs or homes because of disasters. The disaster must be officially declared by the federal government and happen starting in January 2024. To get the tax credit, businesses must hire these displaced workers within one year after the disaster ends. This law is meant to help both disaster victims find new jobs and encourage businesses to hire them by giving the businesses money back on their taxes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Crockett, Jasmine [D-TX-30]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "disaster victims jobs",
+    "hiring tax credit",
+    "businesses hire disaster victims",
+    "federal disaster job help",
+    "tax break hiring displaced workers",
+    "disaster unemployment assistance",
+    "employer tax incentive disasters",
+    "hire people lost homes jobs",
+    "disaster relief employment",
+    "business tax credit hiring"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Helping Increase Realtime Employment for Communities Recovering from Emergency Disasters for an Interim Time Act. It can also be called the HIRE CREDIT Act for short.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-work-opportunity-tax-credit-for-hiring-displaced-disaster-victims",
+      "title": "Section 2 Work Opportunity Tax Credit for Hiring Displaced Disaster Victims",
+      "text": "This section changes the tax code to give businesses a tax credit when they hire people displaced by disasters. A displaced disaster victim is someone who has been certified by a local government agency as meeting these requirements. First, their main home was in a disaster area and became unlivable because of the disaster. Second, they worked in that disaster area before the disaster and their workplace became unusable because of the disaster. Third, they are currently unemployed. To qualify for this tax credit, businesses must hire these displaced people within one year after the disaster period ends. If a business hires a displaced disaster victim to work outside the disaster area, they cannot claim the tax credit for any week where that person works thirty hours or more. A qualified disaster zone means any area where the President declared a major disaster on or after January first two thousand twenty four under the Robert T Stafford Disaster Relief and Emergency Assistance Act. The area must also have been determined to need individual assistance or both individual and public assistance from the federal government. A qualified disaster means the actual disaster that caused the President to make the major disaster declaration. The incident period means the time period that the Federal Emergency Management Agency says the disaster occurred, but for this law it cannot start before January first two thousand twenty four. These changes apply to people who start working for employers on or after January first two thousand twenty four. For disasters that ended before this law is passed, special transition rules apply. The one year deadline to hire displaced victims starts from when this law is passed instead of from when the disaster ended. For people who already started working before this law is passed, their unemployment status is determined based on the time before they started that job.",
+      "word_offset": 32,
+      "char_offset": 194
+    }
+  ]
+}

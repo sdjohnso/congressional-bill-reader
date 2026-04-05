@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-1694",
+  "title": "AI Accountability Act",
+  "short_title": "AI Accountability Act",
+  "congress": 119,
+  "bill_number": "HR.1694",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "0abce756ae56c230",
+  "last_updated": "2026-04-05T03:58:45.114985+00:00",
+  "plain_summary": "This bill tells a government agency called the National Telecommunications and Information Administration to study how to make artificial intelligence systems safer and more trustworthy. The agency must look at ways to check if AI systems are working properly, especially those used in things like phone networks and social media. They have to ask the public and experts what they think about these ideas in meetings. The agency must also figure out what information people should know about AI systems that affect them and how to share that information. Within eighteen months, they have to write reports telling Congress what they learned and what should be done.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-27",
+  "last_action_date": "2025-02-27",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Harder, Josh [D-CA-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "artificial intelligence safety",
+    "AI regulation",
+    "social media oversight",
+    "technology accountability",
+    "AI transparency",
+    "phone network security",
+    "government AI study",
+    "artificial intelligence rules",
+    "tech company responsibility",
+    "AI system checks"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Artificial Intelligence Accountability Act or the AI Accountability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-study-on-accountability-measures",
+      "title": "Section 2 Study on Accountability Measures for Artificial Intelligence Systems",
+      "text": "The Assistant Secretary of Commerce for Communications and Information must do a study about ways to make artificial intelligence systems more accountable. This study must look at five specific things. First, how accountability measures are being built into artificial intelligence systems used by communication networks like phone companies and social media websites, and systems that help share electromagnetic spectrum. Second, how accountability measures for artificial intelligence systems can help close the digital divide and promote digital inclusion in the United States. The digital divide means the gap between people who have access to modern technology and those who do not. Third, how accountability measures may reduce risks related to artificial intelligence systems, including cybersecurity risks. Fourth, how the word trustworthy is used and defined when talking about artificial intelligence, including how the term may be applied in different situations. Fifth, the relationship between the term trustworthy and other terms like responsible and human-centric when talking about artificial intelligence. While doing this study, the Assistant Secretary must hold public meetings to talk with important stakeholders to get their feedback on accountability measures for artificial intelligence systems. Stakeholders are people and groups who have an interest in or are affected by this issue. The Assistant Secretary must submit a report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate no later than eighteen months after this law is passed. The report must include the results of the analysis, a description of the feedback provided during the public meetings, and recommendations for actions that government and non-government groups can take to support effective accountability measures for artificial intelligence systems. In this section, the term accountability measure means a mechanism like an audit, an assessment, or a certification that is designed to provide assurance that a system is trustworthy. An audit is a formal examination, an assessment is an evaluation, and a certification is an official approval.",
+      "word_offset": 15,
+      "char_offset": 100
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-availability-of-information",
+      "title": "Section 3 Availability of Information on Artificial Intelligence Systems",
+      "text": "The Assistant Secretary of Commerce for Communications and Information must hold public meetings to talk with important stakeholders including representatives from industry, universities, and consumers. The purpose is to get feedback on two things. First, what information should be available to individuals, communities, and businesses that interact with, are affected by, or study artificial intelligence systems. Second, what are the most effective methods for making such information available to these individuals, communities, and businesses. The Assistant Secretary must submit a report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate no later than eighteen months after this law is passed. The report must include a description of the feedback provided during the meetings and recommendations about what information should be available to individuals, communities, and businesses that interact with, are affected by, or study artificial intelligence systems and the methods to be used for making such information available to these individuals, communities, and businesses.",
+      "word_offset": 342,
+      "char_offset": 2335
+    }
+  ]
+}

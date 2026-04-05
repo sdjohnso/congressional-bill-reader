@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2704",
+  "title": "Fair Debt Collection Improvement Act",
+  "short_title": "Fair Debt Collection Improvement Act",
+  "congress": 119,
+  "bill_number": "HR.2704",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ff7ef48a006e35e7",
+  "last_updated": "2026-04-05T03:46:35.597643+00:00",
+  "plain_summary": "This bill changes the rules about collecting old debts. Right now, debt collectors can still try to collect money from debts that are too old, even when the law says the time limit has run out. The new rule would completely stop debt collectors from going after these old debts once the legal time period has passed. This would protect people from being bothered about very old debts they might owe.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Cohen, Steve [D-TN-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "TN",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "debt collectors",
+    "old debts",
+    "stop debt collection",
+    "debt time limit",
+    "protect from debt collectors",
+    "expired debts",
+    "debt harassment",
+    "debt collection rules",
+    "old debt protection",
+    "debt collector laws"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Fair Debt Collection Improvement Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-collecting-time-barred-debt",
+      "title": "Section 2. Prohibition on Collecting Time-Barred Debt",
+      "text": "This section changes an existing law called the Fair Debt Collection Practices Act. It adds a new rule that says debt collectors cannot try to collect money from people when too much time has passed. Every state has laws that set time limits on how long someone can be sued for a debt. This time limit is called a statute of limitations. Once this time limit runs out, the debt becomes time-barred, which means it is too old to collect legally. Under this new rule, debt collectors would be completely banned from trying to collect these old debts from consumers. The section also updates the table of contents for the existing law to include this new rule.",
+      "word_offset": 11,
+      "char_offset": 65
+    }
+  ]
+}

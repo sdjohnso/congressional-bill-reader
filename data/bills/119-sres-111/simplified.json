@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-sres-111",
+  "title": "A resolution condemning the Armed Forces of the Russian Federation and officials of the Government of the Russian Federation for committing crimes against humanity and war crimes in Ukraine.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.111",
+  "introduced_date": "2025-03-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "0b1c3f242deb3ee0",
+  "last_updated": "2026-04-05T04:00:03.448960+00:00",
+  "plain_summary": "This Senate resolution officially criticizes and condemns the Russian military and Russian government leaders for committing terrible crimes against people in Ukraine. The resolution says these crimes include hurting civilians and breaking the rules of war. The Senate based this condemnation on investigations done by the U.S. State Department and an international group that looked into what happened in Ukraine. The resolution is meant to formally state that the U.S. Senate believes Russia committed these serious crimes during the conflict in Ukraine.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-05",
+  "last_action_date": "2025-03-05",
+  "last_action_text": "Referred to the Committee on Foreign Relations. (text: CR S1584)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Van Hollen, Chris [D-MD]",
+  "sponsor_party": "D",
+  "sponsor_state": "MD",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Russia war crimes",
+    "Ukraine invasion crimes",
+    "Russian military crimes",
+    "Senate condemns Russia",
+    "crimes against humanity Ukraine",
+    "Russian government war crimes",
+    "Ukraine civilian attacks",
+    "Russia breaking war rules",
+    "Senate resolution Russia",
+    "Russian forces Ukraine crimes",
+    "war crimes investigation Ukraine",
+    "Russia hurting civilians"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution condemns the Armed Forces of the Russian Federation and officials of the Government of the Russian Federation for committing crimes against humanity and war crimes in Ukraine.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Facts",
+      "text": "On February eighteenth, two thousand twenty three, the Department of State determined that members of the Russian military and Russian government officials have committed crimes against humanity and war crimes in Ukraine. On September twenty third, two thousand twenty two, the Independent International Commission of Inquiry on Ukraine concluded that war crimes have been committed in Ukraine by the Russian military.",
+      "word_offset": 29,
+      "char_offset": 192
+    },
+    {
+      "id": "s3",
+      "slug": "resolution-statement",
+      "title": "Senate Resolution",
+      "text": "The Senate condemns the Russian military and Russian government officials for committing crimes against humanity and war crimes in Ukraine.",
+      "word_offset": 90,
+      "char_offset": 611
+    }
+  ]
+}

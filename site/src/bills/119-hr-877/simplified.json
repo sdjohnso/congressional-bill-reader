@@ -1,0 +1,72 @@
+{
+  "bill_id": "119-hr-877",
+  "title": "Deliver for Veterans Act",
+  "short_title": "Deliver for Veterans Act",
+  "congress": 119,
+  "bill_number": "HR.877",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "625cc2664b58ac86",
+  "last_updated": "2026-04-05T04:36:44.755235+00:00",
+  "plain_summary": "This bill helps disabled veterans get special vehicles they need. The Department of Veterans Affairs already pays for these vehicles, but now they will also pay to deliver them to the veterans. The bill also changes a deadline about veteran pension payments, moving it from November 2031 to March 2032. This means veterans won't have to pay extra costs to get their adapted vehicles delivered to them.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Disability assistance",
+    "Motor vehicles",
+    "Veterans' pensions and compensation"
+  ],
+  "sponsor_name": "Del. Moylan, James C. [R-GU-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "GU",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "disabled veterans",
+    "veteran car delivery",
+    "adapted vehicles",
+    "special needs cars",
+    "wheelchair accessible vehicles",
+    "veteran transportation",
+    "disability car modifications",
+    "veteran benefits",
+    "free vehicle delivery",
+    "handicapped accessible cars",
+    "veteran pension payments",
+    "VA vehicle assistance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Deliver for Veterans Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-authority-of-the-secretary-of-veterans-affairs-to-pay-costs-associated-with-the-delivery-of-an-adaptive-vehicle-to-an-eligible-person",
+      "title": "Section 2 Authority of the Secretary of Veterans Affairs to Pay Costs Associated with the Delivery of an Adaptive Vehicle to an Eligible Person",
+      "text": "This section changes an existing law about how the Department of Veterans Affairs helps disabled veterans get special vehicles. The current law says the VA can pay the full purchase price of a car or other vehicle that has been adapted for a disabled person to use. This change adds that the VA can also pay the full shipping cost to deliver that special vehicle to the veteran.",
+      "word_offset": 10,
+      "char_offset": 53
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-extension-of-certain-limitation-of-pension-payments",
+      "title": "Section 3 Extension of Certain Limitation of Pension Payments",
+      "text": "This section extends a deadline related to veteran pension payments. It changes the end date from November thirtieth, two thousand thirty-one to March thirty-first, two thousand thirty-two. This gives an extra four months for whatever pension payment limitation was set to expire.",
+      "word_offset": 78,
+      "char_offset": 432
+    }
+  ]
+}

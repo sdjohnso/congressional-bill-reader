@@ -1,0 +1,92 @@
+{
+  "bill_id": "119-hr-2746",
+  "title": "Fix Moldy Housing Act",
+  "short_title": "Fix Moldy Housing Act",
+  "congress": 119,
+  "bill_number": "HR.2746",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "79a2aab444cca30e",
+  "last_updated": "2026-04-05T03:35:12.191570+00:00",
+  "plain_summary": "This law helps fix mold problems in houses and buildings across the country. The Environmental Protection Agency will study mold issues and create rules for how to handle mold safely. The government will give money to states and tribes so they can train mold cleanup workers and fix mold problems in public buildings and people's homes. Congress is spending one hundred million dollars over five years to pay for this program.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Rep. Stevens, Haley M. [D-MI-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "MI",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "mold problems",
+    "moldy houses",
+    "mold cleanup",
+    "toxic mold",
+    "house mold removal",
+    "building mold issues",
+    "mold safety rules",
+    "government mold help",
+    "mold worker training",
+    "public housing mold",
+    "home mold remediation",
+    "EPA mold study"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Fix Moldy Housing Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-study-on-conditions-in-which-mold-assessment-and-remediation-is-warranted",
+      "title": "Section 2  Study on Conditions in Which Mold Assessment and Remediation is Warranted",
+      "text": "The head of the Environmental Protection Agency (the government agency that protects the environment and public health) must work with the National Academies of Sciences, Engineering, and Medicine to do a study. This study will look at when indoor mold should be checked and cleaned up, and how to check for mold and clean it up properly and safely. The study must be finished within one year after this law is passed. The Environmental Protection Agency head must then send a report about the study results to Congress.",
+      "word_offset": 10,
+      "char_offset": 50
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-standards-for-assessing-and-remediating-mold",
+      "title": "Section 3  Standards for Assessing and Remediating Mold",
+      "text": "Within two years after this law is passed, the Environmental Protection Agency head must work with other federal agencies to create national standards. These standards are suggestions, not requirements. The standards will identify how much mold is enough to require checking and cleaning. The standards will also explain how to properly and safely check for mold and how to properly and safely clean up mold. When creating these standards, the Environmental Protection Agency head must consider the results from the study described in Section 2.",
+      "word_offset": 98,
+      "char_offset": 571
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-program-to-assist-state-and-tribal-governments-with-assessing-and-remediating-mold",
+      "title": "Section 4  Program to Assist State and Tribal Governments with Assessing and Remediating Mold",
+      "text": "The Environmental Protection Agency head will create a program to help state and tribal governments with checking for mold and cleaning it up. This help will be based on the study from Section 2 and the standards from Section 3. The Environmental Protection Agency will give grants (money that does not need to be paid back) to state and tribal governments to set up licensing programs. These licensing programs will give official permission to people who check for mold and clean it up. The grant money can pay for running these licensing programs, including office costs. When giving out grants, the Environmental Protection Agency will prefer to help state and tribal governments in areas where indoor mold problems are very likely to happen. This could be because of the national standards, outdoor conditions like humidity, or other reasons the Environmental Protection Agency identifies. The Environmental Protection Agency will also provide technical help to state and tribal programs and will run training classes about checking for mold and cleaning it up. Congress approves fifty million dollars for each year from two thousand twenty six through two thousand thirty to pay for this section.",
+      "word_offset": 183,
+      "char_offset": 1117
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-grants-for-assessment-and-remediation-of-mold-in-public-buildings-and-severely-impacted-homes",
+      "title": "Section 5  Grants for Assessment and Remediation of Mold in Public Buildings and Severely Impacted Homes",
+      "text": "The Environmental Protection Agency head will give grants to state and tribal governments to pay for checking and cleaning up mold in government buildings like schools and housing, and in private homes including single family houses and apartment buildings. The grant money can also pay for temporary housing for up to six months, including moving costs, for people who are badly affected by mold in their homes, do not have insurance that covers mold, and do not have enough money to find other housing. The state or tribal government will decide this on a case by case basis. To get a grant, state and tribal governments must agree to create a licensing program for people who check for mold and clean it up in their area. State and tribal governments also must agree not to use grant money to help high income households, as determined by the Environmental Protection Agency head. When giving out grants, the Environmental Protection Agency head will give priority to governments that plan to help low income households or buildings that serve low income communities, and to areas where indoor mold problems are very likely to happen based on the national standards, outdoor conditions like humidity, or other factors. The federal government will pay no more than sixty percent of the costs, meaning state and tribal governments must pay at least forty percent. Of the money available each year, at least twenty percent must be used for government owned or leased buildings, and at least twenty percent must be used for private homes. Congress approves fifty million dollars for each year from two thousand twenty six through two thousand thirty to pay for this section.",
+      "word_offset": 375,
+      "char_offset": 2319
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-definitions",
+      "title": "Section 6  Definitions",
+      "text": "In this law, Administrator means the head of the Environmental Protection Agency. Mold means a fungal growth that forms and spreads on various kinds of damp or decaying organic matter. State includes the fifty states, the District of Columbia, and any territory of the United States.",
+      "word_offset": 654,
+      "char_offset": 3993
+    }
+  ]
+}

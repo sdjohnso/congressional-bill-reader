@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-1247",
+  "title": "WISE Government Act",
+  "short_title": "WISE Government Act",
+  "congress": 119,
+  "bill_number": "HR.1247",
+  "introduced_date": "2025-02-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "12006953af656726",
+  "last_updated": "2026-04-05T04:42:33.906269+00:00",
+  "plain_summary": "The WISE Government Act makes new rules about how government agencies buy and share scientific journals and research materials. Government agencies will no longer be allowed to sign contracts that hide how much they pay for journal subscriptions from other agencies or the Library of Congress. All government agency libraries must make it easy for their workers to find and use the research materials the agency pays for, including workers in different locations. The General Services Administration must write a report for Congress about how to help government agency libraries get better access to scientific publications.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-12",
+  "last_action_date": "2025-02-12",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Government employee pay, benefits, personnel management",
+    "Government ethics and transparency, public corruption",
+    "Government information and archives",
+    "Intergovernmental relations",
+    "Library of Congress",
+    "Public contracts and procurement",
+    "Scientific communication"
+  ],
+  "sponsor_name": "Rep. Foster, Bill [D-IL-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government journal subscriptions",
+    "scientific research access",
+    "government library sharing",
+    "federal agency transparency",
+    "research material costs",
+    "government scientific publications",
+    "library access for workers",
+    "federal research spending",
+    "government research databases",
+    "scientific journal contracts"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Well-Informed, Scientific, and Efficient Government Act of 2025 or the WISE Government Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-agency-journal-subscriptions",
+      "title": "Section 2 Agency Journal Subscriptions",
+      "text": "Government agencies must follow new rules about buying subscriptions to scientific journals and other publications. First, agencies cannot make contracts that hide the cost of subscriptions from other agencies or the Library of Congress. Within six months, each agency must make sure their employees can easily find information on their workplace computer network about how to access the library's subscriptions. This includes employees working in regional offices away from headquarters. Within twelve months, the Administrator of General Services must work with the Library of Congress and other groups to write a report for Congress. This report must look at what subscriptions agencies currently buy and how much they cost. It must identify problems with accessing scientific publications, such as contract issues, problems with different types of media like print and online formats, difficulties for employees using subscriptions at different office locations, inefficient purchasing systems, and high prices. The report must also recommend solutions for both immediate fixes and long-term improvements, including whether agencies need to share more information with each other and use new ways of buying subscriptions. In this section, Administrator means the Administrator of General Services. Agency means what is defined in section 551 of title 5 of the United States Code. Applicable agency library means libraries of Executive departments listed in section 101 of title 5, military departments listed in section 102 of title 5, and any agency focused on science like the Environmental Protection Agency and NASA. Director means the Director of the Office of Management and Budget. Nothing in this section requires agencies to reveal information that is normally protected under the Freedom of Information Act.",
+      "word_offset": 19,
+      "char_offset": 119
+    }
+  ]
+}

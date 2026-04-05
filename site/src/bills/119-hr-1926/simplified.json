@@ -1,0 +1,50 @@
+{
+  "bill_id": "119-hr-1926",
+  "title": "To amend the Mineral Leasing Act to provide for commingling.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.1926",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "bb2843e831767bf9",
+  "last_updated": "2026-04-05T03:56:54.818050+00:00",
+  "plain_summary": "This bill changes a law about oil and gas drilling on government land. It lets companies mix oil and gas from different wells together before they measure how much they owe the government in payments called royalties. Companies still have to use good measuring tools and report their numbers every month. This change will help reduce the number of pipes and equipment needed on the land, which is better for the environment.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Hunt, Wesley [R-TX-38]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "oil and gas drilling",
+    "government land drilling",
+    "mixing oil from different wells",
+    "royalty payments oil gas",
+    "measuring oil gas production",
+    "reducing drilling equipment",
+    "environmental impact drilling",
+    "monthly reporting oil gas",
+    "combining wells oil gas",
+    "federal land energy production"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-commingling-under-mineral-leasing-act",
+      "title": "Section 1 Commingling Under Mineral Leasing Act",
+      "text": "This section changes the Mineral Leasing Act by adding new rules about commingling. Commingling means mixing oil and gas from different sources together in the same pipeline or system. The Secretary of the Interior must approve requests that allow companies to combine production from two or more different sources. These sources can include oil and gas leases, unit participating areas (areas where multiple companies work together), communitized areas (shared development areas), or private properties that are not owned by the federal government or Indian tribes. Companies can mix this production together before it reaches the point where royalties (payments to the government) are measured. This is allowed no matter who owns the different sources, what royalty rates they pay, or how many acres each source covers. However, companies that want to do this must agree to either install measurement devices for each source or use an allocation meter or method. These measurement tools must be accurate within plus or minus two percent and companies must report the measurements every month during production.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

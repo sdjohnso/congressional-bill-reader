@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-3066",
+  "title": "FINS Act",
+  "short_title": "FINS Act",
+  "congress": 119,
+  "bill_number": "HR.3066",
+  "introduced_date": "2025-04-29",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "48b86785c27fd17e",
+  "last_updated": "2026-04-05T03:29:34.846039+00:00",
+  "plain_summary": "The FINS Act makes wire transfer companies like Western Union follow the same money rules that banks have to follow. This is to stop criminals from using these services to move money illegally. The Treasury Department has six months to write the new rules and one year before companies must start following them. The goal is to make it harder for bad people to hide dirty money by sending it through these transfer services.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-29",
+  "last_action_date": "2025-04-29",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Harrigan, Pat [R-NC-10]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "money transfer",
+    "Western Union",
+    "wire transfers",
+    "money laundering",
+    "dirty money",
+    "criminal money",
+    "financial rules",
+    "bank regulations",
+    "money crimes",
+    "illegal money transfers",
+    "Treasury Department",
+    "financial oversight"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Financial Integrity for National Security Act or the FINS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has found the following facts. First, criminal groups from other countries, including drug cartels and terrorist organizations, use wire transfer services like Western Union, Ria, and XE to help with illegal activities. These activities include human trafficking, drug dealing, and terrorism. Second, these wire transfer companies do not have as many rules watching over them as regular banks do. This creates weak spots that make it harder to catch financial crimes. Third, making stronger rules for wire transfers will help protect national security. It will also make these non-bank companies follow the same anti-money laundering laws and Bank Secrecy Act rules that banks must follow.",
+      "word_offset": 16,
+      "char_offset": 90
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-requirements-for-wire-transfer-service-providers",
+      "title": "Section 3  Requirements for Wire Transfer Service Providers",
+      "text": "This section changes the law to include wire transfer companies under financial oversight rules. The changes add wire transfer service providers to the list of businesses that must follow certain financial reporting requirements. A wire transfer service provider means any company that helps move money electronically for customers or businesses, either within the United States or to other countries. This includes services like Western Union, Ria, MoneyGram, XE, and digital money transfer apps. The Secretary of the Treasury must create the rules needed to make these changes work within one hundred eighty days after this law is passed. These changes will start working one year after this law is signed.",
+      "word_offset": 122,
+      "char_offset": 789
+    }
+  ]
+}

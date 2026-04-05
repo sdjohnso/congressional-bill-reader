@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-s-989",
+  "title": "Precious Metals Parity Act",
+  "short_title": "Precious Metals Parity Act",
+  "congress": 119,
+  "bill_number": "S.989",
+  "introduced_date": "2025-03-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "092b9bde97680c72",
+  "last_updated": "2026-04-05T04:24:24.974247+00:00",
+  "plain_summary": "This bill changes tax rules for special investment companies that buy and sell stocks and bonds for people. Right now, these companies can lose their special tax benefits if they make money from precious metals like gold and silver. The new law would let these companies count money made from precious metals the same way they count money made from stocks and bonds. This means the companies can invest in gold and silver without losing their special tax status.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-12",
+  "last_action_date": "2025-03-12",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Cortez Masto, Catherine [D-NV]",
+  "sponsor_party": "D",
+  "sponsor_state": "NV",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "investment companies tax rules",
+    "gold silver investment taxes",
+    "precious metals investing",
+    "mutual funds gold silver",
+    "investment tax benefits",
+    "gold silver tax treatment",
+    "investment company regulations",
+    "precious metals tax rules",
+    "gold silver mutual funds",
+    "investment tax status",
+    "metals investing taxes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Precious Metals Parity Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-treatment-of-income-received-by-regulated-investment-companies-from-precious-metals",
+      "title": "Section 2  Treatment of Income Received by Regulated Investment Companies from Precious Metals",
+      "text": "This section changes the tax rules for regulated investment companies (special types of investment funds that follow certain rules to get tax benefits). Right now, these companies can count income they earn from stocks, bonds, and foreign money as qualifying income (the type of income they need to maintain their special tax status). This law adds precious metals like gold and silver to that list. So now when these investment companies make money from precious metals, that income will count toward meeting their requirements just like income from stocks and bonds does. These changes will start applying to tax years that begin after this law is passed.",
+      "word_offset": 10,
+      "char_offset": 55
+    }
+  ]
+}

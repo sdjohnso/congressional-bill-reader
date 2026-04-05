@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-796",
+  "title": "Book Minimum Tax Repeal Act",
+  "short_title": "Book Minimum Tax Repeal Act",
+  "congress": 119,
+  "bill_number": "S.796",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "77a9ffac95d0497f",
+  "last_updated": "2026-04-05T04:45:07.239467+00:00",
+  "plain_summary": "This bill gets rid of a special tax rule for big companies called the corporate alternative minimum tax. The alternative minimum tax is like a backup tax system that makes sure companies pay at least a certain amount of taxes. After this bill passes, only regular people will still have to follow the alternative minimum tax rules, but corporations will not. The change will start in the year 2025. This means big companies will only have to pay regular corporate taxes instead of having a minimum tax requirement.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-27",
+  "last_action_date": "2025-02-27",
+  "last_action_text": "Read twice and referred to the Committee on Finance. (text: CR S1431)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Barrasso, John [R-WY]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 8,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "corporate tax repeal",
+    "big company taxes",
+    "minimum tax elimination",
+    "business tax rules",
+    "corporate tax breaks",
+    "company tax requirements",
+    "alternative minimum tax",
+    "corporate tax relief",
+    "business tax changes",
+    "large corporation taxes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Book Minimum Tax Repeal Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-corporate-alternative-minimum-tax",
+      "title": "Section 2 Repeal of Corporate Alternative Minimum Tax",
+      "text": "This section removes the corporate alternative minimum tax from the tax code. The corporate alternative minimum tax is a backup tax system that makes sure large companies pay at least a certain amount of tax even if they use many deductions and credits to lower their regular tax bill. The changes work by modifying section fifty five of the Internal Revenue Code. The law now says that only individual people, not corporations, have to pay the alternative minimum tax. For individuals, the alternative minimum tax rates stay the same. Single people pay twenty six percent on the first one hundred seventy five thousand dollars of income above the exemption amount, and twenty eight percent on income above that. Married people filing separate returns use half of these dollar amounts. The law also removes all the special rules that applied only to corporations under the alternative minimum tax system. Several other parts of the tax code are updated to remove references to the corporate alternative minimum tax since it no longer exists. These changes apply to tax years that begin after December thirty first, two thousand twenty four.",
+      "word_offset": 11,
+      "char_offset": 56
+    }
+  ]
+}

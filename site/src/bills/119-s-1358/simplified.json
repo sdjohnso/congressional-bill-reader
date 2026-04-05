@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1358",
+  "title": "TASK Act",
+  "short_title": "TASK Act",
+  "congress": 119,
+  "bill_number": "S.1358",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "907076bb15ec5abe",
+  "last_updated": "2026-04-05T03:22:15.921050+00:00",
+  "plain_summary": "The TASK Act is a new law that makes companies tell the public about their business in China. Companies that sell stock must report if they use forced labor from Xinjiang, China, or if they work with certain Chinese companies. If a company has factories or offices in China, they also have to say whether Chinese Communist Party groups are part of how they run their business. This law helps people know more about how companies do business in China.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "China business reporting",
+    "forced labor disclosure",
+    "Xinjiang labor",
+    "Chinese companies transparency",
+    "corporate China ties",
+    "stock market China rules",
+    "business China factories",
+    "Chinese Communist Party influence",
+    "company China operations",
+    "public company China disclosure"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Transaction and Sourcing Knowledge Act or the TASK Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-sec-reporting",
+      "title": "Section 2 SEC Reporting",
+      "text": "The Securities and Exchange Commission (the government agency that watches over the stock market) must create new reporting rules. When the SEC makes guidance about how publicly traded companies (companies that sell stock to the public) report on environmental, social, and governance matters, they must require these companies to report three things. First, companies must report their sourcing and due diligence activities (how they research and check their suppliers) for supply chains of products imported into the United States that are directly connected to products made using forced labor from Xinjiang, China. Second, companies must report transactions with companies that have been placed on the Entity List by the Department of Commerce or designated by the Department of the Treasury as Chinese Military-Industrial Complex Companies (companies connected to China's military). Third, for publicly traded United States companies with facilities in China, companies must report annually whether there is a Chinese Communist Party committee in their operations and provide a summary of the actions and corporate decisions in which any such committee may have participated.",
+      "word_offset": 15,
+      "char_offset": 83
+    }
+  ]
+}

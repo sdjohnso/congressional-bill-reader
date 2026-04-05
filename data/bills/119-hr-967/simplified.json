@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-967",
+  "title": "Modern GI Bill Act",
+  "short_title": "Modern GI Bill Act",
+  "congress": 119,
+  "bill_number": "HR.967",
+  "introduced_date": "2025-02-04",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "3ee4410f5c37d5b9",
+  "last_updated": "2026-04-05T03:04:45.326615+00:00",
+  "plain_summary": "This bill lets veterans who have Post-9/11 GI Bill benefits use that money to pay back their federal student loans. Right now, veterans can only use these benefits to pay for college classes and expenses. Starting in 2026, veterans could get up to fifteen thousand nine hundred dollars per year to help pay off their student loans, and this amount would go up each year. Veterans could use this help for up to thirty six months, and the money would be sent directly to their loan companies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-05",
+  "last_action_date": "2025-03-05",
+  "last_action_text": "Referred to the Subcommittee on Economic Opportunity.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Government lending and loan guarantees",
+    "Higher education",
+    "Student aid and college costs",
+    "Veterans' education, employment, rehabilitation"
+  ],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans education benefits",
+    "GI bill student loans",
+    "pay off student debt with GI bill",
+    "veteran loan forgiveness",
+    "military education money",
+    "student loan help for veterans",
+    "GI bill loan repayment",
+    "veteran student debt relief",
+    "military student loan assistance",
+    "using GI bill for existing loans"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Modern GI Bill Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-use-of-post-911-educational-assistance-to-repay-federal-student-loans",
+      "title": "Section 2  Use of Post-9/11 Educational Assistance to Repay Federal Student Loans",
+      "text": "This section allows veterans and service members who have GI Bill benefits to use those benefits to pay back their federal student loans instead of just using them for college tuition and fees. The person can use their educational benefits to pay some or all of what they owe on federal student loans. In the year two thousand twenty six, the most money a person can use for this purpose is fifteen thousand nine hundred dollars per year. Every year after that, this amount will go up by the same percentage that Social Security benefits increase. The Department of Veterans Affairs will make monthly payments directly to the student loan company. Each monthly payment cannot be more than one twelfth of the yearly limit. A person can get these monthly payments for up to thirty six months total. Unlike regular GI Bill benefits, these loan repayment benefits cannot be given to a spouse or child. Federal student loans are loans that were made or backed by the government under federal education programs. The Secretary of Veterans Affairs will create rules and make agreements needed to run this program. These changes will start applying to benefits paid for months that begin on or after the date this law is passed.",
+      "word_offset": 10,
+      "char_offset": 47
+    }
+  ]
+}

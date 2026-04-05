@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-hr-716",
+  "title": "Fill the Lake Act",
+  "short_title": "Fill the Lake Act",
+  "congress": 119,
+  "bill_number": "HR.716",
+  "introduced_date": "2025-01-23",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "50c3482d9b7f0de4",
+  "last_updated": "2026-04-05T03:22:41.607857+00:00",
+  "plain_summary": "The Fill the Lake Act requires the Secretary of the Interior to manage water levels in Flathead Lake in Montana. During the summer months, the lake must be kept between two specific heights. If the water gets too low, water will be added from another reservoir. If the water gets too high, extra water will be released. This law makes sure the lake stays at the right level all summer long.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Lakes and rivers",
+    "Montana",
+    "Water use and supply"
+  ],
+  "sponsor_name": "Rep. Zinke, Ryan K. [R-MT-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "MT",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Flathead Lake",
+    "Montana lake water levels",
+    "lake management",
+    "summer water levels",
+    "reservoir water control",
+    "lake too low",
+    "lake too high",
+    "Montana water supply",
+    "Interior Department lakes",
+    "lake water regulation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Fill the Lake Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-regulation-of-pool-level-of-flathead-lake",
+      "title": "Section 2 Regulation of Pool Level of Flathead Lake",
+      "text": "Every year from June fifteenth through September fifteenth, the Secretary of the Interior must do two things with Flathead Lake in Montana. First, the Secretary must make sure the lake stays at least two thousand eight hundred ninety-two feet above mean sea level (a way to measure height above the ocean). If the lake gets too low, the Secretary must add water from Hungry Horse Reservoir (a man-made lake that stores water). Second, the Secretary must make sure the lake does not get higher than two thousand eight hundred ninety-three feet above mean sea level. If the lake gets too high, the Secretary must release extra water downstream.",
+      "word_offset": 10,
+      "char_offset": 46
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1859",
+  "title": "Apprenticeship Opportunity Act",
+  "short_title": "Apprenticeship Opportunity Act",
+  "congress": 119,
+  "bill_number": "HR.1859",
+  "introduced_date": "2025-03-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "cd2ee0e242e328ab",
+  "last_updated": "2026-04-05T04:39:46.212411+00:00",
+  "plain_summary": "This bill helps families who have someone starting an apprenticeship program. When states decide if a family can get welfare money called TANF, they must not count any income the person makes in their first year of apprenticeship. If a state does not follow this rule, the federal government will give them one percent less TANF money the next year. This makes it easier for families to get help while someone is learning job skills through an apprenticeship.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-05",
+  "last_action_date": "2025-03-05",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [],
+  "sponsor_name": "Rep. DelBene, Suzan K. [D-WA-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "WA",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "apprenticeship",
+    "job training",
+    "welfare benefits",
+    "TANF",
+    "family assistance",
+    "learning skills",
+    "work program",
+    "government help",
+    "income support",
+    "vocational training",
+    "trade school",
+    "financial aid"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Apprenticeship Opportunity Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirement-to-disregard-income-from-first-year-of-an-apprenticeship",
+      "title": "Section 2  Requirement to Disregard Income from First Year of an Apprenticeship in Determining Eligibility for Assistance Under the TANF Program",
+      "text": "This section changes the rules for how states decide who can get help from the TANF program. TANF stands for Temporary Assistance for Needy Families. It gives money to families who need help paying for basic needs like food and housing. The new rule says that when someone starts an official apprenticeship program, states cannot count the money they earn in their first year when deciding if their family can still get TANF benefits. An apprenticeship is a program where someone learns job skills while working and getting paid. The apprenticeship must be registered under a federal law from nineteen thirty seven called the National Apprenticeship Act. If a state does not follow this new rule, the federal government will reduce the money it gives to that state for TANF programs. The penalty is one percent less money in the year after the state breaks the rule. These changes will start on the first day of the federal government's budget year that begins after this law is passed.",
+      "word_offset": 9,
+      "char_offset": 59
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-2584",
+  "title": "Protect TANF Resources for Families Act",
+  "short_title": "Protect TANF Resources for Families Act",
+  "congress": 119,
+  "bill_number": "HR.2584",
+  "introduced_date": "2025-04-01",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "02860b79a6785c2b",
+  "last_updated": "2026-04-05T04:50:59.410612+00:00",
+  "plain_summary": "This bill changes the rules for TANF, which is a government program that gives money to help poor families. The new rules say that when states get federal TANF money, they must use it to add more help for families, not to replace money they were already spending. The bill also keeps the TANF program running for two more years until September 2026. This means states cannot use the federal money as an excuse to spend less of their own money on helping needy families.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-01",
+  "last_action_date": "2025-04-01",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "welfare reform",
+    "food stamps",
+    "cash assistance",
+    "poor families",
+    "government help",
+    "family benefits",
+    "state funding",
+    "federal money",
+    "needy families",
+    "poverty assistance",
+    "welfare spending",
+    "family support"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protect TANF Resources for Families Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-state-diversion-of-federal-funds-to-replace-state-spending",
+      "title": "Section 2 Prohibition on State Diversion of Federal Funds to Replace State Spending",
+      "text": "This section changes the rules for how states can use TANF money. TANF is a federal program that gives money to states to help needy families with children. The new rule says states must use federal TANF money only to add to the money they already spend on these programs, not to replace their own state money. States cannot use federal money to take the place of money they would normally spend from their own budgets. Each state's top leader must sign a written promise that their state will follow this rule. The state leader must promise that federal TANF money will not be used to replace state or local money for services that help achieve TANF goals. These new rules will start on October first, two thousand twenty five.",
+      "word_offset": 12,
+      "char_offset": 68
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-two-year-reauthorization-of-the-temporary-assistance-for-needy-families-program",
+      "title": "Section 3 Two-Year Reauthorization of the Temporary Assistance for Needy Families Program",
+      "text": "This section extends the TANF program for two more years. The program will continue to operate through September thirtieth, two thousand twenty six. The program will work the same way it did in fiscal year two thousand twenty three. Congress approves spending whatever money is needed from the US Treasury to keep the program running during this time.",
+      "word_offset": 142,
+      "char_offset": 797
+    }
+  ]
+}

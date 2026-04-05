@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-2161",
+  "title": "Human-Animal Chimera Prohibition Act of 2025",
+  "short_title": "Human-Animal Chimera Prohibition Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2161",
+  "introduced_date": "2025-03-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e66ad6e21fe4afa1",
+  "last_updated": "2026-04-05T03:26:20.255324+00:00",
+  "plain_summary": "This bill makes it illegal to create creatures that mix human and animal parts together called chimeras. People who make these mixed creatures or help make them can go to prison for up to ten years. They can also have to pay big fines, especially if they make money from doing this work. The government wants to stop scientists from mixing human and animal body parts in certain ways.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-14",
+  "last_action_date": "2025-03-14",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [],
+  "sponsor_name": "Rep. Smith, Christopher H. [R-NJ-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "human animal mixing",
+    "chimera ban",
+    "hybrid creatures",
+    "mixing human animal parts",
+    "genetic mixing illegal",
+    "human animal experiments",
+    "creating mixed species",
+    "laboratory creatures",
+    "genetic engineering ban",
+    "human animal research"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Human-Animal Chimera Prohibition Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-certain-human-animal-chimeras",
+      "title": "Section 2  Prohibition on Certain Human-Animal Chimeras",
+      "text": "This section adds a new chapter to the federal criminal code. The new chapter is called Chapter fifty-two and deals with banning certain types of human-animal chimeras (creatures that mix human and animal parts). The chapter contains two main parts: definitions and the actual prohibition. In the definitions section, a prohibited human-animal chimera means several different things. It includes a human embryo (an early stage human before birth) that has animal cells added to it in a way that makes it unclear whether it is human. It also includes embryos created by mixing human eggs with animal sperm, or animal eggs with human sperm. It includes embryos made by putting an animal nucleus (the control center of a cell) into a human egg, or putting a human nucleus into an animal egg. It includes embryos that have chromosomes (genetic material) from both humans and animals. It includes animals that are changed so that human reproductive cells grow inside them. It includes animals that are changed to have human brains or brains made mostly from human brain tissue. It includes animals that are changed to look like humans in their face or body shape. It also includes embryos made by mixing human and animal cells that result in creatures with human reproductive cells, human brains, or human-like appearance. A human embryo means a human organism in its earliest development stage, from one cell up to eight weeks. The prohibition section makes it a federal crime for anyone to knowingly create or try to create these prohibited chimeras when doing business across state lines. It also bans transferring human embryos into animal wombs, transferring animal embryos into human wombs, and transporting these prohibited chimeras for any reason. People who break these rules can be fined and sent to prison for up to ten years. If someone makes money from breaking these rules, they must pay a civil fine of at least one million dollars or twice the amount they earned, whichever is more. The law does not ban research using animals that have human genes added to them, or putting human organs or tissues into animals, as long as these activities do not violate the main prohibitions.",
+      "word_offset": 14,
+      "char_offset": 93
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-technical-amendment",
+      "title": "Section 3  Technical Amendment",
+      "text": "This section updates the official list of chapters in the federal criminal code to include the new chapter about prohibiting certain human-animal chimeras.",
+      "word_offset": 379,
+      "char_offset": 2283
+    }
+  ]
+}

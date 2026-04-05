@@ -1,0 +1,156 @@
+{
+  "bill_id": "119-hr-687",
+  "title": "MERIT Act of 2025",
+  "short_title": "MERIT Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.687",
+  "introduced_date": "2025-01-23",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "1cd3e299b6496a89",
+  "last_updated": "2026-04-05T03:16:20.192058+00:00",
+  "plain_summary": "The MERIT Act of 2025 makes it easier for the government to fire federal workers and gives them fewer ways to fight back when they get in trouble. New government employees would have to work for two years instead of one year before they get full job protection. Workers who commit serious crimes related to their job would lose some of their retirement money and cannot get bonus pay. The bill is designed to let government agencies remove bad employees more quickly.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Administrative law and regulatory procedures",
+    "Administrative remedies",
+    "Criminal justice information and records",
+    "Employee benefits and pensions",
+    "Employee performance",
+    "Employment discrimination and employee rights",
+    "Family relationships",
+    "Government employee pay, benefits, personnel management",
+    "Government ethics and transparency, public corruption",
+    "Income tax deferral",
+    "Merit Systems Protection Board",
+    "Office of Personnel Management (OPM)",
+    "Personnel records",
+    "Unemployment",
+    "Wages and earnings"
+  ],
+  "sponsor_name": "Rep. Loudermilk, Barry [R-GA-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 24,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "fire government workers",
+    "federal employee job protection",
+    "government worker firing",
+    "civil service reform",
+    "federal worker disciplinary action",
+    "government employee tenure",
+    "firing federal employees easier",
+    "government worker job security",
+    "federal employee misconduct",
+    "government worker pension loss",
+    "removing bad government employees",
+    "federal workforce accountability"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title; Table of Contents",
+      "text": "This law can be called the Modern Employment Reform, Improvement, and Transformation Act of two thousand twenty five or the MERIT Act of two thousand twenty five. The law includes twelve sections that change how the government can discipline or fire federal workers, extend probation periods, and change other employment rules for government employees.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-termination-of-authority",
+      "title": "Section 2 Termination of Authority for Chapter 43 Performance-Based Actions",
+      "text": "This section removes an old law about how government agencies could discipline workers for poor performance. The old system in section four thousand three hundred three is deleted. Any discipline cases that already started under the old system before this new law takes effect can continue under the old rules. The section also updates several other parts of federal law to remove references to the deleted system.",
+      "word_offset": 54,
+      "char_offset": 353
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-adverse-actions",
+      "title": "Section 3 Adverse Actions Based on Performance or Conduct",
+      "text": "This section creates new rules for how government agencies can discipline workers for poor performance or bad behavior. Agencies can suspend, demote, fire, or furlough workers if they have enough evidence that the worker's performance or misconduct justifies such action. When deciding on discipline, agency officials must only consider specific factors like how serious the offense was, the worker's job level, their past discipline record, their work history, and any circumstances that might make the situation better or worse. The agency must review the initial decision and uphold it if there is substantial evidence. Workers facing discipline get written notice explaining the reasons, can have a lawyer represent them, and get a written decision with specific reasons. The entire process from notice to final decision cannot take more than fifteen business days unless the agency believes the worker committed a crime that could result in jail time. Workers can respond within seven business days. If a worker is demoted, they immediately get the lower pay rate for their new grade and cannot be put on paid leave during any appeal. Workers can appeal discipline decisions to the Merit Systems Protection Board within ten business days.",
+      "word_offset": 121,
+      "char_offset": 768
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-prohibition-on-grieving",
+      "title": "Section 4 Prohibition on Grieving Adverse Actions and Reductions in Force",
+      "text": "This section changes the grievance process to prevent federal workers from filing grievances for certain types of personnel actions. Workers cannot use the grievance process to challenge adverse actions like suspensions, demotions, or firing, or to challenge reductions in force actions like furloughs longer than thirty days, layoffs, or demotions due to workforce reductions. These matters can only be appealed through other procedures, not through the grievance process.",
+      "word_offset": 316,
+      "char_offset": 2012
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-actions-against-senior-executives",
+      "title": "Section 5 Actions Against Senior Executives for Performance or Conduct",
+      "text": "This section changes rules for senior executive service members. It removes pay protection for senior executives who are removed from their positions and placed in lower jobs. The section also expands reasons for removing senior executives to include removal from federal service entirely when warranted. It creates faster procedures for disciplining or removing senior executives, similar to those for regular employees. The process cannot take more than fifteen business days unless criminal activity is suspected. Senior executives facing discipline get written notice, can have representation, and get a written decision with specific reasons. When deciding on discipline, agencies must only consider the seriousness of the offense and the executive's job level and type of employment. Decisions must be supported by substantial evidence. Senior executives can appeal to the Merit Systems Protection Board within ten business days.",
+      "word_offset": 384,
+      "char_offset": 2486
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-actions-against-supervisors",
+      "title": "Section 6 Actions Against Supervisors for Performance or Conduct",
+      "text": "This section creates special rules for disciplining supervisors. Agencies can take action against supervisors if they have enough evidence that the supervisor's performance or misconduct justifies such action. The same fast timeline applies as for other workers, with the entire process taking no more than fifteen business days unless criminal activity is suspected. Supervisors get written notice, can have representation, and receive written decisions with specific reasons. When making discipline decisions, agencies only consider the seriousness of the offense and the supervisor's job level and employment type. Agencies can discipline supervisors without first putting them on performance improvement plans. If a supervisor is demoted, they immediately get the lower pay and cannot be on paid administrative leave during appeals. Supervisors can appeal discipline to the Merit Systems Protection Board within ten business days.",
+      "word_offset": 520,
+      "char_offset": 3422
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-modification-of-procedures-for-furlough",
+      "title": "Section 7 Modification of Procedures for Furlough",
+      "text": "This section creates different rules for different types of furloughs. For furloughs of fourteen days or less and emergency furloughs due to lack of funding, workers get some procedures like written notice and the chance to have representation, but the specific procedures will be set by regulations that the Office of Personnel Management must create within one hundred eighty days. Emergency furloughs have minimal procedures and workers get notice when possible. For furloughs longer than fourteen days, workers get the same procedures as other adverse actions, including the fifteen business day timeline and the right to appeal to the Merit Systems Protection Board within ten business days. The section defines emergency furlough as a furlough caused by a lapse in government funding.",
+      "word_offset": 653,
+      "char_offset": 4357
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-reduction-of-annuity",
+      "title": "Section 8 Reduction of Annuity of Employee Convicted of a Felony for Which an Adverse Action Is or Would Have Been Taken",
+      "text": "This section reduces retirement benefits for federal workers convicted of felonies related to their job duties. If a worker is convicted of a felony and the agency head determines the conviction was based on acts done while performing official duties that would support removing the worker, then the time period when the worker committed those acts does not count toward calculating retirement benefits. The worker gets fifteen business days advance notice and ten business days to respond before a final decision. They can appeal to the Merit Systems Protection Board within ten business days. The worker gets back their own contributions to retirement for the period that no longer counts. A spouse may still get survivor benefits if the Attorney General determines the spouse fully cooperated with the criminal investigation. This applies to workers who are fired for the conduct or who quit while facing removal for the conduct.",
+      "word_offset": 775,
+      "char_offset": 5148
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-authority-to-recoup-bonuses",
+      "title": "Section 9 Authority to Recoup Bonuses or Awards Paid to Employees",
+      "text": "This section prevents agencies from giving bonuses to workers who have been found to engage in serious misconduct. If an agency head determines that a worker violated agency policy in a way that could result in removal or fourteen day suspension, or violated a law punishable by more than one year in prison, then the worker cannot receive any performance bonuses for five years after the end of the fiscal year when the finding was made. If a worker receives a bonus and then the agency makes such a finding during the same fiscal year, the worker must pay back the bonus after getting notice and a hearing. Workers must sign an agreement to pay back bonuses if required when they receive them. Workers can appeal bonus denials or repayment orders to the Merit Systems Protection Board.",
+      "word_offset": 924,
+      "char_offset": 6081
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-extension-of-probationary-period-ses",
+      "title": "Section 10 Extension of Probationary Period for Positions Within the Senior Executive Service",
+      "text": "This section extends the probationary period for new senior executives from one year to two years. During this probationary period, senior executives can be removed more easily. This applies to anyone appointed to the Senior Executive Service on or after this law takes effect.",
+      "word_offset": 1061,
+      "char_offset": 6869
+    },
+    {
+      "id": "s11",
+      "slug": "section-11-extension-of-probationary-period-competitive",
+      "title": "Section 11 Extension of Probationary Period for Employees in the Competitive Service",
+      "text": "This section extends probationary periods for most new federal workers from one year to two years. For positions requiring formal training, the two year probationary period starts after training is completed. For positions requiring licenses, the period starts when appointed or when the license is granted, whichever is later. For other positions, the period starts when appointed. During probation, workers can be removed more easily. Agencies must clearly tell job applicants about probation requirements, notify workers about performance requirements, remind supervisors when probation periods are ending, and certify to the President when they decide to keep workers after probation. This applies to people hired on or after this law takes effect. The section also updates other laws to reflect the longer two year probation period.",
+      "word_offset": 1105,
+      "char_offset": 7147
+    },
+    {
+      "id": "s12",
+      "slug": "section-12-application",
+      "title": "Section 12 Application",
+      "text": "This section sets when the new law takes effect. Most parts of the law start one year after it is signed, unless a specific section says otherwise. The new procedures in this law override any union contracts that have different rules. Business day means any day except Saturday, Sunday, or federal holidays.",
+      "word_offset": 1230,
+      "char_offset": 7985
+    }
+  ]
+}

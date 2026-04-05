@@ -1,0 +1,100 @@
+{
+  "bill_id": "119-s-979",
+  "title": "Buying Faster than the Enemy Act of 2025",
+  "short_title": "Buying Faster than the Enemy Act of 2025",
+  "congress": 119,
+  "bill_number": "S.979",
+  "introduced_date": "2025-03-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "bf27122a14fa8e82",
+  "last_updated": "2026-04-05T04:27:01.658140+00:00",
+  "plain_summary": "This bill helps the Defense Department buy things from companies much faster and easier. It cuts down on paperwork and complicated rules that slow down purchases. The bill also lets the Defense Department pay companies some money upfront before work is finished. It assumes that most products and services are regular commercial items unless someone proves they are not. The goal is to help the military get what it needs more quickly by reducing red tape.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-12",
+  "last_action_date": "2025-03-12",
+  "last_action_text": "Read twice and referred to the Committee on Armed Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [],
+  "sponsor_name": "Sen. Banks, Jim [R-IN]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "defense spending",
+    "military purchases",
+    "government contracts",
+    "buying weapons faster",
+    "defense contractors",
+    "military equipment",
+    "government procurement",
+    "defense department buying",
+    "military spending rules",
+    "contractor payments",
+    "defense acquisition",
+    "military red tape"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Buying Faster than the Enemy Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modifications-to-commercial-solutions-openings",
+      "title": "Section 2 Modifications to Commercial Solutions Openings",
+      "text": "This section changes how the Defense Department can buy products and services from companies. The Defense Secretary and military department heads can now buy commercial products, commercial services, and items that already exist without needing new development. They can do this by holding competitions where companies submit proposals, and experts review those proposals. After picking a winner, they can give that company more contracts later without having to justify why or hold another competition. The Defense Department must set up ongoing requests for proposals for each systems command, science laboratory, and buying executive. When developing new military capabilities, they should use fast buying methods like urgent capability buying, middle tier buying, software buying, or services buying as described in Defense Department instructions. The approval process is also simplified so that local contracting officers or their deputies can make decisions instead of higher-level officials.",
+      "word_offset": 17,
+      "char_offset": 89
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-limitation-on-required-flowdown-of-contract-clauses",
+      "title": "Section 3 Limitation on Required Flowdown of Contract Clauses to Subcontractors Providing Commercial Products or Commercial Services",
+      "text": "This section limits what contract rules the Defense Department can require companies to pass down to their subcontractors when buying commercial products and services. The Defense Secretary can only require contract clauses that are specifically required by law and are on an official list. The Defense Department must create just two standard contract clauses, one for commercial products and services and another for non-commercial products and services. These changes will apply to new contract requests issued more than one hundred twenty days after this law passes. The Defense Secretary has one hundred eighty days to update the Defense Federal Acquisition Regulation Supplement to follow these new rules.",
+      "word_offset": 160,
+      "char_offset": 1089
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-modifications-to-relationship-of-other-provisions",
+      "title": "Section 4 Modifications to Relationship of Other Provisions of Law to Procurement of Commercial Products and Commercial Services",
+      "text": "This section changes which laws and contract requirements apply when the Defense Department buys commercial products and services. The Defense Federal Acquisition Regulation Supplement must include lists of defense-specific laws and contract requirements that apply to contracts and subcontracts for commercial products and services. For any new law or requirement created after October thirteenth, nineteen ninety four, it can only be added to these lists if the Under Secretary of Defense for Acquisition and Sustainment writes a decision saying it would be good for the Defense Department to apply that law or requirement. The section also defines what counts as a subcontract and excludes certain types of agreements. There are special rules for commercially available off-the-shelf items, which are products you can buy without any changes. Certain laws always apply no matter what, including those that set criminal or civil penalties, require buying from United States sources, or specifically say they apply to commercial product contracts.",
+      "word_offset": 267,
+      "char_offset": 1801
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-nontraditional-defense-contractor-commercial-solutions-opening",
+      "title": "Section 5 Nontraditional Defense Contractor Commercial Solutions Opening",
+      "text": "This section requires the Defense Secretary to create at least five groups of companies called consortia for each systems command and each buying executive. These consortia will work on prototype projects and follow-up production using existing legal authority. When developing new military capabilities through these consortia, the preferred approach should be using fast buying methods like urgent capability buying, middle tier buying, software buying, or services buying as described in Defense Department instructions. The Defense Secretary can create more than five consortia if needed.",
+      "word_offset": 423,
+      "char_offset": 2850
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-advance-payments",
+      "title": "Section 6 Advance Payments",
+      "text": "This section increases how much money the Defense Department can pay to contractors before work is finished. The limit changes from no more than fifteen percent of the contract price to no more than thirty percent of the contract price.",
+      "word_offset": 507,
+      "char_offset": 3443
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-modifications-to-commercial-product-determinations",
+      "title": "Section 7 Modifications to Commercial Product and Commercial Service Determinations by Department of Defense",
+      "text": "This section changes how the Defense Department decides whether products and services are commercial or not. The Defense Secretary must create a default rule that assumes all products and services are commercial and should be bought using commercial buying procedures, especially general request procedures, unless a contracting officer decides they are not commercial. The Defense Department cannot buy a defense-unique development product or service if there is a commercial product or service, with or without changes, that meets their minimum needs. When a contracting officer decides something is not commercial, they must write a detailed memo explaining why and get approval from the head of contracting activity before awarding the contract. The memo must include a detailed reason why the product or service was determined to be non-commercial, including market research results, and a signed statement from the program manager saying the requirement could not be reasonably changed to use a commercial product or service. Defense-unique development means a Defense Department-funded development project to either change a commercial product or create a new product to provide a defense-specific capability.",
+      "word_offset": 547,
+      "char_offset": 3680
+    }
+  ]
+}

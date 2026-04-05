@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-863",
+  "title": "Genomic Data Protection Act",
+  "short_title": "Genomic Data Protection Act",
+  "congress": 119,
+  "bill_number": "S.863",
+  "introduced_date": "2025-03-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "03e3d0dd5fc798ee",
+  "last_updated": "2026-04-05T04:22:57.465945+00:00",
+  "plain_summary": "This law gives people who use genetic testing companies the right to see, delete, or ask for their genetic information to be destroyed. Companies that sell genetic tests directly to people must tell customers clearly about these rights. If someone asks to have their genetic data deleted, the company must do it within thirty days. The Federal Trade Commission will make sure companies follow these rules.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-05",
+  "last_action_date": "2025-03-05",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Sen. Cassidy, Bill [R-LA]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "genetic testing",
+    "DNA testing",
+    "delete genetic data",
+    "privacy rights",
+    "genetic information",
+    "DNA privacy",
+    "testing companies",
+    "genetic data protection",
+    "delete DNA results",
+    "genetic privacy laws",
+    "DNA data rights",
+    "genetic testing privacy"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Genomic Data Protection Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-consumer-rights-regarding-privacy-of-genomic-data",
+      "title": "Section 2 Consumer Rights Regarding Privacy of Genomic Data",
+      "text": "Companies that sell genetic tests directly to customers must give people certain rights and protections for their genetic information. These companies must provide an easy way for customers to look at their genetic data and to delete their account along with all genetic data connected to it. Customers can also ask the company to destroy any biological samples like saliva or blood that they provided. The company must make these options available through whatever main method they usually use to contact their customers, such as email or their website. Companies must clearly explain these rights to customers in language that is easy to understand and not misleading. They must also tell customers that their genetic data might be shared for medical or scientific research after it has been changed so it cannot be linked back to them personally. This sharing must follow the same privacy rules that apply to medical information under federal health privacy laws. If another company buys the genetic testing company, customers must be told at least thirty days before the sale is final. The notice must say who is buying the company and explain how customers can still use their rights to access or delete their data under the new owners. When a customer asks to delete their genetic data or destroy their biological sample, the company has thirty days to do it and thirty days to tell the customer it has been done. If the company is being sold while a customer's deletion request is still pending, the new owners must complete the request within the original thirty day time period. Companies do not have to delete information if a court order requires them to keep it or if other laws require them to keep certain records. If companies break these rules, it will be treated the same as unfair or deceptive business practices under federal trade laws. The Federal Trade Commission will enforce this law using the same powers it has for other consumer protection laws. The Commission can create additional rules to carry out this law within one year of when it becomes effective. The law defines several important terms. A biological sample means any part of the human body or substance from it that contains DNA, like tissue, blood, urine, or saliva. A consumer is anyone who gives a biological sample to a direct to consumer genetic testing company. Genetic data that has been deidentified means information that cannot be used to figure out who a specific person is, as long as the company takes reasonable steps to prevent identification and promises not to try to figure out who people are. A direct to consumer genomic testing company includes any business that makes genetic tests for sale directly to customers, analyzes genetic data from customers, or collects and uses genetic information from these tests. This does not include doctors or other healthcare professionals who do genetic testing to diagnose or treat medical conditions. Genomic data means any information that comes from analyzing a biological sample and relates to genetic material like DNA, genes, or chromosomes. This includes raw data from tests and any information that can be figured out from that data. However, it does not include genetic data that has been properly deidentified and is being used for medical or scientific research following federal health privacy rules. A genomic testing product or service means any test that analyzes or interprets genetic data or biological samples from customers. This law does not limit other federal laws unless specifically stated. It also does not override state laws unless a state law directly conflicts with this federal law, and then only to the extent of that conflict.",
+      "word_offset": 10,
+      "char_offset": 56
+    }
+  ]
+}

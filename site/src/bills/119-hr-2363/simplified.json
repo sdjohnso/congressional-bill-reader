@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-2363",
+  "title": "DOGE POUND Act of 2025",
+  "short_title": "DOGE POUND Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2363",
+  "introduced_date": "2025-03-26",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2479a173417d1964",
+  "last_updated": "2026-04-05T03:35:31.246134+00:00",
+  "plain_summary": "The DOGE POUND Act of 2025 controls who can look at personal health information on computers at the Department of Health and Human Services. Only workers who already worked there before January 2025 or other government workers who pass special safety and honesty checks are allowed to use these computer systems. If someone breaks these rules and looks at the health information when they are not supposed to, they could go to prison for up to five years. This law is meant to keep people's private health information safe from the wrong people.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-26",
+  "last_action_date": "2025-03-26",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Rep. DeGette, Diana [D-CO-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "CO",
+  "cosponsor_count": 5,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "health information privacy",
+    "medical records security",
+    "government workers accessing health data",
+    "personal health information protection",
+    "health department computer access",
+    "medical privacy laws",
+    "health records safety",
+    "government employee background checks",
+    "prison time for accessing health records",
+    "protecting patient information",
+    "health data computer systems"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Data Of Government health Entities must be Protected from Overreach by Unelected Nonsecure Disruption Act of two thousand twenty five or the DOGE POUND Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibiting-authorization",
+      "title": "Section 2  Prohibiting the Authorization of Certain Individuals to Access Certain Systems Containing Individually Identifiable Health Information",
+      "text": "No matter what other laws say, no person can be given permission to use, control, or look at any computer system that holds personal health information from the Department of Health and Human Services. There are only two types of people who can access this information. First, workers at the Department of Health and Human Services who were already allowed to see this information before January twentieth two thousand twenty five and stayed qualified to see it after that date. Second, other people can only access this information if they meet all of these requirements. They must have the right level of security clearance that was given through proper government procedures. Their access must not break conflict of interest laws. They cannot be special government employees who work only part time or temporarily. They must have worked full time for the government for at least one year in a row. They must finish required training about privacy laws and computer security. They must sign a written agreement about following ethics rules with either the Department of Health and Human Services or the Office of Government Ethics. Anyone who breaks these rules on purpose can go to prison for up to five years or pay a fine or both. The same punishment applies to anyone who gives permission to someone else to break these rules. People can be charged with this crime up to ten years after they commit it. The Inspector General of the Department of Health and Human Services must investigate every time someone uses these systems without permission. They must write a report to Congress within thirty days of each incident. The report must describe exactly what the person did without permission. It must assess any risks to privacy, national security, computer security, or the safety of the computer system. It must describe any payments that were stopped during the unauthorized use. For this law, a specified system means any computer system run by the Department of Health and Human Services that contains personal health information that can identify specific people.",
+      "word_offset": 36,
+      "char_offset": 212
+    }
+  ]
+}

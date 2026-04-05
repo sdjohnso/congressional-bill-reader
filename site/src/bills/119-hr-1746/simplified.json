@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-hr-1746",
+  "title": "SAVE Act",
+  "short_title": "SAVE Act",
+  "congress": 119,
+  "bill_number": "HR.1746",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b13afeb63c6f04b9",
+  "last_updated": "2026-04-05T03:54:17.627382+00:00",
+  "plain_summary": "The SAVE Act requires the Department of Veterans Affairs to make yearly reports to Congress about people who are approved to help veterans get their benefits. These helpers must have special certification that shows they are qualified to assist veterans. The VA must contact these approved helpers every year to make sure their information is up to date in the VA's computer system. This law helps make sure veterans get proper help when applying for their benefits.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Accounting and auditing",
+    "Civil actions and liability",
+    "Congressional oversight",
+    "Employment and training programs",
+    "Government information and archives",
+    "Intellectual property",
+    "Lawyers and legal services",
+    "Licensing and registrations",
+    "Veterans' organizations and recognition"
+  ],
+  "sponsor_name": "Rep. Stanton, Greg [D-AZ-4]",
+  "sponsor_party": "D",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "veterans benefits help",
+    "VA benefits assistance",
+    "veterans service representatives",
+    "help getting VA benefits",
+    "veteran benefit claims help",
+    "VA certified helpers",
+    "veterans benefits advisors",
+    "getting help with veteran benefits",
+    "VA benefits counselors",
+    "veteran claims assistance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Standardizing Accreditation information for Veteran Ease Act or the SAVE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-annual-report",
+      "title": "Section 2 Annual Report",
+      "text": "This section changes the laws about veterans by adding two new requirements. First, the Secretary of Veterans Affairs must include special information in their yearly report to Congress. This information must be about the people and groups that are approved to help veterans with their benefit claims. The report must include fourteen different types of information each year. It must describe what training is required for people to get approved and stay approved to help veterans. It must explain what personal information the government collects from people who want to help veterans. It must describe how the government gathers and checks this information. It must say how often people and groups must give updated information and follow ongoing rules. The report must tell how many government workers handle this program. It must explain how often the VA Accreditation Search database gets updated and checked for mistakes, including wrong contact information and removing people who are no longer approved. It must describe what steps have been taken to keep the database current. The report must identify what extra resources the department might need to make sure published information is accurate and that approved people have good character and are qualified to help veterans. It must list the costs and time needed to process applications. Finally, it must say how often people get denied approval or lose their approval and why. Second, the Secretary must create and maintain a special certification mark that approved people can use to show they are qualified to help veterans with benefit claims. This mark must be registered with the United States Patent and Trademark Office. Anyone who uses this mark fraudulently to trick people into believing they are approved when they are not can be fined, imprisoned, or both. Money collected from these penalties will stay with the Department of Veterans Affairs to help enforce this rule. This does not make it illegal to use marks that were already being used legally when this law was passed.",
+      "word_offset": 17,
+      "char_offset": 105
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-biannual-database-accuracy",
+      "title": "Section 3 Biannual Database Accuracy",
+      "text": "No later than one hundred eighty days after the Secretary submits the first yearly report that includes the new information requirements, and then every year after that, the Secretary of Veterans Affairs must do three things. First, the Secretary must send a notice to each person who is approved to help veterans asking them to update their contact information with the Department of Veterans Affairs. Second, the Secretary must make instructions available to the public so these people know how to update their contact information. Third, the Secretary must make sure the VA Accreditation Search Database includes all the updated contact information.",
+      "word_offset": 348,
+      "char_offset": 2158
+    }
+  ]
+}

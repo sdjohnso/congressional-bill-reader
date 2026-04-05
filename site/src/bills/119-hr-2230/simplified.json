@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-2230",
+  "title": "Independent Programmers Tax Incentive Act",
+  "short_title": "Independent Programmers Tax Incentive Act",
+  "congress": 119,
+  "bill_number": "HR.2230",
+  "introduced_date": "2025-03-18",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "bee2cb4141bf9b5d",
+  "last_updated": "2026-04-05T04:30:14.882625+00:00",
+  "plain_summary": "This bill gives tax breaks to cable and streaming companies when they show programs made by small independent TV producers. The tax credit depends on how much the companies pay for the programs and how many customers they have. The goal is to help small TV program makers get their shows seen by more people. The FCC has to write a report every two years about how well this is working for independent programmers.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-18",
+  "last_action_date": "2025-03-18",
+  "last_action_text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 19,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "tax breaks for streaming companies",
+    "independent TV shows",
+    "small TV producers",
+    "cable company tax credits",
+    "streaming services tax incentives",
+    "independent programming support",
+    "small media companies help",
+    "TV producer tax benefits",
+    "independent content creators",
+    "streaming platform incentives",
+    "small television studios",
+    "independent media tax relief"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Independent Programmers Tax Incentive Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-carriage-of-independent-programmers-tax-credit",
+      "title": "Section 2 Carriage of Independent Programmers Tax Credit",
+      "text": "This section creates a new tax credit for companies that distribute TV channels to customers. The credit applies to eligible distributors, which are companies that offer multiple TV channels to subscribers. This includes cable companies, satellite TV companies, and internet-based TV services.\n\nThe tax credit amount depends on two things. First, it cannot be more than the license fees the distributor pays to independent programmers during the tax year. Second, it cannot be more than ten cents times the average number of monthly subscribers who get the programming. However, the total credit for any distributor in one year cannot be more than thirty cents times their average number of monthly subscribers.\n\nTo qualify for this credit, the distributor must have a written agreement with a qualified independent programmer. This agreement must provide the programming to at least forty percent of the distributor's subscribers. The distributor must also pay license fees to the programmer.\n\nA qualified independent programmer is a United States based person who creates or distributes TV programming. They cannot be a publicly traded company, a TV distributor themselves, a major network, or a large TV station company. Major networks are defined as those offering programming for fifteen or more hours per week to at least twenty five affiliates in ten or more states. Large TV station companies are those that reach more than three percent of the national audience.\n\nThe programming must be linear video programming, which means regular scheduled TV shows like those from broadcast stations. It does not include videos made by regular consumers.\n\nIf a distributor gets this tax credit, they cannot also deduct the same expenses on their taxes. This prevents getting a double benefit from the same costs.",
+      "word_offset": 11,
+      "char_offset": 70
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-biennial-report-by-fcc-to-congress",
+      "title": "Section 3 Biennial Report by FCC to Congress",
+      "text": "The Federal Communications Commission must write a report for Congress. The first report is due within one hundred eighty days after this law is passed. After that, they must write a new report at least every two years.\n\nThe report must include four things. First, it must state how many qualified independent programmers have TV shows distributed by eligible distributors and how long on average these shows have been carried by the same distributor. Second, it must give the same information specifically for traditional cable and satellite companies. Third, it must give the same information specifically for internet-based TV services. Fourth, it must recommend ways to increase the number of qualified independent programmers that get their shows distributed.\n\nTo help write these reports, the Internal Revenue Service can share tax return information with the FCC. This information comes from companies that claim the tax credit created in this law. However, the FCC can only use this information for writing the required reports. The reports they send to Congress cannot include details that would identify specific taxpayers.",
+      "word_offset": 296,
+      "char_offset": 1880
+    }
+  ]
+}

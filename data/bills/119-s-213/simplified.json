@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-213",
+  "title": "Main Street Tax Certainty Act",
+  "short_title": "Main Street Tax Certainty Act",
+  "congress": 119,
+  "bill_number": "S.213",
+  "introduced_date": "2025-01-23",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "615e2f9c8e7b0d25",
+  "last_updated": "2026-04-05T03:30:05.601215+00:00",
+  "plain_summary": "This bill makes a tax break for business owners permanent. Right now, some business owners can reduce their taxes by deducting 20% of their business income. This tax break is set to end in 2025, but this bill would make it last forever. The deduction helps small business owners and people who get income from certain real estate and partnership investments pay less in taxes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Daines, Steve [R-MT]",
+  "sponsor_party": "R",
+  "sponsor_state": "MT",
+  "cosponsor_count": 45,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "small business tax break",
+    "business owner tax deduction",
+    "20 percent deduction",
+    "small business taxes",
+    "business income tax relief",
+    "partnership tax deduction",
+    "real estate investment taxes",
+    "permanent tax break",
+    "business tax certainty",
+    "small business permanent deduction"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Main Street Tax Certainty Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-deduction-for-qualified-business-income-made-permanent",
+      "title": "Section 2  Deduction for Qualified Business Income Made Permanent",
+      "text": "This section changes the tax code by removing the part that makes the business income deduction expire. Section one hundred ninety nine A of the Internal Revenue Code of nineteen eighty six is changed by removing subsection i. This means the tax break for certain business income will continue forever instead of ending on a set date.",
+      "word_offset": 11,
+      "char_offset": 58
+    }
+  ]
+}

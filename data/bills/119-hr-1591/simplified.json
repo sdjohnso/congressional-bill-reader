@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-1591",
+  "title": "Security Clearance Review Act",
+  "short_title": "Security Clearance Review Act",
+  "congress": 119,
+  "bill_number": "HR.1591",
+  "introduced_date": "2025-02-26",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "90259912d0fdd063",
+  "last_updated": "2026-04-05T04:37:01.493494+00:00",
+  "plain_summary": "This bill gives the FBI Director the job of deciding who can get security clearances for certain government workers in the President's office. These workers include people the President picks for jobs and special employees who work for the government. If the FBI Director says no to giving someone a security clearance, or if the President disagrees with that decision, then Congress must be told about it in writing. This helps Congress know what is happening with security clearances in the President's office.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-26",
+  "last_action_date": "2025-02-26",
+  "last_action_text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for considerati",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Congressional oversight",
+    "Executive Office of the President",
+    "Federal officials",
+    "Government employee pay, benefits, personnel management",
+    "Intelligence activities, surveillance, classified information",
+    "Presidents and presidential powers, Vice Presidents"
+  ],
+  "sponsor_name": "Rep. Beyer, Donald S. [D-VA-8]",
+  "sponsor_party": "D",
+  "sponsor_state": "VA",
+  "cosponsor_count": 22,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "security clearance",
+    "FBI background checks",
+    "White House staff",
+    "presidential appointments",
+    "government security",
+    "classified information access",
+    "congressional oversight",
+    "executive branch security",
+    "federal employee clearances",
+    "presidential staff vetting"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Security Clearance Review Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-security-clearance-determinations",
+      "title": "Section 2 Security Clearance Determinations and Access Determinations by Director of FBI for Political Appointees and Special Government Employees in Executive Office of the President",
+      "text": "This section changes an existing law from two thousand four called the Intelligence Reform and Terrorism Prevention Act. It adds new rules about security clearances for people who work in the Executive Office of the President. The Executive Office of the President is where the President and their closest staff work.\n\nPolitical appointees are people chosen by the President to work in government jobs. Special Government employees are people who work for the government part time or temporarily. Under these new rules, these people cannot work in the Executive Office of the President unless their job is clearly good for national security.\n\nIf political appointees or special Government employees do work in the Executive Office of the President, they cannot get security clearances or see classified information unless the Director of the Federal Bureau of Investigation approves it. A security clearance is official permission to see secret government information. Classified information is secret information that could harm national security if the wrong people saw it.\n\nIf the FBI Director says no to giving someone a security clearance or takes one away, the Director must tell the President and the correct committees in Congress on the same day. If the President disagrees with the FBI Director and lets the person keep their clearance anyway, the President must write a letter to Congress within thirty days explaining why.\n\nThe definitions used in this section come from other existing laws. Political appointee means what it means in a two thousand fifteen law about presidential transitions. Special Government employee means what it means in title eighteen of the United States Code.",
+      "word_offset": 10,
+      "char_offset": 58
+    }
+  ]
+}

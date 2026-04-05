@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-727",
+  "title": "Prohibiting Abortion Industry’s Lucrative Loopholes Act",
+  "short_title": "Prohibiting Abortion Industry’s Lucrative Loopholes Act",
+  "congress": 119,
+  "bill_number": "HR.727",
+  "introduced_date": "2025-01-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "3a0498399c2c13d7",
+  "last_updated": "2026-04-05T04:46:14.200612+00:00",
+  "plain_summary": "This bill changes the rules about what counts as payment when people trade human fetal tissue. Right now, the law only considers some types of payments as illegal, but this bill would make the definition much wider. Under the new rules, many more kinds of payments, gifts, services, and benefits would be considered illegal when exchanged for fetal tissue. The goal is to close gaps in the current law that might allow people to get around the rules against paying for fetal tissue.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-24",
+  "last_action_date": "2025-01-24",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Cell biology and embryology",
+    "Retail and wholesale trades"
+  ],
+  "sponsor_name": "Rep. Franklin, Scott [R-FL-18]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 12,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "abortion",
+    "fetal tissue",
+    "selling fetal tissue",
+    "buying fetal tissue",
+    "abortion clinics",
+    "fetal tissue trade",
+    "abortion industry",
+    "fetal tissue sales",
+    "abortion payments",
+    "fetal tissue money",
+    "abortion profits",
+    "fetal tissue loopholes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Prohibiting Abortion Industry's Lucrative Loopholes Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibiting-sale-or-transactions-relating-to-human-fetal-tissue",
+      "title": "Section 2 Prohibiting Sale or Transactions Relating to Human Fetal Tissue",
+      "text": "This section changes an existing law called the Public Health Service Act. It replaces part of that law with a new definition. The new definition explains what counts as valuable consideration (something of value given in exchange for human fetal tissue). Valuable consideration includes any payment made or debt that someone owes. It includes any gift, award, or recognition that has value. It includes any price, charge, or fee that is waived, forgiven, reduced, or put off indefinitely. It includes any loan or debt that is canceled or forgiven. It includes transferring any item from one person to another or providing any service or giving any opportunity that normally costs money, but doing it for free or for less money than usual. It also includes any payments connected to moving, implanting, processing, preserving, checking the quality of, or storing human fetal tissue.",
+      "word_offset": 12,
+      "char_offset": 84
+    }
+  ]
+}

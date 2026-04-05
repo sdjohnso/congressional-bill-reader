@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2298",
+  "title": "Reducing Barriers for Broadband on Federal Lands Act of 2025",
+  "short_title": "Reducing Barriers for Broadband on Federal Lands Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2298",
+  "introduced_date": "2025-03-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7040f7f06c748b70",
+  "last_updated": "2026-04-05T03:43:36.087126+00:00",
+  "plain_summary": "This bill makes it easier for companies to build broadband internet on some federal lands. Companies would not have to do special studies about how their internet projects might hurt the environment or damage historic places. The new rules only apply to broadband projects built along roads and transportation areas, but not on major interstate highways. This is meant to help more people get access to high-speed internet by making it faster and cheaper to build the needed equipment.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-24",
+  "last_action_date": "2025-03-24",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of su",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Fulcher, Russ [R-ID-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "ID",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "broadband internet",
+    "federal lands",
+    "high speed internet",
+    "internet access",
+    "building internet infrastructure",
+    "environmental studies",
+    "historic preservation",
+    "roads and internet",
+    "internet expansion",
+    "faster internet construction"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Reducing Barriers for Broadband on Federal Lands Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exemptions-for-certain-broadband-projects",
+      "title": "Section 2 Exemptions for Certain Broadband Projects",
+      "text": "When the federal government gives permission for broadband projects in rights of way, these projects do not have to follow certain review rules. First, these projects do not count as major federal actions under NEPA (the National Environmental Policy Act of nineteen sixty nine). This means they do not need full environmental impact studies. Second, these projects do not count as undertakings under the National Historic Preservation Act. This means they do not need reviews to protect historical sites. Here are the key terms. A broadband project means installing internet equipment on federal land by a broadband company. This includes copper wires, fiber optic cables, cell towers, buildings, or other improvements that let people send and receive high quality voice calls, data, pictures, and videos. A broadband provider is a company that provides internet service through wires or wireless technology. Federal authorization means any permission required by federal law for a project. This includes permits, special use permits, certifications, opinions, or other approvals that federal law requires. Right of way means the area on, below, or above roads, highways, streets, sidewalks, alleys, or similar areas that are used now or were used before for transportation. It also includes land right next to these areas that is part of the right of way grant. However, right of way does not include parts of the Interstate Highway System.",
+      "word_offset": 18,
+      "char_offset": 103
+    }
+  ]
+}

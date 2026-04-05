@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-hconres-5",
+  "title": "Legislative Proxy and Absence Accommodation Resolution",
+  "short_title": "Legislative Proxy and Absence Accommodation Resolution",
+  "congress": 119,
+  "bill_number": "HCONRES.5",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "94214c04c4298496",
+  "last_updated": "2026-04-05T04:44:20.925660+00:00",
+  "plain_summary": "This bill would let members of Congress vote by having another member vote for them or join meetings from far away when they cannot be there in person. They can do this if they are sick, have a family emergency like someone dying or being very sick, have jury duty, are serving in the military, or cannot travel safely. Members would need to write a letter explaining why they are absent and send it to Congress officials. Some reasons like being sick can only be used for up to seven days per year. Congress would keep a public list showing when and why members used these options.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-28",
+  "last_action_date": "2025-01-28",
+  "last_action_text": "Referred to the House Committee on Rules.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "Family relationships",
+    "Legislative rules and procedure",
+    "Members of Congress"
+  ],
+  "sponsor_name": "Rep. Williams, Nikema [D-GA-5]",
+  "sponsor_party": "D",
+  "sponsor_state": "GA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress voting from home",
+    "remote voting congress",
+    "proxy voting representatives",
+    "absent congress members",
+    "sick leave congress",
+    "virtual meetings congress",
+    "congress emergency absence",
+    "voting by proxy",
+    "remote participation congress",
+    "congress attendance rules",
+    "family emergency congress",
+    "military service congress voting"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This resolution can be called the Legislative Proxy and Absence Accommodation Resolution.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-permitting-proxy-voting-and-remote-attendance-at-committee-proceedings-for-members-of-the-house-of-representatives-in-certain-cases",
+      "title": "Section 2 Permitting Proxy Voting and Remote Attendance at Committee Proceedings for Members of the House of Representatives in Certain Cases",
+      "text": "This section changes the rules for House members so they can have someone else vote for them or attend committee meetings remotely in certain situations. House members can choose another House member to vote for them if they send a signed letter to the Clerk. The letter must say which reason applies to them and name the person who will vote for them. The reasons include serious family or medical leave situations that are covered by the Family and Medical Leave Act, minor illnesses for up to seven days per year, jury duty when called by a court, death of a family member for up to four days in a row, military service for up to fifteen days per year or twenty two days for state emergency service, or when they cannot safely travel due to natural disasters, terrorist attacks, or other dangerous conditions. Family member means spouse, domestic partner, children, parents, siblings, grandparents, grandchildren, and their spouses, plus other people who are like family as defined by House rules. House members can also attend committee meetings remotely for the same reasons by sending a signed letter to the Clerk. When someone votes remotely or by proxy, they still count toward the minimum number of people needed to conduct business. The Clerk must keep a public list showing who is using these options, for how many days, and for what reasons.",
+      "word_offset": 12,
+      "char_offset": 90
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-permitting-proxy-voting-and-remote-attendance-at-committee-proceedings-for-senators-in-certain-cases",
+      "title": "Section 3 Permitting Proxy Voting and Remote Attendance at Committee Proceedings for Senators in Certain Cases",
+      "text": "This section creates the same rules for Senators that Section 2 created for House members. Senators can choose another Senator to vote for them if they send a signed letter to the Secretary of the Senate. The letter must say which reason applies to them and name the person who will vote for them. The reasons are the same as for House members including serious family or medical leave situations covered by the Family and Medical Leave Act, minor illnesses for up to seven days per year, jury duty when called by a court, death of a family member for up to four days in a row, military service for up to fifteen days per year or twenty two days for state emergency service, or when they cannot safely travel due to natural disasters, terrorist attacks, or other dangerous conditions. Family member means the same people as defined for House members but according to Senate committee rules. Senators can also attend committee meetings remotely for the same reasons by sending a signed letter to the Secretary of the Senate. When someone votes remotely or by proxy, they still count toward the minimum number of people needed to conduct business. The Secretary must keep a public list showing which Senators are using these options, for how many days, and for what reasons.",
+      "word_offset": 243,
+      "char_offset": 1444
+    }
+  ]
+}

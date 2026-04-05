@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2908",
+  "title": "Middle Class Savings Act",
+  "short_title": "Middle Class Savings Act",
+  "congress": 119,
+  "bill_number": "HR.2908",
+  "introduced_date": "2025-04-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ff603a3b2c815b77",
+  "last_updated": "2026-04-05T04:10:10.005289+00:00",
+  "plain_summary": "This bill changes how much tax people pay when they sell investments and make money from them. Right now, people start paying higher tax rates on investment profits at certain income levels. The bill raises those income levels so that more middle class families can pay lower tax rates on their investment profits. This means people will keep more money when they sell stocks or other investments, as long as they don't make too much money overall. The goal is to help middle class families save more money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-14",
+  "last_action_date": "2025-04-14",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Barr, Andy [R-KY-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "investment tax",
+    "capital gains tax",
+    "middle class tax relief",
+    "stock sale taxes",
+    "investment profits tax",
+    "lower taxes on investments",
+    "middle class savings",
+    "tax breaks for investors",
+    "selling stocks taxes",
+    "investment income tax cuts"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Middle Class Savings Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-application-of-current-income-tax-bracket-breakpoints-to-capital-gains-brackets",
+      "title": "Section 2  Application of Current Income Tax Bracket Breakpoints to Capital Gains Brackets",
+      "text": "This section changes the dollar amounts that determine how much tax people pay on capital gains (money made from selling investments like stocks). The law increases several income thresholds where different tax rates apply. For single people, the threshold where higher capital gains taxes start goes from seventy seven thousand two hundred dollars to one hundred three thousand three hundred fifty dollars. For married people filing together, it goes from fifty one thousand seven hundred dollars to sixty nine thousand two hundred dollars. Other thresholds for very high earners also increase significantly. These changes apply to tax years that begin after December thirty first, two thousand twenty four.",
+      "word_offset": 10,
+      "char_offset": 53
+    }
+  ]
+}

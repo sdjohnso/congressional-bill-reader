@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1188",
+  "title": "FLARE Act",
+  "short_title": "FLARE Act",
+  "congress": 119,
+  "bill_number": "S.1188",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a1be2b5553e3aa12",
+  "last_updated": "2026-04-05T04:30:32.020385+00:00",
+  "plain_summary": "The FLARE Act is a law that helps companies save money on their taxes when they buy special equipment. This equipment captures natural gas that would normally be burned or released into the air and wasted. Instead of wasting the gas, these systems turn it into useful things like fuel, chemicals, or electricity. Companies can subtract the full cost of buying these systems from their taxes right away instead of waiting years. This encourages companies to stop wasting natural gas and use it for helpful purposes instead.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Cruz, Ted [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "natural gas waste",
+    "flare gas capture",
+    "tax breaks equipment",
+    "methane capture systems",
+    "oil field gas waste",
+    "natural gas flaring",
+    "energy waste reduction",
+    "gas to electricity conversion",
+    "industrial tax incentives",
+    "waste gas recovery"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Facilitating Lower Atmospheric Released Emissions Act or the FLARE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-permanent-full-expensing-of-costs-related-to-flaring-and-venting-mitigation-systems",
+      "title": "Section 2 Permanent Full Expensing of Costs Related to Flaring and Venting Mitigation Systems",
+      "text": "This section changes the tax code to help companies that build systems to capture natural gas that would otherwise be burned off or released into the air. Companies can write off one hundred percent of the cost of these systems right away on their taxes instead of spreading the cost over many years. These systems must take in natural gas and then separate, collect, use, or burn the methane and other oil-based chemicals in the gas. The systems can use this gas in several ways. They can compress or turn the gas into liquid for fuel or to send to processing plants. They can make petrochemicals (chemicals made from oil or gas) or fertilizer. They can turn the gas into liquid fuels or electricity. The electricity can power activities on site or be sent to the electric grid. They can also use the gas to power computers for mining digital assets like cryptocurrency or to run other oil field equipment. This tax benefit does not apply to equipment bought by foreign entities of concern. A foreign entity of concern means any foreign company or organization that the government considers a threat to national security as defined in another federal law. This new tax rule applies to equipment put into use after December thirty first two thousand twenty five.",
+      "word_offset": 16,
+      "char_offset": 99
+    }
+  ]
+}

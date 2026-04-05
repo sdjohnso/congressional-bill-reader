@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-1127",
+  "title": "Rural America Health Corps Act",
+  "short_title": "Rural America Health Corps Act",
+  "congress": 119,
+  "bill_number": "HR.1127",
+  "introduced_date": "2025-02-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "8dc7bdf2b5fc9579",
+  "last_updated": "2026-04-05T04:15:20.020699+00:00",
+  "plain_summary": "The Rural America Health Corps Act creates a new program to help get more doctors and healthcare workers to rural areas that don't have enough medical care. Healthcare workers who agree to work in these rural communities can get help paying off their student loans. The government will pay up to two hundred thousand dollars per person to help with their loans if they work in rural areas for five years. The program will spend fifty million dollars each year from 2026 to 2030 to help these healthcare workers.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-07",
+  "last_action_date": "2025-02-07",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Congressional oversight",
+    "Government lending and loan guarantees",
+    "Health care coverage and access",
+    "Health personnel",
+    "Higher education",
+    "Medical education",
+    "Rural conditions and development",
+    "Student aid and college costs"
+  ],
+  "sponsor_name": "Rep. Kustoff, David [R-TN-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "rural healthcare shortage",
+    "doctor student loan forgiveness",
+    "healthcare worker rural areas",
+    "medical student debt relief",
+    "rural doctor incentives",
+    "healthcare rural communities",
+    "student loan help doctors",
+    "rural medical shortage program",
+    "healthcare worker loan forgiveness",
+    "doctors rural America"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Rural America Health Corps Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-national-health-service-corps-rural-provider-loan-repayment-demonstration-program",
+      "title": "Section 2 National Health Service Corps Rural Provider Loan Repayment Demonstration Program",
+      "text": "The Secretary of Health and Human Services must create a test program to help pay off student loans for certain healthcare workers. To qualify for this help, a person must be eligible for the existing National Health Service Corps Loan Repayment Program but not currently using it. They must also agree to work in rural areas that need more healthcare workers. People who join this program must follow the same rules as the regular loan repayment program, except they must work for five years instead of the usual time period. They must work full time in a rural area that has been identified as needing more healthcare professionals. The Secretary will pay one fifth of the person's loan balance each year for five years, then pay off any remaining balance after the fifth year. No person can receive more than two hundred thousand dollars total through this program. If someone breaks their agreement, the Secretary can require them to pay money back using a penalty formula. However, if someone completes some years of service in good faith but cannot finish all five years, this alone will not be considered breaking the agreement. The same rules that apply to the regular loan repayment program will also apply to this test program, except where this law says otherwise. This test program and the healthcare workers in it will not be counted when the government decides which areas need more healthcare professionals during the years two thousand twenty six through two thousand thirty. Within five years of this law being passed, the Secretary must write a report to Congress about how well this test program worked, including whether it helped improve healthcare access in rural areas. In this law, health professional shortage area means the same thing as defined in the Public Health Service Act. Congress approves spending fifty million dollars each year from two thousand twenty six through two thousand thirty to run this program.",
+      "word_offset": 11,
+      "char_offset": 59
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-1811",
+  "title": "Judicial Ethics Enforcement Act of 2025",
+  "short_title": "Judicial Ethics Enforcement Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1811",
+  "introduced_date": "2025-03-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "5e0f3071a2a55558",
+  "last_updated": "2026-04-05T03:18:14.981919+00:00",
+  "plain_summary": "This bill creates a new office to watch over judges and court workers to make sure they follow the rules. The Chief Justice will pick someone to run this office, called an Inspector General. This person will look into bad behavior by judges and other court employees and write reports to Congress about any problems they find. The law also protects court workers who tell on others for doing wrong things so they won't get in trouble for speaking up.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-03",
+  "last_action_date": "2025-03-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [
+    "Employment discrimination and employee rights",
+    "Government ethics and transparency, public corruption",
+    "Government studies and investigations",
+    "Judicial procedure and administration",
+    "Supreme Court"
+  ],
+  "sponsor_name": "Rep. Stansbury, Melanie A. [D-NM-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "NM",
+  "cosponsor_count": 12,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "judge oversight",
+    "court corruption",
+    "judicial misconduct",
+    "inspector general courts",
+    "judge accountability",
+    "whistleblower protection courts",
+    "judicial ethics enforcement",
+    "court employee misconduct",
+    "supreme court oversight",
+    "judge investigation",
+    "court transparency",
+    "judicial reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Judicial Ethics Enforcement Act of twenty twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-inspector-general-for-the-judicial-branch",
+      "title": "Section 2 Inspector General for the Judicial Branch",
+      "text": "This section creates a new office called the Office of Inspector General for the Judicial Branch. This office will watch over the court system to make sure judges and court workers follow the rules. The Chief Justice of the United States will choose the Inspector General after talking with the top leaders in the Senate and House of Representatives. The Inspector General will serve for four years and can be chosen again for more terms. The Chief Justice can fire the Inspector General but must explain the reasons to Congress. The Inspector General will investigate when judges or court workers might have broken rules or done something wrong. This includes looking into problems at the Supreme Court and other federal courts. However, the Inspector General cannot investigate or review the actual legal decisions that judges make in court cases. The Inspector General can hire staff, ask for documents, require people to testify under oath, and make people come to meetings. The Inspector General must write reports every year for the Chief Justice and Congress about what the office found. When the Inspector General finds evidence that someone may have broken federal criminal laws, they must tell the Attorney General right away. The law also protects court employees who report wrongdoing from being punished, fired, or treated badly by their employers. If someone is punished for reporting wrongdoing, they can sue in court to get help.",
+      "word_offset": 13,
+      "char_offset": 82
+    }
+  ]
+}

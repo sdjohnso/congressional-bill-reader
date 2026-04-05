@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hjres-51",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to \"Quality Control Standards for Automated Valuation Models\".",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.51",
+  "introduced_date": "2025-02-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "023ca0904378ea16",
+  "last_updated": "2026-04-05T04:00:55.376140+00:00",
+  "plain_summary": "Congress wants to cancel a rule made by a government agency about computer programs that guess how much houses and properties are worth. The rule was supposed to make sure these computer programs work correctly when banks and other companies use them. If this bill passes, that rule will be thrown out and will not become law. This means the computer programs that estimate property values would not have to follow the new standards the government wanted to create.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-12",
+  "last_action_date": "2025-02-12",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Clyde, Andrew S. [R-GA-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "home value estimates",
+    "property appraisal computers",
+    "house price algorithms",
+    "automated home valuation",
+    "real estate computer programs",
+    "property value software",
+    "home appraisal technology",
+    "house pricing models",
+    "real estate estimation tools",
+    "mortgage valuation computers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution-title",
+      "title": "Joint Resolution Title",
+      "text": "This joint resolution allows Congress to reject a rule made by the Bureau of Consumer Financial Protection. The rule is about quality control standards for automated valuation models (computer programs that estimate property values).",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "resolution-text",
+      "title": "Resolution Text",
+      "text": "The Senate and House of Representatives have decided together that Congress rejects the rule made by the Bureau of Consumer Financial Protection about quality control standards for automated valuation models. This rule was published in the Federal Register on August seventh, two thousand twenty four, at volume eighty nine, page sixty four thousand five hundred thirty eight. Because Congress rejects this rule, it will have no power and will not take effect.",
+      "word_offset": 34,
+      "char_offset": 234
+    }
+  ]
+}

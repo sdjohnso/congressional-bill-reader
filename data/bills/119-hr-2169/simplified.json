@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2169",
+  "title": "Proper Celebration of Martin Luther King, Jr. Day and Inauguration Day Act",
+  "short_title": "Proper Celebration of Martin Luther King, Jr. Day and Inauguration Day Act",
+  "congress": 119,
+  "bill_number": "HR.2169",
+  "introduced_date": "2025-03-18",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "47db95f8683ac1d1",
+  "last_updated": "2026-04-05T04:21:24.371118+00:00",
+  "plain_summary": "This bill makes sure that two important holidays never happen on the same day for government workers. Martin Luther King Jr. Day and Inauguration Day are both federal holidays that can sometimes fall on the same Monday in January. When this happens, the bill says that Martin Luther King Jr. Day will be moved to the Tuesday right after the third Monday in January instead. This way, federal employees can properly celebrate both holidays on separate days.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-18",
+  "last_action_date": "2025-03-18",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "subjects": [],
+  "sponsor_name": "Rep. Barrett, Tom [R-MI-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Martin Luther King Day",
+    "MLK Day",
+    "Inauguration Day",
+    "federal holidays",
+    "government holidays",
+    "holiday scheduling",
+    "January holidays",
+    "presidential inauguration",
+    "federal employees",
+    "holiday conflicts",
+    "same day holidays",
+    "moving holidays"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Proper Celebration of Martin Luther King Junior Day and Inauguration Day Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-separate-dates-for-celebration-of-martin-luther-king-jr-day-and-inauguration-day",
+      "title": "Section 2 Separate Dates for Celebration of Martin Luther King Junior Day and Inauguration Day",
+      "text": "This section changes the federal law about holidays for government workers. It makes a new rule about what happens when two important holidays fall on the same day. If Inauguration Day (the day a new president is sworn in) happens to fall on the same day as Martin Luther King Junior Day, then Martin Luther King Junior Day will be moved to the Tuesday after the third Monday in January instead. This way, both holidays can be celebrated on separate days rather than on the same day.",
+      "word_offset": 18,
+      "char_offset": 105
+    }
+  ]
+}

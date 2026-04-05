@@ -1,0 +1,91 @@
+{
+  "bill_id": "119-s-301",
+  "title": "Border Security is National Security Act",
+  "short_title": "Border Security is National Security Act",
+  "congress": 119,
+  "bill_number": "S.301",
+  "introduced_date": "2025-01-29",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2c1f49a8dd36b9c0",
+  "last_updated": "2026-04-05T04:12:36.925562+00:00",
+  "plain_summary": "This bill gives the Department of Defense ten billion dollars to help make America's borders more secure. The Defense Department will use this money to help the Department of Homeland Security protect the country's borders. They can spend the money on military workers, special equipment, cameras and other watching systems, and other things that help keep borders safe. The money can be used until the year 2028.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-29",
+  "last_action_date": "2025-01-29",
+  "last_action_text": "Read twice and referred to the Committee on Armed Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Aviation and airports",
+    "Border security and unlawful immigration",
+    "Department of Defense",
+    "Executive agency funding and structure",
+    "Intelligence activities, surveillance, classified information",
+    "Military personnel and dependents",
+    "Military procurement, research, weapons development",
+    "Motor vehicles"
+  ],
+  "sponsor_name": "Sen. Banks, Jim [R-IN]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border security",
+    "military border help",
+    "homeland security funding",
+    "border patrol money",
+    "defense department border",
+    "immigration security",
+    "border cameras",
+    "military equipment borders",
+    "border protection spending",
+    "ten billion border security"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Border Security is National Security Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-sense-of-congress",
+      "title": "Section 2 Sense of Congress",
+      "text": "Congress believes that the President has the power under the Constitution and federal laws to order the military to help secure the borders of the United States. This includes using laws found in chapter fifteen of title ten of the United States Code and laws that provide funding to the Department of Defense.",
+      "word_offset": 12,
+      "char_offset": 69
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-authorization-of-appropriations",
+      "title": "Section 3 Authorization of Appropriations",
+      "text": "Congress approves spending ten billion dollars for the Department of Defense to help with border security. This money is extra money on top of what the Department of Defense already gets. The money can be used until September thirtieth, twenty twenty eight. The Department of Defense will use this money to support the Department of Homeland Security with border security work. The money can pay for military worker costs, buying and running surveillance systems including towers that watch on their own, studying intelligence information, building fences and barriers and patrol roads and lighting, military airplane costs including flying people to help Department of Homeland Security operations, buying and using systems that stop unmanned aircraft that support Department of Homeland Security operations, buying ground vehicles including high mobility multipurpose wheeled vehicles, and training and related costs.",
+      "word_offset": 65,
+      "char_offset": 380
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-transfers-authorized",
+      "title": "Section 4 Transfers Authorized",
+      "text": "The Secretary of Defense can move money from the ten billion dollars to pay for military workers, operations, maintenance, and buying equipment for the same purposes. This power to move money is extra power on top of any other power the Department of Defense already has to move money. If the Secretary decides that some or all of the moved money is not needed for what it was moved for, that money can be used again for the same purposes until September thirtieth, twenty twenty eight. Within forty five days after moving money, the Secretary of Defense must tell the congressional defense committees in writing about moving the money.",
+      "word_offset": 200,
+      "char_offset": 1300
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-rule-of-construction",
+      "title": "Section 5 Rule of Construction",
+      "text": "Nothing in this law limits the President's power under the Constitution as the Commander in Chief of the Armed Forces.",
+      "word_offset": 309,
+      "char_offset": 1937
+    }
+  ]
+}

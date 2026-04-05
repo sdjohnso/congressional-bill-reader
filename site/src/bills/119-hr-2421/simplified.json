@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-2421",
+  "title": "Protecting Taxpayer Resources Act",
+  "short_title": "Protecting Taxpayer Resources Act",
+  "congress": 119,
+  "bill_number": "HR.2421",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ccac50226a8b6589",
+  "last_updated": "2026-04-05T04:10:39.789659+00:00",
+  "plain_summary": "This law stops the Department of Homeland Security from giving their jobs to IRS workers without permission. Before this can happen, a government watchdog must check that the IRS workers know how to do the new jobs and that it won't hurt tax collection. If the watchdog says it's okay, the approval must be made public and can be taken away later if needed.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. DelBene, Suzan K. [D-WA-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "WA",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "IRS workers",
+    "Department of Homeland Security",
+    "government jobs",
+    "tax collectors",
+    "job transfers",
+    "government employees",
+    "taxpayer money",
+    "IRS agents",
+    "homeland security jobs",
+    "government oversight",
+    "tax collection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting Taxpayer Resources Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-determination-regarding-homeland-security-functions",
+      "title": "Section 2  Determination Regarding the Imposition of Certain Homeland Security Functions on Personnel of the Internal Revenue Service",
+      "text": "The Department of Homeland Security cannot give its duties to Internal Revenue Service workers unless the Treasury Inspector General for Tax Administration (a government watchdog for tax matters) first approves it. The Inspector General can only approve this if two things are true. First, the IRS workers must be properly trained to do the homeland security job. Second, giving this extra job to IRS workers must not hurt the IRS's ability to do its regular work. This regular work includes helping taxpayers understand and pay their taxes correctly, and making sure tax laws are enforced fairly for everyone. When the Inspector General makes this approval decision, it must be published in the Federal Register (the official government newspaper where new rules are announced). The Inspector General can also cancel this approval later using the same process. This law also changes an existing homeland security law to make sure it follows these new rules.",
+      "word_offset": 10,
+      "char_offset": 62
+    }
+  ]
+}

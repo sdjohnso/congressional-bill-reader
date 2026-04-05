@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-2097",
+  "title": "Education, Achievement, and Opportunity Act",
+  "short_title": "Education, Achievement, and Opportunity Act",
+  "congress": 119,
+  "bill_number": "HR.2097",
+  "introduced_date": "2025-03-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "4e7cfc8037502349",
+  "last_updated": "2026-04-05T04:32:33.904977+00:00",
+  "plain_summary": "This bill creates a new tax credit to help parents pay for their children's school costs. Parents can get up to ten thousand dollars back each year for each child to help pay for things like tuition and fees at public or private schools. The money can be used for elementary and middle school or high school expenses. Families who make more money will get less of this tax credit than families who make less money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-14",
+  "last_action_date": "2025-03-14",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Smith, Christopher H. [R-NJ-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "school tax credit",
+    "help pay tuition",
+    "education expenses",
+    "school costs",
+    "private school tuition",
+    "public school fees",
+    "tax break for parents",
+    "school voucher",
+    "education tax relief",
+    "help with school bills"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Education, Achievement, and Opportunity Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress believes the following facts. Private schools work alongside public schools and are an important part of our country's education system. Public schools were created to help students, not the other way around. Children should have the chance to attend the school that best helps them learn and grow. Parents have the right to choose whether their child goes to a public or private school based on what works best for their individual child.",
+      "word_offset": 11,
+      "char_offset": 72
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-credit-for-elementary-and-secondary-education-expenses",
+      "title": "Section 3  Credit for Elementary and Secondary Education Expenses",
+      "text": "This section creates a new tax credit that parents can claim for school expenses. Parents can get money back from their taxes for education costs they pay for each qualifying child. The credit can be up to ten thousand dollars per child each year. A qualifying child is defined the same way as in other tax laws. The money back amount gets smaller for families that make more money. For married couples filing together, the credit starts getting reduced when they make more than one hundred fifty thousand dollars per year. For other taxpayers, it starts getting reduced at seventy five thousand dollars per year. The credit goes down by fifty dollars for every one thousand dollars of income over these limits. Qualified education expenses include tuition and fees to attend any public, charter, private, religious, or parochial elementary or secondary school. It also includes up to fifteen hundred dollars per child for computers, educational software, required books, academic tutoring by someone other than the parent, special needs services for children with disabilities, transportation fees charged by private schools, and academic testing services. The credit does not cover fees for non-academic activities like sports, student activities, insurance, uniforms, or after-school programs that are not academic. If parents also use a Coverdell Education Savings Account (a special tax-free savings account for education expenses) for the same child in the same year, they must reduce their credit by the amount they took out of that account. This new tax credit law will start applying to tax years that begin after this law is passed.",
+      "word_offset": 85,
+      "char_offset": 521
+    }
+  ]
+}

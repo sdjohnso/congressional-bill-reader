@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-225",
+  "title": "Supporting the designation of March as \"Autoimmune Awareness Month\" and supporting efforts to increase awareness of autoimmune diseases and increase funding for autoimmune disease research.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.225",
+  "introduced_date": "2025-03-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "1873ab18db329759",
+  "last_updated": "2026-04-05T03:43:21.435514+00:00",
+  "plain_summary": "This bill wants to make March \"Autoimmune Awareness Month\" to teach people about autoimmune diseases. These diseases happen when the body's defense system attacks healthy parts of the body instead of germs. Up to fifty million Americans have these diseases, but they are hard for doctors to figure out. The House of Representatives wants more people to learn about these diseases and wants the government to spend more money on research to find better treatments.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-14",
+  "last_action_date": "2025-03-14",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Stevens, Haley M. [D-MI-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "MI",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "autoimmune diseases",
+    "autoimmune awareness",
+    "March awareness month",
+    "immune system attacks body",
+    "lupus research",
+    "multiple sclerosis funding",
+    "rheumatoid arthritis",
+    "type 1 diabetes",
+    "autoimmune research money",
+    "medical research funding",
+    "rare disease awareness",
+    "chronic illness support"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution supports making March \"Autoimmune Awareness Month\" and supports efforts to increase awareness of autoimmune diseases and increase funding for research into these diseases.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Facts",
+      "text": "Scientists have found more than one hundred autoimmune diseases that last a long time and can make people very sick, with no known cures. Autoimmune diseases happen when the body's immune system attacks healthy parts of the body by mistake. These diseases can affect any part of the body including blood, blood vessels, muscles, the nervous system, the digestive system, hormone glands, and multiple organ systems. They can be life threatening. Scientists have found that autoimmune diseases share similar genes and disease pathways, which explains why multiple autoimmune diseases often occur in the same person or family. The family of autoimmune diseases is not well recognized and creates a major health care challenge for the United States. The National Institutes of Health estimates that autoimmune diseases affect up to fifty million people in the United States. Eighty percent of people affected are women, and these diseases are becoming more common. Autoimmune diseases are among the top ten leading causes of death in women under sixty five years old. These diseases often affect children and young adults, leading to a lifetime of disability. Diagnostic tests for most autoimmune diseases are not standardized, making them very difficult to diagnose. Because autoimmune diseases are hard to diagnose, treatment is often delayed, sometimes causing permanent damage and unnecessary suffering. This makes early diagnosis and treatment very important. The Institute of Medicine reported that the United States is behind other countries in research about how the immune system recognizes itself, which is the cause of autoimmune diseases. A study by the Autoimmune Association found that it takes the average patient with an autoimmune disease more than four and a half years to get a correct diagnosis. There is a significant need for more collaboration and sharing of basic autoimmune research. There is also a significant need for research focusing on what causes all autoimmune related diseases, to increase understanding of the root causes rather than just treating symptoms after the disease has already caused damage.",
+      "word_offset": 25,
+      "char_offset": 188
+    },
+    {
+      "id": "s3",
+      "slug": "house-resolution",
+      "title": "House Resolution",
+      "text": "The House of Representatives supports the designation of \"Autoimmune Awareness Month.\" The House supports the efforts of health care providers and autoimmune patient advocacy and education organizations to increase awareness of the causes of and treatments for autoimmune diseases. The House supports the goal of increasing funding for aggressive research to learn the root causes of autoimmune diseases, as well as the best diagnostic methods and treatments for people with autoimmune diseases.",
+      "word_offset": 355,
+      "char_offset": 2321
+    }
+  ]
+}

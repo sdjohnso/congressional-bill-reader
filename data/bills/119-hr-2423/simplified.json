@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2423",
+  "title": "Unfair Tax Prevention Act",
+  "short_title": "Unfair Tax Prevention Act",
+  "congress": 119,
+  "bill_number": "HR.2423",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a68dba9e4ef6f9cf",
+  "last_updated": "2026-04-05T04:07:32.898237+00:00",
+  "plain_summary": "This bill changes tax rules for American companies that are owned by foreign businesses from certain countries. These foreign countries try to tax American companies even when the business happens outside their borders. When this happens, the American companies that are owned by these foreign businesses will have to pay higher taxes to the United States. The bill makes these companies pay extra taxes on half of what it costs them to make their products. This is meant to protect American companies from unfair foreign tax rules.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Estes, Ron [R-KS-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "KS",
+  "cosponsor_count": 24,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "foreign tax rules",
+    "American companies owned by foreign businesses",
+    "unfair taxation",
+    "international tax protection",
+    "foreign country taxes",
+    "business tax defense",
+    "overseas company ownership",
+    "foreign tax prevention",
+    "American business protection",
+    "international taxation fairness"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Unfair Tax Prevention Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-application-of-the-base-erosion-and-anti-abuse-tax-with-respect-to-certain-entities-connected-to-extraterritorial-tax-jurisdictions",
+      "title": "Section 2  Application of the Base Erosion and Anti-Abuse Tax with Respect to Certain Entities Connected to Extraterritorial Tax Jurisdictions",
+      "text": "This section changes the tax rules for certain companies that are owned by foreign entities and connected to countries that impose extraterritorial taxes. An extraterritorial tax is a tax that a foreign country puts on a company based on income or profits that other connected companies receive, even when the taxed company does not directly own those other companies. When a company qualifies as a foreign-owned extraterritorial tax regime entity, several special rules apply. First, the company will be treated as meeting certain requirements to be subject to the base erosion and anti-abuse tax (a special tax designed to prevent tax avoidance). Second, the effective date for this tax treatment starts from when this law is enacted instead of December thirty-first two thousand twenty-five. Third, certain exceptions and special rules that normally apply will not be available to these companies. Fourth, fifty percent of the company's cost of goods sold will be treated as a base erosion tax benefit related to a base erosion payment, which means it will be subject to additional tax. A foreign-owned extraterritorial tax regime entity means any taxpayer that is controlled by a foreign entity, as long as that foreign entity is not controlled by any United States corporation. The taxpayer qualifies if an extraterritorial tax is imposed on any foreign entity that controls the taxpayer, any foreign entity controlled by the taxpayer or its controlling entity, or any trade or business of these foreign entities. Control has the same meaning as defined in section nine hundred fifty-four of the tax code. A foreign entity means any foreign person except for individuals. These changes apply to tax years that begin after this Act becomes law.",
+      "word_offset": 10,
+      "char_offset": 54
+    }
+  ]
+}

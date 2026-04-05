@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-hr-767",
+  "title": "FLASH Act of 2025",
+  "short_title": "FLASH Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.767",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "aa733d610f3dc2e8",
+  "last_updated": "2026-04-05T05:12:45.595837+00:00",
+  "plain_summary": "The FLASH Act of 2025 helps a government health agency buy medical supplies faster and easier. The agency can now make deals with companies without having to go through long competitions every time. They can also buy new experimental medical supplies and innovative products more quickly. This new law is designed to help the government get important medical supplies when they need them fast.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-28",
+  "last_action_date": "2025-01-28",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Advanced technology and technological innovations",
+    "Congressional oversight",
+    "Emergency planning and evacuation",
+    "Health technology, devices, supplies",
+    "Infectious and parasitic diseases",
+    "Public contracts and procurement",
+    "Research administration and funding",
+    "Research and development",
+    "Technology transfer and commercialization"
+  ],
+  "sponsor_name": "Rep. Garcia, Robert [D-CA-42]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "medical supplies",
+    "government buying",
+    "health agency",
+    "emergency medical equipment",
+    "faster procurement",
+    "medical innovation",
+    "government contracts",
+    "health technology",
+    "medical device purchasing",
+    "emergency preparedness",
+    "streamlined buying process"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Fast-Track Logistics for Acquiring Supplies in a Hurry Act of two thousand twenty-five or the FLASH Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-authority-to-award-follow-on-production-contracts-or-transactions-procure-supplies-for-experimental-or-test-purposes-and-acquire-innovative-commercial-products-and-commercial-services",
+      "title": "Section 2  Authority to Award Follow-on Production Contracts or Transactions, Procure Supplies for Experimental or Test Purposes, and Acquire Innovative Commercial Products and Commercial Services",
+      "text": "This section changes the Public Health Service Act to give the Biomedical Advanced Research and Development Authority (a government agency that helps develop medical supplies and treatments for emergencies) new powers to buy supplies and services. First, when the agency works with companies to design and develop tests and sample products, they can now get enough quantities to properly test these items. They can also create and use animal testing models. Second, the agency can now make follow-on contracts. This means when they first hire a company to create a prototype (early version of a product), they can then hire the same company to actually make the full product without having to hold a new competition. This applies even if the original contract did not specifically mention this possibility, as long as they used a fair competition process to pick the company in the first place. Third, the agency can buy medical treatments, products, supplies, chemicals, materials, manufacturing supplies, protective equipment, and other items they need for testing and experiments. They can buy these things without holding competitions if they need them to develop supplies for national health emergencies. Fourth, the agency can buy innovative commercial products and services (new or advanced products and services sold by private companies) through a competitive process where they ask for proposals from many companies and have experts review them. For contracts worth more than one hundred million dollars, the Secretary of Health and Human Services must write a statement explaining why this purchase will help the department meet its goals. All contracts using this authority must have fixed prices. When the agency awards a contract worth more than one hundred million dollars using this new authority, they must notify Congress within forty-five days. The notification must describe what they bought, explain what problem it solves or what new capability it provides, state how much the contract costs, and identify which company got the contract. In this section, innovative means any technology, process, or method that is completely new, or any new way of using an existing technology that the federal government has never used before.",
+      "word_offset": 27,
+      "char_offset": 160
+    }
+  ]
+}

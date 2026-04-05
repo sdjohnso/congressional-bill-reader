@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-692",
+  "title": "Sustainable Vessel Fuel Act",
+  "short_title": "Sustainable Vessel Fuel Act",
+  "congress": 119,
+  "bill_number": "S.692",
+  "introduced_date": "2025-02-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c4af68bc075b83c0",
+  "last_updated": "2026-04-05T03:34:43.774634+00:00",
+  "plain_summary": "This bill gives companies a special tax break if they make clean fuel for ships and boats. The fuel has to be good for the environment and cannot be made from palm oil or regular oil. Companies can get this tax credit to help them make more clean fuel for water transportation. The tax break will last until the year 2035 to encourage more companies to make this type of fuel.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-24",
+  "last_action_date": "2025-02-24",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Hirono, Mazie K. [D-HI]",
+  "sponsor_party": "D",
+  "sponsor_state": "HI",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "clean fuel",
+    "ship fuel",
+    "boat fuel",
+    "tax break",
+    "tax credit",
+    "environmental fuel",
+    "sustainable fuel",
+    "marine fuel",
+    "vessel fuel",
+    "green energy",
+    "clean transportation",
+    "fuel incentives"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Sustainable Vessel Fuel Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-special-rate-under-clean-fuel-production-credit-for-sustainable-vessel-fuel",
+      "title": "Section 2  Special Rate Under Clean Fuel Production Credit for Sustainable Vessel Fuel",
+      "text": "This section changes the tax code to give special tax credits for making sustainable vessel fuel. The changes work like this. First, the law expands an existing tax credit that was only for sustainable airplane fuel. Now it will also cover sustainable vessel fuel at the same special rate. Second, the law defines what counts as sustainable vessel fuel. It must be liquid fuel that can be used in commercial ships or ferries and is actually sold for that purpose. It cannot be made from palm oil waste or petroleum oil. When tested, it must produce zero emissions. It also must meet quality standards set by testing organizations like the American Society for Testing and Materials. The Secretary of the Treasury will decide which specific standards apply. Third, while the regular clean fuel tax credit ends on December thirty first two thousand twenty seven, the credit for sustainable vessel fuel will last until December thirty first two thousand thirty five. These changes apply to fuel made after December thirty first two thousand twenty five.",
+      "word_offset": 10,
+      "char_offset": 56
+    }
+  ]
+}

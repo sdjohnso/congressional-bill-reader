@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-776",
+  "title": "Nutria Eradication and Control Reauthorization Act of 2025",
+  "short_title": "Nutria Eradication and Control Reauthorization Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.776",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e972e0c9a4277bb5",
+  "last_updated": "2026-04-05T04:33:12.557043+00:00",
+  "plain_summary": "This bill extends a law that helps states get money from the government to control nutria, which are harmful rodents that damage wetlands. Nutria are not native to the United States and cause serious problems by eating marsh plants and digging holes that destroy important water areas. The government can give money to states to kill or control these rodents and to fix the wetland areas they have damaged. The bill keeps this program running until 2030 and fixes a small mistake in the original law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-05",
+  "last_action_date": "2025-02-05",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Animals",
+  "subjects": [
+    "Farmland",
+    "Land use and conservation",
+    "Mammals",
+    "Pest management",
+    "State and local government operations",
+    "Wetlands"
+  ],
+  "sponsor_name": "Rep. Harder, Josh [D-CA-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "nutria control",
+    "invasive rodents",
+    "wetland damage",
+    "marsh protection",
+    "harmful animals",
+    "water habitat restoration",
+    "state funding wildlife",
+    "rodent eradication",
+    "wetland conservation money",
+    "invasive species control"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Nutria Eradication and Control Reauthorization Act of twenty twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reauthorization-of-nutria-eradication-and-control-act-of-2003",
+      "title": "Section 2 Reauthorization of Nutria Eradication and Control Act of 2003",
+      "text": "This section makes two changes to an existing law from two thousand three about controlling nutria (large rodents that damage wetlands). First, it extends the law until twenty thirty instead of twenty twenty-five. Second, it fixes a small writing mistake by removing an extra punctuation mark from the law's text.",
+      "word_offset": 15,
+      "char_offset": 101
+    }
+  ]
+}

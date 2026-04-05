@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-298",
+  "title": "Expressing support for the designation of April 7, 2025, as \"World Health Day\" and recognizing the importance of prioritizing public health nationally and globally.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.298",
+  "introduced_date": "2025-04-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7db39d38fb35ddf7",
+  "last_updated": "2026-04-05T05:16:20.511371+00:00",
+  "plain_summary": "This resolution asks Congress to recognize April 7, 2025, as World Health Day. The resolution says that public health is very important both in the United States and around the world. It points out that many people in America have trouble getting good healthcare, especially children, older people, and people of color in poor areas. The resolution wants government agencies to work together better to help improve everyone's health.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-07",
+  "last_action_date": "2025-04-07",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Thanedar, Shri [D-MI-13]",
+  "sponsor_party": "D",
+  "sponsor_state": "MI",
+  "cosponsor_count": 5,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "World Health Day",
+    "April 7",
+    "public health",
+    "healthcare access",
+    "health inequality",
+    "minority health",
+    "children healthcare",
+    "elderly health",
+    "healthcare disparities",
+    "global health",
+    "government health agencies",
+    "health cooperation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution expresses support for making April seventh, two thousand and twenty-five, a day called World Health Day. It also recognizes how important it is to make public health a priority in the United States and around the world.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Information",
+      "text": "The cost of health care and getting access to health care have been the two biggest problems in America's health care system for twenty-five years. When we don't pay enough attention to public health, it hurts the social and economic stability of our country. According to the Centers for Disease Control and Prevention (a government agency that tracks diseases), life expectancy in the United States has been getting shorter since two thousand and nineteen. One reason for this is that more mothers and babies are dying during or after birth. The World Health Organization (an international group that works on health issues worldwide) recognizes April seventh, two thousand and twenty-five, as World Health Day. This year's theme is Healthy Beginnings, Hopeful Futures, which will start a year-long campaign focused on the health of mothers and newborn babies. Women and families deserve high-quality health care that supports them physically and mentally before, during, and after giving birth. Health systems need to change so they can better handle the many health issues that affect mothers, newborns, and communities that have been left out or treated unfairly in the past. The lack of access to high-quality health care hurts children, seniors, and people of color the most, especially in the poorest and most left-out communities. When people of color are not included enough in clinical trials (studies that test new treatments), it makes racial and ethnic disparities worse and limits access to treatments that could save lives. We must recognize that the work of health care workers and caretakers is essential to the health and well-being of our communities. According to the World Health Organization, up to thirty-eight percent of health care workers worldwide have experienced physical violence, and these important workers must be protected while they provide lifesaving care. Health includes not only physical health but also mental health. Physical health and mental health are closely connected. The lack of access to mental health services and the shame associated with having mental health conditions stop people from getting the lifesaving help they need. Governments and societies should make it a priority to invest in promoting, protecting, and caring for the health of individuals and their caregivers. Health and support services should focus on making sure there is affordable, high-quality access to health care that meets the needs of children, teenagers, adults, and seniors. April seventh, two thousand and twenty-five, is the right day to designate as World Health Day because the day is recognized internationally and supported by the World Health Organization.",
+      "word_offset": 39,
+      "char_offset": 236
+    },
+    {
+      "id": "s3",
+      "slug": "resolution",
+      "title": "What the House of Representatives Resolves",
+      "text": "The House of Representatives expresses support for the designation of World Health Day. It acknowledges that no single health care program or effort will work for all populations or communities. It recognizes that children, seniors, and people of color, particularly in the poorest and most marginalized communities, are most heavily impacted by the lack of access to quality health care. It also recognizes that different government agencies must coordinate and work together to ensure the well-being of children and their ability to develop, survive, and thrive.",
+      "word_offset": 459,
+      "char_offset": 2933
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2440",
+  "title": "SIFIA Act",
+  "short_title": "SIFIA Act",
+  "congress": 119,
+  "bill_number": "HR.2440",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7207da8c1995707d",
+  "last_updated": "2026-04-05T04:00:43.413688+00:00",
+  "plain_summary": "The SIFIA Act creates special bonds to help build and fix public schools that make their own energy. When people buy these bonds, they get money back on their taxes instead of earning regular interest. The government has set aside ten billion dollars for these school projects. The law also makes sure that small businesses and businesses owned by minorities get a better chance to work on these projects.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Hudson, Richard [R-NC-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "school bonds",
+    "public school funding",
+    "school energy projects",
+    "tax credits for bonds",
+    "school construction money",
+    "renewable energy schools",
+    "minority business school contracts",
+    "school infrastructure funding",
+    "bonds for school repairs",
+    "energy efficient schools",
+    "small business school projects",
+    "tax free school bonds"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the School Infrastructure Finance and Innovation Act or the SIFIA Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-sifia-bonds",
+      "title": "Section 2 SIFIA Bonds",
+      "text": "This section creates a new type of bond called SIFIA bonds that help build and improve schools. If someone owns one of these bonds, they get a tax credit worth twenty-five percent of what they would normally earn each year from the bond. The government decides what interest rate to use so that the bonds can be sold without any discount. People can only use this tax credit to reduce their regular income tax and alternative minimum tax, not other types of taxes. If they cannot use all the credit in one year, they can carry it over to the next year. The tax credit is paid four times per year on March fifteenth, June fifteenth, September fifteenth, and December fifteenth. To qualify as a SIFIA bond, all the money raised must be used to design, build, expand, renovate, furnish, or equip public schools through an agreement with a private company. The private company must agree to build the school facilities, operate them until they are fully working, and then give them to the school district for free. All buildings must be designed to use no more energy than they produce through renewable sources like solar panels. These bonds must be tax-free municipal bonds that are designated as SIFIA bonds and cannot be sold for much more than their face value. The government has set aside a total of ten billion dollars for these bonds, with no more than two and a half billion dollars worth issued in any single year. One billion dollars is specifically reserved for projects in rural areas outside of major cities. School districts can get no more than one and a half billion dollars in bonds, and charter schools can get no more than five hundred million dollars. The government will give out bond authority on a first-come, first-served basis, but will give preference to small businesses, minority-owned businesses, and women-owned businesses. Private companies working on these projects must have experience building and operating net-zero energy schools and must submit regular reports about costs and benefits. The bonds earn taxable interest instead of tax-free interest, but bondholders get the tax credit instead. The government can buy bonds directly if no one else will purchase them. These rules apply to bonds issued after December thirty-first, twenty twenty-five.",
+      "word_offset": 16,
+      "char_offset": 94
+    }
+  ]
+}

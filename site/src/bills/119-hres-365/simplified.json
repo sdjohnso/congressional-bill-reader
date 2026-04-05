@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hres-365",
+  "title": "Expressing the sense of the House of Representatives that the House should recognize Robert Aitken's Bible as a historical document of the United States Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.365",
+  "introduced_date": "2025-04-30",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "06b0e619c3748a9a",
+  "last_updated": "2026-04-05T03:20:26.929582+00:00",
+  "plain_summary": "This bill asks the House of Representatives to recognize a special Bible as an important historical document. The Bible was made by Robert Aitken and was the first English Bible ever printed in North America. Congress approved this Bible back in 1782, making it connected to American history. The House wants to officially say this Bible is an important part of Congress's history.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-30",
+  "last_action_date": "2025-04-30",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Arts, Culture, Religion",
+  "subjects": [],
+  "sponsor_name": "Rep. Ogles, Andrew [R-TN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Robert Aitken Bible",
+    "first American Bible",
+    "historical Bible recognition",
+    "Congress Bible 1782",
+    "English Bible printed America",
+    "colonial American Bible",
+    "House historical document",
+    "early American printing",
+    "congressional history Bible",
+    "North America first Bible"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution expresses that the House of Representatives believes the House should recognize Robert Aitken's Bible as a historical document of the United States Congress.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "background-facts",
+      "title": "Background Facts",
+      "text": "Robert Aitken's Bible was the first English-language Bible known to be printed in North America. On January twenty-first, seventeen eighty-one, Robert Aitken gave a written request to Congress asking to print a version of the Holy Scriptures that could be used in schools. On September twelfth, seventeen eighty-two, a committee of Congress passed a resolution that approved Aitken's good and praiseworthy project. The committee said this project would help religion and show how the arts were growing in this country. The committee recommended this Bible edition to all people living in the United States. Charles Thomson, who was the Secretary of the Continental Congress, signed the resolution about the Aitken Bible on September twelfth, seventeen eighty-two.",
+      "word_offset": 25,
+      "char_offset": 174
+    },
+    {
+      "id": "s3",
+      "slug": "house-resolution",
+      "title": "House Resolution",
+      "text": "Therefore, the House of Representatives believes that the House should recognize Robert Aitken's Bible as a historical document of the United States Congress.",
+      "word_offset": 141,
+      "char_offset": 938
+    }
+  ]
+}

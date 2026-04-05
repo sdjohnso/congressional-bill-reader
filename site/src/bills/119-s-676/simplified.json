@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-s-676",
+  "title": "Stop Funding Religiously Oppressive Regimes Act of 2025",
+  "short_title": "Stop Funding Religiously Oppressive Regimes Act of 2025",
+  "congress": 119,
+  "bill_number": "S.676",
+  "introduced_date": "2025-02-20",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "17095286b317ba0a",
+  "last_updated": "2026-04-05T05:15:43.071556+00:00",
+  "plain_summary": "This bill makes the President find countries that give people the death penalty or life in prison for leaving their religion, saying bad things about religion, or marrying someone from a different religion. Once the President identifies these countries, the United States cannot give any federal money to help their governments. The goal is to stop the US from supporting countries that punish people harshly for religious reasons.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-20",
+  "last_action_date": "2025-02-20",
+  "last_action_text": "Read twice and referred to the Committee on Foreign Relations.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Paul, Rand [R-KY]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "religious freedom",
+    "death penalty religion",
+    "foreign aid restrictions",
+    "persecution",
+    "apostasy laws",
+    "blasphemy punishment",
+    "interfaith marriage",
+    "government funding ban",
+    "oppressive regimes",
+    "religious liberty",
+    "stop funding dictators",
+    "human rights conditions"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Stop Funding Religiously Oppressive Regimes Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-identification-of-countries-with-laws-imposing-severe-criminal-penalties-for-apostasy-blasphemy-or-interfaith",
+      "title": "Section 2 Identification of Countries with Laws Imposing Severe Criminal Penalties for Apostasy, Blasphemy, or Interfaith",
+      "text": "Within one hundred twenty days after this law is passed, the President must write a report for Congress. The report must go to the Senate Committee on Foreign Relations and the House Committee on Foreign Affairs. The report must list every foreign government that the President believes, based on reliable information, gives people the death penalty or life in prison for three types of actions. First, laws against apostasy that clearly ban people from leaving a specific religion. Second, laws against blasphemy which means speaking badly about religion. Third, laws that ban marriage between people of different religious faiths.",
+      "word_offset": 17,
+      "char_offset": 104
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-on-assistance-to-foreign-governments-that-violate-human-rights-with-respect-to-religion",
+      "title": "Section 3 Prohibition on Assistance to Foreign Governments that Violate Human Rights with Respect to Religion",
+      "text": "The United States Government cannot promise to spend or actually spend any federal money to help the government of any country that appears on the report the President must create under section two.",
+      "word_offset": 116,
+      "char_offset": 737
+    }
+  ]
+}

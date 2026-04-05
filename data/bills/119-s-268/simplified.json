@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-s-268",
+  "title": "Saving American Workers’ Benefits Act of 2025",
+  "short_title": "Saving American Workers’ Benefits Act of 2025",
+  "congress": 119,
+  "bill_number": "S.268",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "6314a5764face2a8",
+  "last_updated": "2026-04-05T04:07:47.820537+00:00",
+  "plain_summary": "This bill changes the rules for two tax credits that help families with children. Starting in 2026, both parents and their children must have special Social Security numbers that prove they are allowed to work in the United States. If family members do not have these work-authorized Social Security numbers, they cannot get the child tax credit or the earned income tax credit. The bill is meant to make sure only people who are legally allowed to work in America can receive these tax benefits.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-28",
+  "last_action_date": "2025-01-28",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Hyde-Smith, Cindy [R-MS]",
+  "sponsor_party": "R",
+  "sponsor_state": "MS",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "tax credits for families",
+    "child tax credit requirements",
+    "earned income tax credit",
+    "Social Security number work authorization",
+    "tax benefits legal workers",
+    "family tax credits citizenship",
+    "work authorized tax credits",
+    "immigration status tax benefits",
+    "legal workers only tax credits",
+    "Social Security number requirements taxes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Saving American Workers' Benefits Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-child-tax-credit-identification-requirements",
+      "title": "Section 2 Child Tax Credit Identification Requirements",
+      "text": "This section changes the rules for getting the child tax credit. Starting in twenty twenty six, both parents and their children must have valid Social Security numbers that show they are allowed to work in the United States. The Social Security Administration must have issued these numbers to US citizens or certain other people who are legally allowed to work here. The Social Security numbers must be issued before the tax return is due. If someone has a Social Security number that does not show work authorization, they cannot use it to claim this tax credit. The tax agency can correct math errors on returns when people use the wrong type of identification number. These new rules will start for tax years beginning after December thirty first, twenty twenty five.",
+      "word_offset": 15,
+      "char_offset": 88
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-earned-income-credit-identification-requirements",
+      "title": "Section 3 Earned Income Credit Identification Requirements",
+      "text": "This section changes the rules for the earned income tax credit (money the government gives to working families with lower incomes). The law makes it clear that people cannot use Social Security numbers that do not show they are authorized to work in the United States to claim this credit. This change will start for tax years beginning after December thirty first, twenty twenty five.",
+      "word_offset": 145,
+      "char_offset": 860
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "bill_id": "119-s-228",
+  "title": "Acequia Communities Empowered by Qualifying Upgrades for Infrastructure Act",
+  "short_title": "Acequia Communities Empowered by Qualifying Upgrades for Infrastructure Act",
+  "congress": 119,
+  "bill_number": "S.228",
+  "introduced_date": "2025-01-23",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "5d1cf58dfdca0829",
+  "last_updated": "2026-04-05T05:08:43.503130+00:00",
+  "plain_summary": "This bill helps farmers who use acequia water systems, which are community-run irrigation ditches. It makes sure these farmers can get disaster help when droughts, floods, or other natural disasters hurt their crops. The bill also makes it easier for communities to take care of their acequias on government land without needing special permits for basic maintenance. Finally, it requires the Department of Agriculture to study how well acequia farmers can access government farm programs and report back to Congress.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Water Resources Development",
+  "subjects": [
+    "Agricultural conservation and pollution",
+    "Agricultural insurance",
+    "Agricultural practices and innovations",
+    "Congressional oversight",
+    "Disaster relief and insurance",
+    "Floods and storm protection",
+    "Infrastructure development",
+    "Water use and supply"
+  ],
+  "sponsor_name": "Sen. Lujan, Ben Ray [D-NM]",
+  "sponsor_party": "D",
+  "sponsor_state": "NM",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "acequia",
+    "irrigation ditches",
+    "community water systems",
+    "farm disaster relief",
+    "drought assistance",
+    "flood help farmers",
+    "traditional irrigation",
+    "Hispanic farming communities",
+    "water rights",
+    "agricultural maintenance permits",
+    "farm program access",
+    "irrigation infrastructure"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Acequia Communities Empowered by Qualifying Upgrades for Infrastructure Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2 Findings",
+      "text": "Congress has learned these facts. Water delivery systems called acequias or community ditches are hundreds of years old and used to distribute water. These systems combine Spanish and Native American ways of watering crops. They were expanded in New Mexico during the fifteen hundreds to help farms grow food for the community. Acequias are very important to New Mexico's economy. They are a centuries old way of governing water and are recognized as official government divisions of the state. Acequias are made up of people who own water rights called parciantes. These people take care of and maintain the acequias. They elect a board to watch over and manage surface water rights. In New Mexico, acequias have created a special landscape and way of life based on local farming, water management, and sharing limited water. Acequias help keep forests and watersheds healthy. They show good land and water care by helping groundwater refill, reducing floods, and filtering groundwater pollution. They also support native plants and provide homes for wildlife. Even though they help produce local food and care for watersheds, acequias are dealing with limited water resources. They face problems from dry conditions, changing irrigation and growing seasons, and invasive species taking over. To deal with crop losses, planting problems, and lower yields, parciantes need direct money help from Department of Agriculture programs. This includes the noninsured crop disaster assistance program created by section one hundred ninety six of the Federal Agriculture Improvement and Reform Act of nineteen ninety six.",
+      "word_offset": 15,
+      "char_offset": 104
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-ensuring-farmers-and-ranchers-have-access-to-drought-and-disaster-protections",
+      "title": "Section 3 Ensuring Farmers and Ranchers Have Access to Drought and Disaster Protections",
+      "text": "This section changes section one hundred ninety six of the Federal Agriculture Improvement and Reform Act of nineteen ninety six. It adds new rules about acequia systems. When the Secretary makes a decision about helping producers who rely on acequia systems, the Secretary must provide assistance to those producers for all losses they suffered from the cause mentioned in the law.",
+      "word_offset": 265,
+      "char_offset": 1718
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-special-use-permits-not-required-for-routine-maintenance-and-minor-improvements-of-acequias",
+      "title": "Section 4 Special Use Permits Not Required for Routine Maintenance and Minor Improvements of Acequias",
+      "text": "This section defines important terms. An acequia means the same thing as a community ditch under New Mexico law. A community user is an employee, contractor, delegate, representative, volunteer, or other authorized person working for the governing body of an acequia. The Secretary concerned means the Secretary of Agriculture for land under Agriculture Department control and the Secretary of the Interior for land under Interior Department control. The law says special use permits are not required for two things. First, having or using an acequia on federal land or using the water in it. Second, routine maintenance and minor improvements done by a community user or governing body of an acequia on federal land. Routine maintenance and minor improvements include cleaning, maintaining, repairing, or replacing infrastructure with the same type. They also include yearly ditch cleaning and removing dirt buildup. Any other traditional activity that keeps the acequia in good condition can be included if the Secretary concerned and the acequia governing body agree to it in writing.",
+      "word_offset": 326,
+      "char_offset": 2101
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-department-of-agriculture-reporting",
+      "title": "Section 5 Department of Agriculture Reporting",
+      "text": "No later than two years after this law is passed, the Secretary of Agriculture must send a report to the Senate Committee on Agriculture, Nutrition, and Forestry and the House Committee on Agriculture. The report must include several pieces of information. It must show how many farm producers in the most recent year relied on acequia systems or other traditional infrastructure that drought can easily damage. It must show how much assistance was given under the noninsured crop disaster assistance program to producers described in the new acequia rules, broken down by county, during the most recent year. The report must analyze how well farm producers who rely on acequia systems or other traditional infrastructure vulnerable to drought can access all programs run by the Farm Service Agency and the Natural Resources Conservation Service. Finally, it must summarize any Department of Agriculture programs or projects from the most recent year that gave technical or financial help specifically to farm producers who rely on acequia systems or other traditional infrastructure that drought can easily damage.",
+      "word_offset": 494,
+      "char_offset": 3189
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "bill_id": "119-hr-2689",
+  "title": "To amend the Securities Exchange Act of 1934 to transfer authorities and duties of registered national securities associations to the Securities and Exchange Commission.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.2689",
+  "introduced_date": "2025-04-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a74e93d7ff39e6dc",
+  "last_updated": "2026-04-05T03:06:57.258466+00:00",
+  "plain_summary": "This bill changes how the stock market is watched and controlled. Right now, special groups called national securities associations help make rules and watch over people who sell stocks and bonds. This bill would take away their power and give it all to the Securities and Exchange Commission, which is a government agency. The change would happen two years after the bill becomes a law, and the government agency would need to write new rules before then.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-07",
+  "last_action_date": "2025-04-07",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. McClain, Lisa C. [R-MI-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "stock market regulation",
+    "SEC power",
+    "securities oversight",
+    "government control stocks",
+    "financial market rules",
+    "stock broker supervision",
+    "investment regulation change",
+    "securities commission authority",
+    "financial industry oversight",
+    "stock market watchdog"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-transfer-of-authorities-and-duties",
+      "title": "Section 1  Transfer of Authorities and Duties of Registered National Securities Associations to the Commission",
+      "text": "This section changes the Securities Exchange Act of 1934 by adding a new section called 15H. The new section says that all the powers and responsibilities that national securities associations currently have under securities laws will be moved to the Securities and Exchange Commission (the government agency that watches over the stock market). This includes registered national securities associations, which are groups that help regulate securities brokers and dealers. After this change takes effect, anywhere in US law or government documents that mentions these associations will now mean the Securities and Exchange Commission instead. The Securities and Exchange Commission must create new rules to handle these transferred duties before the change happens. This transfer will become official two years after this bill becomes law.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

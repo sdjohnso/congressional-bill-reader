@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-778",
+  "title": "Safeguarding American Workers’ Benefits Act",
+  "short_title": "Safeguarding American Workers’ Benefits Act",
+  "congress": 119,
+  "bill_number": "HR.778",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "1da2695e84df89b7",
+  "last_updated": "2026-04-05T04:27:15.560288+00:00",
+  "plain_summary": "This bill changes who can get two important tax credits that help families with children and workers who don't make much money. Starting in 2026, only people who are US citizens or certain legal immigrants can get these tax credits. The people getting the credits and their children must have Social Security numbers that were given to citizens or legal immigrants. This means some families who get these tax credits now might not be able to get them anymore after the new rules start.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-28",
+  "last_action_date": "2025-01-28",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Higgins, Clay [R-LA-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 24,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "tax credits for families",
+    "child tax credit eligibility",
+    "worker tax benefits",
+    "citizenship requirements tax credits",
+    "social security number requirements",
+    "immigrant tax benefits",
+    "family tax help",
+    "low income worker credits",
+    "tax credits citizenship",
+    "earned income tax credit",
+    "benefits for working families",
+    "tax relief eligibility changes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Safeguarding American Workers' Benefits Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modification-of-social-security-number-requirements",
+      "title": "Section 2 Modification of Social Security Number Requirements for Claiming the Child Tax Credit and Earned Income Tax Credit",
+      "text": "Part A changes the rules for the Child Tax Credit. To get this tax credit for a child, the taxpayer must include their own Social Security number on their tax return. If they are married and filing together, both spouses must include their Social Security numbers. They must also include the child's Social Security number. The Social Security number must be one that was given to a United States citizen or to certain legal immigrants by the Social Security Administration. The number must have been issued before the tax return is due. Part B changes the rules for the Earned Income Tax Credit in the same way. It requires the same type of Social Security number as described for the Child Tax Credit. Part C says these changes will start applying to tax years that begin after December thirty first, two thousand twenty five.",
+      "word_offset": 11,
+      "char_offset": 72
+    }
+  ]
+}

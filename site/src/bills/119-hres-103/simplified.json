@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hres-103",
+  "title": "Providing amounts for the expenses of the Committee on Financial Services in the One Hundred Nineteenth Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.103",
+  "introduced_date": "2025-02-04",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c35ca43e03b13918",
+  "last_updated": "2026-04-05T03:58:59.821721+00:00",
+  "plain_summary": "This bill gives money to the House Committee on Financial Services to pay for its work during the 119th Congress. The committee can spend up to twenty two million four hundred seven thousand dollars total. The money is split in half between the two sessions of Congress. The committee must follow House rules when spending this money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-04",
+  "last_action_date": "2025-02-04",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "House Committee on Financial Services"
+  ],
+  "sponsor_name": "Rep. Hill, J. French [R-AR-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "AR",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "house committee funding",
+    "financial services committee budget",
+    "congress committee expenses",
+    "committee spending money",
+    "house committee allowance",
+    "financial services committee costs",
+    "congressional committee budget",
+    "house spending on committees",
+    "committee operating expenses",
+    "financial services funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-amounts-for-committee-expenses",
+      "title": "Section 1  Amounts for Committee Expenses",
+      "text": "The House of Representatives will pay up to twenty two million four hundred seven thousand dollars for the Committee on Financial Services to cover all its expenses during the One Hundred Nineteenth Congress. This money will come from the House accounts that are set aside for committee salaries and expenses. The money covers all costs including paying the salaries of all committee staff members.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-session-limitations",
+      "title": "Section 2  Session Limitations",
+      "text": "The money from Section 1 will be split into two equal parts. The first part is up to eleven million two hundred three thousand five hundred dollars. This money can be spent during the first session, which runs from noon on January third two thousand twenty five until just before noon on January third two thousand twenty six. The second part is also up to eleven million two hundred three thousand five hundred dollars. This money can be spent during the second session, which runs from noon on January third two thousand twenty six until just before noon on January third two thousand twenty seven.",
+      "word_offset": 64,
+      "char_offset": 399
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-vouchers",
+      "title": "Section 3  Vouchers",
+      "text": "To get paid under this resolution, the Committee must use vouchers (official payment requests). The Committee must authorize each voucher, and the Chairman of the Committee must sign it. The Committee on House Administration must also approve the voucher in whatever way they require before payment can be made.",
+      "word_offset": 169,
+      "char_offset": 1000
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-regulations",
+      "title": "Section 4  Regulations",
+      "text": "All money provided by this resolution must be spent following the rules and regulations that the Committee on House Administration creates and requires.",
+      "word_offset": 218,
+      "char_offset": 1312
+    }
+  ]
+}

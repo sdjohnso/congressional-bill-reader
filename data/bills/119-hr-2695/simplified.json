@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2695",
+  "title": "Communities of Recovery Reauthorization Act of 2025",
+  "short_title": "Communities of Recovery Reauthorization Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2695",
+  "introduced_date": "2025-04-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b052fd0896a5cfa2",
+  "last_updated": "2026-04-05T04:10:50.645442+00:00",
+  "plain_summary": "This bill gives more money to help communities support people who are recovering from drug and alcohol addiction. The government will increase funding from five million dollars to seventeen million dollars each year. The program will continue running from 2026 through 2030. This money helps build strong recovery communities where people can get the help and support they need to stay healthy.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-07",
+  "last_action_date": "2025-04-07",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Pettersen, Brittany [D-CO-7]",
+  "sponsor_party": "D",
+  "sponsor_state": "CO",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "drug addiction recovery",
+    "alcohol addiction help",
+    "community recovery programs",
+    "addiction treatment funding",
+    "recovery support services",
+    "substance abuse recovery",
+    "addiction recovery communities",
+    "drug rehab funding",
+    "alcohol treatment programs",
+    "recovery assistance money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Communities of Recovery Reauthorization Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-building-communities-of-recovery",
+      "title": "Section 2  Building Communities of Recovery",
+      "text": "This section changes an existing law called the Public Health Service Act. The law currently allows the government to spend five million dollars each year from two thousand nineteen through two thousand twenty-three on grants to help build communities of recovery. This bill changes that amount to seventeen million dollars each year from two thousand twenty-six through two thousand thirty. Communities of recovery are places that help people who are recovering from drug or alcohol addiction get the support they need.",
+      "word_offset": 15,
+      "char_offset": 100
+    }
+  ]
+}

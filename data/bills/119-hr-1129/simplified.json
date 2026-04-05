@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1129",
+  "title": "Tax Relief Unleashed for Seniors by Trump Act",
+  "short_title": "Tax Relief Unleashed for Seniors by Trump Act",
+  "congress": 119,
+  "bill_number": "HR.1129",
+  "introduced_date": "2025-02-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "eba5cafb105e90ab",
+  "last_updated": "2026-04-05T03:50:24.543037+00:00",
+  "plain_summary": "This bill helps older Americans keep more of their Social Security money. Right now, seniors have to pay taxes on their Social Security benefits if they make too much money from other sources. The bill doubles the income limits, which means fewer seniors will have to pay these taxes. Starting in 2027, these income limits will go up each year to keep up with rising prices.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-07",
+  "last_action_date": "2025-02-07",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "social security taxes",
+    "senior citizen tax relief",
+    "retirement income taxes",
+    "elderly tax breaks",
+    "social security benefits taxed",
+    "older americans taxes",
+    "retirement tax help",
+    "senior social security money",
+    "retiree income limits",
+    "social security tax exemption"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Tax Relief Unleashed for Seniors by Trump Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-in-exclusion-from-gross-income-of-social-security-benefits",
+      "title": "Section 2 Increase in Exclusion from Gross Income of Social Security Benefits",
+      "text": "This section changes the tax rules for Social Security benefits to help seniors keep more of their money. Right now, people have to pay income taxes on their Social Security benefits if they make more than certain amounts of money each year. This law doubles those income limits so fewer seniors will have to pay taxes on their Social Security. For single people, the first limit goes from twenty five thousand dollars to fifty thousand dollars. The second limit goes from thirty four thousand dollars to fifty nine thousand dollars. For married couples filing taxes together, the first limit goes from thirty two thousand dollars to sixty four thousand dollars. The second limit goes from forty four thousand dollars to seventy six thousand dollars. Starting in twenty twenty seven, these dollar amounts will go up each year to keep up with inflation. If the inflation increase is not an even hundred dollar amount, it will be rounded to the nearest hundred dollars. These changes will start for tax years beginning after December thirty first twenty twenty five.",
+      "word_offset": 14,
+      "char_offset": 74
+    }
+  ]
+}

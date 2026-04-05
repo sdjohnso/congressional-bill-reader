@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-1164",
+  "title": "Fair Disaster Assistance Act of 2025",
+  "short_title": "Fair Disaster Assistance Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1164",
+  "introduced_date": "2025-02-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e266c5cbf56113bd",
+  "last_updated": "2026-04-05T04:22:17.037641+00:00",
+  "plain_summary": "The Fair Disaster Assistance Act of 2025 helps people who need disaster help from FEMA. Right now, FEMA sometimes says no to people just because they are still waiting for their insurance company to make a decision about their claim. This new law stops FEMA from doing that. It means people can get disaster help even while they are waiting to hear back from their insurance company. This makes it easier for homeowners and property owners to get the help they need after a disaster.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-10",
+  "last_action_date": "2025-02-10",
+  "last_action_text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [],
+  "sponsor_name": "Rep. Garcia, Robert [D-CA-42]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "disaster relief",
+    "FEMA help",
+    "insurance claims",
+    "hurricane assistance",
+    "flood help",
+    "emergency aid",
+    "disaster victims",
+    "insurance waiting",
+    "property damage",
+    "homeowner relief",
+    "natural disaster support"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Fair Disaster Assistance Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-denial-of-assistance-notification-before-insurance-claim-determination",
+      "title": "Section 2 Prohibition on Denial of Assistance Notification Before Insurance Claim Determination",
+      "text": "The head of the Federal Emergency Management Agency (FEMA) must create rules to protect people who apply for disaster help. These rules apply when someone owns insurance for their home or building that was damaged in a major disaster declared by the President. FEMA cannot send these people a letter saying their disaster assistance request is denied until their insurance company makes a final decision about whether to approve or deny their insurance claim. FEMA must make whatever rules are needed to make sure this protection works properly.",
+      "word_offset": 15,
+      "char_offset": 85
+    }
+  ]
+}

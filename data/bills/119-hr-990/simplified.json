@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-990",
+  "title": "SAFE Act",
+  "short_title": "SAFE Act",
+  "congress": 119,
+  "bill_number": "HR.990",
+  "introduced_date": "2025-02-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "abf9aacaab251045",
+  "last_updated": "2026-04-05T05:13:41.242948+00:00",
+  "plain_summary": "The SAFE Act changes tax rules to help people avoid penalty fees when they don't pay enough income tax during the year. If someone pays 125 percent of what they owed the year before by the tax deadline, they won't get charged extra penalty money. To get this protection, people must file their tax returns on time. The law also has special rules that apply to married couples who file taxes together.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-05",
+  "last_action_date": "2025-02-05",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Chu, Judy [D-CA-28]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "tax penalty",
+    "underpayment penalty",
+    "tax deadline",
+    "income tax",
+    "tax return filing",
+    "married filing jointly",
+    "tax payment",
+    "penalty fees",
+    "tax protection",
+    "annual tax bill"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Simplify Automatic Filing Extensions Act or the SAFE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-no-penalty-for-failure-to-pay-income-tax",
+      "title": "Section 2  No Penalty for Failure to Pay Income Tax for Individuals Who Timely Pay 125 Percent of Income Tax Liability for Prior Year",
+      "text": "This section changes the tax code to help people avoid penalties when they do not pay enough income tax. If a person pays one hundred twenty five percent of what they owed in taxes the year before, they will not get a penalty for underpaying their current year taxes. They must make this payment by the normal tax deadline. However, this protection does not apply if the person does not file their tax return on time. It also does not work if they did not file a tax return the year before, or if the previous tax year was shorter than twelve months. For married couples filing together, special rules apply based on how they filed the previous year. This protection only lasts until the tax filing deadline or when they actually file their return, whichever comes first. After that, they must pay any remaining taxes they owe to avoid penalties. These changes apply to tax years starting after December thirty first, two thousand twenty four.",
+      "word_offset": 15,
+      "char_offset": 85
+    }
+  ]
+}

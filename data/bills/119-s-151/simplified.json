@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "ecf322ea9fb065f9",
-  "last_updated": "2026-03-20T14:02:36.162869+00:00",
-  "plain_summary": "This bill limits what the President can do during a national emergency when it comes to taxes on goods from other countries. Currently, the President has broad powers during emergencies to control trade and money matters. Under this new law, the President would not be allowed to add new taxes or raise existing taxes on imported goods during an emergency. However, the President could still completely ban all products or certain types of products from entering the US from specific countries. The goal is to protect Americans from having to pay higher prices on imported goods due to emergency tax increases.",
+  "last_updated": "2026-04-05T04:06:15.666657+00:00",
+  "plain_summary": "This bill stops the President from using emergency powers to raise taxes on goods brought into America from other countries. It also prevents the President from setting special limits on how much of certain products can be imported. However, during an emergency, the President can still completely block all imports from specific countries if needed. The law is meant to protect Americans from higher prices on imported goods during emergencies.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-17",
   "last_action_date": "2025-01-17",
@@ -29,33 +29,33 @@
   "cosponsor_count": 4,
   "crs_summary_available": true,
   "plain_keywords": [
-    "president emergency powers",
     "import taxes",
     "tariffs on foreign goods",
+    "presidential emergency powers",
     "higher prices on imports",
-    "national emergency trade rules",
-    "president raising taxes on imports",
-    "emergency tariff increases",
-    "protecting consumers from import taxes",
-    "presidential powers during emergencies",
-    "foreign goods price increases"
+    "goods from other countries",
+    "trade restrictions",
+    "blocking imports",
+    "emergency trade limits",
+    "foreign product taxes",
+    "protecting consumers from price increases"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1  Short Title",
-      "text": "This law can be called the Protecting Americans from Tax Hikes on Imported Goods Act of two thousand twenty five.",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting Americans from Tax Hikes on Imported Goods Act of twenty twenty five.",
       "word_offset": 0,
       "char_offset": 0
     },
     {
       "id": "s2",
       "slug": "section-2-exclusion-of-authority-to-impose-duties-and-tariff-rate-quotas-from-international-emergency-economic-powers-act",
-      "title": "Section 2  Exclusion of Authority to Impose Duties and Tariff-Rate Quotas from International Emergency Economic Powers Act",
-      "text": "This section changes the International Emergency Economic Powers Act by adding new rules about what the President can do during emergencies. The law currently lets the President take economic actions during national emergencies. This bill adds a new part that says the President cannot use emergency powers to put new taxes called duties on goods coming into the United States from other countries. The President also cannot use emergency powers to set up tariff-rate quotas, which are limits on how much of certain goods can come in at lower tax rates. However, the President can still completely stop all goods or certain types of goods from a specific country from entering the United States during an emergency.",
-      "word_offset": 20,
-      "char_offset": 114
+      "title": "Section 2 Exclusion of Authority to Impose Duties and Tariff-Rate Quotas from International Emergency Economic Powers Act",
+      "text": "This section changes an existing law called the International Emergency Economic Powers Act. The changes work like this. First, it moves what used to be called part c to become part d of that law. Second, it adds a new part c with two rules. Rule one says that the President cannot use emergency powers to add new taxes on goods coming into America or raise taxes that already exist on those goods. The President also cannot use emergency powers to set limits on how much of certain goods can come in at lower tax rates, which is called a tariff-rate quota. Rule two says that even though the President cannot raise taxes on imports during emergencies, the President can still completely stop all goods or certain types of goods from a specific country from entering the United States.",
+      "word_offset": 19,
+      "char_offset": 108
     }
   ]
 }

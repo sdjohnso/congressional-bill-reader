@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "b2f1adccd1fe8047",
-  "last_updated": "2026-03-20T15:58:58.773270+00:00",
-  "plain_summary": "The Inflation Reduction Act of 2025 would completely get rid of the Inflation Reduction Act that was passed in 2022. It would also take back any money from the 2022 law that has not been spent yet. Even though this new bill has a similar name to the 2022 law, it does not create any new programs to reduce inflation. Instead, it removes all the programs and funding that were created by the earlier law.",
+  "last_updated": "2026-04-05T04:35:13.315312+00:00",
+  "plain_summary": "The Inflation Reduction Act of 2025 would completely get rid of the Inflation Reduction Act that was passed in 2022. It would also take back any money from that old law that has not been spent yet. This new bill has the same name as the old one but does the opposite by canceling all the programs and rules from 2022. The government would stop spending money on anything that was part of the original Inflation Reduction Act.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-03",
   "last_action_date": "2025-01-03",
@@ -127,32 +127,31 @@
   "crs_summary_available": true,
   "plain_keywords": [
     "repeal inflation reduction act",
-    "cancel climate spending",
-    "stop green energy funding",
-    "eliminate 2022 climate law",
-    "cut government spending",
-    "reverse Biden climate programs",
-    "cancel electric vehicle subsidies",
-    "stop clean energy tax credits",
-    "eliminate environmental programs",
-    "cut inflation spending",
-    "reverse climate funding"
+    "cancel 2022 climate law",
+    "stop green energy spending",
+    "eliminate biden climate programs",
+    "defund clean energy",
+    "reverse environmental regulations",
+    "cut government climate spending",
+    "abolish renewable energy subsidies",
+    "cancel electric vehicle incentives",
+    "stop climate change funding"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1  Short Title",
-      "text": "This law can be called the Inflation Reduction Act of two thousand twenty-five.",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Inflation Reduction Act of two thousand twenty five.",
       "word_offset": 0,
       "char_offset": 0
     },
     {
       "id": "s2",
       "slug": "section-2-repeal-of-inflation-reduction-act-of-2022",
-      "title": "Section 2  Repeal of Inflation Reduction Act of 2022",
-      "text": "This section cancels the Inflation Reduction Act of two thousand twenty-two. That law is known as Public Law one hundred seventeen dash one hundred sixty-nine. This section also takes back any money from that old law that has not been spent yet. When money is rescinded, it means the government takes it back and cannot use it for the original purpose anymore.",
-      "word_offset": 13,
+      "title": "Section 2 Repeal of Inflation Reduction Act of 2022",
+      "text": "This section cancels a previous law called the Inflation Reduction Act of two thousand twenty two. That law was officially known as Public Law one hundred seventeen dash one hundred sixty nine. Any money from that old law that has not been spent yet is taken back by the government.",
+      "word_offset": 14,
       "char_offset": 80
     }
   ]

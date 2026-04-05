@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hres-360",
+  "title": "Expressing support for the designation of the last Tuesday of April each year as \"APOL1-Mediated Kidney Disease (AMKD) Awareness Day\".",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.360",
+  "introduced_date": "2025-04-29",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "438609fe4420dbe1",
+  "last_updated": "2026-04-05T03:38:27.665740+00:00",
+  "plain_summary": "This bill wants to create a special day called APOL1-Mediated Kidney Disease Awareness Day on the last Tuesday of April every year. This kidney disease affects people with African backgrounds much more than other groups. The bill encourages all Americans to learn more about kidney disease and suggests that people who might be at risk should get genetic testing. The goal is to help people understand this disease better and catch it early to help those who might have it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-29",
+  "last_action_date": "2025-04-29",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Del. Plaskett, Stacey E. [D-VI-At Large]",
+  "sponsor_party": "D",
+  "sponsor_state": "VI",
+  "cosponsor_count": 11,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "kidney disease awareness",
+    "African American health",
+    "genetic testing",
+    "APOL1 disease",
+    "kidney disease prevention",
+    "health awareness day",
+    "genetic kidney disease",
+    "African ancestry kidney problems",
+    "kidney disease screening",
+    "medical awareness campaign"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution expresses support for making the last Tuesday of April each year APOL1-Mediated Kidney Disease Awareness Day. APOL1-Mediated Kidney Disease is also called AMKD.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Facts",
+      "text": "About thirty-five and a half million Americans have kidney disease. More than five hundred fifty thousand people are on dialysis (a treatment that cleans the blood when kidneys fail). Black people with kidney disease are more likely to have their kidneys fail completely than people of other races. This creates unfair health differences. Black people make up thirteen percent of Americans but thirty percent of people with kidney failure. When kidneys fail, it causes huge physical, emotional, and money problems for people. It also costs the Medicare program more than forty-five billion dollars every year. Some people have genes that make kidney disease more likely. One of these genes is called apolipoprotein L1 or APOL1. People are more likely to have changes in the APOL1 gene if they or their ancestors came from Western or Central Africa. These gene changes can make someone more likely to get APOL1-mediated kidney disease. This is a fast-moving type of kidney disease that can cause kidney failure. If someone has gene changes in both copies of their APOL1 gene, they have a one in five chance of getting kidney disease. About thirteen percent of Black Americans have changes in both copies of this gene. A person with AMKD might not feel sick until their kidneys are almost completely failing. Genetic testing can show if someone is at risk for AMKD. This lets them take steps to protect their kidneys before it is too late. People who have APOL1 gene changes can lower their risk by seeing their doctor regularly, eating healthy food, taking their medicines as told, exercising at least thirty minutes each day, and not smoking or using tobacco. We need more awareness and research about APOL1 gene changes to better understand why kidney disease affects some groups more than others. Right now, there are no treatments approved by the Food and Drug Administration specifically for APOL1-mediated kidney disease. However, ongoing research and clinical trials might help scientists create safe treatments for this disease.",
+      "word_offset": 25,
+      "char_offset": 177
+    },
+    {
+      "id": "s3",
+      "slug": "resolution-actions",
+      "title": "What the House of Representatives Decides",
+      "text": "The House of Representatives supports making APOL1-Mediated Kidney Disease Awareness Day an official recognition day. The House encourages all Americans to learn more about kidney disease and APOL1-mediated kidney disease. The House also encourages people who are from or have family from Western and Central Africa to think about getting genetic testing for APOL1 gene changes.",
+      "word_offset": 356,
+      "char_offset": 2213
+    }
+  ]
+}

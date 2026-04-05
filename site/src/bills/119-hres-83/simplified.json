@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hres-83",
+  "title": "Providing amounts for the expenses of the Committee on Rules in the One Hundred Nineteenth Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.83",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "929f71913bf7f1d9",
+  "last_updated": "2026-04-05T04:33:26.295603+00:00",
+  "plain_summary": "This bill gives money to the House Committee on Rules to pay for their work during the 119th Congress. The committee can spend up to about eight and a half million dollars total. The money is split evenly between two years. The committee must follow House rules when they spend this money and get proper approval for their expenses.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-31",
+  "last_action_date": "2025-01-31",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "House Committee on Rules"
+  ],
+  "sponsor_name": "Rep. Foxx, Virginia [R-NC-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "house rules committee funding",
+    "congress committee budget",
+    "house committee money",
+    "congressional committee expenses",
+    "rules committee spending",
+    "house committee budget approval",
+    "congress committee funding bill",
+    "congressional expenses",
+    "house rules money",
+    "committee budget allocation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-amounts-for-committee-expenses",
+      "title": "Section 1 Amounts for Committee Expenses",
+      "text": "The Committee on Rules (called the Committee in this resolution) can spend up to eight million five hundred forty-four thousand three hundred ninety-seven dollars and ninety-five cents during the One Hundred Nineteenth Congress. This money will pay for all committee expenses, including staff salaries. The money comes from House accounts that are set aside for committee salaries and expenses.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-session-limitations",
+      "title": "Section 2 Session Limitations",
+      "text": "The money from section one is divided into two equal parts. The first part is four million two hundred seventy-two thousand one hundred ninety-eight dollars and ninety-seven cents. This amount can be used for expenses from noon on January third two thousand twenty-five until just before noon on January third two thousand twenty-six. The second part is also four million two hundred seventy-two thousand one hundred ninety-eight dollars and ninety-seven cents. This amount can be used for expenses from noon on January third two thousand twenty-six until just before noon on January third two thousand twenty-seven.",
+      "word_offset": 59,
+      "char_offset": 395
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-vouchers",
+      "title": "Section 3 Vouchers",
+      "text": "To get money under this resolution, the Committee must use vouchers (official payment requests). The Committee decides which vouchers to approve. The Chairman of the Committee must sign each voucher. The Committee on House Administration must also approve the vouchers in whatever way they require.",
+      "word_offset": 155,
+      "char_offset": 1012
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-regulations",
+      "title": "Section 4 Regulations",
+      "text": "The Committee on Rules must spend the money according to rules created by the Committee on House Administration.",
+      "word_offset": 200,
+      "char_offset": 1311
+    }
+  ]
+}

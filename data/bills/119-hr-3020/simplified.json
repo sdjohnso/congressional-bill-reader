@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-3020",
+  "title": "Addressing Anti-Competitive Health Care Contract Clauses Act",
+  "short_title": "Addressing Anti-Competitive Health Care Contract Clauses Act",
+  "congress": 119,
+  "bill_number": "HR.3020",
+  "introduced_date": "2025-04-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "1f3a8c7268631a17",
+  "last_updated": "2026-04-05T03:24:00.969543+00:00",
+  "plain_summary": "This bill requires the government to study unfair contract rules between health insurance companies and healthcare providers like hospitals and doctors. These unfair rules might make medical care cost more money and be harder for people to get. The study will look at whether government agencies are doing a good job stopping these bad practices. If the agencies need to do better, the study will suggest ways to improve and help make healthcare more affordable and available for everyone.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-24",
+  "last_action_date": "2025-04-24",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such p",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Spartz, Victoria [R-IN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "health insurance contracts",
+    "hospital doctor agreements",
+    "medical care costs",
+    "healthcare affordability",
+    "insurance company rules",
+    "doctor hospital contracts",
+    "expensive medical bills",
+    "healthcare competition",
+    "unfair insurance practices",
+    "medical cost study"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Addressing Anti-Competitive Health Care Contract Clauses Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-gao-study",
+      "title": "Section 2 GAO Study",
+      "text": "Within eighteen months after this law is passed, the head of the Government Accountability Office (a government watchdog agency) must work with the Federal Trade Commission and the Justice Department to complete a study. This study must look at four types of unfair contract rules that health insurance companies and healthcare providers use. These rules are called anti-steering clauses, anti-tiering clauses, all-or-nothing clauses, and gag clauses. The study must examine how these contract rules affect the healthcare industry, including whether they cause companies to merge together, make medical care more expensive for patients, and make it harder for people to get healthcare. The study must also list every action the Federal Trade Commission and Justice Department have taken about these unfair contract rules. It must evaluate whether these two agencies have enough money and power to stop companies from using these unfair rules. If needed, the study must suggest new laws or government actions to give these agencies more resources. After finishing the study, the Government Accountability Office must send a report to several committees in the House of Representatives including Energy and Commerce, Ways and Means, Education and Workforce, and Judiciary. The report must also go to two committees in the Senate including Health Education Labor and Pensions, and Judiciary.",
+      "word_offset": 13,
+      "char_offset": 89
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-definitions",
+      "title": "Section 3 Definitions",
+      "text": "This section explains what certain terms mean in this law. An all-or-nothing clause is a contract rule that forces an insurance company to either include all doctors from a medical group in their network, or requires the insurance company to sign a separate contract with a related company before they can work with the healthcare provider. An anti-steering clause is a contract rule that stops insurance companies from encouraging their customers to go to competing hospitals or doctor offices, including offering rewards to patients for using specific healthcare providers. An anti-tiering clause is a contract rule that either stops insurance companies from creating different levels of healthcare providers with different costs, or forces the insurance company to put all doctors from the same medical group in the same cost level. A gag clause is a contract rule that stops insurance companies, plan administrators, or healthcare providers from sharing price or quality information. This includes information like how much services cost, negotiated rates, fees, or other financial details. These rules prevent sharing this information with government agencies, contractors, patients, doctors treating patients, employers who pay for insurance, or people shopping for insurance plans. Gag clauses also stop the sharing of out-of-pocket costs with patients. A tiered network plan is a health insurance plan that puts healthcare providers into different groups where patients pay different amounts or have different access rules for the same medical services.",
+      "word_offset": 224,
+      "char_offset": 1478
+    }
+  ]
+}

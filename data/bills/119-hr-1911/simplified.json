@@ -1,0 +1,52 @@
+{
+  "bill_id": "119-hr-1911",
+  "title": "To amend the Internal Revenue Code of 1986 to provide that certain payments to foreign related parties subject to sufficient foreign tax are not treated as base erosion payments.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.1911",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "3dc2575d63da149c",
+  "last_updated": "2026-04-05T05:06:14.708546+00:00",
+  "plain_summary": "This bill changes tax rules for American companies that make payments to foreign business partners. Right now, these companies might have to pay extra taxes on those payments. Under the new rule, if the foreign government already taxes those payments at least 15 percent, the American company would not have to pay the extra tax. The Treasury Secretary will make rules to make sure companies do not abuse this change to avoid paying taxes they should pay.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Conaway, Herbert [D-NJ-3]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "foreign tax payments",
+    "american companies overseas",
+    "double taxation",
+    "international business tax",
+    "foreign partnerships",
+    "corporate tax relief",
+    "multinational companies",
+    "overseas business operations",
+    "foreign government taxes",
+    "international tax rules",
+    "business payments abroad",
+    "corporate foreign income"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-certain-payments-to-foreign-related-parties-subject-to-sufficient-foreign-tax-not-treated-as-base-erosion-payments",
+      "title": "Section 1. Certain Payments to Foreign Related Parties Subject to Sufficient Foreign Tax Not Treated as Base Erosion Payments",
+      "text": "This section changes the tax code to help American companies that pay money to their foreign business partners. Right now, some of these payments are called base erosion payments, which can trigger extra taxes for the American company. This bill creates an exception to that rule. If an American company can prove two things, then their payment will not be considered a base erosion payment. First, the foreign company receiving the money must pay at least fifteen percent in foreign income taxes. Second, the specific payment itself must be taxed at least fifteen percent by the foreign country. Companies can use their financial statements to prove these tax rates, but the Treasury Secretary can require adjustments for things like dividends, pension costs, accounting errors, and illegal payments. The Treasury Secretary must also write rules about how companies can prove their foreign tax rates and create safeguards to prevent companies from avoiding taxes through fake transactions. These new rules will apply to tax years that begin after this law is passed.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2107",
+  "title": "Children’s Hospital GME Support Reauthorization Act of 2025",
+  "short_title": "Children’s Hospital GME Support Reauthorization Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2107",
+  "introduced_date": "2025-03-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b2b5082cc0c891c7",
+  "last_updated": "2026-04-05T04:22:04.285032+00:00",
+  "plain_summary": "This bill gives money to children's hospitals that train new doctors. The funding will continue until 2030 and will be more money than before. Starting in 2026, hospitals that give gender transition treatments to kids under 18 will not get this money anymore. Some medical emergencies might be exceptions to this rule.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-14",
+  "last_action_date": "2025-03-14",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Crenshaw, Dan [R-TX-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 11,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "children's hospital funding",
+    "doctor training money",
+    "medical resident programs",
+    "pediatric hospital grants",
+    "new doctor education",
+    "hospital teaching programs",
+    "gender transition treatment ban",
+    "transgender medical care restrictions",
+    "kids hospital federal money",
+    "medical training support",
+    "pediatric residency funding",
+    "children's healthcare funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Children's Hospital GME Support Reauthorization Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-program-of-payments-to-childrens-hospitals",
+      "title": "Section 2 Program of Payments to Children's Hospitals That Operate Graduate Medical Education Programs",
+      "text": "This section changes an existing law about payments to children's hospitals that train new doctors. The changes extend the program until the year 2030 instead of 2023. The law also adds new funding amounts. For fiscal years 2026 through 2030, hospitals can receive up to 124 million dollars each year for one type of training and up to 261 million dollars each year for another type of training. Starting in fiscal year 2026, children's hospitals cannot receive these payments if they provided certain medical procedures or drugs to people under 18 years old during the previous year. These procedures and drugs are defined as treatments that change a person's body to no longer match their biological sex assigned at birth. This includes surgeries like removing reproductive organs, creating new body parts, or changing facial features. It also includes giving hormones like testosterone or estrogen in amounts higher than what the body naturally makes, or giving drugs that block puberty. There are exceptions to this rule. Hospitals can still receive payments if they only provided treatments for early puberty in young children, treatments for verified genetic disorders related to sex development, treatments for infections or injuries caused by previous medical procedures, or treatments for life threatening physical conditions. The law defines biological sex as determined by reproductive ability, chromosomes, natural hormones, reproductive organs, or genitals present at birth. Hospitals can still provide mental health services for gender dysphoria and continue receiving payments as long as they do not include the banned procedures and drugs.",
+      "word_offset": 14,
+      "char_offset": 88
+    }
+  ]
+}

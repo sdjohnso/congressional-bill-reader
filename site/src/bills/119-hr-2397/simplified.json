@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2397",
+  "title": "Targeting TANF to Families in Need Act",
+  "short_title": "Targeting TANF to Families in Need Act",
+  "congress": 119,
+  "bill_number": "HR.2397",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "edc77a4a93aacf1a",
+  "last_updated": "2026-04-05T03:55:17.299301+00:00",
+  "plain_summary": "This bill changes the TANF program, which helps families with money and services. Starting in October 2026, states will only be allowed to use their TANF money to help families who make less than twice the federal poverty level. This means the program will focus on helping families with lower incomes. The change is meant to make sure TANF money goes to families who need it most.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [],
+  "sponsor_name": "Rep. Smith, Adrian [R-NE-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "welfare reform",
+    "poor families assistance",
+    "low income help",
+    "poverty programs",
+    "family aid",
+    "government money for families",
+    "income limits welfare",
+    "helping needy families",
+    "poverty level benefits",
+    "welfare eligibility changes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Targeting TANF to Families in Need Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-targeting-funds-to-families-in-need",
+      "title": "Section 2  Targeting Funds to Families in Need",
+      "text": "This section changes the rules for how states can spend TANF money. TANF stands for Temporary Assistance for Needy Families, which is a government program that helps poor families. Under the new rule, states can only use their TANF grant money to help families whose income is less than twice the federal poverty level. The federal poverty level is an income amount set by the government each year to decide who counts as poor. For example, if the poverty level for a family of four is twenty five thousand dollars, then states could only help families making less than fifty thousand dollars. This new rule will start on October first, two thousand twenty six.",
+      "word_offset": 13,
+      "char_offset": 67
+    }
+  ]
+}

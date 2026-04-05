@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-s-1274",
+  "title": "Protecting American Households From Rising Energy Costs Act of 2025",
+  "short_title": "Protecting American Households From Rising Energy Costs Act of 2025",
+  "congress": 119,
+  "bill_number": "S.1274",
+  "introduced_date": "2025-04-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "1a0ac49cb5851495",
+  "last_updated": "2026-04-05T03:01:07.294379+00:00",
+  "plain_summary": "This law stops American companies from selling liquefied natural gas and oil to China, Russia, North Korea, and Iran. Companies also cannot sell these energy products to businesses controlled by these four countries. The Secretary of Energy can only allow exceptions during serious national security emergencies. If companies break these rules, they can be fined a lot of money and the people responsible can go to prison for up to twenty years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-03",
+  "last_action_date": "2025-04-03",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Sen. Merkley, Jeff [D-OR]",
+  "sponsor_party": "D",
+  "sponsor_state": "OR",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "ban oil exports",
+    "stop selling gas to china",
+    "energy exports to russia",
+    "natural gas export ban",
+    "oil sales to iran",
+    "energy trade restrictions",
+    "gas exports to north korea",
+    "american energy companies",
+    "liquefied natural gas exports",
+    "energy costs protection",
+    "oil and gas trade ban",
+    "energy export penalties"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting American Households From Rising Energy Costs Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, petroleum product means any oil-based fuel or product as defined in section three of the Energy Policy and Conservation Act. Secretary means the Secretary of Energy, who is the person in charge of the Department of Energy.",
+      "word_offset": 19,
+      "char_offset": 116
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-on-exports",
+      "title": "Section 3 Prohibition on Exports of Liquefied Natural Gas and Petroleum Products to Certain Countries",
+      "text": "No person or company can export or resell liquefied natural gas (natural gas that has been cooled into liquid form) or petroleum products to certain countries, even if they sell through other companies first. The banned countries are China, Russia, North Korea, and Iran. This also includes any company that is owned or controlled by these countries, as decided by the Secretary of Energy working with the Secretary of the Treasury and Secretary of Commerce. Companies that have export licenses must make sure they follow this law and all other rules from government agencies like the Office of Foreign Assets Control and the Federal Energy Regulatory Commission. The Secretary of Energy can give permission to ignore this ban only if there is an immediate and serious threat to national security and no other way to handle the emergency would work. Companies wanting this special permission must apply before their contract date using forms the Secretary requires. Within fifteen days of giving this permission, the Secretary must send a copy to the Senate Committee on Energy and Natural Resources and the House Committee on Energy and Commerce. The Secretary can make rules to enforce this law.",
+      "word_offset": 59,
+      "char_offset": 352
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-enforcement-provisions",
+      "title": "Section 4 Enforcement Provisions",
+      "text": "It is against the law to break, try to break, plan to break, or help someone else break any part of this law or any permission, license, order, or rule made under this law. The Secretary of Energy can fine anyone who breaks these rules up to two hundred fifty million dollars or twice the amount of money involved in the illegal transaction, whichever is more. Before imposing a fine, the Secretary must give written notice to the person and give them a chance to have a hearing following federal hearing procedures. If someone does not pay the fine after getting notice and a hearing, the Secretary can take them to federal court. If the Secretary wins in court, the judge can issue orders to stop the illegal activity temporarily or permanently and force payment of the fines. Anyone who knowingly breaks these rules, tries to break them, plans to break them, or helps others break them can be fined up to one hundred million dollars, sent to prison for up to twenty years, or both.",
+      "word_offset": 254,
+      "char_offset": 1550
+    }
+  ]
+}

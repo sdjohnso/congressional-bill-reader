@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-hr-2284",
+  "title": "Reduce Bureaucracy to Uplift Families Act",
+  "short_title": "Reduce Bureaucracy to Uplift Families Act",
+  "congress": 119,
+  "bill_number": "HR.2284",
+  "introduced_date": "2025-03-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "da8e8c70a54affc2",
+  "last_updated": "2026-04-05T04:35:02.976288+00:00",
+  "plain_summary": "This bill changes the rules for how states can spend money when they help poor families. Right now, states can spend up to fifteen percent of their money on office costs like paying workers and renting buildings. The new law says states can only spend ten percent on these costs. If a state spends too much on office costs, they will get less money from the government the next year. These new rules will start in October 2026.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-24",
+  "last_action_date": "2025-03-24",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [],
+  "sponsor_name": "Rep. Yakym, Rudy [R-IN-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "welfare spending limits",
+    "government office costs",
+    "poor families assistance",
+    "state bureaucracy reduction",
+    "welfare administrative expenses",
+    "family aid programs",
+    "government worker costs",
+    "welfare office spending",
+    "poverty assistance rules",
+    "state welfare funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Reduce Bureaucracy to Uplift Families Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-percentage-of-funds-made-available-that-may-be-used-for-administrative-expenses",
+      "title": "Section 2 Limitation on Percentage of Funds Made Available That May Be Used for Administrative Expenses",
+      "text": "This section changes the Social Security Act. It reduces how much money states can spend on office costs and paperwork when they help needy families. The limit drops from fifteen percent to ten percent of their grant money. However, states can still use money for case management work. Case management means helping people create their personal responsibility plans, which are agreements about what they will do to improve their situation.",
+      "word_offset": 12,
+      "char_offset": 70
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-limitation-on-percentage-of-qualified-state-expenditures-that-may-consist-of-certain-administrative-expenses",
+      "title": "Section 3 Limitation on Percentage of Qualified State Expenditures That May Consist of Certain Administrative Expenses",
+      "text": "This section also changes the Social Security Act. It reduces another limit on office costs from fifteen percent to ten percent. This applies to money that states must spend from their own budgets to qualify for federal matching funds.",
+      "word_offset": 82,
+      "char_offset": 510
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-penalty-for-failure-to-comply-with-administrative-limitation",
+      "title": "Section 4 Penalty for Failure to Comply with Administrative Limitation",
+      "text": "This section adds a new penalty to the Social Security Act. If a state spends too much on office costs and breaks the ten percent rule, the federal government can punish them. The punishment is cutting up to five percent from the state's family assistance grant money the following year. The Secretary of Health and Human Services decides if a state broke the rule and how much money to cut.",
+      "word_offset": 121,
+      "char_offset": 746
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-effective-date",
+      "title": "Section 5 Effective Date",
+      "text": "All the changes in this law will start on October first, two thousand twenty six.",
+      "word_offset": 191,
+      "char_offset": 1138
+    }
+  ]
+}

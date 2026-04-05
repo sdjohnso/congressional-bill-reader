@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-1562",
+  "title": "Test Strip Access Act of 2025",
+  "short_title": "Test Strip Access Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1562",
+  "introduced_date": "2025-02-25",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "55a0757dd3ecffea",
+  "last_updated": "2026-04-05T04:37:42.273170+00:00",
+  "plain_summary": "This bill lets states and tribal governments use federal grant money to buy special test strips that can detect fentanyl and xylazine in drugs. These test strips help people know if dangerous drugs are present so they can avoid deadly overdoses. The test strips are part of programs that help fight drug addiction and save lives. This change in the law will help communities get these important safety tools more easily.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-25",
+  "last_action_date": "2025-02-25",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Drug trafficking and controlled substances",
+    "Drug, alcohol, tobacco use",
+    "Health programs administration and funding",
+    "Health promotion and preventive care",
+    "Mental health"
+  ],
+  "sponsor_name": "Rep. Crockett, Jasmine [D-TX-30]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "fentanyl test strips",
+    "drug testing strips",
+    "overdose prevention",
+    "deadly drug detection",
+    "xylazine testing",
+    "drug safety tools",
+    "prevent drug overdose",
+    "check drugs for fentanyl",
+    "harm reduction supplies",
+    "drug contamination testing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Test Strip Access Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-grant-program-for-state-and-tribal-response-to-opioid-use-disorders",
+      "title": "Section 2  Grant Program for State and Tribal Response to Opioid Use Disorders",
+      "text": "This section changes an existing law called the Twenty First Century Cures Act. The change adds fentanyl and xylazine test strips to the list of things that states and tribal governments can buy with federal grant money. These test strips help people check if dangerous drugs like fentanyl or xylazine are mixed into other substances. The grant program helps states and tribes fight opioid addiction and prevent overdose deaths.",
+      "word_offset": 15,
+      "char_offset": 78
+    }
+  ]
+}

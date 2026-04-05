@@ -1,0 +1,91 @@
+{
+  "bill_id": "119-hr-2650",
+  "title": "End Gun Violence Act of 2025",
+  "short_title": "End Gun Violence Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2650",
+  "introduced_date": "2025-04-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ad075c14ad00cdd5",
+  "last_updated": "2026-04-05T04:58:25.007173+00:00",
+  "plain_summary": "This bill makes a new rule that gun stores cannot sell guns or bullets to people who were found guilty of violent crimes in the past five years. Violent crimes include less serious crimes where someone used force, weapons, or hurt another person on purpose. The bill also changes other gun laws so they work well with this new rule.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-03",
+  "last_action_date": "2025-04-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [],
+  "sponsor_name": "Rep. Neguse, Joe [D-CO-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "CO",
+  "cosponsor_count": 4,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "gun control",
+    "gun violence",
+    "background checks",
+    "violent criminals",
+    "gun sales",
+    "firearm restrictions",
+    "gun store rules",
+    "convicted felons guns",
+    "gun safety laws",
+    "weapons ban",
+    "gun purchase limits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the End Gun Violence Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-sale-or-other-disposition-of-a-firearm-or-ammunition-to-a-person-convicted-of-a-violent-misdemeanor",
+      "title": "Section 2  Prohibition on Sale or Other Disposition of a Firearm or Ammunition to a Person Convicted of a Violent Misdemeanor",
+      "text": "This section changes an existing federal law about who cannot buy guns. It adds a new rule that says gun dealers cannot sell guns or bullets to someone who has been found guilty of a violent misdemeanor crime in the past five years. A misdemeanor is a less serious crime than a felony but still breaks the law.",
+      "word_offset": 14,
+      "char_offset": 71
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-definition-of-violent-misdemeanor",
+      "title": "Section 3  Definition of Violent Misdemeanor",
+      "text": "This section explains what counts as a violent misdemeanor. A violent misdemeanor is a crime that is less serious than a felony but still involves violence. The crime must be one where the person used physical force, tried to use physical force, or threatened to use it. It also includes crimes where someone used a deadly weapon or meant to hurt someone or actually did hurt someone on purpose. The crime can be against federal law, state law, tribal law, or local city law. However, a person only counts as being convicted of this type of crime if they had a lawyer represent them or chose not to have a lawyer after understanding their rights. If the person had the right to a jury trial, they must have actually had a jury trial or chosen not to have one after understanding what that meant. A person does not count as convicted if their conviction was erased from their record, set aside by a court, or if they were pardoned or had their civil rights restored. But if the pardon or record clearing specifically says they still cannot own guns, then they still count as convicted.",
+      "word_offset": 72,
+      "char_offset": 382
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-conforming-amendments",
+      "title": "Section 4  Conforming Amendments",
+      "text": "This section makes changes to several other parts of federal law so they work properly with the new rules about violent misdemeanors. It updates the background check system rules, gun dealer licensing rules, and other gun laws so they all include the new ban on selling guns to people convicted of violent misdemeanors. These changes make sure all the different gun laws work together consistently.",
+      "word_offset": 267,
+      "char_offset": 1467
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-applicability",
+      "title": "Section 5  Applicability",
+      "text": "The new rules in this law will not apply to people who were convicted of violent misdemeanors before six months after this law is passed. This gives people and the system time to adjust to the new rules.",
+      "word_offset": 332,
+      "char_offset": 1866
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-rule-of-construction",
+      "title": "Section 6  Rule of Construction",
+      "text": "This section explains that nothing in this new law changes the existing rules about domestic violence crimes and gun ownership. It also says that states, tribes, and local governments can still have their own stricter gun laws if they want to.",
+      "word_offset": 370,
+      "char_offset": 2070
+    }
+  ]
+}

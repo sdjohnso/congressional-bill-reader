@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-sres-103",
+  "title": "A resolution condemning the rejection by the United States of a United Nations resolution condemning the illegal invasion of Ukraine by the Russian Federation.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.103",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "1227527c309f80c9",
+  "last_updated": "2026-04-05T03:57:44.950330+00:00",
+  "plain_summary": "This Senate resolution criticizes the United States for voting against a United Nations resolution in 2025 that condemned Russia's illegal invasion of Ukraine. The resolution reminds people that Russia first invaded parts of Ukraine in 2014 and then launched a much larger invasion in 2022. The Senate is upset that America rejected the UN's attempt to officially condemn Russia's actions against Ukraine. The resolution shows the Senate disagrees with the US decision to vote against condemning Russia at the United Nations.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-27",
+  "last_action_date": "2025-02-27",
+  "last_action_text": "Referred to the Committee on Foreign Relations. (text: CR S1433)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Gallego, Ruben [D-AZ]",
+  "sponsor_party": "D",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 4,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Ukraine war",
+    "Russia invasion",
+    "United Nations vote",
+    "US votes against Ukraine",
+    "condemning Russia",
+    "Senate resolution Ukraine",
+    "America UN voting",
+    "Ukrainian conflict",
+    "Russian aggression",
+    "UN resolution Russia",
+    "US foreign policy Ukraine",
+    "Senate criticizes US vote"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "title-and-sponsors",
+      "title": "Title and Sponsors",
+      "text": "This is Senate Resolution 103 from the 119th Congress. It was introduced on February 27, 2025, by Senator Gallego along with Senators Durbin, Padilla, Bennet, and Schiff. The resolution was sent to the Committee on Foreign Relations for review.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clause",
+      "title": "Background Statement",
+      "text": "The resolution states that the Russian Federation first invaded Ukraine illegally in 2014. Russia then expanded that illegal invasion in 2022.",
+      "word_offset": 39,
+      "char_offset": 245
+    },
+    {
+      "id": "s3",
+      "slug": "resolved-clause",
+      "title": "Senate's Condemnation",
+      "text": "The Senate condemns the United States for rejecting a United Nations General Assembly resolution. That UN resolution was numbered A/ES-11/L.10 from 2025 and was titled Advancing a comprehensive, just and lasting peace in Ukraine. The UN resolution condemned Russia's illegal invasion of Ukraine.",
+      "word_offset": 60,
+      "char_offset": 388
+    }
+  ]
+}

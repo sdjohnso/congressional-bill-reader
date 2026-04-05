@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-1350",
+  "title": "DOE and NSF Interagency Research Act",
+  "short_title": "DOE and NSF Interagency Research Act",
+  "congress": 119,
+  "bill_number": "HR.1350",
+  "introduced_date": "2025-02-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "22904a331b2a1ef1",
+  "last_updated": "2026-04-05T03:32:10.352792+00:00",
+  "plain_summary": "This bill requires the Department of Energy and the National Science Foundation to work together as official partners on research projects. The two agencies must create a written agreement that lets them share information and conduct research in areas like artificial intelligence, quantum science, and energy technology. They can also work together on training programs and research facilities. The agencies must write a report to Congress about how well their partnership is working.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-25",
+  "last_action_date": "2025-03-25",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [
+    "Advanced technology and technological innovations",
+    "Biological and life sciences",
+    "Computers and information technology",
+    "Congressional oversight",
+    "Department of Energy",
+    "Earth sciences",
+    "Intergovernmental relations",
+    "National Science Foundation",
+    "Research and development"
+  ],
+  "sponsor_name": "Rep. Stevens, Haley M. [D-MI-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "MI",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "energy research",
+    "science funding",
+    "artificial intelligence research",
+    "quantum computing",
+    "government agencies working together",
+    "Department of Energy",
+    "National Science Foundation",
+    "research partnerships",
+    "technology development",
+    "science collaboration",
+    "AI funding",
+    "quantum science"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the DOE and NSF Interagency Research Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-coordination",
+      "title": "Section 2 Department of Energy and National Science Foundation Research and Development Coordination",
+      "text": "The head of the Department of Energy and the head of the National Science Foundation must work together on research projects. These projects should help both agencies meet their goals and priorities. The two agencies must create a written agreement that explains how they will work together. This agreement must use a fair competition process where government agencies, national labs, colleges, nonprofit groups, and other organizations can apply for funding. The two agencies can work together on many different types of research including plasma science, brain and computer science, computer modeling, quantum science, energy and materials science, manufacturing technology, microelectronics, and advanced physics. They can help different groups share information and data by providing safe ways to transfer information. They can support new research buildings and equipment when needed. They can create education and training programs including internships, student programs, and training for teachers and researchers. The agencies can make agreements with each other and other groups to make their research more effective. They can work with other government agencies when appropriate. Within two years of this law passing, both agency heads must send a report to Congress. The report must explain how well the agencies worked together, opportunities to improve their abilities, successful research projects, future opportunities, and plans to keep working together. All activities must follow existing research security rules.",
+      "word_offset": 12,
+      "char_offset": 65
+    }
+  ]
+}

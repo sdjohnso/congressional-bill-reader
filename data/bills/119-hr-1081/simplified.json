@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1081",
+  "title": "Preventing SBA Assistance from Going to China Act",
+  "short_title": "Preventing SBA Assistance from Going to China Act",
+  "congress": 119,
+  "bill_number": "HR.1081",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "293b493c54383524",
+  "last_updated": "2026-04-05T05:13:53.493400+00:00",
+  "plain_summary": "This bill stops certain businesses from getting help from the Small Business Administration. If a business is located in China or if Chinese people or companies own more than 25 percent of it, that business cannot be considered a small business by the government. This means these businesses cannot get government money or assistance that is meant for small American businesses. The goal is to keep American government help for businesses that do not have strong connections to China.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the House Committee on Small Business.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Rep. Mills, Cory [R-FL-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 8,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "small business help",
+    "China businesses",
+    "government money for businesses",
+    "Chinese ownership",
+    "business assistance",
+    "American small business",
+    "SBA loans",
+    "foreign business restrictions",
+    "China trade",
+    "business funding rules",
+    "government business programs",
+    "small business administration"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Preventing SBA Assistance from Going to China Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-small-business-concern-affiliation-with-the-peoples-republic-of-china",
+      "title": "Section 2 Prohibition on Small Business Concern Affiliation with the People's Republic of China",
+      "text": "This section changes the Small Business Act to add new rules. Under these new rules, a business cannot be considered a small business if it meets certain conditions related to China. A business is not eligible if it is located and legally created in China. A business is also not eligible if more than twenty five percent of its voting stock is owned by people or companies that are Chinese citizens or were created under Chinese law. Voting stock means shares that give the owner the right to vote on company decisions.",
+      "word_offset": 14,
+      "char_offset": 78
+    }
+  ]
+}

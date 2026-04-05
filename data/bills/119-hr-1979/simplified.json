@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-1979",
+  "title": "Legislative Line Item Veto Act of 2025",
+  "short_title": "Legislative Line Item Veto Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1979",
+  "introduced_date": "2025-03-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c97b2d942ef6c3f1",
+  "last_updated": "2026-04-05T04:07:14.697070+00:00",
+  "plain_summary": "This bill lets the President ask Congress to cancel specific spending items or tax breaks from laws that Congress has already passed. When the President makes this request, the spending gets put on hold temporarily. Congress then has to vote quickly on whether to agree with the President's request to cancel the spending. If Congress says no to canceling it, the money goes back to being used for what it was originally meant for. This gives the President some power to try to reduce government spending, but Congress still gets the final say.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-10",
+  "last_action_date": "2025-03-10",
+  "last_action_text": "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [],
+  "sponsor_name": "Rep. Burchett, Tim [R-TN-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "president cancel spending",
+    "line item veto",
+    "president cut budget",
+    "cancel tax breaks",
+    "reduce government spending",
+    "president veto parts of bills",
+    "congressional spending control",
+    "budget cuts by president",
+    "federal spending reduction",
+    "government waste elimination"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Legislative Line Item Veto Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-legislative-line-item-veto",
+      "title": "Section 2  Legislative Line Item Veto",
+      "text": "This section changes an existing law from nineteen seventy four called the Congressional Budget and Impoundment Control Act. It removes most of the old rules and replaces them with new ones about line item vetoes. A line item veto means the President can propose to cancel specific spending items or tax benefits from bills that Congress passes, instead of having to accept or reject entire bills.\n\nThe President has thirty calendar days after Congress passes a spending bill to propose canceling specific dollar amounts from three types of things. First is discretionary budget authority, which is money Congress sets aside each year for government programs. Second is items of direct spending, which are programs that automatically spend money without yearly approval from Congress. Third is targeted tax benefits, which are special tax breaks that help only one specific person or company.\n\nIf the thirty day period ends when Congress is not in session for more than thirty days, the President can still propose cancellations on the first day Congress comes back.\n\nWhen the President wants to cancel something, he must send Congress a special message. This message must explain exactly what he wants to cancel, how much money is involved, which government department would be affected, why the cancellation is needed, what the financial effects would be, and a numbered list of all proposed cancellations. The President cannot propose the same cancellation twice. The President can send up to ten special messages for regular bills, but up to twenty messages for large budget bills that combine many different spending items.\n\nWhen Congress approves cancellations, the saved money must go toward reducing the national debt. It cannot be spent on other things. The budget committees in both the House and Senate must adjust their budget plans within five days to reflect the cancellations.\n\nCongress must consider these cancellation proposals quickly using special rules. The majority leader in each house must introduce an approval bill within five days of receiving the President's message. Committees have seven days to review the bill. If they do not act, members can force a vote to move the bill forward. The House gets five hours of debate time, and the Senate gets two hours. No amendments are allowed to these bills.\n\nWhile Congress considers the cancellations, the President can temporarily stop the spending or tax benefits for up to thirty days. The President can extend this another thirty days with a second message. If Congress does not approve the cancellations before the temporary hold expires, the spending or tax benefits go back into effect as originally planned.\n\nFor tax bills, the chairs of the tax committees in both houses must review bills and identify any targeted tax benefits before final passage. They must tell other members what they found.\n\nThe Government Accountability Office must report to Congress if the President keeps blocking spending or tax benefits after his temporary authority expires.\n\nThe section includes detailed definitions of all the technical terms used. It also says these new powers expire on October first, two thousand thirty one.",
+      "word_offset": 16,
+      "char_offset": 87
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-technical-and-conforming-amendments",
+      "title": "Section 3  Technical and Conforming Amendments",
+      "text": "This section makes small changes to other existing laws so they work properly with the new line item veto rules. It updates section numbers that changed when the old rules were replaced. It also requires the Congressional Budget Office to estimate how much money would be saved if the President's proposed cancellations were approved. The office must send these estimates to the budget committee chairs in both houses of Congress. The section also updates the table of contents for the budget law to reflect all the new section titles and removes outdated language.",
+      "word_offset": 526,
+      "char_offset": 3277
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-sense-of-congress-on-abuse-of-proposed-cancellations",
+      "title": "Section 4  Sense of Congress on Abuse of Proposed Cancellations",
+      "text": "Congress believes that no President or executive branch official should use proposed cancellations as threats or rewards to influence how members of Congress vote on any issue. This means the President should not promise to include or exclude specific cancellations based on whether a member of Congress votes a certain way.",
+      "word_offset": 619,
+      "char_offset": 3843
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-3215",
+  "title": "Utilizing National Land for Opportunities and Community Key (UNLOCK) Housing Act",
+  "short_title": "Utilizing National Land for Opportunities and Community Key (UNLOCK) Housing Act",
+  "congress": 119,
+  "bill_number": "HR.3215",
+  "introduced_date": "2025-05-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a58c5b7dc907e6be",
+  "last_updated": "2026-04-05T04:04:54.680942+00:00",
+  "plain_summary": "The UNLOCK Housing Act is a new law that says the government should help build affordable housing for people who need it. The law creates a special group of people called a task force who will look for empty government land that could be used to build homes. This task force will make it easier to give this land to people who want to build affordable housing. They will also study how much money people lose when there are not enough homes available for ten years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-06",
+  "last_action_date": "2025-05-06",
+  "last_action_text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of suc",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [],
+  "sponsor_name": "Rep. Horsford, Steven [D-NV-4]",
+  "sponsor_party": "D",
+  "sponsor_state": "NV",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "affordable housing",
+    "government land",
+    "empty federal property",
+    "housing shortage",
+    "cheap homes",
+    "public land for housing",
+    "government housing help",
+    "unused government property",
+    "housing crisis",
+    "low income housing",
+    "federal land development",
+    "housing task force"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Utilizing National Land for Opportunities and Community Key Housing Act. The short name is the UNLOCK Housing Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-affordable-housing-as-a-public-purpose",
+      "title": "Section 2 Affordable Housing as a Public Purpose",
+      "text": "This section changes an existing law called the Recreation and Public Purposes Act. It adds new language that says building and running affordable housing counts as a public purpose. This applies to housing meant for families with extremely low income, very low income, or low income. These income levels are defined by rules in another federal law about housing safety.",
+      "word_offset": 24,
+      "char_offset": 142
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-joint-task-force-on-federal-land-for-housing",
+      "title": "Section 3 Joint Task Force on Federal Land for Housing",
+      "text": "The Secretary of Housing and Urban Development and the Secretary of the Interior must create a Joint Task Force on Federal Land for Housing within thirty days of this law passing. This task force has four main jobs. First, it must find federal land that is not being used much but could be good for building homes. Second, it must make the process of transferring land from the government to others easier and faster. Third, it must support policies that help create more affordable housing. Fourth, it must study and calculate how much money federal and state governments lose when there is not enough affordable housing. The task force must send a report to Congress each year explaining what work it did. The task force will end ten years after this law is passed.",
+      "word_offset": 84,
+      "char_offset": 513
+    }
+  ]
+}

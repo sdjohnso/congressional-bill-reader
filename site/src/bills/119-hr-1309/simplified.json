@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1309",
+  "title": "Protect America’s Lands Act",
+  "short_title": "Protect America’s Lands Act",
+  "congress": 119,
+  "bill_number": "HR.1309",
+  "introduced_date": "2025-02-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "00e996151a27c86e",
+  "last_updated": "2026-04-05T04:18:10.817182+00:00",
+  "plain_summary": "The Protect America's Lands Act is a law that stops stock markets from trading shares of certain companies. These companies are called natural asset companies and they buy rights to manage land for environmental protection and conservation. The bill prevents these businesses from being bought and sold on stock exchanges. This means investors cannot trade shares of companies that focus on protecting nature and land conservation through the stock market.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-13",
+  "last_action_date": "2025-02-13",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Green, Mark E. [R-TN-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 22,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "stock market ban",
+    "environmental companies trading",
+    "nature conservation stocks",
+    "land protection investment",
+    "green companies stock exchange",
+    "environmental stock trading",
+    "conservation company shares",
+    "nature asset trading ban",
+    "land management companies",
+    "environmental investment restrictions",
+    "green stock market",
+    "conservation trading limits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protect America's Lands Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-with-respect-to-effecting-transactions-in-securities-issued-by-natural-asset-companies",
+      "title": "Section 2  Prohibition With Respect to Effecting Transactions in Securities Issued by Natural Asset Companies",
+      "text": "This section changes the Securities Exchange Act of nineteen thirty-four by adding new rules about natural asset companies. Stock exchanges that are registered with the government cannot buy or sell stocks from natural asset companies. A natural asset company is defined as a business that owns the rights to manage land for nature and environmental benefits. These companies have authority to manage specific areas of land for protecting nature, fixing damaged areas, or managing them in ways that last over time. The main goal of these companies must be either to manage and grow the value of nature and environmental services on their land, or to do activities that do not harm the natural resources and replace what they use. This definition also includes any company that controls or is controlled by these types of natural asset companies.",
+      "word_offset": 10,
+      "char_offset": 56
+    }
+  ]
+}

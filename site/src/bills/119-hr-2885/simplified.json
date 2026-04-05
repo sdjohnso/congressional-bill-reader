@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2885",
+  "title": "Bank Loan Privacy Act",
+  "short_title": "Bank Loan Privacy Act",
+  "congress": 119,
+  "bill_number": "HR.2885",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "cffab36126389293",
+  "last_updated": "2026-04-05T03:30:32.515474+00:00",
+  "plain_summary": "The Bank Loan Privacy Act is about protecting information from small business loans. It says that the Bureau of Consumer Financial Protection must follow special rules before they can delete or change any small business loan information. Before making any changes, the Bureau has to create a public rule that explains exactly what they want to change and why. They also have to show how their changes will keep people's private information safe. This law makes sure the Bureau cannot secretly change important loan information without telling the public first.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Rose, John W. [R-TN-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "small business loans",
+    "bank loan privacy",
+    "loan information protection",
+    "business loan data",
+    "financial privacy rules",
+    "consumer protection bureau",
+    "loan record changes",
+    "business banking privacy",
+    "small business financial data",
+    "loan information security",
+    "banking data protection",
+    "business loan records"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Bank Loan Privacy Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-rulemaking-requirement",
+      "title": "Section 2  Rulemaking Requirement",
+      "text": "This section changes an existing law called the Equal Credit Opportunity Act. The change affects how the Bureau of Consumer Financial Protection handles information about small business loans. Currently, the Bureau can delete or change this loan information whenever it wants. This new rule requires the Bureau to follow a specific process before making any changes. The Bureau must create a new rule and let the public comment on it first. This new rule must explain exactly what information the Bureau plans to delete or change. It must also explain how these changes will help protect people's privacy. The Bureau cannot make any changes to the loan information until this public rule-making process is complete.",
+      "word_offset": 10,
+      "char_offset": 50
+    }
+  ]
+}

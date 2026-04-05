@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2460",
+  "title": "Eliminating the RFS and Its Destructive Outcomes Act",
+  "short_title": "Eliminating the RFS and Its Destructive Outcomes Act",
+  "congress": 119,
+  "bill_number": "HR.2460",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9cbc408b5d241a48",
+  "last_updated": "2026-04-05T03:17:21.674453+00:00",
+  "plain_summary": "This bill gets rid of a federal program that forces fuel companies to mix biofuels like ethanol into gasoline. The program was created to help the environment and reduce dependence on foreign oil, but this bill would end those requirements. It removes these rules from the Clean Air Act and changes other related laws. If passed, fuel companies would no longer have to blend biofuels into the gasoline they sell.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Perry, Scott [R-PA-10]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "ethanol",
+    "biofuel",
+    "gasoline",
+    "fuel requirements",
+    "gas station fuel",
+    "corn ethanol",
+    "fuel blending",
+    "renewable fuel",
+    "oil companies",
+    "gas prices",
+    "fuel mandates",
+    "energy policy"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Eliminating the RFS and Its Destructive Outcomes Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-renewable-fuel-program",
+      "title": "Section 2 Repeal of Renewable Fuel Program",
+      "text": "This section gets rid of the renewable fuel program. The renewable fuel program is a rule that requires fuel companies to mix certain amounts of biofuels like ethanol into gasoline. This section removes that requirement by striking out the part of the Clean Air Act that created this program. The section also makes small changes to other parts of the law to remove references to the program that no longer exists. One change updates the Petroleum Marketing Practices Act to clarify that it refers to the old version of fuel regulations from before this new law takes effect.",
+      "word_offset": 14,
+      "char_offset": 81
+    }
+  ]
+}

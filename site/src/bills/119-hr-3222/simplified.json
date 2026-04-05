@@ -1,0 +1,90 @@
+{
+  "bill_id": "119-hr-3222",
+  "title": "SMART Health Care Act",
+  "short_title": "SMART Health Care Act",
+  "congress": 119,
+  "bill_number": "HR.3222",
+  "introduced_date": "2025-05-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "0b9ea37e6022c737",
+  "last_updated": "2026-04-05T04:57:30.922637+00:00",
+  "plain_summary": "The SMART Health Care Act makes changes to Medicare to save money and improve care. The bill changes how Medicare Advantage plans get paid and makes hospital payments more similar to what doctors get paid. It allows more doctor-owned hospitals in rural areas and requires some hospitals to give patients discounts on drugs. The bill also gives the government more power to punish nursing homes that provide poor care.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-06",
+  "last_action_date": "2025-05-06",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Spartz, Victoria [R-IN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "medicare changes",
+    "health care costs",
+    "hospital payments",
+    "doctor payments",
+    "medicare advantage",
+    "rural hospitals",
+    "prescription drug discounts",
+    "nursing home quality",
+    "medicare savings",
+    "health care reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Stopping Medicare Abuses to Restore Trust in Health Care Act or the SMART Health Care Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-improving-risk-adjustment-under-medicare-advantage",
+      "title": "Section 2 Improving Risk Adjustment Under Medicare Advantage",
+      "text": "This section changes how Medicare Advantage plans get paid based on how sick their patients are. Starting in two thousand twenty six, Medicare will look at two years of patient health records when deciding how much to pay these plans. This will give a better picture of how much medical care patients really need.",
+      "word_offset": 22,
+      "char_offset": 118
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-promoting-medicare-site-neutral-payments",
+      "title": "Section 3 Promoting Medicare Site-Neutral Payments",
+      "text": "This section makes Medicare pay the same amount for medical services no matter where they happen. Starting January first two thousand twenty six, some special payment rules that let hospitals charge more will end. Hospital outpatient departments on the main hospital campus will get paid the same as doctor offices for most services. Emergency department services are not affected by this change. Certain small rural hospitals, critical access hospitals, sole community hospitals, and Medicare dependent small rural hospitals do not have to follow these new payment rules. When hospital departments have to follow the new rules, they will get paid using the same payment schedule that doctor offices use.",
+      "word_offset": 76,
+      "char_offset": 432
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-increasing-medicare-access-for-rural-communities-by-physician-owned-hospitals",
+      "title": "Section 4 Increasing Medicare Access for Rural Communities by Physician Owned Hospitals",
+      "text": "This section changes rules about when doctors can refer patients to hospitals they own. In rural areas, doctors can refer patients to hospitals they own if almost all the patients at that hospital live in the same rural area. This makes it easier for rural communities to keep their local hospitals open.",
+      "word_offset": 185,
+      "char_offset": 1137
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-making-drugs-more-affordable-for-medicare-patients",
+      "title": "Section 5 Making Drugs More Affordable for Medicare Patients",
+      "text": "This section requires certain hospitals and clinics that get special drug discounts to pass those savings on to patients. These healthcare providers must sell prescription drugs to patients at the same low price they paid for the drugs, minus any extra discounts they received. The government will create a system to make sure hospitals follow this rule and will change how much Medicare pays hospitals for prescription drugs. The government will also track and publicly report how much money hospitals pay for drugs and how much they receive from patients.",
+      "word_offset": 237,
+      "char_offset": 1442
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-improving-quality-of-care-at-the-skilled-nursing-facilities",
+      "title": "Section 6 Improving Quality of Care at the Skilled Nursing Facilities",
+      "text": "This section gives the government more power to reduce payments to nursing homes that provide poor quality care. Starting in fiscal year two thousand twenty five, the government can reduce payments by two to five percentage points instead of just two percentage points. The exact amount of the reduction will be decided by the Secretary of Health and Human Services based on what they think is appropriate.",
+      "word_offset": 327,
+      "char_offset": 2000
+    }
+  ]
+}

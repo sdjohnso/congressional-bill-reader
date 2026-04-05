@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1357",
+  "title": "SAFE Act",
+  "short_title": "SAFE Act",
+  "congress": 119,
+  "bill_number": "S.1357",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9c6abbab6b5d4f8a",
+  "last_updated": "2026-04-05T03:39:40.194466+00:00",
+  "plain_summary": "The SAFE Act is a new law that makes companies follow special rules if they want to sell their stocks in America. If a company gets money from the Chinese government or has connections to China's ruling political party, they must tell everyone about it. Companies have to share these details publicly so investors know about these relationships. The Securities and Exchange Commission, which watches over the stock market, has six months to create the new rules that companies must follow.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 4,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Chinese companies",
+    "stock market rules",
+    "China government funding",
+    "investment transparency",
+    "foreign company disclosure",
+    "SEC regulations",
+    "Chinese political party connections",
+    "stock trading requirements",
+    "investor protection",
+    "company financial backing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Secure America's Financial Exchanges Act or the SAFE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-securities",
+      "title": "Section 2 Securities",
+      "text": "This section changes the Securities Exchange Act of nineteen thirty-four. It adds new rules that stock exchanges must follow. These rules require companies to tell the public certain information before their stocks can be traded on an exchange and in their yearly reports. Companies must reveal whether the Chinese government has given them any money or help. This includes direct payments, grants, loans, loan promises, tax breaks, or special treatment when buying goods from the government. If the Chinese government did provide help, companies must explain what conditions came with that help. For example, they must say if China required them to sell certain amounts overseas, buy items from specific companies, use certain patents or technology, or hire members of the Chinese Communist Party or other Chinese government workers. Companies must also tell the public if they have any Chinese Communist Party committees inside their organization. If they do, they must name which employees are on these committees and explain what roles those employees play. Finally, companies must provide information about any of their officers or directors who currently work for or used to work for the Chinese Communist Party or Chinese government. This includes their job titles and where they worked. The Securities and Exchange Commission has one hundred eighty days after this law passes to update their rules to make these new requirements work.",
+      "word_offset": 15,
+      "char_offset": 85
+    }
+  ]
+}

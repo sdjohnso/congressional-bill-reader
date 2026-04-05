@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-940",
+  "title": "Transparency in Banking Act",
+  "short_title": "Transparency in Banking Act",
+  "congress": 119,
+  "bill_number": "S.940",
+  "introduced_date": "2025-03-11",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "416683c8b198692f",
+  "last_updated": "2026-04-05T04:17:55.947634+00:00",
+  "plain_summary": "This bill makes big US bank agencies tell Congress about their meetings with other countries about banking rules. Every year, these agencies must write a report explaining what they want to accomplish in these meetings and who goes to them. They also have to explain any new banking rules that might affect Americans. If their plans change a lot, they must tell Congress within thirty days. This helps Congress know what is happening in important banking meetings with other countries.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-11",
+  "last_action_date": "2025-03-11",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Sen. Kennedy, John [R-LA]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "bank meetings with other countries",
+    "banking rules transparency",
+    "Congress banking oversight",
+    "international banking meetings",
+    "bank agency reporting",
+    "foreign banking negotiations",
+    "banking rules that affect Americans",
+    "government bank meetings",
+    "international financial meetings",
+    "banking transparency to Congress",
+    "overseas banking discussions",
+    "bank regulation meetings"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Transparency in Banking Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-basel-committee-on-bank-supervision",
+      "title": "Section 2  Basel Committee on Bank Supervision",
+      "text": "The main banking agencies in the United States must work together to tell Congress about their work with an international banking group. These agencies are the Federal Reserve Board, the Federal Reserve Bank of New York, the Office of the Comptroller of the Currency, and the Federal Deposit Insurance Corporation. They must work with the Treasury Secretary on this task. By January thirty-first of each year, these agencies must send a joint report to Congress and post it on the Federal Reserve Board website. The report must explain their goals for meetings with the Basel Committee on Bank Supervision (an international group that sets banking rules). The report must include who from each agency will attend the meetings, what problems they plan to discuss, what solutions they might consider, what kinds of banking rules might affect American people or businesses, what legal authority they would use to put new rules into place, and what all the smaller committees under the Basel Committee are doing. If the agencies make any big changes to their plans after sending the yearly report, they must tell Congress within thirty days. When they report changes, they must include the results of meetings, how the changes might affect the economy, a summary of meeting notes that shows proposed changes and how members voted or what positions they took, a description of any proposals discussed at the meeting, and what position each American representative took at the meeting. The Chair and Vice Chair for Supervision of the Federal Reserve Board must include details from this yearly report when they give their required annual testimony to the Senate Banking Committee and the House Financial Services Committee.",
+      "word_offset": 10,
+      "char_offset": 56
+    }
+  ]
+}

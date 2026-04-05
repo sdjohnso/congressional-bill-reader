@@ -1,0 +1,90 @@
+{
+  "bill_id": "119-hr-1994",
+  "title": "Public Land Renewable Energy Development Act of 2025",
+  "short_title": "Public Land Renewable Energy Development Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1994",
+  "introduced_date": "2025-03-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "f278af963653b67e",
+  "last_updated": "2026-04-05T04:33:53.462330+00:00",
+  "plain_summary": "This law helps build more clean energy like wind and solar power on government land. Starting in 2026, the government will collect money from these energy projects and split it four ways. The money will go to states, counties, federal programs, and a special fund that protects animals and helps people visit public lands. This law makes it easier to build renewable energy while also taking care of nature and sharing the benefits with local communities.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-28",
+  "last_action_date": "2025-03-28",
+  "last_action_text": "Referred to the Subcommittee on Forestry and Horticulture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Alternative and renewable resources",
+    "Congressional oversight",
+    "Government trust funds",
+    "Intergovernmental relations",
+    "Land use and conservation",
+    "State and local finance",
+    "User charges and fees"
+  ],
+  "sponsor_name": "Rep. Gosar, Paul A. [R-AZ-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "renewable energy on public land",
+    "solar wind power government land",
+    "clean energy federal property",
+    "public land energy projects",
+    "government land solar farms",
+    "wind turbines national parks",
+    "energy development public property",
+    "clean power federal land",
+    "renewable energy revenue sharing",
+    "solar panels government owned land"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Public Land Renewable Energy Development Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-table-of-contents",
+      "title": "Section 2 Table of Contents",
+      "text": "This section lists all the parts of this law. Section one is the short title. Section two is this table of contents. Section three gives definitions of important terms. Section four explains limited grandfathering rules. Section five explains how money collected from renewable energy projects will be shared.",
+      "word_offset": 17,
+      "char_offset": 101
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-definitions",
+      "title": "Section 3 Definitions",
+      "text": "This section explains what important words mean in this law. Covered land means federal land that the Secretary manages and that is allowed to have solar or wind energy projects under land use plans or other federal laws. Federal land means public lands and National Forest System lands as described in a nineteen seventy four law about forest planning. Fund means the Renewable Energy Resource Conservation Fund that will be created by section five. Renewable energy project means a project on covered land that uses wind or solar power to make energy. Secretary means the Secretary of the Interior.",
+      "word_offset": 65,
+      "char_offset": 411
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-limited-grandfathering",
+      "title": "Section 4 Limited Grandfathering",
+      "text": "This section creates special rules for existing renewable energy projects. A project means a system described in specific federal regulations that were in place when this law was passed. If someone owns a project and applied for permission to use federal land on or before December nineteenth two thousand sixteen, they must pay the old rental fees and costs that were required before new rules took effect in December two thousand sixteen. This requirement applies unless the project owner agrees to different terms.",
+      "word_offset": 164,
+      "char_offset": 1012
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-disposition-of-revenues",
+      "title": "Section 5 Disposition of Revenues",
+      "text": "This section explains how money collected from wind and solar projects will be divided up. Starting January first two thousand twenty six, money collected from these projects including bonus payments, rent, fees, and other payments will be split four ways. Twenty five percent goes to the state where the project is located. Twenty five percent goes to the counties where the project is located, divided based on how much land each county contains. Twenty five percent stays with the federal government to run this program, including helping other agencies process renewable energy permits faster, with priority given to states where the money came from. Twenty five percent goes into a special conservation fund. Some money collected under other specific laws is not included in this division. States and counties must use their share of money the same way they use money from mineral leasing on federal lands. County payments are in addition to other payments counties already receive from the federal government for having federal land. The conservation fund will be managed by the Secretary of the Interior working with the Secretary of Agriculture. The fund money can be given to federal, state, local, and tribal agencies in areas where renewable energy projects are located. The money can be used to restore fish and wildlife habitat, protect wildlife corridors, restore wetlands and streams affected by wind or solar development, and improve public access to federal lands and waters through agreements with willing landowners. The Secretary can work with state and tribal agencies, nonprofit organizations, and other groups to carry out these activities. Money in the fund will earn interest based on government bond rates, and that interest can also be spent on conservation activities. Each year the Secretary must report to Congress about how much money was collected, how it was spent, and how much remains in the fund. Congress intends for this fund money to add to, not replace, regular yearly funding for conservation activities.",
+      "word_offset": 247,
+      "char_offset": 1530
+    }
+  ]
+}

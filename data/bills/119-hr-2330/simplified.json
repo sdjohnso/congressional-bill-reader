@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-2330",
+  "title": "Virginia Beach Heroes Act",
+  "short_title": "Virginia Beach Heroes Act",
+  "congress": 119,
+  "bill_number": "HR.2330",
+  "introduced_date": "2025-03-25",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e7c023e97e43faf8",
+  "last_updated": "2026-04-05T02:58:11.860792+00:00",
+  "plain_summary": "The Virginia Beach Heroes Act is a law that helps the families of two police officers who were killed in Virginia Beach on February 22, 2025. The law makes it easier for people to help these families by letting them get tax breaks when they donate money to support the officers' families. It also protects charities that give money to these families so they won't lose their special tax status. This law is meant to make sure the families of these brave officers get the help they need during this difficult time.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-25",
+  "last_action_date": "2025-03-25",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Kiggans, Jennifer A. [R-VA-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "VA",
+  "cosponsor_count": 7,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Virginia Beach police",
+    "fallen officers families",
+    "police officer killed",
+    "donation tax breaks",
+    "help police families",
+    "charity tax deduction",
+    "Virginia Beach shooting",
+    "support officer families",
+    "police death benefits",
+    "donate to police families",
+    "tax breaks for donations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Virginia Beach Heroes Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-special-rules-for-contributions-for-relief-of-the-families-of-the-law-enforcement-officers-killed-in-virginia-beach",
+      "title": "Section 2  Special Rules for Contributions for Relief of the Families of the Law Enforcement Officers Killed in Virginia Beach",
+      "text": "This section creates special tax rules for donations to help the families of two police officers who were shot and killed in Virginia Beach, Virginia on February twenty-second, two thousand twenty-five. When people give cash donations to help these specific families, the donations will still count as tax-deductible charitable contributions even though the money goes only to these families. This rule applies to all donations made on or after February twenty-second, two thousand twenty-five. The section also says that when charitable organizations give money to the spouses or dependents of these killed officers, those payments will be considered proper charitable activities. The payments must be made between February twenty-second, two thousand twenty-five and February twenty-third, two thousand twenty-eight. The charitable organizations must use a fair and consistent method to decide how much money to give to each family member.",
+      "word_offset": 10,
+      "char_offset": 54
+    }
+  ]
+}

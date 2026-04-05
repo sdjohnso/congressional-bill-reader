@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-1096",
+  "title": "HOPE and Mental Wellbeing Act of 2025",
+  "short_title": "HOPE and Mental Wellbeing Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1096",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e18aa12076c26a6a",
+  "last_updated": "2026-04-05T02:58:25.188194+00:00",
+  "plain_summary": "The HOPE and Mental Wellbeing Act of 2025 will help people get healthcare without paying extra costs. Starting in 2026, people with Medicare or Medicaid can visit their primary care doctor three times each year for free. These visits can be for mental health care, regular medical checkups, or help managing health problems. This means patients won't have to pay anything out of their own pocket for these first three doctor visits each year.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Health care coverage and access",
+    "Health promotion and preventive care",
+    "Medicaid",
+    "Medicare",
+    "Mental health"
+  ],
+  "sponsor_name": "Rep. Salinas, Andrea [D-OR-6]",
+  "sponsor_party": "D",
+  "sponsor_state": "OR",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "free doctor visits",
+    "Medicare mental health",
+    "Medicaid doctor visits",
+    "no cost healthcare",
+    "primary care coverage",
+    "mental health visits",
+    "free medical checkups",
+    "healthcare without paying",
+    "doctor visits covered",
+    "mental health care coverage",
+    "primary doctor visits",
+    "free preventive care"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Helping Out Patients for Emotional and Mental Wellbeing Act or the HOPE and Mental Wellbeing Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requiring-coverage-of-3-primary-care-visits-without-cost-sharing-each-year-under-medicare",
+      "title": "Section 2  Requiring Coverage of 3 Primary Care Visits Without Cost Sharing Each Year Under Medicare",
+      "text": "Starting in two thousand twenty six, Medicare and Medicaid will cover the first three primary care visits each year with no cost to patients. Primary care visits include mental and behavioral health services, general medical services that are not specialty care, and care coordination services. These services help prevent, diagnose, treat, or manage physical, mental, or behavioral health conditions. This applies to both regular Medicare and Medicare Advantage plans. It also applies to Medicaid programs. Patients will not have to pay deductibles, copayments, or other out of pocket costs for these first three visits each year. After the first three visits, normal cost sharing rules will apply to additional visits.",
+      "word_offset": 27,
+      "char_offset": 153
+    }
+  ]
+}

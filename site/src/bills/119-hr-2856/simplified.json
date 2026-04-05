@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2856",
+  "title": "Great Lakes and National Weather Service Funding Protection Act",
+  "short_title": "Great Lakes and National Weather Service Funding Protection Act",
+  "congress": 119,
+  "bill_number": "HR.2856",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9d091403acc957f3",
+  "last_updated": "2026-04-05T04:18:26.482836+00:00",
+  "plain_summary": "This bill stops the government from taking away or moving money that Congress already approved for the National Weather Service and Great Lakes programs. The only way the government can change how this money is used is if Congress passes a new law saying it's okay. Every year, the person in charge of the weather agency has to write a letter to Congress promising they are following this rule. This makes sure these important weather and Great Lakes programs keep getting the money they need to do their jobs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consider",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [],
+  "sponsor_name": "Rep. Kennedy, Timothy M. [D-NY-26]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 11,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "weather service funding",
+    "great lakes money",
+    "weather forecasting budget",
+    "national weather service",
+    "great lakes programs",
+    "weather agency funding",
+    "congress approved money",
+    "weather service protection",
+    "great lakes funding",
+    "weather budget cuts",
+    "protect weather programs",
+    "lake funding protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Great Lakes and National Weather Service Funding Protection Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-deferral-or-transfer-of-certain-federal-funds-made-available-to-noaa",
+      "title": "Section 2  Limitation on Deferral or Transfer of Certain Federal Funds Made Available to NOAA",
+      "text": "Money that Congress has approved for the National Weather Service and the Great Lakes Region cannot be withheld, moved to other programs, or used for different purposes. This protection applies even if other laws would normally allow such changes. The only way this money can be moved or withheld is if Congress passes a new law after this act becomes law that specifically mentions this act and gives permission for the change. The head of the National Oceanic and Atmospheric Administration (the government agency that runs weather forecasting and ocean research) must tell Congress in writing that they are following this rule. They must do this within thirty days after this law starts and then once every year after that. They must send this written promise to five different committees in Congress that oversee weather services, natural resources, science and technology, and government spending.",
+      "word_offset": 15,
+      "char_offset": 92
+    }
+  ]
+}

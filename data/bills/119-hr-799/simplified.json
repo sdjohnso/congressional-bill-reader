@@ -1,0 +1,90 @@
+{
+  "bill_id": "119-hr-799",
+  "title": "Parental Notification and Intervention Act of 2025",
+  "short_title": "Parental Notification and Intervention Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.799",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "dfb2f0e631042231",
+  "last_updated": "2026-04-05T03:44:33.856239+00:00",
+  "plain_summary": "This bill makes new rules about minors under 18 getting abortions. It says that parents must be told in writing before their child can have an abortion, and then there is a 96-hour waiting period before the abortion can happen. Parents can go to federal court to try to stop the abortion from happening. Anyone who does an abortion without following these rules can be fined up to $100,000 or go to jail for up to one year. The rules can be skipped only if there is a medical emergency or if the minor is being physically abused by their parents.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-28",
+  "last_action_date": "2025-01-28",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Abortion",
+    "Civil actions and liability",
+    "Domestic violence and child abuse",
+    "Emergency medical services and trauma care",
+    "Family relationships",
+    "Health personnel"
+  ],
+  "sponsor_name": "Rep. Miller, Mary E. [R-IL-15]",
+  "sponsor_party": "R",
+  "sponsor_state": "IL",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "parental consent abortion",
+    "teen abortion laws",
+    "minor abortion notification",
+    "parent permission abortion",
+    "abortion waiting period",
+    "underage abortion rules",
+    "teenage pregnancy laws",
+    "abortion parental involvement",
+    "minor medical consent",
+    "teen reproductive rights",
+    "abortion age restrictions"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Parental Notification and Intervention Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-parental-notification",
+      "title": "Section 2 Parental Notification",
+      "text": "It is against the law for any person or organization that works across state lines or gets federal money to perform an abortion on a minor under age eighteen without following these rules. A minor is someone who is not yet considered legally independent from their parents. First, the parents or legal guardians must be told in writing that their child has asked for an abortion. The only exception is when a court has said the parents do not need to be told because there is clear and strong evidence that the parent has physically abused the child. Second, there must be a waiting period of ninety six hours after the parents receive the notice. Third, they must follow any court order that stops the abortion. Anyone who breaks these rules on purpose can be fined up to one hundred thousand dollars or go to jail for up to one year for each time they break the rule. There is one exception to these requirements. If a different doctor determines that the minor will die without immediate treatment and there is no time to notify parents, then the abortion can happen right away. This doctor must write down in the medical records why this emergency exists and why parents could not be told. When parents must be notified, the notice must be given to them in person or sent by certified mail to their home address with a return receipt that only the parent can sign for.",
+      "word_offset": 16,
+      "char_offset": 99
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-parental-intervention",
+      "title": "Section 3 Parental Intervention",
+      "text": "Any parent who must be told about their minor child's planned abortion can go to federal court to try to stop the abortion from happening. The parent can file this case either where they live or where their child is located. The court must issue a temporary order stopping the abortion until the judge makes a final decision. The court will make the ban on the abortion permanent unless doing so would be against the law.",
+      "word_offset": 263,
+      "char_offset": 1472
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-preemption",
+      "title": "Section 4 Preemption",
+      "text": "This law does not override state laws that require even more parental notification or give parents even more rights to intervene in abortion decisions than this federal law provides.",
+      "word_offset": 339,
+      "char_offset": 1894
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-effective-date-and-severability",
+      "title": "Section 5 Effective Date and Severability",
+      "text": "This law takes effect as soon as it is signed. If a court finds that any part of this law is unconstitutional, the rest of the law will still remain in effect. Each part of the law can stand on its own.",
+      "word_offset": 368,
+      "char_offset": 2077
+    }
+  ]
+}

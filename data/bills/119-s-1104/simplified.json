@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1104",
+  "title": "WATCH Act",
+  "short_title": "WATCH Act",
+  "congress": 119,
+  "bill_number": "S.1104",
+  "introduced_date": "2025-03-25",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "43d8c2e0751e515f",
+  "last_updated": "2026-04-05T05:05:44.056327+00:00",
+  "plain_summary": "The WATCH Act is a new law about animal research labs in other countries that get money from the US government. These foreign labs that do experiments on animals must be checked four times every year to make sure they are treating the animals properly. If a lab fails these checkups and does not fix the problems, they will lose all their US government money. This law helps protect animals used in scientific research around the world.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-25",
+  "last_action_date": "2025-03-25",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Sen. Schmitt, Eric [R-MO]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "animal testing",
+    "animal research",
+    "foreign labs",
+    "animal welfare",
+    "government funding",
+    "lab inspections",
+    "overseas research",
+    "animal protection",
+    "scientific experiments",
+    "international laboratories"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-titles",
+      "title": "Section 1  Short Titles",
+      "text": "This law can be called the Worldwide Animal Testing Compliance and Harmonization Act of two thousand twenty five or the WATCH Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-foreign-laboratory-inspections-and-certification",
+      "title": "Section 2  Foreign Laboratory Inspections and Certification",
+      "text": "This section changes an existing law called the Public Health Service Act. The change adds new rules for laboratories outside the United States that receive federal money from the National Institutes of Health to do research on animals.\n\nAny foreign laboratory that gets federal money to do animal research must now pass inspections every three months. These inspections will check if the laboratories are following the rules for taking care of animals during research.\n\nThe Secretary of Health and Human Services will work with foreign government agencies and international groups to create a system for these quarterly inspections. The inspections will check foreign laboratories that have already received an Animal Welfare Assurance. This is a document that shows a laboratory has promised to follow animal care rules.\n\nThe inspections will look at whether laboratories are following several important requirements. They will check if the laboratory has set up committees to oversee animal care. They will review how the laboratory evaluates and treats animals. They will also make sure the laboratory keeps proper records and files required reports.\n\nAfter each quarterly inspection, the inspecting group must give a certificate to laboratories that are following all the rules properly. The Office of Laboratory Animal Welfare must keep copies of these certificates and make them available to the public along with other information about Animal Welfare Assurances.\n\nIf a laboratory does not follow the rules, it will get a reasonable chance to fix the problems. If a foreign laboratory continues to break the rules and does not make proper corrections, the Secretary must stop or cancel the government grant or contract that gave the laboratory federal money for animal research. The Director of the National Institutes of Health will decide the specific conditions for stopping or canceling funding.\n\nThe Secretary will work with the Director of the National Institutes of Health to choose which group will conduct the quarterly inspections and give out the certificates showing laboratories are following the rules.\n\nThe Secretary and the Director of the National Institutes of Health will work together with foreign government agencies. They may make agreements with foreign governments to help carry out these new inspection rules. When making these agreements, they must respect the independence and laws of other countries.\n\nThese new rules will start one hundred eighty days after this law is signed.",
+      "word_offset": 22,
+      "char_offset": 131
+    }
+  ]
+}

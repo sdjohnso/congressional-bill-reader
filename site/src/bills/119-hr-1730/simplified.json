@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-1730",
+  "title": "No Alipay Act of 2025",
+  "short_title": "No Alipay Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1730",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "4deb6cc87454b4d7",
+  "last_updated": "2026-04-05T04:27:41.303771+00:00",
+  "plain_summary": "This bill would make it illegal for any American person or business to use Alipay, which is a Chinese payment app. The law would stop all money transfers and financial deals between Americans and Alipay. The bill clearly explains who counts as an American person and what kinds of money activities would be banned. This means Americans would not be allowed to send, receive, or handle money through Alipay anymore.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-27",
+  "last_action_date": "2025-02-27",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Ogles, Andrew [R-TN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "ban chinese payment app",
+    "alipay banned america",
+    "chinese money app illegal",
+    "block alipay transactions",
+    "ban chinese financial apps",
+    "alipay prohibition law",
+    "stop using alipay",
+    "chinese payment ban",
+    "alipay illegal united states",
+    "ban chinese mobile payments"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Alipay Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-use-of-alipay",
+      "title": "Section 2 Prohibition on Use of Alipay",
+      "text": "No money transactions are allowed between AliPay China Internet Technology Company Limited and any United States person. This includes using any app or payment processing services that Alipay runs.",
+      "word_offset": 14,
+      "char_offset": 70
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-definitions",
+      "title": "Section 3 Definitions",
+      "text": "In this law, United States person means a United States citizen, a person who has been given permission to live permanently in the United States, a company or organization created under United States laws or the laws of any state including foreign branches of such companies, or any person who is physically present in the United States. Financial transaction means any transaction that affects business between states or with foreign countries and involves moving money by wire or other methods or involves money instruments like checks or credit cards. It also means any transaction that uses a financial institution like a bank that does business between states or with foreign countries.",
+      "word_offset": 43,
+      "char_offset": 268
+    }
+  ]
+}

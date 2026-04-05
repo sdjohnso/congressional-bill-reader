@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-1205",
+  "title": "Safe Shelters Act of 2025",
+  "short_title": "Safe Shelters Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1205",
+  "introduced_date": "2025-02-11",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b8c4e6edd343ee0b",
+  "last_updated": "2026-04-05T03:00:14.001318+00:00",
+  "plain_summary": "This law says that during emergencies like hurricanes or floods, people who are registered sex offenders must go to special emergency shelters. They are not allowed to stay in the regular emergency shelters that other people use. The Federal Emergency Management Agency will decide where these special shelters are located. If a registered sex offender tries to stay in a regular shelter instead of the special one, they can be sent to prison for up to five years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-02-11",
+  "last_action_text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Criminal procedure and sentencing",
+    "Government buildings, facilities, and property",
+    "Government information and archives",
+    "Homelessness and emergency shelter",
+    "Sex offenses"
+  ],
+  "sponsor_name": "Rep. Mace, Nancy [R-SC-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "SC",
+  "cosponsor_count": 4,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "sex offender shelters",
+    "emergency shelter rules",
+    "hurricane shelter restrictions",
+    "registered sex offender emergency housing",
+    "separate shelters sex offenders",
+    "disaster shelter segregation",
+    "FEMA special shelters",
+    "sex offender disaster relief",
+    "emergency housing restrictions",
+    "hurricane shelter separation",
+    "flood shelter rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Safe Shelters Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-emergency-shelters-for-sex-offenders",
+      "title": "Section 2 Emergency Shelters for Sex Offenders",
+      "text": "Certain sex offenders cannot use regular emergency shelters except to ask about special shelters made just for them. A covered sex offender is someone who must register on the National Sex Offender Registry (a government database that tracks sex offenders). If a covered sex offender enters a regular shelter, they must immediately tell the shelter worker that they are required to register on this database. The shelter worker must then tell the sex offender about any special shelters available and remind them they cannot stay at the regular shelter. If a covered sex offender knowingly breaks these rules, they can be fined or sent to prison for up to five years. These rules start one hundred eighty days after this law is passed. The head of the Federal Emergency Management Agency (the government agency that helps during disasters) can choose federal buildings or federal prisons to become special shelters for covered sex offenders during disasters. The agency can use these special shelters for as long as needed during a disaster. Within one hundred eighty days of this law passing, other government agencies must give the Federal Emergency Management Agency lists of available federal buildings and prisons that could be used as special shelters. The Federal Emergency Management Agency must tell all regular shelter workers about these special shelters. A covered sex offender means a sex offender who must register on the National Sex Offender Registry under federal law. A designated shelter means an emergency shelter set aside only for covered sex offenders to use. An emergency shelter means a shelter run by the Federal Emergency Management Agency or state and local governments during disasters. The National Sex Offender Registry means the national database created under federal law to track sex offenders. A sex offender has the same meaning as defined in federal law. An undesignated shelter means any emergency shelter that is not a designated shelter.",
+      "word_offset": 13,
+      "char_offset": 68
+    }
+  ]
+}

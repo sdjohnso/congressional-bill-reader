@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-954",
+  "title": "SOAR Permanent Authorization Act",
+  "short_title": "SOAR Permanent Authorization Act",
+  "congress": 119,
+  "bill_number": "HR.954",
+  "introduced_date": "2025-02-04",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "8887d56effadb3c9",
+  "last_updated": "2026-04-05T04:11:12.906466+00:00",
+  "plain_summary": "The SOAR Permanent Authorization Act makes the SOAR scholarship program last forever instead of ending on a certain date. The bill increases the money for the program from sixty million dollars to seventy five million dollars each year starting in 2024. It also makes the rules easier by changing how schools get approved, removing limits on tutoring help, and making testing requirements less strict. These changes will help more students get scholarships and support for their education.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-04",
+  "last_action_date": "2025-02-04",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Academic performance and assessments",
+    "District of Columbia",
+    "Education programs funding",
+    "Elementary and secondary education",
+    "Higher education",
+    "State and local government operations",
+    "Student aid and college costs",
+    "Teaching, teachers, curricula"
+  ],
+  "sponsor_name": "Rep. Moolenaar, John R. [R-MI-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "SOAR scholarship",
+    "student scholarships",
+    "education funding",
+    "college financial aid",
+    "school vouchers",
+    "student support program",
+    "education grants",
+    "scholarship money",
+    "tutoring assistance",
+    "college help",
+    "student aid program"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the SOAR Permanent Authorization Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amendments-to-scholarships-for-opportunity-and-results-act",
+      "title": "Section 2. Amendments to Scholarships for Opportunity and Results Act",
+      "text": "This section makes several changes to an existing law called the Scholarships for Opportunity and Results Act. The first change is about school approval requirements. Schools can now be approved if they are fully approved by an organization that has authority in Washington DC or if they are recognized by a program run by US Immigration and Customs Enforcement that deals with student and visitor exchanges for English language learning. The second change removes limits on help for students who need extra academic support. The law now allows up to two million two hundred thousand dollars instead of two million dollars to be spent on helping parents and providing extra tutoring to students. If there is not enough money to help all students who need tutoring in a year, priority must be given to students who previously went to schools that were identified as some of the lowest performing schools under Washington DC's school rating system. The third change is about testing requirements. The Institute of Education Sciences can now give tests to students who are part of the program evaluation for the purpose of conducting that evaluation. References to specific standardized tests are changed to allow any nationally recognized standardized test. The fourth change is about how often the program must be evaluated and what standards to use. Instead of requiring annual evaluations, the law now requires regular evaluations. The evaluation must be rigorous and measure the impact of the program on academic progress and educational achievement. The evaluation must assess the academic progress of students in the program and compare how well students using opportunity scholarships are doing academically compared to similar students in public schools. This may include students with similar backgrounds. The evaluation must also measure how satisfied parents and students are with the program. It must look at high school graduation rates, college enrollment rates, how many students stay in college, and college graduation rates of students using opportunity scholarships compared to public school students when this information is available. It must also compare these same rates for students who won the scholarship lottery to students who entered the lottery but did not win and served as a comparison group in previous evaluations. The evaluation must compare how safe the schools are that scholarship students attend compared to the schools attended by similar public school students when this information is available. The fifth and final change makes the funding for this program permanent. Starting in fiscal year twenty twenty four, seventy five million dollars is authorized to be spent each year going forward, instead of the previous amount of sixty million dollars that was only authorized through fiscal year twenty twenty three.",
+      "word_offset": 10,
+      "char_offset": 61
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-2445",
+  "title": "Ensuring Medicaid Eligibility Act of 2025",
+  "short_title": "Ensuring Medicaid Eligibility Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2445",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "8ca12a0764fee270",
+  "last_updated": "2026-04-05T03:28:39.868226+00:00",
+  "plain_summary": "This bill makes it harder for people to get and keep Medicaid health insurance. It requires states to check if people are US citizens or legal immigrants before they can sign up for Medicaid. States must also check every three months to make sure people still qualify based on their income. The bill stops federal money from paying for Medicaid coverage for some groups of immigrants, including those with temporary protection or deferred action status.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Kennedy, Mike [R-UT-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "medicaid requirements",
+    "citizenship check medicaid",
+    "immigrant health insurance",
+    "medicaid eligibility rules",
+    "health coverage verification",
+    "medicaid income checks",
+    "temporary immigrant benefits",
+    "medicaid funding cuts",
+    "health insurance citizenship",
+    "quarterly medicaid review"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Ensuring Medicaid Eligibility Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibiting-implementation-of-medicaid-streamlining-rule",
+      "title": "Section 2  Prohibiting Implementation of Medicaid Streamlining Rule",
+      "text": "The Secretary of Health and Human Services cannot put into effect, enforce, or use a specific rule about Medicaid programs. This rule was called Medicaid Program Streamlining the Medicaid, Children's Health Insurance Program, and Basic Health Program Application, Eligibility Determination, Enrollment, and Renewal Processes. It was published in the Federal Register on April second, two thousand twenty four.",
+      "word_offset": 15,
+      "char_offset": 90
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibiting-enrollment-in-the-medicaid-program-prior-to-verification-of-citizenship-or-satisfactory-immigration-status-ensuring-eligibility",
+      "title": "Section 3  Prohibiting Enrollment in the Medicaid Program Prior to Verification of Citizenship or Satisfactory Immigration Status; Ensuring Eligibility",
+      "text": "This section changes the Social Security Act by adding new rules for states that run Medicaid programs. States must now do two new things. First, states cannot enroll anyone in their Medicaid program until they check and confirm that the person is either a United States citizen or someone with proper immigration status that allows them to receive benefits. Second, for people who qualify for Medicaid based partly on their income level, states must check their eligibility at least once every three months to make sure they still qualify.",
+      "word_offset": 73,
+      "char_offset": 500
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-limiting-medicaid-coverage-of-parolees-and-tps-and-daca-recipients",
+      "title": "Section 4  Limiting Medicaid Coverage of Parolees and TPS and DACA Recipients",
+      "text": "This section changes the Social Security Act to limit Medicaid coverage for certain groups of immigrants. The federal government will not pay states for medical help given to immigrants in specific situations. These include people who were granted parole to enter or stay in the country temporarily, people with deferred action status including those who came to the United States as children and received protection under a program from June fifteenth two thousand twelve, people granted asylum, people with temporary protected status, and people granted withholding of removal. The section also makes a technical change to ensure these new rules work properly with existing Medicaid requirements.",
+      "word_offset": 162,
+      "char_offset": 1041
+    }
+  ]
+}

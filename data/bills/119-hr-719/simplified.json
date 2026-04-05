@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hr-719",
+  "title": "No Abortion Coverage for Medicaid Act",
+  "short_title": "No Abortion Coverage for Medicaid Act",
+  "congress": 119,
+  "bill_number": "HR.719",
+  "introduced_date": "2025-01-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "f5a7bfafe371076b",
+  "last_updated": "2026-04-05T03:30:48.756375+00:00",
+  "plain_summary": "This bill would stop the federal government from allowing special Medicaid programs that use federal money to pay for abortions. It would also block funding for travel costs and hotel stays related to getting abortions. The ban would not apply in cases of rape, incest, or when the mother's life is in danger. The bill would also still allow federal money to be used for treating miscarriages and ectopic pregnancies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-24",
+  "last_action_date": "2025-01-24",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Child health",
+    "Medicaid",
+    "Poverty and welfare assistance"
+  ],
+  "sponsor_name": "Rep. Brecheen, Josh [R-OK-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 20,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "medicaid abortion ban",
+    "federal funding abortion",
+    "medicaid pregnancy services",
+    "government pay abortion",
+    "medicaid travel costs",
+    "federal money abortion",
+    "medicaid coverage restrictions",
+    "abortion funding ban",
+    "government health insurance abortion",
+    "medicaid pregnancy coverage"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Abortion Coverage for Medicaid Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress states these facts. The Hyde Amendment was first passed in nineteen seventy six and has stopped taxpayer money from paying for abortions. The most recent Hyde Amendment says that no money given by Congress can be spent on any abortion or health insurance that covers abortion. On August sixth, twenty twenty two, the Department of Health and Human Services sent a letter to states. The letter invited states to use Medicaid money under special permission rules in section eleven fifteen of the Social Security Act to expand access to elective abortions. The Hyde Amendment applies to all Medicaid money and cannot be overruled by special permission under section eleven fifteen of the Social Security Act. Making a permanent law to stop Medicaid dollars from going to elective abortions, including payment for abortions and services that require abortion services, matches what the Hyde Amendment already does.",
+      "word_offset": 12,
+      "char_offset": 66
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-limiting-demonstration-projects",
+      "title": "Section 3  Limiting Demonstration Projects Related to Abortion Under Medicaid and CHIP",
+      "text": "Section eleven fifteen of the Social Security Act gets a new part added at the end. The new part says the Secretary cannot approve applications for any experimental test programs or demonstration projects that use federal money for abortion or health coverage that includes abortion. This includes money for travel or lodging to get an abortion. This rule starts when this law is passed. There are three exceptions to this rule. The Secretary can still approve programs that cover abortion when the pregnancy happened because of rape or incest. The Secretary can also approve programs that cover treatment for a physical problem, injury, or illness, including a life threatening condition caused by the pregnancy itself, when a doctor says the person will die unless an abortion is performed. The Secretary can also approve programs that cover treatment for miscarriage or ectopic pregnancy.",
+      "word_offset": 158,
+      "char_offset": 986
+    }
+  ]
+}

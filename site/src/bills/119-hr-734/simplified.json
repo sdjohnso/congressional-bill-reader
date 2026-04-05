@@ -1,0 +1,52 @@
+{
+  "bill_id": "119-hr-734",
+  "title": "To amend the Food and Nutrition Act of 2008 with respect to the issuance of quality control guidance issued by the Secretary of Agriculture.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.734",
+  "introduced_date": "2025-01-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b2ea026659ccf5bb",
+  "last_updated": "2026-04-05T03:22:03.103009+00:00",
+  "plain_summary": "This bill is about food assistance programs like SNAP that help people buy groceries. Right now, the government checks how well states run these programs through something called quality control reviews. The bill says that before the Department of Agriculture makes big changes to how these reviews work, they must let the public give their opinions for at least 60 days. This rule applies when the changes would force states to change their computer systems, procedures, or how they check if people qualify for food assistance. The only exception is during emergencies when changes need to happen right away.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-28",
+  "last_action_date": "2025-02-28",
+  "last_action_text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Moore, Barry [R-AL-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "AL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "food stamps",
+    "SNAP benefits",
+    "grocery assistance",
+    "food assistance programs",
+    "government food help",
+    "state program oversight",
+    "public comment period",
+    "food program changes",
+    "USDA food programs",
+    "low income food support",
+    "government benefit reviews",
+    "food aid quality control"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-public-comment-on-quality-control-guidance",
+      "title": "Section 1  Public Comment on Quality Control Guidance",
+      "text": "This section changes the Food and Nutrition Act of two thousand and eight by adding a new part about quality control guidance. Quality control guidance means the rules that tell state agencies how to check whether food stamp programs are working correctly. When the Secretary of Agriculture wants to create new guidance or change existing guidance in important ways, they must first let the public see it and comment on it for at least sixty days before making it final. This requirement applies to any proposed guidance that would likely require state agencies to change their computer systems, their procedures, or their staffing for quality control reviews. It also applies to guidance that would change the requirements for checking whether people who receive food assistance are eligible for it. However, if there is an urgent and immediate need, the Secretary can issue temporary final guidance at the same time they ask for public comments.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2090",
+  "title": "Identifying Potential Terrorist at the Border Act of 2025",
+  "short_title": "Identifying Potential Terrorist at the Border Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2090",
+  "introduced_date": "2025-03-11",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "30b449fc98d30f8f",
+  "last_updated": "2026-04-05T03:41:25.360397+00:00",
+  "plain_summary": "This bill requires border officials to check every foreign person's name against a terrorist database before letting them into the country. Officials must keep people in custody while they wait for the database check to finish. No one can be released until the check is complete and officials get the results back. This law would apply to all foreign visitors and immigrants trying to enter the United States.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-11",
+  "last_action_date": "2025-03-11",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Williams, Roger [R-TX-25]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "border security",
+    "terrorist screening",
+    "immigration checks",
+    "database search",
+    "foreign visitors",
+    "airport security",
+    "customs detention",
+    "immigration control",
+    "terrorist watch list",
+    "border patrol",
+    "visa screening",
+    "immigration safety"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Identifying Potential Terrorist at the Border Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirement-to-review-federal-terrorist-screening-database",
+      "title": "Section 2  Requirement to Review Federal Terrorist Screening Database",
+      "text": "This section changes existing immigration law to add new rules about checking names against a terrorist database. The law now requires border officials to hold any person trying to enter the country if that person is on the terrorist screening database. The terrorist screening database is a government list of people who might be connected to terrorism. The law also creates a new requirement that says the head of Customs and Border Protection must keep any foreign person in custody until they check that person's name against the terrorist screening database and get back results from that check. This requirement applies no matter what other laws might say. The law defines the terrorist screening database as having the same meaning that is given in another federal law called the Homeland Security Act of two thousand two.",
+      "word_offset": 18,
+      "char_offset": 106
+    }
+  ]
+}

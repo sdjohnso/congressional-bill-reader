@@ -1,0 +1,79 @@
+{
+  "bill_id": "119-hres-91",
+  "title": "Providing amounts for the expenses of the Committee on the Budget in the One Hundred Nineteenth Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.91",
+  "introduced_date": "2025-02-04",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "f32d4516aefc3db7",
+  "last_updated": "2026-04-05T04:48:30.653135+00:00",
+  "plain_summary": "This bill allows the House Budget Committee to spend up to almost twelve million dollars during the next two years of Congress. The money will pay for the committee's daily work and the people who work there. The twelve million dollars is split evenly between the two years. The committee has to follow the proper rules when spending this money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-04",
+  "last_action_date": "2025-02-04",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "House Committee on the Budget"
+  ],
+  "sponsor_name": "Rep. Arrington, Jodey C. [R-TX-19]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "budget committee funding",
+    "house budget committee money",
+    "congressional committee expenses",
+    "twelve million dollars congress",
+    "budget committee staff salaries",
+    "house committee spending",
+    "congressional budget office funding",
+    "committee operating costs",
+    "budget committee employees",
+    "house budget money",
+    "congressional committee budget",
+    "government committee expenses"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-amounts-for-committee-expenses",
+      "title": "Section 1  Amounts for Committee Expenses",
+      "text": "The House Budget Committee can spend up to eleven million nine hundred ninety thousand dollars during the One Hundred Nineteenth Congress. This money will pay for all committee expenses, including the salaries of all staff members. The money will come from the House of Representatives' regular accounts that are set aside for committee salaries and expenses.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-session-limitations",
+      "title": "Section 2  Session Limitations",
+      "text": "The total money from Section 1 is split into two equal parts. The committee can spend up to five million nine hundred ninety five thousand dollars during the first session, which runs from noon on January third, two thousand twenty five until just before noon on January third, two thousand twenty six. The committee can spend up to five million nine hundred ninety five thousand dollars during the second session, which runs from noon on January third, two thousand twenty six until just before noon on January third, two thousand twenty seven.",
+      "word_offset": 56,
+      "char_offset": 360
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-vouchers",
+      "title": "Section 3  Vouchers",
+      "text": "Before the committee can receive any money, they must submit vouchers (official payment requests). The Budget Committee must approve these vouchers, the Chairman of the Budget Committee must sign them, and the House Administration Committee must approve them according to their rules.",
+      "word_offset": 148,
+      "char_offset": 906
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-regulations",
+      "title": "Section 4  Regulations",
+      "text": "The Budget Committee must follow all spending rules that are created by the House Administration Committee when using this money.",
+      "word_offset": 190,
+      "char_offset": 1191
+    }
+  ]
+}

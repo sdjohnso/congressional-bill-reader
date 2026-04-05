@@ -1,0 +1,50 @@
+{
+  "bill_id": "119-hr-1462",
+  "title": "To amend the Internal Revenue Code of 1986 to disallow the production tax credit and investment tax credit for offshore wind facilities placed in service in the inland navigable waters of the United States or the coastal waters of the United States.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.1462",
+  "introduced_date": "2025-02-21",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "eb705e1b26e474b7",
+  "last_updated": "2026-04-05T02:55:32.028598+00:00",
+  "plain_summary": "This bill changes tax rules for offshore wind energy projects. It removes tax breaks that companies can get when they build wind farms in waters near the US coast or in rivers and lakes inside the country. These tax breaks help pay for building the wind farms and reward companies for making clean electricity. If this bill becomes law, offshore wind companies would not get these money-saving benefits anymore.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-21",
+  "last_action_date": "2025-02-21",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Fallon, Pat [R-TX-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "offshore wind farms",
+    "wind energy tax breaks",
+    "coastal wind turbines",
+    "renewable energy subsidies",
+    "ocean wind power",
+    "wind farm tax credits",
+    "clean energy incentives",
+    "offshore renewable energy",
+    "wind power tax benefits",
+    "coastal energy projects"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-disallowance-of-investment-tax-credit-and-clean-electricity-production-credit-for-certain-offshore-wind-facilities",
+      "title": "Section 1  Disallowance of Investment Tax Credit and Clean Electricity Production Credit for Certain Offshore Wind Facilities",
+      "text": "This section makes changes to the tax code to remove tax benefits for certain offshore wind energy projects. First, it removes investment tax credits for offshore wind facilities. These are tax breaks that companies can claim when they invest money in building wind energy equipment. Second, it changes the renewable energy production tax credit rules. The production tax credit gives companies money back on their taxes based on how much clean energy they produce. Under the new rule, wind facilities located in inland navigable waters of the United States or in coastal waters of the United States will not qualify for this credit. Third, it changes the clean electricity production tax credit in the same way. This credit also rewards companies for producing clean electricity. The new rule says that offshore wind facilities in inland navigable waters or coastal waters will not count as qualified facilities that can receive this tax credit. All of these changes will apply to energy produced and property put into service after December thirty first, two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

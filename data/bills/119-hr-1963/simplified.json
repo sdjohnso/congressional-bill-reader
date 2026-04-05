@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1963",
+  "title": "Agency Accountability and Cost Transparency Act of 2025",
+  "short_title": "Agency Accountability and Cost Transparency Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1963",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7366c23022300a5d",
+  "last_updated": "2026-04-05T03:15:21.217201+00:00",
+  "plain_summary": "This bill makes government agencies follow new rules when they want to create important new regulations. Before an agency can make a new major rule, it must figure out how much that rule will cost. The agency must also find old rules to get rid of that cost the same amount of money. This way, the total cost of all rules stays about the same. When agencies publish new major rules, they have to say whether the rule adds no extra costs overall.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Van Duyne, Beth [R-TX-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government regulations",
+    "agency rules",
+    "regulatory costs",
+    "federal agencies",
+    "rule making",
+    "government spending",
+    "bureaucracy costs",
+    "agency accountability",
+    "regulatory burden",
+    "government efficiency",
+    "cost control",
+    "administrative rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Agency Accountability and Cost Transparency Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirement-to-identify-whether-major-rules-are-budget-neutral",
+      "title": "Section 2  Requirement to Identify Whether Major Rules Are Budget Neutral",
+      "text": "The main requirement says that before any government agency creates a major new rule, the head of that agency must do several things. First, they must estimate how much the new rule will cost the public. Second, they must look for any existing rules from their agency that could be removed to balance out the cost of the new rule. Third, if they find rules that can be removed, they must actually remove them. When the agency publishes the major rule in the Federal Register (the government's official publication for new rules), they must include a statement that says whether the rule is budget neutral or not.\n\nThe definitions section explains important terms. An agency means any government department or office as defined in existing federal law. Budget neutral means the cost of the new rule equals the total savings from removing old rules. The cost of a rule includes all money the public has to spend to understand and follow the rule. A major rule is any rule that costs the economy one hundred million dollars or more per year, causes big cost increases for consumers or businesses or governments, or creates major negative effects on competition, jobs, investment, productivity, innovation, or the ability of American companies to compete with foreign companies. A rule includes not just official regulations but also guidance documents and policy statements, but it does not include rules that apply to specific situations only, rules about agency management or employees, or internal agency procedures that do not significantly affect people or businesses outside the agency.",
+      "word_offset": 17,
+      "char_offset": 104
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hconres-15",
+  "title": "Calling an Article V Convention for proposing a Fiscal Responsibility Amendment to the United States Constitution and stipulating ratification by a vote of We the People, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HCONRES.15",
+  "introduced_date": "2025-02-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "3a56f3bcee983eae",
+  "last_updated": "2026-04-05T04:58:40.255931+00:00",
+  "plain_summary": "This bill wants to create a special meeting to add new rules to the Constitution about how the government can spend money. The new rules would make the government be more careful and responsible with spending taxpayer money. For these new rules to become part of the Constitution, people in at least thirty-eight states would have to vote yes on them in special elections. The goal is to make sure the government does not waste money or spend more than it should.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-24",
+  "last_action_date": "2025-02-24",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [],
+  "sponsor_name": "Rep. Arrington, Jodey C. [R-TX-19]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government spending limits",
+    "constitutional amendment",
+    "taxpayer money protection",
+    "federal budget rules",
+    "government waste prevention",
+    "spending responsibility",
+    "constitution changes",
+    "voter approval",
+    "fiscal discipline",
+    "budget amendment",
+    "government accountability",
+    "public vote on constitution"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-call-for-article-v-convention-of-states",
+      "title": "Section 1  Call for Article V Convention of States",
+      "text": "Congress is calling for a special convention to propose changes to the United States Constitution. This convention must happen on a date and at a place that will be decided when the convention is organized. However, this call for a convention will not happen if within sixty days after this resolution is passed, the House Clerk provides a written report. This report must state that there have never been at least thirty-four states that have asked for a convention to propose amendments on national issues or on the specific issue of being responsible with government spending. The House Clerk must also include detailed findings for each state in this report. Any changes to the Constitution that are proposed at this convention must be approved by the people in at least thirty-eight states. The approval will happen through special state conventions where the delegates cannot go against what the people voted for.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-transmission-to-administrator-of-general-services",
+      "title": "Section 2  Transmission to Administrator of General Services",
+      "text": "A copy of this resolution must be sent to the Administrator of General Services. The Administrator will then send it to the state legislatures of all the states.",
+      "word_offset": 151,
+      "char_offset": 920
+    }
+  ]
+}

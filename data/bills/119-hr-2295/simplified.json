@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2295",
+  "title": "WING Act of 2025",
+  "short_title": "WING Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2295",
+  "introduced_date": "2025-03-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "07440b489b623af7",
+  "last_updated": "2026-04-05T03:11:50.694517+00:00",
+  "plain_summary": "The WING Act of 2025 tells the National Weather Service to start a special research program. This program will study how big things like wind turbines and tall buildings can mess up weather radar systems. The researchers will work with other groups to find new technology that can fix these radar problems. The program must finish its work by 2030 so weather forecasts can be more accurate.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-24",
+  "last_action_date": "2025-03-24",
+  "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Feenstra, Randy [R-IA-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 8,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "weather radar problems",
+    "wind turbines interfering with weather",
+    "tall buildings blocking radar",
+    "weather forecast accuracy",
+    "National Weather Service research",
+    "radar interference fix",
+    "weather prediction improvement",
+    "wind farm radar issues",
+    "building heights weather impact",
+    "weather technology research"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Weather Innovation for the Next Generation Act of two thousand twenty five or the WING Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-radar-obstruction-research-development-test-and-evaluation-program",
+      "title": "Section 2  Radar Obstruction Research, Development, Test, and Evaluation Program",
+      "text": "The person in charge of the National Weather Service must work with another weather official to create a special research program. This program will study how to keep weather radar working properly when things like wind turbines or buildings block the radar signals. The Director must work with other government agencies, private companies, colleges, and state and local governments to find solutions. The program will look for existing technology that can fix radar problems caused by obstructions. It will also research new solutions like special computer programs that process radar signals better, short term weather forecasting programs to replace bad data, and ways to use special radar features to reduce problems from wind turbines. The program must develop practical solutions that companies can actually use to fix radar obstruction problems. The Director must focus on certain types of technology solutions first. These include advanced radar systems with multiple functions, using private company radar data to replace bad data, getting weather information from private weather towers, showing wind farm locations on local weather equipment, installing rain measurement devices, and any other technology that can overcome blocked radar signals or false radar readings. The program will end on September thirtieth two thousand thirty or one year after the Director gives Congress a final recommendation, whichever comes first. Starting two years after this law is passed and then every year until the program ends, the Director must give Congress a report about how the program is working. The report must evaluate each priority technology solution and recommend whether to identify and test new technologies. Within five years of this law being passed, the Director must give Congress a final recommendation about whether more research and testing through this program is needed and whether field research should stop. This section defines important terms. Beam blockage means a radar signal that is partially or fully blocked by something in the way. Director means the person in charge of the National Weather Service. Ghost echo means errors in radar data caused by objects being too close to the radar. Obstruction includes wind turbines that could limit how well weather radar works and any building that disrupts or limits weather radar effectiveness.",
+      "word_offset": 27,
+      "char_offset": 147
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "bill_id": "119-hr-1389",
+  "title": "Marriage Equality for Disabled Adults Act",
+  "short_title": "Marriage Equality for Disabled Adults Act",
+  "congress": 119,
+  "bill_number": "HR.1389",
+  "introduced_date": "2025-02-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "358057d431df8463",
+  "last_updated": "2026-04-05T04:15:42.318856+00:00",
+  "plain_summary": "This bill helps disabled adults who get government benefits be able to get married without losing their help. Right now, many disabled adults who get Social Security, Medicare, or Medicaid benefits lose them if they get married. The bill changes the rules so disabled adult children can marry without losing their benefits. It also stops the government from counting a spouse's money when deciding if a disabled person can keep getting help. This means disabled adults will have the same right to marry as everyone else without being punished by losing the benefits they need.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [
+    "Disability and health-based discrimination",
+    "Disability and paralysis",
+    "Disability assistance",
+    "Family relationships",
+    "Marriage and family status",
+    "Medicaid",
+    "Poverty and welfare assistance",
+    "Social security and elderly assistance",
+    "Tax administration and collection, taxpayers"
+  ],
+  "sponsor_name": "Rep. Panetta, Jimmy [D-CA-19]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 9,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "disabled marriage benefits",
+    "marriage penalty disability",
+    "disabled adults getting married",
+    "losing benefits when married",
+    "social security marriage rules",
+    "medicaid marriage penalty",
+    "disabled spouse income",
+    "marriage equality disabled",
+    "disability benefits marriage",
+    "government help marriage"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Marriage Equality for Disabled Adults Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-elimination-of-marriage-restriction-for-disabled-adult-children",
+      "title": "Section 2 Elimination of Marriage Restriction for Disabled Adult Children",
+      "text": "This section changes the Social Security law to remove marriage restrictions for disabled adult children. Currently, disabled adult children lose their Social Security benefits if they get married. This change removes the requirement that disabled adult children must be unmarried to get benefits. It also removes the rule that benefits end when a disabled adult child gets married. The benefits will now only end when the person dies.",
+      "word_offset": 12,
+      "char_offset": 70
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-modification-of-rules-to-determine-marital-relationships",
+      "title": "Section 3 Modification of Rules to Determine Marital Relationships",
+      "text": "This section changes how the government decides if people are married for disability benefit purposes. It makes the rules simpler by using the same marriage rules that apply to other Social Security programs. The section also updates the language in several parts of the law to use more inclusive terms like married individuals and spouse instead of husband and wife.",
+      "word_offset": 80,
+      "char_offset": 506
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-income-and-resource-deeming-rules",
+      "title": "Section 4 Income and Resource Deeming Rules",
+      "text": "This section creates a special rule for married disabled adult children who receive Social Security disability benefits. Normally, when people get married, the government counts both spouses' income and resources when deciding if they qualify for benefits. This new rule says that for married disabled adult children, the government will not count the spouse's income and resources. This means getting married will not affect their benefit eligibility based on their spouse's finances.",
+      "word_offset": 140,
+      "char_offset": 874
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-retention-of-medicaid-for-certain-married-individuals",
+      "title": "Section 5 Retention of Medicaid for Certain Married Individuals",
+      "text": "This section protects Medicaid coverage for married disabled adult children. It says that disabled adult children who get married can keep their Medicaid benefits as long as they would have qualified for Medicaid if they were still single. This applies to both the disabled adult child and their spouse. The rule applies in states that have chosen to provide Medicaid to people who get Social Security disability benefits.",
+      "word_offset": 212,
+      "char_offset": 1360
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-sense-of-congress",
+      "title": "Section 6 Sense of Congress",
+      "text": "This section states Congress's beliefs about how disabled adult children should be treated. Congress believes that disabled adult children should keep all their Medicare, Medicaid, and Social Security benefits when they get married, just as if they were still single. This should be true no matter what state they live in. Congress also believes that marriage should not affect these benefits, and that disabled adult children should be able to get Social Security disability benefits no matter where they live in the United States.",
+      "word_offset": 280,
+      "char_offset": 1783
+    }
+  ]
+}

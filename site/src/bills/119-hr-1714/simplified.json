@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1714",
+  "title": "Criminal Illegal Alien Report Act",
+  "short_title": "Criminal Illegal Alien Report Act",
+  "congress": 119,
+  "bill_number": "HR.1714",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7b8d0baabd9d68d0",
+  "last_updated": "2026-04-05T04:09:54.948806+00:00",
+  "plain_summary": "This bill requires the head of Homeland Security to write a report for Congress about crimes committed by people who came to the US with special permission called parole. The report must be finished within sixty days. It needs to include information about what countries these people came from and whether they have any ties to terrorist or criminal groups. The goal is to help Congress understand what crimes are being committed by people who entered the country this way.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-27",
+  "last_action_date": "2025-02-27",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Luttrell, Morgan [R-TX-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "immigration crimes",
+    "homeland security report",
+    "parolee criminal activity",
+    "immigrant background checks",
+    "border security crimes",
+    "foreign nationals crime data",
+    "immigration enforcement",
+    "congressional crime report",
+    "immigrant screening",
+    "criminal aliens",
+    "immigration violations",
+    "homeland security statistics"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Criminal Illegal Alien Report Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-report-on-crimes-committed-by-recipients-of-parole",
+      "title": "Section 2  Report on Crimes Committed by Recipients of Parole Under the Immigration and Nationality Act",
+      "text": "Within sixty days after this law is passed, the Secretary of Homeland Security must give Congress a report. The report must show how many people who are in the United States under special permission called parole have committed crimes here. This includes people from Cuba, Haiti, Nicaragua, and Venezuela who got special permission to enter, as well as anyone else who got parole under section two hundred twelve of the Immigration and Nationality Act. The report must also show what countries these people are from and whether any of them have connections to terrorist groups or international criminal organizations.",
+      "word_offset": 11,
+      "char_offset": 62
+    }
+  ]
+}

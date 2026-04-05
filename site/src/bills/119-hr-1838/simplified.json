@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1838",
+  "title": "Broadband Internet for Small Ports Act",
+  "short_title": "Broadband Internet for Small Ports Act",
+  "congress": 119,
+  "bill_number": "HR.1838",
+  "introduced_date": "2025-03-04",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7ecfb68a5f46dd7d",
+  "last_updated": "2026-04-05T03:54:54.229721+00:00",
+  "plain_summary": "This bill helps bring better internet to rural areas, especially small ports and farms. It makes sure that when the government gives out money for internet projects, ports and farming technology get special consideration first. The bill also makes the application process faster and requires better tracking of where new internet service gets built. Finally, it sets aside money to make sure these internet programs are being run properly.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-28",
+  "last_action_date": "2025-03-28",
+  "last_action_text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Del. Plaskett, Stacey E. [D-VI-At Large]",
+  "sponsor_party": "D",
+  "sponsor_state": "VI",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "rural internet",
+    "small ports internet",
+    "farm internet access",
+    "broadband for farms",
+    "internet for rural areas",
+    "port internet funding",
+    "rural broadband money",
+    "faster internet rural",
+    "government internet grants",
+    "agricultural internet",
+    "small town internet",
+    "countryside broadband"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Broadband Internet for Small Ports Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-access-to-broadband-telecommunications-services-in-rural-areas",
+      "title": "Section 2 Access to Broadband Telecommunications Services in Rural Areas",
+      "text": "This section changes an existing law from nineteen thirty-six about rural electricity to improve internet access in rural areas. The changes include new rules about giving priority to certain types of internet projects. The government will now give special priority to projects that help farmers use technology on their farms and ranches. This includes projects that provide fast internet service for precision agriculture (using technology to farm more efficiently). The law also creates special priority for ports in rural areas. A port is defined as any port on United States waters including territories, any harbor or marine terminal used mainly for moving goods on inland waters, and any port created under state or territory law. These ports will get equal priority with other high-priority projects when applying for internet funding. The government must confirm that rural communities requesting the highest priority funding actually need the service. They will do this by working with the Federal Communications Commission and the National Telecommunications and Information Administration to check service data, reviewing other relevant sources, and testing specific locations to verify that residential broadband service is not available. The government must review and may update the list of unserved communities at least once every two years. The maximum amount of grant money that can be given for a project is fifty percent of the development costs, except the Secretary can provide up to seventy-five percent for projects serving very rural households and certain types of rural communities. The government must work with the Federal Communications Commission to make sure any grants, loans, or loan guarantees provide at least the same level of service as universal service high-cost support programs. Applications for funding must be processed within ninety days instead of fifty days, and decisions must be made within two years instead of three years. The government must provide feedback and funding decisions to applicants in a timely manner. Anyone who receives funding must provide complete and accurate location information about where new internet service is being built or improved within thirty days of finishing project milestones or completing the project. The Secretary can approve funding before completing environmental and historical reviews if they determine that additional site-specific reviews will be adequate for placing towers, poles, or other internet equipment. At least one percent of funding must be set aside for conducting oversight and implementing accountability measures.",
+      "word_offset": 12,
+      "char_offset": 67
+    }
+  ]
+}

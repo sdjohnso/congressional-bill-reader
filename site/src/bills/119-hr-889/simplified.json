@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-889",
+  "title": "Deliver Housing Now Act of 2025",
+  "short_title": "Deliver Housing Now Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.889",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "23d57b9dda52eda4",
+  "last_updated": "2026-04-05T03:52:35.311985+00:00",
+  "plain_summary": "The Deliver Housing Now Act of 2025 changes rules for a special housing program. Right now, only thirty public housing agencies can join this program that lets them try new ways to help people find homes. This new law removes that limit so more agencies can join. The law says at least fifteen agencies must be in the program, but there is no maximum number anymore. This means more housing agencies across the country can test new ideas to help people get housing.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-31",
+  "last_action_date": "2025-01-31",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [
+    "Employment and training programs",
+    "Housing and community development funding",
+    "Low- and moderate-income housing",
+    "Public housing"
+  ],
+  "sponsor_name": "Rep. Ryan, Patrick [D-NY-18]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "housing help",
+    "public housing",
+    "affordable housing",
+    "housing programs",
+    "housing agencies",
+    "low income housing",
+    "government housing",
+    "housing assistance",
+    "rental help",
+    "housing solutions",
+    "community housing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Deliver Housing Now Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-removal-of-limit-on-number-of-public-housing-agencies-that-may-be-added-to-moving-to-work-demonstration-program",
+      "title": "Section 2  Removal of Limit on Number of Public Housing Agencies That May Be Added to Moving to Work Demonstration Program",
+      "text": "This section changes an old law from nineteen ninety six. The old law said the Secretary of Housing and Urban Development could add up to thirty public housing agencies to a special program called Moving to Work. Public housing agencies are local government groups that provide affordable housing to people who need it. The Moving to Work program lets these agencies try new ways to help people get housing and jobs. This new law removes the limit of thirty agencies. Instead, it says the Secretary must add at least fifteen agencies to the program, with no maximum limit.",
+      "word_offset": 15,
+      "char_offset": 80
+    }
+  ]
+}

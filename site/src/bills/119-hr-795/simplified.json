@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-795",
+  "title": "Pregnancy Is Not an Illness Act of 2025",
+  "short_title": "Pregnancy Is Not an Illness Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.795",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "6b88865678512012",
+  "last_updated": "2026-04-05T04:08:37.218320+00:00",
+  "plain_summary": "This bill says that government health agencies cannot treat pregnancy like it is a disease when they decide whether to approve abortion drugs. The bill cancels the approval of abortion drugs that were approved by treating pregnancy as if it were an illness. This includes canceling the approval of a drug called mifepristone, which is commonly used for abortions. The bill would make these abortion drugs no longer legal to use because their approval would be taken away.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-28",
+  "last_action_date": "2025-01-28",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Drug safety, medical device, and laboratory regulation",
+    "Prescription drugs",
+    "Sex and reproductive health",
+    "Women's health"
+  ],
+  "sponsor_name": "Rep. Miller, Mary E. [R-IL-15]",
+  "sponsor_party": "R",
+  "sponsor_state": "IL",
+  "cosponsor_count": 11,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "abortion pills",
+    "mifepristone ban",
+    "pregnancy drugs",
+    "abortion medication",
+    "reproductive rights",
+    "women's healthcare",
+    "abortion access",
+    "pregnancy treatment",
+    "reproductive medicine",
+    "birth control pills"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Pregnancy Is Not an Illness Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-against-treating-pregnancy-as-illness-for-purposes-of-approving-abortion-drugs",
+      "title": "Section 2 Prohibition Against Treating Pregnancy as Illness for Purposes of Approving Abortion Drugs",
+      "text": "The Department of Health and Human Services and the Food and Drug Administration cannot treat pregnancy as a sickness or disease when they make decisions about abortion drugs. They cannot do this when approving any abortion drug under the federal law that controls drug approval. They also cannot do this when creating or keeping safety rules for abortion drugs. Any approval of an abortion drug that is against this rule is canceled. This includes any drug approval that treated pregnancy as a sickness in any way. It specifically includes the approval of mifepristone that was in effect the day before this law was passed.",
+      "word_offset": 17,
+      "char_offset": 88
+    }
+  ]
+}

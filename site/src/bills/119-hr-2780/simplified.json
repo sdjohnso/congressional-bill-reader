@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-2780",
+  "title": "Setting the Table for Transition Act",
+  "short_title": "Setting the Table for Transition Act",
+  "congress": 119,
+  "bill_number": "HR.2780",
+  "introduced_date": "2025-04-09",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "469bef742fe3262f",
+  "last_updated": "2026-04-05T03:43:03.675674+00:00",
+  "plain_summary": "This bill helps military veterans get food stamps more easily when they first leave the military. For the first 100 days after leaving the military, only the veteran's own income is counted when deciding if they can get food assistance. The income of other family members living with them does not count during this time. This makes it easier for veterans to qualify for help buying food while they are adjusting to life after military service.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-09",
+  "last_action_date": "2025-04-09",
+  "last_action_text": "Referred to the House Committee on Agriculture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Kennedy, Timothy M. [D-NY-26]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "veteran food stamps",
+    "military food assistance",
+    "veterans leaving military",
+    "food help for veterans",
+    "veteran transition benefits",
+    "military discharge food aid",
+    "veteran family food stamps",
+    "transitioning veterans benefits",
+    "military to civilian food help",
+    "veteran income requirements food stamps"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Setting the Table for Transition Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-temporary-expanded-snap-income-eligibility-of-households-that-include-certain-veterans",
+      "title": "Section 2  Temporary Expanded SNAP Income Eligibility of Households That Include Certain Veterans",
+      "text": "When deciding if a household can get food stamps (also called SNAP benefits), there is a special rule for one hundred days after a veteran gets their discharge papers (called a DD form 214). During those one hundred days, the government will only count the veteran's income when deciding if the household qualifies for food stamps. The income of other people living in the same household will not be counted during this time period.",
+      "word_offset": 12,
+      "char_offset": 65
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-definition",
+      "title": "Section 3  Definition",
+      "text": "In this law, a veteran means a person who served in the Army, Navy, Air Force, or other military branch. The person must have been discharged or released from military service in a way that was not dishonorable.",
+      "word_offset": 86,
+      "char_offset": 498
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-effective-date",
+      "title": "Section 4  Effective Date",
+      "text": "This law will start working ninety days after Congress passes it and the President signs it.",
+      "word_offset": 124,
+      "char_offset": 710
+    }
+  ]
+}

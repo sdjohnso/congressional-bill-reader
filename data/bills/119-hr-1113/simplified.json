@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1113",
+  "title": "Race Horse Cost Recovery Act of 2025",
+  "short_title": "Race Horse Cost Recovery Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1113",
+  "introduced_date": "2025-02-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "f54c402780097370",
+  "last_updated": "2026-04-05T03:37:07.932553+00:00",
+  "plain_summary": "This bill changes tax rules for people who own race horses. Instead of having to count the full cost of a race horse right away on their taxes, owners can now spread that cost out over three years. This means they can subtract part of the horse's cost from their taxes each year for three years instead of all at once. The new rule only applies to race horses that owners start using after December 31, 2022.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-07",
+  "last_action_date": "2025-02-07",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Barr, Andy [R-KY-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "race horse taxes",
+    "horse racing tax breaks",
+    "racehorse depreciation",
+    "horse owner tax deductions",
+    "spreading horse costs over time",
+    "racehorse tax relief",
+    "horse racing business expenses",
+    "tax rules for horse owners",
+    "racehorse cost recovery",
+    "horse racing industry taxes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Race Horse Cost Recovery Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-three-year-depreciation-for-race-horses",
+      "title": "Section 2 Three Year Depreciation for Race Horses",
+      "text": "This section changes the tax rules for race horses. When someone buys a race horse for business purposes, they can spread out the cost over three years on their taxes instead of a longer time period. This rule applies to any race horse that was put into service after December thirty first, two thousand twenty two. Depreciation means spreading out the cost of something expensive over several years for tax purposes instead of counting the full cost in just one year.",
+      "word_offset": 16,
+      "char_offset": 85
+    }
+  ]
+}

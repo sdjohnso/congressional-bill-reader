@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2100",
+  "title": "No Bailouts for Reparations Act",
+  "short_title": "No Bailouts for Reparations Act",
+  "congress": 119,
+  "bill_number": "HR.2100",
+  "introduced_date": "2025-03-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e1889839e3a89de8",
+  "last_updated": "2026-04-05T04:47:39.185451+00:00",
+  "plain_summary": "This bill would stop the federal government from giving money to state or local governments that create programs to pay reparations for slavery. Reparations are payments made to people whose ancestors were harmed by slavery. The bill only affects the specific government that makes a reparations program, not all governments. If a city or state decides to pay reparations, the federal government would not be allowed to give that city or state any financial help.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-14",
+  "last_action_date": "2025-03-14",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Babin, Brian [R-TX-36]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "reparations",
+    "slavery payments",
+    "federal funding",
+    "government bailouts",
+    "state funding cuts",
+    "local government money",
+    "slavery reparations ban",
+    "federal aid restrictions",
+    "reparations programs",
+    "government financial help",
+    "slavery compensation",
+    "federal assistance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Bailouts for Reparations Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-bailouts-for-state-and-local-governments-carrying-out-reparations-programs",
+      "title": "Section 2  Prohibition on Bailouts for State and Local Governments Carrying Out Reparations Programs",
+      "text": "The United States Government cannot give money to help any state or local government that creates laws to pay reparations. This includes the Federal Reserve System (the nation's central banking system) and independent agencies (government departments that work separately from the main government). The government cannot give loans, grants (free money), or any other kind of money help to any state government, local government like cities or counties, or any agencies that work for them if they make laws that give reparations based on slavery or based on race, ethnicity, national origin, or historical practices related to these things. This rule only applies to the specific government unit that creates the reparations program. For this law, the word State means any of the fifty states, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Northern Mariana Islands, or any other territory or area that belongs to the United States.",
+      "word_offset": 11,
+      "char_offset": 60
+    }
+  ]
+}

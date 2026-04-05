@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-hr-1547",
+  "title": "SSA Reform Act of 2025",
+  "short_title": "SSA Reform Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1547",
+  "introduced_date": "2025-02-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "236c4ffeb7f1440b",
+  "last_updated": "2026-04-05T03:38:09.690033+00:00",
+  "plain_summary": "The SSA Reform Act of 2025 makes new rules about Social Security and government benefits. The bill says that only US citizens can get Social Security, Medicare, Medicaid, and other government help. When someone's citizenship or immigration status changes, the Department of Homeland Security must tell Social Security about it within six months. The government also has to write a report to Congress every year about how this system is working.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-24",
+  "last_action_date": "2025-02-24",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for co",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Van Drew, Jefferson [R-NJ-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "social security citizenship",
+    "medicare only citizens",
+    "medicaid citizenship requirements",
+    "government benefits citizens only",
+    "immigration status social security",
+    "non-citizens lose benefits",
+    "homeland security immigration reporting",
+    "social security reform 2025",
+    "government benefits eligibility",
+    "citizenship verification benefits",
+    "immigration benefits changes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Social Security for Americans Reform Act of two thousand twenty five or the SSA Reform Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-notification-to-social-security-administration",
+      "title": "Section 2  Notification to Social Security Administration Regarding Changes in Status Under the Immigration Laws",
+      "text": "The Secretary of Homeland Security must tell the Commissioner of Social Security within one hundred eighty days when any person who has a social security number has a change in their citizenship status, immigration status, or work permission status. Immigration laws means the rules that control who can come to and stay in the United States as defined in section one hundred one of the Immigration and Nationality Act.",
+      "word_offset": 27,
+      "char_offset": 147
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-report",
+      "title": "Section 3  Report",
+      "text": "Starting one year after this law goes into effect and every year after that, the Secretary of Homeland Security and the Commissioner of Social Security must work together to send Congress a report. The report must include information from the previous year about how many notifications were sent for changes in citizenship status, immigration status, and work permission status. It must also show how long it took on average to send these notifications after a status change happened. The report must explain any problems or difficulties with the notification process and give suggestions for making it better. It must describe how well the notifications work to prevent fraud and misuse of social security numbers, including information about any fraudulent activities that were found because of the notifications and what actions were taken to fix them. The report must also explain how the Department of Homeland Security and the Social Security Administration work together, including how they share, manage, and protect data, what works well, what needs improvement, and how sharing data affects how efficiently they provide services.",
+      "word_offset": 96,
+      "char_offset": 567
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-limitation-of-benefits",
+      "title": "Section 4  Limitation of Benefits Under the Social Security Act",
+      "text": "No matter what other laws say, including the Social Security Act or title four of the Personal Responsibility and Work Opportunity Reconciliation Act of nineteen ninety six, any person who is not a citizen or national of the United States cannot receive certain benefits during any month when they do not have citizenship or national status. The benefits they cannot receive include old age, survivors, or disability insurance benefits under title two of the Social Security Act. They also cannot receive Medicare benefits under title eighteen of the Social Security Act. They cannot get benefits under state Medicaid plans approved under title nineteen of the Social Security Act. They cannot receive benefits under state children's health insurance plans under title twenty one of the Social Security Act. They cannot get supplemental security income benefits under title sixteen of the Social Security Act, including extra payments and payments made through certain agreements. They cannot receive assistance under state programs funded under part A of title four of the Social Security Act. They also cannot get any other benefit that the Social Security Administration manages.",
+      "word_offset": 273,
+      "char_offset": 1707
+    }
+  ]
+}

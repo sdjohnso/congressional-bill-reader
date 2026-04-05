@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2573",
+  "title": "LIZARD Act of 2025",
+  "short_title": "LIZARD Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2573",
+  "introduced_date": "2025-04-01",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9718051ca1b445c8",
+  "last_updated": "2026-04-05T04:29:21.740266+00:00",
+  "plain_summary": "This bill takes the dunes sagebrush lizard off the government's list of animals that are in danger of disappearing forever. The lizard is currently protected by laws that help save endangered animals. The bill also changes the rules so that this lizard can never be put back on the protected list in the future. This means the government will no longer have special rules to protect this type of lizard.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-01",
+  "last_action_date": "2025-04-01",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Animals",
+  "subjects": [],
+  "sponsor_name": "Rep. Pfluger, August [R-TX-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "dunes sagebrush lizard",
+    "endangered species removal",
+    "lizard protection laws",
+    "wildlife protection changes",
+    "endangered animals list",
+    "lizard conservation",
+    "species delisting",
+    "wildlife endangered status",
+    "animal protection removal",
+    "endangered species act changes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Limiting Incredulous Zealots Against Restricting Drilling Act of two thousand twenty-five or the LIZARD Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-delisting-of-dunes-sagebrush-lizard",
+      "title": "Section 2 Delisting of Dunes Sagebrush Lizard",
+      "text": "No matter what any other law says, the dunes sagebrush lizard (a specific type of lizard with the scientific name Sceloporus arenicolus) is removed from the official lists of threatened species and endangered species. These lists are published under section four of the Endangered Species Act of nineteen seventy-three. The law also changes the Endangered Species Act to add new rules. It adds an exception that says the Secretary (the government official in charge) cannot decide that the dunes sagebrush lizard is a threatened species or an endangered species. This means the government can never put this lizard back on the protected species lists in the future.",
+      "word_offset": 25,
+      "char_offset": 164
+    }
+  ]
+}

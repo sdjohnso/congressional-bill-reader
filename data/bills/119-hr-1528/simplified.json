@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1528",
+  "title": "America Works Act of 2025",
+  "short_title": "America Works Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1528",
+  "introduced_date": "2025-02-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "0614009efe11a8c9",
+  "last_updated": "2026-04-05T03:36:37.572275+00:00",
+  "plain_summary": "This bill makes work requirements for food stamps stricter for adults without children. Currently, adults ages 18 to 55 without kids must work or do job training to get food stamps, but this bill raises that age to 65. The bill also removes special exemptions that let homeless people, veterans, and young adults who aged out of foster care avoid work requirements. States will also have a harder time getting permission to skip these work rules in their areas.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-28",
+  "last_action_date": "2025-03-28",
+  "last_action_text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Johnson, Dusty [R-SD-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "SD",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "food stamps work requirements",
+    "SNAP work rules",
+    "food assistance work",
+    "homeless food stamps",
+    "veteran food benefits",
+    "foster care food stamps",
+    "older adults work requirements",
+    "food stamps without children",
+    "work training food assistance",
+    "state waiver food stamps",
+    "age limit food benefits",
+    "stricter food stamp rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the America Works Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amendments",
+      "title": "Section 2 Amendments",
+      "text": "This section makes changes to existing food stamp laws. First, it changes the rules about who does not have to work to get food stamps. The new rules say that able-bodied adults between eighteen and sixty five years old must work unless they are medically certified as unable to work, are taking care of a child under seven years old, are already exempt under other rules, or are pregnant women. Second, it changes when states can ask for permission to skip work requirements. States can only get permission to skip work requirements if they can show that a county has an unemployment rate higher than ten percent. The state's top leader must also support this request. Finally, this section removes a part of a different law from two thousand twenty three that dealt with these same work requirements.",
+      "word_offset": 14,
+      "char_offset": 74
+    }
+  ]
+}

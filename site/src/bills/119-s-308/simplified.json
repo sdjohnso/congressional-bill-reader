@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-s-308",
+  "title": "Graduate Opportunity and Affordable Loans Act",
+  "short_title": "Graduate Opportunity and Affordable Loans Act",
+  "congress": 119,
+  "bill_number": "S.308",
+  "introduced_date": "2025-01-29",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ae3bf4fc65f5f437",
+  "last_updated": "2026-04-05T04:00:20.844622+00:00",
+  "plain_summary": "This bill changes how much money graduate students can borrow from the government to pay for school. Starting in July 2025, graduate students will no longer be able to get PLUS loans, which currently let them borrow large amounts of money. Instead, graduate students will only be able to borrow up to $65,000 total, and professional students like those in medical or law school can borrow up to $130,000 total. Schools must tell their graduate students about these new rules before the changes happen. The goal is to make graduate students borrow less money for their education.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-29",
+  "last_action_date": "2025-01-29",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Government lending and loan guarantees",
+    "Higher education",
+    "Student aid and college costs",
+    "Vocational and technical education"
+  ],
+  "sponsor_name": "Sen. Tuberville, Tommy [R-AL]",
+  "sponsor_party": "R",
+  "sponsor_state": "AL",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "graduate student loans",
+    "student loan limits",
+    "graduate school borrowing",
+    "PLUS loan changes",
+    "student debt limits",
+    "graduate loan cap",
+    "medical school loans",
+    "law school borrowing",
+    "student loan reform",
+    "graduate education costs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Graduate Opportunity and Affordable Loans Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-loan-reforms",
+      "title": "Section 2 Loan Reforms",
+      "text": "This section changes the rules for student loans that graduate students and professional students can get from the government. Starting on July first two thousand twenty five, graduate students who are not in professional programs can borrow up to twenty thousand five hundred dollars per school year. Professional students can borrow up to forty thousand five hundred dollars per school year. These are called Federal Direct Unsubsidized Stafford Loans. Over their entire graduate education, regular graduate students can borrow up to sixty five thousand dollars total, plus whatever they borrowed as undergraduates. Professional students can borrow up to one hundred thirty thousand dollars total, plus whatever they borrowed as undergraduates. Students who already got loan money between July first two thousand twenty four and June thirtieth two thousand twenty five can still use the old higher loan limits for the two thousand twenty five to two thousand twenty six school year if they have not graduated yet. Starting July first two thousand twenty five, graduate students and professional students will no longer be able to get Federal Direct PLUS Loans. These PLUS loans currently let students borrow much larger amounts. Schools must tell their graduate students about this change within thirty days of this law being passed. Schools can also choose to set lower loan limits for their students if they want to, as long as they apply the same limits to all students in the same program. Graduate students are those working on certificates, masters degrees, or doctoral degrees after finishing their bachelors degree. Professional students are those in doctoral programs that train them for professional practice like medical school or law school.",
+      "word_offset": 12,
+      "char_offset": 74
+    }
+  ]
+}

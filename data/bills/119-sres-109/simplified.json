@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-sres-109",
+  "title": "A resolution expressing the sense of the Senate that Russian President Vladimir Putin should immediately withdraw Russian forces from Ukraine.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.109",
+  "introduced_date": "2025-03-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "af624e80580de499",
+  "last_updated": "2026-04-05T04:57:08.634592+00:00",
+  "plain_summary": "This Senate resolution says that Russia should immediately pull all of its soldiers out of Ukraine and stop attacking the country. The resolution explains that Russia has been illegally taking over parts of Ukraine and hurting people there since the war started in February 2022. The Senate wants Russian President Vladimir Putin to end the invasion and leave Ukraine alone. This is the Senate's official opinion about what Russia should do to stop the war.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-05",
+  "last_action_date": "2025-03-05",
+  "last_action_text": "Referred to the Committee on Foreign Relations. (text: CR S1583)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Sanders, Bernard [I-VT]",
+  "sponsor_party": "I",
+  "sponsor_state": "VT",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Russia Ukraine war",
+    "Putin withdraw troops",
+    "Russian invasion Ukraine",
+    "Senate resolution Russia",
+    "stop Russian attack Ukraine",
+    "Russia pull out soldiers",
+    "Ukraine war Congress",
+    "Russian forces leave Ukraine",
+    "Putin end invasion",
+    "Russia Ukraine conflict",
+    "Senate wants Russia out"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution expresses what the Senate believes about the war between Russia and Ukraine. The Senate wants Russian President Vladimir Putin to pull all Russian military forces out of Ukraine right away.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Facts",
+      "text": "On February twenty fourth, two thousand twenty two, Russian President Vladimir Putin ordered a full attack on Ukraine. This attack broke the rules of the United Nations Charter and international law. Russian military forces on land, in the air, and at sea have attacked, invaded, and taken control of parts of Ukraine for more than three years. These attacks are still happening today. Putin's unprovoked attack on Ukraine has caused the deaths of hundreds of thousands of people, including many civilians who were not fighting. Russian forces illegally control about twenty percent of Ukraine's territory that belongs to Ukraine. Russian forces have committed serious human rights violations, including widespread attacks against civilians and civilian buildings and infrastructure.",
+      "word_offset": 32,
+      "char_offset": 206
+    },
+    {
+      "id": "s3",
+      "slug": "senate-resolution",
+      "title": "What the Senate Believes Should Happen",
+      "text": "The Senate believes that Russia must do two things. First, Russia must immediately, completely, and without any conditions pull out all of its military forces from any territory inside Ukraine's internationally recognized borders. Second, Russia must immediately stop all attacks against Ukraine.",
+      "word_offset": 149,
+      "char_offset": 990
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2710",
+  "title": "People Over Parking Act of 2025",
+  "short_title": "People Over Parking Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2710",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "0f7d56a48db07286",
+  "last_updated": "2026-04-05T03:08:45.219321+00:00",
+  "plain_summary": "This bill lets building owners choose how many parking spaces they want to include in new buildings or major renovations. The rule only applies if the building is within half a mile of public transportation like buses or trains. It overrides state and local laws that normally require a minimum number of parking spaces. This means property owners have more freedom to decide parking based on what they think their building needs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [],
+  "sponsor_name": "Rep. Garcia, Robert [D-CA-42]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 10,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "parking requirements",
+    "building parking spaces",
+    "parking minimums",
+    "public transportation parking",
+    "property owner parking",
+    "parking near transit",
+    "building construction parking",
+    "parking space rules",
+    "transit oriented development",
+    "parking flexibility",
+    "minimum parking laws",
+    "parking near buses trains"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the People Over Parking Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-preemption-of-state-and-local-laws",
+      "title": "Section 2 Preemption of State and Local Laws Requiring the Provision of Parking Spots for New Developments",
+      "text": "Property owners can decide how many parking spaces to include when they build new buildings or major renovations near public transportation. This applies to residential buildings where people live, stores, offices, and industrial buildings. The building must be involved in business that crosses state lines or international borders. The building must also be within half a mile of a covered public transit point. When these conditions are met, only the property owner can decide how many car parking spots to provide. State and local laws that require a certain number of parking spaces do not apply in these situations. A covered public transit point means a place where people can get on trains, subways, light rail, or other transportation that runs on tracks. For ferry boats, it only counts if there is also another type of public transportation at that same location. For regular bus stops, it only counts if at least two different bus routes meet there and buses come at least every fifteen minutes during busy morning and evening travel times. The terms fixed guideway and public transportation have the same meanings as defined in section fifty three oh two of title forty nine of the United States Code.",
+      "word_offset": 15,
+      "char_offset": 80
+    }
+  ]
+}

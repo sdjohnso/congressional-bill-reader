@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1925",
+  "title": "Emerging Digital Identity Ecosystem Report Act of 2025",
+  "short_title": "Emerging Digital Identity Ecosystem Report Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1925",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "33e6340a893c769f",
+  "last_updated": "2026-04-05T03:09:48.992388+00:00",
+  "plain_summary": "This law tells the Transportation Security Administration to write a report about digital identity systems. Digital identity systems are computer programs that help prove who you are without using paper documents. The report must be finished within six months and sent to Congress. It should explain how these systems work now and how they could make travel safer in airports and other transportation places. The goal is to help lawmakers understand if these digital identity tools would be good for keeping people safe when they travel.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Referred to the Subcommittee on Transportation and Maritime Security.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Higgins, Clay [R-LA-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "digital identity",
+    "airport security",
+    "TSA report",
+    "electronic ID",
+    "travel safety",
+    "digital documents",
+    "transportation security",
+    "paperless identification",
+    "mobile ID",
+    "digital driver license",
+    "airport technology",
+    "travel identification"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Emerging Digital Identity Ecosystem Report Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-tsa-report-on-digital-identity-ecosystems",
+      "title": "Section 2  TSA Report on Digital Identity Ecosystems",
+      "text": "Within one hundred eighty days after this law is passed, the head of the Transportation Security Administration (TSA) must send a report to two committees in Congress. The report must go to the Committee on Homeland Security in the House of Representatives and the Committee on Homeland Security and Governmental Affairs in the Senate. The report must describe how digital identity systems work today and explain how new digital identity systems could help keep the country safe in transportation. Digital identity systems are ways to prove who you are using computers and digital technology instead of paper documents. The report must explain the good things and bad things about these systems. It must also explain how current and new digital identity systems could better protect the country and help the United States compete with other nations. The report should include opinions from private companies and from state, local, tribal, and territorial governments as much as possible.",
+      "word_offset": 17,
+      "char_offset": 103
+    }
+  ]
+}

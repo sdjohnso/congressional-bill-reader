@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1341",
+  "title": "DRILL Now Act",
+  "short_title": "DRILL Now Act",
+  "congress": 119,
+  "bill_number": "HR.1341",
+  "introduced_date": "2025-02-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "78b41b6bf3e61659",
+  "last_updated": "2026-04-05T04:59:04.913896+00:00",
+  "plain_summary": "The DRILL Now Act is a law that limits what three river groups can do about a drilling method called hydraulic fracturing. These three groups take care of rivers called the Susquehanna, Delaware, and Potomac. The law says these river groups cannot make their own rules about this type of drilling. They can only use rules that state governments have already made. This gives state governments more control over drilling rules instead of the river groups.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-13",
+  "last_action_date": "2025-02-13",
+  "last_action_text": "Referred to the Subcommittee on Water Resources and Environment.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Perry, Scott [R-PA-10]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "drilling",
+    "fracking",
+    "hydraulic fracturing",
+    "river protection",
+    "water safety",
+    "Delaware river",
+    "Susquehanna river",
+    "Potomac river",
+    "state drilling rules",
+    "gas drilling",
+    "oil drilling",
+    "water pollution"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Denying Regulatory Interference with Landowners and Legislatures Now Act or the DRILL Now Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-regulation-of-hydraulic-fracturing-within-the-susquehanna-delaware-and-potomac-river-basins",
+      "title": "Section 2  Regulation of Hydraulic Fracturing Within the Susquehanna, Delaware, and Potomac River Basins",
+      "text": "This section changes the Water Resources Development Act of two thousand seven. It adds a new rule about hydraulic fracturing (a method of extracting oil and gas by injecting liquid into rock formations at high pressure). The new rule says that three river commissions cannot create, put into effect, or enforce any rules about hydraulic fracturing unless those rules come from the state government where the fracturing would happen. These three commissions are the Susquehanna River Basin Commission, the Delaware River Basin Commission, and the Interstate Commission on the Potomac River Basin. This applies even though these commissions were created by agreements between states that Congress previously approved.",
+      "word_offset": 20,
+      "char_offset": 122
+    }
+  ]
+}

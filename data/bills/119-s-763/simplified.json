@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-s-763",
+  "title": "Telehealth Expansion Act of 2025",
+  "short_title": "Telehealth Expansion Act of 2025",
+  "congress": 119,
+  "bill_number": "S.763",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "47e1f7d4e34910da",
+  "last_updated": "2026-04-05T04:48:16.390896+00:00",
+  "plain_summary": "This bill makes it easier for people to use telehealth services like video calls with doctors. If you have a high deductible health insurance plan, you normally have to pay a lot of money out of your own pocket before insurance helps pay for medical care. Starting in 2025, these insurance plans will be able to cover telehealth visits right away without making you pay the deductible first. This means people can get medical care over the phone or computer more affordably.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-27",
+  "last_action_date": "2025-02-27",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Daines, Steve [R-MT]",
+  "sponsor_party": "R",
+  "sponsor_state": "MT",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "telehealth",
+    "video doctor visits",
+    "online medical appointments",
+    "high deductible health plans",
+    "health insurance deductible",
+    "virtual healthcare",
+    "telemedicine",
+    "phone doctor visits",
+    "remote medical care",
+    "affordable telehealth",
+    "health insurance coverage"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Telehealth Expansion Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exemption-for-telehealth-services",
+      "title": "Section 2  Exemption for Telehealth Services",
+      "text": "This section changes the tax rules about health insurance plans with high deductibles. A deductible is the amount of money you must pay for health care before your insurance starts paying. Under the new rules, health insurance plans can still be considered high deductible health plans even if they do not require you to pay a deductible for telehealth services. Telehealth services are medical care you receive through video calls, phone calls, or other technology instead of visiting a doctor's office in person. Remote care services include other types of medical care you can get from home using technology. The law also removes language that made this rule temporary. These changes apply to health insurance plan years that begin after December thirty first, two thousand twenty four.",
+      "word_offset": 14,
+      "char_offset": 81
+    }
+  ]
+}

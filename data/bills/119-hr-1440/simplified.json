@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1440",
+  "title": "Discriminatory Gaming Tax Repeal Act of 2025",
+  "short_title": "Discriminatory Gaming Tax Repeal Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1440",
+  "introduced_date": "2025-02-18",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c69173f76f74455d",
+  "last_updated": "2026-04-05T04:27:27.727094+00:00",
+  "plain_summary": "This bill gets rid of special federal taxes that the government charges on betting and gambling. Right now, people and businesses that run gambling activities have to pay extra taxes just for gambling. The new law would remove these special taxes so gambling would be taxed the same as other activities. The changes would start for taxes filed in 2025 and later years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-18",
+  "last_action_date": "2025-02-18",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Titus, Dina [D-NV-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "NV",
+  "cosponsor_count": 7,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "gambling tax",
+    "betting tax",
+    "casino tax",
+    "remove gambling taxes",
+    "gambling tax repeal",
+    "federal gambling taxes",
+    "sports betting tax",
+    "gaming tax elimination",
+    "gambling tax reform",
+    "casino tax relief",
+    "betting tax removal",
+    "gambling business taxes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Discriminatory Gaming Tax Repeal Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-excise-taxes-on-wagering",
+      "title": "Section 2 Repeal of Excise Taxes on Wagering",
+      "text": "The government will stop collecting special taxes on betting and gambling. These taxes are found in Chapter thirty five of the tax code. This change will start for tax years that begin after December thirty first, twenty twenty four.",
+      "word_offset": 15,
+      "char_offset": 87
+    }
+  ]
+}

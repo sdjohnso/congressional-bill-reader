@@ -6,7 +6,7 @@
   "title": "SEC Act of 2025",
   "short_title": "SEC Act of 2025",
   "introduced_date": "2025-01-09",
-  "update_date": "2025-02-28",
+  "update_date": "2025-04-01",
   "stage_label": "Referred to the House Committee on Financial Services.",
   "text_url": "https://www.congress.gov/119/bills/hr257/BILLS-119hr257ih.htm",
   "sponsor_name": "Rep. Bice, Stephanie I. [R-OK-5]",
@@ -28,9 +28,10 @@
   "became_law_date": "",
   "vetoed": false,
   "vetoed_date": "",
-  "simplified_complete": true,
-  "queued_at": "2026-03-20T02:54:23.258422+00:00",
-  "version_hash": "3957eb57827ebfb7",
-  "last_processed": "2026-03-20T11:46:57.178367+00:00",
-  "section_count": 2
+  "simplified_complete": false,
+  "queued_at": "2026-04-05T02:01:31.130825+00:00",
+  "process_failed": true,
+  "process_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZk7Ae5rF3ULJxKVtvN55'}",
+  "failed_chunk": 1,
+  "last_process_attempt": "2026-04-05T05:55:04.230944+00:00"
 }

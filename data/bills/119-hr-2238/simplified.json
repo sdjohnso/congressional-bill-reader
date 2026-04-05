@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-2238",
+  "title": "Ranching Without Red Tape Act of 2025",
+  "short_title": "Ranching Without Red Tape Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2238",
+  "introduced_date": "2025-03-18",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "70d41e0e429b1332",
+  "last_updated": "2026-04-05T04:16:21.370319+00:00",
+  "plain_summary": "This bill helps ranchers who use government land for their cattle. It lets ranchers fix small things like fences and water systems without waiting for lots of government paperwork. Ranchers just have to tell government workers what they want to fix and wait thirty days. If the government does not say no in thirty days, the ranchers can do the work. The bill also makes government agencies answer ranchers' requests within thirty days.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-18",
+  "last_action_date": "2025-04-18",
+  "last_action_text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [],
+  "sponsor_name": "Rep. Vasquez, Gabe [D-NM-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "NM",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "ranching",
+    "cattle grazing",
+    "government land",
+    "public land",
+    "fence repair",
+    "water systems",
+    "ranch maintenance",
+    "grazing permits",
+    "rancher rights",
+    "government paperwork",
+    "ranch infrastructure",
+    "livestock grazing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Ranching Without Red Tape Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-minor-range-improvements-under-usfs-grazing-permits",
+      "title": "Section 2 Minor Range Improvements Under USFS Grazing Permits",
+      "text": "Within one year after this law is passed, the Secretary of Agriculture must create new rules. These rules will let ranchers who have grazing permits (official permission to let their animals graze on government land) make small improvements to the land. Ranchers can make these improvements if they tell their local Forest Service district ranger at least thirty days before starting the work. The district ranger must either approve the improvement or not respond at all. If a rancher asks the Secretary to make improvements instead, the Secretary must respond within thirty days through the district ranger. If the Secretary agrees to do the work, they must tell the district office and speed up the project using all available tools including categorical exclusions (a way to skip some environmental reviews for certain projects). Small improvements include fixing existing fences and fence lines, wells, water pipes, and water tanks for livestock.",
+      "word_offset": 16,
+      "char_offset": 86
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-minor-range-improvements-under-blm-grazing-permits",
+      "title": "Section 3 Minor Range Improvements Under BLM Grazing Permits",
+      "text": "Within one year after this law is passed, the Secretary of the Interior must create new rules. These rules will let people who have grazing permits or leases from the Bureau of Land Management make small improvements to the land. Permit holders can make these improvements if they tell their local Bureau of Land Management district or field manager at least thirty days before starting the work. The manager must either approve the improvement or not respond at all. If a permit holder asks the Secretary to make improvements instead, the Secretary must respond within thirty days through the State Director of the Bureau of Land Management. If the Secretary agrees to do the work, they must tell the state office and speed up the project using all available tools including categorical exclusions. Small improvements include fixing existing fences and fence lines, wells, water pipes, and water tanks for livestock. Range improvements are projects done according to existing Bureau of Land Management rules.",
+      "word_offset": 166,
+      "char_offset": 1038
+    }
+  ]
+}

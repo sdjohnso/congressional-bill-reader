@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1754",
+  "title": "FARM Act of 2025",
+  "short_title": "FARM Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1754",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "da8b0f1cc179ebef",
+  "last_updated": "2026-04-05T05:04:51.532222+00:00",
+  "plain_summary": "The FARM Act of 2025 stops power companies from getting tax breaks from the government when they build solar panels and wind farms on farm land. The law uses the same rules that other government farm programs use to decide what counts as farm land. This new rule only applies to solar and wind projects that get built after the law starts. Power companies will not be able to get federal tax credits for these projects if they put them on land that is used for farming.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-27",
+  "last_action_date": "2025-02-27",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Tiffany, Thomas P. [R-WI-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "solar panels on farms",
+    "wind farms on farmland",
+    "tax credits for renewable energy",
+    "power companies tax breaks",
+    "solar energy on agricultural land",
+    "wind turbines on farm property",
+    "renewable energy incentives",
+    "farming land protection",
+    "agricultural land use",
+    "energy companies subsidies"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Future Agriculture Retention and Management Act of two thousand twenty five or the FARM Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-restriction-on-tax-credits-for-renewable-energy-production-on-agricultural-land",
+      "title": "Section 2  Restriction on Tax Credits for Renewable Energy Production on Agricultural Land",
+      "text": "This section changes the tax rules to stop public utilities from getting tax credits for certain renewable energy projects on farmland. For solar energy equipment, public utilities cannot get tax credits for solar panels and related equipment they put on agricultural land. Agricultural land means eligible land as defined in section twelve forty A of the Food Security Act of nineteen eighty five. A public utility means what is defined in section one hundred thirty six of the tax code. For wind energy, public utilities cannot get tax credits for electricity made by solar or wind facilities they build on agricultural land after this law is passed. These changes apply to any renewable energy equipment that is put into use after this law becomes effective.",
+      "word_offset": 26,
+      "char_offset": 148
+    }
+  ]
+}

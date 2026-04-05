@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-hjres-94",
+  "title": "Proposing an amendment to the Constitution of the United States to limit the number of terms that a Member of Congress may serve.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.94",
+  "introduced_date": "2025-04-29",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7c3bf7c6b57d0ee9",
+  "last_updated": "2026-04-05T05:18:35.490412+00:00",
+  "plain_summary": "This bill wants to change the Constitution to limit how long people can serve in Congress. House members could only serve three terms, which is six years total. Senate members could only serve two terms, which is twelve years total. The new rules would not apply to people who are already in Congress when the amendment passes. The goal is to bring fresh faces to Congress by preventing members from serving for too many years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-29",
+  "last_action_date": "2025-04-29",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [],
+  "sponsor_name": "Rep. Burchett, Tim [R-TN-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "term limits",
+    "congress term limits",
+    "limit congressional terms",
+    "how long congress serve",
+    "congressional service limits",
+    "fresh faces congress",
+    "rotate congress members",
+    "limit house senate terms",
+    "congress career politicians",
+    "new people congress",
+    "congressional tenure limits",
+    "change congress rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution",
+      "title": "Joint Resolution",
+      "text": "This joint resolution proposes changing the Constitution of the United States. The change would limit how many times people can serve in Congress. The Senate and House of Representatives must both agree to this change with a two-thirds vote from each group. After Congress passes this resolution, three-fourths of all state legislatures must approve it within seven years for it to become part of the Constitution.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-1-house-term-limits",
+      "title": "Section 1 House Term Limits",
+      "text": "No person who has already served three terms as a Representative can run for election to the House of Representatives again. If someone is chosen to fill an empty seat in the House and serves for more than one year, that counts as one full term toward their three-term limit.",
+      "word_offset": 66,
+      "char_offset": 415
+    },
+    {
+      "id": "s3",
+      "slug": "section-2-senate-term-limits",
+      "title": "Section 2 Senate Term Limits",
+      "text": "No person who has already served two terms as a Senator can run for election or be appointed to the Senate again. If someone is chosen to fill an empty seat in the Senate and serves for more than three years, that counts as one full term toward their two-term limit.",
+      "word_offset": 116,
+      "char_offset": 691
+    },
+    {
+      "id": "s4",
+      "slug": "section-3-current-members-exception",
+      "title": "Section 3 Current Members Exception",
+      "text": "This constitutional amendment will not apply to anyone who is already serving in Congress when this amendment is officially approved and becomes part of the Constitution. Those current members can continue to serve under the old rules.",
+      "word_offset": 167,
+      "char_offset": 958
+    }
+  ]
+}

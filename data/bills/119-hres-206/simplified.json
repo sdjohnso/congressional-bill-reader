@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hres-206",
+  "title": "Recognizing the importance of stepped-up basis under section 1014 of the Internal Revenue Code of 1986 in preserving family-owned farms and small businesses.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.206",
+  "introduced_date": "2025-03-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b0306f4f2ff76148",
+  "last_updated": "2026-04-05T03:06:43.800858+00:00",
+  "plain_summary": "This bill is about keeping a tax rule that helps families when they inherit farms and small businesses. The rule is called stepped-up basis and it lets families value inherited property at what it is worth today instead of what their parents or grandparents originally paid for it. This helps families avoid paying very high taxes when they inherit the family farm or business. The bill supports keeping this rule because it helps family-owned farms and small businesses stay in the family.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-10",
+  "last_action_date": "2025-03-10",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Mann, Tracey [R-KS-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "KS",
+  "cosponsor_count": 29,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "family farm inheritance tax",
+    "small business inheritance",
+    "stepped up basis",
+    "inheriting family farm",
+    "family business taxes",
+    "death tax relief",
+    "farm inheritance rules",
+    "keeping family farm",
+    "business inheritance tax",
+    "family property taxes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution recognizes the importance of stepped-up basis under section 1014 of the Internal Revenue Code of 1986 in preserving family-owned farms and small businesses.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Whereas Clauses",
+      "text": "The stepped-up basis under section 1014 of the Internal Revenue Code of 1986 allows people who inherit assets like land, equipment, or buildings to adjust the cost basis of the asset to reflect its current fair market value. This means when someone inherits property, they can use the property's current value instead of what the original owner paid for it when calculating taxes. Ninety-eight percent of farms are family-owned according to the Department of Agriculture, and nineteen percent of all businesses are family-owned according to the Small Business Administration. A study conducted by the Economic Research Service of the Department of Agriculture found that sixty-six percent of all midsized farms would see higher tax bills if the stepped-up basis were eliminated. The stepped-up basis is a crucial part of many family farms and small business succession plans. The elimination of the stepped-up basis would threaten the ability of farmers, ranchers, agribusinesses, and small business owners to pass their operations to the next generation.",
+      "word_offset": 25,
+      "char_offset": 173
+    },
+    {
+      "id": "s3",
+      "slug": "house-resolution",
+      "title": "House Resolution",
+      "text": "The House of Representatives supports the preservation of the stepped-up basis. The House opposes any efforts to impose new taxes on family farms or small businesses. The House recognizes the importance of generational transfers of farm and family-owned business operations.",
+      "word_offset": 188,
+      "char_offset": 1229
+    }
+  ]
+}

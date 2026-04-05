@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2292",
+  "title": "Economic Opportunity for Distressed Communities Act",
+  "short_title": "Economic Opportunity for Distressed Communities Act",
+  "congress": 119,
+  "bill_number": "HR.2292",
+  "introduced_date": "2025-03-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2104dbb0ca6cc933",
+  "last_updated": "2026-04-05T04:30:50.014705+00:00",
+  "plain_summary": "This bill gives tax breaks to people who sell property and then use their profits to invest in cleaning up dirty land. The dirty land includes old factory sites and other places that have harmful chemicals in the soil. People who invest their money in these cleanup projects get bigger tax benefits the longer they keep their money invested. If they keep their investment for ten years, they don't have to pay any taxes on the profits they make.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-24",
+  "last_action_date": "2025-03-24",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Edwards, Chuck [R-NC-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "tax breaks",
+    "dirty land cleanup",
+    "contaminated soil",
+    "old factory sites",
+    "chemical pollution",
+    "environmental cleanup",
+    "investment tax benefits",
+    "property profits",
+    "land restoration",
+    "toxic waste cleanup",
+    "brownfield sites",
+    "pollution remediation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Economic Opportunity for Distressed Communities Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-establishment-of-special-rules-for-capital-gains-invested-in-distressed-opportunity-zones",
+      "title": "Section 2 Establishment of Special Rules for Capital Gains Invested in Distressed Opportunity Zones",
+      "text": "This section changes tax law to create special rules for people who invest money from selling property into contaminated land areas. When someone sells property and makes a profit, they can choose to put that profit into special investment funds that focus on cleaning up brownfield sites (land that may be contaminated) or superfund sites (seriously polluted areas that need federal cleanup). If they do this within one hundred eighty days of selling their property, they can delay paying taxes on their profit. The longer they keep their money in these investments, the more tax benefits they get. After five years, they get a ten percent reduction in taxes owed. After seven years, they get another five percent reduction. After ten years, they pay no taxes on any additional profits from the investment. These investment funds must keep at least ninety percent of their money invested in qualified projects in contaminated areas. The funds can invest in stock of companies working in these areas, partnership interests in businesses cleaning up these sites, or direct property investments. Companies that receive this investment money must use most of their property in the contaminated zones and meet certain business requirements. If investment funds do not keep ninety percent of their money properly invested, they must pay monthly penalties. This tax benefit applies to investments made after this law passes and ends on December thirty first, two thousand thirty three.",
+      "word_offset": 12,
+      "char_offset": 80
+    }
+  ]
+}

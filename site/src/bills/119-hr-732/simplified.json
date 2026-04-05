@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-732",
+  "title": "The Disaster Recovery Efficiency Act",
+  "short_title": "The Disaster Recovery Efficiency Act",
+  "congress": 119,
+  "bill_number": "HR.732",
+  "introduced_date": "2025-01-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b75d97d6fdf7aac8",
+  "last_updated": "2026-04-05T05:15:28.691162+00:00",
+  "plain_summary": "The Disaster Recovery Efficiency Act is a new law that tells two important government agencies how to better help people after disasters like hurricanes or floods. The Government Accountability Office studied how disaster recovery works and found ways to make it better in 2022. Now this bill requires FEMA and the Department of Housing and Urban Development to follow those suggestions to help people faster and more effectively when their homes and communities are damaged by disasters.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-25",
+  "last_action_date": "2025-01-25",
+  "last_action_text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [],
+  "sponsor_name": "Rep. Jacobs, Sara [D-CA-51]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "disaster recovery",
+    "hurricane help",
+    "flood assistance",
+    "FEMA improvements",
+    "disaster relief",
+    "emergency response",
+    "natural disaster aid",
+    "government disaster help",
+    "faster disaster recovery",
+    "hurricane recovery",
+    "flood recovery"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Disaster Recovery Efficiency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-implementation-of-gao-recommendations",
+      "title": "Section 2  Implementation of GAO Recommendations",
+      "text": "The head of the Federal Emergency Management Agency (FEMA) and the Secretary of Housing and Urban Development must take the steps needed to follow the important recommendations made by the Comptroller General. These recommendations are found in a report published on November fifteen, two thousand twenty two, called Disaster Recovery: Actions Needed to Improve the Federal Approach. The report number is GAO twenty three dash one zero four nine five six. The Comptroller General is the head of the Government Accountability Office, which is a government agency that reviews how federal programs work and makes suggestions for improvements.",
+      "word_offset": 10,
+      "char_offset": 61
+    }
+  ]
+}

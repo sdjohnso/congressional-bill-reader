@@ -1,0 +1,132 @@
+{
+  "bill_id": "119-hr-2927",
+  "title": "All-Americans Tax Relief Act of 2025",
+  "short_title": "All-Americans Tax Relief Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2927",
+  "introduced_date": "2025-04-17",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "25772ab30f217eaf",
+  "last_updated": "2026-04-05T05:03:22.894292+00:00",
+  "plain_summary": "This bill makes taxes easier for working families by giving them more money back through tax credits for having children and earning income. It lets people subtract more expenses from their taxes like medical bills, daycare, getting to work, tutoring, credit card interest, and rent payments. People who have debt forgiven will not have to pay taxes on that money. However, people who make money from selling investments will have to pay more taxes on those profits.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-17",
+  "last_action_date": "2025-04-17",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Cherfilus-McCormick, Sheila [D-FL-20]",
+  "sponsor_party": "D",
+  "sponsor_state": "FL",
+  "cosponsor_count": 4,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "tax relief",
+    "child tax credit",
+    "working families tax breaks",
+    "medical expense deductions",
+    "daycare tax deductions",
+    "commuting costs tax relief",
+    "tutoring expenses deductible",
+    "credit card interest deduction",
+    "rent payment tax deduction",
+    "debt forgiveness not taxed",
+    "investment gains higher taxes",
+    "family tax benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-references-table-of-contents",
+      "title": "Section 1  Short Title; References; Table of Contents",
+      "text": "This law can be called the All-Americans Tax Relief Act of 2025. When this law talks about changing or removing a section, it means a section of the Internal Revenue Code of 1986 unless it says otherwise. This law has eleven main sections that cover expanding the earned income tax credit, making the child tax credit fully refundable, expanding medical expense deductions for non-itemizers, creating deductions for daycare expenses, commuting expenses, tutoring expenses, credit card interest payments, and rent for primary residences, excluding discharge of debt from taxes, and increasing capital gains rates.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expansion-of-earned-income-tax-credit",
+      "title": "Section 2  Expansion of Earned Income Tax Credit",
+      "text": "The earned income tax credit (a tax benefit for working people with low to moderate income) will be expanded. The credit percentages and phaseout percentages will change. For people with one qualifying child, the credit percentage is thirty-eight percent and the phaseout percentage is twenty percent. For people with two qualifying children, the credit percentage is forty-three percent and the phaseout percentage is twenty-five percent. For people with three or more qualifying children, the credit percentage is forty-five percent and the phaseout percentage is twenty-five percent. For people with no qualifying children, the credit percentage is thirty percent, but thirty-five percent if they file a joint return, and the phaseout percentage is fifteen percent. The maximum credit amounts will also increase. For people with one qualifying child, the earned income amount is fifteen thousand dollars. For people with two or more qualifying children, it is twenty thousand dollars. For people with no children who file a joint return, it is ten thousand dollars, and for other people with no children, it is eighty-five hundred dollars. The phaseout amount is forty-seven thousand one hundred twenty dollars for joint returns and forty thousand dollars for other individuals. These dollar amounts will be adjusted for inflation starting in tax years beginning after two thousand twenty-seven. These changes apply to tax years beginning after December thirty-first, two thousand twenty-six.",
+      "word_offset": 93,
+      "char_offset": 613
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-child-tax-credit-made-fully-refundable",
+      "title": "Section 3  Child Tax Credit Made Fully Refundable",
+      "text": "A new fully refundable child tax credit will be created. This means people can get money back even if they do not owe any taxes. The credit is two thousand dollars for each of up to three qualifying children and five hundred dollars for each additional qualifying child. A qualifying child is a child under age seventeen who meets certain requirements and has a valid Social Security number. The credit amount decreases by fifty dollars for every one thousand dollars of income above certain thresholds. These thresholds are one hundred ten thousand dollars for married couples filing jointly, seventy-five thousand dollars for unmarried individuals, and fifty-five thousand dollars for married individuals filing separately. The credit cannot be claimed for partial tax years except when someone dies. People who fraudulently claimed the credit before cannot claim it for ten years, and those who made other improper claims cannot claim it for two years unless they provide required information. The credit amounts will be adjusted for inflation starting in tax years beginning after two thousand twenty-five. This new credit replaces the existing child tax credit and applies to tax years beginning after December thirty-first, two thousand twenty-six.",
+      "word_offset": 318,
+      "char_offset": 2109
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-medical-expenses-deduction-expanded-and-allowed-to-non-itemizers",
+      "title": "Section 4  Medical Expenses Deduction Expanded and Allowed to Non-Itemizers",
+      "text": "The medical expenses deduction will be expanded and allowed for people who do not itemize their deductions. Currently, medical expenses can only be deducted if they exceed a certain percentage of income. This requirement will be removed, so all medical expenses can be deducted. Also, people who take the standard deduction instead of itemizing will now be able to claim the medical expenses deduction. These changes apply to tax years beginning after December thirty-first, two thousand twenty-six.",
+      "word_offset": 513,
+      "char_offset": 3364
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-deduction-for-daycare-expenses",
+      "title": "Section 5  Deduction for Daycare Expenses",
+      "text": "A new deduction for daycare expenses will be created. People can deduct amounts they pay as tuition for their dependent children under age seven to attend a childcare institution. A childcare institution is defined according to federal regulations. People who take the standard deduction will be able to claim this deduction without having to itemize. These changes apply to tax years beginning after December thirty-first, two thousand twenty-six.",
+      "word_offset": 590,
+      "char_offset": 3864
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-commuting-expense-deduction",
+      "title": "Section 6  Commuting Expense Deduction",
+      "text": "A new deduction for commuting expenses will be created for eligible individuals. This deduction covers amounts paid to use public transit to travel between home and a workplace where someone works at least twenty hours per week. To be eligible, a person's modified adjusted gross income cannot exceed two hundred fifty thousand dollars for married couples filing jointly or one hundred twenty-five thousand dollars for other individuals. Modified adjusted gross income means regular adjusted gross income plus certain excluded foreign income. People who take the standard deduction will be able to claim this deduction. The Secretary of the Treasury must issue guidance by January first, two thousand twenty-seven, explaining how this deduction works. These changes apply to tax years beginning after December thirty-first, two thousand twenty-six.",
+      "word_offset": 658,
+      "char_offset": 4313
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-tutoring-expenses-deduction",
+      "title": "Section 7  Tutoring Expenses Deduction",
+      "text": "A new deduction for tutoring expenses will be created for eligible individuals, with a maximum deduction of twenty-five hundred dollars per year. This covers tutoring services for dependent children who attend certain public schools or charter schools that are eligible for federal Title I funds. Tutoring services must be in small groups of no more than four students per instructor, focus on academic subjects like reading, math, science, writing, social studies, history, civics, or foreign languages, and involve planned sessions of one to three hours that happen at least once per week for either six consecutive weeks or nine weeks during a one-year period. People who take the standard deduction will be able to claim this deduction. The Secretary of the Treasury will issue guidance on how this deduction works. These changes apply to tax years beginning after December thirty-first, two thousand twenty-six.",
+      "word_offset": 784,
+      "char_offset": 5162
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-exclusion-of-interest-payments-on-credit-card-debt",
+      "title": "Section 8  Exclusion of Interest Payments on Credit Card Debt",
+      "text": "A new deduction for credit card interest payments will be created. People can deduct up to twenty-five hundred dollars per year of interest they pay on credit card debt from open-end credit plans. The terms open-end consumer credit plan and credit card have the same meaning as in the Truth in Lending Act (a federal consumer protection law). People who take the standard deduction will be able to claim this deduction. These changes apply to tax years beginning after December thirty-first, two thousand twenty-six.",
+      "word_offset": 927,
+      "char_offset": 6079
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-rent-deduction-for-primary-residence",
+      "title": "Section 9  Rent Deduction for Primary Residence",
+      "text": "A new deduction for rent payments will be created. People can deduct rent they pay for their main home. However, this deduction decreases as income increases. For every five hundred dollars of income above certain thresholds (one thousand dollars for married couples filing jointly), the deduction is reduced by one percent. The income thresholds are one hundred fifty thousand dollars for married couples filing jointly and seventy-five thousand dollars for other individuals. Modified adjusted gross income means regular adjusted gross income plus certain excluded foreign income. People who take the standard deduction will be able to claim this deduction. These changes apply to tax years beginning after December thirty-first, two thousand twenty-six.",
+      "word_offset": 1011,
+      "char_offset": 6596
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-exclusion-of-discharge-of-indebtedness",
+      "title": "Section 10  Exclusion of Discharge of Indebtedness",
+      "text": "When debt is forgiven or canceled, it usually counts as taxable income. This section changes the law so that all individuals can exclude discharged debt from their taxable income. This exclusion for individuals will take priority over other existing exclusions for insolvency, qualified farm debt, and qualified real property business debt. Some related provisions about reducing tax attributes and qualified principal residence indebtedness will be removed. These changes apply to debt incurred after December thirty-first, two thousand twenty-six.",
+      "word_offset": 1123,
+      "char_offset": 7353
+    },
+    {
+      "id": "s11",
+      "slug": "section-11-increase-in-capital-gains-rate",
+      "title": "Section 11  Increase in Capital Gains Rate",
+      "text": "The tax rate on long-term capital gains (profits from selling assets held for more than one year) for high-income taxpayers will increase from twenty percent to twenty-five percent. This change applies to tax years beginning after December thirty-first, two thousand twenty-six.",
+      "word_offset": 1201,
+      "char_offset": 7903
+    }
+  ]
+}

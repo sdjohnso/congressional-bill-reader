@@ -1,0 +1,56 @@
+{
+  "bill_id": "119-hr-1234",
+  "title": "To direct the Librarian of Congress to promote the more cost-effective, efficient, and expanded availability of the Annotated Constitution and pocket-part supplements by replacing the hardbound versions with digital versions.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.1234",
+  "introduced_date": "2025-02-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "795c3499f6ab380a",
+  "last_updated": "2026-04-05T03:08:59.971271+00:00",
+  "plain_summary": "This bill tells the Library of Congress to stop making paper copies of a special book about the Constitution and make digital copies instead. The book explains the Constitution and includes important court decisions about it. Starting after October 2025, people will only be able to read this book online on the Library of Congress website. The digital version will be updated every ten years with a complete new edition and every two years with new court decisions. This change is meant to save money and make the book easier for more people to use.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-01",
+  "last_action_date": "2025-04-01",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Rules and Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Books and print media",
+    "Constitution and constitutional amendments",
+    "Digital media",
+    "Government information and archives",
+    "Library of Congress"
+  ],
+  "sponsor_name": "Rep. Bice, Stephanie I. [R-OK-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "constitution book online",
+    "digital constitution",
+    "library of congress website",
+    "constitution explanations",
+    "court decisions constitution",
+    "government books digital",
+    "constitution research online",
+    "library congress electronic",
+    "constitution guide internet",
+    "government documents online"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-repeal-requirement-for-congressional-research-service-to-prepare-annotated-constitution-and-supplements-in-hardbound-version",
+      "title": "Section 1  Repeal Requirement for Congressional Research Service to Prepare Annotated Constitution and Supplements in Hardbound Version",
+      "text": "This section changes how the Librarian of Congress creates the Constitution Annotated. The Constitution Annotated is a special book that contains the US Constitution along with explanations of how the Supreme Court has interpreted different parts of it over time. Starting after the Supreme Court finishes its October two thousand twenty five term, the Librarian must switch from making physical hardbound books to making digital versions instead. Every ten years after the October two thousand thirty one Supreme Court term ends, the Librarian will create a new complete digital edition that includes all Supreme Court decisions up to that point. Every two years in odd numbered years that do not end in one, starting after October two thousand twenty five, the Librarian will create digital updates called pocket part supplements. These supplements will include new Supreme Court decisions that were not in the most recent ten year edition. The digital versions must be available on the Library of Congress public website for everyone to access. Congress and the public will have continuing access to these digital documents. After the October two thousand twenty five Supreme Court term ends, no more physical copies will be printed. The Librarian will only provide these materials in digital format on the Library of Congress website.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

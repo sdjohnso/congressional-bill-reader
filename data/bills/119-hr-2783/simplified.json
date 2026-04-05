@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2783",
+  "title": "Infrastructure Project Acceleration Act",
+  "short_title": "Infrastructure Project Acceleration Act",
+  "congress": 119,
+  "bill_number": "HR.2783",
+  "introduced_date": "2025-04-09",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a803d623f98c3590",
+  "last_updated": "2026-04-05T04:13:21.457922+00:00",
+  "plain_summary": "This bill makes new rules to help big manufacturing projects get approved faster. The projects must cost at least one billion dollars to qualify for these special rules. The bill removes some requirements for environmental permits that these projects normally need. It also makes it harder for people to challenge these project approvals in court. The goal is to speed up the process for building very expensive manufacturing facilities.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-09",
+  "last_action_date": "2025-04-09",
+  "last_action_text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consi",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "manufacturing projects",
+    "billion dollar construction",
+    "factory permits",
+    "environmental regulations",
+    "project approval",
+    "manufacturing facilities",
+    "construction permits",
+    "industrial development",
+    "building factories",
+    "large scale manufacturing",
+    "infrastructure development",
+    "streamline permits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Infrastructure Project Acceleration Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expedited-approval-of-priority-manufacturing-projects",
+      "title": "Section 2  Expedited Approval of Priority Manufacturing Projects",
+      "text": "Part A explains what counts as a priority manufacturing project. A priority manufacturing project means building a new factory or making an existing factory bigger in the United States. The project must cost at least one billion dollars and need one or more approvals from the federal government that are described later in this section.\n\nPart B lists what Congress believes about these projects. Congress finds that finishing these big manufacturing projects quickly will make the United States economy stronger and improve our ability to make things in our own country. This will help America compete better with other countries in technology and reduce how much we depend on factories in other countries. These projects will help important areas like defense, healthcare, and communications while creating jobs and helping the economy grow.\n\nPart C explains what permits these projects do not need. Even though other laws might require them, priority manufacturing projects do not have to get permits that would normally be required under two specific laws. They do not need permits under section four hundred four of the Federal Water Pollution Control Act, which normally requires permission before putting things in wetlands or waterways. They also do not need permits under sections seven, nine, or ten of the Endangered Species Act of nineteen seventy three, which normally require review to protect animals and plants that might disappear forever.\n\nPart D changes how environmental reviews work under NEPA (the National Environmental Policy Act). It adds a new option that says federal agencies do not have to do a full environmental review if a state or tribal government already did an environmental review that the federal agency thinks is good enough. The federal agency just has to decide that the state or tribal review looked at the right environmental information and that the public was told about how the decision was made.\n\nPart E sets rules about court challenges to these projects. First, it says that no court can review any action or lack of action by a federal agency or state agency working under federal law that approves building or expanding a priority manufacturing project. Second, only one specific court can hear cases that claim this section of the law is invalid or that an approval went beyond what this law allows. That court is the United States Court of Appeals for the District of Columbia Circuit, and it would be the only court that can hear such cases.",
+      "word_offset": 10,
+      "char_offset": 68
+    }
+  ]
+}

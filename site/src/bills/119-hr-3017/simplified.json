@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-3017",
+  "title": "Measuring State Healthcare Freedom Act",
+  "short_title": "Measuring State Healthcare Freedom Act",
+  "congress": 119,
+  "bill_number": "HR.3017",
+  "introduced_date": "2025-04-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "cd13515ec1fc2d32",
+  "last_updated": "2026-04-05T02:54:33.689527+00:00",
+  "plain_summary": "This bill requires a government health official to study how well healthcare competition is working in each state every year for ten years. The studies will look at things like licensing rules for doctors, when healthcare companies merge together, different types of health insurance people can buy, and how much competition exists between healthcare providers. The results of these studies must be shared with the public and reported to Congress each year so everyone can see how healthcare competition is changing in their state.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-24",
+  "last_action_date": "2025-04-24",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Spartz, Victoria [R-IN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "healthcare competition",
+    "doctor licensing rules",
+    "health insurance options",
+    "healthcare providers",
+    "hospital mergers",
+    "medical competition study",
+    "state healthcare freedom",
+    "healthcare marketplace",
+    "health insurance competition",
+    "medical provider competition",
+    "healthcare costs study",
+    "state health insurance laws"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Measuring State Healthcare Freedom Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-annual-study-on-health-care-competition-and-consolidation-at-state-level",
+      "title": "Section 2. Annual Study on Health Care Competition and Consolidation at State Level",
+      "text": "For ten years after this law passes, a government official called the Assistant Secretary for Planning and Evaluation at the Department of Health and Human Services must do a yearly study. This study will look at how much competition exists in healthcare in each state and how much healthcare companies are combining with each other. When doing this study, the Assistant Secretary must work with the head of the Federal Trade Commission and the head of the Antitrust Division at the Department of Justice. The Assistant Secretary can ask the Federal Trade Commission for information needed to do the study, and the Federal Trade Commission must provide it. The study must collect information about several things. First, it must look at the rules each state has for licensing doctors, nurses, and other healthcare workers. This includes rules about getting a license for the first time, keeping the license current, required training and continuing education, rules for supervising medical residents, and board certification requirements. Second, it must track when healthcare companies merge or buy each other out. This includes hospitals, doctor offices, outpatient surgery centers, health insurance companies, therapy providers like physical therapists, and telehealth companies. Third, it must count how many states have laws that let the state approve hospital mergers and how many states have laws that control the building of new healthcare facilities. Fourth, it must look at whether people can buy alternative types of health insurance, including short term insurance plans and group plans offered through associations like the American Farm Bureau Federation. Fifth, it must count how many hospitals, medical practices, outpatient practices, surgery centers, insurance companies, and therapy providers are operating at the beginning and end of each year during the ten year study period. Sixth, it must calculate something called the Herfindahl Hirschman Index, which measures how much competition exists in different geographic areas. This calculation must be done for hospital services, outpatient medical services broken down by medical specialty, and therapy services. Every year for ten years, the Assistant Secretary must send a report about the study to four committees in Congress. These are the Energy and Commerce Committee and the Ways and Means Committee in the House of Representatives, and the Finance Committee and the Health Education Labor and Pensions Committee in the Senate. The Assistant Secretary must also publish each yearly report on their website and make all the data from the study available to the public in a way that is easy to access and use.",
+      "word_offset": 11,
+      "char_offset": 67
+    }
+  ]
+}

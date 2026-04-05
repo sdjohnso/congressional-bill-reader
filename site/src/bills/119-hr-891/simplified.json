@@ -1,0 +1,80 @@
+{
+  "bill_id": "119-hr-891",
+  "title": "Pro-Housing Act of 2025",
+  "short_title": "Pro-Housing Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.891",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a687fdae7d06b7fd",
+  "last_updated": "2026-04-05T04:28:06.062224+00:00",
+  "plain_summary": "The Pro-Housing Act of 2025 helps communities build more homes that people can afford. The bill gives money and cheap loans to local governments so they can plan and create new housing projects. It also lets communities use empty government land and buildings to build affordable homes and neighborhoods where people can live, work, and shop. This program aims to make it easier for families to find homes they can afford in their communities.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-01",
+  "last_action_date": "2025-02-01",
+  "last_action_text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [
+    "Community life and organization",
+    "Government lending and loan guarantees",
+    "Government studies and investigations",
+    "Housing and community development funding",
+    "Housing supply and affordability",
+    "Land transfers",
+    "Land use and conservation",
+    "Low- and moderate-income housing",
+    "Residential rehabilitation and home repair",
+    "Rural conditions and development",
+    "Urban and suburban affairs and development"
+  ],
+  "sponsor_name": "Rep. Ryan, Patrick [D-NY-18]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "affordable housing",
+    "cheap homes",
+    "housing crisis",
+    "build more houses",
+    "government help housing",
+    "low income housing",
+    "community development",
+    "housing shortage",
+    "empty government land",
+    "affordable neighborhoods",
+    "housing assistance",
+    "local housing programs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Pro-Housing Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-local-housing-policy-grant-and-loan-pilot-program",
+      "title": "Section 2 Local Housing Policy Grant and Loan Pilot Program",
+      "text": "Within one hundred twenty days after this law passes, the Secretary of Housing and Urban Development must start giving out money to help local governments create housing plans. The Secretary will give out three types of help. Planning grants help communities make plans for housing. Implementation grants help communities put their housing plans into action. Direct loans give communities low-interest money to carry out their housing plans. At least twenty percent of all the money must go to rural and small town areas. The Secretary will work with the Census Bureau to decide which areas count as rural. Communities must apply for this help and the Secretary will choose which ones get money based on how good their plans are. The Secretary will give priority to communities that plan to increase housing supply and make housing more affordable for people of all races and income levels. They will also favor communities that want to build housing near public transportation and job centers. Communities that get grants must contribute their own money too. The amount they contribute depends on how many people live in their area. Smaller communities contribute fifteen percent while larger communities contribute forty-five percent. Communities can use planning grants to study their housing needs, understand who lives there and what housing they have, and create strategies to build more housing. They must include input from community members, builders, real estate agents, and housing advocates. The Secretary will publish guidance within ninety days about what policies work best for increasing housing supply and reducing barriers to building homes. The Secretary will also create a learning network within one year to help communities share ideas and solve problems together. Communities that receive money must send reports every three months for three years describing how they spent the money and what progress they made. The Secretary will study how well this program works and report to Congress within five years. Congress approves two hundred million dollars per year from two thousand twenty-six through two thousand thirty-one to pay for this program.",
+      "word_offset": 12,
+      "char_offset": 72
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-transfer-of-unused-federal-real-property-to-state-and-local-authorities-for-development",
+      "title": "Section 3 Transfer of Unused Federal Real Property to State and Local Authorities for Development",
+      "text": "Within one hundred twenty days after this law passes, the head of the General Services Administration must create a pilot program to give unused federal land and buildings to local housing agencies. When federal agencies have land or buildings they are not using, they must give them to the General Services Administration. The General Services Administration will then transfer this property to local entities that are responsible for housing and development planning. These local entities can use the property to build mixed-use neighborhoods or affordable housing. Affordable housing means housing that meets the requirements in the Cranston-Gonzalez National Affordable Housing Act. This program will end five years after this law passes.",
+      "word_offset": 352,
+      "char_offset": 2244
+    }
+  ]
+}

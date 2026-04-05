@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-1961",
+  "title": "CARE Act",
+  "short_title": "CARE Act",
+  "congress": 119,
+  "bill_number": "HR.1961",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "8bb18eecee5bc9d4",
+  "last_updated": "2026-04-05T04:18:46.434145+00:00",
+  "plain_summary": "The CARE Act tells the Department of Health and Human Services to start two new programs to help during health emergencies. The first program will look at how well the department handled past health crises and figure out what they can do better next time. The second program will make sure people get clear and correct information about health dangers, especially people who might get hurt the most. These programs will help the government be more ready and do a better job protecting everyone when health emergencies happen.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Torres, Ritchie [D-NY-15]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 5,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "health emergency preparedness",
+    "pandemic response",
+    "health crisis management",
+    "public health information",
+    "emergency response improvement",
+    "health department programs",
+    "disease outbreak preparation",
+    "health emergency communication",
+    "government health response",
+    "public health safety",
+    "health crisis planning",
+    "emergency health services"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Coordinated Agency Response Enhancement Act or the CARE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-hhs-after-action-program",
+      "title": "Section 2 HHS After-Action Program",
+      "text": "The Department of Health and Human Services must create and run a program that looks back at how well it responded to public health emergencies. This after-action program will find problems that happened during emergency responses and figure out how to fix them. It will also help different agencies within the department work better together during emergencies. The department must start this program within two years of this law being passed. The program must work with outside groups like other federal agencies, state and local health departments, tribal governments, and private organizations. The Inspector General of Health and Human Services will check how well this program is working and report to Congress when needed. When the department writes reports about emergency responses, it should include many specific topics. These topics cover emergency planning, sharing information, working with community partners, managing incidents, communicating during emergencies, managing staff and facilities, handling supplies and equipment, managing resources during crises, preventing infections, treating and moving patients, managing individual cases, developing medical treatments and vaccines, and planning for recovery after emergencies. Congress approves spending three million five hundred thousand dollars to run this program and write the first four reports. Additional money as needed is approved for the Inspector General's oversight work.",
+      "word_offset": 15,
+      "char_offset": 88
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-risk-communication-strategy",
+      "title": "Section 3 Risk Communication Strategy",
+      "text": "The Department of Health and Human Services must create and use a plan for talking to the public about infectious diseases and other health risks. This communication strategy must make sure that all messages from the department and its agencies like the Centers for Disease Control and Prevention are clear, correct, and focus on helping the people who face the greatest danger. The strategy must clearly identify which groups of people are most at risk during health emergencies and make sure that messages are aimed at the right people and are easy to understand and access. The department must start using this communication strategy within one year of this law being passed.",
+      "word_offset": 222,
+      "char_offset": 1542
+    }
+  ]
+}

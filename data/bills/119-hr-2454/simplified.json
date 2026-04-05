@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2454",
+  "title": "No Citizenship for Alien Invaders Act of 2025",
+  "short_title": "No Citizenship for Alien Invaders Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2454",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "02c181090bd786bc",
+  "last_updated": "2026-04-05T04:31:01.368346+00:00",
+  "plain_summary": "This bill would make a new rule that says anyone who came into the United States illegally can never become a US citizen later. Right now, some people who entered illegally might be able to become citizens through a process called naturalization if they meet certain requirements. This bill would stop that from happening completely. It means that even if other laws say someone could become a citizen, this rule would override those laws and keep them from ever getting citizenship.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Mills, Cory [R-FL-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "illegal immigration",
+    "citizenship ban",
+    "undocumented immigrants",
+    "border crossers",
+    "naturalization",
+    "becoming citizen",
+    "immigration law",
+    "citizenship requirements",
+    "illegal entry",
+    "permanent ban citizenship",
+    "immigration reform",
+    "citizenship process"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Citizenship for Alien Invaders Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-ineligibility-for-naturalization",
+      "title": "Section 2  Ineligibility for Naturalization",
+      "text": "This section changes existing immigration law. It adds a new rule that says any foreign person who enters the United States without permission cannot become a United States citizen through naturalization (the legal process of becoming a citizen). This rule applies even if other immigration laws might allow them to become citizens.",
+      "word_offset": 16,
+      "char_offset": 88
+    }
+  ]
+}

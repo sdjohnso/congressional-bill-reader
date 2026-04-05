@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-hr-1215",
+  "title": "Semiconductor Supply Chain Security and Diversification Act of 2025",
+  "short_title": "Semiconductor Supply Chain Security and Diversification Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1215",
+  "introduced_date": "2025-02-11",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "34bc0c4c7f8402d7",
+  "last_updated": "2026-04-05T04:26:12.772881+00:00",
+  "plain_summary": "This bill wants to help countries in North America, Central America, and South America build their own computer chip supply chains. The US government will provide money and support to help these countries mine and process the materials needed to make computer chips, like zinc and silicon. The bill also helps these countries build facilities to test and package finished computer chips. The goal is to make sure the Western Hemisphere does not have to rely on other parts of the world for computer chips. This will help make the supply of computer chips more secure for everyone in these regions.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-02-11",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Stanton, Greg [D-AZ-4]",
+  "sponsor_party": "D",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "computer chips",
+    "semiconductor manufacturing",
+    "supply chain security",
+    "chip shortage",
+    "technology independence",
+    "mining materials for electronics",
+    "chip testing facilities",
+    "Western Hemisphere trade",
+    "silicon processing",
+    "electronics manufacturing",
+    "chip packaging plants"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Semiconductor Supply Chain Security and Diversification Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, upstream supply chain means mining, producing, or processing the important minerals used to make semiconductors (computer chips). These minerals include zinc, gallium, germanium, silicon, lithium, and cobalt. Downstream supply chain means testing and packaging facilities for semiconductors, including both regular and advanced testing and packaging facilities.",
+      "word_offset": 15,
+      "char_offset": 96
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-sense-of-congress-statement-of-policy",
+      "title": "Section 3  Sense of Congress and Statement of Policy",
+      "text": "Congress believes the United States has important economic and national security reasons to diversify the semiconductor supply chain. This means encouraging the development of regional semiconductor systems in the Western Hemisphere that work together with investments in the United States under the CHIPS and Science Act. The United States policy is to promote the security of allies and partners by encouraging the development of accessible, transparent, competitive, and strong semiconductor markets that provide different sources, types, and parts of semiconductor chips. The United States also wants to encourage both government and private sector investment in Latin American semiconductor infrastructure projects. These investments should bridge the gap between national security needs and business demand in a way that matches what the region can handle.",
+      "word_offset": 64,
+      "char_offset": 471
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-supporting-efforts-of-western-hemisphere-countries",
+      "title": "Section 4  Supporting Efforts of the Governments of Western Hemisphere Countries to Increase the Diversity of Their Upstream Supply Chains and Downstream Supply Chains",
+      "text": "To carry out the policy described in Section 3, the Secretary of State will work with the Secretary of Commerce and leaders of other relevant United States agencies. They will focus their efforts on supporting Western Hemisphere governments to increase the diversity of their upstream and downstream supply chains. This support includes providing diplomatic and political support to the Organization of American States and Western Hemisphere governments to help with international negotiations about cross border infrastructure, improve the Western Hemisphere's rules and regulations for semiconductors, and develop accessible, transparent, and competitive supply chain markets that get supplies from different sources, types, and routes of energy. They will also provide support to improve Western Hemisphere upstream and downstream supply chains for semiconductors by diversifying the sources and supply routes of Western Hemisphere countries and enhancing semiconductor market integration across the regions. For providing support for projects under this section, several terms and conditions apply. The United States International Development Finance Corporation may provide support for upstream and downstream supply chain projects in Western Hemisphere countries with upper middle income economies or high income economies as defined by the World Bank. Certain restrictions from the Better Utilization of Investments Leading to Development Act of 2018 will not apply. However, the Corporation must restrict providing such support in these countries unless the President certifies to the appropriate congressional committees that the support helps the national economic or foreign policy interests of the United States. The support must also be designed to produce significant developmental outcomes or provide developmental benefits to the poorest population of that country, or be necessary to prevent or counter efforts by a strategic competitor of the United States to gain significant political or economic influence or acquire national security sensitive technologies or infrastructure in a country that is an ally or partner of the United States. The term appropriate congressional committees has the same meaning as defined in section 1402 of the Better Utilization of Investments Leading to Development Act of 2018.",
+      "word_offset": 187,
+      "char_offset": 1334
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2886",
+  "title": "Defend our Coast Act",
+  "short_title": "Defend our Coast Act",
+  "congress": 119,
+  "bill_number": "HR.2886",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "6ac66a36ca34cf07",
+  "last_updated": "2026-04-05T03:58:25.043842+00:00",
+  "plain_summary": "The Defend our Coast Act is a law that stops oil and gas companies from drilling in ocean waters off the Mid-Atlantic coast. The government will no longer be allowed to give out permits that let these companies drill for oil and gas in these waters. The bill changes existing laws to ban drilling in a specific ocean area that was already identified in government planning documents. This means the ocean waters along the Mid-Atlantic coast will be protected from oil and gas drilling.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Ross, Deborah K. [D-NC-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "NC",
+  "cosponsor_count": 7,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "offshore drilling ban",
+    "ocean drilling protection",
+    "Mid-Atlantic coast drilling",
+    "oil drilling moratorium",
+    "gas drilling prohibition",
+    "coastal waters protection",
+    "Atlantic ocean drilling ban",
+    "offshore oil permits",
+    "marine drilling restrictions",
+    "coastal drilling moratorium"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Defend our Coast Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-withdrawal-from-disposition-of-mid-atlantic-outer-continental-shelf",
+      "title": "Section 2 Withdrawal From Disposition of Mid-Atlantic Outer Continental Shelf",
+      "text": "This section changes an existing law called the Outer Continental Shelf Lands Act. It adds a new rule to Section twelve of that law. The new rule says that the Secretary cannot give out leases for exploring, developing, or producing oil or gas in ocean waters off the Mid-Atlantic coast. These ocean waters are defined as the Mid-Atlantic Planning Area, which is shown in a government document from September two thousand twenty three called the two thousand twenty four through two thousand twenty nine National Outer Continental Shelf Oil and Gas Leasing Proposed Final Program. A lease is a legal agreement that would allow companies to drill for oil and gas in these ocean waters.",
+      "word_offset": 10,
+      "char_offset": 49
+    }
+  ]
+}

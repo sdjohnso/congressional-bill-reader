@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-248",
+  "title": "Emphasizing the importance and power of distributed ledger technologies (DLT) to support democratic governance, human rights, internet freedom, and transparency.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.248",
+  "introduced_date": "2025-03-25",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "08c8491227905cb9",
+  "last_updated": "2026-04-05T04:48:47.968652+00:00",
+  "plain_summary": "This bill is about supporting blockchain and similar computer technologies that can help make democracy stronger and protect people's rights. The House of Representatives thinks these technologies are important because they make information harder to change or fake, which helps fight corruption and censorship. The bill asks government agencies to study how they can use these technologies to deliver aid to people who need it and support fair elections in other countries. It also wants the government to create good rules for using these technologies safely and responsibly.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-25",
+  "last_action_date": "2025-03-25",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Amo, Gabe [D-RI-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "RI",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "blockchain",
+    "digital technology",
+    "democracy",
+    "human rights",
+    "internet freedom",
+    "government transparency",
+    "foreign aid",
+    "election security",
+    "anti-corruption",
+    "censorship protection",
+    "digital records",
+    "technology regulation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution emphasizes the importance and power of distributed ledger technologies to support democratic governance, human rights, internet freedom, and transparency.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Information",
+      "text": "Distributed ledger technologies, including blockchain technology, offer significant benefits for strengthening democratic governance, enhancing transparency, promoting human rights, and supporting sustainability. These technologies can ensure the integrity and verification of shared information, which is critical for effective democratic governance and services to citizens. Distributed ledger technologies have been used in diverse areas such as identity management, land rights, citizen representation, and tracking of goods and services. They have shown potential to improve government accountability, combat misinformation, and facilitate transparent financial transactions. These technologies can enhance the strength of democratic institutions against corruption, misinformation, and inefficiencies by providing a tamper-resistant and transparent platform for recording and verifying transactions and data. Distributed ledger technologies provide an innovative solution to combat censorship and empower people around the world by enabling the creation of decentralized platforms that safeguard free expression and access to information. This is done by routing internet traffic through computer nodes in places with robust legal frameworks for digital rights. The use of distributed ledger technologies in securing digitized government documents, land registration, facilitating financial transfers, countering deep fakes, and advancing justice and the rule of law demonstrates their versatility and potential to support democratic processes and human rights. The strategic application of these technologies can also address global challenges, contribute to sustainability, and ensure more inclusive access to services without compromising privacy or stifling technological innovation. Distributed ledger technology solutions can enhance the integrity, transparency, and efficiency of distributing aid by supporting direct cash transfers, reducing intermediaries, lowering costs, and speeding up delivery. The decentralized design of these technologies boosts the resilience of essential systems by spreading data across multiple computer nodes, which avoids single points of failure and ensures continuous service, even during targeted attacks or local disruptions. Such resilience is crucial for keeping data intact and available in sectors vital to democratic governance and humanitarian aid, helping these systems stay robust and functional under different stress conditions. The innovative applications of distributed ledger technologies are still in the early stages, requiring further exploration, understanding, and supportive policy frameworks to fully realize their potential in strengthening democracies. The distributed ledger technology community is committed to ensuring responsible use of the technology and promoting United States national security interests.",
+      "word_offset": 21,
+      "char_offset": 171
+    },
+    {
+      "id": "s3",
+      "slug": "resolved-clauses",
+      "title": "What the House of Representatives Resolves",
+      "text": "The House of Representatives urges the Department of State, the Development Finance Corporation, the United States Agency for International Development, and other agencies of the United States Government to explore and support the development and application of distributed ledger technologies to strengthen democratic governance, promote human rights, enhance transparency, and support sustainability efforts and humanitarian aid delivery. The House encourages the promotion of distributed ledger technologies to combat censorship and ensure the free flow of information as a cornerstone of democracy and human rights, acknowledging the technology's role in enabling citizens to access restricted content and express themselves freely, thereby contributing to the global spread of democratic values and the protection of freedom of speech. The House calls for deeper engagement from the United States Government with technology experts, civil society, and international partners to understand the opportunities presented by distributed ledger technologies and its most practical applications, ensuring its responsible and effective use. The House affirms the importance of United States leadership in developing a regulatory and policy framework that encourages the ethical use of distributed ledger technologies, while promoting sustainability and addressing concerns such as accessibility and the risk of misuse by bad actors. The House encourages further research, innovation, and investment in distributed ledger technologies that can contribute to the public good, strengthen democratic institutions, and ensure the integrity of democratic processes.",
+      "word_offset": 390,
+      "char_offset": 3055
+    }
+  ]
+}

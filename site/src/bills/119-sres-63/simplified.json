@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-sres-63",
+  "title": "An original resolution authorizing expenditures by the Committee on Finance.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.63",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7367fb4d85609fdc",
+  "last_updated": "2026-04-05T04:28:28.167461+00:00",
+  "plain_summary": "This resolution gives the Senate Finance Committee permission to spend money and hire people to do their work during the 119th Congress from March 2025 to February 2027. The committee handles important topics like taxes and government spending, so they need staff and money to hold meetings and look into issues. They get different amounts of money for different time periods, with the biggest budget being about thirteen million dollars for the year 2026. This helps make sure the committee can do its job of reviewing financial laws and policies for the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the Committee on Rules and Administration. (text: CR S798)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "Senate Committee on Finance"
+  ],
+  "sponsor_name": "Sen. Crapo, Mike [R-ID]",
+  "sponsor_party": "R",
+  "sponsor_state": "ID",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "senate finance committee budget",
+    "congress committee spending",
+    "tax committee funding",
+    "government committee money",
+    "senate committee staff hiring",
+    "congressional budget authorization",
+    "finance committee expenses",
+    "senate spending approval",
+    "committee operations funding",
+    "congressional staff budget"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-general-authority",
+      "title": "Section 1 General Authority",
+      "text": "The Senate Committee on Finance is allowed to do its regular work as described in Senate rules from March first two thousand twenty five through February twenty eighth two thousand twenty seven. This includes holding hearings, reporting on hearings, and conducting investigations. During this time period, the committee can spend money from the Senate's emergency fund, hire staff members, and use workers from government departments or agencies with permission from those departments and the Senate Rules Committee. The committee can choose whether to pay those departments back or not.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expenses",
+      "title": "Section 2 Expenses",
+      "text": "The committee has spending limits for three different time periods. From March first two thousand twenty five through September thirtieth two thousand twenty five, the committee cannot spend more than seven million six hundred thirty eight thousand seven hundred twenty three dollars. Of this money, no more than seventeen thousand five hundred dollars can be used to hire outside consultants or consulting companies, and no more than five thousand eight hundred thirty three dollars can be used to train the committee's professional staff. From October first two thousand twenty five through September thirtieth two thousand twenty six, the committee cannot spend more than thirteen million ninety four thousand nine hundred fifty four dollars. Of this money, no more than thirty thousand dollars can be used for outside consultants, and no more than ten thousand dollars can be used for staff training. From October first two thousand twenty six through February twenty eighth two thousand twenty seven, the committee cannot spend more than five million four hundred fifty six thousand two hundred thirty one dollars. Of this money, no more than twelve thousand five hundred dollars can be used for outside consultants, and no more than four thousand one hundred sixty six dollars can be used for staff training.",
+      "word_offset": 89,
+      "char_offset": 588
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-expenses-and-agency-contributions",
+      "title": "Section 3 Expenses and Agency Contributions",
+      "text": "The committee's expenses will be paid from the Senate's emergency fund when the committee chairman approves payment vouchers (official requests for payment). However, vouchers are not needed for certain regular payments including yearly employee salaries, phone and communication services from the Senate office that handles these services, office supplies bought through the Senate supply office, payments to the Senate post office, copying machine charges from the Senate office that provides equipment, Senate recording and photography services, and mailing costs handled by the Senate security office. The Senate is also authorized to pay from its investigation expense account any money needed to cover benefit costs for committee employees during all three time periods mentioned in this resolution.",
+      "word_offset": 297,
+      "char_offset": 1903
+    }
+  ]
+}

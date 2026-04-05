@@ -1,0 +1,140 @@
+{
+  "bill_id": "119-hr-2912",
+  "title": "Oligarch Act of 2025",
+  "short_title": "Oligarch Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2912",
+  "introduced_date": "2025-04-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "21a6faef0bffd41b",
+  "last_updated": "2026-04-05T03:47:25.344250+00:00",
+  "plain_summary": "The Oligarch Act of 2025 creates a new tax on very rich people and trusts that have more than fifty million dollars. The tax starts at two percent for the least wealthy people covered by the law and goes up to eight percent for the richest people. The more money someone has, the higher percentage they have to pay in taxes. This law only affects people and trusts with extremely large amounts of wealth.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-14",
+  "last_action_date": "2025-04-14",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Lee, Summer L. [D-PA-12]",
+  "sponsor_party": "D",
+  "sponsor_state": "PA",
+  "cosponsor_count": 12,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "wealth tax",
+    "tax on rich people",
+    "millionaire tax",
+    "billionaire tax",
+    "tax the wealthy",
+    "high net worth tax",
+    "ultra rich tax",
+    "luxury tax",
+    "progressive tax",
+    "tax on trusts",
+    "fifty million dollar tax",
+    "eight percent tax"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Oligarch Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-imposition-of-wealth-tax",
+      "title": "Section 2 Imposition of Wealth Tax",
+      "text": "This section adds a new wealth tax to the tax code. The tax applies to very wealthy people and trusts. It is based on the total value of all their assets on December thirty first of each year. The tax only applies to people whose net worth is more than fifty million dollars or one thousand times the median household wealth in America, whichever is higher. For individuals, the tax rate starts at two percent on wealth between the threshold and ten times the threshold. It goes up to four percent, then six percent, then eight percent as wealth increases. For trusts, there is a flat eight percent tax rate on all wealth above the threshold. Married couples are treated as one taxpayer for this tax. The Treasury Department must figure out the median household wealth in America each year. Special rules apply to how assets in trusts are counted. Trust assets may be counted as belonging to the person who created the trust or to the people who benefit from the trust. The Treasury Department can write regulations to explain how this tax works.",
+      "word_offset": 12,
+      "char_offset": 63
+    },
+    {
+      "id": "s3",
+      "slug": "section-2902-net-value-of-taxable-assets",
+      "title": "Section 2902 Net Value of Taxable Assets",
+      "text": "Net value of taxable assets means the total value of everything a person owns minus any debts they owe. This includes all property, whether real estate or personal items, whether you can touch it or not, anywhere in the world. However, some small personal items worth fifty thousand dollars or less are not counted if they are tangible personal property and not used for business. Items like collectibles, boats, aircraft, vehicles, and antiques that hold or gain value over time are still counted even if worth less than fifty thousand dollars. Any property that would be included in a person's estate when they die counts as their property. Gifts made to family members under age eighteen also count as the giver's property until the child turns eighteen. The Treasury Department must create rules within twelve months for determining the value of assets, especially those that are not publicly traded or easily valued. These rules can use new methods not currently used by the Treasury Department and may require specific formulas for valuing certain types of assets.",
+      "word_offset": 197,
+      "char_offset": 1110
+    },
+    {
+      "id": "s4",
+      "slug": "section-2903-special-rules",
+      "title": "Section 2903 Special Rules",
+      "text": "If someone dies during the year and is not married, the wealth tax is calculated on the date of death instead of December thirty first. The tax amount is reduced based on how many days were left in the year after they died. This tax counts as a debt of the deceased person for estate tax purposes. For people who are not United States citizens and do not live here, the wealth tax only applies to property they own that is located in the United States. For people who give up their United States citizenship, the wealth tax is calculated as if the year ended the day before they gave up citizenship.",
+      "word_offset": 373,
+      "char_offset": 2181
+    },
+    {
+      "id": "s5",
+      "slug": "section-2904-information-reporting",
+      "title": "Section 2904 Information Reporting",
+      "text": "Within twelve months, the Treasury Department must create rules requiring people to report information about their assets to enforce this wealth tax. When possible, this reporting should be part of existing tax reporting requirements. The Treasury Department can require different people and organizations to report information, including banks, businesses, and other entities. These organizations may need to provide estimates of their own value to help enforce the tax.",
+      "word_offset": 485,
+      "char_offset": 2781
+    },
+    {
+      "id": "s6",
+      "slug": "section-2905-enforcement",
+      "title": "Section 2905 Enforcement",
+      "text": "The Treasury Department must audit at least thirty percent of taxpayers who owe this wealth tax every year.",
+      "word_offset": 553,
+      "char_offset": 3253
+    },
+    {
+      "id": "s7",
+      "slug": "section-2b-no-deduction-from-income-taxes",
+      "title": "Section 2(b) No Deduction From Income Taxes",
+      "text": "People cannot deduct this wealth tax from their regular income taxes.",
+      "word_offset": 571,
+      "char_offset": 3361
+    },
+    {
+      "id": "s8",
+      "slug": "section-2c-extension-of-time-for-payment-of-tax",
+      "title": "Section 2(c) Extension of Time for Payment of Tax",
+      "text": "The Treasury Department can give taxpayers up to five extra years to pay this wealth tax if the taxpayer has severe money problems or if paying immediately would cause serious hardship to an ongoing business. The Treasury Department must create rules for this within twelve months of when this law is passed.",
+      "word_offset": 582,
+      "char_offset": 3431
+    },
+    {
+      "id": "s9",
+      "slug": "section-2d-application-of-accuracy-related-penalties",
+      "title": "Section 2(d) Application of Accuracy Related Penalties",
+      "text": "There are penalties for substantially undervaluing assets on wealth tax returns. If someone claims an asset is worth sixty five percent or less of its true value, they may face penalties. The penalty is thirty percent of the underpaid tax in most cases, but fifty percent if the claimed value is forty percent or less of the true value. These penalties only apply if the underpayment is more than five thousand dollars.",
+      "word_offset": 634,
+      "char_offset": 3740
+    },
+    {
+      "id": "s10",
+      "slug": "section-2e-exemption-of-tax-exempt-entities",
+      "title": "Section 2(e) Exemption of Tax-Exempt Entities",
+      "text": "Organizations that do not pay income tax because they are tax-exempt also do not have to pay this wealth tax.",
+      "word_offset": 706,
+      "char_offset": 4160
+    },
+    {
+      "id": "s11",
+      "slug": "section-2f-clerical-amendment",
+      "title": "Section 2(f) Clerical Amendment",
+      "text": "This adds the wealth tax subtitle to the table of contents in the tax code.",
+      "word_offset": 726,
+      "char_offset": 4270
+    },
+    {
+      "id": "s12",
+      "slug": "section-2g-effective-date",
+      "title": "Section 2(g) Effective Date",
+      "text": "This wealth tax applies to calendar years that begin after this law is passed.",
+      "word_offset": 741,
+      "char_offset": 4346
+    }
+  ]
+}

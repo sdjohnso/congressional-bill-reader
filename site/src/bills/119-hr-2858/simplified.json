@@ -1,0 +1,84 @@
+{
+  "bill_id": "119-hr-2858",
+  "title": "Winter Canola Study Act of 2025",
+  "short_title": "Winter Canola Study Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2858",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "4a191eb4c600c1f3",
+  "last_updated": "2026-04-05T04:49:30.608554+00:00",
+  "plain_summary": "This bill tells the federal crop insurance agency to study winter canola and other similar crops. These are crops that farmers grow as second crops or rotate with other main crops. The government will provide money for research on these alternative crops. Within thirteen months, the agency must write a report about what they learned and send it to Congress.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Referred to the House Committee on Agriculture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Kustoff, David [R-TN-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "winter canola",
+    "crop insurance study",
+    "second crops",
+    "crop rotation",
+    "alternative crops",
+    "farming research",
+    "canola research",
+    "agricultural study",
+    "crop insurance agency",
+    "farming alternatives",
+    "winter crops",
+    "crop diversification"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Winter Canola Study Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-purposes-and-findings",
+      "title": "Section 2 Purposes and Findings",
+      "text": "The goals of this law are to help grow clean and sustainable crops that can be used to make fuel. The law supports new crop insurance products that understand when farmers plant two crops on the same land in one year. It recognizes that winter canola is important in certain regions where farmers grow it as part of their crop rotation or as a second crop after harvesting their first crop. This provides economic and environmental benefits to farmers. The law also recognizes that by investing in renewable fuels made from crops like winter canola that produce less carbon pollution, the United States can create sustainable fuels, create jobs, help rural communities, and strengthen national security. Congress has found that winter canola improves farm profits. Oil from winter canola can be used as renewable energy to make biodiesel, renewable diesel, and jet biofuel. Renewable fuels made from winter canola oil reduce greenhouse gas emissions by more than fifty percent compared to regular fuels. Expanding winter canola production will provide more materials to meet growing demand for renewable fuel without needing to farm new land.",
+      "word_offset": 14,
+      "char_offset": 80
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-study-of-inclusion-of-certain-oilseed-crops-under-double-and-rotational-cropping-policies",
+      "title": "Section 3 Study of Inclusion of Certain Oilseed Crops Under Double and Rotational Cropping Policies",
+      "text": "This section changes the Federal Crop Insurance Act to add new research requirements. The Corporation (the federal agency that manages crop insurance) must study certain oilseed crops. These covered oilseed crops include rapeseed and canola crops that need a period of cold temperatures before they will produce flowers and seeds, and are planted and harvested on land that would otherwise sit empty during crop rotation. The Corporation must do research and development or hire qualified people to do research about including these crops in double cropping and rotational cropping insurance policies. This research must be done with input from people involved in farming to look at what affects the availability and cost of crop insurance when these crops are part of double cropping and rotational cropping policies. The research must also look at the potential benefits of including these crops in insurance policies, including benefits to soil health, plant and animal variety, and farm profits. When hiring people to do this research, the Corporation may give preference to qualified people who have previous research experience with these oilseed crops and have access to facilities that can do the needed research.",
+      "word_offset": 198,
+      "char_offset": 1223
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-national-institute-of-food-and-agriculture-research-on-supplemental-and-alternative-crops",
+      "title": "Section 4 National Institute of Food and Agriculture Research on Supplemental and Alternative Crops",
+      "text": "This section changes the Food and Agriculture Act of nineteen seventy-seven. It adds research on supplemental and alternative crops including winter rapeseed and winter canola to examine potential benefits and opportunities for these crops. The section also provides funding of ten million dollars for each fiscal year from two thousand twenty-four through two thousand twenty-nine for this research.",
+      "word_offset": 388,
+      "char_offset": 2445
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-report-to-congress",
+      "title": "Section 5 Report to Congress",
+      "text": "No later than thirteen months after this law is signed, the Corporation must send a report to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry. The report must describe the results of the research and development done under the changes made by section three, and any recommendations based on those results.",
+      "word_offset": 446,
+      "char_offset": 2846
+    }
+  ]
+}

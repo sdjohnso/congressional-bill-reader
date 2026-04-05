@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hconres-6",
+  "title": "Majority Rule Resolution",
+  "short_title": "Majority Rule Resolution",
+  "congress": 119,
+  "bill_number": "HCONRES.6",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "5162195e73482f85",
+  "last_updated": "2026-04-05T04:56:53.901677+00:00",
+  "plain_summary": "This resolution changes the rules for how Congress votes to end debates. Right now, some votes in Congress need more than half of the members to agree before they can stop talking and vote on a bill. This resolution says that both the House and Senate can only require a simple majority, which means just over half of the members voting, to end any debate. This would make it easier for Congress to move forward and vote on laws instead of having long debates that are hard to stop.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-28",
+  "last_action_date": "2025-01-28",
+  "last_action_text": "Referred to the House Committee on Rules.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "House of Representatives",
+    "Legislative rules and procedure",
+    "Senate"
+  ],
+  "sponsor_name": "Rep. Williams, Nikema [D-GA-5]",
+  "sponsor_party": "D",
+  "sponsor_state": "GA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress voting rules",
+    "end debate",
+    "simple majority",
+    "stop filibuster",
+    "voting procedures",
+    "congress debates",
+    "majority vote",
+    "legislative process",
+    "senate rules",
+    "house rules",
+    "ending discussions",
+    "vote to proceed"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This resolution can be called the Majority Rule Resolution.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-procedures-for-consideration-of-bills-and-resolutions",
+      "title": "Section 2  Procedures for Consideration of Bills and Resolutions",
+      "text": "This section changes how Congress votes to end debates. No matter what the current rules say, both the House of Representatives and the Senate can only require a simple majority vote to end debate on any topic. A quorum means enough members are present to conduct business. This means that if more than half of the members who are voting agree, that is enough to close the debate and move forward. This rule applies to both chambers of Congress. Congress is making this rule using its power to set its own procedures. This rule becomes part of each chamber's official rules, but it only applies to ending debates. If this rule conflicts with other existing rules, this rule takes priority. Both the House and Senate keep their right to change their own rules at any time using their normal procedures.",
+      "word_offset": 9,
+      "char_offset": 60
+    }
+  ]
+}

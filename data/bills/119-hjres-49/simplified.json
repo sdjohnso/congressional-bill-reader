@@ -1,0 +1,52 @@
+{
+  "bill_id": "119-hjres-49",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Deposit Insurance Corporation relating to \"Quality Control Standards for Automated Valuation Models\".",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.49",
+  "introduced_date": "2025-02-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ad15e56806112888",
+  "last_updated": "2026-04-05T04:06:24.757460+00:00",
+  "plain_summary": "Congress wants to stop a new rule made by the Federal Deposit Insurance Corporation. The rule is about computer programs that banks use to figure out how much houses and other properties are worth. If Congress passes this resolution, the rule will be cancelled and thrown out. This means the rule will not become law and will have no power.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-12",
+  "last_action_date": "2025-02-12",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Clyde, Andrew S. [R-GA-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "house values",
+    "property values",
+    "home appraisals",
+    "bank computer programs",
+    "automated property evaluation",
+    "real estate valuation",
+    "FDIC rules",
+    "congressional disapproval",
+    "stop bank regulation",
+    "cancel FDIC rule",
+    "property appraisal software",
+    "automated home values"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution",
+      "title": "Joint Resolution",
+      "text": "Congress officially rejects a rule made by the Federal Deposit Insurance Corporation (a government agency that protects bank deposits). This rule was about quality control standards for automated valuation models (computer programs that estimate how much properties are worth). The rule was published in the Federal Register on August seventh, two thousand twenty-four. Because Congress is rejecting this rule, it will have no power and cannot be enforced.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

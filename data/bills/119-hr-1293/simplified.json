@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-1293",
+  "title": "Vehicle Energy Performance Act of 2025",
+  "short_title": "Vehicle Energy Performance Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1293",
+  "introduced_date": "2025-02-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "98cd09e2527565ce",
+  "last_updated": "2026-04-05T03:01:53.916594+00:00",
+  "plain_summary": "This bill helps encourage people to buy cars that use less gas and pollute less. Starting in 2027, people can get up to $5,000 back on their taxes when they buy a fuel-efficient car. Starting in 2029, car companies will have to pay a fee of up to $5,000 for each car they make that uses too much gas. The bill also requires better labels on cars that can use different types of fuel so people know how much gas they really use.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-13",
+  "last_action_date": "2025-02-13",
+  "last_action_text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Casten, Sean [D-IL-6]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "fuel efficient cars",
+    "gas mileage",
+    "car tax credit",
+    "fuel economy",
+    "green cars",
+    "car rebate",
+    "less pollution cars",
+    "better gas mileage",
+    "fuel efficient vehicles",
+    "car emissions"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Vehicle Energy Performance Act of twenty twenty five. When this law talks about changing or removing parts of existing tax law, it means the Internal Revenue Code of nineteen eighty six unless stated otherwise.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-tax-credit-for-vehicle-energy-performance",
+      "title": "Section 2  Tax Credit for Vehicle Energy Performance",
+      "text": "This section creates a new tax credit called the Vehicle Energy Performance Rebate. People can get money back on their taxes when they buy a new car or light truck that gets better gas mileage than the average vehicle from the year before. The credit can be worth up to five thousand dollars. The exact amount depends on how much better the vehicle's fuel economy is compared to other vehicles. To qualify, the vehicle must be a passenger car or light truck that follows Clean Air Act rules. It must get better fuel economy than the median or middle score for vehicles from the previous year. The vehicle must be new to the buyer and made starting in model year twenty twenty seven. The buyer must plan to use or lease the vehicle, not sell it right away. The credit works differently for businesses and individuals. Business buyers treat it as a business tax credit. Individual buyers can get the credit as a refund, meaning they can get money back even if they do not owe taxes. Individual buyers can also transfer their credit to the car dealer when they buy the vehicle. The dealer must clearly show the credit amount on a window sticker and tell the buyer they cannot get a different electric vehicle credit for the same car. The dealer must reduce the car's price by the full credit amount to claim it. This section explains that vehicle energy performance means the combined fuel economy rating for each car model and year. Median vehicle energy performance means the middle fuel economy rating for all new vehicles sold in a given year. Best vehicle energy performance means the highest fuel economy rating of any vehicle model sold in a given year. These ratings are measured in miles per gallon of gasoline equivalent. Car manufacturers must report their vehicles' fuel economy ratings to the Treasury Department by November first each year starting in twenty twenty six. The Treasury Department must publish the median and best fuel economy ratings by December first each year. The credit has special rules including reducing the vehicle's tax basis, allowing tax exempt organizations to benefit through the seller, preventing credits for vehicles used outside the United States, requiring payback if the vehicle becomes ineligible, allowing buyers to choose not to take the credit, requiring compliance with air quality and safety standards, adjusting dollar amounts for inflation after twenty twenty seven, and limiting one credit per vehicle based on its identification number.",
+      "word_offset": 40,
+      "char_offset": 238
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-low-vehicle-energy-performance-fee",
+      "title": "Section 3  Low Vehicle Energy Performance Fee",
+      "text": "This section creates a fee that manufacturers must pay when they sell vehicles with poor fuel economy. The fee applies to passenger cars and light trucks that get worse gas mileage than the median vehicle from the previous year. The fee can be up to five thousand dollars per vehicle. The exact amount depends on how much worse the vehicle's fuel economy is compared to other vehicles. This fee starts with vehicles made in model year twenty twenty nine. Some vehicles do not have to pay this fee including vehicles that weigh more than eight thousand five hundred pounds and are designed for commercial use, ambulances, police vehicles, and other emergency vehicles as determined by the Treasury Secretary. The fee uses the same definitions for vehicle energy performance as the tax credit section. The fee amount will increase with inflation starting in twenty thirty based on cost of living adjustments.",
+      "word_offset": 457,
+      "char_offset": 2730
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-fuel-economy-of-dual-fueled-automobiles",
+      "title": "Section 4  Fuel Economy of Dual Fueled Automobiles",
+      "text": "This section changes how fuel economy is measured for vehicles that can run on more than one type of fuel, like cars that can use both gasoline and electricity. Starting with model year twenty twenty six, the Environmental Protection Agency must measure fuel economy for these dual fuel vehicles instead of only doing it when manufacturers request it. The Agency must review and update the formula for determining how much gasoline versus alternative fuel these vehicles use every three years using real world driving data when possible. Vehicle labels must show three different fuel economy numbers for dual fuel cars. They must show fuel economy when running mainly on alternative fuel, fuel economy when running on gasoline or diesel, and the average fuel economy when using a combination of fuels based on how people actually drive these vehicles in the real world. The government booklet about fuel economy must also include information about the multi day average fuel economy for vehicles using a combination of fuels. These new labeling and measurement requirements apply to vehicles made in model year twenty twenty seven and later.",
+      "word_offset": 607,
+      "char_offset": 3637
+    }
+  ]
+}

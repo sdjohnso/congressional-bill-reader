@@ -1,0 +1,80 @@
+{
+  "bill_id": "119-hr-828",
+  "title": "SERV Act",
+  "short_title": "SERV Act",
+  "congress": 119,
+  "bill_number": "HR.828",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "896eb913922cf9c2",
+  "last_updated": "2026-04-05T03:25:35.052285+00:00",
+  "plain_summary": "The SERV Act requires two government agencies to write reports about helping veterans with their businesses. The Small Business Administration must write a yearly report about a special team that works on veteran business programs. The Government Accountability Office must study how easy it is for veterans, military reservists, and their spouses to get business loans. The law says the government cannot spend extra money to do these reports.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-25",
+  "last_action_date": "2025-02-25",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [
+    "Congressional oversight",
+    "Credit and credit markets",
+    "Government studies and investigations",
+    "Small business",
+    "Veterans' education, employment, rehabilitation"
+  ],
+  "sponsor_name": "Rep. Davids, Sharice [D-KS-3]",
+  "sponsor_party": "D",
+  "sponsor_state": "KS",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veteran business help",
+    "military spouse business loans",
+    "small business administration veterans",
+    "veteran entrepreneur support",
+    "military reservist business funding",
+    "veteran business programs",
+    "government help veteran businesses",
+    "military family business loans",
+    "veteran small business report",
+    "SBA veteran services"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Successful Entrepreneurship for Reservists and Veterans Act or the SERV Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reporting-requirement-for-veterans-interagency-task-force",
+      "title": "Section 2 Reporting Requirement for Veterans Interagency Task Force",
+      "text": "This section adds a new requirement to an existing law about helping veteran-owned businesses. The head of the Small Business Administration must now write a yearly report when they ask Congress for money for their agency. This report must explain who was chosen to serve on a special task force that helps veterans and what work that task force did during the year. The report must also describe the agency's plan to tell veterans about programs that can help them start businesses. These programs include Veteran Business Outreach Centers, Boots to Business, Boots to Business Reboot, Service-Disabled Entrepreneurship Development Training Program, Veteran Institute for Procurement, Women Veteran Entrepreneurship Training Program, and Veteran Women Igniting the Spirit of Entrepreneurship.",
+      "word_offset": 17,
+      "char_offset": 104
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-gao-report-on-access-to-credit",
+      "title": "Section 3 GAO Report on Access to Credit",
+      "text": "The Government Accountability Office (a government agency that studies how well government programs work) must write a report within one year after this law is passed. The report must study how well veterans, disabled veterans, military reservists, and their spouses can get loans to start or run small businesses. The report goes to four committees in Congress that work on veteran issues and small business issues. The report must look at where these people get loans and what percentage comes from each place. It must compare how often these business owners fail to pay back loans compared to other small business owners. The report must list all federal programs that help these people get loans and identify any gaps where they cannot get the credit they need. It must explain what problems veterans and reservists face when trying to get loans and how military service affects their credit history. The report must also find out if veterans and reservists know about federal programs that can help them get business loans. This section also explains that covered individual means a veteran, disabled veteran, reservist, or the spouse of any of these people or any active military member. A reservist is someone who serves part-time in a military reserve unit. The terms veteran, disabled veteran, and small business have the same meanings as in existing Small Business Administration laws.",
+      "word_offset": 135,
+      "char_offset": 898
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-compliance-with-cutgo",
+      "title": "Section 4 Compliance with CUTGO",
+      "text": "This law does not give permission for the government to spend any extra money to carry out what it requires.",
+      "word_offset": 362,
+      "char_offset": 2294
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-1264",
+  "title": "USA Batteries Act",
+  "short_title": "USA Batteries Act",
+  "congress": 119,
+  "bill_number": "HR.1264",
+  "introduced_date": "2025-02-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9af92c62b38c8aec",
+  "last_updated": "2026-04-05T02:58:57.445588+00:00",
+  "plain_summary": "The USA Batteries Act is a bill that would remove special taxes on three important chemicals that American companies use to make batteries. Right now, American battery makers have to pay extra taxes on these chemicals, which makes it harder for them to compete with battery companies from other countries that don't have to pay the same taxes. By getting rid of these taxes, the bill wants to help American battery companies save money and be more competitive. This could help the US battery industry grow stronger and compete better against foreign companies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-12",
+  "last_action_date": "2025-02-12",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Meuser, Daniel [R-PA-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 5,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "battery manufacturing",
+    "american battery companies",
+    "chemical taxes",
+    "battery industry",
+    "remove taxes on chemicals",
+    "us battery competition",
+    "foreign battery companies",
+    "battery making costs",
+    "american manufacturing",
+    "battery tax relief",
+    "domestic battery production",
+    "battery chemicals"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the USA Batteries Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has found several important facts. First, the Superfund fee that was created by a law passed in twenty twenty one makes American manufacturing less able to compete. This happens because the fee puts a tax on chemicals used to make batteries in America, but this same tax is not charged on batteries that are brought in from other countries. Second, America's lead battery industry can make more than one hundred sixty five gigawatt hours of batteries. This industry has an economic impact of twenty three point six billion dollars each year in America and creates more than twenty five thousand direct jobs in thirty eight states. Third, lead batteries have a ninety nine percent recycling rate, which means they can be reused in an environmentally friendly way. Fourth, lead batteries are very important for many different areas including defense, transportation, moving goods, telecommunications, and making energy. Fifth, putting higher taxes on making things in America creates a disadvantage for American companies and makes it harder for the American lead battery industry to compete worldwide because it makes the cost of important raw materials go up.",
+      "word_offset": 9,
+      "char_offset": 46
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-elimination-of-lead-oxide-antimony-and-sulfuric-acid-as-taxable-chemicals-under-superfund-excise-taxes",
+      "title": "Section 3  Elimination of Lead Oxide, Antimony, and Sulfuric Acid as Taxable Chemicals Under Superfund Excise Taxes",
+      "text": "The tax code list that shows which chemicals have to pay Superfund excise taxes will be changed. The rows that list lead oxide, antimony, and sulfuric acid will be removed from this list. This means these three chemicals will no longer have to pay these special taxes.",
+      "word_offset": 195,
+      "char_offset": 1215
+    }
+  ]
+}

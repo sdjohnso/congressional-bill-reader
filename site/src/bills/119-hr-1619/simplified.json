@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1619",
+  "title": "No Funds for Fascists Act",
+  "short_title": "No Funds for Fascists Act",
+  "congress": 119,
+  "bill_number": "HR.1619",
+  "introduced_date": "2025-02-26",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "0cb09963e794ee07",
+  "last_updated": "2026-04-05T04:23:14.439429+00:00",
+  "plain_summary": "This law stops the United States from giving money to other countries that don't allow free speech like America does. If a foreign government limits what people can say in ways that would be against the law in the US, America won't send them money. The President can still send money to these countries if it's needed to keep America safe, but Congress has to agree first. This law is meant to make sure US money only goes to countries that respect people's right to speak freely.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-26",
+  "last_action_date": "2025-02-26",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Mace, Nancy [R-SC-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "SC",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "free speech",
+    "foreign aid",
+    "funding restrictions",
+    "government censorship",
+    "international money",
+    "speech laws",
+    "foreign countries",
+    "aid conditions",
+    "freedom of expression",
+    "overseas funding",
+    "authoritarian governments",
+    "congressional approval"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Funds for Fascists Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-assistance-to-certain-foreign-governments",
+      "title": "Section 2  Prohibition on Assistance to Certain Foreign Governments",
+      "text": "The United States cannot use any money to help foreign governments that limit free speech in ways that would violate the US Constitution. This rule applies to all money that Congress approves for foreign aid starting when this law takes effect. The Secretary of State must decide if a foreign government is blocking free speech that would be protected in America. This happens when the foreign government or its workers limit or censor speech that Americans would be allowed to say under the Constitution. The foreign government also cannot use any kind of communication to pressure social media companies or news organizations to remove or censor speech that would be protected in America. The Secretary of State must publish these decisions in the Federal Register (the official government record book). The President can allow aid to these countries anyway if it is needed for national security. Before doing this, the President must talk with the House Foreign Affairs Committee and the Senate Foreign Relations Committee at least fifteen days ahead of time. The President must also send a report to the Speaker of the House and the chairman of the Senate Foreign Relations Committee. This report must say which country will get the aid, why national security requires it, what kind of aid and how much money will be given, and how long this exception will last. In this law, covered platform means any interactive computer service as defined by federal communications law and any way that news organizations share information whether through TV, radio, print, online, or other methods. Employee acting under official authority or influence means any worker for the foreign government including leaders of the country and people working for the government under contract.",
+      "word_offset": 11,
+      "char_offset": 54
+    }
+  ]
+}

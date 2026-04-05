@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-549",
+  "title": "Maritime Fuel Tax Parity Act",
+  "short_title": "Maritime Fuel Tax Parity Act",
+  "congress": 119,
+  "bill_number": "S.549",
+  "introduced_date": "2025-02-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "4dedb83cc70c7ecc",
+  "last_updated": "2026-04-05T03:21:12.247658+00:00",
+  "plain_summary": "This bill changes tax rules for boats that carry cargo or passengers along the coasts of the United States. It lets certain boats that travel between ports on the Atlantic Ocean side or Pacific Ocean side avoid paying a special tax on their fuel. The boats must meet specific requirements to qualify for this tax break. The new rule will start working on January 1, 2026.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-12",
+  "last_action_date": "2025-02-12",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Murkowski, Lisa [R-AK]",
+  "sponsor_party": "R",
+  "sponsor_state": "AK",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "boat fuel tax",
+    "ship tax break",
+    "coastal shipping",
+    "maritime fuel",
+    "cargo boat tax",
+    "passenger ferry tax",
+    "coastwise shipping",
+    "boat fuel exemption",
+    "shipping tax relief",
+    "domestic maritime"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law may be called the Maritime Fuel Tax Parity Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exemption-from-excise-tax-on-alternative-motorboat-fuels-extended-to-include-certain-vessels-serving-only-one-coast",
+      "title": "Section 2 Exemption From Excise Tax on Alternative Motorboat Fuels Extended to Include Certain Vessels Serving Only One Coast",
+      "text": "Part A explains the general rule. The tax law will be changed to add a new rule. Right now, some boats do not have to pay a special tax on fuel. This change will let more boats avoid paying this fuel tax. The new rule will apply to boats that meet two requirements. First, the boat must be the type described in a specific part of the tax law called section four thousand forty two part c number one. Second, the boat must actually be doing business by carrying goods or people between ports on either the Atlantic Ocean side or the Pacific Ocean side of the United States. This includes ports in any territory or area that belongs to the United States. Part B explains when this change starts. This new rule will apply to fuel that is sold for use or actually used starting after December thirty first two thousand twenty five.",
+      "word_offset": 11,
+      "char_offset": 57
+    }
+  ]
+}

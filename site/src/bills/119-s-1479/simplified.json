@@ -1,0 +1,55 @@
+{
+  "bill_id": "119-s-1479",
+  "title": "BOOST for Engines Act",
+  "short_title": "BOOST for Engines Act",
+  "congress": 119,
+  "bill_number": "S.1479",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "cab9b1bc3f8457ee",
+  "last_updated": "2026-04-05T05:18:48.327059+00:00",
+  "plain_summary": "This bill requires NASA to continue updating and improving its rocket engine testing facilities to make them more capable and safer. The program must focus on testing large powerful engines and allow private companies to use underused facilities while ensuring government space programs are not negatively affected.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Sen. Wicker, Roger F. [R-MS]",
+  "sponsor_party": "R",
+  "sponsor_state": "MS",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Building Out Optimized Space Testing for Engines Act or the BOOST for Engines Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, Administrator means the person who runs the National Aeronautics and Space Administration. NASA means the National Aeronautics and Space Administration.",
+      "word_offset": 20,
+      "char_offset": 110
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-rocket-engine-test-infrastructure",
+      "title": "Section 3 Rocket Engine Test Infrastructure",
+      "text": "The Administrator must continue running a program to update and improve rocket testing facilities at NASA locations. The goals are to increase what these facilities can do, make them safer, help with building and testing rocket engines, and help both government and private companies improve space travel and exploration. The program can pay for projects like building and upgrading rocket test stands and testing systems, making test facilities able to handle more work and be more flexible, and other projects the Administrator thinks are needed to meet these goals. When running this program, the Administrator must focus spending on projects that improve testing abilities for large powerful engines that work in air and in space, and systems that can test multiple engines together. The Administrator must keep allowing private companies to use test facilities that are not being fully used, and these companies must pay NASA back for the costs. The Administrator must review agreements with private companies at each NASA center to make sure the costs match what it actually costs at that location instead of using the highest cost from any national agreement. The Administrator must make sure that no project under this program hurts, delays, or postpones testing or other work at facilities used for government programs. These government programs include the Space Launch System and the Exploration Upper Stage of the Space Launch System, rocket engines for space missions, and nuclear rocket engine testing. Nothing in this section stops NASA programs, including the Space Launch System and the Exploration Upper Stage of the Space Launch System, from using the improved test facilities built under this section.",
+      "word_offset": 43,
+      "char_offset": 276
+    }
+  ]
+}

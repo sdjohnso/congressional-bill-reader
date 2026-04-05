@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-s-490",
+  "title": "Protecting Americans’ Privacy Act of 2025",
+  "short_title": "Protecting Americans’ Privacy Act of 2025",
+  "congress": 119,
+  "bill_number": "S.490",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "87ecf2bad981404f",
+  "last_updated": "2026-04-05T02:57:57.541963+00:00",
+  "plain_summary": "This bill makes it against the law for certain people to access the Treasury Department's money systems that handle government payments. It stops people who might have conflicts of interest, haven't worked for the government long enough, or work for other businesses from getting into these systems. The bill also makes it illegal to share tax information with these restricted people through the Treasury systems. If someone breaks these rules and harms another person, that person can sue them in court and win at least $250,000 in damages.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Read twice and referred to the Committee on Finance. (text: CR S796-797)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Schumer, Charles E. [D-NY]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "treasury department access",
+    "government payment systems",
+    "tax information sharing",
+    "conflicts of interest",
+    "treasury security",
+    "government employee restrictions",
+    "financial system protection",
+    "unauthorized access penalties",
+    "$250000 lawsuit damages",
+    "treasury data breach",
+    "government payment privacy",
+    "federal financial systems"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting Americans' Privacy Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-unauthorized-access-to-central-payment-systems",
+      "title": "Section 2  Unauthorized Access to the Central Payment Systems of the Bureau of the Fiscal Service",
+      "text": "It is against the law for a person to access or control any government money systems at the Treasury Department without permission. This includes the payment systems run by the Bureau of the Fiscal Service (the office that handles government payments). A person cannot access these systems if they are not a federal employee or a federal contractor who has worked for at least one year in their current job. Federal employees are also banned from accessing these systems if they hold top executive positions like chief executive officer or chief financial officer at any covered entity (a company, corporation, or organization), if they serve on a company's board of directors, if they control a company, or if they have worked for the government for less than one year. Covered employees (certain types of government workers including political appointees and special government employees) cannot access these systems if they have a conflict of interest or if they have not signed a written ethics agreement with their agency or the Office of Government Ethics. It is also against the law to help someone else get access to these systems when you know they are not allowed to have that access. People who are harmed by violations of these rules can sue in federal court or state court. They can ask for court orders to stop the violations, money damages, punitive damages, and payment of their lawyer fees and court costs. The court can award damages equal to either the actual harm suffered or two hundred fifty thousand dollars for each unauthorized access, whichever is greater. If multiple people break the law together regarding the same access, they are all responsible for paying the full amount of damages.",
+      "word_offset": 15,
+      "char_offset": 90
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-confidentiality-of-returns-and-return-information",
+      "title": "Section 3  Confidentiality of Returns and Return Information Under Internal Revenue Code of 1986",
+      "text": "This section changes the tax law to protect taxpayer information. Tax returns and tax information cannot be shared through government payment systems with certain employees who are banned from accessing these systems under Section 2 of this law. This includes federal employees in executive positions at companies, those with conflicts of interest, and those without proper ethics agreements. If these banned employees look at or share taxpayer information illegally, the affected taxpayers can sue them in federal court for money damages. Instead of the usual one thousand dollar minimum damage award, courts must award at least two hundred fifty thousand dollars for violations by these specific employees. Nothing in these changes should be interpreted as making any judgment about whether past actions before this law was passed were legal or illegal.",
+      "word_offset": 301,
+      "char_offset": 1806
+    }
+  ]
+}

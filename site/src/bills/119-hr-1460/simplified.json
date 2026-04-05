@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-1460",
+  "title": "Drain the Swamp Act of 2025",
+  "short_title": "Drain the Swamp Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1460",
+  "introduced_date": "2025-02-21",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "1ea7cbb10017efea",
+  "last_updated": "2026-04-05T03:04:28.761415+00:00",
+  "plain_summary": "The Drain the Swamp Act of 2025 forces all government agencies to move their main offices away from Washington DC by 2030. Each agency must make a plan by 2026 that shows how they will save money during the move. After moving, agencies can only keep 10 percent or less of their workers in Washington DC. This law is meant to spread government jobs to other parts of the country instead of keeping them all in one place.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-21",
+  "last_action_date": "2025-02-21",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "District of Columbia",
+    "Executive agency funding and structure",
+    "Government buildings, facilities, and property",
+    "Maryland",
+    "Virginia"
+  ],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government agencies leaving Washington",
+    "federal offices moving out of DC",
+    "government jobs spreading across country",
+    "drain the swamp",
+    "federal workers relocating",
+    "government decentralization",
+    "moving federal agencies",
+    "Washington DC government exodus",
+    "federal offices relocation",
+    "government workers leaving capital"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Drain the Swamp Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-relocation-of-agency-headquarters",
+      "title": "Section 2  Relocation of Agency Headquarters",
+      "text": "Part A removes an old law that required government agency main offices to be in certain places. Part B sets up new rules for moving agency headquarters. By September thirtieth, twenty twenty six, the leader of each government agency must create a plan to move their main office away from the Washington area. The plan must pick a new location outside the Washington area. The plan must try to save as much money as possible with the move. After the move, no more than ten percent of the agency's workers can be based in the Washington area. The plan must think about whether the move could affect national security. Before sending the plan to Congress, two government officials must check that the plan follows all the rules. These officials are the Director of the Office of Management and Budget and the Administrator of General Services. By September thirtieth, twenty thirty, each agency leader must actually carry out their relocation plan. Part C explains what certain terms mean. Executive agency means government departments and offices that work for the President, but it does not include the President's own office staff. Washington metropolitan area means the area that includes Washington DC, certain counties in Maryland called Montgomery and Prince Georges, and certain counties and cities in Virginia called Arlington, Fairfax, Loudon, Prince William, and Alexandria.",
+      "word_offset": 14,
+      "char_offset": 70
+    }
+  ]
+}

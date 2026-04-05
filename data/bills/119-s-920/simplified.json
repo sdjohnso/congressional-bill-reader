@@ -1,0 +1,98 @@
+{
+  "bill_id": "119-s-920",
+  "title": "Preventing Child Labor Exploitation in Federal Contracting Act",
+  "short_title": "Preventing Child Labor Exploitation in Federal Contracting Act",
+  "congress": 119,
+  "bill_number": "S.920",
+  "introduced_date": "2025-03-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "85bdc3f59e833dab",
+  "last_updated": "2026-04-05T04:54:41.004603+00:00",
+  "plain_summary": "This new law makes it harder for companies that use child labor to get contracts with the US government. Companies must tell the government if they have broken child labor laws in the past three years. If a company has used child labor and has not fixed the problem, they cannot get government contracts for at least four years. The law also makes the punishments for using child labor worse and trains government workers to spot companies that might be using child labor.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-10",
+  "last_action_date": "2025-03-10",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Sen. Hawley, Josh [R-MO]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "child labor",
+    "government contracts",
+    "federal contractors",
+    "companies using children",
+    "child workers",
+    "government spending",
+    "contractor requirements",
+    "child exploitation",
+    "underage workers",
+    "federal procurement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Preventing Child Labor Exploitation in Federal Contracting Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, certain terms have specific meanings. The appropriate committees of Congress means the Committee on Health, Education, Labor, and Pensions in the Senate and the Committee on Education and Workforce in the House of Representatives. Executive agency means any part of the federal government that can make contracts, as defined in section one hundred thirty three of title forty one of the United States Code. Secretary means the Secretary of Labor.",
+      "word_offset": 14,
+      "char_offset": 91
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-promotion-of-workplace-accountability",
+      "title": "Section 3 Promotion of Workplace Accountability",
+      "text": "Within eighteen months after this law is passed, the Federal Acquisition Regulatory Council must change the rules for government contracts. These changes must require any company that gets a government contract to tell the government each year if they have been found guilty of violating child labor laws in the past three years. This includes any final decisions by government agencies, arbitrators, or courts that found the company broke section twelve of the Fair Labor Standards Act, which protects children from being forced to work. Companies bidding on contracts must also promise they have not violated child labor laws in the past three years. They must get the same promise from any subcontractors they plan to use and include those promises with their bid. Government agencies cannot give contracts to companies that admit they violated child labor laws unless those companies have fixed the problems by working with the Secretary of Labor. The names and addresses of companies that admit to violations must be sent to the Secretary of Labor. The Secretary will work with these companies to fix their problems and may put them on a list of companies that cannot get government contracts. Companies can ask the Secretary of Labor for help in checking if their subcontractors follow child labor laws. Any company that admits to child labor violations must update their paperwork if they take steps to fix the problems or make agreements with the Secretary of Labor. They can also work with the Secretary to avoid being banned from getting government contracts. Starting two years after this law passes, the Secretary of Labor must make a yearly list of companies that violated child labor laws and did not fix the problems. These companies will face suspension and debarment proceedings, which means they could be banned from getting government contracts. Government agencies cannot give contracts to companies on this list for at least four years after they are added to the System for Award Management exclusion list. The Secretary must follow the same rules used for banning other federal contractors. If someone knowingly fails to report child labor violations as required, they break the law. Any government agency that knows about this failure must refer the case for suspension and debarment proceedings handled by the Department of Labor. These violations can also be punished under the False Claims Act. Each year starting two years after this law passes, the Secretary of Labor must give Congress a public report. This report must include how many companies are on the banned list, how many companies agreed to fix their problems, the dollar value of contracts involved, and how well this law is working.",
+      "word_offset": 87,
+      "char_offset": 551
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-civil-penalties-collected-for-child-labor-law-violations",
+      "title": "Section 4 Civil Penalties Collected for Child Labor Law Violations",
+      "text": "This section increases the money penalties for child labor violations under the Fair Labor Standards Act. The penalty for each violation increases from eleven thousand dollars to one hundred thousand dollars. The penalty for violations that cause death or serious injury to a child increases from fifty thousand dollars to five hundred thousand dollars. These higher penalties apply to violations that happen on or after this law is passed. The section also changes how penalty money is used. All penalty money collected will go into the general fund of the United States Treasury instead of being used for specific programs.",
+      "word_offset": 531,
+      "char_offset": 3275
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-training-with-respect-to-child-labor-law-violations",
+      "title": "Section 5 Training with Respect to Child Labor Law Violations",
+      "text": "This section adds a new part to the Fair Labor Standards Act. It requires the Secretary of Labor to create training programs for workers at the Department of Labor and other government agencies, including the Department of Health and Human Services and the Department of Homeland Security. These training programs will teach government workers how to find and prevent violations of child labor laws.",
+      "word_offset": 631,
+      "char_offset": 3901
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-gao-study",
+      "title": "Section 6 GAO Study",
+      "text": "Within two years after this law is passed, the Comptroller General of the United States must study how often companies that get government contracts violate child labor laws. The Comptroller General must give Congress a report with the results of this study.",
+      "word_offset": 695,
+      "char_offset": 4301
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-no-additional-funds",
+      "title": "Section 7 No Additional Funds",
+      "text": "No extra money is approved by Congress to carry out this law.",
+      "word_offset": 737,
+      "char_offset": 4560
+    }
+  ]
+}

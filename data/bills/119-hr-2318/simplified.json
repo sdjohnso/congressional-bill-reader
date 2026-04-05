@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-2318",
+  "title": "Electronic Permitting Modernization Act",
+  "short_title": "Electronic Permitting Modernization Act",
+  "congress": 119,
+  "bill_number": "HR.2318",
+  "introduced_date": "2025-03-25",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7d2c4b2f30e58673",
+  "last_updated": "2026-04-05T02:59:56.529022+00:00",
+  "plain_summary": "This bill requires the Department of the Interior to build new computer systems that let people apply for permits online instead of using paper forms. The Department must create one main website where people can find and use all the different permit systems. When building these new systems, the Department has to work together with state governments, tribal governments, and local governments. The Department also has to follow all the environmental protection laws that already exist while creating these online permit systems.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-25",
+  "last_action_date": "2025-03-25",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [],
+  "sponsor_name": "Rep. Ansari, Yassamin [D-AZ-3]",
+  "sponsor_party": "D",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "online permits",
+    "digital permit applications",
+    "government permits online",
+    "Interior Department website",
+    "electronic government forms",
+    "permit modernization",
+    "online government services",
+    "digital permit system",
+    "government website upgrade",
+    "electronic permits",
+    "online applications government"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Electronic Permitting Modernization Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-department-of-the-interior-permit-accessibility",
+      "title": "Section 2 Department of the Interior Permit Accessibility",
+      "text": "The Secretary of the Interior must work to improve how the Department of the Interior operates. The goal is to make things work better, cost less money, reduce paperwork, and provide better service to the public. To do this, the Secretary must create modern electronic systems that can receive, handle, and store permit applications online. These systems must handle applications, plan submissions, payments, and other related paperwork for permits and forms needed for activities that the Department regulates. The Secretary must also create a central online location on the Department's website where the public can find links to all of the Department's electronic permit systems. This central location must also include contact information for Department employees who can help state governments, tribal governments, and local governments with permits. The Secretary must give regular updates about this work to the House Committee on Natural Resources and the Senate Committee on Energy and Natural Resources. The Secretary cannot share any information that federal law says must be kept private or secret. The Secretary cannot create duplicate systems that already exist. When creating these permit systems, the Secretary must talk with states, local governments, Indian tribes, and other people who apply for permits and will use these systems to get their input.",
+      "word_offset": 10,
+      "char_offset": 68
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-conforming-amendment-to-ensure-consistency-with-the-fiscal-responsibility-act-of-2023",
+      "title": "Section 3 Conforming Amendment to Ensure Consistency with the Fiscal Responsibility Act of 2023",
+      "text": "When the Secretary of the Interior creates the permit systems required by this law, the Secretary must make sure these electronic systems follow the priorities listed in section one hundred ten of the National Environmental Policy Act of nineteen sixty nine. This applies to any permit that must be reviewed under that environmental law.",
+      "word_offset": 219,
+      "char_offset": 1438
+    }
+  ]
+}

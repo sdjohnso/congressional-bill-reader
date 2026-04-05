@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-2983",
+  "title": "SNAP SECURE Act of 2025",
+  "short_title": "SNAP SECURE Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2983",
+  "introduced_date": "2025-04-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "cc3f85b40dd1998f",
+  "last_updated": "2026-04-05T04:37:54.688629+00:00",
+  "plain_summary": "This bill helps people who have their food assistance money stolen. Right now, the government has a program that gives people new benefits when their SNAP food assistance gets stolen from them. The program was supposed to end in 2024, but this bill extends it for ten more years until 2034. This means people will continue to get replacement benefits if someone steals their food assistance money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-24",
+  "last_action_date": "2025-04-24",
+  "last_action_text": "Referred to the House Committee on Agriculture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Green, Al [D-TX-9]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "food stamps",
+    "stolen benefits",
+    "SNAP theft",
+    "food assistance stolen",
+    "replacement food benefits",
+    "grocery money stolen",
+    "food stamp fraud protection",
+    "stolen EBT card",
+    "food assistance replacement",
+    "SNAP benefits stolen",
+    "food stamp theft victim"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Original Supplemental Nutrition Assistance Program Safeguarding Eligible Clients Under Reimbursement Enforcement Act of two thousand twenty-five. It can also be called the SNAP SECURE Act of two thousand twenty-five for short.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reinstatement-of-funding-for-snap-benefit-replacement",
+      "title": "Section 2  Reinstatement of Funding for SNAP Benefit Replacement",
+      "text": "This section changes an existing law about SNAP benefits. SNAP stands for Supplemental Nutrition Assistance Program, which helps people buy food. The change extends funding to replace stolen SNAP benefits. Where the old law said this funding would end in two thousand twenty-four, the new law changes that date to two thousand thirty-four. This means the government can continue paying to replace SNAP benefits that get stolen from people for ten more years.",
+      "word_offset": 37,
+      "char_offset": 254
+    }
+  ]
+}

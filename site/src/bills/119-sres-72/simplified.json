@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-sres-72",
+  "title": "A resolution affirming that Hamas cannot retain any political or military control in the Gaza Strip.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.72",
+  "introduced_date": "2025-02-11",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e94b9fa626a4abf7",
+  "last_updated": "2026-04-05T03:32:25.057131+00:00",
+  "plain_summary": "This resolution says that Hamas cannot be allowed to have any control over Gaza anymore. It asks the President to use money and diplomatic tools to stop Iran and other countries from giving money to Hamas. The resolution also supports Israel as it defends itself against attacks from Hamas, Iran, and other groups that work with Iran. The goal is to make sure Hamas loses its power in Gaza and cannot get funding from other places.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-03-13",
+  "last_action_text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1751; text: 02/11/2025 CR S863)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [
+    "Arab-Israeli relations",
+    "Iran",
+    "Israel",
+    "Middle East",
+    "Palestinians",
+    "Political parties and affiliation",
+    "Presidents and presidential powers, Vice Presidents",
+    "Terrorism"
+  ],
+  "sponsor_name": "Sen. Graham, Lindsey [R-SC]",
+  "sponsor_party": "R",
+  "sponsor_state": "SC",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Hamas control Gaza",
+    "Israel Hamas war",
+    "Gaza Strip politics",
+    "Iran funding Hamas",
+    "Israel defense support",
+    "Hamas military power",
+    "Gaza government control",
+    "Middle East conflict",
+    "Palestinian territories",
+    "Iran proxy groups",
+    "Hamas political control",
+    "Israel Gaza conflict"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This is a resolution stating that Hamas cannot keep any political or military control in the Gaza Strip.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "background-information",
+      "title": "Background Information",
+      "text": "Hamas was created in nineteen eighty seven. Their founding document says Israel will exist until it is destroyed. This shows Hamas wants to destroy Israel, eliminate Jewish people, and hurt peace in the Middle East. On October eighth, nineteen ninety seven, the Secretary of State officially labeled Hamas as a foreign terrorist organization because they repeatedly support acts of terrorism. Since two thousand seven, Hamas has been the group that runs the Gaza Strip. On October seventh, two thousand twenty three, Hamas launched an attack against Israel without any reason. They murdered more than one thousand two hundred innocent men, women, and children. They took more than two hundred fifty people as hostages. They injured thousands more people. This was the deadliest attack on Jewish people since the Holocaust. The United States Government has found that Hamas gets funding, weapons, and training from Iran. Iran gives up to one hundred million dollars every year to Palestinian terrorist groups, including Hamas. Hamas has said they will attack Israel again. They stated they must teach Israel a lesson and will do this again and again. They called their October seventh attack the Al-Aqsa Deluge and said it was just the first time, with a second, third, and fourth attack coming.",
+      "word_offset": 18,
+      "char_offset": 105
+    },
+    {
+      "id": "s3",
+      "slug": "senate-resolution",
+      "title": "Senate Resolution",
+      "text": "The Senate states that Hamas cannot be allowed to keep any political or military control in the Gaza Strip. The Senate calls on the President to use all economic and diplomatic tools possible to stop all funding for Hamas from Iran and all other sources of money. The Senate supports Israel as it continues to defend itself against attacks from Hamas, Iran, and all other Iranian allies.",
+      "word_offset": 226,
+      "char_offset": 1400
+    }
+  ]
+}

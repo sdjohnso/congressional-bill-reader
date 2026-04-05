@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-sjres-27",
+  "title": "A joint resolution providing for congressional disapproval of the proposed foreign military sale to Israel of certain defense articles and services.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SJRES.27",
+  "introduced_date": "2025-02-25",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "0b743ac34b6a7701",
+  "last_updated": "2026-04-05T03:02:22.012786+00:00",
+  "plain_summary": "This bill would stop the United States from selling military weapons to Israel. The weapons include ten thousand artillery shells and other support services that were planned to be sold in February 2025. Congress would use this bill to block the military sale from happening. The bill is meant to prevent Israel from getting these specific defense items from the US.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-25",
+  "last_action_date": "2025-02-25",
+  "last_action_text": "Read twice and referred to the Committee on Foreign Relations.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Sanders, Bernard [I-VT]",
+  "sponsor_party": "I",
+  "sponsor_state": "VT",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Israel weapons sale",
+    "stop military aid Israel",
+    "block arms sale",
+    "artillery shells Israel",
+    "Congress block weapons",
+    "US Israel military deal",
+    "prevent defense sale",
+    "stop Israel weapons",
+    "block military equipment",
+    "Congressional disapproval Israel"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution-title",
+      "title": "Joint Resolution Title",
+      "text": "This joint resolution is about Congress rejecting a proposed sale of military weapons and services to Israel.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "resolution-text",
+      "title": "Resolution",
+      "text": "The Senate and House of Representatives have decided together that the following proposed military sale to Israel is not allowed. The sale includes ten thousand artillery shells called M107 and M795 that are one hundred fifty-five millimeters wide and designed to explode. The sale also includes various other one hundred fifty-five millimeter artillery shells, instruction books, technical documents, engineering support from the US government and private companies, technical and logistics help, studies and surveys, and other related support services. This proposed sale was described in a document called Transmittal Number twenty-four dash zero U that was sent to Congress following the Arms Export Control Act and was published in the Congressional Record on February tenth, two thousand twenty-five.",
+      "word_offset": 17,
+      "char_offset": 110
+    }
+  ]
+}

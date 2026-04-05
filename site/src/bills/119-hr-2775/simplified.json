@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2775",
+  "title": "Coastal Drone Surveillance and Interdiction Assessment Act",
+  "short_title": "Coastal Drone Surveillance and Interdiction Assessment Act",
+  "congress": 119,
+  "bill_number": "HR.2775",
+  "introduced_date": "2025-04-09",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ab40719135460c54",
+  "last_updated": "2026-04-05T04:06:40.661281+00:00",
+  "plain_summary": "This bill tells the Secretary of Homeland Security to study how drones could help protect America's coastlines from drug smuggling and other illegal border crossings. The Secretary has six months to complete the study and must focus on areas where drug traffickers commonly operate and remote communities along the coast. After finishing the study, the Secretary must share the results with Congress. The goal is to find better ways to use drone technology to keep drugs and other illegal activities from entering the United States through coastal areas.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-09",
+  "last_action_date": "2025-04-09",
+  "last_action_text": "Referred to the Subcommittee on Border Security and Enforcement.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rescom. Hernández, Pablo [D-PR-At Large]",
+  "sponsor_party": "D",
+  "sponsor_state": "PR",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "drone surveillance",
+    "coast guard drones",
+    "border security drones",
+    "drug smuggling prevention",
+    "coastal border patrol",
+    "homeland security study",
+    "drug trafficking coastline",
+    "drone technology borders",
+    "illegal immigration coast",
+    "maritime border security",
+    "drug interdiction drones",
+    "coastal surveillance technology"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Coastal Drone Surveillance and Interdiction Assessment Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-assessment-of-drone-deployment",
+      "title": "Section 2 Assessment of Drone Deployment to Improve Border Security and Disrupt Maritime or Low-Altitude Drug Smuggling Along the United States Coastline",
+      "text": "Within one hundred eighty days after this law becomes official, the Secretary of Homeland Security must create a detailed study. The Secretary will work with the leaders of other government departments and agencies that the Secretary thinks are important for this work. The Secretary must give this study to two committees in Congress. These are the Committee on Homeland Security in the House of Representatives and the Committee on Homeland Security and Governmental Affairs in the Senate. The study must look at how well drones work, what dangers they might cause, and how much they could help improve border security. It must also examine how drones could stop drug smuggling that happens by sea or at low heights in the air along the coasts of the United States. The study should pay special attention to the main routes that drug traffickers use across the United States. It should also focus on communities that are far away from cities, on islands, or in places that are hard to reach.",
+      "word_offset": 13,
+      "char_offset": 87
+    }
+  ]
+}

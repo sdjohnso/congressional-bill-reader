@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-s-430",
+  "title": "TICKET Act",
+  "short_title": "TICKET Act",
+  "congress": 119,
+  "bill_number": "S.430",
+  "introduced_date": "2025-02-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "19465a1a4ce26e29",
+  "last_updated": "2026-04-05T03:29:53.990510+00:00",
+  "plain_summary": "The TICKET Act is a new law that makes ticket sellers show the full price of tickets right away when people want to buy them. Instead of hiding extra fees until the end, ticket sellers must show the total cost including all fees from the very beginning in ads and on websites. They also have to break down and explain what each fee is for so buyers know exactly what they are paying for. The Federal Trade Commission will make sure companies follow these rules and can punish them if they don't.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-05",
+  "last_action_date": "2025-02-05",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Sen. Cruz, Ted [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "ticket prices",
+    "hidden fees",
+    "concert tickets",
+    "sports tickets",
+    "ticket sales",
+    "full price upfront",
+    "ticket costs",
+    "event tickets",
+    "ticket websites",
+    "surprise charges",
+    "ticket transparency",
+    "buying tickets"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Transparency In Charges for Key Events Ticketing Act or the TICKET Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, Commission means the Federal Trade Commission, event ticket means a ticket to an event, and ticket issuer means the company that first sells the ticket. These terms have the same meaning as in an earlier law called the Better Online Ticket Sales Act of 2016. Base event ticket price means the price of a ticket without any extra fees. Event means any live concert, play, sports game, show, or similar live activity that takes place in a venue that holds more than two hundred people. The event must be open to everyone and advertised or sold across state lines. Total event ticket price means the complete cost of a ticket including the base price and all fees. Event ticket fee means any extra charge you must pay on top of the base price to get a ticket. This includes service fees, processing fees, delivery fees, facility fees, taxes, and other required charges. It does not include charges for optional things you can choose to buy. Optional product or service means something you do not need to buy to use your ticket. Secondary market ticket issuer means any business that regularly resells tickets to the public. Resale and secondary sale mean any sale of a ticket that happens after the first company sold it.",
+      "word_offset": 18,
+      "char_offset": 99
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-all-inclusive-ticket-price-disclosure",
+      "title": "Section 3  All-Inclusive Ticket Price Disclosure",
+      "text": "Starting one hundred twenty days after this law goes into effect, it will be illegal for ticket sellers to offer tickets for sale unless they follow these rules. First, they must clearly show the total ticket price including all fees in any advertisement or price list wherever the ticket is sold. Second, they must clearly tell anyone trying to buy a ticket the total price when the ticket is first shown and throughout the entire buying process. Third, they must provide a detailed list showing the base ticket price and each separate fee.",
+      "word_offset": 234,
+      "char_offset": 1331
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-enforcement",
+      "title": "Section 4  Enforcement",
+      "text": "Breaking the rules in Section 3 will be treated as an unfair or deceptive business practice under federal trade law. The Federal Trade Commission will enforce Section 3 using the same powers and procedures it uses for other trade violations. Anyone who breaks Section 3 will face the same penalties and have the same rights as under other Federal Trade Commission laws. This law does not limit any other authority the Federal Trade Commission already has.",
+      "word_offset": 327,
+      "char_offset": 1873
+    }
+  ]
+}

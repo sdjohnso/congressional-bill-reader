@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-sres-78",
+  "title": "An original resolution authorizing expenditures by the Committee on the Budget.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.78",
+  "introduced_date": "2025-02-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b2fd7b11d52348d3",
+  "last_updated": "2026-04-05T04:38:45.187586+00:00",
+  "plain_summary": "This bill allows the Senate Committee on the Budget to spend money and hire people to do their work from March 2025 to February 2027. The committee can spend about sixteen million dollars total during this two-year period. Some of this money can be used to pay outside experts to help with their work and to train their staff. The bill sets limits on how much money the committee can spend during different parts of these two years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-13",
+  "last_action_date": "2025-02-13",
+  "last_action_text": "Referred to the Committee on Rules and Administration. (text: CR S980-981)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "Senate Committee on the Budget"
+  ],
+  "sponsor_name": "Sen. Graham, Lindsey [R-SC]",
+  "sponsor_party": "R",
+  "sponsor_state": "SC",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "senate budget committee",
+    "congressional spending",
+    "committee funding",
+    "government budget office",
+    "senate committee money",
+    "congressional staff hiring",
+    "budget committee expenses",
+    "government committee funding",
+    "senate budget staff",
+    "congressional committee budget",
+    "government spending authorization",
+    "budget committee resources"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-general-authority",
+      "title": "Section 1  General Authority",
+      "text": "This section gives the Committee on the Budget permission to carry out its regular Senate duties. From March first two thousand twenty five through February twenty eighth two thousand twenty seven, the committee can do three things. First, it can spend money from the Senate's special emergency fund called the contingent fund. Second, it can hire people to work for the committee. Third, with permission from both a government agency and the Committee on Rules and Administration, it can use workers from that government agency either for free or by paying the agency back later. The committee can use these powers when it holds hearings, reports on those hearings, and conducts investigations as allowed by Senate rules.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expenses",
+      "title": "Section 2  Expenses",
+      "text": "This section sets spending limits for the Committee on the Budget during three different time periods. For the period from March first two thousand twenty five through September thirtieth two thousand twenty five, the committee cannot spend more than four million six hundred thirty thousand four hundred seventy eight dollars total. Of this amount, no more than twenty three thousand three hundred thirty three dollars can be used to hire outside consultants or consulting companies. Also, no more than seventeen thousand five hundred dollars can be used to train the committee's professional staff members. For the period from October first two thousand twenty five through September thirtieth two thousand twenty six, the committee cannot spend more than seven million nine hundred thirty seven thousand nine hundred sixty two dollars total. Of this amount, no more than forty thousand dollars can be used for outside consultants, and no more than thirty thousand dollars can be used for staff training. For the period from October first two thousand twenty six through February twenty eighth two thousand twenty seven, the committee cannot spend more than three million three hundred seven thousand four hundred eighty four dollars total. Of this amount, no more than sixteen thousand six hundred sixty seven dollars can be used for outside consultants, and no more than twelve thousand five hundred dollars can be used for staff training.",
+      "word_offset": 117,
+      "char_offset": 723
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-expenses-and-agency-contributions",
+      "title": "Section 3  Expenses and Agency Contributions",
+      "text": "This section explains how the committee will pay for its expenses and handle employee benefits. Generally, all committee expenses must be paid from the Senate's contingent fund using vouchers that the committee chairman approves. However, vouchers are not required for seven types of payments. These include salaries for yearly employees, phone and communication services from the Senate's Sergeant at Arms office, office supplies bought through the Senate's supply keeper, payments to the Senate postmaster, charges for using copying machines provided by the Sergeant at Arms, payments for Senate recording and photography services, and costs for official mail sent by the Sergeant at Arms. The section also allows money to be paid from the Senate's special account for investigations to cover employee benefits like health insurance and retirement contributions. This applies to committee employees during all three time periods mentioned in Section 2.",
+      "word_offset": 345,
+      "char_offset": 2167
+    }
+  ]
+}

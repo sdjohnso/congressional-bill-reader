@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-208",
+  "title": "Expressing solidarity with the New York State corrections officers striking for better working conditions.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.208",
+  "introduced_date": "2025-03-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ec71334f7976741c",
+  "last_updated": "2026-04-05T05:01:10.965598+00:00",
+  "plain_summary": "This resolution supports prison guards in New York who went on strike because their jobs have become too dangerous. The guards say they are getting attacked more often by prisoners and their working conditions are unsafe. The House of Representatives disagrees with how the Governor of New York handled the strikes. They also want the state to get rid of a law called the HALT Act that limits how guards can punish prisoners who break rules.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-10",
+  "last_action_date": "2025-03-10",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "prison guards",
+    "corrections officers",
+    "New York prison strike",
+    "prison worker safety",
+    "jail guards striking",
+    "prison violence",
+    "unsafe working conditions",
+    "prisoner attacks on guards",
+    "HALT Act",
+    "New York Governor prison policy",
+    "prison reform",
+    "correctional facility workers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution expresses solidarity with New York State corrections officers who are striking for better working conditions.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Information",
+      "text": "New York State corrections officers work in dangerous conditions and face constant attacks from politicians. In two thousand twenty four, the state officially reported two thousand seventy assaults on corrections officers, nurses, and other staff. This is an eighty five percent increase since two thousand nineteen. In two thousand twenty two, the HALT Act became law. This law severely limits how corrections officers can discipline inmates to keep others safe by restricting the use of solitary confinement (keeping inmates alone in their cells). Because of these dangerous conditions, the number of corrections officers has dropped significantly. There were sixteen thousand three hundred five corrections officers in two thousand twenty two, but only thirteen thousand eight hundred eighty six in two thousand twenty five. This shortage means corrections officers must work many extra hours beyond their regular shifts. To fix the staff shortage, New York State Governor Kathy Hochul proposed reducing the number of staff each prison must have to be considered fully staffed. This would mean thirty percent fewer corrections officers at each prison. The New York State Correctional Officers and Police Benevolent Association has repeatedly told the Governor and state lawmakers about the dangers corrections officers face. They want the HALT Act repealed and better support for corrections officers. On February seventeenth, two thousand twenty five, corrections officers at the Collins and Elmira prisons began striking to protest their working conditions. The strike spread to almost all New York State prisons. In response, Governor Hochul temporarily suspended parts of the HALT Act, locked corrections officers inside the prisons, and forced inmates into twenty four hour lockdowns. New York State and the officers union went to arbitration (a process where a neutral party helps resolve disputes). The final agreement did not solve many of the problems that caused the strike. Corrections officers who continue to strike for safe working conditions are now being fired and losing their health insurance.",
+      "word_offset": 17,
+      "char_offset": 126
+    },
+    {
+      "id": "s3",
+      "slug": "resolution-actions",
+      "title": "What the House of Representatives Resolves",
+      "text": "The House of Representatives expresses solidarity with New York State corrections officers as they fight for better working conditions. The House condemns Governor Kathy Hochul and New York State for how they have treated corrections officers. The House urges the New York State Legislature to quickly repeal the HALT Act, which makes every New York State prison more dangerous.",
+      "word_offset": 336,
+      "char_offset": 2241
+    }
+  ]
+}

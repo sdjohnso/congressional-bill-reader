@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-407",
+  "title": "Ensuring Coast Guard Readiness Act",
+  "short_title": "Ensuring Coast Guard Readiness Act",
+  "congress": 119,
+  "bill_number": "S.407",
+  "introduced_date": "2025-02-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "810e198caeaba2ef",
+  "last_updated": "2026-04-05T04:19:39.733581+00:00",
+  "plain_summary": "The Ensuring Coast Guard Readiness Act lets the President allow Coast Guard ships to be built in shipyards outside the United States. This can only happen if the foreign shipyard is in a friendly country, costs less money than building the ships in America, and is not owned by Chinese companies. Before any contracts can be signed, the President must tell Congress about the plan and wait thirty days. This bill gives the Coast Guard more options for building ships while keeping costs down and making sure the work is done by trusted partners.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-05",
+  "last_action_date": "2025-02-05",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Sen. Lee, Mike [R-UT]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "coast guard ships",
+    "foreign shipyards",
+    "build ships overseas",
+    "shipbuilding contracts",
+    "military ships foreign construction",
+    "coast guard vessels",
+    "international shipbuilding",
+    "ship construction costs",
+    "foreign ship manufacturing",
+    "coast guard readiness",
+    "naval shipbuilding",
+    "maritime defense"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Ensuring Coast Guard Readiness Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exception-to-prohibition-on-construction-of-coast-guard-vessels-in-foreign-shipyards",
+      "title": "Section 2 Exception to Prohibition on Construction of Coast Guard Vessels in Foreign Shipyards",
+      "text": "This section changes the law about building Coast Guard ships. Right now, there is a rule that says Coast Guard ships cannot be built in shipyards in other countries. This section adds some exceptions to that rule. The President can allow Coast Guard ships to be built in foreign shipyards, but only if the President decides it is important for keeping America safe. There are three requirements that must be met. First, the foreign shipyard must be located in a country that is part of NATO (North Atlantic Treaty Organization, which is a group of countries that work together for defense) or in a country in the Indo-Pacific area that has a mutual defense treaty with the United States (meaning we have agreed to help defend each other). Second, building the ship in the foreign shipyard must cost less money than it would cost to build it in an American shipyard. Third, before any work can start, the head of the Coast Guard must promise to Congress that the foreign shipyard is not owned or run by a Chinese company or by any company that has its main headquarters in China. If the President wants to use this exception, the President must tell Congress about the decision. No contract can be signed for thirty days after Congress receives this notice. This section also makes a small change to another part of the law to make sure everything works together properly.",
+      "word_offset": 11,
+      "char_offset": 63
+    }
+  ]
+}

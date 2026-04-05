@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-hr-2188",
+  "title": "COST Act",
+  "short_title": "COST Act",
+  "congress": 119,
+  "bill_number": "HR.2188",
+  "introduced_date": "2025-03-18",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a90911cf26edad82",
+  "last_updated": "2026-04-05T04:25:52.182544+00:00",
+  "plain_summary": "The COST Act requires government officials to do a study about replacing government cars. They need to look at how much it would cost to switch to electric cars compared to cars that run on ethanol fuel. Ethanol is a type of fuel made from plants like corn. The officials also have to study how each type of car affects the environment. They must finish this study and share the results within one year.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-18",
+  "last_action_date": "2025-03-18",
+  "last_action_text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consi",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Feenstra, Randy [R-IA-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government cars",
+    "electric vehicles",
+    "ethanol fuel",
+    "corn fuel",
+    "plant-based fuel",
+    "car replacement study",
+    "government fleet",
+    "electric vs ethanol",
+    "environmental impact cars",
+    "fuel comparison study",
+    "government vehicle costs",
+    "alternative fuel vehicles"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Comparison of Sustainable Transportation Act or the COST Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-cost-analysis-of-converting-federal-fleet-to-electric-vehicles",
+      "title": "Section 2  Cost Analysis of Converting Federal Fleet to Electric Vehicles",
+      "text": "The Comptroller General of the United States (a government official who reviews spending) must do two cost studies. First, they must figure out how much it would cost to replace all small government cars and trucks that use gasoline with electric vehicles, including plug-in hybrid electric vehicles (cars that use both electricity and gas). Second, they must figure out how much it would cost to replace those same gasoline vehicles with flex-fuel ethanol vehicles (cars that can run on either gasoline or a fuel made mostly from corn). Both studies must include the costs of building the necessary infrastructure like charging stations for electric cars or fuel stations for ethanol cars that could work for government vehicles across the entire country. The Comptroller General must publish these cost studies online within one year after this law is passed.",
+      "word_offset": 15,
+      "char_offset": 89
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-analysis-of-lifecycle-emissions-of-e85-capable-flex-fuel-and-electric-vehicles",
+      "title": "Section 3  Analysis of Lifecycle Emissions of E85 Capable Flex-Fuel and Electric Vehicles",
+      "text": "The Secretary of Energy must study the total greenhouse gas emissions (pollution that causes climate change) created throughout the entire life of three different types of vehicles. They must use the most recent GREET model (a computer program created by Argonne National Laboratory that measures pollution from transportation). The three vehicle types are regular gasoline cars, E85 capable flex-fuel vehicles (cars that can run on a fuel that is eighty-five percent ethanol and fifteen percent gasoline), and battery electric vehicles (cars that run only on electricity). The Secretary of Energy must send a report about these pollution studies to the House Committee on Science, Space, and Technology and the Senate Committee on Commerce, Science, and Transportation within one year after this law is passed.",
+      "word_offset": 153,
+      "char_offset": 951
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-definitions",
+      "title": "Section 4  Definitions",
+      "text": "This section explains important terms used in this law. E85 means a fuel that contains eighty-five percent ethanol and fifteen percent gasoline. Federal fleet means all the cars and trucks owned or operated by the federal government, as listed in the most recent Federal Fleet Report published by the General Services Administration (the agency that manages government property). Light-duty vehicle means any car or truck that weighs eight thousand five hundred pounds or less when fully loaded.",
+      "word_offset": 277,
+      "char_offset": 1763
+    }
+  ]
+}

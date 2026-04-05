@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-792",
+  "title": "Government Spectrum Valuation Act",
+  "short_title": "Government Spectrum Valuation Act",
+  "congress": 119,
+  "bill_number": "S.792",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "fbfa8c74f44bfc4e",
+  "last_updated": "2026-04-05T03:13:13.071327+00:00",
+  "plain_summary": "This bill requires a government agency to figure out how much money the radio waves used by federal agencies are worth. Federal agencies use these radio waves for things like communication and other operations. The government must estimate these values on a regular schedule over several years. Each federal agency that uses radio waves must include the dollar value of their radio waves in their yearly budget reports and financial records.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-27",
+  "last_action_date": "2025-02-27",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Sen. Lee, Mike [R-UT]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "radio waves",
+    "government spectrum",
+    "federal agencies communication",
+    "radio frequency value",
+    "spectrum worth money",
+    "government radio waves budget",
+    "federal communication costs",
+    "radio spectrum pricing",
+    "government airwave value",
+    "federal radio frequency spending"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Government Spectrum Valuation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-estimate-of-value-of-electromagnetic-spectrum",
+      "title": "Section 2  Estimate of Value of Electromagnetic Spectrum",
+      "text": "This section creates new rules for figuring out how much electromagnetic spectrum is worth. Electromagnetic spectrum is the invisible waves that carry radio, television, cell phone, and internet signals through the air. The government uses a lot of this spectrum for its own purposes. The National Telecommunications and Information Administration (a government agency that manages these airwaves) must now estimate how much the government's spectrum is worth in dollars. They must look at spectrum between three kilohertz and ninety five gigahertz. These are measurements of the frequency or speed of the waves. The agency must work with the Federal Communications Commission (which regulates communications) and the Office of Management and Budget (which handles government spending) to make these estimates. They must estimate different parts of the spectrum on a schedule. For frequencies between three kilohertz and thirty three gigahertz, they must make estimates within one year of this law passing, then every three years after that. For frequencies between thirty three gigahertz and sixty six gigahertz, they must make estimates within two years, then every three years after that. For frequencies between sixty six gigahertz and ninety five gigahertz, they must make estimates within three years, then every three years after that. When making these estimates, the agency must figure out what the spectrum would be worth if private companies could use it instead of the government. They should consider what commercial use would create the most value. They can think about what commercial companies need while still making sure government agencies can do their jobs. The agency should use dynamic scoring methodology when possible. This means they should consider how the value might change over time based on different factors. The agency must explain publicly how they came up with each estimate. However, if any information is classified for national security, sensitive for law enforcement, or private company secrets, they cannot share that information with the public. Instead, they must share that secret information with members of Congress who ask for it in a special classified report. Every government agency that uses electromagnetic spectrum must report the estimated value of their spectrum in two places. First, they must include it in their budget requests that go to the President. Second, they must include it in their yearly financial statements. The section also makes small technical changes to existing law to account for the new section being added.",
+      "word_offset": 10,
+      "char_offset": 62
+    }
+  ]
+}

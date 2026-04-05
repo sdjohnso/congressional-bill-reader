@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1066",
+  "title": "Ending Green Giveaways Act",
+  "short_title": "Ending Green Giveaways Act",
+  "congress": 119,
+  "bill_number": "HR.1066",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c74d4eb34c4d1a79",
+  "last_updated": "2026-04-05T04:19:52.447083+00:00",
+  "plain_summary": "The Ending Green Giveaways Act stops a government program that gave money to communities for environmental and climate projects. This program was part of the Clean Air Act and helped communities work on making their air cleaner and fighting climate change. The bill shuts down this program completely. It also takes back any money that was already set aside for these grants but not yet spent.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Rep. Flood, Mike [R-NE-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 8,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "environmental grants",
+    "climate funding",
+    "green money",
+    "community environmental programs",
+    "clean air funding",
+    "government environmental spending",
+    "climate change grants",
+    "environmental giveaways",
+    "green program cuts",
+    "air quality funding",
+    "climate project money",
+    "environmental community aid"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Ending Green Giveaways Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-and-rescission-relating-to-environmental-and-climate-justice-block-grants",
+      "title": "Section 2 Repeal and Rescission Relating to Environmental and Climate Justice Block Grants",
+      "text": "This section does two things. First, it removes section one hundred thirty eight from the Clean Air Act. That section allowed the government to give money grants to help communities deal with environmental and climate problems. Second, any money that was set aside for these grants but not yet spent must be taken back by the government and cannot be used for these programs.",
+      "word_offset": 10,
+      "char_offset": 55
+    }
+  ]
+}

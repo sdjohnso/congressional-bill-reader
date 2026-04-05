@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-s-587",
+  "title": "Death Tax Repeal Act of 2025",
+  "short_title": "Death Tax Repeal Act of 2025",
+  "congress": 119,
+  "bill_number": "S.587",
+  "introduced_date": "2025-02-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "df8f53633f4abc0e",
+  "last_updated": "2026-04-05T03:41:12.774496+00:00",
+  "plain_summary": "The Death Tax Repeal Act of 2025 gets rid of federal estate taxes, which are taxes that families have to pay when someone dies and leaves them money or property. It also removes generation-skipping transfer taxes that apply when wealth is passed down to grandchildren or great-grandchildren. The bill changes gift tax rules so people can give away up to ten million dollars each year without paying taxes on it. These changes would help families keep more of their money when it gets passed down from one generation to the next.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-13",
+  "last_action_date": "2025-02-13",
+  "last_action_text": "Read twice and referred to the Committee on Finance. (text: CR S977-978)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Thune, John [R-SD]",
+  "sponsor_party": "R",
+  "sponsor_state": "SD",
+  "cosponsor_count": 46,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "estate tax",
+    "inheritance tax",
+    "death tax",
+    "family money passed down",
+    "taxes when someone dies",
+    "gift tax limit",
+    "inheriting property",
+    "family wealth transfer",
+    "grandchildren inheritance",
+    "federal taxes on inheritance",
+    "leaving money to family",
+    "estate planning taxes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Death Tax Repeal Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-estate-and-generation-skipping-transfer-taxes",
+      "title": "Section 2 Repeal of Estate and Generation-Skipping Transfer Taxes",
+      "text": "This section eliminates two types of taxes that the federal government currently collects. The first is the estate tax, which is money the government takes from a person's property and money when they die. The second is the generation-skipping transfer tax, which is money the government takes when someone gives or leaves assets to grandchildren or other relatives who are much younger instead of to their own children. Starting on the day this law is signed, the government will no longer collect these taxes from people who die or make these special transfers. However, there are some special rules for certain trusts that were set up before this law takes effect. For married couples where one spouse was not a United States citizen, there are specific trust arrangements called qualified domestic trusts. For these trusts that were created before this law passes, the government will stop collecting taxes on money taken out of the trust after ten years from when this law starts. The government will also stop collecting taxes on the trust itself starting immediately when this law takes effect.",
+      "word_offset": 14,
+      "char_offset": 71
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-modifications-of-gift-tax",
+      "title": "Section 3 Modifications of Gift Tax",
+      "text": "This section changes the rules for gift taxes, which are taxes people pay when they give money or property to others while they are still alive. The new tax rates start at eighteen percent for gifts up to ten thousand dollars and go up to thirty five percent for gifts over five hundred thousand dollars. Each year, people can give away up to ten million dollars without paying gift tax. This ten million dollar amount will increase each year to account for inflation, using the same method the government uses to adjust tax brackets. The increases will be rounded to the nearest ten thousand dollars. The section also creates new rules for when someone puts money or property into a trust. Unless the person who creates the trust or their spouse still controls the trust completely, putting assets into the trust will count as a taxable gift. These changes take effect on the day this law is signed. For the year this law passes, the government will treat it as if there were two separate tax years, one ending the day before the law takes effect and one starting on that day.",
+      "word_offset": 195,
+      "char_offset": 1173
+    }
+  ]
+}

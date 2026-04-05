@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-2817",
+  "title": "Coastal Broadband Deployment Act",
+  "short_title": "Coastal Broadband Deployment Act",
+  "congress": 119,
+  "bill_number": "HR.2817",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "16d884a643e8c2ee",
+  "last_updated": "2026-04-05T04:14:40.306626+00:00",
+  "plain_summary": "This bill makes it easier to build cell phone towers and other communication equipment in areas that flood often. Normally, these projects have to go through special reviews to check if they might hurt the environment or damage historic places. This bill says those reviews are not needed if the project is completely in a flood area and the Federal Communications Commission approves it. The goal is to help get better phone and internet service to coastal areas that flood a lot.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of su",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [
+    "Environmental assessment, monitoring, research",
+    "Environmental regulatory procedures",
+    "Historic sites and heritage areas",
+    "Internet, web applications, social media",
+    "Telephone and wireless communication"
+  ],
+  "sponsor_name": "Rep. Bilirakis, Gus M. [R-FL-12]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "cell phone towers",
+    "coastal flooding",
+    "internet service",
+    "broadband access",
+    "flood zones",
+    "communication infrastructure",
+    "wireless towers",
+    "coastal areas",
+    "phone service",
+    "environmental reviews",
+    "telecommunications",
+    "flood prone areas"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Coastal Broadband Deployment Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-application-of-nepa-and-nhpa-to-floodplains",
+      "title": "Section 2  Application of NEPA and NHPA to Floodplains",
+      "text": "When the federal government gives permission for certain communications projects in flood areas, these projects do not have to go through some normal environmental and historic preservation reviews. First, these projects cannot be treated as major federal actions under the National Environmental Policy Act of nineteen sixty-nine. This means they skip the detailed environmental impact studies that law usually requires. Second, these projects also do not count as undertakings under the National Historic Preservation Act. This means they skip reviews to protect historic places that law usually requires. This section only applies to covered projects, which are projects to build or change communications facilities like cell towers or internet equipment. The project must happen completely within a floodplain, which is an area that floods regularly as defined in federal regulations. The project must also need permission from the Federal Communications Commission or fall under that agency's control. Federal authorization means any permission required by federal law for these projects, including permits, special use permissions, certifications, opinions, or other approvals. The Federal Communications Commission is the government agency that regulates communications. A communications facility has the same meaning as communications facility installation defined in the Middle Class Tax Relief and Job Creation Act of two thousand twelve.",
+      "word_offset": 10,
+      "char_offset": 61
+    }
+  ]
+}

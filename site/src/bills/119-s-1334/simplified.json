@@ -1,0 +1,50 @@
+{
+  "bill_id": "119-s-1334",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to increase the percentage limitation on assets of real estate investment trusts which may be held in taxable REIT subsidiaries.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "S.1334",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "030bc42bbf830467",
+  "last_updated": "2026-04-05T02:59:22.885948+00:00",
+  "plain_summary": "This bill changes a tax rule about real estate investment trusts, which are companies that own and manage rental properties like apartments and office buildings. Right now, these companies can only put 20 percent of their money into smaller companies they own. The bill would let them put up to 25 percent of their money into these smaller companies instead. This change would start in 2026.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Tillis, Thomas [R-NC]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "real estate investment trusts",
+    "REIT",
+    "rental property companies",
+    "apartment building investments",
+    "office building ownership",
+    "property management companies",
+    "real estate tax rules",
+    "investment company limits",
+    "rental property taxes",
+    "commercial real estate investing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-increase-in-percentage-limitation-on-assets-of-reit-which-may-be-taxable-reit-subsidiaries",
+      "title": "Section 1  Increase in Percentage Limitation on Assets of REIT Which May Be Taxable REIT Subsidiaries",
+      "text": "This section changes the tax rules for real estate investment trusts. A real estate investment trust is a company that owns and operates income-producing real estate like office buildings, shopping centers, or apartments. These companies can own smaller companies called taxable REIT subsidiaries. Currently, the law says that no more than twenty percent of a real estate investment trust's total assets can be held in these subsidiary companies. This bill changes that limit from twenty percent to twenty-five percent. The new rule will start applying to tax years that begin after December thirty-first, two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

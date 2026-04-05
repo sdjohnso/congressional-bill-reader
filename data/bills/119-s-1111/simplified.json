@@ -1,0 +1,50 @@
+{
+  "bill_id": "119-s-1111",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to allow for payments to certain individuals who dye fuel, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "S.1111",
+  "introduced_date": "2025-03-25",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "5c39dd3675012228",
+  "last_updated": "2026-04-05T05:15:16.826246+00:00",
+  "plain_summary": "This bill creates a new government payment program for people who take specially colored diesel fuel or kerosene from fuel storage places. The government will pay these people back the same amount of money that was already paid in taxes on the fuel. To get the money, the fuel has to meet certain rules that the government sets. This means people can get money back for taxes that were already paid on certain types of fuel they remove from storage areas.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-25",
+  "last_action_date": "2025-03-25",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Johnson, Ron [R-WI]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "fuel tax refund",
+    "diesel fuel rebate",
+    "kerosene tax money back",
+    "colored fuel payment",
+    "dyed fuel refund",
+    "fuel storage tax credit",
+    "diesel tax rebate program",
+    "government fuel payments",
+    "fuel tax reimbursement",
+    "kerosene rebate program"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-payment-to-certain-individuals-who-dye-fuel",
+      "title": "Section 1  Payment to Certain Individuals Who Dye Fuel",
+      "text": "This section changes the tax code to create a new payment system for people who add dye to fuel. The government will pay money to people who take specially dyed diesel fuel or kerosene from fuel terminals. To get this payment, the person must prove that the fuel they removed already had taxes paid on it before and that the dyed fuel is exempt from certain taxes. The payment amount equals the tax that was already paid on that fuel. The law also creates penalties for people who make false claims about removing dyed fuel. This new rule will start one hundred eighty days after the law is passed. The section also updates other parts of the tax code to include references to this new payment system and makes sure the penalty rules apply to false claims under this new section.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

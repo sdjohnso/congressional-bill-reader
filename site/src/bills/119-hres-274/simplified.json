@@ -1,0 +1,108 @@
+{
+  "bill_id": "119-hres-274",
+  "title": "Expressing support for the designation of the week of April 6 through April 12, 2025, as \"National Water Week\".",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.274",
+  "introduced_date": "2025-03-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "113f2ccd8b94de57",
+  "last_updated": "2026-04-05T05:14:31.708557+00:00",
+  "plain_summary": "This bill asks Congress to support naming the week of April 6 through April 12, 2025 as National Water Week. The bill says that millions of Americans do not have access to clean water in their communities. It explains that the federal government needs to spend money and do research to help towns and cities fix their water systems. The goal is to make sure everyone can get clean water without it costing too much money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-31",
+  "last_action_date": "2025-03-31",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Rep. Evans, Gabe [R-CO-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "CO",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "water week",
+    "clean water access",
+    "drinking water problems",
+    "water infrastructure",
+    "safe drinking water",
+    "water systems repair",
+    "community water issues",
+    "water funding",
+    "water quality",
+    "municipal water",
+    "public water supply",
+    "water treatment"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution shows support for naming the week of April sixth through April twelfth, two thousand twenty five, as National Water Week.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "water-access-problems",
+      "title": "Water Access Problems in America",
+      "text": "Every community in the United States should have access to water that is affordable, safe, and clean. This includes drinking water, toilets and sewage systems, and other important water systems. Communities can be large or small, in cities or rural areas, or on Tribal lands. However, more than two million people in the United States do not have running water, indoor bathrooms, or sewage services. Small communities, rural areas, and poor communities have water systems that struggle to make needed improvements while keeping water bills affordable for residents.",
+      "word_offset": 22,
+      "char_offset": 138
+    },
+    {
+      "id": "s3",
+      "slug": "federal-investment-importance",
+      "title": "Why Federal Money Helps Water Systems",
+      "text": "When the federal government invests money in core water programs, it helps local water companies and their customers. These programs include drinking water systems, sewage treatment, stormwater collection (collecting rainwater), sustainable desalination (removing salt from seawater), and water recycling programs. This federal money gives local water companies the resources they need to improve water reliability and meet federal safety rules at affordable prices.",
+      "word_offset": 110,
+      "char_offset": 704
+    },
+    {
+      "id": "s4",
+      "slug": "contaminant-control",
+      "title": "Controlling Water Pollution",
+      "text": "Source control means stopping pollution before it gets into water systems and the environment. This is the most important first step for reducing emerging contaminants (new types of pollution) from entering water systems. Scientists also need to advance their knowledge about the risks these contaminants pose to people. This scientific research is essential to protect public health.",
+      "word_offset": 173,
+      "char_offset": 1171
+    },
+    {
+      "id": "s5",
+      "slug": "water-infrastructure-challenges",
+      "title": "Special Challenges for Water Systems",
+      "text": "Water infrastructure projects often need specific products and technologies. Sometimes there are no substitute products available. It is important to understand the unique realities that water companies face and the immediate challenges that water infrastructure projects must deal with. Many disadvantaged communities in the United States struggle to make needed investments in critical water infrastructure while keeping water bills affordable at the same time.",
+      "word_offset": 230,
+      "char_offset": 1556
+    },
+    {
+      "id": "s6",
+      "slug": "water-research-benefits",
+      "title": "How Water Research Helps",
+      "text": "Water research helps solve some of the biggest problems for the water industry. These problems include aging infrastructure (old pipes and equipment), emerging contaminants (new types of pollution), making systems stronger against extreme weather, drought and water shortages, and significant changes in where people live. Research and development that finds cost effective solutions to these pressing challenges creates stronger and more effective water systems. This research also creates new jobs and supports thriving communities nationwide. The results improve public health and safety and promote fair solutions throughout the United States.",
+      "word_offset": 294,
+      "char_offset": 2020
+    },
+    {
+      "id": "s7",
+      "slug": "congressional-support-needed",
+      "title": "What Congress and the Executive Branch Should Do",
+      "text": "Congress and the executive branch (the President and federal agencies) should help water companies so these communities can continue to protect public health and the environment while supporting local economic growth. They should address challenges related to managing aging water infrastructure, rising operation and maintenance costs, supply chain disruptions (problems getting needed equipment and materials), and workforce shortages (not having enough workers). They should also help with growing water quality problems and regulations from emerging contaminants and nutrients (pollution from fertilizers). Finally, they should ensure proper climate adaptation (preparing for climate change), system strength and toughness, and security measures are in place.",
+      "word_offset": 384,
+      "char_offset": 2668
+    },
+    {
+      "id": "s8",
+      "slug": "house-resolution",
+      "title": "House of Representatives Resolution",
+      "text": "Therefore, the House of Representatives supports the designation of National Water Week.",
+      "word_offset": 486,
+      "char_offset": 3432
+    }
+  ]
+}

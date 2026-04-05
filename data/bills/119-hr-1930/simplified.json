@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1930",
+  "title": "Border Workforce Improvement Act",
+  "short_title": "Border Workforce Improvement Act",
+  "congress": 119,
+  "bill_number": "HR.1930",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7b033fe3bafe4647",
+  "last_updated": "2026-04-05T04:02:55.013560+00:00",
+  "plain_summary": "This bill tells the Department of Homeland Security to study how many workers are needed at the southern border with Mexico. The study must be finished within 90 days and will look at how immigration workers do their jobs, what problems they face, and what help they need. After the study is done, the government has 180 more days to write a report with their findings and ideas for improvements. This report will be sent to Congress so lawmakers can understand what is needed to better protect the border.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Referred to the Subcommittee on Border Security and Enforcement.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Johnson, Julie [D-TX-32]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "border security",
+    "immigration workers",
+    "Mexico border",
+    "border patrol",
+    "southern border",
+    "homeland security study",
+    "border staffing",
+    "immigration enforcement",
+    "border protection",
+    "government workers at border",
+    "border employee needs",
+    "immigration staff shortage"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Border Workforce Improvement Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-assessment-on-dhs-staffing-needs-at-the-southern-border",
+      "title": "Section 2 Assessment on DHS Staffing Needs at the Southern Border",
+      "text": "The Secretary of Homeland Security must work with the heads of three immigration agencies to study staffing needs at the southern border. Within ninety days of this law being passed, they must start this study. The three agencies are Customs and Border Protection (the agency that guards border crossings), Immigration and Customs Enforcement (the agency that arrests people who break immigration laws), and United States Citizenship and Immigration Services (the agency that processes applications for citizenship and legal status). The study must look at several things. First, it must review how these agencies currently decide where to place their workers at the southern border and around the country. It must also look at how using temporary workers and overtime pay to fill gaps affects the agencies. Second, the study must identify what things make the workload harder for these agencies. Some of these problems the Department of Homeland Security can fix on its own, but others will need Congress to pass new laws. Third, the study must find where these agencies are missing important resources, technology, or management systems that would help them do their jobs better. Within one hundred eighty days after finishing the study, the Secretary must send a report to specific committees in Congress. The report must include what the study found and explain how the Secretary and agency heads plan to put the study recommendations into action. The congressional committees that will receive this report are the Homeland Security Committee and the Appropriations Committee in the House of Representatives, and the Homeland Security and Governmental Affairs Committee and the Appropriations Committee in the Senate.",
+      "word_offset": 10,
+      "char_offset": 61
+    }
+  ]
+}

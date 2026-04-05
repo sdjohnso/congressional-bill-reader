@@ -1,0 +1,84 @@
+{
+  "bill_id": "119-hr-2773",
+  "title": "Landowner Easement Rights Act",
+  "short_title": "Landowner Easement Rights Act",
+  "congress": 119,
+  "bill_number": "HR.2773",
+  "introduced_date": "2025-04-09",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2ef76424b21210fe",
+  "last_updated": "2026-04-05T04:36:11.219638+00:00",
+  "plain_summary": "The Landowner Easement Rights Act changes the rules for conservation easements with the Department of the Interior. From now on, new conservation easements can only last for thirty years or less. Landowners who already have older easements that last longer can choose to renegotiate their agreements with the government. They can also buy back their land at the current market price if they want to end the easement.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-09",
+  "last_action_date": "2025-04-09",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [],
+  "sponsor_name": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "conservation easement",
+    "land rights",
+    "property rights",
+    "government land deals",
+    "landowner rights",
+    "thirty year limit",
+    "buy back land",
+    "Department of Interior",
+    "conservation agreements",
+    "property easement",
+    "land conservation",
+    "renegotiate land deal"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Landowner Easement Rights Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-conservation-easement-terms",
+      "title": "Section 2 Limitation on Conservation Easement Terms",
+      "text": "After this law takes effect, the Secretary of the Interior cannot make new conservation easement agreements that last longer than thirty years.",
+      "word_offset": 10,
+      "char_offset": 58
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-renegotiation-of-conservation-easements",
+      "title": "Section 3 Renegotiation of Conservation Easements",
+      "text": "When a landowner asks to change their eligible conservation easement, the Secretary must do the following. Within six months of getting the request, the Secretary must give the landowner a detailed map of the easement area and tell them what the easement is worth in today's market. Then the Secretary must work with the landowner to change the easement agreement. This includes making a new agreement that lasts no more than thirty years. The Secretary must also pay the landowner the current fair market value of the easement minus what the Secretary originally paid for it, adjusted for inflation. Or instead, the Secretary can let the landowner buy back all or part of their easement at the current fair market value.",
+      "word_offset": 32,
+      "char_offset": 202
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-notice-to-landowners",
+      "title": "Section 4 Notice to Landowners",
+      "text": "The Secretary must tell landowners about their right to ask for changes to their easement agreements. For easements that have been in place for longer than thirty years, the Secretary must give notice three months before the easement becomes eligible for changes. For easements that were created before nineteen seventy seven without an official map, the Secretary must give notice one year before the easement becomes eligible for changes.",
+      "word_offset": 153,
+      "char_offset": 924
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-definitions",
+      "title": "Section 5 Definitions",
+      "text": "In this law, these terms mean the following. A conservation easement is a voluntary legal agreement between a landowner and the Secretary of the Interior that limits how the land can be used in order to protect its natural value. This does not include agreements with Indian Tribes or agreements related to utilities. An eligible conservation easement is a conservation easement that has been in effect for longer than thirty years, or was created before nineteen seventy seven without an official map being made. The Secretary means the Secretary of the Interior.",
+      "word_offset": 222,
+      "char_offset": 1365
+    }
+  ]
+}

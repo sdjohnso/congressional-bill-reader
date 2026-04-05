@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hres-88",
+  "title": "Supporting the designation of January 31, 2025, as \"Earned Income Tax Credit Awareness Day\".",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.88",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "d318ef7569e50985",
+  "last_updated": "2026-04-05T04:05:59.156610+00:00",
+  "plain_summary": "This bill supports making January 31, 2025 a special day called Earned Income Tax Credit Awareness Day. The earned income tax credit is money the government gives back to workers who don't make a lot of money. The bill wants different groups to help tell people about this tax credit and other money they might get back from taxes. It also wants people to know about free help for filing their taxes. The goal is to make sure all workers who can get this money know about it and can get help getting it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-31",
+  "last_action_date": "2025-01-31",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Sewell, Terri A. [D-AL-7]",
+  "sponsor_party": "D",
+  "sponsor_state": "AL",
+  "cosponsor_count": 11,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "tax credit for low income workers",
+    "earned income tax credit",
+    "EITC",
+    "tax refund help",
+    "free tax filing assistance",
+    "tax awareness day",
+    "money back from taxes",
+    "tax help for working families",
+    "January 31 tax day",
+    "government tax credits",
+    "tax filing help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution supports making January thirty-first, two thousand twenty-five, a special day called Earned Income Tax Credit Awareness Day.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Information",
+      "text": "The earned income tax credit is a special tax benefit that gives money back to working families and individuals who earn low to moderate incomes. This tax credit makes work more rewarding by providing extra money to workers. From two thousand seventeen to two thousand twenty-one, this tax credit helped lift about eight million people out of poverty each year. The tax credit also brings important economic benefits to local communities. However, about twenty percent of workers who qualify for this tax credit do not claim it, meaning they miss out on money they could receive.",
+      "word_offset": 19,
+      "char_offset": 141
+    },
+    {
+      "id": "s3",
+      "slug": "resolution-actions",
+      "title": "What the House of Representatives Supports",
+      "text": "The House of Representatives supports creating an Earned Income Tax Credit Awareness Day. The House also calls on federal agencies, state agencies, local agencies, community groups, nonprofit organizations, employers, and other partners to help spread awareness about tax credits. These groups should work to make sure all eligible workers know about and can access the full range of tax benefits available to them. This includes the earned income tax credit, other refundable tax credits that give money back to taxpayers, and free help with filing taxes.",
+      "word_offset": 115,
+      "char_offset": 721
+    }
+  ]
+}

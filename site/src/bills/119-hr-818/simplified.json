@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-818",
+  "title": "SPUR Act",
+  "short_title": "SPUR Act",
+  "congress": 119,
+  "bill_number": "HR.818",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "6e440a5e680eff5b",
+  "last_updated": "2026-04-05T05:10:28.601044+00:00",
+  "plain_summary": "This bill makes government agencies track a new piece of information about small businesses that get government contracts for the first time. The agencies must count how many first-time small business contractors are owned by veterans with disabilities, businesses in certain areas, businesses owned by disadvantaged people, and businesses owned by women. They have to include these numbers in their yearly reports about small business contracting. The government cannot spend extra money to do this new tracking work.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-25",
+  "last_action_date": "2025-02-25",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [
+    "Economic performance and conditions",
+    "Public contracts and procurement",
+    "Small business",
+    "Veterans' organizations and recognition",
+    "Women in business"
+  ],
+  "sponsor_name": "Rep. Stauber, Pete [R-MN-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "MN",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "small business contracts",
+    "government contracts",
+    "first time contractors",
+    "veteran owned businesses",
+    "disabled veteran businesses",
+    "women owned businesses",
+    "minority owned businesses",
+    "small business tracking",
+    "government contracting reports",
+    "disadvantaged businesses",
+    "veteran business owners",
+    "small business data"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Small Business Procurement and Utilization Reform Act of two thousand twenty five or the SPUR Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modifications-to-scorecard-requirements",
+      "title": "Section 2 Modifications to Scorecard Requirements",
+      "text": "This section changes the Small Business Act to add new tracking requirements. Government agencies must now count how many completely new small businesses get their first ever government contracts each year. These new businesses include those owned by disabled veterans, businesses in special zones called HUBZones, businesses owned by people who face social and economic disadvantages, and businesses owned by women. Agencies must track these numbers by industry type using a system called North American Industry Classification System codes. They must also compare this year's numbers to last year's numbers if that information is available. The section also updates the definition of scorecard to mean any rating system that measures how well government agencies meet their goals for working with small businesses. A new small business entrant is defined as a small business that gets a government contract but has never gotten one before from any government agency.",
+      "word_offset": 22,
+      "char_offset": 126
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-compliance-with-cutgo",
+      "title": "Section 3 Compliance with CUTGO",
+      "text": "This law does not allow the government to spend any additional money to carry out these new requirements.",
+      "word_offset": 170,
+      "char_offset": 1095
+    }
+  ]
+}

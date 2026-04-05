@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1134",
+  "title": "Embassy Construction Integrity Act of 2025",
+  "short_title": "Embassy Construction Integrity Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1134",
+  "introduced_date": "2025-02-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9f736cb32bf28d50",
+  "last_updated": "2026-04-05T04:16:39.265699+00:00",
+  "plain_summary": "This bill is about keeping American embassy and consulate buildings safe from Chinese government control. It says the Secretary of State cannot buy, rent, or hire Chinese government companies to work on these buildings in other countries. If they absolutely have to work with these Chinese companies, they must tell Congress within seven days and explain why it is necessary for national security. The goal is to protect American government buildings overseas from possible security risks.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-07",
+  "last_action_date": "2025-02-07",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Mills, Cory [R-FL-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "embassy security",
+    "Chinese companies",
+    "American buildings overseas",
+    "consulate safety",
+    "foreign construction",
+    "government building contracts",
+    "Chinese government control",
+    "embassy construction",
+    "overseas security risks",
+    "State Department buildings",
+    "foreign contractors ban",
+    "diplomatic facilities"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Embassy Construction Integrity Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-restrictions-on-consular-and-diplomatic-posts-built-or-owned-by-certain-entities",
+      "title": "Section 2 Restrictions on Consular and Diplomatic Posts Built or Owned by Certain Entities",
+      "text": "The Secretary of State must take steps to avoid or reduce buying or renting buildings for American embassies and consulates outside the United States when certain Chinese-controlled companies are involved. Specifically, the Secretary must avoid buildings where a Chinese-controlled company did construction work on or after January first nineteen forty-nine, buildings where a Chinese-controlled company owns part of the building, or making new contracts with Chinese-controlled companies to do construction work on embassy or consulate buildings.\n\nIf the Secretary of State does make a deal that goes against these rules, they must tell two congressional committees about it. The Secretary must notify the House Committee on Foreign Affairs and the Senate Committee on Foreign Relations within seven days before making such a deal if they know it breaks the rules, or within seven days after finding out about a deal that breaks the rules. When notifying Congress, the Secretary must explain whether this action helps American national security, what benefit it provides, why they made this decision, and what steps they will take to reduce any security risks.\n\nFor this law, a covered building means any building used by American embassy or consulate workers outside the United States. Covered construction means any building work including construction, repairs, maintenance, or installing systems like electrical, plumbing, heating, air conditioning, communications, fire protection, and energy management. A covered entity means any company that the Chinese government or its agencies controls or owns a significant part of, either directly or through contracts and other arrangements.",
+      "word_offset": 14,
+      "char_offset": 91
+    }
+  ]
+}

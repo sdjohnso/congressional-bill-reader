@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-290",
+  "title": "Recognizing that the retirement of nonintermittent electric generation facilities, before facilities with equal or greater reliability attributes are available, is a threat to the reliability of the United States electric grid.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.290",
+  "introduced_date": "2025-04-02",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "cde6f8140ec04f20",
+  "last_updated": "2026-04-05T03:19:35.456725+00:00",
+  "plain_summary": "This bill says that shutting down power plants that run all the time is dangerous for America's electric grid. The lawmakers believe these power plants should only be closed after new ones that work just as well are built to replace them. They think environmental rules are forcing too many power plants to close, which makes electricity less dependable and costs more money for families. The bill supports keeping reliable power plants open to make sure Americans always have electricity when they need it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-02",
+  "last_action_date": "2025-04-02",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Fedorchak, Julie [R-ND-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "ND",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "power plant closures",
+    "electric grid reliability",
+    "electricity outages",
+    "power grid stability",
+    "energy security",
+    "coal plant shutdowns",
+    "backup power generation",
+    "electricity costs",
+    "environmental regulations electricity",
+    "keeping lights on",
+    "power plant replacements",
+    "energy reliability"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution recognizes that shutting down power plants that run all the time before replacing them with equally reliable power plants threatens the stability of America's electric system.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Facts",
+      "text": "The North American Electric Reliability Corporation found in their two thousand twenty four report that several regions across the United States face high risk of electricity shortages during extreme weather or times when people use the most power. These at-risk regions include Texas, the Midwest, New England, the mid-Atlantic states, the Southeast, the Southwest, and California. By two thousand thirty four, eighteen out of twenty power regions are expected to have dangerously low backup power reserves. Seven regions may have no backup power at all, meaning they cannot handle unexpected increases in electricity demand. The corporation says that closing coal and natural gas power plants while quickly adding solar and wind power creates an unreliable mix that depends too much on weather conditions. This hurts essential services and makes the electric grid less reliable. Natural gas pipelines are not being built fast enough to meet demand, leaving some areas without enough natural gas for electricity during peak times. Environmental regulations are forcing the closure of coal, natural gas, and nuclear power plants, which will badly hurt the reliability of the power system over the next ten years. Artificial intelligence technology, which the Department of Defense considers strategically important, is expected to use up to twelve percent of all United States electricity by two thousand thirty. Total United States energy demand is expected to grow by fifteen to twenty percent by two thousand thirty five according to the Department of Energy. Industrial energy use could increase by thirty two percent by two thousand fifty under high growth conditions. On January twentieth, two thousand twenty five, President Trump declared a National Energy Emergency, stating that previous policies created a crisis with inadequate and unreliable energy supply and growing risk of electric grid problems. The President issued an executive order called Unleashing American Energy, declaring that developing affordable and reliable American energy and natural resources serves the national interest. The President's focus on United States energy shows how important energy is to the domestic economy and how more domestic energy production will make electricity more affordable, reliable, and sustainable. A free and competitive energy market will restore United States prosperity, including for middle class workers who have been left behind by the economy, and will rebuild economic and military security to deliver peace through strength.",
+      "word_offset": 28,
+      "char_offset": 192
+    },
+    {
+      "id": "s3",
+      "slug": "resolved-clauses",
+      "title": "What the House of Representatives Declares",
+      "text": "The House of Representatives recognizes that the United States electric grid is unstable and that closing power plants that run continuously without replacing them with equally reliable facilities threatens grid reliability. The House recognizes that energy is not truly sustainable unless it is both affordable and reliable. The House recognizes that heavy environmental regulations and federal incentives that distort the market are forcing power plants to close too early, which raises electricity prices and makes power supply less reliable for American households. The House supports President Trump's efforts to unleash United States energy and encourages development of the natural resources that God gave to the United States.",
+      "word_offset": 410,
+      "char_offset": 2740
+    }
+  ]
+}

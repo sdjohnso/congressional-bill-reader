@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1149",
+  "title": "POWER Act",
+  "short_title": "POWER Act",
+  "congress": 119,
+  "bill_number": "HR.1149",
+  "introduced_date": "2025-02-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "6009b04efece832a",
+  "last_updated": "2026-04-05T03:27:04.125488+00:00",
+  "plain_summary": "The POWER Act makes rules for electric companies when they want to raise their prices. Electric companies must tell their customers at least 30 days before they raise rates and explain why the prices are going up. If they want to raise rates by 5% or more, they also have to tell the Department of Energy 60 days ahead of time. The Department of Energy will then look at these rate increases and write reports with suggestions about whether the increases are fair.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-07",
+  "last_action_date": "2025-02-07",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Van Drew, Jefferson [R-NJ-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "electric bill increase",
+    "utility rate hike",
+    "power company prices",
+    "electricity cost going up",
+    "electric utility notification",
+    "energy bill rates",
+    "power bill changes",
+    "electricity price increase",
+    "utility company rules",
+    "electric rate approval",
+    "power cost regulation",
+    "energy price oversight"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting Our Wallets from Excessive Rates Act or the POWER Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-notification-requirements-for-planned-rate-increases",
+      "title": "Section 2 Notification Requirements for Planned Rate Increases",
+      "text": "This section creates rules for electric companies when they want to raise their prices. First, electric companies must tell their customers at least thirty days before raising any electric rates. The notice must include four things. It must clearly state what percentage the rates will go up. It must explain in detail why the rates need to increase. It must show how the higher rates will affect the average customer's monthly bill. It must tell customers how they can give feedback or file a complaint about the rate increase. Electric companies must use several ways to tell customers about rate increases. They must send notices by mail or email directly to customers. They must post the information on their official website. They must publish the notice in local newspapers and other local news sources. If an electric company does not follow these notification rules, they face penalties. They can be fined up to ten thousand dollars. They cannot raise their rates until they properly notify customers. The Federal Energy Regulatory Commission (a government agency that oversees energy companies) will decide on these fines after holding a public hearing. When setting the fine amount, the Commission will consider how serious the violation was and whether the company tried to fix the problem quickly. Electric companies must also tell the Department of Energy about any rate increases of five percent or more at least sixty days before the increase happens. This notice to the Department must include the percentage of the rate increase. It must give a complete explanation of why rates need to go up, including what costs are driving the increase. It must explain how the rate increase will affect customers. It must describe any steps the company plans to take to reduce the impact on customers. The Secretary of Energy must review these notifications. Within thirty days of getting the notice, the Secretary must publish a report with findings about the planned rate increase. The report must assess how the rate increase will impact customers. The report must give recommendations for adjusting the planned rate increase, ways to reduce the impact on customers such as spreading the increase over time or providing financial help options, and ways the electric company can become more efficient to avoid future rate increases. After a rate increase goes into effect, the Secretary of Energy must monitor its effects on the market and on customers to see if further action is needed. This section also defines important terms. An electric consumer means any person who uses electricity. An electric utility means a company that generates, transmits, or distributes electricity. A retail electric utility means an electric company that sells electricity directly to customers for their own use rather than to other companies for resale.",
+      "word_offset": 17,
+      "char_offset": 93
+    }
+  ]
+}

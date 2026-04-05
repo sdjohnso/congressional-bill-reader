@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1483",
+  "title": "Protecting Investors’ Personally Identifiable Information Act",
+  "short_title": "Protecting Investors’ Personally Identifiable Information Act",
+  "congress": 119,
+  "bill_number": "HR.1483",
+  "introduced_date": "2025-02-21",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c8050fbb8da2149f",
+  "last_updated": "2026-04-05T04:41:45.419888+00:00",
+  "plain_summary": "This bill stops the Securities and Exchange Commission from making stock exchanges and trading groups collect personal information about people when they track stock trades. Personal information includes things like names, addresses, and Social Security numbers that could identify who someone is. The bill protects people's private details from being collected during stock trading activities. It makes sure that when trades are tracked, personal information stays private and does not have to be gathered.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-21",
+  "last_action_date": "2025-02-21",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Loudermilk, Barry [R-GA-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 5,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "stock trading privacy",
+    "personal information protection",
+    "SEC privacy rules",
+    "stock exchange personal data",
+    "trading privacy",
+    "Social Security number protection",
+    "investor privacy",
+    "stock market personal information",
+    "trading data collection",
+    "financial privacy protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting Investors Personally Identifiable Information Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-personally-identifiable-information-excluded-from-consolidated-audit-trail-reporting-requirements",
+      "title": "Section 2  Personally Identifiable Information Excluded from Consolidated Audit Trail Reporting Requirements",
+      "text": "The Securities and Exchange Commission (the government agency that watches over stock markets) cannot force stock exchanges, securities groups, or their members to give out personal information about people who trade stocks. This rule applies to a specific tracking system that follows stock orders and trades under federal regulation two hundred forty two point six hundred thirteen section c subsection seven of title seventeen of the Code of Federal Regulations or any new rules that replace it. Personal information means any details that can identify a specific person by themselves or when mixed with other information about that person. This includes a person's name, home address, when they were born, Social Security number, phone number, email address, and internet address called an IP address.",
+      "word_offset": 12,
+      "char_offset": 89
+    }
+  ]
+}

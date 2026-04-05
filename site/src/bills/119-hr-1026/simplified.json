@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-1026",
+  "title": "Primary Care Enhancement Act of 2025",
+  "short_title": "Primary Care Enhancement Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1026",
+  "introduced_date": "2025-02-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "6479485129aff00d",
+  "last_updated": "2026-04-05T02:58:42.463481+00:00",
+  "plain_summary": "This bill changes the rules about health savings accounts so that people can still use them even if they have a direct primary care agreement with their doctor. Direct primary care means you pay your doctor a set amount of money each month to cover your basic medical needs instead of paying for each visit separately. Right now, people with these monthly payment plans cannot use health savings accounts, but this bill would let them do both. The bill sets limits on how much the monthly fee can be and what kinds of medical care can be included in these agreements.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-05",
+  "last_action_date": "2025-02-05",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Smucker, Lloyd [R-PA-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 8,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "health savings account",
+    "monthly doctor payments",
+    "direct primary care",
+    "HSA rules",
+    "pay doctor monthly fee",
+    "primary care membership",
+    "health savings changes",
+    "doctor subscription plan",
+    "medical savings account",
+    "monthly healthcare plan",
+    "primary care payment"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Primary Care Enhancement Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-treatment-of-direct-primary-care-service-arrangements",
+      "title": "Section 2 Treatment of Direct Primary Care Service Arrangements",
+      "text": "This section changes the tax rules about health savings accounts and direct primary care arrangements. A direct primary care service arrangement is when you pay a doctor a fixed monthly fee for basic medical care instead of paying for each visit separately. Under the new rules, having this type of arrangement will not prevent you from being eligible for a health savings account. To qualify, the arrangement must only cover basic primary care services from primary care doctors, and you can only pay a flat monthly fee. The monthly fee cannot be more than one hundred fifty dollars for one person or three hundred dollars if the arrangement covers more than one person like a family. Primary care services under these arrangements cannot include surgeries that require you to be put completely to sleep, prescription drugs except for vaccines, or lab tests that are not normally done in a regular doctor's office. The Treasury Secretary will work with the Health and Human Services Secretary to write rules about what counts as primary care services. Money you spend on these direct primary care arrangements can be paid for using your health savings account. The one hundred fifty dollar limit will go up each year based on inflation starting in two thousand twenty seven. If your employer helps pay for a direct primary care arrangement, they must report how much they paid on your tax form. These changes will start on January first two thousand twenty six.",
+      "word_offset": 15,
+      "char_offset": 85
+    }
+  ]
+}

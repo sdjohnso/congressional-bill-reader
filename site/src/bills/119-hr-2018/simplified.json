@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2018",
+  "title": "BODEGA Act of 2025",
+  "short_title": "BODEGA Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2018",
+  "introduced_date": "2025-03-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "204a55b47cb185bb",
+  "last_updated": "2026-04-05T04:05:07.315062+00:00",
+  "plain_summary": "The BODEGA Act of 2025 changes the rules for federal crime control grants so small business owners can use the money for safety equipment. Store owners like those who run bodegas and convenience stores can now get federal grant money to buy panic buttons and security cameras. This helps protect small businesses from crime by giving them access to government funding they could not use before. The law makes it easier for small store owners to keep their businesses and customers safe.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-10",
+  "last_action_date": "2025-03-10",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [],
+  "sponsor_name": "Rep. Torres, Ritchie [D-NY-15]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "small business safety",
+    "bodega security funding",
+    "convenience store grants",
+    "panic buttons for stores",
+    "security cameras funding",
+    "crime prevention grants",
+    "small shop protection",
+    "federal money for business security",
+    "store owner safety equipment",
+    "government grants for small businesses"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Bodega Owner Defense Enhancement Grant Assistance Act of two thousand twenty five or the BODEGA Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-inclusion-of-additional-use-of-grant-amounts",
+      "title": "Section 2 Inclusion of Additional Use of Grant Amounts",
+      "text": "This section changes an existing law called the Omnibus Crime Control and Safe Streets Act of nineteen sixty eight. The changes add a new way that grant money can be used. The grant money can now be used to install panic buttons and surveillance equipment in private businesses. The changes also say that private businesses classified under North American Industrial Classification Code four four five one three one can receive this grant money. This code refers to convenience stores like bodegas.",
+      "word_offset": 27,
+      "char_offset": 156
+    }
+  ]
+}

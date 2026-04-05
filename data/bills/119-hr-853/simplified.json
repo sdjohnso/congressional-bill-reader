@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-853",
+  "title": "Assistance for Local Heroes During Train Crises Act",
+  "short_title": "Assistance for Local Heroes During Train Crises Act",
+  "congress": 119,
+  "bill_number": "HR.853",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "5c5f1baf1548b68a",
+  "last_updated": "2026-04-05T04:21:45.450848+00:00",
+  "plain_summary": "This bill creates a special emergency fund to help local police and firefighters when dangerous train crashes happen. When trains carrying hazardous materials derail or crash, the Federal Railroad Administration will quickly give at least $250,000 to local emergency responders to cover their costs like overtime pay and replacing damaged equipment. The money for this fund comes from fees paid by large companies that ship dangerous materials by train. The bill also requires railroad companies to tell local emergency teams ahead of time when trains with hazardous cargo will pass through their communities and provide real-time tracking information.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-01",
+  "last_action_date": "2025-02-01",
+  "last_action_text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Deluzio, Christopher R. [D-PA-17]",
+  "sponsor_party": "D",
+  "sponsor_state": "PA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "train crash emergency fund",
+    "local police firefighters train accidents",
+    "hazardous materials train derailment",
+    "emergency responders train disasters",
+    "dangerous cargo train crashes",
+    "railroad safety local heroes",
+    "train accident first responders",
+    "toxic spill emergency funding",
+    "chemical train derailment help",
+    "railroad emergency response money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Assistance for Local Heroes During Train Crises Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-hazardous-train-events",
+      "title": "Section 2 Hazardous Train Events",
+      "text": "This section creates new rules for when dangerous train accidents happen. When a train carrying dangerous materials crashes or derails, the head of the Federal Railroad Administration can declare it a hazardous train event within three days. This person makes this decision after talking with leaders from the Federal Emergency Management Agency and the Environmental Protection Agency. Once this declaration is made, the government must immediately give at least two hundred fifty thousand dollars to local emergency groups like police, fire departments, and other first responders who help with the accident. Within five days, the government can give up to three million dollars total per accident to cover more costs. A special fund called the Hazardous Train Event Emergency Reimbursement Fund will be created in the US Treasury to pay for this help. The money can be used to replace damaged equipment, pay overtime to emergency workers, cover costs of responding to the accident, and other related expenses. Local groups that get this money must provide receipts and records within one hundred twenty days to show how they spent it. If they use the money incorrectly, they must pay it back to the fund.",
+      "word_offset": 14,
+      "char_offset": 80
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-advance-warning-requirement",
+      "title": "Section 3 Advance Warning Requirement",
+      "text": "The Secretary of Transportation must create rules that require railroad companies to warn local emergency groups when trains carrying dangerous materials will pass through their communities. The railroad companies must tell local police, fire departments, and emergency response agencies what dangerous materials the train is carrying and when the train will arrive. The companies must also provide real-time information about where the train is located when it enters and leaves their area.",
+      "word_offset": 208,
+      "char_offset": 1288
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-hazardous-materials-emergency-reimbursement-fee",
+      "title": "Section 4 Hazardous Materials Emergency Reimbursement Fee",
+      "text": "The Secretary of Transportation must create a schedule of yearly fees for companies that ship or transport dangerous materials by train. Only companies that make at least ten million dollars per year from this business will have to pay these fees. All money collected from these fees will go into the Hazardous Train Event Emergency Reimbursement Fund to pay for emergency response costs when train accidents happen.",
+      "word_offset": 280,
+      "char_offset": 1780
+    }
+  ]
+}

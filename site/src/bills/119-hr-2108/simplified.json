@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-2108",
+  "title": "TANF State Expenditure Integrity Act of 2025",
+  "short_title": "TANF State Expenditure Integrity Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2108",
+  "introduced_date": "2025-03-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "bf48c196dac63346",
+  "last_updated": "2026-04-05T03:59:17.424700+00:00",
+  "plain_summary": "This bill creates new rules to watch how states spend TANF welfare money. The government will make a special team with ten million dollars each year to check if organizations are using the money the right way. If they find that someone used the money wrong on purpose, the state will have to use its own money to help poor families. The goal is to make sure welfare money actually helps the families who need it most.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-14",
+  "last_action_date": "2025-03-14",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [],
+  "sponsor_name": "Rep. Davis, Danny K. [D-IL-7]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 5,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "welfare spending",
+    "TANF money",
+    "state welfare programs",
+    "welfare fraud",
+    "government oversight",
+    "welfare accountability",
+    "misuse of welfare funds",
+    "welfare monitoring",
+    "poor families assistance",
+    "welfare money tracking",
+    "state welfare audits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the TANF State Expenditure Integrity Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-authority-to-prevent-and-address-intentional-misuse",
+      "title": "Section 2  Authority to Prevent and Address Intentional Misuse of Subrecipient Funds Under the TANF Program",
+      "text": "This section changes the rules for TANF (a government program that helps poor families with temporary cash assistance). The Secretary of Health and Human Services must create a system to watch how organizations that receive TANF money from states are using those funds. This is to catch when money is being used wrongly on purpose. The Secretary can require states to follow certain rules and report information to help with this monitoring. This new monitoring does not replace the existing audit system that already checks how states use federal money. The Secretary must create a special TANF Program Integrity Unit within the Administration for Children and Families to do this monitoring work. This unit will get ten million dollars extra each year to pay for staff and operations. The Secretary must write a report to Congress each year about what this unit is doing. If the Secretary finds that money has been misused on purpose, the Secretary must tell the state about this finding. The state must then spend an equal amount of its own money to give cash help directly to families earning less than the poverty line. The Secretary must publish proposed rules to carry out these changes within two years of this law being passed. These new rules will start either at the beginning of the fifth three month period after this law passes or at the beginning of the next federal budget year, whichever comes later.",
+      "word_offset": 16,
+      "char_offset": 93
+    }
+  ]
+}

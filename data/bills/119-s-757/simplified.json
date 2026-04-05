@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-757",
+  "title": "Tribal Adoption Parity Act",
+  "short_title": "Tribal Adoption Parity Act",
+  "congress": 119,
+  "bill_number": "S.757",
+  "introduced_date": "2025-02-26",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "6c48e8cbdcb65928",
+  "last_updated": "2026-04-05T03:28:52.197858+00:00",
+  "plain_summary": "This bill is about adoption tax credits that help families pay for adoption costs. Right now, only state governments can decide if a child has special needs, which determines how much tax credit a family can get. The bill would let tribal governments make this same decision for children in their adoption systems. This means families who adopt through tribal governments would get the same tax help as families who adopt through state governments. The change makes sure all adoptive families are treated fairly no matter which system they use.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-26",
+  "last_action_date": "2025-02-26",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Klobuchar, Amy [D-MN]",
+  "sponsor_party": "D",
+  "sponsor_state": "MN",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "adoption tax credit",
+    "tribal adoption",
+    "adoption costs help",
+    "native american adoption",
+    "adoption tax breaks",
+    "special needs adoption",
+    "tribal government adoption",
+    "adoption financial assistance",
+    "indian tribe adoption",
+    "adoption tax relief",
+    "fair adoption benefits",
+    "tribal children adoption"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Tribal Adoption Parity Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-recognizing-indian-tribal-governments-for-purposes-of-determining-under-the-adoption-credit-whether-a-child-has-special-needs",
+      "title": "Section 2 Recognizing Indian Tribal Governments for Purposes of Determining Under the Adoption Credit Whether a Child Has Special Needs",
+      "text": "This section changes the tax law to include Indian tribal governments when deciding if a child has special needs for adoption tax credits. Right now, only state governments can make this decision. Under this change, Indian tribal governments will also be able to decide if a child has special needs. This means families who adopt children through tribal governments can get the same tax benefits as families who adopt through state governments. These changes will start applying to tax years that begin after this law is passed.",
+      "word_offset": 10,
+      "char_offset": 55
+    }
+  ]
+}

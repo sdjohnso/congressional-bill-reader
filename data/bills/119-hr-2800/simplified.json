@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2800",
+  "title": "Boost the Middle Class Act",
+  "short_title": "Boost the Middle Class Act",
+  "congress": 119,
+  "bill_number": "HR.2800",
+  "introduced_date": "2025-04-09",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "cd62f4829c770c80",
+  "last_updated": "2026-04-05T04:23:50.102205+00:00",
+  "plain_summary": "This bill makes changes to help working families who do not make a lot of money. It increases the earned income tax credit, which is money the government gives back to these families when they file their taxes. The bill about doubles how much money families can get back and raises the income limits so more families can qualify. These changes will help families both with children and without children. The new rules will start in 2026.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-09",
+  "last_action_date": "2025-04-09",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Vasquez, Gabe [D-NM-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "NM",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "tax credit for working families",
+    "money back on taxes",
+    "help for low income families",
+    "earned income tax credit",
+    "tax refund increase",
+    "working poor tax relief",
+    "middle class tax help",
+    "families without children tax credit",
+    "government money for workers",
+    "tax benefits 2026"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Boost the Middle Class Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increasing-earned-income-tax-credit",
+      "title": "Section 2 Increasing Earned Income Tax Credit",
+      "text": "This section makes the earned income tax credit bigger for working families. The earned income tax credit is money the government gives back to people who work but do not earn very much. The law changes the dollar amounts in the tax code to give people more money back. For families with no children, the maximum income amount goes from four thousand two hundred twenty dollars to nine thousand eighty six dollars. For families with one child, it goes from six thousand three hundred thirty dollars to thirteen thousand six hundred twenty nine dollars. For families with two or more children, it goes from eight thousand eight hundred ninety dollars to nineteen thousand one hundred forty dollars. The law also raises the income levels where people start getting less of this credit. For families with no children, this starts at eleven thousand three hundred sixty three dollars instead of five thousand two hundred eighty dollars. For families with children, it starts at twenty four thousand nine hundred ninety two dollars instead of eleven thousand six hundred ten dollars. For married couples filing taxes together, the income level where the credit starts going down increases by two thousand six hundred twelve dollars to seven thousand six hundred twelve dollars total. The law also changes how these dollar amounts get adjusted each year for inflation. Instead of using two thousand fifteen as the starting year, it will use two thousand twenty six. Instead of using nineteen ninety five and two thousand eight as reference years for some calculations, it will use two thousand twenty five. These changes will start for tax years beginning after December thirty first two thousand twenty five.",
+      "word_offset": 11,
+      "char_offset": 55
+    }
+  ]
+}

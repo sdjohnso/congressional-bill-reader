@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-s-1184",
+  "title": "Cross Border Aerial Law Enforcement Operations Act",
+  "short_title": "Cross Border Aerial Law Enforcement Operations Act",
+  "congress": 119,
+  "bill_number": "S.1184",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "4c63ae3a536c67e1",
+  "last_updated": "2026-04-05T02:54:56.910289+00:00",
+  "plain_summary": "This bill tells the Secretary of Homeland Security to work with Canada to start flying planes together to watch the border between the two countries. This would be similar to how they already use boats together to patrol the water border. The bill also asks for a report about drone activities along the northern border with Canada. The government will not give any extra money to make these new programs happen.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Hassan, Margaret Wood [D-NH]",
+  "sponsor_party": "D",
+  "sponsor_state": "NH",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "border security",
+    "Canada border",
+    "aerial surveillance",
+    "planes patrolling border",
+    "cross border cooperation",
+    "northern border",
+    "drone surveillance",
+    "air patrols",
+    "border monitoring",
+    "US Canada joint operations",
+    "homeland security",
+    "border watch planes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Cross Border Aerial Law Enforcement Operations Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-integrated-cross-border-aerial-law-enforcement-operations-program",
+      "title": "Section 2  Integrated Cross Border Aerial Law Enforcement Operations Program",
+      "text": "The Secretary of Homeland Security can create a program for joint air patrols with Canada along the US Canada border, but only if both countries agree to it in writing. This program would be similar to an existing agreement the two countries have for joint water patrols that was signed in Detroit on May twenty sixth two thousand and nine. The program would include law enforcement officers from US Customs and Border Protection, the US Coast Guard, Homeland Security Investigations, other federal agencies chosen by the Secretary, and Canadian law enforcement agencies. The program can only operate within fifty miles on either side of the US Canada border. Aircraft can go outside this area only if they need to use an airport or base outside the zone, or if there is an emergency involving the aircraft or something happening on the ground. The program must protect the civil rights, civil liberties, and privacy of all people in the United States according to federal law. Within thirty days of signing any agreement with Canada, the Secretary must give a copy to four congressional committees that deal with homeland security and foreign affairs. Within thirty days of starting the program, the Secretary must send these same committees a written description of how the program works and what it covers. Any agreement with Canada must include specific rules to protect the privacy and civil liberties of US citizens. The agreement must make sure that joint air patrols respect individual rights and follow US laws. Before joining the program, all US and Canadian officers must complete training to understand how to protect the privacy, civil liberties, and civil rights of US citizens. The agencies involved can set up communication systems needed for safe joint air operations. If the program is not created within two years of this law being passed, the Secretary must report to Congress about what problems prevented it from being established, what Congress could do to help, any civil rights or privacy concerns that caused delays, and whether the Secretary thinks the program should continue to be developed or is not needed.",
+      "word_offset": 13,
+      "char_offset": 79
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-unmanned-aircraft-system-report",
+      "title": "Section 3  Unmanned Aircraft System Report",
+      "text": "Within one year of this law being passed, the Secretary of Homeland Security must give Congress a public report about the use of unmanned aircraft systems (drones without pilots) along the northern border of the United States. If needed, the report can have a secret section. The report must describe how different agencies work together to stop unauthorized drones, any legal problems that prevent stopping unauthorized drones, how bad actors use drones to spy on law enforcement, move illegal items or people across the border, or conduct espionage, whether joint drone operations with Canada are possible, and the potential risks to civil rights, civil liberties, and privacy from the Department of Homeland Security using drones and anti drone systems along the northern border.",
+      "word_offset": 364,
+      "char_offset": 2217
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-no-additional-funds",
+      "title": "Section 4  No Additional Funds",
+      "text": "No extra money is approved by Congress to carry out this law.",
+      "word_offset": 487,
+      "char_offset": 3000
+    }
+  ]
+}

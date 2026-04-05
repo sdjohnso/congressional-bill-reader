@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-1481",
+  "title": "CART Act of 2025",
+  "short_title": "CART Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1481",
+  "introduced_date": "2025-02-21",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a654599618f97c1c",
+  "last_updated": "2026-04-05T04:34:45.980056+00:00",
+  "plain_summary": "The CART Act of 2025 creates special tax rules for insurance companies that help protect against big disasters like hurricanes and earthquakes. These special insurance companies can get better tax treatment from the government if they follow certain rules. The bill also stops states from taxing these companies twice on the same insurance payments. This is meant to help spread the risk of major disasters so that regular people and businesses can get better protection when bad things happen.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-21",
+  "last_action_date": "2025-02-21",
+  "last_action_text": "Referred to the Committee on Ways and Means, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provis",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. LaHood, Darin [R-IL-16]",
+  "sponsor_party": "R",
+  "sponsor_state": "IL",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "disaster insurance",
+    "hurricane insurance",
+    "earthquake insurance",
+    "insurance company taxes",
+    "catastrophe insurance",
+    "disaster protection",
+    "insurance tax breaks",
+    "natural disaster coverage",
+    "insurance company benefits",
+    "disaster risk insurance",
+    "emergency insurance",
+    "catastrophic insurance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Catastrophic Risk Transfer Act of two thousand twenty five or the CART Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-taxation-of-catastrophic-risk-transfer-companies",
+      "title": "Section 2 Taxation of Catastrophic Risk Transfer Companies",
+      "text": "This section adds new tax rules for special insurance companies that help spread the risk of major disasters. These companies are called catastrophic risk transfer companies. To qualify as one of these companies, a business must be a US company created under state law that allows special purpose insurers. The state insurance commissioner must regulate and license the company. The company's main job must be transferring catastrophic risks, which means risks that are unlikely to happen but would cause huge losses if they did occur. For direct insurance, the loss must be more than twenty five million dollars. The company can only do three things: sell stock and bonds, own safe investments like cash and high quality debt, and make insurance agreements with unrelated companies to cover catastrophic risks. The company must get at least ninety percent of its income from investment earnings and insurance premiums from government agencies, large companies with assets over one hundred million dollars, or companies transferring big pools of similar risks. The insurance coverage must be fully backed by money or assets set aside to pay claims. If these companies meet certain requirements, they get special tax treatment. They must pay out at least ninety percent of their taxable income as dividends to avoid being taxed like regular corporations. They cannot keep earnings from years when they did not qualify for this special treatment. The law also creates special rules for how investors in these companies are taxed on dividends they receive, treating different types of income differently.",
+      "word_offset": 24,
+      "char_offset": 131
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-state-taxation-of-reinsurance-premiums",
+      "title": "Section 3 State Taxation of Reinsurance Premiums of Catastrophic Risk Transfer Companies",
+      "text": "This section prevents states from double taxing catastrophic risk transfer companies on reinsurance premiums. Only the state where the company was created can tax the premiums paid to these companies for reinsurance policies. If a state does tax these premiums, the tax cannot be higher than what would be charged to a foreign insurance company under federal law. A taxing jurisdiction means any state, the District of Columbia, US territories, or local governments like cities or counties that have the power to tax insurance premiums.",
+      "word_offset": 277,
+      "char_offset": 1733
+    }
+  ]
+}

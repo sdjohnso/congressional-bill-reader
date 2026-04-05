@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-124",
+  "title": "Expressing continued support for the people of Puerto Rico, and urging the Federal Government to expedite the rebuilding of Puerto Rico's electrical grid.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.124",
+  "introduced_date": "2025-02-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "104021da942a7772",
+  "last_updated": "2026-04-05T04:43:46.718430+00:00",
+  "plain_summary": "This House resolution shows support for the people of Puerto Rico and asks the federal government to help fix their electrical system faster. Puerto Rico has had serious power problems since Hurricane Maria hit the island in 2017. Congress already approved billions of dollars to help rebuild the electrical grid, but the resolution wants the government to use this money more quickly. The goal is to get reliable electricity back to the people of Puerto Rico as soon as possible.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-10",
+  "last_action_date": "2025-02-10",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Torres, Ritchie [D-NY-15]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 4,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Puerto Rico",
+    "electricity problems",
+    "power outages",
+    "Hurricane Maria",
+    "electrical grid",
+    "power grid repair",
+    "Puerto Rico electricity",
+    "federal aid",
+    "disaster recovery",
+    "rebuild power system",
+    "Puerto Rico support",
+    "hurricane damage"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution expresses continued support for the people of Puerto Rico and urges the Federal Government to speed up rebuilding Puerto Rico's electrical power system.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "background-findings",
+      "title": "Background Findings",
+      "text": "The people of Puerto Rico continue to experience frequent power outages, unreliable electricity service, and high energy costs. These problems hurt the quality of life, health, safety, and economic stability of more than three million American citizens. Since Hurricane Maria hit the island in two thousand seventeen, Puerto Rico's electrical power system has remained unreliable. Puerto Rico is still facing a humanitarian crisis. The poor condition of the electric power system prevents Puerto Rico's economy from growing and developing, causing the loss of millions of dollars. Congress has set aside billions of dollars to rebuild the electrical system, but only a small amount of these funds have actually been spent. Problems with having enough workers, getting supplies, and following regulations have delayed building a sustainable electric power system. Progress has been slow, frustration is widespread, and residents are still waiting for major improvements. The United States has a responsibility to support Puerto Rico and make sure its residents receive fair treatment and investment in basic infrastructure like roads and power systems. The people of Puerto Rico urgently need continued support from the Federal Government to rebuild the electrical system and address other infrastructure projects. Rebuilding Puerto Rico's electrical system is one of the most urgent infrastructure needs in the United States.",
+      "word_offset": 25,
+      "char_offset": 169
+    },
+    {
+      "id": "s3",
+      "slug": "house-resolution",
+      "title": "House Resolution",
+      "text": "The House of Representatives commits to supporting the people of Puerto Rico and helping restore the island to its full potential. The House also urges the President and Federal agencies to take immediate and decisive action to address the electric power system crisis in Puerto Rico and support efforts to build a stronger and more reliable system.",
+      "word_offset": 236,
+      "char_offset": 1595
+    }
+  ]
+}

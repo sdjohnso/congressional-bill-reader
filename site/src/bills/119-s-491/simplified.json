@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-s-491",
+  "title": "Foreign Assistance Accountability and Oversight Act",
+  "short_title": "Foreign Assistance Accountability and Oversight Act",
+  "congress": 119,
+  "bill_number": "S.491",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "70ee99c0af9b9da2",
+  "last_updated": "2026-04-05T03:09:35.345926+00:00",
+  "plain_summary": "This bill creates a new job called Director of Foreign Assistance in the State Department. This person will be in charge of making sure all the money America gives to other countries works well together and helps achieve our goals. The Director will work with other government agencies to make foreign aid programs better and more effective. The Senate must approve whoever gets this job, and the bill also requires the government to spend the money for foreign aid faster than before.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Read twice and referred to the Committee on Foreign Relations.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Kaine, Tim [D-VA]",
+  "sponsor_party": "D",
+  "sponsor_state": "VA",
+  "cosponsor_count": 21,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "foreign aid",
+    "money to other countries",
+    "overseas assistance",
+    "international help",
+    "foreign assistance director",
+    "state department oversight",
+    "aid effectiveness",
+    "government spending abroad",
+    "international aid coordination",
+    "foreign aid accountability",
+    "assistance programs",
+    "overseas funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Foreign Assistance Accountability and Oversight Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-sense-of-congress",
+      "title": "Section 2  Sense of Congress",
+      "text": "Congress believes that giving foreign aid in smart ways is very important for protecting America's interests around the world. Foreign aid helps keep America safe, promotes American values, and makes sure America is the preferred partner when other countries want to buy defense equipment or invest in new scientific research. Congress also believes that foreign aid programs should be run by a qualified official from the State Department and should be closely watched by Congress since Congress controls government spending. Finally, Congress notes that a 1998 law made the United States Agency for International Development an independent agency that operates separately from the State Department.",
+      "word_offset": 12,
+      "char_offset": 80
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-director-of-foreign-assistance-at-the-department-of-state",
+      "title": "Section 3  Director of Foreign Assistance at the Department of State",
+      "text": "This section changes an existing law to create a new job called Director of Foreign Assistance in the State Department. The Director will report directly to the Deputy Secretary of State for Management and Resources and should not hold any other government job at the same time. The Director's main jobs include making foreign aid work better by connecting it to the Secretary of State's foreign policy goals, measuring how well programs work, and using facts and evidence to guide spending decisions. The Director will also help the Secretary of State and other government officials develop policies and programs that achieve national security and foreign policy goals. Other duties include leading budget planning, encouraging monitoring of programs, increasing transparency, managing data and reports, and working with other government agencies like the Millennium Challenge Corporation and Peace Corps. The President must nominate the Director and the Senate must confirm the appointment. No one can serve as acting Director for more than ninety days without Senate confirmation. Any negative personnel decisions involving the Director or staff must be approved by the Deputy Secretary of State for Management and Resources.",
+      "word_offset": 117,
+      "char_offset": 781
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-timely-obligation-of-appropriated-funds",
+      "title": "Section 4  Timely Obligation of Appropriated Funds",
+      "text": "All money that Congress gives to the State Department or the United States Agency for International Development, or that the Director of Foreign Assistance controls, must be made available to spend within ninety days after Congress passes the spending bill.",
+      "word_offset": 304,
+      "char_offset": 2010
+    }
+  ]
+}

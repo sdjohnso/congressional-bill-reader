@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-s-1062",
+  "title": "Suicide Prevention Act",
+  "short_title": "Suicide Prevention Act",
+  "congress": 119,
+  "bill_number": "S.1062",
+  "introduced_date": "2025-03-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c05b2c5573cc5df6",
+  "last_updated": "2026-04-05T04:52:09.740779+00:00",
+  "plain_summary": "The Suicide Prevention Act creates two new programs to help stop people from hurting themselves. The first program gives money to local health departments so they can better keep track of when people try to harm themselves and share this information with the government. The second program gives money to hospital emergency rooms to help them check if patients might be thinking about suicide and provide help to prevent it. Both programs work together to make communities safer by catching problems early and getting people the help they need.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-13",
+  "last_action_date": "2025-03-13",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S1747)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Sen. Reed, Jack [D-RI]",
+  "sponsor_party": "D",
+  "sponsor_state": "RI",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "suicide prevention",
+    "mental health help",
+    "emergency room mental health",
+    "suicide screening",
+    "local health departments",
+    "preventing self harm",
+    "hospital suicide checks",
+    "community mental health programs",
+    "suicide tracking",
+    "emergency mental health services",
+    "stopping suicide attempts",
+    "mental health funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law may be called the Suicide Prevention Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-syndromic-surveillance-of-self-harm-behaviors-program",
+      "title": "Section 2 Syndromic Surveillance of Self-Harm Behaviors Program",
+      "text": "This section creates a new program to track and monitor self-harm incidents across the country. The Secretary of Health and Human Services will give grants to state, local, tribal, and territorial public health departments to expand their tracking of self-harm behaviors. When public health departments get these grants, they must agree to share their data on suicides and self-harm with the Centers for Disease Control and Prevention in real time when possible. This data sharing helps track self-harm patterns, respond to suicide clusters, create prevention programs for at-risk groups, and support research. The data must be organized into five categories. First, information about nonfatal self-harm of any kind. Second, data on thoughts of suicide. Third, data on self-harm where there is no sign the person intended to commit suicide. Fourth, data on self-harm where there is evidence the person intended to commit suicide. Fifth, data on self-harm where it is unclear if the person intended to commit suicide. When deciding who gets grants, the Secretary must give priority to public health departments located in states with higher than average rates of nonfatal suicidal behavior, those serving Indian tribes with higher than average rates of nonfatal suicidal behavior, or those in states with high coverage of statewide emergency department visits. The Secretary must also try to spread grants across different geographic areas, paying special attention to rural communities with high rates of mental illness or suicide, communities that lack prevention and treatment services, and communities affected by social factors like low income, unemployment, and poor education. To get a grant, public health departments must agree to participate for at least four years. The Secretary will provide technical help and training to grant recipients for collecting and sharing data. The Secretary must also share and combine the self-harm data through national surveillance systems like the National Syndromic Surveillance Program platform called ESSENCE or the National Violent Death Reporting System. This section does not change any existing federal or state privacy laws that protect personal information. Within three years of this law being passed, the Secretary must evaluate the suicide and self-harm tracking systems and submit a report to Congress about the data collected without revealing any personally identifiable information. The report must include challenges and gaps in data collection, recommendations to fix these problems, and descriptions of any public health responses taken based on the data. Congress authorizes thirty million dollars for each year from two thousand twenty-six through two thousand thirty to fund this program.",
+      "word_offset": 9,
+      "char_offset": 51
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-grants-to-provide-self-harm-and-suicide-prevention-services",
+      "title": "Section 3 Grants to Provide Self-Harm and Suicide Prevention Services",
+      "text": "This section creates a grant program where the Secretary of Health and Human Services gives money to hospital emergency departments to provide self-harm and suicide prevention services. Emergency departments that receive grants must use the money to create programs or procedures that help prevent suicide attempts among patients after they leave the hospital. These programs may include screening patients for self-harm and suicide risk using proper medical standards, providing patients with short-term self-harm and suicide prevention services based on their screening results, and referring patients to other healthcare providers for long-term prevention services and follow-up care when needed. Grant money can also be used to hire clinical social workers, mental and behavioral health professionals, and support staff, as well as to train both existing and new staff to carry out these activities. Each grant lasts for three years and can be renewed if the emergency department meets all requirements. Emergency departments that want grants must submit applications to the Secretary with required information at the specified time and in the proper format. Within one hundred eighty days after this law is passed, the Secretary must create standards for screening patients for self-harm and suicide. The Secretary must develop these standards by consulting with experts in self-harm and suicide prevention from public, private, and nonprofit organizations. Emergency departments receiving grants must submit quarterly reports to the Secretary evaluating their grant-funded activities. These reports must include the number of patients who received screenings, short-term prevention services, and referrals to other healthcare facilities, information about how well the emergency department followed the screening standards, and other information the Secretary needs to evaluate how grant funds were used. Starting two years after this law is passed and then every two years after that, the Secretary must submit reports to the Senate Committee on Health, Education, Labor, and Pensions and the House Committee on Energy and Commerce about this grant program. These reports must summarize what emergency departments reported to the Secretary and include the Secretary's evaluation of the program. Congress authorizes thirty million dollars for each year from two thousand twenty-six through two thousand thirty to fund this program.",
+      "word_offset": 423,
+      "char_offset": 2806
+    }
+  ]
+}

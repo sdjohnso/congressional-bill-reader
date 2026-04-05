@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-185",
+  "title": "Recognizing the need of Congress to prevent, address, and treat obesity as a disease in the United States on this World Obesity Day, March 4, 2025.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.185",
+  "introduced_date": "2025-03-04",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c0c46ed570f9b4b6",
+  "last_updated": "2026-04-05T03:31:54.756372+00:00",
+  "plain_summary": "This bill recognizes that obesity is a serious disease that affects millions of Americans and costs a lot of money in healthcare. It points out that obesity affects some groups of people more than others, like certain racial groups, poor families, and people who live in rural areas. The bill says obesity causes over 200 other health problems. The House of Representatives wants Congress to treat obesity like a disease and use proven methods to prevent it and help people who have it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-04",
+  "last_action_date": "2025-03-04",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Cherfilus-McCormick, Sheila [D-FL-20]",
+  "sponsor_party": "D",
+  "sponsor_state": "FL",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "obesity",
+    "weight problems",
+    "healthcare costs",
+    "disease prevention",
+    "public health",
+    "obesity treatment",
+    "health disparities",
+    "rural health",
+    "childhood obesity",
+    "diet and health",
+    "medical care",
+    "health insurance coverage"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution recognizes that Congress needs to prevent, address, and treat obesity as a disease in the United States on World Obesity Day, March fourth, two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Findings About Obesity",
+      "text": "Obesity is a complicated condition caused by genes, environment, behavior, and social factors that affect health. It affects both children and adults. Obesity has become a widespread problem around the world and causes many health issues that hurt people's well-being. People with obesity are more likely to get heart disease, high blood pressure, high bad cholesterol, low good cholesterol, blood fat problems, type two diabetes, kidney disease, stroke, gallbladder disease, joint pain, sleep breathing problems, cancer, mental illness, body pain, memory loss, asthma, and over two hundred other diseases. It also causes breathing infections and makes it harder for women to get pregnant or stay pregnant. The costs of treating obesity and related health problems are growing. In two thousand nineteen, the yearly medical cost of obesity was nearly one hundred seventy three billion dollars. People with obesity had medical costs that were one thousand eight hundred sixty one dollars higher than people at normal weight. The United States Government spent about two hundred eighty three billion dollars on obesity-related health costs in two thousand twenty three. This is expected to rise to five hundred twenty six and a half billion dollars by two thousand thirty three. Obesity also costs the economy in other ways through lost work time, early death, lower quality of life, and more disability payments. Obesity has a big impact on the world economy. The total costs range from five hundredths of a percent to two and twenty four hundredths percent of a country's total economic output. The World Obesity Federation thinks the global economic impact will be more than four trillion dollars by two thousand thirty five. Researchers think that by two thousand thirty, if obesity keeps growing, obesity-related medical costs could go up by forty eight to sixty six billion dollars a year in the United States. Health conditions related to obesity are among the top causes of preventable early death in the United States. More than forty two percent of adults and more than nineteen percent of children and teens in the United States are considered obese according to the Centers for Disease Control and Prevention. Black American adults have the highest rates of obesity at forty nine and nine tenths percent. American Indian and Alaska Native adults are next at forty eight percent. Hispanic and Latino Americans are at forty five and six tenths percent. White American adults are at forty one and four tenths percent. Asian American adults have the lowest rate at sixteen and one tenth percent. Children living in families with low incomes are two and thirty one hundredths times more likely to develop childhood obesity compared to children in higher income families. People living in rural areas are much more likely to be obese than people living in cities. People with obesity often face shame, unfair treatment, and barriers to getting insurance coverage.",
+      "word_offset": 29,
+      "char_offset": 182
+    },
+    {
+      "id": "s3",
+      "slug": "house-resolution",
+      "title": "House of Representatives Resolution",
+      "text": "The House of Representatives supports the urgent need to prevent, treat, and address obesity as a disease on this World Obesity Day. The House recognizes the need to classify obesity as a disease to reduce the risk of other diseases and related health problems. The House understands that genes, environment, behavior, and social factors that affect health all contribute to obesity. The House encourages health care providers and researchers to develop strategies based on scientific evidence for preventing, diagnosing, and treating obesity.",
+      "word_offset": 504,
+      "char_offset": 3149
+    }
+  ]
+}

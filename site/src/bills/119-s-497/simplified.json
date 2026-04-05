@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-497",
+  "title": "FENCE Act",
+  "short_title": "FENCE Act",
+  "congress": 119,
+  "bill_number": "S.497",
+  "introduced_date": "2025-02-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "761e7513f208dd76",
+  "last_updated": "2026-04-05T03:12:04.650834+00:00",
+  "plain_summary": "The FENCE Act is a new law that changes tax rules for nonprofit organizations. These organizations do not usually have to pay taxes to the government. Under this new law, if a nonprofit organization regularly helps people who are in the United States illegally, and they know these people do not have permission to be here, the organization will lose its special tax-free status. This means the organization would then have to start paying taxes like other businesses do.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-10",
+  "last_action_date": "2025-02-10",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Hagerty, Bill [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "nonprofit tax exempt status",
+    "illegal immigration assistance",
+    "tax free organizations",
+    "helping undocumented immigrants",
+    "charity tax benefits",
+    "immigration services nonprofits",
+    "tax exempt rules",
+    "undocumented persons aid",
+    "nonprofit tax penalties",
+    "immigration help organizations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Fixing Exemptions for Networks Choosing to Enable Illegal Migration Act or the FENCE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-organizations-harboring-aliens-unlawfully-present-in-the-united-states",
+      "title": "Section 2 Organizations Harboring Aliens Unlawfully Present in the United States",
+      "text": "This section changes the tax code rules for organizations that do not have to pay taxes. These are called five zero one c three organizations. To keep their tax-free status, these organizations must follow certain rules. This law adds a new rule. Organizations cannot regularly help people who are in the United States without legal permission if the organization knows or should reasonably know these people do not have legal permission to be here. This includes giving money, benefits, services, or other material help to these people. However, this rule does not require organizations to ask people to prove they are citizens or check their immigration papers. Religious organizations do not have to act against their religious beliefs because of this rule. These changes start on the day this law is signed.",
+      "word_offset": 20,
+      "char_offset": 117
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-hr-1985",
+  "title": "Promoting Precision Agriculture Act",
+  "short_title": "Promoting Precision Agriculture Act",
+  "congress": 119,
+  "bill_number": "HR.1985",
+  "introduced_date": "2025-03-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ebbd7f6a7bbc7b38",
+  "last_updated": "2026-04-05T03:23:06.185715+00:00",
+  "plain_summary": "The Promoting Precision Agriculture Act requires the Department of Agriculture to create voluntary technology standards for precision agriculture within two years. Precision agriculture uses technology to help farmers manage their crops and livestock more precisely by tracking things like seeds, fertilizer, water, and chemicals to reduce waste and work more efficiently. The Agriculture Department will work with other government agencies and private companies to develop these standards so different farming technologies can work together better. The standards are meant to make it easier and cheaper for farmers to adopt new technology. The Government Accountability Office will regularly check to see if these standards are helping more farmers use precision agriculture.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-28",
+  "last_action_date": "2025-03-28",
+  "last_action_text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Davis, Donald G. [D-NC-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "NC",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "farming technology",
+    "agriculture standards",
+    "precision farming",
+    "farm equipment",
+    "farming efficiency",
+    "crop management technology",
+    "livestock technology",
+    "farming innovation",
+    "agricultural modernization",
+    "farm data standards"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Promoting Precision Agriculture Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2. Definitions",
+      "text": "In this law, these terms mean the following things. Advanced wireless communications technology means new technology that helps create mobile networks like 5G or better, next-generation Wi-Fi networks, or other future networks using different technologies. This includes networks that use licensed frequencies, shared frequencies, or unlicensed frequencies. Artificial intelligence has the same meaning as defined in section two hundred thirty-eight part g of the John S. McCain National Defense Authorization Act for Fiscal Year two thousand nineteen. Foreign adversary means any foreign government or foreign person who is not part of a government but has a long history of actions that seriously harm the national security of the United States or threaten the safety of American people. Precision agriculture means managing, tracking, or reducing the materials used to grow crops or raise livestock. These materials include seeds, animal feed, fertilizer, chemicals, water, time, and other supplies that the Secretary of Agriculture decides are important. This is done with very detailed location and timing information to work more efficiently, create less waste, and protect the environment. Precision agriculture equipment means any equipment or technology that directly helps reduce or improve the efficiency of materials used to grow crops or raise livestock. This includes global positioning system mapping, satellite or airplane pictures, devices that measure crop yields, soil mapping, sensors that collect information about crops, soil, and livestock, Internet of Things and technology that uses edge and cloud computing, data management software and advanced analysis tools, network connection products and solutions including public and private wireless networks, global positioning system guidance and auto-steer systems and autonomous fleets and other machine-to-machine operations, variable rate technology for applying materials like section control, and any other technology that the Secretary decides directly helps reduce or improve efficiency of materials used for crops or livestock. These materials may include seeds, animal feed, fertilizer, soil improvements, chemicals, water, time, fuel, and other supplies the Secretary decides are appropriate. Secretary means the Secretary of Agriculture. Trusted means that when it comes to a company that provides advanced communications services or supplies communications equipment or services, the Secretary has decided that the company is not owned by, controlled by, or influenced by a foreign adversary. Voluntary consensus standards development organization means an organization that creates standards using a process that follows the principles for developing voluntary consensus standards as defined in the Office of Management and Budget document called Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities.",
+      "word_offset": 10,
+      "char_offset": 64
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-purposes",
+      "title": "Section 3. Purposes",
+      "text": "The goals of this law are to increase the use of precision agriculture in the United States and to promote United States leadership in voluntary consensus standards development organizations that create standards for precision agriculture.",
+      "word_offset": 426,
+      "char_offset": 3018
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-interconnectivity-standards-for-precision-agriculture",
+      "title": "Section 4. Interconnectivity Standards for Precision Agriculture",
+      "text": "Within two years after this law is passed, the Secretary of Agriculture must work with the Director of the National Institute of Standards and Technology and the Federal Communications Commission to develop voluntary, consensus-based, private sector-led interconnectivity standards, guidelines, and best practices for precision agriculture. These standards will promote economies of scale (making things cheaper when done in large quantities) and make it easier to adopt precision agriculture. When doing this work, the Secretary must coordinate with relevant public and trusted private sector stakeholders and other relevant industry organizations, including voluntary consensus standards development organizations. The Secretary must also consult with sector-specific agencies, other appropriate agencies, and state and local governments. When carrying out this work, the Secretary must work with the Federal Communications Commission and the Director of the National Institute of Standards and Technology to consider the changing needs of precision agriculture, the connectivity needs of precision agriculture equipment, the cybersecurity challenges facing precision agriculture including cybersecurity threats for agriculture producers and agriculture supply chains, how advanced wireless communications technology affects precision agriculture, and how artificial intelligence affects precision agriculture.",
+      "word_offset": 461,
+      "char_offset": 3258
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-gao-assessment-of-precision-agriculture-standards",
+      "title": "Section 5. GAO Assessment of Precision Agriculture Standards",
+      "text": "Within one year after the Secretary develops standards under section four, and then every two years after that for the following eight years, the Comptroller General of the United States must conduct a study that examines those standards. The study must look at whether the standards are voluntary, whether they were developed in coordination with relevant industry organizations including voluntary consensus standards development organizations, and whether they have successfully encouraged the adoption of precision agriculture. The Comptroller General of the United States must submit a report that summarizes the findings of each study to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate.",
+      "word_offset": 643,
+      "char_offset": 4671
+    }
+  ]
+}

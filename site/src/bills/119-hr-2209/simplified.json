@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2209",
+  "title": "Saving NIST’s Workforce Act",
+  "short_title": "Saving NIST’s Workforce Act",
+  "congress": 119,
+  "bill_number": "HR.2209",
+  "introduced_date": "2025-03-18",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "f75da1ceda89697d",
+  "last_updated": "2026-04-05T03:03:38.316789+00:00",
+  "plain_summary": "The Saving NIST's Workforce Act protects workers at the National Institute of Standards and Technology from losing their jobs. The bill stops NIST from laying off employees or making them quit until Congress approves a full budget for 2026. The only time NIST can still fire workers is if they do something wrong or do not do their job well. This law helps keep NIST workers safe from losing their jobs while Congress works on the budget.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-18",
+  "last_action_date": "2025-03-18",
+  "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Lofgren, Zoe [D-CA-18]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 18,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "NIST jobs",
+    "government workers protection",
+    "federal employee layoffs",
+    "budget delays",
+    "job security",
+    "government shutdown",
+    "federal workforce",
+    "employee protection",
+    "government layoffs",
+    "federal jobs safe"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Saving NIST's Workforce Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reduction-in-force-moratorium-at-national-institute-of-standards-and-technology",
+      "title": "Section 2 Reduction in Force Moratorium at National Institute of Standards and Technology",
+      "text": "The National Institute of Standards and Technology cannot lay off workers or force employees to leave their jobs until Congress passes a full year budget for the agency for the year twenty twenty six. During this time, NIST cannot start any layoffs or make any employee leave their job against their will. The only exception is if an employee is fired for doing something wrong, not doing their job properly, or being inefficient at work. This rule applies to all types of federal employees at NIST, including those in the competitive service (jobs filled through open competition), excepted service (special jobs that do not require competitive hiring), and senior executives. These terms have the same meanings as defined in federal employment law. This rule adds extra protection for workers on top of other existing job protection laws.",
+      "word_offset": 10,
+      "char_offset": 56
+    }
+  ]
+}

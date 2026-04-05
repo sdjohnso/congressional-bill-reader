@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2523",
+  "title": "State-Level DOGE Establishment Act",
+  "short_title": "State-Level DOGE Establishment Act",
+  "congress": 119,
+  "bill_number": "HR.2523",
+  "introduced_date": "2025-03-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "f923c1da3066ab27",
+  "last_updated": "2026-04-05T03:43:51.219998+00:00",
+  "plain_summary": "This bill says that starting in 2026, every state must create a special office to watch how they spend money from the federal government. If a state does not create this office, they will lose most of their federal funding, except for money used for defense, homeland security, veterans, and international affairs. These state offices must look for waste and fraud in government spending and write a yearly report with ideas on how to spend federal money better. The report must be shared with the federal government and posted on the state's website for everyone to see.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-31",
+  "last_action_date": "2025-03-31",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "state government spending",
+    "federal money oversight",
+    "government waste watchdog",
+    "state budget monitoring",
+    "federal funding requirements",
+    "government fraud prevention",
+    "state accountability office",
+    "federal money tracking",
+    "government spending reports",
+    "state financial oversight"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the State-Level Departments of Government Efficiency Establishment Act or the State-Level DOGE Establishment Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-condition-on-federal-funding-to-states",
+      "title": "Section 2  Condition on Federal Funding to States",
+      "text": "Starting in fiscal year two thousand twenty-six and every year after that, states will not receive certain federal money unless they create a special government office. This rule applies to discretionary appropriations (money that Congress chooses to give each year), but it does not apply to security spending like defense and homeland security money. Each state must create and keep running a department, agency, or commission of government efficiency. This office will check how well the state uses federal money and work to stop waste, fraud, and abuse of taxpayer money. The office must have at least ten members but no more than twenty members. The office must have an equal number of members from the majority party and minority party in the state legislature. The office must publish a report every year on the state's public website and send it to the Department of Government Efficiency in the President's office. This report must explain the office's work to check how the state uses federal money and stop waste, fraud, and abuse. The report must also give suggestions for laws and operations to make federal spending more efficient. In this section, the word State means each of the fifty states, the District of Columbia, and each territory of the United States.",
+      "word_offset": 19,
+      "char_offset": 137
+    }
+  ]
+}

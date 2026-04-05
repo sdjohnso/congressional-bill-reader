@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-936",
+  "title": "Medicaid Improvement and State Flexibility Act of 2025",
+  "short_title": "Medicaid Improvement and State Flexibility Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.936",
+  "introduced_date": "2025-02-04",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ccd242e9ea69071f",
+  "last_updated": "2026-04-05T04:47:25.945568+00:00",
+  "plain_summary": "This bill lets states create new Medicaid programs where patients can choose to get a special debit card instead of regular Medicaid coverage. The card has money on it that patients can use to pay for basic doctor visits and health care. At the end of the year, patients get to keep any money left on their card as cash. Patients who choose this option must also get insurance that covers very expensive medical emergencies. States can start these programs on their own without asking the federal government for permission first.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-04",
+  "last_action_date": "2025-02-04",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Health care costs and insurance",
+    "Health care coverage and access",
+    "Medicaid",
+    "State and local finance",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Rep. Green, Mark E. [R-TN-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "medicaid debit card",
+    "healthcare savings account",
+    "medicaid cash back",
+    "medicaid money left over",
+    "choose your own medicaid",
+    "medicaid flexibility",
+    "state medicaid options",
+    "medicaid prepaid card",
+    "healthcare spending card",
+    "medicaid reform",
+    "medicaid choice program"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Medicaid Improvement and State Flexibility Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-providing-for-state-approval-and-implementation-of-specified-waivers-under-the-medicaid-program",
+      "title": "Section 2  Providing for State Approval and Implementation of Specified Waivers Under the Medicaid Program",
+      "text": "This section changes the Social Security Act to let states approve their own special Medicaid programs without waiting for federal approval. States can create experimental programs where Medicaid patients can choose to get a special debit card instead of regular Medicaid benefits. The debit card would have money on it that people can use to buy primary care doctor visits and prescription medicines. At the end of the year, if there is money left on the card, the person gets that money as cash. The state must also provide catastrophic insurance which is insurance that covers very expensive medical care or medical care that is not covered by the debit card money. The state can only do this if it costs the federal government the same amount or less money than regular Medicaid would cost. The debit card money and catastrophic insurance cannot be used to pay for abortions unless the abortion is needed to save the mother's life or if the pregnancy happened because of rape or incest. For these special state programs, the state has the power to approve them instead of waiting for the federal Secretary of Health and Human Services to approve them.",
+      "word_offset": 16,
+      "char_offset": 97
+    }
+  ]
+}

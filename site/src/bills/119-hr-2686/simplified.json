@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2686",
+  "title": "University Accountability Act",
+  "short_title": "University Accountability Act",
+  "congress": 119,
+  "bill_number": "HR.2686",
+  "introduced_date": "2025-04-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "3c8f4b33139e06d9",
+  "last_updated": "2026-04-05T04:03:32.588606+00:00",
+  "plain_summary": "This bill creates new punishments for colleges and universities that break civil rights laws. If a federal court finds that a school violated Title Six of the Civil Rights Act, the school must pay at least one hundred thousand dollars as a penalty. Schools that break these laws multiple times could lose their special tax benefits that help them save money. The goal is to make sure colleges follow civil rights rules by giving them serious consequences when they don't.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-07",
+  "last_action_date": "2025-04-07",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "college discrimination penalties",
+    "university civil rights violations",
+    "school punishment fines",
+    "college tax benefits removal",
+    "university accountability consequences",
+    "campus civil rights enforcement",
+    "college federal funding loss",
+    "university discrimination fines",
+    "school civil rights compliance",
+    "college penalty enforcement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the University Accountability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-penalties-with-respect-to-civil-rights-violations-by-certain-tax-exempt-educational-institutions",
+      "title": "Section 2  Penalties With Respect To Civil Rights Violations By Certain Tax-Exempt Educational Institutions",
+      "text": "This section creates new rules for colleges and universities that do not pay taxes. The rules apply when these schools break civil rights laws. The government will now charge these schools money when a federal court says they violated Title Six of the Civil Rights Act of nineteen sixty four. Title Six is the law that says schools cannot treat people differently because of their race, color, or national origin. The penalty amount is either one hundred thousand dollars or five percent of the money the school paid to its top administrators during the year the violation happened, whichever is more. If a school gets caught violating civil rights laws three or more times, the government must review whether that school should still be allowed to avoid paying taxes. Schools must also report these violations on their tax forms. They must describe what happened, when it happened, and how many times they have been found guilty of civil rights violations. State colleges and universities that normally do not file tax returns must file special returns when they have civil rights violations. If a court later says the school did not actually violate civil rights laws, the government will give back the penalty money. These new rules only apply to court decisions made after this law goes into effect.",
+      "word_offset": 9,
+      "char_offset": 58
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-1374",
+  "title": "Securing the Cities Improvement Act",
+  "short_title": "Securing the Cities Improvement Act",
+  "congress": 119,
+  "bill_number": "HR.1374",
+  "introduced_date": "2025-02-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e089ede66b0beaec",
+  "last_updated": "2026-04-05T05:17:32.200782+00:00",
+  "plain_summary": "This bill changes a government program called Securing the Cities that helps local areas get ready for and respond to dangerous nuclear materials that terrorists might use. Right now, only certain high-risk cities chosen by another government agency can join the program, but this bill lets the Department of Homeland Security pick which areas can participate based on how well they can handle these threats. The bill also requires the government to create ways to measure how well the program is working and keep track of its success. Within two years, the Department of Homeland Security must write a report to Congress about how the program is doing and any plans to change it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-11",
+  "last_action_date": "2025-03-11",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [
+    "Congressional oversight",
+    "Department of Homeland Security",
+    "Homeland security",
+    "Nuclear weapons",
+    "Performance measurement",
+    "Terrorism"
+  ],
+  "sponsor_name": "Rep. Carter, Troy A. [D-LA-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "LA",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "nuclear terrorism protection",
+    "city security funding",
+    "radioactive materials defense",
+    "homeland security grants",
+    "nuclear threat preparedness",
+    "terrorist attack prevention",
+    "local emergency response",
+    "nuclear detection programs",
+    "city safety measures",
+    "disaster preparedness funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Securing the Cities Improvement Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-stc-program-eligibility-metrics-and-congressional-oversight",
+      "title": "Section 2 STC Program Eligibility, Metrics, and Congressional Oversight",
+      "text": "This section changes an existing law called the Homeland Security Act of two thousand and two. The changes update a program called STC (Securing the Cities program). First, the law removes the requirement that only high-risk urban areas can participate. Instead, it allows any local government areas chosen under a different part of the law to participate. Second, the law requires the government to create ways to measure how well the STC program is working. The government must set goals and deadlines for the program. It must also watch how money is spent and check whether the program is meeting its goals. Third, the law changes how local government areas get chosen for the program. Instead of picking only from a list of high-risk urban areas, the government will choose based on how ready and able each area is to handle emergencies. The government will also consider how likely each area is to face terrorist attacks or other serious events involving nuclear materials or other dangerous radioactive materials. Finally, the law requires the Secretary of Homeland Security to write a report within two years. This report must go to two committees in Congress. The report must explain who is participating in the STC program, what goals and deadlines have been set, how well the program is meeting those goals, and any planned changes to the program.",
+      "word_offset": 11,
+      "char_offset": 64
+    }
+  ]
+}

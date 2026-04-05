@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hr-1064",
+  "title": "Stopping Overdoses of Fentanyl Analogues Act",
+  "short_title": "Stopping Overdoses of Fentanyl Analogues Act",
+  "congress": 119,
+  "bill_number": "HR.1064",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "4ec69a424b83804d",
+  "last_updated": "2026-04-05T03:56:20.205011+00:00",
+  "plain_summary": "This bill makes fentanyl-related drugs permanently illegal at the highest level. Right now, these dangerous drugs are only temporarily banned until March 2025. The bill puts these fentanyl drugs on the same list as other very dangerous drugs that have no medical use and cause serious harm. People who make, sell, or use these drugs will face the same tough punishments as other illegal fentanyl drugs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such p",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Criminal procedure and sentencing",
+    "Drug trafficking and controlled substances"
+  ],
+  "sponsor_name": "Rep. Fitzgerald, Scott [R-WI-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "fentanyl ban",
+    "drug overdose prevention",
+    "illegal drugs",
+    "fentanyl analogues",
+    "synthetic opioids",
+    "drug trafficking penalties",
+    "opioid crisis",
+    "controlled substances",
+    "drug enforcement",
+    "fentanyl permanently illegal"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Stopping Overdoses of Fentanyl Analogues Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-archie-badura-memorial-fentanyl-related-substance-scheduling",
+      "title": "Section 2 Archie Badura Memorial Fentanyl Related Substance Scheduling",
+      "text": "This section changes the Controlled Substances Act by adding fentanyl-related substances to schedule one. Schedule one is the list of the most dangerous illegal drugs. Any material, mixture, or preparation that contains any amount of fentanyl-related substances will be added to this list. This includes their salts, isomers, and salts of isomers when these chemical forms can exist. Fentanyl-related substances means any substance that is chemically similar to fentanyl in specific ways. These ways include changing the phenyl portion of the phenethyl group with any single ring structure. It also includes adding alkyl, alkenyl, alkoxy, hydroxy, halo, haloalkyl, amino or nitro chemical groups to the phenethyl group. It includes adding these same chemical groups to the piperidine ring. It includes replacing the aniline ring with any aromatic single ring structure. Finally, it includes replacing the N-propionyl group with another acyl group.",
+      "word_offset": 12,
+      "char_offset": 73
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-penalties",
+      "title": "Section 3 Penalties",
+      "text": "Any fentanyl-related substance will be treated the same as an analogue of N-phenyl-N-one-two-phenylethyl-four-piperidinyl propanamide under federal drug laws. An analogue is a substance that is chemically similar to another drug. This means prosecutors will not need to prove that a fentanyl-related substance meets the legal definition of a controlled substance analogue. The same penalties that apply to similar fentanyl substances will automatically apply to these fentanyl-related substances.",
+      "word_offset": 153,
+      "char_offset": 1021
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-effective-date",
+      "title": "Section 4 Effective Date",
+      "text": "This law will take effect one day after it is signed into law.",
+      "word_offset": 220,
+      "char_offset": 1518
+    }
+  ]
+}

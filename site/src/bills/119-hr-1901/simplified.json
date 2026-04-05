@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-hr-1901",
+  "title": "CHIPP Act",
+  "short_title": "CHIPP Act",
+  "congress": 119,
+  "bill_number": "HR.1901",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b17a87ec955f68da",
+  "last_updated": "2026-04-05T03:08:12.184236+00:00",
+  "plain_summary": "The CHIPP Act makes the Children's Health Insurance Program permanent so Congress doesn't have to vote to extend it every few years. This program helps families pay for their children's health care when they make too much money for Medicaid but not enough to easily afford private insurance. The bill also makes other children's health programs permanent and lets states cover more children from families that earn higher incomes. It also makes it easier for states to sign up children by using information from other programs like food assistance.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Barragán, Nanette Diaz [D-CA-44]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 28,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "children's health insurance",
+    "kids health coverage",
+    "CHIP program",
+    "permanent health insurance",
+    "medicaid for kids",
+    "affordable children's healthcare",
+    "family health insurance",
+    "low income health coverage",
+    "children's medical insurance",
+    "health insurance for families",
+    "kids healthcare help",
+    "state health programs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Children's Health Insurance Program Permanency Act or the CHIPP Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-permanent-extension-of-children's-health-insurance-program",
+      "title": "Section 2  Permanent Extension of Children's Health Insurance Program",
+      "text": "This section changes the law to make the Children's Health Insurance Program permanent. Currently, Congress has to keep voting to extend funding for this program every few years. This change means that starting in fiscal year two thousand twenty nine and every year after that, the government will automatically provide whatever money is needed to fund the program. The section also removes several temporary rules and deadlines that were set to expire, so the program can continue without interruption. It removes a conflicting rule from an older budget law from two thousand eighteen.",
+      "word_offset": 16,
+      "char_offset": 96
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-permanent-extensions-of-other-programs-and-demonstration-projects",
+      "title": "Section 3  Permanent Extensions of Other Programs and Demonstration Projects",
+      "text": "This section makes several smaller health programs permanent too. The Pediatric Quality Measures Program will get fifteen million dollars in fiscal year two thousand thirty, and then the amount will increase each year based on inflation. The Express Lane Eligibility Option, which helps states quickly enroll eligible children, will continue permanently. The rules that help make health insurance affordable for children and families will continue with no end date instead of expiring in September two thousand twenty nine. States will be able to use special funding options for children's health programs permanently instead of only until fiscal year two thousand twenty nine. The Outreach and Enrollment Program, which helps find and sign up eligible children, will continue permanently. It will get twelve million dollars in fiscal year two thousand thirty, with increases for inflation each year after that. The Child Enrollment Contingency Fund, which provides extra money when more children need coverage than expected, will also continue permanently.",
+      "word_offset": 109,
+      "char_offset": 683
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-state-option-to-increase-children's-eligibility-for-medicaid-and-chip",
+      "title": "Section 4  State Option to Increase Children's Eligibility for Medicaid and CHIP",
+      "text": "This section gives states a new choice. States can decide to cover children whose families earn more money than the current income limits allow. This means states could help more children get health insurance through Medicaid or the Children's Health Insurance Program, even if their families make too much money under the old rules.",
+      "word_offset": 267,
+      "char_offset": 1741
+    }
+  ]
+}

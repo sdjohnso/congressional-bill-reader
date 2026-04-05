@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-2652",
+  "title": "Bring Entrepreneurial Advancements To Consumers Here In North America Act",
+  "short_title": "Bring Entrepreneurial Advancements To Consumers Here In North America Act",
+  "congress": 119,
+  "bill_number": "HR.2652",
+  "introduced_date": "2025-04-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "73caa7ce35b22dbc",
+  "last_updated": "2026-04-05T03:17:10.329171+00:00",
+  "plain_summary": "This bill helps companies move their factories from other countries to the United States by giving them tax breaks. Companies can save money on taxes when they buy new equipment and build factories in America. They can also avoid paying taxes on money they make from selling their old factories in foreign countries. The goal is to encourage more businesses to make their products in the United States instead of overseas.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-03",
+  "last_action_date": "2025-04-03",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Roy, Chip [R-TX-21]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "factories moving to america",
+    "companies leaving china",
+    "manufacturing jobs",
+    "tax breaks for businesses",
+    "bringing jobs back",
+    "american made products",
+    "factory incentives",
+    "overseas manufacturing",
+    "reshoring",
+    "business tax cuts",
+    "moving production to usa"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Bring Entrepreneurial Advancements To Consumers Here In North America Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-tax-incentives-for-relocating-manufacturing-to-the-united-states",
+      "title": "Section 2 Tax Incentives for Relocating Manufacturing to the United States",
+      "text": "This section changes tax rules to help companies that move their manufacturing from other countries to the United States. Companies can get special tax benefits in two main ways. First, they can write off the cost of factory buildings much faster than normal. Usually companies have to spread building costs over many years for tax purposes, but these companies can treat their buildings as if they only last twenty years instead of much longer. This means bigger tax deductions each year. Second, when companies sell property in foreign countries as part of moving their manufacturing to America, they do not have to pay taxes on any profit from those sales. To qualify for these benefits, companies must actually move production of the same products they made overseas to the United States. They must produce at least as many units in America as they stop making in the foreign country. The law defines a qualified manufacturer as any person in the business of making physical products. These tax benefits apply to property put into use after this law passes and to sales made after this law passes. The term United States includes territories and possessions like Puerto Rico and Guam.",
+      "word_offset": 16,
+      "char_offset": 102
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-permanent-full-expensing-for-qualified-property",
+      "title": "Section 3 Permanent Full Expensing for Qualified Property",
+      "text": "This section makes permanent a tax rule that lets businesses immediately deduct the full cost of certain equipment and property in the year they buy it, instead of spreading the deduction over many years. Currently this rule was set to expire or be reduced in future years, but this law makes it permanent at one hundred percent. This means businesses can deduct the complete cost of qualifying equipment, machinery, and other business property right away when they put it into service. The law also makes technical changes to remove references to old expiration dates and phase-out rules since the benefit is now permanent. These changes take effect as if they were part of the original tax reform law that created this rule in two thousand seventeen.",
+      "word_offset": 215,
+      "char_offset": 1291
+    }
+  ]
+}

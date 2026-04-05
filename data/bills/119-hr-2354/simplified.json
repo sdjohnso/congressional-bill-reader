@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2354",
+  "title": "Restoring Temporary to TANF Act",
+  "short_title": "Restoring Temporary to TANF Act",
+  "congress": 119,
+  "bill_number": "HR.2354",
+  "introduced_date": "2025-03-26",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c95e68cc45690c23",
+  "last_updated": "2026-04-05T04:58:00.983204+00:00",
+  "plain_summary": "This bill changes the rules for how states must spend their TANF welfare money. Starting in October 2026, states will have to spend at least 25 percent of their TANF grant money on work-related activities. These activities include things like job training, education programs, and helping people find jobs. The goal is to make sure more welfare money goes toward helping people get ready for work and find employment.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-26",
+  "last_action_date": "2025-03-26",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [],
+  "sponsor_name": "Rep. Moore, Blake D. [R-UT-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "welfare reform",
+    "TANF spending rules",
+    "job training requirements",
+    "work programs",
+    "welfare to work",
+    "state welfare money",
+    "employment assistance",
+    "job readiness programs",
+    "welfare work activities",
+    "temporary assistance families",
+    "welfare funding changes",
+    "work preparation programs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Restoring Temporary to TANF Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-set-aside-of-funds-for-core-work-purposes",
+      "title": "Section 2  Set-Aside of Funds for Core Work Purposes",
+      "text": "This section changes the rules for how states can spend TANF money. TANF stands for Temporary Assistance for Needy Families, which is a government program that gives money to states to help poor families with children. Starting on October first, two thousand twenty-six, states must spend at least twenty-five percent of their TANF grant money on specific work-related activities. These activities include helping people find jobs, providing education and training programs, creating apprenticeships where people learn job skills, giving short-term emergency help, organizing work activities, and providing case management services. Case management means having workers help people create individual responsibility plans, which are written agreements about what steps a person will take to become more self-sufficient.",
+      "word_offset": 11,
+      "char_offset": 60
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1541",
+  "title": "Wireless Broadband Competition and Efficient Deployment Act",
+  "short_title": "Wireless Broadband Competition and Efficient Deployment Act",
+  "congress": 119,
+  "bill_number": "HR.1541",
+  "introduced_date": "2025-02-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9b4b388c540e51a6",
+  "last_updated": "2026-04-05T03:30:20.350925+00:00",
+  "plain_summary": "This bill makes it easier for wireless companies to add new equipment to cell towers or change existing wireless equipment. When companies want to mount new antennas or devices on towers that already exist, or modify equipment that is already there, they would not have to go through certain federal reviews about the environment and historical sites. The bill only applies to projects that need approval from the Federal Communications Commission. The goal is to help wireless companies expand their networks faster by skipping some of the usual government review steps.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-24",
+  "last_action_date": "2025-02-24",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of su",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Rulli, Michael A. [R-OH-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "cell tower",
+    "wireless internet",
+    "broadband expansion",
+    "cell phone service",
+    "wireless equipment",
+    "antenna installation",
+    "telecommunications infrastructure",
+    "mobile network",
+    "5G deployment",
+    "wireless carriers",
+    "cell tower permits",
+    "broadband access"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Wireless Broadband Competition and Efficient Deployment Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-application-of-nepa-and-nhpa-to-collocation-of-certain-personal-wireless-service-facilities",
+      "title": "Section 2  Application of NEPA and NHPA to Collocation of Certain Personal Wireless Service Facilities",
+      "text": "When companies want to add wireless equipment to existing cell towers or modify existing wireless equipment, they do not have to complete certain federal reviews. First, these projects do not count as major federal actions under the National Environmental Policy Act of nineteen sixty nine. This means they do not need environmental impact studies. Second, these projects do not count as undertakings under the National Historic Preservation Act. This means they do not need historical preservation reviews. These rules only apply to covered projects, which means projects that involve mounting new wireless equipment on existing towers or modifying existing wireless equipment, and that need approval from the Federal Communications Commission. The wireless equipment includes antennas, transmitters, and related equipment like wiring, power sources, and cabinets used to provide personal wireless services like cell phone service and mobile data. Federal authorization means any permit, license, or approval required by federal law for these projects. Indian Tribe means federally recognized Indian tribes as defined by federal law. Personal wireless services means cell phone service and mobile data service as defined in federal communications law. State means all fifty states, the District of Columbia, and all US territories and possessions.",
+      "word_offset": 13,
+      "char_offset": 88
+    }
+  ]
+}

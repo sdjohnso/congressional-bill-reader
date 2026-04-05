@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1760",
+  "title": "USPS Act",
+  "short_title": "USPS Act",
+  "congress": 119,
+  "bill_number": "HR.1760",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ed31f17fd58e47cc",
+  "last_updated": "2026-04-05T03:22:30.108149+00:00",
+  "plain_summary": "The USPS Act requires the government's main auditor to study mail theft and postal service problems across the country. The auditor must do this study every year for five years. After each study, the auditor will write a report with ideas on how to fix the problems. These reports will be sent to Congress to help them make decisions about protecting mail and postal property better.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-27",
+  "last_action_date": "2025-02-27",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Weber, Randy K. Sr. [R-TX-14]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "mail theft",
+    "stolen mail",
+    "postal service problems",
+    "post office issues",
+    "mail delivery problems",
+    "package theft",
+    "mail security",
+    "post office audit",
+    "USPS problems",
+    "mail system fixes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Upholding a Secure Postal System Act or the USPS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reports-on-mail-and-postal-service-property-theft",
+      "title": "Section 2 Reports on Mail and Postal Service Property Theft",
+      "text": "Starting one year after this law takes effect and then every year for five years after that, the Comptroller General of the United States (the government's main auditor) must study mail theft problems across the country. The Comptroller General must look into stolen mail, delayed mail, postal worker rule breaking that the postal service inspector general investigates, other crimes or civil violations that the Postal Inspection Service handles, and theft or damage to postal service property like mailboxes and trucks. After each study, the Comptroller General must write a report and send it to two congressional committees. These committees are the House Committee on Oversight and Government Reform and the Senate Committee on Homeland Security and Governmental Affairs. Each report must describe what steps the postal service is already taking to fix these problems and give suggestions for how the postal service and Congress can better fight these violations. When doing this work, the Comptroller General must talk with the postal service inspector general and the Postal Inspection Service to get their input.",
+      "word_offset": 16,
+      "char_offset": 81
+    }
+  ]
+}

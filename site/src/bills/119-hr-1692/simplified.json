@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-1692",
+  "title": "PATHS Act",
+  "short_title": "PATHS Act",
+  "congress": 119,
+  "bill_number": "HR.1692",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "33ab61840f6cdb84",
+  "last_updated": "2026-04-05T03:02:52.354343+00:00",
+  "plain_summary": "The PATHS Act lets the Department of Homeland Security use a special type of contract that has fewer rules than normal contracts. This special contracting program will continue until 2028 and helps DHS work on research and new technology projects. If DHS uses these contracts for artificial intelligence projects, they must tell Congress within three days. The bill also says DHS must report smaller contracts on their website, lowering the limit from four million dollars to one million dollars.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-12",
+  "last_action_date": "2025-03-12",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Advanced technology and technological innovations",
+    "Computers and information technology",
+    "Internet, web applications, social media",
+    "Public contracts and procurement",
+    "Research and development"
+  ],
+  "sponsor_name": "Rep. Guest, Michael [R-MS-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "MS",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "homeland security contracts",
+    "government contracting rules",
+    "DHS research projects",
+    "artificial intelligence reporting",
+    "technology development funding",
+    "federal contract limits",
+    "government AI projects",
+    "research and development contracts",
+    "homeland security technology",
+    "contract reporting requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Producing Advanced Technologies for Homeland Security Act or the PATHS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-research-and-development-acquisition-pilot-program-extension",
+      "title": "Section 2 Research and Development Acquisition Pilot Program Extension",
+      "text": "This section changes an existing law about how the Department of Homeland Security can buy research and development services. The changes extend a special program that allows the department to make contracts in different ways than usual. This program was supposed to end on September thirtieth two thousand twenty four, but now it will continue until September thirtieth two thousand twenty eight. The section also adds a new rule about artificial intelligence contracts. When the Secretary of Homeland Security uses this special contracting method for artificial intelligence technology, they must tell certain committees in Congress within seventy two hours. They must notify the Appropriations Committee and Homeland Security Committee in both the House of Representatives and the Senate, and they must offer to brief these committees about why they used this special contracting method. The section also changes another rule about contract amounts. It reduces the dollar limit for certain covered contracts from four million dollars to one million dollars.",
+      "word_offset": 17,
+      "char_offset": 103
+    }
+  ]
+}

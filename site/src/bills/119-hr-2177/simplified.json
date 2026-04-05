@@ -1,0 +1,155 @@
+{
+  "bill_id": "119-hr-2177",
+  "title": "Tradeable Energy Performance Standards Act",
+  "short_title": "Tradeable Energy Performance Standards Act",
+  "congress": 119,
+  "bill_number": "HR.2177",
+  "introduced_date": "2025-03-18",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "f4394d2a072c0a14",
+  "last_updated": "2026-04-05T03:36:22.503372+00:00",
+  "plain_summary": "This bill creates a new system to reduce pollution from power plants and other big facilities that make electricity or heat. These facilities must get special permits called emission allowances for every ton of carbon pollution they release into the air. The government will give out fewer free permits over time to encourage companies to use cleaner energy. Companies can buy and sell these permits to each other or pay money instead of using permits. The goal is to help reduce harmful pollution while giving companies different ways to meet the requirements.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-18",
+  "last_action_date": "2025-03-18",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Casten, Sean [D-IL-6]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "carbon pollution permits",
+    "power plant emissions trading",
+    "cap and trade system",
+    "pollution allowances buying selling",
+    "clean energy requirements",
+    "electricity carbon limits",
+    "greenhouse gas permits",
+    "power company pollution rules",
+    "carbon credit trading",
+    "emission reduction standards",
+    "climate change electricity policy"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Tradeable Energy Performance Standards Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-establishing-tradeable-energy-performance-standards",
+      "title": "Section 2 Establishing Tradeable Energy Performance Standards",
+      "text": "This section adds a new Title Seven to the Clean Air Act. This new title creates a system where large electricity generators and thermal energy users must follow emission standards and can trade emission allowances with each other. The new title includes twelve sections that cover definitions, allowance requirements, distribution rules, trading rules, purchase agreements, voluntary participation, tracking systems, offset programs, penalties, reports, regulations, and savings provisions.",
+      "word_offset": 11,
+      "char_offset": 71
+    },
+    {
+      "id": "s3",
+      "slug": "section-701-definitions",
+      "title": "Section 701 Definitions",
+      "text": "This section defines twenty-two important terms used in this law. An Alternative Compliance Payment is money paid instead of submitting an emission allowance. A bilateral purchase agreement is a contract lasting at least ten years between an old facility and a new low-emission facility where the old facility buys emission allowances from the new facility. Covered facilities include electric facilities that produce electricity with a capacity of two megawatts or greater, thermal facilities that produce heat with a capacity of at least fifty million British thermal units per hour, and cogeneration facilities that produce both electricity and heat. An emission allowance is permission to emit one metric ton of carbon dioxide. The definitions also include technical terms like higher heating value basis, output-based carbon dioxide emissions, and social cost of carbon. These terms help explain how the emission trading system works and how facilities are measured and regulated.",
+      "word_offset": 78,
+      "char_offset": 563
+    },
+    {
+      "id": "s4",
+      "slug": "section-702-emission-allowance-submission-requirement",
+      "title": "Section 702 Emission Allowance Submission Requirement",
+      "text": "Starting in calendar year two thousand twenty-eight, owners of covered facilities must submit one emission allowance for each metric ton of carbon dioxide their facility released into the air during the previous year. They must do this by June first each year. Facility owners can get emission allowances by receiving them from the government or by buying, exchanging, or trading them with other facilities. An emission allowance can only be used for the year it was given out or the following year. Any partial emission allowances are rounded to the nearest whole number.",
+      "word_offset": 226,
+      "char_offset": 1549
+    },
+    {
+      "id": "s5",
+      "slug": "section-703-emission-allowance-distribution",
+      "title": "Section 703 Emission Allowance Distribution",
+      "text": "From calendar years two thousand twenty-eight through two thousand forty-eight, the government will give out emission allowances to covered facilities by March first each year. Electric facilities get allowances based on how many megawatt-hours of electricity they produced the previous year multiplied by an emission target number. Thermal facilities get allowances based on how many millions of British thermal units of heat they produced multiplied by an emission target number. Facilities that produce both electricity and heat get allowances for both. The emission target starts at the baseline level in two thousand twenty-eight and gets stricter each year by five percent of the baseline. The government assigns each allowance a unique number and requires facilities to have a designated representative. Instead of submitting allowances, facility owners can make Alternative Compliance Payments that start at fifty dollars in two thousand twenty-eight and increase each year, reaching the social cost of carbon by two thousand forty-eight.",
+      "word_offset": 319,
+      "char_offset": 2122
+    },
+    {
+      "id": "s6",
+      "slug": "section-704-trading-of-emission-allowances",
+      "title": "Section 704 Trading of Emission Allowances",
+      "text": "Entities that hold emission allowances can submit them to the government or sell, exchange, and transfer them to other entities. However, emission allowances are not property rights and the government can terminate or limit their use at any time. For any sale, exchange, transfer, or submission to be valid, it must be signed by the designated representative and recorded by the government according to regulations.",
+      "word_offset": 473,
+      "char_offset": 3169
+    },
+    {
+      "id": "s7",
+      "slug": "section-705-emission-allowance-bilateral-purchase-agreements",
+      "title": "Section 705 Emission Allowance Bilateral Purchase Agreements",
+      "text": "This section creates special rules for facilities that enter bilateral purchase agreements. When an old facility has an agreement with a new low-emission facility, both facilities get different numbers of emission allowances than normal. The government calculates how much electricity or heat is covered by the agreement and distributes allowances accordingly. For the electricity or heat covered by the agreement, both facilities get allowances based on the actual emissions from all similar facilities in the first year the new facility operates. For electricity or heat not covered by the agreement, they get the normal amount of allowances. To receive these special allowances, facility owners must provide the government with copies of their agreements and any changes to those agreements within thirty days.",
+      "word_offset": 538,
+      "char_offset": 3585
+    },
+    {
+      "id": "s8",
+      "slug": "section-706-voluntary-program-participation",
+      "title": "Section 706 Voluntary Program Participation",
+      "text": "Smaller facilities that normally would not be covered can voluntarily join this program. Electric facilities with less than two megawatts capacity, thermal facilities with less than fifty million British thermal units per hour capacity, and cogeneration facilities with less than two megawatts electric capacity can ask to be included. The government will approve requests if the facility owner designates a representative. The government must respond to requests within ninety days. If a facility stops producing electricity or heat for a full year, the government will remove it from the program.",
+      "word_offset": 660,
+      "char_offset": 4399
+    },
+    {
+      "id": "s9",
+      "slug": "section-707-emission-allowance-tracking-system",
+      "title": "Section 707 Emission Allowance Tracking System",
+      "text": "The government will create a system to track all emission allowances. This includes creating accounts where facilities can hold allowances and tracking all sales, exchanges, transfers, and submissions including prices, dates, and parties involved. The government will publish weekly summaries of allowance market information on its website including average prices, total transactions, and how many allowances each type of facility holds and submits. The government will set limits on how many allowances one entity can hold to prevent price manipulation and ensure fair trading. Once an allowance is submitted to the government, it cannot be used again.",
+      "word_offset": 750,
+      "char_offset": 4998
+    },
+    {
+      "id": "s10",
+      "slug": "section-708-offset-program",
+      "title": "Section 708 Offset Program",
+      "text": "The government will create a Carbon Mitigation Fund using money from Alternative Compliance Payments and penalties. This fund will pay for an Offset Program that gives grants to projects that avoid greenhouse gas emissions or permanently remove carbon dioxide from the atmosphere. Eligible activities include improving energy efficiency, upgrading the electrical grid, replacing gas appliances with electric ones, replacing gas vehicles with electric vehicles, and installing electric vehicle charging stations. To get grants, applicants must submit proposals describing their projects, the amount of emissions they will avoid or remove, and their bid price per metric ton. The government will award grants to the most cost-effective projects first. The government must ensure that projects actually avoid or remove the claimed emissions and that the carbon dioxide removed stays out of the atmosphere permanently.",
+      "word_offset": 847,
+      "char_offset": 5653
+    },
+    {
+      "id": "s11",
+      "slug": "section-709-penalty-for-noncompliance",
+      "title": "Section 709 Penalty for Noncompliance",
+      "text": "Facility owners who fail to submit the required emission allowances must pay a penalty equal to three times the highest allowance price from the previous year multiplied by the number of missing allowances. This penalty is due immediately. The penalty does not reduce any other fines or penalties the facility owner might face under other laws. Facility owners must also submit replacement allowances equal to the number they failed to submit plus the allowances normally required, all by April first of the second year after the violation.",
+      "word_offset": 979,
+      "char_offset": 6568
+    },
+    {
+      "id": "s12",
+      "slug": "section-710-comptroller-general-reports",
+      "title": "Section 710 Comptroller General Reports",
+      "text": "Starting January first two thousand twenty-nine and every two years after that, the Comptroller General must submit a report to Congress about how well this law is working. The report must evaluate how efficiently and fairly emission allowances are distributed, how cost-effective the law is at reducing greenhouse gas emissions, and how well it creates jobs, helps workers transition to clean energy, encourages new technology, and maintains fair trading markets. The report must also include recommendations for improving the law.",
+      "word_offset": 1066,
+      "char_offset": 7109
+    },
+    {
+      "id": "s13",
+      "slug": "section-711-final-regulations",
+      "title": "Section 711 Final Regulations",
+      "text": "The government must issue final regulations to carry out this law within twenty-four months after it becomes law.",
+      "word_offset": 1146,
+      "char_offset": 7642
+    },
+    {
+      "id": "s14",
+      "slug": "section-712-savings-provisions",
+      "title": "Section 712 Savings Provisions",
+      "text": "Nothing in this new law changes the requirements of any other part of the Clean Air Act.",
+      "word_offset": 1164,
+      "char_offset": 7756
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-707",
+  "title": "Deport Illegal Voters Act of 2025",
+  "short_title": "Deport Illegal Voters Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.707",
+  "introduced_date": "2025-01-23",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "55b3f241d014ae19",
+  "last_updated": "2026-04-05T04:33:00.240835+00:00",
+  "plain_summary": "This bill makes illegal voting by non-citizens a very serious crime under immigration law. If someone who is not a US citizen votes illegally in any election, they cannot enter or stay in the United States and must be deported. The law already had some rules about this, but this bill makes the punishment stricter. It removes an exception that protected people who honestly thought they were allowed to vote.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Strong, Dale W. [R-AL-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "illegal voting",
+    "non-citizen voting",
+    "deportation",
+    "immigration punishment",
+    "voting laws",
+    "election fraud",
+    "foreign nationals voting",
+    "undocumented immigrants voting",
+    "voter eligibility",
+    "immigration consequences",
+    "voting violations",
+    "election security"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Deport Illegal Voters Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expanding-definition-aggravated-felonies",
+      "title": "Section 2 Expanding the Definition of Aggravated Felonies Under the Immigration and Nationality Act",
+      "text": "This section changes the Immigration and Nationality Act to add illegal voting as a serious crime called an aggravated felony. An aggravated felony is a type of crime that has harsh consequences for people who are not United States citizens. The law adds voting illegally to the list of aggravated felonies. This means any person who is not a citizen and votes when they are not allowed to vote under any federal, state, or local law or rule has committed an aggravated felony. The section also makes changes to other parts of the immigration law. It says that any person who is not a citizen and has voted illegally cannot be allowed to enter or stay in the United States. The law removes an old rule about deportation and replaces it with this new stricter rule about illegal voting.",
+      "word_offset": 14,
+      "char_offset": 76
+    }
+  ]
+}

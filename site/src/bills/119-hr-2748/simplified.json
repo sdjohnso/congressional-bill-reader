@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2748",
+  "title": "First Time Homeowner Savings Plan Act",
+  "short_title": "First Time Homeowner Savings Plan Act",
+  "congress": 119,
+  "bill_number": "HR.2748",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "3df0d55ac45051a0",
+  "last_updated": "2026-04-05T03:55:48.583684+00:00",
+  "plain_summary": "This bill helps first-time home buyers get money from their retirement accounts to buy a house. Right now, people can take out up to ten thousand dollars from their retirement savings without paying extra fees. This bill would increase that amount to twenty-five thousand dollars. Starting in 2027, this amount will go up each year to keep up with rising prices.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Stevens, Haley M. [D-MI-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "MI",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "first time home buyer",
+    "retirement savings",
+    "house down payment",
+    "401k withdrawal",
+    "home buying help",
+    "retirement money for house",
+    "first home purchase",
+    "buying your first house",
+    "retirement account penalty",
+    "home buyer assistance",
+    "withdraw retirement early",
+    "save for house down payment"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the First Time Homeowner Savings Plan Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-in-limitation-on-penalty-free-first-time-homebuyer-distributions",
+      "title": "Section 2 Increase in Limitation on Penalty-Free First-Time Homebuyer Distributions",
+      "text": "This section changes the tax rules to help first-time home buyers. Right now, people can take up to ten thousand dollars from their retirement accounts without paying a penalty if they use the money to buy their first home. This law increases that amount to twenty-five thousand dollars. The law also adds a rule that will adjust this amount for inflation starting in twenty twenty-seven. Each year, the government will calculate how much prices have gone up since twenty twenty-five and increase the twenty-five thousand dollar limit by that same percentage. Any increase will be rounded to the nearest one hundred dollars. These changes will start applying to money taken out of retirement accounts after December thirty-first, twenty twenty-five.",
+      "word_offset": 12,
+      "char_offset": 66
+    }
+  ]
+}

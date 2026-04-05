@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-184",
+  "title": "Providing for consideration of the bill (H.R. 185) to advance responsible policies.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.184",
+  "introduced_date": "2025-03-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9d927a095185f60f",
+  "last_updated": "2026-04-05T03:42:34.353171+00:00",
+  "plain_summary": "This resolution creates special rules for the House of Representatives to vote on a bill about responsible policies. Instead of following the usual long process, the House will only spend one hour debating the bill. The resolution also allows them to use different text from another bill and lets the top Democrat on the Energy and Commerce Committee make changes to it. This is a procedural rule that makes it easier and faster for Congress to consider the bill.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-03",
+  "last_action_date": "2025-03-03",
+  "last_action_text": "Referred to the House Committee on Rules.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [],
+  "sponsor_name": "Rep. Pallone, Frank [D-NJ-6]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "house rules",
+    "voting procedures",
+    "debate time limits",
+    "congressional process",
+    "energy committee",
+    "bill consideration",
+    "house debate",
+    "legislative shortcuts",
+    "fast track voting",
+    "responsible policies",
+    "congress voting rules",
+    "house procedures"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-providing-for-consideration",
+      "title": "Resolution Providing for Consideration",
+      "text": "This resolution was submitted by Mr. Pallone on March third, twenty twenty-five and sent to the Committee on Rules. When this resolution is approved, the House will immediately start discussing bill H.R. one hundred eighty-five about advancing responsible policies. The House will skip all the usual procedural objections that could stop them from considering this bill. They will automatically accept a substitute amendment described in section three of this resolution. The bill with this amendment will be treated as if it has already been read out loud. The House will also skip any objections to specific parts of the amended bill. The House will move straight to a final vote without other motions getting in the way, except for two things. First, there will be one hour of debate time split equally between the chair and ranking minority member of the Committee on Energy and Commerce, or people they choose to speak for them. Second, there can be one motion to recommit (which means sending the bill back to committee for changes).",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-rule-waiver",
+      "title": "Section 2 Rule Waiver",
+      "text": "When the House considers H.R. one hundred eighty-five, they will not follow clause one part c of rule nineteen. This means they are setting aside a specific House rule for this bill.",
+      "word_offset": 172,
+      "char_offset": 1040
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-substitute-amendment",
+      "title": "Section 3 Substitute Amendment",
+      "text": "The substitute amendment mentioned in the first section is a complete replacement of the original bill text. This substitute amendment uses the text from bill H.R. one thousand seven hundred sixty-eight as it was originally introduced. However, this text can be changed by an amendment that was submitted for printing in the Congressional Record at least one day before the House considers H.R. one hundred eighty-five. Only the ranking minority member of the Committee on Energy and Commerce can submit this modifying amendment. If more than one such amendment is submitted, only the last one submitted will be used to modify the substitute.",
+      "word_offset": 204,
+      "char_offset": 1223
+    }
+  ]
+}

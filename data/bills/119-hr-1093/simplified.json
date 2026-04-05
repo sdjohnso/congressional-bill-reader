@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1093",
+  "title": "Natural Disaster Property Protection Act of 2025",
+  "short_title": "Natural Disaster Property Protection Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1093",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ab0704333952699a",
+  "last_updated": "2026-04-05T05:15:01.881892+00:00",
+  "plain_summary": "This bill makes tax rules easier for people who have been hurt by natural disasters. When businesses pay people for disaster-related help or repairs, they normally have to report payments of $600 or more to the government. This bill changes that rule so businesses only have to report disaster payments when they are $5,000 or more. This means less paperwork for both businesses and people dealing with disasters.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Pettersen, Brittany [D-CO-7]",
+  "sponsor_party": "D",
+  "sponsor_state": "CO",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "disaster tax help",
+    "natural disaster taxes",
+    "hurricane tax relief",
+    "flood damage taxes",
+    "disaster payment reporting",
+    "storm damage tax rules",
+    "emergency repair taxes",
+    "disaster victim tax break",
+    "catastrophe tax relief",
+    "tornado tax help",
+    "wildfire tax assistance",
+    "earthquake tax rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Natural Disaster Property Protection Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-in-threshold-requiring-information-reporting-to-respect-to-qualified-natural-disaster-expenses",
+      "title": "Section 2  Increase in Threshold Requiring Information Reporting to Respect to Qualified Natural Disaster Expenses",
+      "text": "This section changes the tax reporting rules for payments related to natural disasters. Right now, businesses must report payments to the government when they pay someone six hundred dollars or more for services or goods. This section creates a special rule for natural disaster expenses. For these special expenses, businesses only have to report payments when they reach five thousand dollars instead of six hundred dollars. Natural disaster expenses include two types of costs. The first type is money spent to protect real property from natural disasters or extreme weather before they happen. The second type is money spent to repair damage to real property after natural disasters or extreme weather have already caused harm. Real property means land and buildings. This new reporting rule applies to both regular business payments and payments for services. The changes take effect for any amounts paid or spent after this law is passed.",
+      "word_offset": 16,
+      "char_offset": 97
+    }
+  ]
+}

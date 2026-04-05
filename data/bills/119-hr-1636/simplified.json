@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1636",
+  "title": "Securing our Radioactive Materials Act",
+  "short_title": "Securing our Radioactive Materials Act",
+  "congress": 119,
+  "bill_number": "HR.1636",
+  "introduced_date": "2025-02-26",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a9856141f4428574",
+  "last_updated": "2026-04-05T04:24:39.970311+00:00",
+  "plain_summary": "This law tells the Nuclear Regulatory Commission to make radioactive materials safer and more secure. The commission must follow recommendations from a 2024 government report about how to better protect these dangerous materials. They need to think about how their new rules will affect people and communities when making changes. The law also requires the commission to immediately improve how they track and check on certain radioactive materials called category 3 materials.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-26",
+  "last_action_date": "2025-02-26",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Torres, Ritchie [D-NY-15]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "radioactive materials safety",
+    "nuclear security",
+    "dangerous materials tracking",
+    "radioactive waste protection",
+    "nuclear materials regulation",
+    "community safety from radiation",
+    "government oversight of nuclear materials",
+    "tracking radioactive substances",
+    "nuclear safety rules",
+    "protecting people from radiation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Securing our Radioactive Materials Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-nrc-actions-to-address-certain-radiological-security-risks",
+      "title": "Section 2 NRC Actions to Address Certain Radiological Security Risks",
+      "text": "The Nuclear Regulatory Commission (the government agency that oversees nuclear materials) must take specific actions. These actions were recommended in a September 2024 report by the Government Accountability Office. The report was called Preventing a Dirty Bomb Nuclear Regulatory Commission Has Not Taken Steps to Address Certain Radiological Security Risks. First, when the Nuclear Regulatory Commission decides what security measures are needed for radioactive materials, they must consider how those decisions will affect society and the economy. Second, the Nuclear Regulatory Commission must immediately require three things for category 3 materials. Category 3 materials are a type of radioactive material that can be dangerous. All category 3 licenses must be added to the Web based Licensing System, which is a computer system that tracks licenses. All category 3 sources must be included and tracked in the National Source Tracking System, which is a computer system that follows where radioactive materials go. All vendors who sell these materials must check with the proper government agency to make sure buyers really have valid category 3 licenses before selling to them. Within one year of this law being passed, the Nuclear Regulatory Commission must update any guidelines, policies, and regulations that need to be changed to follow these new requirements.",
+      "word_offset": 11,
+      "char_offset": 67
+    }
+  ]
+}

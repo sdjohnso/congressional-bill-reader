@@ -1,0 +1,73 @@
+{
+  "bill_id": "119-hr-1168",
+  "title": "Protecting Federal Funds from Human Trafficking and Smuggling Act of 2025",
+  "short_title": "Protecting Federal Funds from Human Trafficking and Smuggling Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1168",
+  "introduced_date": "2025-02-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "0830dfbfa1c303bf",
+  "last_updated": "2026-04-05T04:02:38.102746+00:00",
+  "plain_summary": "This bill says that nonprofit organizations must promise in writing that they follow federal laws about human trafficking and smuggling before they can get government money or keep their tax-free status. The government will create helpful guides so nonprofits know how to follow these laws correctly. Every year, the government must tell Congress which nonprofits did not make this promise. The bill also removes a rule that let some charity groups skip checking if people were eligible for government benefits.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-10",
+  "last_action_date": "2025-02-10",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Government Reform, and Ways and Means, for a period to be subsequently determined by the Speaker, in each",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Congressional oversight",
+    "Government information and archives",
+    "Human trafficking",
+    "Smuggling and trafficking",
+    "Social work, volunteer service, charitable organizations",
+    "Tax-exempt organizations"
+  ],
+  "sponsor_name": "Rep. Gooden, Lance [R-TX-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 10,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "nonprofit funding requirements",
+    "human trafficking prevention",
+    "charity organizations rules",
+    "government money for nonprofits",
+    "tax exempt status",
+    "smuggling laws compliance",
+    "federal funds oversight",
+    "charity accountability",
+    "nonprofit certification",
+    "human trafficking compliance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting Federal Funds from Human Trafficking and Smuggling Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-mandatory-disclosures",
+      "title": "Section 2 Mandatory Disclosures of Human Trafficking and Alien Smuggling",
+      "text": "This section creates new rules for nonprofit organizations that want to receive government money. Starting no later than one hundred twenty days after this law passes, no government money can be given to a nonprofit organization unless that organization sends a written promise to the Director of the Office of Management and Budget. In this promise, the organization must say it follows federal laws about human trafficking (forcing people to work against their will), alien smuggling (illegally bringing people into the country), fraud (lying to get money), bribery (paying someone to do something illegal), and gratuity (giving gifts to government workers to influence them). The organization must also promise it has never been found guilty of breaking section two hundred seventy four of the Immigration and Nationality Act, which is the law that makes alien smuggling illegal.\n\nNonprofit organizations that already have government money or got government money before January first, two thousand twenty five, must send this same written promise within sixty days after this law passes. If they do not send the promise, or if the Director finds out they broke the alien smuggling law, they must pay back all the government money they received.\n\nThis section also changes tax law. Nonprofit organizations that normally do not have to pay taxes will lose that special status if they do not send the required written promise or if they are found to have broken the alien smuggling law. They can apply to get their tax free status back, but they must wait at least one year before applying again.\n\nThe Secretary of Homeland Security must create a written plan and guide within one hundred twenty days to help nonprofit organizations follow federal laws. This guide must explain how to find, stop, and report human trafficking and alien smuggling. The Secretary must also put information on the Department of Homeland Security website about any nonprofit organizations that have broken state or federal laws related to human trafficking and alien smuggling. The Secretary must also create a written plan to work better with nonprofit organizations, state agencies, and federal law enforcement to stop, find, report, and remove people who are in the country illegally.\n\nThe Comptroller General of the United States (the head of an office that checks on government spending) must write a report to Congress within one hundred eighty days about every nonprofit organization that fails to send the required written promise. After that, the Comptroller General must write the same kind of report every year.\n\nThese new rules apply to any nonprofit organization that gets government money, including organizations that already have agreements, contracts, awards, or other relationships with the government when this law passes.",
+      "word_offset": 20,
+      "char_offset": 122
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-verification-requirement",
+      "title": "Section 3 Verification Requirement for Nonprofit Charitable Organizations",
+      "text": "This section removes part of an existing law from nineteen ninety six called the Personal Responsibility and Work Opportunity Reconciliation Act. It deletes a specific part of section four hundred thirty two that was about verification requirements for nonprofit charitable organizations.",
+      "word_offset": 467,
+      "char_offset": 2944
+    }
+  ]
+}

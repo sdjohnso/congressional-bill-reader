@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-3319",
+  "title": "Women’s and Family Protection Act of 2025",
+  "short_title": "Women’s and Family Protection Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.3319",
+  "introduced_date": "2025-05-09",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "8e145b067bffe569",
+  "last_updated": "2026-04-05T03:26:41.390731+00:00",
+  "plain_summary": "The Women's and Family Protection Act of 2025 helps homeless people in rural areas and on Native American lands by including them in the official definition of homelessness. The bill creates a new program that gives money directly to nonprofit groups that help homeless women, children, and people who have experienced violence. It also makes sure that women and survivors of violence based on their gender are recognized as special groups that need extra help and support.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-09",
+  "last_action_date": "2025-05-09",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [],
+  "sponsor_name": "Rep. Gimenez, Carlos A. [R-FL-28]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "homeless women",
+    "rural homelessness",
+    "Native American homelessness",
+    "homeless families",
+    "violence against women",
+    "domestic violence",
+    "homeless children",
+    "nonprofit funding",
+    "gender violence",
+    "tribal lands homelessness",
+    "women's shelters",
+    "homeless support programs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Women's and Family Protection Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-101-definitions",
+      "title": "Section 101 Definitions",
+      "text": "This section changes how we define homeless people in an existing law called the McKinney-Vento Homeless Assistance Act. The changes add that homeless people may also live in Native American communities, rural areas, or other communities that do not get enough help, as decided by the Secretary (the person in charge of the government department). The section also removes the word unaccompanied from one part of the definition. Most importantly, it says that when we talk about domestic violence (violence that happens between family members or partners), we must specifically include women, women with children, survivors, and other people who might face violence because of their gender. These groups are now officially recognized as special populations that need help.",
+      "word_offset": 16,
+      "char_offset": 90
+    },
+    {
+      "id": "s3",
+      "slug": "section-201-emergency-solutions-grants-program-set-aside",
+      "title": "Section 201 Emergency Solutions Grants Program Set Aside",
+      "text": "This section completely rewrites part of the existing homeless assistance law to create a new grant program. The Secretary will give money directly to private nonprofit organizations (groups that help people but do not try to make money). These organizations must help people with high needs including homeless women and children, pregnant women, people who have been homeless for a long time, families with children and youth, people who have experienced violence because of their gender, seniors, and other special groups that the Secretary decides need help. The money can be used for running costs like keeping buildings open, medical services for mental health and drug problems, support services like childcare and job training, help finding and keeping housing, and other services the Secretary approves. Organizations that want this money must apply by filling out forms the Secretary requires. They must also write reports about how well their programs work, including how many women, children, seniors, and violence victims they help, how many people they help find housing, and how well they work with other government programs. The Secretary will also provide training and advice to these organizations about how to best help people who have experienced violence, including teaching staff how to provide trauma informed care and how to apply for money from different government programs.",
+      "word_offset": 135,
+      "char_offset": 863
+    }
+  ]
+}

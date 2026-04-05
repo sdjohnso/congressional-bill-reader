@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-3135",
+  "title": "RACE Act of 2025",
+  "short_title": "RACE Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.3135",
+  "introduced_date": "2025-05-01",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "606f5982ad31a607",
+  "last_updated": "2026-04-05T04:32:14.122983+00:00",
+  "plain_summary": "The RACE Act of 2025 makes it easier for companies to sell stocks and bonds to investors. Right now, companies have to wait for government approval every time they want to sell these financial products. This new law would let companies automatically sell similar securities without waiting for approval each time, as long as they follow certain rules about how much money they can raise and how similar the new securities are to ones they already sold. This change is meant to help companies raise money faster and more easily.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-01",
+  "last_action_date": "2025-05-01",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Barr, Andy [R-KY-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "companies selling stocks",
+    "selling bonds easier",
+    "government approval stocks",
+    "raising money faster",
+    "securities regulations",
+    "business fundraising",
+    "stock market rules",
+    "investment regulations",
+    "company financing",
+    "selling shares",
+    "bond sales",
+    "startup funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Regulation Advancement for Capital Enhancement Act of two thousand twenty five or the RACE Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-offering-of-substantially-similar-securities",
+      "title": "Section 2 Offering of Substantially Similar Securities",
+      "text": "This section changes the Securities Act of nineteen thirty three by adding new rules for companies that want to sell similar types of stock or other securities to investors. Here is how it works. If a company has already sold one type of security under special rules called Regulation A tier two and got approval from the Securities and Exchange Commission, then the company can sell additional similar securities more easily. The new securities will be automatically approved when the company files the paperwork if three conditions are met. First, the new securities must be substantially similar to and share common features with the original securities the company already sold. Second, each new group of securities must be worth less than five million dollars. Third, the total value of all the similar securities the company sells in a twelve month period cannot exceed the dollar limits that already exist for Regulation A tier two offerings. The law also explains that securities can be substantially similar to each other even if they do not have exactly the same features or terms.",
+      "word_offset": 26,
+      "char_offset": 151
+    }
+  ]
+}

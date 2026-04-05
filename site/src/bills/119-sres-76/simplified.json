@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-sres-76",
+  "title": "An original resolution authorizing expenditures by the Committee on Health, Education, Labor and Pensions.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.76",
+  "introduced_date": "2025-02-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9994e6452cb1113c",
+  "last_updated": "2026-04-05T03:31:23.084181+00:00",
+  "plain_summary": "This resolution allows the Senate Committee on Health, Education, Labor, and Pensions to spend money and hire workers for two years, from March 2025 to February 2027. The committee can spend over twenty six million dollars total during this time period. The money will pay for staff salaries, consultants, and training costs. There are special rules about how much they can pay consultants and what training expenses are allowed.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-12",
+  "last_action_date": "2025-02-12",
+  "last_action_text": "Referred to the Committee on Rules and Administration. (text: CR S931-932)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "Senate Committee on Health, Education, Labor, and Pensions"
+  ],
+  "sponsor_name": "Sen. Cassidy, Bill [R-LA]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "senate committee funding",
+    "health education labor committee",
+    "committee budget authorization",
+    "senate spending approval",
+    "congressional committee money",
+    "staff hiring budget",
+    "committee expenses",
+    "senate committee salaries",
+    "congressional budget resolution",
+    "committee consultant payments"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-general-authority",
+      "title": "Section 1 General Authority",
+      "text": "The Committee on Health, Education, Labor, and Pensions (called the committee in this document) has permission to spend money and hire people from March first, two thousand twenty five through February twenty eighth, two thousand twenty seven. The committee can do this while carrying out its official duties under Senate rules, which include holding hearings, reporting on those hearings, and conducting investigations. During this time period, the committee is allowed to spend money from the Senate's emergency fund, hire staff members, and use workers from government departments or agencies with permission from those departments and the Committee on Rules and Administration. The committee may have to pay back the cost of using these outside workers or it may get their services for free.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expenses",
+      "title": "Section 2 Expenses",
+      "text": "The committee has spending limits for three different time periods. For the first period from March first, two thousand twenty five through September thirtieth, two thousand twenty five, the committee cannot spend more than seven million, seven hundred sixty seven thousand, and twenty seven dollars total. Of this amount, no more than seventy five thousand dollars can be used to hire outside consultants or consulting companies, and no more than twenty five thousand dollars can be used to train the committee's professional staff. For the second period from October first, two thousand twenty five through September thirtieth, two thousand twenty six, the committee cannot spend more than thirteen million, three hundred fourteen thousand, nine hundred and four dollars total, with the same limits of seventy five thousand dollars for consultants and twenty five thousand dollars for staff training. For the final period from October first, two thousand twenty six through February twenty eighth, two thousand twenty seven, the committee cannot spend more than five million, five hundred forty seven thousand, eight hundred seventy seven dollars total, again with the same consultant and training spending limits.",
+      "word_offset": 123,
+      "char_offset": 796
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-expenses-and-agency-contributions",
+      "title": "Section 3 Expenses and Agency Contributions",
+      "text": "The committee's expenses will be paid from the Senate's emergency fund when the committee chairman approves payment receipts called vouchers. However, vouchers are not needed for certain regular payments including yearly salaries for employees, phone and internet services from the Senate's communication office, office supplies from the Senate supply keeper, postal services, charges for using copying machines provided by the Senate, recording and photography services, and mailing costs handled by the Senate's mail office. The Senate also has permission to pay employee benefit costs from a special account called Expenses of Inquiries and Investigations for all three time periods covered by this resolution.",
+      "word_offset": 308,
+      "char_offset": 2013
+    }
+  ]
+}

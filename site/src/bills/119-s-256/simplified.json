@@ -1,0 +1,108 @@
+{
+  "bill_id": "119-s-256",
+  "title": "Pardon Transparency and Accountability Act of 2025",
+  "short_title": "Pardon Transparency and Accountability Act of 2025",
+  "congress": 119,
+  "bill_number": "S.256",
+  "introduced_date": "2025-01-25",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b234e1a40d21caa8",
+  "last_updated": "2026-04-05T04:21:10.609527+00:00",
+  "plain_summary": "This bill makes new rules about presidential pardons to help people understand why they happen. When the President pardons someone or reduces their punishment, they must explain their reasons to the public on the same day. Before any pardon is given, a special government lawyer must write a report that includes what victims think and what police officers believe about the pardon. The bill also says that people who try to convince the President to give pardons must follow the same rules as other people who lobby the government.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-25",
+  "last_action_date": "2025-01-25",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Congressional oversight",
+    "Crime victims",
+    "Criminal procedure and sentencing",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Lawyers and legal services",
+    "Licensing and registrations",
+    "Presidents and presidential powers, Vice Presidents",
+    "Public contracts and procurement"
+  ],
+  "sponsor_name": "Sen. Blumenthal, Richard [D-CT]",
+  "sponsor_party": "D",
+  "sponsor_state": "CT",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "presidential pardons",
+    "pardon transparency",
+    "pardon reasons",
+    "pardon explanations",
+    "presidential clemency",
+    "pardon accountability",
+    "pardon lobbying",
+    "victim input pardons",
+    "pardon reporting requirements",
+    "presidential pardon reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Pardon Transparency and Accountability Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, executive clemency means any time the President uses the power given by the Constitution to forgive crimes or reduce punishments. This includes pardons, making sentences shorter, delaying punishments, or canceling fines. A victim means a person who was harmed by a crime, as defined in an existing law called the Victims Rights and Restitution Act of nineteen ninety.",
+      "word_offset": 15,
+      "char_offset": 99
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-statement-of-reasons-for-pardons",
+      "title": "Section 3 Statement of Reasons for Pardons",
+      "text": "On the same day the President grants any pardon or other form of clemency, the President must publish a written explanation of why the clemency was granted. This explanation must be published in the Federal Register (the official government publication) and on the President's official website.",
+      "word_offset": 76,
+      "char_offset": 480
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-duties-of-the-pardon-attorney",
+      "title": "Section 4 Duties of the Pardon Attorney",
+      "text": "The Pardon Attorney (a Justice Department official who handles pardon cases) must create a Justice Impact Statement whenever they learn the President might grant clemency to someone. This statement must be given to the President and Congress within thirty days. The statement must describe efforts to contact crime victims and include any written comments from victims. Any government employee who learns the President is considering clemency must immediately tell the Pardon Attorney. The Pardon Attorney must make reasonable efforts to tell victims they can submit written statements about the possible clemency. The Attorney must also find out what victims think about the clemency and what law enforcement officials think about how it might affect ongoing investigations or court cases. The Justice Impact Statement must be completed even if it is finished after the clemency is already granted.",
+      "word_offset": 122,
+      "char_offset": 775
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-pardon-lobbying-disclosure",
+      "title": "Section 5 Pardon Lobbying Disclosure",
+      "text": "This section changes the existing Lobbying Disclosure Act to include people who lobby for pardons or other clemency. Anyone who contacts government officials to try to influence pardon decisions must register as a lobbyist within two days of their first contact or being hired for this purpose. They must also file reports within two days after each contact about a potential pardon. These rules apply regardless of how much money is involved or what percentage of their work involves lobbying.",
+      "word_offset": 259,
+      "char_offset": 1675
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-studies-and-reports",
+      "title": "Section 6 Studies and Reports",
+      "text": "Starting one hundred eighty days after this law takes effect, and every two years after that, the Pardon Attorney must study how well people are following this law. By April first of each year after completing a study, the Pardon Attorney must send Congress a report with the study results and suggestions for improving compliance with this law.",
+      "word_offset": 339,
+      "char_offset": 2170
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-severability",
+      "title": "Section 7 Severability",
+      "text": "If any part of this law is found to be invalid by a court, the rest of the law will still be in effect. The invalid part will not affect the other parts of the law or how they apply to other people or situations.",
+      "word_offset": 397,
+      "char_offset": 2516
+    }
+  ]
+}

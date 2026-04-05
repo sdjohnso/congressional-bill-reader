@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2575",
+  "title": "To provide for the rescission of certain waivers and licenses relating to Iran, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.2575",
+  "introduced_date": "2025-04-01",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "460c9688a323833a",
+  "last_updated": "2026-04-05T04:41:32.066968+00:00",
+  "plain_summary": "This bill cancels a special permission from September 2023 that let money move from South Korea to Qatar. It also cancels some related government licenses that were connected to this money transfer. The bill stops the President from giving Iran or Iranian people access to certain bank accounts in the future. It also prevents the government from giving out new permissions for similar money transfers involving Iran.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-01",
+  "last_action_date": "2025-04-01",
+  "last_action_text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, Ways and Means, and Oversight and Government Reform, for a period to be subsequently determined b",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Pfluger, August [R-TX-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 22,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Iran sanctions",
+    "block Iran money",
+    "cancel Iran waiver",
+    "Iran bank accounts",
+    "South Korea Qatar money transfer",
+    "Iran financial restrictions",
+    "stop Iran payments",
+    "Iran money freeze",
+    "Iran banking ban",
+    "prevent Iran access funds"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-rescission-of-certain-waivers-and-licenses",
+      "title": "Section 1  Rescission of Certain Waivers and Licenses",
+      "text": "Starting on the day this law takes effect, two specific actions must be stopped immediately. First, a special permission that was given on September eleventh, two thousand twenty three must be canceled. This permission allowed certain money to be moved from South Korea to Qatar under rules from two older laws about Iran. Second, any licenses given by the Office of Foreign Assets Control at the Treasury Department that relate to this money transfer must also be canceled. The Office of Foreign Assets Control is the government office that controls financial transactions with certain foreign countries. After this law takes effect, the President cannot give out any new permissions or licenses for the same purposes that were just canceled.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-of-applicability-of-certain-licenses",
+      "title": "Section 2  Limitation of Applicability of Certain Licenses",
+      "text": "Starting on the day this law takes effect, the President is not allowed to do two things, no matter what any other law says. First, the President cannot use special waiver powers from older laws that would let the Government of Iran or any Iranian person access certain bank accounts. These are accounts that were set up under rules from a two thousand twelve defense law. Second, the President cannot issue any type of license, answer frequently asked questions, or give any other permission that would let the Government of Iran or any Iranian person access or benefit from these same bank accounts.",
+      "word_offset": 119,
+      "char_offset": 744
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-895",
+  "title": "DELIVER Act of 2025",
+  "short_title": "DELIVER Act of 2025",
+  "congress": 119,
+  "bill_number": "S.895",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "893f6980f9c06dff",
+  "last_updated": "2026-04-05T03:50:11.064002+00:00",
+  "plain_summary": "The DELIVER Act of 2025 helps volunteers who bring meals to people who cannot leave their homes. These volunteers drive to deliver food to elderly people, disabled people, and others who need help. Right now, volunteers can only claim a small amount of money back on their taxes for the gas they use. This new law would let them claim more money back by using the same rate that businesses use. This means volunteers would get more help paying for the gas they use to deliver meals to people who need them.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. King, Angus S., Jr. [I-ME]",
+  "sponsor_party": "I",
+  "sponsor_state": "ME",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "meal delivery volunteers",
+    "tax deduction gas money",
+    "food delivery volunteers tax break",
+    "meals on wheels volunteers",
+    "volunteer mileage reimbursement",
+    "elderly meal delivery",
+    "disabled food delivery",
+    "volunteer gas expenses",
+    "home meal delivery volunteers",
+    "volunteer driving costs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Delivering Elderly Lunches and Increasing Volunteer Engagement and Reimbursements Act of two thousand twenty five. It can also be called the DELIVER Act of two thousand twenty five for short.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-in-standard-mileage-rate-for-delivery-of-meals-to-elderly-disabled-frail-and-at-risk-individuals",
+      "title": "Section 2  Increase in Standard Mileage Rate for Delivery of Meals to Elderly, Disabled, Frail, and At-Risk Individuals",
+      "text": "This section changes the tax rules about how much money volunteers can claim on their taxes for driving their cars to deliver meals. Right now, volunteers who use their own cars for charity work can only claim a small amount per mile on their tax returns. This new rule says that when volunteers drive to deliver meals to people who are elderly, disabled, weak, or in danger and cannot leave their homes, they can claim the same higher rate that businesses use. The Internal Revenue Service sets this business rate each year, and it is much higher than the current charity rate. This change applies to all miles driven starting from the day this law is signed.",
+      "word_offset": 36,
+      "char_offset": 219
+    }
+  ]
+}

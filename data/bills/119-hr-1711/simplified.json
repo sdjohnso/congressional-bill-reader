@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-1711",
+  "title": "DHS Intelligence and Analysis Oversight and Transparency Act",
+  "short_title": "DHS Intelligence and Analysis Oversight and Transparency Act",
+  "congress": 119,
+  "bill_number": "HR.1711",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ff44ec10ca6c275d",
+  "last_updated": "2026-04-05T04:29:08.980858+00:00",
+  "plain_summary": "This bill makes the Department of Homeland Security check its intelligence office every year. The intelligence office uses computer systems and collects lots of data to help keep the country safe. The department must tell Congress what they find when they check these systems. They also have to let Congress know when they start using big new sets of information. This helps Congress make sure the department is doing its job properly and not misusing people's information.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-27",
+  "last_action_date": "2025-02-27",
+  "last_action_text": "Referred to the Subcommittee on Counterterrorism and Intelligence.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Accounting and auditing",
+    "Computers and information technology",
+    "Congressional oversight",
+    "Department of Homeland Security"
+  ],
+  "sponsor_name": "Rep. Lee, Laurel M. [R-FL-15]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "homeland security oversight",
+    "government intelligence monitoring",
+    "DHS data collection",
+    "congress checks security",
+    "intelligence office audit",
+    "government surveillance oversight",
+    "homeland security accountability",
+    "federal data privacy",
+    "security agency transparency",
+    "government information systems"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the DHS Intelligence and Analysis Oversight and Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-annual-audit-of-dhs-office-of-intelligence-and-analysis-information-systems-and-bulk-data",
+      "title": "Section 2 Annual Audit of DHS Office of Intelligence and Analysis Information Systems and Bulk Data",
+      "text": "This section changes the Homeland Security Act of two thousand two by adding new requirements for the Department of Homeland Security. The new section is called Annual Audit of Information Systems and Bulk Data. In this new section, several terms are defined. Appropriate congressional committees means the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate, plus the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives. Bulk data means large amounts of information collected without using specific search terms or identifiers, where most of the information probably does not have intelligence or operational value. Discriminants means identifiers and selection terms used to target specific information. The Under Secretary for Intelligence and Analysis at the Department of Homeland Security must conduct yearly audits of the information systems and bulk data used by the Office of Intelligence and Analysis. The first audit must happen within one hundred eighty days after this law takes effect, and then every year after that. These audits must follow the intelligence oversight guidelines of the Office. The Under Secretary must notify the appropriate congressional committees within thirty days when the Office first uses any new bulk data set for analysis or intelligence purposes. This notification must include the terms and conditions for using that data. The Under Secretary must also send an update within thirty days if any changes are made to the terms and conditions for using a bulk data set. Within thirty days after finishing each audit, the Under Secretary must send a report to the appropriate congressional committees with the findings and results of the audit. Within four years after this law takes effect, the Comptroller General of the United States (who leads the Government Accountability Office) must review how well the annual audit requirement is working. This review must look at challenges in implementing the requirement and provide recommendations for improving the audits. The review must be sent to the appropriate congressional committees. The section also makes a small change to update the table of contents in the original Homeland Security Act to include the new audit requirement.",
+      "word_offset": 14,
+      "char_offset": 89
+    }
+  ]
+}

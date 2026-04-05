@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-1206",
+  "title": "WEST Act of 2025",
+  "short_title": "WEST Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1206",
+  "introduced_date": "2025-02-11",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ab7b6ea50ea47b11",
+  "last_updated": "2026-04-05T03:24:12.958173+00:00",
+  "plain_summary": "The WEST Act of 2025 is a bill that would cancel a rule made by the Bureau of Land Management in April 2023. The rule was about protecting nature and keeping the land healthy. If this bill becomes a law, that rule would no longer be allowed to be used or enforced. This means the government agency would not be able to follow those conservation rules anymore.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-02-11",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "Department of the Interior",
+    "Environmental regulatory procedures",
+    "Land use and conservation",
+    "Wildlife conservation and habitat protection"
+  ],
+  "sponsor_name": "Rep. Maloy, Celeste [R-UT-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 8,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "land management rules",
+    "nature protection",
+    "conservation laws",
+    "public land",
+    "wildlife habitat",
+    "environmental rules",
+    "government land use",
+    "outdoor recreation",
+    "national parks",
+    "wilderness areas",
+    "land conservation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Western Economic Security Today Act of two thousand twenty-five or the WEST Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-withdrawal-of-blm-rule",
+      "title": "Section 2  Withdrawal of BLM Rule",
+      "text": "The final rule that came from a proposed rule by the Bureau of Land Management called Conservation and Landscape Health that was published on April third two thousand twenty-three will have no power and cannot be enforced. The Bureau of Land Management is the government agency that manages public lands.",
+      "word_offset": 23,
+      "char_offset": 136
+    }
+  ]
+}

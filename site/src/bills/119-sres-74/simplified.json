@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-sres-74",
+  "title": "An original resolution authorizing expenditures by the Committee on Veterans' Affairs.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.74",
+  "introduced_date": "2025-02-11",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ce97655b8bf2c76b",
+  "last_updated": "2026-04-05T05:10:47.129644+00:00",
+  "plain_summary": "This resolution gives the Senate Committee on Veterans' Affairs permission to spend money and hire workers from March 2025 to February 2027. The committee gets different amounts of money for three different time periods. The biggest budget is about four and a half million dollars for fiscal year 2026. The committee can also use some money to hire outside experts and train their staff.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-02-11",
+  "last_action_text": "Referred to the Committee on Rules and Administration. (text: CR S864)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "Senate Committee on Veterans' Affairs"
+  ],
+  "sponsor_name": "Sen. Moran, Jerry [R-KS]",
+  "sponsor_party": "R",
+  "sponsor_state": "KS",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "veterans committee budget",
+    "senate veterans spending",
+    "veterans affairs money",
+    "committee hiring staff",
+    "veterans committee funding",
+    "senate committee budget",
+    "veterans affairs workers",
+    "government veterans spending",
+    "committee staff training",
+    "veterans committee expenses"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-general-authority",
+      "title": "Section 1 General Authority",
+      "text": "The Committee on Veterans' Affairs is allowed to do its work from March first, two thousand twenty five, through February twenty eighth, two thousand twenty seven. During this time, the committee can spend money from the Senate's emergency fund, hire workers, and use help from other government departments. The committee must get permission first from both the other department and the Committee on Rules and Administration before using workers from other departments. The committee can choose whether to pay back those other departments or not.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expenses",
+      "title": "Section 2 Expenses",
+      "text": "The committee has spending limits for three different time periods. For March first through September thirtieth, two thousand twenty five, the committee cannot spend more than two million six hundred seventy three thousand nine hundred twenty eight dollars. Of this amount, no more than fifty eight thousand dollars can be used to hire outside experts or consulting companies. No more than forty thousand dollars can be used to train the committee's professional workers. For October first, two thousand twenty five, through September thirtieth, two thousand twenty six, the committee cannot spend more than four million five hundred eighty three thousand eight hundred seventy six dollars. Of this amount, no more than one hundred thousand dollars can be used for outside experts and no more than seventy thousand dollars can be used for staff training. For October first, two thousand twenty six, through February twenty eighth, two thousand twenty seven, the committee cannot spend more than one million nine hundred nine thousand nine hundred forty eight dollars. Of this amount, no more than forty two thousand dollars can be used for outside experts and no more than thirty thousand dollars can be used for staff training.",
+      "word_offset": 85,
+      "char_offset": 547
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-expenses-and-agency-contributions",
+      "title": "Section 3 Expenses and Agency Contributions",
+      "text": "The committee's expenses will be paid from the Senate's emergency fund when the committee chairman approves the bills. However, some payments do not need special approval forms called vouchers. These include paying workers their yearly salaries, phone and internet services from the Senate's communications office, office supplies from the Senate supply keeper, postage costs, copying machine charges, recording and photography services, and mailing costs handled by the Sergeant at Arms. The Senate also has a special account called Expenses of Inquiries and Investigations that will pay for employee benefits and contributions related to committee workers' pay for all three time periods covered by this resolution.",
+      "word_offset": 280,
+      "char_offset": 1776
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2898",
+  "title": "EITC Lookback Act",
+  "short_title": "EITC Lookback Act",
+  "congress": 119,
+  "bill_number": "HR.2898",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a0c1e19aaf8e463b",
+  "last_updated": "2026-04-05T03:06:17.420220+00:00",
+  "plain_summary": "This bill helps working people who earn less money than they did the year before. It lets them use their higher income from the previous year to figure out their Earned Income Tax Credit instead of using their lower current year income. This means they can get a bigger tax credit when their pay goes down from one year to the next. The rule would be permanent and could help workers keep more money when they face tough times.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Sykes, Emilia Strong [D-OH-13]",
+  "sponsor_party": "D",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "earned income tax credit",
+    "tax credit for working families",
+    "low income tax help",
+    "income drop tax relief",
+    "previous year income tax",
+    "pay cut tax assistance",
+    "working poor tax benefits",
+    "job loss tax support",
+    "lower wages tax credit",
+    "tough times tax help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the EITC Lookback Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-earned-income-credit-lookback",
+      "title": "Section 2 Earned Income Credit Lookback",
+      "text": "This section changes the tax code to help people who qualify for the Earned Income Credit. The Earned Income Credit is a tax benefit that helps working people with low to moderate incomes. Under this new rule, if someone earned less money this year than they did last year, they can choose to use last year's income amount instead when calculating their Earned Income Credit. This could help them get a bigger credit if their income went down. The person filing taxes gets to decide whether to use this year's income or last year's income, whichever helps them more. This change will apply to tax years that begin after December thirty first, two thousand twenty four.",
+      "word_offset": 9,
+      "char_offset": 46
+    }
+  ]
+}

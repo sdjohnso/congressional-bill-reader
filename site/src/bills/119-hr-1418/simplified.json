@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-hr-1418",
+  "title": "Purchased and Referred Care Improvement Act of 2025",
+  "short_title": "Purchased and Referred Care Improvement Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1418",
+  "introduced_date": "2025-02-18",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "4f7bf673fda32535",
+  "last_updated": "2026-04-05T04:50:42.575510+00:00",
+  "plain_summary": "This bill helps Native American patients who get medical care from doctors outside the Indian Health Service. Sometimes these patients have to pay their own money first and wait to get paid back by the government. The new law says the Indian Health Service must pay patients back within 30 days after they show their receipts. The bill also updates old paperwork to use newer terms for this type of medical care.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-18",
+  "last_action_date": "2025-02-18",
+  "last_action_text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of su",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Native Americans",
+  "subjects": [
+    "Health care costs and insurance",
+    "Indian social and development programs"
+  ],
+  "sponsor_name": "Rep. Johnson, Dusty [R-SD-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "SD",
+  "cosponsor_count": 7,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Native American healthcare",
+    "Indian Health Service",
+    "medical bills reimbursement",
+    "outside doctor visits",
+    "patient pay back money",
+    "30 day payment",
+    "tribal healthcare costs",
+    "government medical coverage",
+    "Native patient expenses",
+    "healthcare receipts",
+    "medical care refunds"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Purchased and Referred Care Improvement Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-changes-to-liability-for-payment",
+      "title": "Section 2 Changes to Liability for Payment",
+      "text": "This section changes an existing law called the Indian Health Care Improvement Act. The changes protect Native American patients from having to pay medical bills when the Indian Health Service was supposed to pay for their care. Even if a patient signed any papers or agreements saying they would pay, they cannot be forced to pay for care that the Indian Health Service should have covered. This protection applies to any healthcare provider, debt collector, or other person trying to collect money. The Indian Health Service must set up a system within one hundred twenty days to pay patients back if they had to pay out of their own pocket for authorized care. Patients must be paid back within thirty days of submitting their receipts and proof of payment. Patients can submit this paperwork online or in person at an Indian Health Service facility. These rules do not apply to healthcare programs run directly by individual tribes unless the tribe agrees to follow them. The Secretary of Health and Human Services must update all manuals, contracts, and other official documents within one hundred eighty days to reflect these changes. These new protections apply to all purchased and referred care services that were authorized by the Indian Health Service, whether they happened before, on, or after this law takes effect.",
+      "word_offset": 17,
+      "char_offset": 100
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-technical-amendments",
+      "title": "Section 3 Technical Amendments",
+      "text": "This section updates the language used throughout the Indian Health Care Improvement Act. Everywhere the old term contract health service appears, it will be replaced with the new term purchased and referred care. This includes changing the definition section and all headings throughout the law. The Secretary of Health and Human Services must also update the Indian Health Manual and all other official rules, guidance documents, and materials to use the new term purchased and referred care instead of the old term contract health service.",
+      "word_offset": 236,
+      "char_offset": 1430
+    }
+  ]
+}
