@@ -29,9 +29,9 @@
   "vetoed": false,
   "vetoed_date": "",
   "simplified_complete": false,
-  "queued_at": "2026-04-06T02:02:45.363366+00:00",
+  "queued_at": "2026-04-06T13:43:24.814864+00:00",
   "process_failed": true,
-  "process_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZmjBmgiouZRwh8aVqzz5'}",
+  "process_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZnefe9FLmUzMvwu2fEHA'}",
   "failed_chunk": 1,
-  "last_process_attempt": "2026-04-06T02:28:00.793980+00:00"
+  "last_process_attempt": "2026-04-06T14:09:20.584781+00:00"
 }
