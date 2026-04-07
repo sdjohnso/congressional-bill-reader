@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1301",
+  "title": "Death Tax Repeal Act",
+  "short_title": "Death Tax Repeal Act",
+  "congress": 119,
+  "bill_number": "HR.1301",
+  "introduced_date": "2025-02-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "3b5366b123eb4067",
+  "last_updated": "2026-04-07T14:41:36.557172+00:00",
+  "plain_summary": "This bill gets rid of two taxes that rich people have to pay when they die or give money to their grandchildren or great-grandchildren. Right now, families have to pay these taxes when someone dies and leaves behind a lot of money or property. The bill also changes the rules so people can give away up to ten million dollars while they are still alive without paying any gift tax. This means wealthy families would be able to keep more of their money when passing it down to their children and grandchildren.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-13",
+  "last_action_date": "2025-02-13",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Feenstra, Randy [R-IA-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 181,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "inheritance tax",
+    "estate tax",
+    "death tax",
+    "wealthy families",
+    "passing money to children",
+    "gift tax",
+    "rich people taxes",
+    "family wealth",
+    "generational wealth",
+    "tax repeal",
+    "inheritance money",
+    "leaving money when you die"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Death Tax Repeal Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-estate-and-generation-skipping-transfer-taxes",
+      "title": "Section 2  Repeal of Estate and Generation-Skipping Transfer Taxes",
+      "text": "This section eliminates two types of federal taxes. The estate tax is a tax paid when someone dies and passes their property to others. The generation-skipping transfer tax is a tax paid when someone gives money or property to a grandchild or other person who is two or more generations younger. Both taxes will no longer apply to people who die or make transfers after this law takes effect. However, some special rules will still apply for ten years to certain trusts set up for surviving spouses of people who died before this law was passed. The law also changes the gift tax, which is a tax on money or property given to others while still alive. Under the new rules, people can give away up to ten million dollars during their lifetime without paying gift tax. This amount will increase each year based on inflation. The gift tax rates will also change, starting at eighteen percent for smaller gifts and going up to thirty-five percent for very large gifts. All of these changes take effect on the date this law is signed.",
+      "word_offset": 10,
+      "char_offset": 49
+    }
+  ]
+}

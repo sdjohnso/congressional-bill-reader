@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-hr-2372",
+  "title": "DEVICE Act of 2025",
+  "short_title": "DEVICE Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2372",
+  "introduced_date": "2025-03-26",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "1cf6742e68ffad3b",
+  "last_updated": "2026-04-07T14:39:52.650547+00:00",
+  "plain_summary": "The DEVICE Act of 2025 makes new rules for companies that make medical devices. Companies must tell the government before they change how their devices are designed or how to clean them. If companies send safety information about their devices to doctors in other countries, they have to report this to the government within five days. The government will also have more power to watch over quick tests that check if reusable medical devices are clean enough to use safely.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-26",
+  "last_action_date": "2025-03-26",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Lieu, Ted [D-CA-36]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "medical devices",
+    "medical equipment safety",
+    "device cleaning requirements",
+    "medical device changes",
+    "safety reporting",
+    "reusable medical equipment",
+    "device sterilization",
+    "medical device oversight",
+    "healthcare equipment rules",
+    "device safety notifications",
+    "medical equipment testing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Disclosure and Encouragement of Verification, Innovation, Cleaning, and Efficiency Act of two thousand twenty five or the DEVICE Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reporting-requirement-for-design-and-reprocessing-instruction-changes",
+      "title": "Section 2 Reporting Requirement for Design and Reprocessing Instruction Changes",
+      "text": "This section makes two changes to current law. First, it says that medical devices are considered contaminated or unsafe if the company that makes them fails to report certain changes as required. Second, it creates a new rule that says device makers must tell the government in writing before they change how their device is designed or before they change the instructions for cleaning and sterilizing the device. This rule applies to devices that are sold across state lines.",
+      "word_offset": 30,
+      "char_offset": 189
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-reporting-requirement-for-certain-communications-to-foreign-health-care-providers",
+      "title": "Section 3 Reporting Requirement for Certain Communications to Foreign Health Care Providers",
+      "text": "This section also makes two changes. First, it says that medical devices are considered contaminated or unsafe if the company that makes them fails to report certain communications to foreign doctors and hospitals. Second, it creates a new rule that requires device companies to tell the government within five calendar days when they send certain messages to doctors and hospitals in other countries. The messages that must be reported are those that talk about changes to the device design, changes to cleaning instructions, or safety problems with the device. These messages must be ones that the company or its business partners send widely to healthcare providers in foreign countries. A business partner means any company that controls or is controlled by the device maker, or any company that is controlled by the same third party.",
+      "word_offset": 109,
+      "char_offset": 667
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-rapid-assessment-tests-intended-to-ensure-proper-reprocessing",
+      "title": "Section 4 Rapid Assessment Tests Intended to Ensure Proper Reprocessing",
+      "text": "This section makes changes to how the government regulates quick tests that check if medical devices have been properly cleaned. First, it officially includes these rapid assessment tests in the definition of medical devices that the government oversees. These tests are designed to make sure that reusable devices have been properly sanitized. A reusable device is one that is meant to be used more than once and must be cleaned, disinfected, or sterilized between uses to be safe. Second, this section requires the government to create and publish a list within one year of types of rapid assessment tests that must include detailed instructions for use and scientific data proving they work. The government must also update this list regularly. Once the list is published, the government will not approve any rapid assessment test on the list unless it comes with proper instructions and validation data.",
+      "word_offset": 244,
+      "char_offset": 1506
+    }
+  ]
+}

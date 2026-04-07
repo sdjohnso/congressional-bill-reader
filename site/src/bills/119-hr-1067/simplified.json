@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-1067",
+  "title": "LITTLE Act of 2025",
+  "short_title": "LITTLE Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1067",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2f1c22cb212fa05d",
+  "last_updated": "2026-04-07T14:59:29.453089+00:00",
+  "plain_summary": "The LITTLE Act of 2025 helps families with childcare costs in two ways. First, it gives people who start new childcare businesses up to ten thousand dollars as a tax credit to help them get started. Second, it creates a better tax credit for families that pays back up to half of what they spend on childcare. This new family credit replaces the old childcare tax credit and gives money back even to families who don't owe taxes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Gottheimer, Josh [D-NJ-5]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "childcare tax credit",
+    "daycare tax break",
+    "childcare business startup money",
+    "babysitting tax help",
+    "preschool tax credit",
+    "childcare cost relief",
+    "daycare startup funding",
+    "child care financial help",
+    "nursery business tax credit",
+    "family childcare assistance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Lowering Infant and Toddler Tuition for Learning and Education Act of 2025 or the LITTLE Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-childcare-provider-startup-credit",
+      "title": "Section 2  Childcare Provider Startup Credit",
+      "text": "This section creates a new tax credit for people who start childcare businesses. If you qualify, you can get a tax credit equal to thirty percent of your startup costs for childcare services. To qualify, you must provide childcare services that follow state and local rules, and you must have cared for at least two children for a significant part of the tax year. The startup costs that count are expenses you paid during the two years before your tax year to start and run your childcare business. The total amount of this credit you can get over all years is ten thousand dollars. You cannot get this credit for expenses that you already deducted or got another credit for somewhere else on your taxes. This credit becomes part of the general business credit system. These changes apply to expenses paid after this law is passed.",
+      "word_offset": 24,
+      "char_offset": 129
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-household-and-dependent-care-credit-increased-and-made-refundable",
+      "title": "Section 3  Household and Dependent Care Credit Increased and Made Refundable",
+      "text": "This section replaces the current childcare tax credit with a better version. The new credit helps people pay for childcare and household services they need so they can work. You can get a credit for a percentage of what you spend on these services. The percentage starts at fifty percent and goes down as your income goes up, but it never goes below thirty five percent. The percentage drops by one point for every two thousand dollars your income is above fifteen thousand dollars. You can use this credit if you have qualifying individuals, which means children under thirteen, disabled dependents who live with you more than half the year, or a disabled spouse who lives with you more than half the year. The expenses that count are payments for household services and care for qualifying individuals, but only if you need these services so you can work. There are limits on how much you can count. If you have one qualifying individual, you can count up to seven thousand five hundred dollars in expenses. If you have two or more qualifying individuals, you can count up to fifteen thousand dollars in expenses. Your credit cannot be more than your earned income, or if you are married, the smaller of your earned income or your spouse's earned income. There are special rules if your spouse is a student or disabled. The dollar amounts in this section will go up each year based on inflation. There are many other rules about filing requirements, who counts as married, and information you must provide. This credit is refundable, which means you can get money back even if you do not owe taxes. These changes apply to tax years that begin after this law is passed.",
+      "word_offset": 170,
+      "char_offset": 962
+    }
+  ]
+}

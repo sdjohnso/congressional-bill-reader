@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1140",
+  "title": "Health ACCESS Act",
+  "short_title": "Health ACCESS Act",
+  "congress": 119,
+  "bill_number": "S.1140",
+  "introduced_date": "2025-03-26",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9f1c92694aaf8c5a",
+  "last_updated": "2026-04-07T14:47:55.530814+00:00",
+  "plain_summary": "This bill makes it legal for doctors and hospitals to pay online companies that help patients schedule medical appointments. Right now, these payments might break federal laws that stop healthcare providers from giving money that could influence patient care. The bill creates special rules that protect these business deals as long as the scheduling companies follow strict guidelines. These rules make sure patients are not tricked or pushed toward certain doctors in the wrong ways. The goal is to let patients use helpful online tools to book appointments while keeping healthcare fair and honest.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-26",
+  "last_action_date": "2025-03-26",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Sen. Cassidy, Bill [R-LA]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "online appointment booking",
+    "doctor appointment scheduling",
+    "medical appointment apps",
+    "hospital scheduling websites",
+    "healthcare booking platforms",
+    "patient appointment tools",
+    "medical scheduling services",
+    "doctor payment rules",
+    "healthcare kickback laws",
+    "online medical scheduling"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Health Accelerating Consumer's Care by Expediting Self-Scheduling Act or the Health ACCESS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amendments-to-section-1128b",
+      "title": "Section 2 Amendments to Section 1128B",
+      "text": "This section changes the Social Security Act to allow healthcare providers and suppliers to pay certain online companies without breaking federal laws against kickbacks. These online companies help patients find and schedule appointments with doctors and other healthcare providers. The payments are allowed only if the online company follows specific rules. The company cannot steer patients to particular doctors based on how much those doctors pay the company. The company cannot pretend to provide medical care or give medical advice. The company cannot share patient contact information with doctors except for the specific doctor the patient chose. The company cannot provide transportation to medical appointments or give patients anything of value other than the convenience of using their service. The company cannot make unwanted phone calls or send unwanted text messages to people who have not used their service before or who have asked not to be contacted. The amount of money paid to the online company must be set ahead of time in writing and must be a fair price for the services provided. The payment cannot be based on how much business the company brings to the healthcare provider. The online company must clearly tell patients about any financial relationships it has with healthcare providers. The company must give patients information about healthcare providers based only on facts that help patients make good choices. The company must have clear rules for which healthcare providers can be listed on their platform and cannot exclude providers who meet those rules. The Secretary of Health and Human Services can set additional requirements. This section also defines two important terms. A consumer is someone who uses a website to search for healthcare providers. An information service provider is any person or company that operates a website where people can find information about healthcare providers.",
+      "word_offset": 19,
+      "char_offset": 123
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-sres-62",
+  "title": "An original resolution authorizing expenditures by the Special Committee on Aging.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.62",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "0dcdad5d0afcdbad",
+  "last_updated": "2026-04-07T15:05:03.083561+00:00",
+  "plain_summary": "This bill gives the Special Committee on Aging permission to spend money and hire workers for two years, from March 2025 to February 2027. The committee can spend more than seven million dollars total during this time. Some of this money will be used to pay for outside experts and to train staff members. The spending is divided into three different time periods with specific limits for each period.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the Committee on Rules and Administration. (text: CR S797-798)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "Senate Special Committee on Aging"
+  ],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "aging committee funding",
+    "senate aging committee budget",
+    "elderly issues committee money",
+    "aging committee spending authorization",
+    "senior citizens committee funding",
+    "aging committee staff hiring",
+    "elderly affairs committee budget",
+    "aging committee expert consultants",
+    "senior issues committee expenditures",
+    "aging committee two year funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-general-authority",
+      "title": "Section 1 General Authority",
+      "text": "The Special Committee on Aging (called the committee in this resolution) has the power to do its work as defined by an earlier Senate resolution from nineteen seventy-seven. From March first, two thousand twenty-five through February twenty-eighth, two thousand twenty-seven, the committee is allowed to spend money from the Senate's emergency fund, hire staff members, and use employees from government departments or agencies with permission from those departments and the Committee on Rules and Administration. The committee may have to pay back the cost of using outside employees or may use them for free.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expenses",
+      "title": "Section 2 Expenses",
+      "text": "The committee has spending limits for three time periods. From March first, two thousand twenty-five through September thirtieth, two thousand twenty-five, the committee cannot spend more than two million sixty thousand six hundred ninety-five dollars. During this time, up to one thousand five hundred dollars can be used to hire outside consultants or consulting companies, and up to one thousand five hundred dollars can be used to train professional staff members. From October first, two thousand twenty-five through September thirtieth, two thousand twenty-six, the committee cannot spend more than three million five hundred thirty-two thousand six hundred twenty dollars. The same one thousand five hundred dollar limits apply for consultants and staff training. From October first, two thousand twenty-six through February twenty-eighth, two thousand twenty-seven, the committee cannot spend more than one million four hundred seventy-one thousand nine hundred twenty-five dollars. Again, the same one thousand five hundred dollar limits apply for consultants and staff training.",
+      "word_offset": 94,
+      "char_offset": 611
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-expenses-and-agency-contributions",
+      "title": "Section 3 Expenses and Agency Contributions",
+      "text": "The committee will pay for its expenses from the Senate's emergency fund using vouchers (official payment requests) that the committee chairman approves. However, vouchers are not needed for certain regular payments including employee salaries paid yearly, phone and communication services from the Senate's security office, office supplies from the Senate supply keeper, mail services, copying machine costs, recording and photography services, and mailing costs handled by the Senate security office. The Senate also has a separate account called Expenses of Inquiries and Investigations that will pay for employee benefits and other costs related to paying committee staff during all three time periods covered by this resolution.",
+      "word_offset": 250,
+      "char_offset": 1700
+    }
+  ]
+}

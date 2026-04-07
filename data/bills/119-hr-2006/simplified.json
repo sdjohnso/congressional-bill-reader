@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2006",
+  "title": "DOGE Act",
+  "short_title": "DOGE Act",
+  "congress": 119,
+  "bill_number": "HR.2006",
+  "introduced_date": "2025-03-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7cd16b259d9b59f0",
+  "last_updated": "2026-04-07T14:16:17.394463+00:00",
+  "plain_summary": "The DOGE Act is a new law that takes an executive order made by the president and turns it into an official law passed by Congress. Executive Order 14210 was something the president ordered, but now Congress is making it a permanent law with the same power as other laws they pass. This means the rules in that executive order will now be official law that is harder to change or remove. The bill is called the DOGE Act as its short name.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-10",
+  "last_action_date": "2025-03-10",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Mills, Cory [R-FL-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 8,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "executive order into law",
+    "president order made permanent",
+    "DOGE legislation",
+    "executive order 14210",
+    "presidential directive law",
+    "government efficiency",
+    "federal reform",
+    "bureaucracy reduction",
+    "government waste",
+    "administrative reform",
+    "federal spending cuts",
+    "government streamlining"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Department of Government Efficiency Act or the DOGE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-codification-of-executive-order-14210",
+      "title": "Section 2  Codification of Executive Order 14210",
+      "text": "Executive Order fourteen thousand two hundred ten (which is published in volume ninety of the Federal Register on page nine thousand six hundred sixty-nine and deals with putting the President's Department of Government Efficiency workforce optimization initiative into action) will have the same power as a law passed by Congress.",
+      "word_offset": 15,
+      "char_offset": 84
+    }
+  ]
+}

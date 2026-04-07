@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-2248",
+  "title": "SIGN Pardons Act",
+  "short_title": "SIGN Pardons Act",
+  "congress": 119,
+  "bill_number": "HR.2248",
+  "introduced_date": "2025-03-21",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b096ef454b45d890",
+  "last_updated": "2026-04-07T14:56:00.157434+00:00",
+  "plain_summary": "The SIGN Pardons Act is a new law that changes how the President gives pardons. A pardon is when the President forgives someone for a crime they committed. Right now, the President might not have to sign pardons themselves. This new law says the President must personally write their signature on every pardon they give out.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-21",
+  "last_action_date": "2025-03-21",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [],
+  "sponsor_name": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "presidential pardons",
+    "president signature",
+    "pardon process",
+    "presidential forgiveness",
+    "crime forgiveness",
+    "president must sign",
+    "pardon requirements",
+    "presidential clemency",
+    "forgive crimes",
+    "president handwriting",
+    "pardon signing law"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Signature Integrity for Granting National Pardons Act or the SIGN Pardons Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-presidential-signature-required-for-pardons",
+      "title": "Section 2  Presidential Signature Required for Pardons",
+      "text": "The President must personally sign with their own hand any pardon or reprieve (a delay or reduction of punishment) that they give to someone. This applies to all pardons and reprieves that the President has the power to grant under Article Two, Section Two, Clause One of the United States Constitution.",
+      "word_offset": 18,
+      "char_offset": 106
+    }
+  ]
+}

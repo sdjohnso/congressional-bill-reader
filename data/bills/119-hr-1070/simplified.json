@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1070",
+  "title": "Restoring Competitive Property Insurance Availability Act",
+  "short_title": "Restoring Competitive Property Insurance Availability Act",
+  "congress": 119,
+  "bill_number": "HR.1070",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "cf57a7e1742461c6",
+  "last_updated": "2026-04-07T14:59:57.001604+00:00",
+  "plain_summary": "This bill helps insurance companies that already sell property insurance in areas hit by disasters. When the federal government declares a disaster, these insurance companies can pay less in taxes for five years after the disaster happens. The companies can exclude some of their income from being taxed during this time. This is meant to help insurance companies keep offering coverage in disaster areas so people can still buy insurance for their homes and businesses.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Higgins, Clay [R-LA-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "property insurance",
+    "home insurance",
+    "disaster areas",
+    "insurance companies",
+    "tax breaks",
+    "hurricane insurance",
+    "flood insurance",
+    "disaster relief",
+    "insurance coverage",
+    "natural disasters",
+    "insurance availability",
+    "disaster zones"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Restoring Competitive Property Insurance Availability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exclusion-of-certain-income",
+      "title": "Section 2 Exclusion of Certain Income from Providing Real Property Insurance Following Certain Federally Declared Disasters",
+      "text": "This section changes the tax code to help insurance companies after disasters. When the federal government declares a disaster area, certain insurance companies can exclude some of their income from taxes. Here is how it works. A specified insurance company is any insurance company except life insurance companies that was already providing property insurance in the disaster area before the disaster happened. These companies can exclude their qualified real property insurance income from their taxes for five years after the disaster. Qualified real property insurance income means the money the insurance company receives from property insurance premiums in the disaster area minus the costs that go with those premiums. Real property insurance covers buildings and land. It can also cover personal belongings if they are covered under the same policy as the building and are located on the same property. The recovery period lasts for the first five tax years that end after the disaster happened. A disaster area means an area that the federal government has officially declared a disaster under existing tax law. The incident date is the earliest date listed in the federal disaster declaration. This tax benefit applies to disasters that happen after December thirty first, two thousand twenty four.",
+      "word_offset": 12,
+      "char_offset": 86
+    }
+  ]
+}

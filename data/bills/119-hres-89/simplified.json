@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hres-89",
+  "title": "Providing amounts for the expenses of the Committee on Agriculture in the One Hundred Nineteenth Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.89",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2d43bc59665a77b4",
+  "last_updated": "2026-04-07T14:32:33.953131+00:00",
+  "plain_summary": "This bill gives the House Committee on Agriculture nearly fifteen million dollars to cover their costs during the 119th Congress. The money will pay for things like staff salaries and other expenses the committee needs to do its work. The funding is divided between two years and must be spent following special rules set by the House Administration Committee. This helps make sure the Agriculture Committee has the resources it needs to operate properly.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-31",
+  "last_action_date": "2025-01-31",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "House Committee on Agriculture"
+  ],
+  "sponsor_name": "Rep. Thompson, Glenn [R-PA-15]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "house agriculture committee funding",
+    "congress committee budget",
+    "agriculture committee money",
+    "congressional committee expenses",
+    "house committee staff salaries",
+    "agriculture committee resources",
+    "congress spending on committees",
+    "house agriculture budget",
+    "committee operating costs",
+    "congressional agriculture funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-amounts-for-committee-expenses",
+      "title": "Section 1  Amounts for Committee Expenses",
+      "text": "The Committee on Agriculture will receive money to pay for its expenses during the One Hundred Nineteenth Congress. This includes paying all staff salaries and other costs. The committee can spend no more than fourteen million nine hundred three thousand seven hundred dollars total. This money will come from the House of Representatives accounts that are set aside for committee salaries and expenses.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-session-limitations",
+      "title": "Section 2  Session Limitations",
+      "text": "The money from Section 1 will be split into two parts. First, no more than seven million two hundred thirty one thousand three hundred seventy five dollars can be spent during the first year. This covers the time from noon on January third two thousand twenty five until just before noon on January third two thousand twenty six. Second, no more than seven million six hundred seventy two thousand three hundred twenty five dollars can be spent during the second year. This covers the time from noon on January third two thousand twenty six until just before noon on January third two thousand twenty seven.",
+      "word_offset": 63,
+      "char_offset": 404
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-vouchers",
+      "title": "Section 3  Vouchers",
+      "text": "Before any money can be paid out, the Committee on Agriculture must create vouchers (official payment requests). The Chairman of the Committee on Agriculture must sign these vouchers. The Committee on House Administration must then approve the vouchers following their usual process.",
+      "word_offset": 168,
+      "char_offset": 1012
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-regulations",
+      "title": "Section 4  Regulations",
+      "text": "The Committee on Agriculture must spend this money following the rules set by the Committee on House Administration. They cannot spend the money however they want but must follow the official guidelines.",
+      "word_offset": 210,
+      "char_offset": 1296
+    }
+  ]
+}

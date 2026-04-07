@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-s-274",
+  "title": "Next of Kin Collections Protection Act of 2025",
+  "short_title": "Next of Kin Collections Protection Act of 2025",
+  "congress": 119,
+  "bill_number": "S.274",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "65dd4bb64e378ed7",
+  "last_updated": "2026-04-07T14:10:13.393974+00:00",
+  "plain_summary": "This bill changes the rules about when the Department of Veterans Affairs stops pension payments after a veteran or family member who receives benefits dies. Under the new rules, pension payments will continue until the end of the month when the person dies, instead of stopping right away. This means families can keep the full pension payment for that final month. The new rules only apply to people who die after this law goes into effect.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-28",
+  "last_action_date": "2025-01-28",
+  "last_action_text": "Read twice and referred to the Committee on Veterans' Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Military personnel and dependents",
+    "Veterans' pensions and compensation"
+  ],
+  "sponsor_name": "Sen. Daines, Steve [R-MT]",
+  "sponsor_party": "R",
+  "sponsor_state": "MT",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veteran pension",
+    "veteran death benefits",
+    "family benefits after death",
+    "military pension payments",
+    "veteran survivor benefits",
+    "pension stops when veteran dies",
+    "veteran family money",
+    "military death benefits",
+    "veteran widow benefits",
+    "pension payment rules",
+    "veteran spouse benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Next of Kin Collections Protection Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-payment-by-secretary-of-veterans-affairs-of-certain-benefits-affected-by-death",
+      "title": "Section 2  Payment by Secretary of Veterans Affairs of Certain Benefits Affected by Death",
+      "text": "This section changes how the Department of Veterans Affairs handles benefit payments when someone dies. First, it changes when certain benefits stop being paid after death. For most benefits like disability payments and survivor payments, benefits stop at the end of the month when the person dies, except for pension payments under existing ratings or decisions. For pension payments under existing ratings or decisions, benefits stop on the last day of the month when the person dies. The section also updates references to paragraph numbers that got moved around because of these changes. Second, it allows the Department of Veterans Affairs to make payments for the month when someone dies in certain cases. These changes will apply to deaths that happen on or after the day this law is signed.",
+      "word_offset": 16,
+      "char_offset": 89
+    }
+  ]
+}

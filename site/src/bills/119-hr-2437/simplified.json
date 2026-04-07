@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2437",
+  "title": "EASE Act of 2025",
+  "short_title": "EASE Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2437",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c3f05b33761a5d2c",
+  "last_updated": "2026-04-07T14:18:44.553185+00:00",
+  "plain_summary": "The EASE Act of 2025 is a new law that changes how hospitals help certain Medicare patients. When Medicare patients are leaving the hospital, the hospital must tell them about hospice care programs if they might qualify for this type of care. Hospice care is special medical care for people who are very sick and helps them feel more comfortable. This new rule will start on January 1, 2026.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Houchin, Erin [R-IN-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "hospital discharge",
+    "Medicare patients",
+    "hospice care",
+    "end of life care",
+    "comfort care",
+    "terminal illness",
+    "hospital requirements",
+    "patient information",
+    "dying patients",
+    "palliative care"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the End-of-life Access to Supportive and Essential care Act of two thousand twenty-five or the EASE Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requiring-hospitals-to-provide-information-on-available-hospice-programs",
+      "title": "Section 2 Requiring Hospitals to Provide Information on Available Hospice Programs to Certain Individuals Upon Discharge Under the Medicare Program",
+      "text": "This section changes the rules about what hospitals must tell patients when they leave the hospital under Medicare. The law changes part of the Social Security Act that deals with Medicare. When patients are getting ready to leave the hospital, the hospital must give them information about different types of care they might need at home. The new rules say hospitals must tell patients about three types of care. First, if patients will likely need home health services, hospitals must tell them about home health agencies that can provide these services and that the hospital has listed as available. Second, if patients will likely need extended care services after leaving the hospital, hospitals must tell them about nursing homes and other facilities that can provide this care and that the hospital has listed as available. Third, and this is the new requirement, if patients will likely be eligible for hospice care (end-of-life comfort care), hospitals must tell them about hospice programs that accept Medicare and that serve the area where the patient lives. These new rules will start on January first, two thousand twenty-six.",
+      "word_offset": 26,
+      "char_offset": 156
+    }
+  ]
+}

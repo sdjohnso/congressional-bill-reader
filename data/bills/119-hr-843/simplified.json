@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-843",
+  "title": "Prompt Approval of Safe Generic Drugs Act",
+  "short_title": "Prompt Approval of Safe Generic Drugs Act",
+  "congress": 119,
+  "bill_number": "HR.843",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "321e84ae7046b272",
+  "last_updated": "2026-04-07T15:07:39.659013+00:00",
+  "plain_summary": "This bill makes it easier for generic drugs to get approved by the FDA. Sometimes generic drug companies cannot put certain safety warnings on their labels because the original drug company has special legal rights to that information. Under this new law, the FDA can still approve these generic drugs even if they are missing some safety information on their labels. However, the FDA must make sure the generic drugs still include all the important safety warnings that people need to use the medicine safely.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-31",
+  "last_action_date": "2025-01-31",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Drug safety, medical device, and laboratory regulation",
+    "Marketing and advertising"
+  ],
+  "sponsor_name": "Rep. Barragán, Nanette Diaz [D-CA-44]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "generic drugs",
+    "cheaper medicine",
+    "drug approval",
+    "FDA approval",
+    "medicine labels",
+    "drug safety warnings",
+    "prescription drugs",
+    "affordable medication",
+    "generic medication approval",
+    "drug labeling requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Prompt Approval of Safe Generic Drugs Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prompt-approval-of-drugs-when-safety-information-is-added-to-labeling",
+      "title": "Section 2 Prompt Approval of Drugs When Safety Information Is Added to Labeling",
+      "text": "This section changes the Federal Food, Drug, and Cosmetic Act by adding new rules about drug approval. Under the new rules, generic drugs and other medicines cannot be rejected for approval just because their labels are missing certain safety information. This applies when the missing safety information is protected by special rules that give the original drug company exclusive rights to use that information for a certain time period. These exclusive rights can come from patent protection or from FDA rules that prevent competitors from copying certain safety data. Even though generic drug companies cannot include this protected safety information on their labels, the FDA must still require them to include any other safety information that the FDA thinks is necessary to make sure people can use the drug safely. These new rules do not change how long the original drug companies get to keep their exclusive rights. They also do not change whether other types of drug applications can be approved if they are missing different kinds of protected information from their labels.",
+      "word_offset": 13,
+      "char_offset": 70
+    }
+  ]
+}

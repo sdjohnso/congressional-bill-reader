@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2871",
+  "title": "Safeguarding U.S. Supply Chains Act",
+  "short_title": "Safeguarding U.S. Supply Chains Act",
+  "congress": 119,
+  "bill_number": "HR.2871",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "efe588f08292f7c4",
+  "last_updated": "2026-04-07T14:21:05.515448+00:00",
+  "plain_summary": "This bill changes tax rules to protect America's supply chains from foreign threats. It stops companies from getting special tax breaks if they use parts or materials from foreign companies that could harm national security. The new rules especially focus on battery parts used in products. Companies that work with risky foreign suppliers will lose their manufacturing tax credits. The law starts working right away once it is passed.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Miller, Max L. [R-OH-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "supply chain protection",
+    "foreign threats",
+    "national security",
+    "tax breaks",
+    "manufacturing credits",
+    "battery parts",
+    "risky suppliers",
+    "America first",
+    "domestic production",
+    "foreign companies"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Safeguarding U.S. Supply Chains Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-restriction-on-advanced-manufacturing-production-credit-with-respect-to-foreign-entities-of-concern",
+      "title": "Section 2  Restriction on Advanced Manufacturing Production Credit With Respect to Foreign Entities of Concern",
+      "text": "This section changes the tax code to limit when companies can get tax credits for making certain products. Part A says companies cannot get the advanced manufacturing production credit if the parts they make come from foreign entities of concern. A foreign entity of concern means a company from another country that might pose a risk to national security, as defined in an earlier defense law. Part B adds extra rules for battery parts. Companies cannot call their battery parts qualifying battery components if those parts were made using technology that was designed, developed, manufactured, licensed, or supplied by a foreign entity of concern. Part C says these new rules apply to parts that are made and sold after this law goes into effect.",
+      "word_offset": 11,
+      "char_offset": 64
+    }
+  ]
+}

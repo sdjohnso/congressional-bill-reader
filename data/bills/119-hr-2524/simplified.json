@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2524",
+  "title": "REPEAL CBO Requirements Act",
+  "short_title": "REPEAL CBO Requirements Act",
+  "congress": 119,
+  "bill_number": "HR.2524",
+  "introduced_date": "2025-03-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "07a517781c3f66d6",
+  "last_updated": "2026-04-07T14:56:16.492551+00:00",
+  "plain_summary": "This bill lets congressional committee leaders choose to hire big private accounting companies instead of using the Congressional Budget Office to figure out how much new laws will cost. The private companies must be one of the 10 biggest accounting firms in the country. If a committee uses a private company, that cost estimate becomes official and the Congressional Budget Office cannot make its own estimate. The private company's numbers would be used for all budget rules instead of the government agency's numbers.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-31",
+  "last_action_date": "2025-03-31",
+  "last_action_text": "Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [],
+  "sponsor_name": "Rep. Tenney, Claudia [R-NY-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congressional budget office",
+    "private accounting firms",
+    "cost estimates",
+    "committee leaders",
+    "budget rules",
+    "government spending analysis",
+    "CBO alternatives",
+    "outsource budget analysis",
+    "big accounting companies",
+    "congressional committees"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Replacing Exploitative Partisan Estimates with Alternatives by Liquidating Congressional Budget Office Requirements or the REPEAL CBO Requirements Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-budget-estimates-by-reputable-accounting-firms",
+      "title": "Section 2 Budget Estimates by Reputable Accounting Firms",
+      "text": "This section changes an existing law called the Congressional Budget and Impoundment Control Act of nineteen seventy four. Under current law, the Congressional Budget Office (a government agency that estimates how much bills will cost) must provide cost estimates for legislation. This change allows committee chairs in the House of Representatives or Senate to choose a different option. Instead of getting a cost estimate from the Congressional Budget Office, they can hire a private accounting firm to do the estimate. The accounting firm must be one of the ten largest accounting firms that are registered with the Public Company Accounting Oversight Board (the group that oversees accounting firms). When a committee gets an estimate from a private accounting firm, that estimate will be used instead of the Congressional Budget Office estimate for all budget rules and requirements. This includes rules about balanced budgets, pay as you go requirements, budget resolutions, and House and Senate rules including reconciliation procedures (a special budget process). If a committee chooses to use a private accounting firm, then the Congressional Budget Office will not prepare its own estimate for that bill. The law also allows budget committees to use these private firm estimates when they do their budget work.",
+      "word_offset": 24,
+      "char_offset": 179
+    }
+  ]
+}

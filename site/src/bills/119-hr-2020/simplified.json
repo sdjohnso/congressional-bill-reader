@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-2020",
+  "title": "New Mexico Rural Veteran Health Care Access Act",
+  "short_title": "New Mexico Rural Veteran Health Care Access Act",
+  "congress": 119,
+  "bill_number": "HR.2020",
+  "introduced_date": "2025-03-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "802cd1ff84d7aec6",
+  "last_updated": "2026-04-07T14:45:02.454325+00:00",
+  "plain_summary": "This bill tells the Department of Veterans Affairs that they must move two counties in New Mexico to a different health care network. The counties will be moved to a network that can better serve veterans who live in rural areas. This change must happen within six months after the law is passed. The goal is to make it easier for veterans living in the countryside to get the medical care they need.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-01",
+  "last_action_date": "2025-04-01",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [],
+  "sponsor_name": "Rep. Vasquez, Gabe [D-NM-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "NM",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "veterans health care",
+    "rural veterans",
+    "New Mexico veterans",
+    "veteran medical care",
+    "countryside veterans",
+    "veteran hospitals",
+    "rural health care access",
+    "veterans affairs",
+    "veteran clinics",
+    "remote area veterans",
+    "veteran health services"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the New Mexico Rural Veteran Health Care Access Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-inclusion-of-two-counties-in-new-mexico-in-a-certain-veterans-integrated-service-network",
+      "title": "Section 2  Inclusion of Two Counties in New Mexico in a Certain Veterans Integrated Service Network",
+      "text": "Within one hundred eighty days after this law is passed, the Secretary of Veterans Affairs must change the boundaries of the Veterans Integrated Service Networks. A Veterans Integrated Service Network is a regional system that organizes veteran health care services in different parts of the country. The Secretary must move Otero County and Eddy County in New Mexico into Veterans Integrated Service Network seventeen.",
+      "word_offset": 14,
+      "char_offset": 76
+    }
+  ]
+}

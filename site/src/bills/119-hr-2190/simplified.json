@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-2190",
+  "title": "Shareholder Political Transparency Act of 2025",
+  "short_title": "Shareholder Political Transparency Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2190",
+  "introduced_date": "2025-03-18",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "af99288db520def1",
+  "last_updated": "2026-04-07T14:35:46.672410+00:00",
+  "plain_summary": "This bill makes companies that sell stock to the public tell everyone about the money they spend on politics. Companies must write reports four times a year and once a year that show how much money they gave to help political candidates or paid to groups that might use it for politics. These reports must be put on the internet so anyone can look at them and see what the companies are doing with their money. This helps people who own stock in these companies know how their money is being used for political things.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-18",
+  "last_action_date": "2025-03-18",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Foster, Bill [D-IL-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 7,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "corporate political spending",
+    "company political donations",
+    "business campaign contributions",
+    "shareholder transparency",
+    "corporate money in politics",
+    "public company political activities",
+    "stock company political reports",
+    "business political disclosure",
+    "corporate campaign finance",
+    "company election spending"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Shareholder Political Transparency Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2 Findings",
+      "text": "Congress has found several important facts. First, corporations spend large amounts of money on politics to help elect certain candidates and support or oppose political causes. Second, company boards and executives usually decide how to spend this political money, not the shareholders who actually own the company. Third, corporations and their leaders are supposed to run the business in the best interests of their owners, the shareholders. Fourth, in the past, shareholders have not been able to find out about or influence their company's political activities. Fifth, shareholders and the general public have the right to know how company managers spend company money on political contributions and activities that help candidates, political parties, and political causes. Sixth, corporations should be responsible to their shareholders when they make political contributions or spend money that affects federal government and public policy.",
+      "word_offset": 15,
+      "char_offset": 95
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-reporting-requirements",
+      "title": "Section 3 Reporting Requirements",
+      "text": "This section changes the Securities Exchange Act of nineteen thirty four by adding new rules about reporting political spending. The new rules include several definitions and requirements. An expenditure for political activities means spending money independently to influence elections, paying for communications about candidates near election time, or paying dues to trade associations or tax exempt organizations that might use that money for political purposes. However, this does not include direct lobbying by hired lobbyists, communications to shareholders and employees and their families, or setting up separate political action committees. The term issuer does not include investment companies registered under federal law. The Securities and Exchange Commission must create new reporting rules within one hundred eighty days. Companies with publicly traded stock must file quarterly reports with the Commission and their shareholders. These reports must describe any political spending during the previous three months, including the date and amount of each expenditure. If the money supported or opposed a candidate, the report must name the candidate, the office they sought, and their political party. The reports must also identify trade associations or tax exempt groups that received dues or payments that could be used for politics. The Commission must make these quarterly reports available to the public on its website and through its EDGAR system so people can search, sort, and download the information. Companies must also include information in their annual reports to shareholders. This includes a summary of political spending over ten thousand dollars during the previous year, or spending for a particular election that totaled over ten thousand dollars. Companies must describe the specific types of political spending they plan to make in the coming year, if they know what those will be, and the total amount they plan to spend on political activities. The Commission must check each year to see if companies are following these rules and report to Congress about their findings. The Government Accountability Office must regularly evaluate how well the Commission is overseeing these reporting and disclosure requirements and report to Congress about this.",
+      "word_offset": 154,
+      "char_offset": 1043
+    }
+  ]
+}

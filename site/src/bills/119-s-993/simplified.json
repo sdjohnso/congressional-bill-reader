@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-s-993",
+  "title": "School Lunch Debt Cancellation Act of 2025",
+  "short_title": "School Lunch Debt Cancellation Act of 2025",
+  "congress": 119,
+  "bill_number": "S.993",
+  "introduced_date": "2025-03-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "66ae6d46800e4fe0",
+  "last_updated": "2026-04-07T15:09:59.099198+00:00",
+  "plain_summary": "This bill helps families who owe money for school lunches by making the government pay off all their debt. The government will use money from a farming fund to pay back school districts for these unpaid meal costs. The bill also lets two other food programs use money from this same fund and keeps one of these programs running until 2030. This means students and families will not have to worry about owing money for school meals anymore.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-12",
+  "last_action_date": "2025-03-12",
+  "last_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Sen. Fetterman, John [D-PA]",
+  "sponsor_party": "D",
+  "sponsor_state": "PA",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "school lunch debt",
+    "unpaid school meals",
+    "free school lunch",
+    "student meal debt forgiveness",
+    "school cafeteria debt",
+    "kids lunch money",
+    "school food program",
+    "meal debt relief",
+    "school breakfast and lunch",
+    "student food assistance",
+    "school meal payment help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the School Lunch Debt Cancellation Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-cancellation-of-school-meal-debt",
+      "title": "Section 2  Cancellation of School Meal Debt",
+      "text": "Within one hundred eighty days after this law is passed, the Secretary of Agriculture must cancel and wipe out all money that families owe for school meals as of the day this law was passed. This includes debt from the school lunch program created under the Richard B. Russell National School Lunch Act and the school breakfast program under section four of the Child Nutrition Act of nineteen sixty six.\n\nThe Secretary of Agriculture must use money from the Commodity Credit Corporation (a government fund that helps support farming and food programs) to pay back the school districts for the debt that was canceled. The Secretary must also send written proof to each family that their debt has been canceled.\n\nThis section also changes the Richard B. Russell National School Lunch Act by adding new powers for the Secretary. The new language says that despite any other law, the Secretary can cancel all school meal debt owed by families for both lunch and breakfast programs. When the Secretary cancels debt, they must use Commodity Credit Corporation money to pay the school districts back and send confirmation letters to families.",
+      "word_offset": 16,
+      "char_offset": 91
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-use-of-commodity-credit-corporation-funds-for-other-nutrition-programs",
+      "title": "Section 3  Use of Commodity Credit Corporation Funds for Other Nutrition Programs",
+      "text": "This section makes changes to two existing food assistance programs so they can use money from the Commodity Credit Corporation.\n\nFor the Commodity Supplemental Food Program, the law changes the ending date from two thousand twenty three to two thousand thirty. It also adds that the program can now use funds from the Commodity Credit Corporation in addition to money from the Treasury.\n\nFor the Emergency Food Assistance Program, the law removes specific language about how much money can be used and instead says any funds from the Commodity Credit Corporation can be used to run this program. It also adds a new part that says in addition to any other money made available, the Secretary can use whatever amount is needed from the Commodity Credit Corporation funds to carry out this program.",
+      "word_offset": 205,
+      "char_offset": 1228
+    }
+  ]
+}

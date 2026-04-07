@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-832",
+  "title": "Small Business Advocacy Improvements Act of 2025",
+  "short_title": "Small Business Advocacy Improvements Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.832",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "19ed7228b988df5a",
+  "last_updated": "2026-04-07T15:17:01.317708+00:00",
+  "plain_summary": "This bill makes small changes to the Office of Advocacy, which is part of the Small Business Administration. The office helps protect small businesses by speaking up for them when new rules are being made. The bill adds two new jobs for this office. First, it will study how small businesses fit into the world economy. Second, it will represent small businesses when dealing with foreign governments and international groups to make sure small business concerns are heard in trade and rule-making that could affect them.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-25",
+  "last_action_date": "2025-02-25",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [
+    "Competition and antitrust",
+    "Competitiveness, trade promotion, trade deficits",
+    "International organizations and cooperation",
+    "Small business"
+  ],
+  "sponsor_name": "Rep. Williams, Roger [R-TX-25]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "small business help",
+    "small business protection",
+    "small business advocacy",
+    "small business rules",
+    "small business trade",
+    "small business international",
+    "small business government support",
+    "small business world economy",
+    "small business foreign trade",
+    "business administration changes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Small Business Advocacy Improvements Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amendment-to-primary-functions-and-duties",
+      "title": "Section 2 Amendment to Primary Functions and Duties of the Office of Advocacy of the Small Business Administration",
+      "text": "This section makes changes to an existing law about the Office of Advocacy (a department that speaks up for small businesses within the Small Business Administration). First, it updates the primary functions by adding that the office should consider how small businesses fit into the international economy, not just the domestic economy. It also fixes two spelling errors in the current law by changing complete to compete and serviced-disabled to service-disabled. Second, it adds a new duty for the Office of Advocacy. The office must now represent small business views and interests when dealing with foreign governments and international organizations. This new responsibility helps small businesses have a voice in regulations and trade deals that might affect them.",
+      "word_offset": 15,
+      "char_offset": 97
+    }
+  ]
+}

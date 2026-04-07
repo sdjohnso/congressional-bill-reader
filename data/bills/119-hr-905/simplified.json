@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-905",
+  "title": "EITC Modernization Act",
+  "short_title": "EITC Modernization Act",
+  "congress": 119,
+  "bill_number": "HR.905",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "6d2280b4a90de576",
+  "last_updated": "2026-04-07T14:19:18.634179+00:00",
+  "plain_summary": "The EITC Modernization Act makes it easier for more people to get help with their taxes through the earned income tax credit. This tax credit gives money back to people who do not make a lot of money from working. The bill lets college students and people who take care of family members besides children get this help too. It also gives money to groups that help low income people prepare their taxes for free.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-31",
+  "last_action_date": "2025-01-31",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 17,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "earned income tax credit",
+    "tax help for low income",
+    "college student tax credit",
+    "caregiver tax benefits",
+    "family caregiver tax help",
+    "free tax preparation",
+    "tax credit for working families",
+    "low income tax assistance",
+    "tax money back for workers",
+    "helping relatives tax credit"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the EITC Modernization Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2  Findings",
+      "text": "Congress has found these facts to be true. The Federal earned income tax credit is money the government gives back to lower and middle income working people and families who earn below a certain amount. Since it started in nineteen seventy five, this credit has increased family income, reduced child poverty, and encouraged people to work by adding extra money to what low wage workers earn, including military families. The credit helps improve education and health for children living in poverty. The credit helps local economies and businesses because it puts more money in the hands of low and middle income working people who spend that money right away on things they need like groceries, school supplies, car repairs, rent, and health care. The gap between what the richest Americans earn and what middle and lower income Americans earn is getting dangerously wide. There is an urgent need to fix that gap, including through laws like this one and by raising the Federal minimum wage, which together would increase wages for working Americans, make it easier to have steady income, and reduce income inequality.",
+      "word_offset": 9,
+      "char_offset": 51
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-modifications-of-the-earned-income-tax-credit",
+      "title": "Section 3  Modifications of the Earned Income Tax Credit",
+      "text": "This section makes several changes to the earned income tax credit. First, it expands who can get the credit by including people who take care of qualifying dependents instead of just qualifying children. A qualifying dependent means a qualifying child, an aged dependent who is sixty five or older, or someone you pay child care costs for. You must include the name, age, and tax identification number of any qualifying dependent on your tax return. The dependent must live in the United States for more than half the year. Second, it lets qualifying students get the credit even if they do not have dependents. A qualifying student must be enrolled in college, not be claimed as a dependent by someone else, and either qualify for a Federal Pell Grant or have income less than two hundred fifty percent of the poverty line for their family size. Third, it creates a minimum credit of one thousand two hundred dollars for qualifying students and people with certain qualifying dependents, except for young qualifying children under age seven. Fourth, it allows people to get their refund in monthly payments instead of one lump sum. If your refund is more than two hundred forty dollars, you can choose to get it spread out over thirteen months, with the first payment being larger. Payments will be made by direct deposit or prepaid card, not by check. Fifth, it includes a special rule for new low income parents. If you are getting monthly payments and have a baby or adopt a child during the following year, your remaining payments will be increased to reflect having that new child. Sixth, it lowers the minimum age to get the credit without dependents from twenty five to eighteen. All these changes apply to tax years that begin after this law is passed.",
+      "word_offset": 193,
+      "char_offset": 1171
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-return-preparation-programs-for-low-income-taxpayers",
+      "title": "Section 4  Return Preparation Programs for Low-Income Taxpayers",
+      "text": "This section creates a new grant program to help low income people get their taxes done. The Internal Revenue Service will give matching grants to qualified programs that help low income taxpayers and underserved groups prepare their tax returns. Programs can use grant money for staff salaries, training materials, equipment, travel costs for remote tax help, outreach and education activities, and financial education services. Grant money cannot be used for overhead expenses not directly related to tax preparation. To get a grant, organizations must apply and show they help low income taxpayers, do outreach about tax credits like the earned income tax credit, and focus on underserved populations. The IRS will visit programs to make sure they are doing good work and preparing accurate returns. Programs must have at least a ninety percent accuracy rate to keep getting grants. A qualified program must help people who are at least ninety percent low income taxpayers, be run by a qualified organization, train all volunteers properly, and review one hundred percent of tax returns. Qualified organizations include colleges, nonprofit organizations, local government agencies, Indian tribes, coalitions, state agencies, and cooperative extension services. Low income taxpayer means someone whose income is below the phase out limit for married couples with three or more children getting the earned income tax credit. Underserved populations include people with disabilities, people with limited English, Native Americans, rural residents, military members and spouses, and elderly people. Grants can last up to three years and the program can spend up to thirty million dollars per year. The IRS will promote these programs and refer taxpayers to them. These changes apply to tax years beginning after this law is passed.",
+      "word_offset": 496,
+      "char_offset": 2934
+    }
+  ]
+}

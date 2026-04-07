@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-3007",
+  "title": "Medicare Protection Act of 2025",
+  "short_title": "Medicare Protection Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.3007",
+  "introduced_date": "2025-04-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9a608f11799d1357",
+  "last_updated": "2026-04-07T15:17:46.481736+00:00",
+  "plain_summary": "This bill helps people on Medicare who sell their main home. When Medicare figures out how much someone should pay for their health insurance based on their income, they won't count the money from selling a house. This means people might pay lower Medicare costs after selling their home. Each person can only use this benefit one time, and it only works for houses sold starting in January 2025.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-24",
+  "last_action_date": "2025-04-24",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Kiley, Kevin [R-CA-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Medicare costs",
+    "selling house Medicare",
+    "home sale Medicare penalty",
+    "Medicare income limits",
+    "Medicare premiums after selling home",
+    "house sale affects Medicare",
+    "Medicare means testing",
+    "selling home insurance costs",
+    "Medicare payment based on income",
+    "home sale Medicare relief"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Medicare Protection Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-excluding-certain-sales-of-principal-residences-from-irmaa-calculation-under-medicare",
+      "title": "Section 2  Excluding Certain Sales of Principal Residences from IRMAA Calculation Under Medicare",
+      "text": "This section changes how Medicare calculates income related monthly adjustment amounts. Starting January first, twenty twenty five, when Medicare looks at your income to decide how much you pay for Medicare premiums, they will not count money you made from selling your main home. Your main home means the house or residence where you live most of the time. However, you can only use this rule once. If you have already excluded money from selling a main home from your Medicare income calculations before, you cannot exclude it again for any future home sales.",
+      "word_offset": 13,
+      "char_offset": 74
+    }
+  ]
+}

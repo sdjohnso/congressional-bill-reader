@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-1103",
+  "title": "Vessel Tracking for Sanctions Enforcement Act of 2025",
+  "short_title": "Vessel Tracking for Sanctions Enforcement Act of 2025",
+  "congress": 119,
+  "bill_number": "S.1103",
+  "introduced_date": "2025-03-25",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "1f9da154c7be0d51",
+  "last_updated": "2026-04-07T15:15:48.804849+00:00",
+  "plain_summary": "This new law tells the Department of Homeland Security to start a special computer program that watches ships on the ocean. The program will look for ships that might be breaking America's rules by turning off their tracking devices to hide what they are doing. The computer will study lots of information to find these suspicious ships and then tell police and other agencies about them. The program will run for four years, and then government officials have to write a report to Congress explaining how well it worked.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-25",
+  "last_action_date": "2025-03-25",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Sen. Hassan, Margaret Wood [D-NH]",
+  "sponsor_party": "D",
+  "sponsor_state": "NH",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "ship tracking",
+    "ocean surveillance",
+    "boat monitoring",
+    "sanctions enforcement",
+    "vessel location",
+    "maritime security",
+    "ship identification system",
+    "ocean patrol technology",
+    "boat tracking program",
+    "maritime law enforcement",
+    "ship GPS monitoring",
+    "ocean safety tracking"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Vessel Tracking for Sanctions Enforcement Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-pilot-program-on-use-of-big-data-analytics",
+      "title": "Section 2 Pilot Program on Use of Big Data Analytics to Identify Vessels Evading Sanctions and Export Controls",
+      "text": "The Department of Homeland Security must create a test program within eighteen months after this law passes. The program will be run by U.S. Customs and Border Protection at the National Targeting Center. The goal is to test whether using big data analytics (computer programs that analyze large amounts of information) can help find ships that might be breaking U.S. sanctions or export controls. Ships have tracking systems called Automatic Identification Systems that tell other ships and authorities where they are. When ships turn off or change these systems, it might mean they are carrying banned goods or going to places they should not go. The test program will use big data analytics to find ships that do this and predict which ones are most likely breaking the law. The program will share useful information with different law enforcement agencies including U.S. Immigration and Customs Enforcement, the Coast Guard, other federal agencies, and agencies in partner countries that the Secretary thinks should know. When creating this program, officials should consider looking at several types of information about suspicious ships. This includes what goods the ship is carrying, where it is going, who owns the ship and the goods, who owns nearby ships when the tracking system was turned off, how long the tracking system was disabled, and how often that ship has problems with its tracking system. The program can use different computer models to account for different patterns of behavior by different shipping companies and different types of goods. The Department of Homeland Security must work with the Department of Commerce and the Director of National Intelligence when creating and running this program. The test program will end four years after this law passes. Four years after this law passes, the Secretary of Homeland Security must write a report to Congress with help from the Secretary of Commerce, the Secretary of the Treasury, and the Director of National Intelligence. The report must explain how useful the program was at finding ships breaking sanctions or export controls. For each ship the program identified as high risk that was successfully stopped by the U.S. or partner countries, the report must say whether the ship was actually breaking the law, what punishment was given if it was breaking the law, and whether U.S. agencies took action based on reasonable suspicion if it was not breaking the law. For each high risk ship that was not successfully stopped, the report must say whether the ship went to a country under U.S. sanctions, a country that often helps move goods to sanctioned countries, or some other country. The report must also recommend whether big data analytics should be used for this purpose in the future. No extra money is approved to pay for this test program. This law does not allow the government to collect or get any new types of information that existing laws do not already allow as of the date this law passes.",
+      "word_offset": 16,
+      "char_offset": 96
+    }
+  ]
+}

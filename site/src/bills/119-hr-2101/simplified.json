@@ -1,0 +1,84 @@
+{
+  "bill_id": "119-hr-2101",
+  "title": "Duplicative Grant Consolidation Act",
+  "short_title": "Duplicative Grant Consolidation Act",
+  "congress": 119,
+  "bill_number": "HR.2101",
+  "introduced_date": "2025-03-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "06fcdb18351f5384",
+  "last_updated": "2026-04-07T15:12:41.769393+00:00",
+  "plain_summary": "This bill makes new rules to stop people from getting the same government grants multiple times or lying to get grant money. The government must build computer systems to track all grant applications and find duplicates before giving out money. The bill also asks for a study to see if artificial intelligence can help catch people who try to cheat the system. This will help make sure grant money goes to the right people and reduces waste.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-14",
+  "last_action_date": "2025-03-14",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Bice, Stephanie I. [R-OK-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government grants",
+    "duplicate grants",
+    "grant fraud",
+    "grant money",
+    "stop cheating",
+    "grant applications",
+    "government funding",
+    "waste prevention",
+    "artificial intelligence",
+    "computer tracking",
+    "grant eligibility",
+    "federal money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Duplicative Grant Consolidation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-award-of-federal-grants",
+      "title": "Section 2  Prohibition on Award of Federal Grants to Applicants Submitting Duplicative or Fraudulent Applications",
+      "text": "Government agencies cannot give grants to people who apply for the same thing twice or who lie on their applications. If someone applies to two different agencies for grants to do the exact same work, only one agency can give them money. The two agencies must work together to decide which one should give the grant. However, colleges and universities are allowed to get grants from different agencies for the same purpose. Government agencies also cannot give grants to anyone who submits fake or dishonest applications.",
+      "word_offset": 10,
+      "char_offset": 64
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-tracking-and-deconfliction-system",
+      "title": "Section 3  Tracking and Deconfliction System for Federal Grant Applications",
+      "text": "Within one year of this law passing, the Office of Management and Budget must create a computer system that helps government agencies check if someone is applying for grants to do the same work at multiple agencies. This system will include information like the name of the person getting the grant, who is leading the project, how long the project will last, who to contact at the agency, and a summary of what the work involves. The Office of Management and Budget must also create a separate system to track all federal research grants. This system will help agencies figure out if someone is trying to get money from different agencies to do basically the same research project.",
+      "word_offset": 96,
+      "char_offset": 586
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-report-on-artificial-intelligence",
+      "title": "Section 4  Report on Feasibility of Leveraging Artificial Intelligence to Identify Duplicative Federal Grant Applications",
+      "text": "The Office of Management and Budget must work with the Department of Energy, the National Science Foundation, and the National Institute of Standards and Technology to write a report for Congress. This report will study whether computer programs that use artificial intelligence could quickly find people who are applying for the same grants multiple times or who are wasting money or cheating the system.",
+      "word_offset": 214,
+      "char_offset": 1269
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-definitions",
+      "title": "Section 5  Definitions",
+      "text": "This section explains what certain terms mean in this law. Applicable time period means the time from when someone applies for a grant until they finish spending all the grant money. For grants given before the computer tracking system starts, this time period begins when the system starts working. Appropriate congressional committees refers to specific committees in the House of Representatives and Senate that oversee government spending and operations. Covered application means any grant application submitted after the tracking system is created, plus any applications submitted before that are still using grant money. Executive agency means any government department or office that works under the President. Institution of higher education means colleges and universities as defined in federal education law.",
+      "word_offset": 278,
+      "char_offset": 1675
+    }
+  ]
+}

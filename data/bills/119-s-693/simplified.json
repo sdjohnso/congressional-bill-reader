@@ -1,0 +1,79 @@
+{
+  "bill_id": "119-s-693",
+  "title": "DHS Better Ballistic Body Armor Act",
+  "short_title": "DHS Better Ballistic Body Armor Act",
+  "congress": 119,
+  "bill_number": "S.693",
+  "introduced_date": "2025-02-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e79927ca9050e940",
+  "last_updated": "2026-04-07T14:14:27.362967+00:00",
+  "plain_summary": "The Department of Homeland Security must buy body armor that fits all its workers properly, including women. The armor has to be specially designed and tested to make sure it protects everyone well. Right now, many female agents and officers don't have armor that fits them correctly, which makes it less safe. The Department has to tell Congress how they are doing at getting the right armor for female workers.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-24",
+  "last_action_date": "2025-02-24",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Government information and archives",
+    "Military procurement, research, weapons development",
+    "Sex, gender, sexual orientation discrimination"
+  ],
+  "sponsor_name": "Sen. Peters, Gary C. [D-MI]",
+  "sponsor_party": "D",
+  "sponsor_state": "MI",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "body armor for women",
+    "bulletproof vest fitting",
+    "female police officers protection",
+    "homeland security equipment",
+    "women law enforcement gear",
+    "properly fitting body armor",
+    "female agent safety",
+    "government body armor procurement",
+    "women's protective equipment",
+    "DHS female workers safety"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the DHS Better Ballistic Body Armor Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, these words have special meanings. Ballistic resistant body armor means protective gear that covers the body and stops bullets. It has soft panels, hard panels, or both inside a vest that can be worn under or over a uniform shirt. It keeps the protective panels in the right place on the body. Department means the Department of Homeland Security. Secretary means the Secretary of Homeland Security.",
+      "word_offset": 12,
+      "char_offset": 64
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-procurement-of-ballistic-resistant-body-armor",
+      "title": "Section 3 Procurement of Ballistic Resistant Body Armor to Ensure the Protection of All of the Department's Agents and Officers",
+      "text": "The Secretary must require all parts of the Department of Homeland Security to buy body armor that meets certain rules when they purchase protective gear for their agents and officers. The body armor must be designed to fully protect the body shapes of all agents and officers. It must be made to fit each person individually and provide the best possible fit and coverage. The armor can have either flat or shaped front panels. When the armor arrives, it must be checked and confirmed to fit properly with enough coverage according to standards set by the American Society for Testing and Materials. The armor must have improved fit and technology that prevents bullets from bouncing off the chest and going up toward the throat or spine area. The armor must be approved by the National Institute of Justice and listed on their official list of approved products. It must pass all required tests for the right level of protection. The testing must include several special requirements. The armor must be tested on clay or gelatin models that match the body shapes of agents and officers. Soft body armor front panels must be tested in soft carriers on female-shaped clay or gelatin models that are designed to fill the space behind the panel. Test shots must be placed on the shaped features of the armor. The testing must include angled shots and shots at the chest to make sure bullets do not skip up into the neck area. Any additional testing requirements recommended by the National Institute of Justice after this law is passed must also be followed. Each relevant part of the Department must submit yearly reports to the Secretary about the body armor given to female agents and officers. The reports must include how many female agents and officers received body armor for their official duties. They must report how many body armor units given to female agents and officers were stopped from being used because they did not meet the requirements of this law. They must report how many body armor units given to female agents and officers do meet the requirements. They must report the percentage of female agents and officers who have been given compliant body armor as of the last day of the reporting period, broken down by work location. These reports must be submitted no later than one year after this law is passed and then every year for the next two years. Within thirty days of receiving all these reports, the Secretary must combine all the information and submit one report to the Senate Committee on Homeland Security and Governmental Affairs and the House Committee on Homeland Security.",
+      "word_offset": 81,
+      "char_offset": 477
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-effective-date",
+      "title": "Section 4 Effective Date",
+      "text": "No later than three years after this law is passed, all agents and officers in any part of the Department whose jobs require body armor must have been given body armor that meets the requirements described in Section 3.",
+      "word_offset": 526,
+      "char_offset": 3087
+    }
+  ]
+}

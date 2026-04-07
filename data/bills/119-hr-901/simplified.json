@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-hr-901",
+  "title": "Research Security and Accountability in DHS Act",
+  "short_title": "Research Security and Accountability in DHS Act",
+  "congress": 119,
+  "bill_number": "HR.901",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2a5367b66729ffaa",
+  "last_updated": "2026-04-07T14:26:04.546906+00:00",
+  "plain_summary": "This law makes the Department of Homeland Security create new rules to protect important research from being stolen or seen by the wrong people when they work with outside companies. The department must make sure sensitive information stays safe during these partnerships. The law also requires a government watchdog group to write a report about how well the Department of Homeland Security is following existing security rules from 2021. Finally, Congress will get a briefing about these new protection policies.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-11",
+  "last_action_date": "2025-03-11",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [
+    "Congressional oversight",
+    "Government information and archives",
+    "Research and development",
+    "U.S. and foreign investments"
+  ],
+  "sponsor_name": "Rep. Strong, Dale W. [R-AL-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "AL",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "homeland security research",
+    "protect government research",
+    "research partnerships security",
+    "prevent research theft",
+    "DHS contractor safety",
+    "government research protection",
+    "research information security",
+    "outside company partnerships",
+    "sensitive research safeguards",
+    "homeland security oversight",
+    "research accountability rules",
+    "government research stolen"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Research Security and Accountability in DHS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-safeguarding-sensitive-research",
+      "title": "Section 2 Safeguarding Sensitive Research in the Department of Homeland Security",
+      "text": "This section changes an existing law about the Department of Homeland Security. It adds a new job for the Under Secretary of the Science and Technology office. This person must work with other officials to create rules and steps that protect research and development work from being seen or stolen by people who should not have access to it. This protection applies when the Department buys research services from outside companies or groups. The Government Accountability Office (an independent agency that reviews government operations) must write a report within one year. This report will look at how well the Department of Homeland Security has followed a presidential memo called National Security Presidential Memorandum thirty three and guidance from the National Science and Technology Council from two thousand twenty two. The report must cover how the Department follows rules about sharing information, how violations are reported to other government agencies including intelligence agencies, how the Department works with guidelines from science agencies like the National Science Foundation, and what role the Science and Technology office plays in creating security rules for research projects across the whole Department. The Secretary of Homeland Security must give a briefing to Congress within ninety days after this law is passed. The briefing must explain how the Department is developing the new policies and processes to protect research and development work.",
+      "word_offset": 13,
+      "char_offset": 76
+    }
+  ]
+}

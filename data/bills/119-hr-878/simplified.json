@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-878",
+  "title": "Katrina and Leslie Schaller Act",
+  "short_title": "Katrina and Leslie Schaller Act",
+  "congress": 119,
+  "bill_number": "HR.878",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "91151d947587e39f",
+  "last_updated": "2026-04-07T14:48:27.448349+00:00",
+  "plain_summary": "This bill allows people in Guam to get Supplemental Security Income benefits for the first time. SSI is a government program that helps elderly, blind, or disabled people who have very little money pay for basic needs like food and housing. Guam has been left out of this program since it started in 1972, but this bill fixes that. The bill also removes limits on how much federal money Guam can receive for SSI and other assistance programs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-31",
+  "last_action_date": "2025-01-31",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [
+    "Disability assistance",
+    "Guam",
+    "Poverty and welfare assistance",
+    "U.S. territories and protectorates"
+  ],
+  "sponsor_name": "Del. Moylan, James C. [R-GU-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "GU",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Guam disability benefits",
+    "SSI Guam",
+    "supplemental security income",
+    "Guam elderly assistance",
+    "disability payments",
+    "Guam welfare",
+    "blind benefits Guam",
+    "federal assistance territories",
+    "Guam poverty help",
+    "social security disability"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Katrina and Leslie Schaller Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-extension-of-the-supplemental-security-income-program-to-guam",
+      "title": "Section 2  Extension of the Supplemental Security Income Program to Guam",
+      "text": "This section makes changes so that people in Guam can get Supplemental Security Income benefits. Supplemental Security Income is a program that gives money to people who are elderly, blind, or disabled and have very low incomes. Right now, this program does not cover people who live in Guam. The law removes Guam from a list of places that are not covered by this program. It changes several parts of existing Social Security laws to include Guam as a state for these purposes. It removes limits on how much money Guam can get under certain programs. It adds Guam to the definition of the United States for this income program. The head of Social Security can change or skip some requirements to make the program work better in Guam if needed. These changes will start on the first day of the federal budget year that begins at least one year after this law is passed.",
+      "word_offset": 11,
+      "char_offset": 60
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-3018",
+  "title": "Restoring Rights of Medical Residents Act",
+  "short_title": "Restoring Rights of Medical Residents Act",
+  "congress": 119,
+  "bill_number": "HR.3018",
+  "introduced_date": "2025-04-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "420ca18ef8741974",
+  "last_updated": "2026-04-07T14:19:48.521913+00:00",
+  "plain_summary": "This bill is about how medical students get matched to hospitals for their training after medical school. Right now, the programs that match students to hospitals have special protection from competition laws, which means they can work together in ways that other businesses cannot. The bill would remove this special protection so these matching programs would have to follow the same competition rules as other businesses. The new rule would start on the first March eighteenth after the bill is signed into law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-24",
+  "last_action_date": "2025-04-24",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Rep. Spartz, Victoria [R-IN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "medical residents",
+    "doctor training",
+    "hospital matching",
+    "medical school graduates",
+    "residency programs",
+    "medical student placement",
+    "doctor competition laws",
+    "hospital training programs",
+    "medical residency matching",
+    "doctor job placement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Restoring Rights of Medical Residents Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repealer",
+      "title": "Section 2  Repealer",
+      "text": "This law removes Section two hundred seven of the Pension Funding Equity Act of two thousand four. That section gave special permission to graduate medical resident matching programs to work together in ways that would normally break antitrust laws. Antitrust laws are rules that prevent companies from working together to control prices or limit competition.",
+      "word_offset": 12,
+      "char_offset": 70
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-effective-date",
+      "title": "Section 3  Effective Date",
+      "text": "This law will start working on the first March eighteenth that happens after Congress passes this law.",
+      "word_offset": 67,
+      "char_offset": 430
+    }
+  ]
+}

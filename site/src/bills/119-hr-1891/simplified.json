@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1891",
+  "title": "Moving H–2A to United States Department of Agriculture Act of 2025",
+  "short_title": "Moving H–2A to United States Department of Agriculture Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1891",
+  "introduced_date": "2025-03-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a2f4bfd4c57d0df1",
+  "last_updated": "2026-04-07T15:01:49.434104+00:00",
+  "plain_summary": "This bill changes which government department runs the H-2A program that brings temporary workers from other countries to work on American farms. Right now the Department of Labor is in charge of this program, but the bill would move it to the Department of Agriculture instead. The change would happen sixty days after the president signs the bill into law. When the switch happens, the Department of Labor would have to give all the workers, money, and supplies needed to run the program to the Department of Agriculture.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-05",
+  "last_action_date": "2025-03-05",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "farm workers",
+    "temporary workers",
+    "foreign workers",
+    "agricultural workers",
+    "migrant workers",
+    "Department of Agriculture",
+    "Department of Labor",
+    "H-2A program",
+    "seasonal farm labor",
+    "immigrant farm workers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Moving H-2A to United States Department of Agriculture Act of 2025.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-administration-of-h-2a-program",
+      "title": "Section 2  Administration of H-2A Program",
+      "text": "Part A General Changes. This section changes the law that controls the H-2A program. The H-2A program allows foreign workers to come to the United States temporarily to work on farms. Right now, the Secretary of Labor runs this program. This law changes that so the Secretary of Agriculture will run it instead. The law also changes who else is involved. Instead of the Attorney General helping with the program, the Secretary of Homeland Security will help. Part B When These Changes Happen. The changes described in Part A will start sixty days after this law is signed. On that same day, the Secretary of Labor must give the Secretary of Agriculture everything needed to run the H-2A program. This includes workers, money, and any other materials the Agriculture Department needs to take over running the program.",
+      "word_offset": 17,
+      "char_offset": 95
+    }
+  ]
+}

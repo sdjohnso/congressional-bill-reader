@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1140",
+  "title": "Direct Medical Care Freedom Act of 2025",
+  "short_title": "Direct Medical Care Freedom Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1140",
+  "introduced_date": "2025-02-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "d8396d3630faf2a1",
+  "last_updated": "2026-04-07T15:00:27.448447+00:00",
+  "plain_summary": "This bill helps people who pay their doctors in a special way. Instead of paying for each doctor visit separately, some people pay their doctor the same amount every month or year no matter how many times they visit. Right now, people with this type of payment plan cannot use special tax-free savings accounts for medical costs. This bill would let them use those health savings accounts even if they have the monthly payment plan with their doctor.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-07",
+  "last_action_date": "2025-02-07",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Roy, Chip [R-TX-21]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "direct pay doctor",
+    "monthly doctor payment",
+    "health savings account",
+    "HSA",
+    "pay doctor monthly",
+    "medical subscription",
+    "doctor membership",
+    "health savings",
+    "tax free medical account",
+    "direct primary care",
+    "monthly medical plan",
+    "doctor retainer"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Direct Medical Care Freedom Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-treatment-of-direct-medical-care-service-arrangements",
+      "title": "Section 2 Treatment of Direct Medical Care Service Arrangements",
+      "text": "This section changes the tax rules about health savings accounts and direct medical care arrangements. A direct medical care service arrangement means when someone pays a doctor or other medical provider a fixed monthly or yearly fee to get medical care. The person does not pay extra each time they visit the doctor. Under this new rule, having a direct medical care arrangement will not prevent someone from being able to use a health savings account. These arrangements can be for primary care doctors, specialists, or any type of medical care. The medical providers include doctors, nurse practitioners, clinical nurse specialists, and physician assistants as defined by Social Security laws. Medical care has the same meaning as used in other tax laws about medical expenses. People can use money from their health savings accounts to pay for these direct medical care arrangements. If an employer provides a direct medical care arrangement as part of a job, the employer must report the total fees paid on the employee's tax form called a W-2. These changes apply to months starting after December thirty first, twenty twenty four.",
+      "word_offset": 15,
+      "char_offset": 82
+    }
+  ]
+}

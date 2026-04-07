@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-854",
+  "title": "DERAIL Act",
+  "short_title": "DERAIL Act",
+  "congress": 119,
+  "bill_number": "HR.854",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "6e13d1943779bad8",
+  "last_updated": "2026-04-07T15:02:55.970873+00:00",
+  "plain_summary": "The DERAIL Act makes rules stricter for trains that carry dangerous materials that can catch fire or explode. Right now, only trains with lots of tank cars full of flammable liquids have to follow special safety rules, but this bill would make any train carrying even one tank car of flammable liquids or gases follow those same safety rules. The bill also requires railroad companies to quickly tell the government and local officials within 24 hours if a train carrying poisonous materials crashes or derails. This would help emergency responders act faster to protect people and communities when dangerous train accidents happen.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-01",
+  "last_action_date": "2025-02-01",
+  "last_action_text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Deluzio, Christopher R. [D-PA-17]",
+  "sponsor_party": "D",
+  "sponsor_state": "PA",
+  "cosponsor_count": 16,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "train safety",
+    "dangerous materials transport",
+    "hazardous cargo trains",
+    "flammable liquids railroad",
+    "toxic spill notification",
+    "train derailment rules",
+    "chemical transport safety",
+    "railroad accident reporting",
+    "poisonous gas trains",
+    "tank car regulations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Decreasing Emergency Railroad Accident Instances Locally Act or the DERAIL Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-high-hazard-flammable-train",
+      "title": "Section 2 High-Hazard Flammable Train",
+      "text": "Within ninety days after this law is passed, the Secretary of Transportation must create new rules. These rules will change the official definition of a high-hazard flammable train. Under the new definition, any train carrying one or more tank cars loaded with Class 3 flammable liquids (like gasoline or alcohol) or Class 2 flammable gases (like propane or natural gas) will be considered a high-hazard flammable train. The Secretary can also add other materials to this definition if they decide it is needed for safety.",
+      "word_offset": 17,
+      "char_offset": 107
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-reporting-of-material-toxic-by-inhalation",
+      "title": "Section 3 Reporting of Material Toxic by Inhalation",
+      "text": "This section creates a new reporting requirement for train accidents. When a train derails and that train was carrying materials that are toxic by inhalation (poisonous if breathed in), the railroad company must report this within twenty-four hours. They must tell the National Response Center, state officials, local officials, and Tribal governments about all the toxic materials that were on the train. This new rule will be added to the existing transportation laws and will appear in the official list of transportation regulations.",
+      "word_offset": 102,
+      "char_offset": 630
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1946",
+  "title": "45Q Repeal Act of 2025",
+  "short_title": "45Q Repeal Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1946",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "096fa36828873fcd",
+  "last_updated": "2026-04-07T15:12:20.388756+00:00",
+  "plain_summary": "This bill gets rid of a tax credit that companies could get for capturing carbon dioxide and storing it underground. The tax credit was called 45Q and it helped companies save money on their taxes if they did this kind of work. The bill removes this credit completely and fixes other tax rules that talked about it. These changes will start for tax years beginning after December 31, 2025.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Perry, Scott [R-PA-10]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "carbon capture tax credit",
+    "carbon dioxide storage",
+    "underground carbon storage",
+    "climate change tax breaks",
+    "environmental tax credits",
+    "carbon sequestration",
+    "CO2 capture",
+    "green energy tax incentives",
+    "carbon storage companies",
+    "climate tax policy"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the forty five Q Repeal Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-carbon-oxide-sequestration-credit",
+      "title": "Section 2 Repeal of Carbon Oxide Sequestration Credit",
+      "text": "This section removes a tax credit that companies could get for capturing carbon dioxide and storing it underground. The tax credit was called section forty five Q. The law removes this section completely from the tax code and removes it from the list of tax credits. The law also changes other parts of the tax code that mentioned this credit. These changes include removing references to the credit from lists of available tax credits and updating rules about carbon capture equipment. When the law mentions qualified carbon oxide, it means carbon dioxide that meets certain requirements for safe underground storage. Some sections that used to work with the forty five Q credit will now use their own rules for carbon storage instead. These changes will start applying to tax years that begin after December thirty first, two thousand twenty five.",
+      "word_offset": 16,
+      "char_offset": 80
+    }
+  ]
+}

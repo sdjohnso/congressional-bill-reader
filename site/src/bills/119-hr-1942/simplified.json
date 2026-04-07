@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1942",
+  "title": "DELIVER Act of 2025",
+  "short_title": "DELIVER Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1942",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "851a56e690bf220f",
+  "last_updated": "2026-04-07T14:48:58.851033+00:00",
+  "plain_summary": "This bill changes the tax rules for people who volunteer to drive for charity. Most charity volunteers can still deduct fourteen cents per mile when they drive their own car for volunteer work. However, volunteers who deliver meals to elderly, disabled, or other homebound people who need help can now use the higher business mileage rate for their tax deductions instead. This means meal delivery volunteers can save more money on their taxes than other charity volunteers. The new rule starts right away when the bill becomes law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Morelle, Joseph D. [D-NY-25]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 4,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "tax deduction",
+    "volunteer driving",
+    "meal delivery",
+    "charity volunteers",
+    "mileage deduction",
+    "elderly meal delivery",
+    "volunteer tax break",
+    "driving for charity",
+    "homebound meals",
+    "volunteer expenses"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Delivering Elderly Lunches and Increasing Volunteer Engagement and Reimbursements Act of two thousand twenty five or the DELIVER Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-in-standard-mileage-rate-for-delivery-of-meals-to-elderly-disabled-frail-and-at-risk-individuals",
+      "title": "Section 2  Increase in Standard Mileage Rate for Delivery of Meals to Elderly, Disabled, Frail, and At-Risk Individuals",
+      "text": "This section changes the tax rules about how much money volunteers can deduct for driving their cars to do charity work. Right now, volunteers can deduct fourteen cents for every mile they drive when doing charity work. This law keeps that fourteen cents per mile rate for most charity driving. However, when volunteers use their cars to deliver meals to people who are stuck at home and are elderly, disabled, weak, or at risk, they can deduct much more money per mile. Instead of fourteen cents, they can use the same higher rate that businesses use when their employees drive for work. This change applies to all miles driven starting on the day this law is signed.",
+      "word_offset": 30,
+      "char_offset": 189
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-sres-110",
+  "title": "A resolution condemning Russia's illegal abduction of Ukrainian children.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.110",
+  "introduced_date": "2025-03-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "563d0f631549422b",
+  "last_updated": "2026-04-07T14:07:07.011026+00:00",
+  "plain_summary": "This resolution is about Russian soldiers taking Ukrainian children away from their families during the war that started in February 2022. Russia has illegally taken at least twenty thousand Ukrainian children from their homes and families. The US Senate says this is wrong and wants Russia to give all these children back to their families right away. The Senate wants Russia to work with other countries around the world to return these children safely to where they belong.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-05",
+  "last_action_date": "2025-03-05",
+  "last_action_text": "Referred to the Committee on Foreign Relations. (text: CR S1583-1584)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Durbin, Richard J. [D-IL]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Russian soldiers taking Ukrainian children",
+    "Ukraine war kidnapped kids",
+    "stolen Ukrainian children",
+    "Russia abducting children",
+    "Ukrainian families separated",
+    "war crimes against children",
+    "missing Ukrainian kids",
+    "Russia taking children from families",
+    "Ukrainian children forced to Russia",
+    "kidnapped kids Ukraine war",
+    "children stolen during war",
+    "return Ukrainian children to families"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This is a resolution that condemns Russia's illegal taking away of Ukrainian children.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Facts",
+      "text": "Since Russia launched its full invasion of Ukraine in February two thousand twenty two, Russian military forces and the Russian government have taken away at least twenty thousand Ukrainian children from their homes. Russia has kidnapped these children, forced them to move against their will, or helped illegally move them out of Ukraine. This illegal taking of Ukrainian children has caused terrible physical and emotional harm to countless children and their families.",
+      "word_offset": 13,
+      "char_offset": 87
+    },
+    {
+      "id": "s3",
+      "slug": "senate-resolution",
+      "title": "What the Senate Decides",
+      "text": "The Senate condemns Russia for kidnapping, forcing the movement of, and helping with the illegal removal of Ukrainian children from their country. The Senate also strongly asks Russia to work with other countries around the world to make sure all Ukrainian children who were taken against their will are returned to their families right away without any delays.",
+      "word_offset": 85,
+      "char_offset": 559
+    }
+  ]
+}

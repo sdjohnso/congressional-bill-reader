@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-202",
+  "title": "Censuring Representative Lauren Boebert of Colorado for her recent disparaging and derogatory comments about Representative Al Green of Texas.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.202",
+  "introduced_date": "2025-03-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2141ebac9729eda7",
+  "last_updated": "2026-04-07T14:28:12.812860+00:00",
+  "plain_summary": "This bill is about officially criticizing Representative Lauren Boebert from Colorado. She made racist and mean comments about Representative Al Green from Texas during a news interview in March 2025. The House of Representatives wants to censure her, which means they formally disapprove of what she said. If this passes, Boebert would have to stand in front of the House while the Speaker reads out loud why she is being punished.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-10",
+  "last_action_date": "2025-03-10",
+  "last_action_text": "Referred to the House Committee on Ethics.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [],
+  "sponsor_name": "Rep. Houlahan, Chrissy [D-PA-6]",
+  "sponsor_party": "D",
+  "sponsor_state": "PA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Lauren Boebert",
+    "Al Green",
+    "censure",
+    "racist comments",
+    "House punishment",
+    "congressional discipline",
+    "Colorado representative",
+    "Texas representative",
+    "disparaging remarks",
+    "formal criticism",
+    "House censure vote",
+    "derogatory statements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "title",
+      "title": "Title",
+      "text": "This resolution censures Representative Lauren Boebert of Colorado for her recent disparaging and derogatory comments about Representative Al Green of Texas.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Information",
+      "text": "On March seventh, two thousand twenty five, Representative Lauren Boebert of Colorado made a statement during an interview with Real America's Voice News. She said about Representative Al Green of Texas that he should go and shake his pimp cane. These words from Representative Boebert are insulting, harmful, and racist toward another colleague. Her comments break the rules of proper behavior and respectful conduct that are expected in the U.S. House of Representatives.",
+      "word_offset": 21,
+      "char_offset": 158
+    },
+    {
+      "id": "s3",
+      "slug": "resolution",
+      "title": "Resolution",
+      "text": "Therefore, this resolution decides that Representative Lauren Boebert should be censured (officially criticized and condemned). Representative Lauren Boebert must immediately come to the well of the House of Representatives (the front area of the House chamber) so that the censure can be announced. Representative Lauren Boebert will be censured when the Speaker reads this resolution out loud to the public.",
+      "word_offset": 94,
+      "char_offset": 632
+    }
+  ]
+}

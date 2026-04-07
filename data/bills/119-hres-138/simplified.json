@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hres-138",
+  "title": "Providing amounts for the expenses of the Committee on Foreign Affairs in the One Hundred Nineteenth Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.138",
+  "introduced_date": "2025-02-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "cdcca304971dbd32",
+  "last_updated": "2026-04-07T14:27:57.025146+00:00",
+  "plain_summary": "This bill gives money to the House Foreign Affairs Committee to pay for its work during the next two years of Congress. The committee will get about twenty-four million dollars total to pay for things like staff salaries and other expenses they need to do their job. The money will be split between two years, and the committee has to follow special rules about how they can spend it. These spending rules are set by another committee called the House Administration Committee.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "House Committee on Foreign Affairs"
+  ],
+  "sponsor_name": "Rep. Mast, Brian J. [R-FL-21]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "House Foreign Affairs Committee funding",
+    "congressional committee budget",
+    "foreign affairs committee money",
+    "House committee expenses",
+    "congressional staff salaries",
+    "committee operating budget",
+    "foreign affairs funding",
+    "House committee spending",
+    "congressional committee costs",
+    "foreign policy committee budget"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-amounts-for-committee-expenses",
+      "title": "Section 1  Amounts for Committee Expenses",
+      "text": "The House Foreign Affairs Committee will receive money to pay for its expenses during the One Hundred Nineteenth Congress. This includes paying the salaries of all committee staff members. The total amount cannot be more than twenty-four million, three hundred seventy-six thousand, seven hundred forty-one dollars. This money will come from the House of Representatives accounts that are set aside for committee salaries and expenses.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-session-limitations",
+      "title": "Section 2  Session Limitations",
+      "text": "The money mentioned in Section 1 will be divided between two time periods. During the first period, which starts at noon on January third, two thousand twenty-five, and ends just before noon on January third, two thousand twenty-six, the committee can spend no more than eleven million, six hundred eighty-three thousand, forty-eight dollars. During the second period, which starts at noon on January third, two thousand twenty-six, and ends just before noon on January third, two thousand twenty-seven, the committee can spend no more than twelve million, six hundred ninety-three thousand, six hundred ninety-three dollars.",
+      "word_offset": 65,
+      "char_offset": 436
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-vouchers",
+      "title": "Section 3  Vouchers",
+      "text": "Before any money can be paid out under this resolution, the Foreign Affairs Committee must authorize it through vouchers (official forms requesting payment). The Chairman of the Foreign Affairs Committee must sign these vouchers. The Committee on House Administration must also approve the vouchers in whatever way they direct.",
+      "word_offset": 160,
+      "char_offset": 1062
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-regulations",
+      "title": "Section 4  Regulations",
+      "text": "The Foreign Affairs Committee must spend this money according to the rules and regulations that the Committee on House Administration creates and requires.",
+      "word_offset": 209,
+      "char_offset": 1390
+    }
+  ]
+}

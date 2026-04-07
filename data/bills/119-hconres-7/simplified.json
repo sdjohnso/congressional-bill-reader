@@ -1,0 +1,95 @@
+{
+  "bill_id": "119-hconres-7",
+  "title": "Establishing the Task Force on the Legislative Process.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HCONRES.7",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "6d83f6fbb9af3951",
+  "last_updated": "2026-04-07T14:30:10.599591+00:00",
+  "plain_summary": "Congress wants to create a special group to study how they can pass laws faster. This group will have 12 people, with equal numbers from both political parties and from both the House and Senate. They will look at ways to speed up bills that already have support from both Democrats and Republicans. The group has one year to write a report with their ideas, and then the group will end.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-28",
+  "last_action_date": "2025-01-28",
+  "last_action_text": "Referred to the House Committee on Rules.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional operations and organization",
+    "Congressional oversight",
+    "Government information and archives",
+    "Legislative rules and procedure"
+  ],
+  "sponsor_name": "Rep. Williams, Nikema [D-GA-5]",
+  "sponsor_party": "D",
+  "sponsor_state": "GA",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "congress working faster",
+    "speed up laws",
+    "bipartisan bills",
+    "how congress works",
+    "passing laws quicker",
+    "congressional reform",
+    "government efficiency",
+    "lawmaking process",
+    "bipartisan cooperation",
+    "congress study group"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-purpose",
+      "title": "Section 1 Purpose",
+      "text": "The purpose of this resolution is to follow a recommendation made by a previous congressional committee. That committee suggested creating a special Task Force on the Legislative Process. This task force would study different ways that both the House and Senate could quickly consider bills that the other chamber already passed with strong support from both political parties.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-establishment-of-task-force",
+      "title": "Section 2 Establishment of Task Force",
+      "text": "This section creates the Task Force on the Legislative Process. The task force will study different options for making it faster for both chambers of Congress to pass bills together. Bicameral legislation expedition means any process where both the House and Senate agree to quickly consider bills that the other chamber already passed. These would be bills that passed by unanimous agreement, voice vote, or with approval from at least two thirds of the members voting.",
+      "word_offset": 58,
+      "char_offset": 378
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-membership",
+      "title": "Section 3 Membership",
+      "text": "The task force will have twelve members total. The Speaker of the House will choose three House members, and at least one must be from the majority party on the House Rules Committee. The House Minority Leader will choose three House members, and at least one must be from the minority party on the House Rules Committee. The Senate Majority Leader will choose three Senate members, and at least one must be from the majority party on the Senate Rules Committee. The Senate Minority Leader will choose three Senate members, and at least one must be from the minority party on the Senate Rules Committee. All four leaders will work together to pick two task force members to serve as co-chairs. If someone leaves the task force, they will be replaced the same way they were originally chosen. For this purpose, House members include Delegates and the Resident Commissioner.",
+      "word_offset": 134,
+      "char_offset": 849
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-duties",
+      "title": "Section 4 Duties",
+      "text": "The task force must create a process to gather information and ideas from people about their main purpose. They must write a report for the Speaker of the House, House Minority Leader, Senate Majority Leader, Senate Minority Leader, House Rules Committee, and Senate Rules Committee. The report must analyze different options for making legislation move faster between both chambers. It must also include any recommendations that at least nine task force members agree on. The task force must finish this report within one year of when this resolution is adopted. The task force can use House and Senate staff to help with their work.",
+      "word_offset": 283,
+      "char_offset": 1722
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-posting-of-proposals-by-committees",
+      "title": "Section 5 Posting of Proposals by Committees",
+      "text": "After the task force gives their report to the committees, both the House Rules Committee and the Senate Rules Committee must post the report on the public part of their websites so everyone can read it.",
+      "word_offset": 387,
+      "char_offset": 2357
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-termination",
+      "title": "Section 6 Termination",
+      "text": "The task force will end after they finish their report. When the task force ends, all of their records will be given to both the House Rules Committee and the Senate Rules Committee to keep as part of their official records.",
+      "word_offset": 423,
+      "char_offset": 2561
+    }
+  ]
+}

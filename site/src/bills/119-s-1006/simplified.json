@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-s-1006",
+  "title": "Federal Workforce Freedom Act",
+  "short_title": "Federal Workforce Freedom Act",
+  "congress": 119,
+  "bill_number": "S.1006",
+  "introduced_date": "2025-03-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "13986366c73ea057",
+  "last_updated": "2026-04-07T14:57:37.326241+00:00",
+  "plain_summary": "This bill would stop all federal government workers from being in labor unions. It would cancel all the agreements that government agencies currently have with unions. The bill would also end any court cases related to these union agreements and remove the law that lets government employees have unions in the first place. If this bill becomes law, federal workers would no longer be allowed to join unions to help represent them at work.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-12",
+  "last_action_date": "2025-03-12",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Sen. Blackburn, Marsha [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "federal workers unions",
+    "government employees unions",
+    "ban federal unions",
+    "federal worker rights",
+    "government union contracts",
+    "federal employee representation",
+    "end government unions",
+    "federal workforce unions",
+    "government worker organizing",
+    "federal union agreements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Federal Workforce Freedom Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, these terms mean the following things. A collective bargaining agreement is any written or spoken deal between a federal agency and a labor union that sets the rules for how federal workers are treated on the job. A federal agency means any part of the United States government that has the same meaning as agency in section five hundred fifty-one of title five of the United States Code. A federal employee means any person who works for or under a federal agency. A labor union means any group or organization that exists to help federal employees with work problems like complaints, pay disputes, work hours, benefits, or other job conditions.",
+      "word_offset": 10,
+      "char_offset": 58
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibitions",
+      "title": "Section 3 Prohibitions",
+      "text": "Federal employees cannot create, join, or take part in labor unions for the purpose of collective bargaining or getting help with work issues. Federal agencies cannot officially recognize labor unions or negotiate deals with them.",
+      "word_offset": 123,
+      "char_offset": 718
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-termination-of-collective-bargaining-agreements",
+      "title": "Section 4 Termination of Collective Bargaining Agreements",
+      "text": "Any deal made between federal agencies and labor unions is ended, whether it was made before, on, or after the day this law takes effect. Any legal case, dispute resolution process, or complaint process that was started before, on, or after this law takes effect and is based on one of these deals must be thrown out.",
+      "word_offset": 158,
+      "char_offset": 949
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-technical-and-conforming-amendments",
+      "title": "Section 5 Technical and Conforming Amendments",
+      "text": "Chapter seventy-one of title five of the United States Code is completely removed from the law books.",
+      "word_offset": 215,
+      "char_offset": 1267
+    }
+  ]
+}

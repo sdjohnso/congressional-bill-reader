@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-1228",
+  "title": "Prioritizing Veterans’ Survivors Act",
+  "short_title": "Prioritizing Veterans’ Survivors Act",
+  "congress": 119,
+  "bill_number": "HR.1228",
+  "introduced_date": "2025-02-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "16ee3a0b56f46ea0",
+  "last_updated": "2026-04-07T14:27:41.680520+00:00",
+  "plain_summary": "This bill moves the Office of Survivors Assistance to a new place within the Department of Veterans Affairs. Right now, this office works under a smaller part of the VA called the Pension and Fiduciary Service. The bill changes this so the Office of Survivors Assistance will work directly under the Secretary of Veterans Affairs instead. This office helps family members of veterans who have died. Moving it closer to the top leader of the VA is meant to make it more important and effective.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Department of Veterans Affairs",
+    "Executive agency funding and structure",
+    "Veterans' pensions and compensation"
+  ],
+  "sponsor_name": "Rep. Ciscomani, Juan [R-AZ-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans families help",
+    "dead veteran benefits",
+    "military widow assistance",
+    "VA survivor services",
+    "veteran death benefits",
+    "military family support",
+    "deceased veteran spouse help",
+    "veterans affairs office changes",
+    "military survivor benefits",
+    "veteran family assistance",
+    "VA department reorganization"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Prioritizing Veterans' Survivors Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-clarification-of-organization-of-the-office-of-survivors-assistance-of-the-department-of-veterans-affairs",
+      "title": "Section 2 Clarification of Organization of the Office of Survivors Assistance of the Department of Veterans Affairs",
+      "text": "This section changes how the Office of Survivors Assistance is organized within the Department of Veterans Affairs. The law removes the words in the Department and replaces them with in the Office of the Secretary. This means the Office of Survivors Assistance will now be located directly under the Secretary of Veterans Affairs instead of somewhere else in the department. The Office of Survivors Assistance helps family members of veterans who have died.",
+      "word_offset": 10,
+      "char_offset": 65
+    }
+  ]
+}

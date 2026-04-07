@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1779",
+  "title": "SWAMP Act",
+  "short_title": "SWAMP Act",
+  "congress": 119,
+  "bill_number": "HR.1779",
+  "introduced_date": "2025-03-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "3d7f7cbe7fc9162d",
+  "last_updated": "2026-04-07T14:54:39.943254+00:00",
+  "plain_summary": "The SWAMP Act is a bill that forces the government to sell a federal building in San Francisco. The building is called the Speaker Nancy Pelosi Federal Building. The government must sell it by May 31, 2025. They have to follow normal rules for selling government buildings or sell it for what it is worth if the normal rules do not work.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-03",
+  "last_action_date": "2025-03-03",
+  "last_action_text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "sell federal building",
+    "San Francisco government building",
+    "Nancy Pelosi building",
+    "government property sale",
+    "federal building sale",
+    "SWAMP Act",
+    "sell government real estate",
+    "federal building San Francisco",
+    "government building deadline",
+    "Speaker Pelosi federal building"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Stop Wasteful Allocations of Money for Pelosi Act or the SWAMP Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-sale-of-speaker-nancy-pelosi-federal-building",
+      "title": "Section 2  Sale of Speaker Nancy Pelosi Federal Building",
+      "text": "The person in charge of government buildings must sell a specific federal building by May thirty first, two thousand twenty five. First, they must try to get rid of the building using the normal government rules for disposing of property. If that does not work, they must sell the building for what it is worth on the open market and for the best possible use. The building they must sell is located at ninety Seventh Street in San Francisco, California, zip code ninety four thousand one hundred three. This building is called the Speaker Nancy Pelosi Federal Building. The exact property boundaries will be determined by a survey if the person in charge thinks one is needed.",
+      "word_offset": 18,
+      "char_offset": 95
+    }
+  ]
+}

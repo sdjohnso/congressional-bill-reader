@@ -1,0 +1,90 @@
+{
+  "bill_id": "119-hr-1865",
+  "title": "Mining Waste, Fraud, and Abuse Prevention Act of 2025",
+  "short_title": "Mining Waste, Fraud, and Abuse Prevention Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1865",
+  "introduced_date": "2025-03-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e1740bf3c89170cd",
+  "last_updated": "2026-04-07T15:19:36.818865+00:00",
+  "plain_summary": "This bill changes how mining companies can dig for metals like gold and copper on government land. Starting now, mining companies cannot use old laws to make new claims on federal land for free. Companies that already have mining claims must switch to paying rent and fees to the government or lose their claims. New mining companies will need special licenses and must pay the government money from what they mine. The bill also requires mining companies to follow stricter rules to protect the environment and clean up after themselves.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-05",
+  "last_action_date": "2025-03-05",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Grijalva, Raúl M. [D-AZ-7]",
+  "sponsor_party": "D",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "mining companies pay rent",
+    "gold mining on government land",
+    "copper mining fees",
+    "federal land mining rules",
+    "mining claims cost money",
+    "mining environmental cleanup",
+    "government mining licenses",
+    "mining waste prevention",
+    "mining on public land",
+    "mining company regulations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-table-of-contents",
+      "title": "Section 1. Short title; table of contents",
+      "text": "This law can be called the Mining Waste, Fraud, and Abuse Prevention Act of twenty twenty five. This section also lists all the parts of the law and what page numbers they start on, like a table of contents in a book.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions-and-references",
+      "title": "Section 2. Definitions and references",
+      "text": "This section explains what important words and phrases mean throughout this law. For example, it defines abandoned hardrock mine reclamation program as a program created by another law to clean up old mining sites. It explains that adjacent land means any land within two miles of a described area. The term affiliate means any person or company that controls, is controlled by, or shares control with another person or company, including business partners and anyone who owns at least ten percent of voting shares. An applicant is anyone asking for permission to mine, explore, or do related activities on federal land. Beneficiation means crushing and grinding rock to separate valuable minerals from other materials using physical and chemical methods. Casual use means small mineral activities that do not disturb federal land much, like collecting rock samples by hand, but does not include using big machines, explosives, or toxic materials. A claim holder is anyone who legally holds a mining claim and their representatives. The section continues to define dozens of other important terms like exploration, federal land, hardrock minerals, mining claims, and reclamation. It also explains what laws are being referred to when the text mentions general mining laws and other specific acts.",
+      "word_offset": 42,
+      "char_offset": 218
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-application-rules",
+      "title": "Section 3. Application rules",
+      "text": "This law applies to all mining claims that were located under the old mining laws before this new law takes effect. It also applies the same way to any land used for processing minerals that comes from mining claims, licenses, or permits issued under this new law.",
+      "word_offset": 245,
+      "char_offset": 1515
+    },
+    {
+      "id": "s4",
+      "slug": "section-101-closure-to-entry-and-location",
+      "title": "Section 101. Closure to entry and location",
+      "text": "Starting when this law takes effect, all federal land is closed to new mining claims under the old mining laws. No new rights can be gained under those old laws. Existing mining claims without approved operation plans can stay in effect for up to ten years if the claim holder follows the maintenance fee rules, unless they give up the claim or ask to convert it to a lease. This ten year period is shortened to three years if the claim is in an area that was already withdrawn from mining or if it belongs to a small miner. The Secretary can convert these claims to noncompetitive mining leases if the claim holder proves there are valuable minerals on the land. Any claims not converted by the deadline become void. For existing claims that already have approved operation plans but have not started mining yet, they can continue under their current plans for ten years, but must then comply with this new law. The Secretary must create regulations within one year explaining how to convert existing mining claims to noncompetitive mining leases.",
+      "word_offset": 292,
+      "char_offset": 1780
+    },
+    {
+      "id": "s5",
+      "slug": "section-102-limitation-on-patents",
+      "title": "Section 102. Limitation on patents",
+      "text": "After this law takes effect, the United States will only issue patents (which give full ownership) for mining claims if the Secretary determines that a patent application was filed by September thirtieth nineteen ninety four and all legal requirements were met by that date. If the Secretary makes these determinations, the claim holder has the right to get a patent just like before this law took effect, unless the determinations are withdrawn or overturned by a court. The same rules apply to millsites, which are areas used for mining-related buildings and equipment.",
+      "word_offset": 474,
+      "char_offset": 2829
+    },
+    {
+      "id": "s6",
+      "slug": "section-103-prospecting-licenses-and-hardrock-leases",
+      "title": "Section 103. Prospecting licenses and hardrock leases",
+      "text": "No person can prospect for hardrock minerals on federal land for commercial purposes without a prospecting license or a small miner's lease. The Secretary can grant prospecting licenses that give exclusive rights to prospect for specific hardrock minerals on up to two thousand five hundred sixty acres for up to two years. Each license application requires a fee to cover review costs and annual rental payments of ten dollars per acre per year. The license must follow approved land use plans. The Secretary can extend a license for up to four more years if the licensee explored diligently but could not determine if valuable minerals exist, or if they failed to explore due to conditions beyond their control. If a prospecting licensee finds valuable minerals, they can get a noncompetitive lease for the land at a royalty rate of at least twelve and a half percent of the gross value of minerals produced. These leases last twenty years and can be renewed for ten year periods if minerals are being produced commercially. No person can hold more than twenty thousand four hundred eighty acres of hardrock mining leases or licenses in any one state. The Secretary can reduce royalty rates if production would not occur otherwise, but never below six and a quarter percent.",
+      "word_offset": 566,
+      "char_offset": 3401
+    }
+  ]
+}

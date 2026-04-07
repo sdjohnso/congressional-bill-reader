@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-hr-1272",
+  "title": "Secure Storage Information Act of 2025",
+  "short_title": "Secure Storage Information Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1272",
+  "introduced_date": "2025-02-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "98f2f41305fdbabc",
+  "last_updated": "2026-04-07T14:42:36.784649+00:00",
+  "plain_summary": "This new law makes gun stores do three important things to help keep guns safe. First, gun stores must give information about safe gun storage to everyone who buys a gun. Second, they must sell different types of gun safes and locks in their stores. Third, people who buy gun safes can get up to five hundred dollars back on their taxes to help pay for them.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-12",
+  "last_action_date": "2025-02-12",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provis",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Sherrill, Mikie [D-NJ-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 5,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "gun safety",
+    "gun storage",
+    "gun safes",
+    "gun locks",
+    "gun store requirements",
+    "firearm storage",
+    "gun safety equipment",
+    "tax credit gun safe",
+    "secure gun storage",
+    "gun storage rebate"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Secure Storage Information Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirement-federal-firearms-licensee-provide-secure-firearms-storage-information",
+      "title": "Section 2 Requirement That A Federal Firearms Licensee Provide Secure Firearms Storage Information To A Prospective Firearm Transferee",
+      "text": "This section changes federal gun laws. It says that when a gun dealer sells or gives a gun to someone who is not a licensed gun dealer, the dealer must give that person written information about how to safely store guns. The Attorney General must write rules about what information has to be given to gun buyers. These rules must be written within six months after this law passes. The information must include details about storing guns unloaded and away from children and other people who should not have access to them. It must explain that guns should be stored separately from bullets and should be locked up. The information must also include facts about why safe gun storage matters, including data about how unsafe gun storage relates to gun suicides, shootings, school violence, accidental shootings, and gun theft. The information must also give advice about the best types of locks and safes, explaining how gun safes and lock boxes work better than trigger locks and cable locks.",
+      "word_offset": 15,
+      "char_offset": 87
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-requirement-certain-federal-firearms-licensees-have-variety-secure-gun-storage-devices-available",
+      "title": "Section 3 Requirement That Certain Federal Firearms Licensees Have A Variety Of Secure Gun Storage Or Safety Devices Available For Purchase In Their Stores",
+      "text": "This section changes the law to require gun dealers to have many different types of gun safety devices for sale in their stores. Instead of just having to offer one type of safety device, dealers must have a variety that includes full size gun safes, lock boxes and lockers, gun cases, and cable and trigger locks available for customers to buy.",
+      "word_offset": 183,
+      "char_offset": 1079
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-effective-date",
+      "title": "Section 4 Effective Date",
+      "text": "The changes made by sections two and three of this law will start working six months after this law is signed.",
+      "word_offset": 244,
+      "char_offset": 1425
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-gun-safe-credit",
+      "title": "Section 5 Gun Safe Credit",
+      "text": "This section creates a new tax credit for people who buy gun safes. People can get money back on their taxes for buying a qualified gun safe. The credit covers the amount they paid for the safe but cannot be more than five hundred dollars total over their lifetime. A qualified gun safe is any safe, gun safe, gun case, lock box, or similar device that the person buys new to store guns, not to sell to someone else. The device must be designed to securely store guns and must only open for authorized users using a key, combination, fingerprint, or similar method. If someone gets this tax credit, they must reduce the value of the safe for other tax purposes by the amount of the credit they received. They also cannot take other tax deductions for the same safe if they already got this credit. This tax credit applies to tax years that begin after this law is signed.",
+      "word_offset": 265,
+      "char_offset": 1536
+    }
+  ]
+}

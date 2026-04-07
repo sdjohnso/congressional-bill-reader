@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-1381",
+  "title": "COVID–19 Vaccination Non-Discrimination Act",
+  "short_title": "COVID–19 Vaccination Non-Discrimination Act",
+  "congress": 119,
+  "bill_number": "HR.1381",
+  "introduced_date": "2025-02-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "f3a2ae8f0c27d78e",
+  "last_updated": "2026-04-07T15:19:51.165815+00:00",
+  "plain_summary": "This bill makes a rule about COVID-19 vaccines and medical care. It says that hospitals and doctors cannot refuse to treat patients just because they did or did not get a COVID-19 vaccine. If medical places do refuse patients for this reason, the government will stop giving them money. This includes money from Medicare, Medicaid, and children's health insurance programs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Cardiovascular and respiratory health",
+    "Disability and health-based discrimination",
+    "Health information and medical records",
+    "Health programs administration and funding",
+    "Immunology and vaccination",
+    "Infectious and parasitic diseases"
+  ],
+  "sponsor_name": "Rep. Houchin, Erin [R-IN-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "COVID vaccine discrimination",
+    "hospital refusing unvaccinated patients",
+    "doctor denying care vaccine status",
+    "medical treatment vaccine requirements",
+    "healthcare discrimination COVID",
+    "refusing patients no vaccine",
+    "hospital funding vaccine mandates",
+    "Medicare Medicaid vaccine rules",
+    "medical care vaccine status",
+    "COVID shot hospital treatment",
+    "unvaccinated denied medical care"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the COVID-19 Vaccination Non-Discrimination Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-federal-funds-for-entities-that-refuse-to-provide-treatment-based-on-covid-19-vaccination-status",
+      "title": "Section 2 Prohibition on Federal Funds for Entities That Refuse to Provide Treatment Based on COVID-19 Vaccination Status",
+      "text": "No matter what any other law says, the federal government cannot give money to any medical facility that refuses to treat someone because of whether or not they got a COVID-19 vaccine. This rule applies to all money that Congress has approved for spending by federal law. It also applies to money in special government accounts called trust funds that get federal money. This includes money from Medicare (health insurance for people sixty-five and older), Medicaid (health insurance for low-income people), and the Children's Health Insurance Program. If a facility turns away patients just because they are vaccinated or not vaccinated against COVID-19, that facility cannot receive any of this federal money.",
+      "word_offset": 10,
+      "char_offset": 72
+    }
+  ]
+}

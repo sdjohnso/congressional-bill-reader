@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-658",
+  "title": "Protecting Investors’ Personally Identifiable Information Act",
+  "short_title": "Protecting Investors’ Personally Identifiable Information Act",
+  "congress": 119,
+  "bill_number": "S.658",
+  "introduced_date": "2025-02-20",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9e9d175de03393a1",
+  "last_updated": "2026-04-07T15:10:12.974305+00:00",
+  "plain_summary": "This bill stops the Securities and Exchange Commission from collecting personal information about people who invest in stocks and other securities. The Commission can only ask for this personal information when they are investigating someone for breaking securities laws. Once their investigation is finished, they must delete all the personal information within one day. The goal is to protect investors' private information from being collected and stored unnecessarily.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-20",
+  "last_action_date": "2025-02-20",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Sen. Kennedy, John [R-LA]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 8,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "investor privacy",
+    "personal information protection",
+    "SEC data collection",
+    "stock investor data",
+    "securities privacy",
+    "investment privacy rights",
+    "financial privacy protection",
+    "investor personal data",
+    "SEC information limits",
+    "securities investigation privacy"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting Investors' Personally Identifiable Information Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-personally-identifiable-information-excluded-from-consolidated-audit-trail-reporting-requirements",
+      "title": "Section 2 Personally Identifiable Information Excluded from Consolidated Audit Trail Reporting Requirements",
+      "text": "In this section, the Commission means the Securities and Exchange Commission. Personally identifiable information means details that can be used to figure out who someone is, either by itself or when combined with other information about that person. This includes their name, address, birth date or year, Social Security number, phone number, email address, or IP address. The Commission cannot require stock exchanges, securities associations, or their members to provide personally identifiable information about market participants to meet consolidated audit trail reporting rules. However, there is one exception. The Commission can only ask for this personal information if they are investigating a possible violation of federal securities laws or taking enforcement action for such a violation. When the Commission makes such a request, the exchange, association, or member must provide the information within twenty four hours, unless the Commission agrees to give them more time. After the Commission finishes its investigation or enforcement action, it must destroy the personal information within one day.",
+      "word_offset": 12,
+      "char_offset": 90
+    }
+  ]
+}

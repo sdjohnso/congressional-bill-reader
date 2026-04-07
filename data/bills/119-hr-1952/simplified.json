@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1952",
+  "title": "Future FARMER Act",
+  "short_title": "Future FARMER Act",
+  "congress": 119,
+  "bill_number": "HR.1952",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b0156b3163e72b82",
+  "last_updated": "2026-04-07T14:45:25.757779+00:00",
+  "plain_summary": "The Future FARMER Act gives money to programs that teach people about farming and food science. The bill provides 40 million dollars every year through 2029 for grants and scholarships. This money helps support college programs, classroom teaching about agriculture, and awards for excellent teachers. The goal is to help more people learn about farming and food so they can work in these important fields.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-04",
+  "last_action_date": "2025-04-04",
+  "last_action_text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Riley, Josh [D-NY-19]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "farming education",
+    "agriculture scholarships",
+    "food science programs",
+    "college farming grants",
+    "agriculture teacher training",
+    "farming career programs",
+    "food production education",
+    "agriculture student funding",
+    "farming workforce development",
+    "agricultural education money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Future Funding for Agricultural Research, Mentorship, and Education Reauthorization Act or the Future FARMER Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-extension-of-grants-and-fellowships",
+      "title": "Section 2 Extension of Grants and Fellowships for Food and Agricultural Sciences Education",
+      "text": "This section changes an existing law from nineteen seventy seven about agricultural research and teaching. The change adds new funding amounts to the law. It sets aside forty million dollars for each year from twenty twenty five through twenty twenty nine. This money will be used for grants and fellowships that help people get education in food and agricultural sciences.",
+      "word_offset": 21,
+      "char_offset": 141
+    }
+  ]
+}

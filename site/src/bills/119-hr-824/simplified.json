@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-hr-824",
+  "title": "GORAC Act of 2025",
+  "short_title": "GORAC Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.824",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "df2c185fda4249b4",
+  "last_updated": "2026-04-07T14:50:24.292169+00:00",
+  "plain_summary": "This bill makes the government check all its programs every ten years to find ones that waste money or do the same thing as other programs. An outside company will look at these programs and suggest which ones should be ended or combined together. Any money saved from getting rid of wasteful programs must be used to pay off the country's debt. Congress has to vote on these suggestions quickly without making changes to them.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-28",
+  "last_action_date": "2025-01-28",
+  "last_action_text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of su",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Accounting and auditing",
+    "Congressional oversight",
+    "Executive agency funding and structure",
+    "Government employee pay, benefits, personnel management",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Legislative rules and procedure"
+  ],
+  "sponsor_name": "Rep. Van Duyne, Beth [R-TX-24]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government waste",
+    "wasteful spending",
+    "duplicate programs",
+    "budget review",
+    "debt reduction",
+    "program audit",
+    "government efficiency",
+    "taxpayer money",
+    "federal programs",
+    "spending cuts",
+    "government oversight",
+    "budget savings"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Government Office Realignment And Closure Act of two thousand twenty five or the GORAC Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-evaluation-of-federal-agencies-and-programs",
+      "title": "Section 2 Evaluation of Federal Agencies and Programs for Duplicative, Wasteful, or Outdated Functions",
+      "text": "The government must review all federal programs to find ones that waste money or do the same job as other programs. Within one year of this law passing, and then every ten years after that, the Comptroller General (the head of the Government Accountability Office) must hire an outside auditor to review every federal program from the past ten years. The Comptroller General must hire this outside auditor within thirty days of this law passing for the first review. The outside auditor must recommend combining programs that do the same thing into one program if it would work better that way. The auditor must also recommend changing or eliminating any program that wasted federal money in the past ten years through bad spending, poor management, or using money for personal gain or special interest groups. The auditor must recommend eliminating any program that finished its job, became unnecessary, or failed to meet its goals during the past ten years. The outside auditor has one year to finish the review and give their recommendations to the Comptroller General. Within thirty days of getting the auditor's report, the Comptroller General must send a report to Congress with the recommendations and proposed laws to make the changes happen. The proposed laws must say that all money saved from these changes will be used to pay down the national debt. The proposed laws must also say that if a federal worker loses their job because of these changes, their agency must try to find them another job in the same agency or a different federal agency. The outside auditor can ask the Comptroller General to use subpoenas to make people testify or provide documents for this review. Federal agencies must give the auditor any information they need to do this review. For this law, entitlement program means any program that gives money, loans, or grants to people or governments based on meeting certain requirements set by law. Federal agency means executive agencies as defined in existing law, but does not include military bases or agencies that only run entitlement programs. Federal program means any activity or function of an agency, except entitlement programs.",
+      "word_offset": 26,
+      "char_offset": 147
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-congressional-consideration-of-reform-proposals",
+      "title": "Section 3 Congressional Consideration of Reform Proposals",
+      "text": "Congress must follow special rules when considering the proposed laws from the Comptroller General's report. On the fifteenth day when both the House and Senate are meeting after getting the report, the chairs of specific committees must introduce the proposed law in both chambers. These bills go to the appropriate committees, which can review and report on them but cannot change them. If a committee does not report the bill within fifteen days, the committee automatically loses control of the bill and it goes to the chamber's calendar. Any member can then ask their chamber to consider the bill, and this request cannot be delayed or changed. The bill cannot be amended in either chamber. Debate is limited to ten hours total, split equally between supporters and opponents. After debate ends, there must be an immediate vote with no delays allowed. If one chamber gets a bill from the other chamber before passing its own version, it must vote on the other chamber's version instead. These rules override normal congressional procedures but only for these specific bills. Congress recognizes that either chamber can change these rules at any time using their normal rule-making process. A calendar day means any day except when either chamber is not meeting due to a break of more than three days. An implementation bill means only the exact proposed law from the Comptroller General's report with no changes.",
+      "word_offset": 385,
+      "char_offset": 2323
+    }
+  ]
+}

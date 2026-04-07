@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2133",
+  "title": "Lakes Before Turbines Act",
+  "short_title": "Lakes Before Turbines Act",
+  "congress": 119,
+  "bill_number": "HR.2133",
+  "introduced_date": "2025-03-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "21166464e2d13bdd",
+  "last_updated": "2026-04-07T14:27:28.429990+00:00",
+  "plain_summary": "This bill changes tax rules for wind energy projects. Companies can no longer get tax breaks for building wind turbines in the Great Lakes starting in 2023. They can still get tax credits for wind projects in other inland waters, just not in the Great Lakes. The law is meant to stop wind turbine construction in the Great Lakes by removing the tax benefits that make these projects cheaper to build.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-14",
+  "last_action_date": "2025-03-14",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "wind turbines",
+    "Great Lakes",
+    "tax breaks",
+    "wind energy",
+    "Lake Michigan",
+    "Lake Superior",
+    "offshore wind",
+    "renewable energy tax credits",
+    "wind farms",
+    "Great Lakes wind projects"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Lakes Before Turbines Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-itc-for-certain-offshore-wind-facilities-prohibited-after-2022",
+      "title": "Section 2 ITC for Certain Offshore Wind Facilities Prohibited After 2022",
+      "text": "This section changes the tax code to stop giving tax credits for wind power projects built in the Great Lakes. Right now, companies can get a tax break called an investment tax credit when they build wind turbines in inland waters like rivers and lakes. This law would change that rule so companies cannot get this tax break for wind projects in any of the Great Lakes specifically. This change applies to tax years that start after December thirty first, two thousand twenty two.",
+      "word_offset": 10,
+      "char_offset": 54
+    }
+  ]
+}

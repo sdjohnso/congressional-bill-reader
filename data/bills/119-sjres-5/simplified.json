@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-sjres-5",
+  "title": "A joint resolution directing the removal of United States Armed Forces from hostilities in Ukraine that have not been authorized by Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SJRES.5",
+  "introduced_date": "2025-01-23",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e8d072cc7865a7f1",
+  "last_updated": "2026-04-07T14:16:51.069387+00:00",
+  "plain_summary": "This resolution tells the President that US military forces must stop fighting in Ukraine within 30 days. The only way US troops can stay and fight is if Congress officially declares war or passes a special law saying it's okay. Right now, Congress has not given permission for US forces to be in combat in Ukraine. The resolution does not allow any new military actions to happen. It is meant to make sure Congress has a say in whether American troops fight in other countries.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Read twice and referred to the Committee on Foreign Relations.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Paul, Rand [R-KY]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Ukraine war",
+    "US troops Ukraine",
+    "American soldiers Ukraine",
+    "Congress war powers",
+    "military authorization",
+    "troop withdrawal",
+    "Ukraine conflict",
+    "war declaration",
+    "military involvement Ukraine",
+    "congressional approval war"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-removal-of-united-states-armed-forces-from-hostilities-in-ukraine-that-have-not-been-authorized-by-congress",
+      "title": "Section 1 Removal of United States Armed Forces from Hostilities in Ukraine That Have Not Been Authorized by Congress",
+      "text": "Congress is ordering the President to remove all United States military forces from any fighting or military activities in Ukraine or that affect Ukraine. The President must do this within thirty days after this resolution is passed, unless the President asks for more time and Congress agrees to it. The only way United States forces can stay involved is if Congress officially declares war or passes a specific law allowing military action in Ukraine.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-rule-of-construction-regarding-authorizations-for-use-of-military-force",
+      "title": "Section 2 Rule of Construction Regarding Authorizations for Use of Military Force",
+      "text": "Nothing in this resolution gives permission to use military force. This resolution is only about removing military forces, not about starting new military actions.",
+      "word_offset": 74,
+      "char_offset": 454
+    }
+  ]
+}

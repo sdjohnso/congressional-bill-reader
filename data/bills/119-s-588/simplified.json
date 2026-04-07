@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-s-588",
+  "title": "Presidential Audit and Tax Transparency Act",
+  "short_title": "Presidential Audit and Tax Transparency Act",
+  "congress": 119,
+  "bill_number": "S.588",
+  "introduced_date": "2025-02-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "4b075b9c8e1639d2",
+  "last_updated": "2026-04-07T14:13:15.178058+00:00",
+  "plain_summary": "This bill makes the IRS check the tax returns of the President and people close to them every year. The IRS must then share a report about what they found and also make the actual tax returns public so everyone can see them. The bill also says that Presidents and people running for President must include their tax returns from the past three years in their official paperwork. All of this information will be made available for the public to read.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-13",
+  "last_action_date": "2025-02-13",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Wyden, Ron [D-OR]",
+  "sponsor_party": "D",
+  "sponsor_state": "OR",
+  "cosponsor_count": 8,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "president tax returns",
+    "presidential taxes",
+    "make president show taxes",
+    "president financial disclosure",
+    "IRS audit president",
+    "presidential candidate taxes",
+    "public access tax returns",
+    "transparency president finances",
+    "mandatory presidential audit",
+    "release presidential tax records",
+    "government check president taxes",
+    "presidential financial accountability"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Presidential Audit and Tax Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-examination-and-disclosure-with-respect-to-presidential-income-tax-returns",
+      "title": "Section 2  Examination and Disclosure with Respect to Presidential Income Tax Returns",
+      "text": "This section creates new rules for checking and sharing the President's tax returns with the public. The Internal Revenue Service (the government agency that handles taxes) must check all tax returns filed by the President and people connected to them as quickly as possible after they are filed. This checking process is called an examination or audit.\n\nThe IRS must write reports about these tax checks and make them available for anyone to read on the internet. There are four types of reports they must write. First, within ninety days of when a tax return is filed, they must write an initial report that says whose tax return it is, when it was filed, and when the checking started. Second, every one hundred eighty days after that, they must write update reports that explain how the checking is going and when they expect to finish. Third, within ninety days of finishing the check, they must write a final report that lists all the problems they found and how they were fixed. Fourth, if someone asks for extra time to file their tax return, the IRS must write a report about that request within ninety days.\n\nIf a President fails to file a tax return within sixty days of when it was due, the IRS must still do the checking process and write reports as if the return had been filed. The IRS must also make the actual tax returns available for the public to read on the internet within ninety days of when they are filed.\n\nThe term Presidential income tax return includes tax returns from the President, their spouse, any business they control, any estate they are involved with, and any trust they are connected to. It covers tax returns filed during their time as President or that are due during that time. When checking if someone controls a business, the rules look at family connections but limit how much family members count unless the President controlled the business recently.\n\nBefore making information public, the IRS must remove social security numbers, bank account numbers, names of children under eighteen years old, names of IRS employees, and home addresses except for the city and state. These rules apply to all tax returns filed after this law goes into effect.",
+      "word_offset": 12,
+      "char_offset": 72
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-additional-disclosure-of-tax-returns-by-presidents-and-certain-presidential-candidates",
+      "title": "Section 3  Additional Disclosure of Tax Returns by Presidents and Certain Presidential Candidates",
+      "text": "This section requires Presidents and major party candidates for President to include copies of their tax returns when they file their required government ethics reports. A covered candidate means someone who is nominated by a major political party to run for President and must file certain ethics reports. A covered individual means someone who is currently President and must file ethics reports.\n\nPresidents must include copies of their tax returns for the three most recent years when they file their ethics reports. The Director of the Office of Government Ethics will make these tax returns available for the public to read, just like other ethics information. If a President does not include their tax returns, the Director can ask the Treasury Secretary to provide them directly.\n\nMajor party candidates for President must add copies of their tax returns for the three most recent years to their ethics reports within fifteen days of being nominated. The Federal Election Commission will make these tax returns available for the public to read. If a candidate does not include their tax returns, the Federal Election Commission can ask the Treasury Secretary to provide them directly.\n\nBefore making tax returns public, both the Office of Government Ethics and the Federal Election Commission must remove certain private information after consulting with the Treasury Secretary. If tax returns have already been made public under other parts of this law, the President or candidate can just tell people where to find them on the internet instead of filing new copies.\n\nAnyone who knowingly lies about or fails to file required tax returns can be fined up to fifty thousand dollars or face criminal penalties. People who are already candidates when this law starts have thirty days to file their tax returns instead of fifteen days. The Treasury Secretary must provide tax returns to the Office of Government Ethics and Federal Election Commission when they request them for these purposes.",
+      "word_offset": 391,
+      "char_offset": 2265
+    }
+  ]
+}

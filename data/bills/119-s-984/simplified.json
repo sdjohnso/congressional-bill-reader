@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-984",
+  "title": "Fair Access to Agriculture Disaster Programs Act",
+  "short_title": "Fair Access to Agriculture Disaster Programs Act",
+  "congress": 119,
+  "bill_number": "S.984",
+  "introduced_date": "2025-03-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "792118ed9322b781",
+  "last_updated": "2026-04-07T14:12:17.960994+00:00",
+  "plain_summary": "This bill changes the rules for farmers who want to get help from government disaster programs. Right now, farmers who make more than $900,000 per year cannot get this disaster money. The new law says that farmers can still get disaster payments even if they make more than $900,000, as long as at least 75% of their money comes from farming, ranching, or forestry work. This applies to five different disaster programs that help farmers when bad weather or other problems hurt their crops or animals.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-12",
+  "last_action_date": "2025-03-12",
+  "last_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (Sponsor introductory remarks on measure: CR S1706)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Sen. Padilla, Alex [D-CA]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "farmer disaster relief",
+    "agricultural disaster programs",
+    "crop insurance help",
+    "farm income limits",
+    "disaster payments farmers",
+    "wealthy farmers assistance",
+    "farm disaster aid",
+    "agriculture emergency help",
+    "farming disaster money",
+    "rancher disaster benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Fair Access to Agriculture Disaster Programs Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exception-for-income-derived-from-agriculture",
+      "title": "Section 2  Exception for Income Derived from Agriculture",
+      "text": "This section changes an existing farm law called the Food Security Act of nineteen eighty five. The change allows some farmers and farm businesses to get around certain payment limits. Here is how it works. If a person or farm business gets at least seventy five percent of their average yearly income from farming, ranching, or forestry work, they can receive more disaster payments than normally allowed. This includes income from farm tours, selling farm products directly to customers, selling farm equipment they own, and other farm related activities. The Secretary of Agriculture decides what counts as farm related activities. This exception only applies to two types of payments. The first type comes from a part of the twenty fourteen Agricultural Act that deals with disaster assistance. The second type comes from a section of the nineteen ninety six Federal Agriculture Improvement and Reform Act that also provides disaster help.",
+      "word_offset": 13,
+      "char_offset": 77
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-3023",
+  "title": "Preventing Hospital Overbilling of Medicare Act",
+  "short_title": "Preventing Hospital Overbilling of Medicare Act",
+  "congress": 119,
+  "bill_number": "HR.3023",
+  "introduced_date": "2025-04-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "effd8c349921fc44",
+  "last_updated": "2026-04-07T14:06:02.196176+00:00",
+  "plain_summary": "This bill changes how hospitals get paid by Medicare when they provide care at locations away from the main hospital building. Starting in 2026, these off-campus hospital locations will have to use special billing numbers and charge the same lower rates that regular clinics charge, instead of the higher rates that hospitals usually get. The bill also requires hospitals to use the right forms when billing insurance companies. Additionally, it asks for help creating a law that states can use to make sure insurance companies can reject wrong bills from these off-campus hospital locations.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-24",
+  "last_action_date": "2025-04-24",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Spartz, Victoria [R-IN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "hospital billing",
+    "Medicare costs",
+    "off campus hospital",
+    "hospital overcharging",
+    "medical bills too high",
+    "hospital clinic rates",
+    "Medicare payments",
+    "hospital satellite locations",
+    "lower medical costs",
+    "hospital billing fraud",
+    "insurance billing problems",
+    "hospital outpatient costs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Preventing Hospital Overbilling of Medicare Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-addressing-incorrect-billing-by-off-campus-hospital-locations",
+      "title": "Section 2 Addressing Incorrect Billing by Off-Campus Hospital Locations",
+      "text": "This section makes several changes to how hospitals can bill Medicare and insurance companies when they provide services at locations away from their main hospital building. An off-campus outpatient department is a medical facility that is owned by a hospital but located away from the hospital's main campus. Currently, some of these off-campus locations can charge higher hospital rates instead of lower clinic rates for the same services. Starting January first, two thousand twenty six, Medicare will pay the same lower rates for services at off-campus hospital locations as it pays for the same services at regular clinics. This includes emergency departments that are located away from the main hospital. The Secretary of Health and Human Services can take additional steps to make sure hospitals cannot overcharge by billing off-campus services as if they were provided at the main hospital. Each off-campus hospital location must get its own separate identification number called a National Provider Identifier or NPI by January first, two thousand twenty six. This means the off-campus location cannot use the same billing number as the main hospital. The Secretary must update the rules to make sure each off-campus location is treated as a separate part of the hospital with its own unique identifier. Hospitals that have off-campus locations must use the separate identification number when billing Medicare for services provided at those locations starting January first, two thousand twenty six. They must use specific billing forms called HIPAA X12 837P or CMS 1500 forms. For private insurance, healthcare providers cannot bill for services at off-campus hospital locations or charge patients unless they use the separate identification number and the proper billing forms. The Secretary of Health and Human Services must ask the National Association of Insurance Commissioners to create a model law within six months of this bill becoming law. This model law should help insurance companies reject claims from hospitals that do not follow the new billing rules for off-campus locations. The model should be similar to a Colorado law called House Bill 18-1282.",
+      "word_offset": 12,
+      "char_offset": 76
+    }
+  ]
+}

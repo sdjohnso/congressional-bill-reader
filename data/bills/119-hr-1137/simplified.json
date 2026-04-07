@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1137",
+  "title": "No Kill Switches in Cars Act",
+  "short_title": "No Kill Switches in Cars Act",
+  "congress": 119,
+  "bill_number": "HR.1137",
+  "introduced_date": "2025-02-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "411e6b2d60618d72",
+  "last_updated": "2026-04-07T14:54:14.731765+00:00",
+  "plain_summary": "This bill cancels a rule that would have required car companies to put special technology in new cars to stop drunk or impaired people from driving. The technology would check if drivers are drunk or not driving safely and then prevent the car from starting or being driven. Right now, cars do not have to have this technology. The bill removes the requirement so car companies will not be forced to add this safety technology to vehicles.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-07",
+  "last_action_date": "2025-02-07",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Perry, Scott [R-PA-10]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 15,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "drunk driving prevention",
+    "car safety technology",
+    "vehicle kill switch",
+    "breathalyzer cars",
+    "impaired driving detection",
+    "automatic car shutdown",
+    "drunk driver technology",
+    "car starting prevention",
+    "vehicle safety requirements",
+    "anti drunk driving systems"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Kill Switches in Cars Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-advanced-impaired-driving-technology",
+      "title": "Section 2 Advanced Impaired Driving Technology",
+      "text": "Section twenty-four thousand two hundred twenty of the Infrastructure Investment and Jobs Act is completely removed and no longer exists as law. The Infrastructure Investment and Jobs Act was passed as Public Law one hundred seventeen dash fifty-eight.",
+      "word_offset": 12,
+      "char_offset": 57
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-1358",
+  "title": "No Patient Left Alone Act of 2025",
+  "short_title": "No Patient Left Alone Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1358",
+  "introduced_date": "2025-02-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "23905fcedaff0d90",
+  "last_updated": "2026-04-07T14:20:53.168808+00:00",
+  "plain_summary": "This bill requires hospitals that accept Medicare payments to have written rules about who can visit patients. Hospitals must tell patients about their right to choose their own visitors and cannot unfairly restrict who can visit. Any limits on visitors must be based only on medical reasons, not on discrimination. The goal is to make sure patients are not left alone and can have the support they need from family and friends while in the hospital.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-13",
+  "last_action_date": "2025-02-13",
+  "last_action_text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Health facilities and institutions",
+    "Health programs administration and funding",
+    "Hospital care",
+    "Medicare"
+  ],
+  "sponsor_name": "Rep. Van Drew, Jefferson [R-NJ-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "hospital visitors",
+    "patient visitation rights",
+    "family visits hospital",
+    "medicare hospital rules",
+    "hospital visiting policies",
+    "patient support person",
+    "alone in hospital",
+    "hospital discrimination visitors",
+    "choose your own visitors",
+    "family friends hospital access"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Patient Left Alone Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-patient-visitation-rights",
+      "title": "Section 2 Patient Visitation Rights",
+      "text": "This section changes the Social Security Act to add new rules about hospital visits. Hospitals must now have written rules about who can visit patients. These rules must explain any medical reasons why visits might be limited and why those limits are needed. Hospitals must tell each patient about their visitor rights, including any medical limits on those rights. Hospitals must tell patients they have the right to choose who can visit them, such as a spouse, family member, or friend. Patients can change their mind about who can visit at any time. Hospitals cannot stop or limit visits based on a person's race, color, country of origin, religion, sex, or disability. All approved visitors must be treated equally and have the same visiting privileges.",
+      "word_offset": 16,
+      "char_offset": 82
+    }
+  ]
+}

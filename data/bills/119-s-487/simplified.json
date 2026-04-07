@@ -1,0 +1,124 @@
+{
+  "bill_id": "119-s-487",
+  "title": "CHOICE Act",
+  "short_title": "CHOICE Act",
+  "congress": 119,
+  "bill_number": "S.487",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2283c4ee4d9d8858",
+  "last_updated": "2026-04-07T14:47:36.375628+00:00",
+  "plain_summary": "The CHOICE Act creates three programs to give parents more options for their children's schools. It improves scholarships for low-income families in Washington DC to help pay for private schools. It lets states use federal money to help parents of children with disabilities choose the best public or private school for their child. It also creates a new program that gives scholarships to military families living on bases so they can send their kids to the school of their choice, and this program will be paid for by cutting some salaries at the Department of Education.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [],
+  "sponsor_name": "Sen. Scott, Tim [R-SC]",
+  "sponsor_party": "R",
+  "sponsor_state": "SC",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "school choice",
+    "private school scholarships",
+    "education vouchers",
+    "military family schools",
+    "disability school options",
+    "Washington DC schools",
+    "parent school choice",
+    "federal education funding",
+    "low income school help",
+    "special needs school choice",
+    "military base schools",
+    "education department cuts"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Creating Hope and Opportunity for Individuals and Communities through Education Act or the CHOICE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "title-i-improving-scholarships-for-opportunity-and-results-act",
+      "title": "Title I Improving the Scholarships for Opportunity and Results Act",
+      "text": "This part of the law deals with fixing an existing scholarship program.",
+      "word_offset": 21,
+      "char_offset": 130
+    },
+    {
+      "id": "s3",
+      "slug": "section-101-purpose",
+      "title": "Section 101 Purpose",
+      "text": "The goal of this part is to change an existing law called the Scholarships for Opportunity and Results Act. This law provides scholarships so that low-income students in Washington DC can attend different schools.",
+      "word_offset": 33,
+      "char_offset": 202
+    },
+    {
+      "id": "s4",
+      "slug": "section-102-improvements-to-scholarships-for-opportunity-and-results-act",
+      "title": "Section 102 Improvements to the Scholarships for Opportunity and Results Act",
+      "text": "This section makes a small change to the existing scholarship law. It adds language to include students who are currently enrolled in school or will be enrolled next school year in either public or private elementary or high schools in Washington DC.",
+      "word_offset": 67,
+      "char_offset": 416
+    },
+    {
+      "id": "s5",
+      "slug": "title-ii-education-portability-for-individuals-with-disabilities",
+      "title": "Title II Education Portability for Individuals with Disabilities",
+      "text": "This part of the law deals with school choices for students with disabilities.",
+      "word_offset": 109,
+      "char_offset": 667
+    },
+    {
+      "id": "s6",
+      "slug": "section-201-purpose",
+      "title": "Section 201 Purpose",
+      "text": "The goal of this part is to give states new options to improve education for children with disabilities. It does this by giving students and parents more school choices under a law called the Individuals with Disabilities Education Act.",
+      "word_offset": 122,
+      "char_offset": 746
+    },
+    {
+      "id": "s7",
+      "slug": "section-202-amendments-to-individuals-with-disabilities-education-act",
+      "title": "Section 202 Amendments to the Individuals with Disabilities Education Act",
+      "text": "This section changes the Individuals with Disabilities Education Act in two ways. First, it allows states to use federal money to help parents pay for private schools for their children with disabilities. Parents must make a genuine choice about which school is best for their child. The federal money cannot be more than the total cost of tuition, fees, and transportation for one year. When parents use this option, the state has met its legal duty to educate the child. Private schools that accept this money do not have to follow all the usual federal rules for special education. Second, it allows federal research money to be used for up to three years to help states plan and start programs that give parents of children with disabilities genuine choices between public and private schools. These programs can give parents state money to pay school costs, or they can give people tax credits for donating money to help pay these costs. Schools in these programs cannot discriminate based on race, color, national origin, or sex, with some exceptions for religious schools. Religious schools can hire based on their beliefs and do not have to change their religious mission, remove religious items, or change their religious names or documents. Schools must be properly licensed by the state and must be accountable to parents for meeting their child's educational needs.",
+      "word_offset": 161,
+      "char_offset": 983
+    },
+    {
+      "id": "s8",
+      "slug": "title-iii-military-scholarships",
+      "title": "Title III Military Scholarships",
+      "text": "This part of the law creates scholarships for military families.",
+      "word_offset": 388,
+      "char_offset": 2361
+    },
+    {
+      "id": "s9",
+      "slug": "section-301-purpose",
+      "title": "Section 301 Purpose",
+      "text": "The goal of this part is to make sure children of military families who live on military bases get high-quality education. These families have fewer school choices because they live on the base. Better education options will help the military keep good personnel.",
+      "word_offset": 398,
+      "char_offset": 2426
+    },
+    {
+      "id": "s10",
+      "slug": "section-302-military-scholarship-program",
+      "title": "Section 302 Military Scholarship Program",
+      "text": "This section creates a five-year test program starting the first full school year after this law passes. The Secretary of Defense will give scholarships to help eligible military students attend public or private elementary or high schools chosen by their parents. An eligible military student is a child of military personnel who lives on a selected military base and chooses to attend a different school than the one they would normally be assigned. The Secretary will pick at least five military bases to participate, choosing bases where students would benefit most from more school choices. Military bases that already have full Department of Defense schools for all grades cannot participate. For elementary students, scholarships can be up to eight thousand dollars for the first year, or the actual cost of tuition, fees, and transportation, whichever is less. For high school students, scholarships can be up to twelve thousand dollars for the first year, or the actual cost, whichever is less. These amounts will be adjusted each year for inflation. The Secretary will pay the money directly to parents to ensure it goes toward school costs. If more students apply than there are scholarships available, winners will be chosen randomly from students who apply by the deadline. Students who get scholarships can keep them each year until they graduate from high school, get too old for free public education, or are no longer eligible military students. Students can keep their scholarships for the rest of the school year even if their family moves off base during that year. If a family transfers to a different military base, the student loses the scholarship but can apply for a new one at the new base if there is a program there. Schools that participate cannot discriminate based on race, color, national origin, or sex. However, religious schools do not have to follow sex discrimination rules if it goes against their religious beliefs. Parents can choose single-sex schools or classes. This program does not change disability education laws. Schools can require scholarship students to follow the same rules as other students. Religious schools can hire based on their religious beliefs and do not have to change their religious mission, remove religious items, or change their religious identity. The Secretary must send reports to Congress each year by July thirty and a final report within ninety days after the program ends. These reports must include the number of applicants, number and average amount of scholarships given, number of participating schools, number of elementary and high school students getting scholarships, and results of a parent satisfaction survey. Congress approves ten million dollars each year from twenty twenty-five through twenty twenty-nine to pay for this program. To pay for this, the Secretary of Education must return ten million dollars each year from the Department of Education salary budget to the Treasury.",
+      "word_offset": 441,
+      "char_offset": 2690
+    }
+  ]
+}

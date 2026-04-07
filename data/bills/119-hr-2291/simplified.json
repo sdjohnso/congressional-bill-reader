@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2291",
+  "title": "GARD Act",
+  "short_title": "GARD Act",
+  "congress": 119,
+  "bill_number": "HR.2291",
+  "introduced_date": "2025-03-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "15fccb5135efeab7",
+  "last_updated": "2026-04-07T14:58:17.933784+00:00",
+  "plain_summary": "The GARD Act makes new rules about gifts from foreign countries. Government workers and people running for office must tell two government offices when they get gifts from other countries. They have to give more details about these gifts and report them faster than before. If workers are late with their reports, they have to pay a fine. The government must also make it easy for regular people to see information about these foreign gifts online.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-24",
+  "last_action_date": "2025-03-24",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Donalds, Byron [R-FL-19]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "foreign gifts",
+    "government workers gifts",
+    "political gifts",
+    "gifts from other countries",
+    "campaign gifts foreign",
+    "government gift rules",
+    "foreign influence",
+    "gift reporting requirements",
+    "politicians foreign money",
+    "government transparency gifts",
+    "foreign country donations",
+    "political corruption prevention"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Gift Accountability, Reporting, and Disclosures Act or the GARD Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-receipt-and-disposition-of-foreign-gifts-and-decorations",
+      "title": "Section 2 Receipt and Disposition of Foreign Gifts and Decorations",
+      "text": "This section changes the rules about how government employees must report foreign gifts and decorations they receive. The changes expand who must follow these rules to include people running for President, Vice President, or Congress. It also changes the definition of family members who are covered by these rules. The new rules say that gifts cannot come from any person or organization that is not a United States citizen, permanent resident, or company organized under United States laws. The law also says government employees cannot accept gifts from countries that the Secretary of State has labeled as countries of concern. When employees report these gifts, they must now send their reports to both the Office of Government Ethics and the Department of State by May fifteenth each year instead of January thirty-first. The Secretary of State must make these reports public within thirty days after May fifteenth. The reports must include more detailed information about each gift, including its estimated value in the United States, tracking numbers, and exactly where the gift is now located. If an employee files their report more than thirty days late, they must pay a two hundred dollar fee, though this fee can be waived if the employee has a good reason for being late. Within one hundred twenty days after this law is passed, all government agencies must set up systems so the public can easily access these gift reports, similar to how people can access financial disclosure reports. These new rules apply to anyone who must file a gift report within thirty days after this law is passed.",
+      "word_offset": 16,
+      "char_offset": 96
+    }
+  ]
+}

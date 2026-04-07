@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2119",
+  "title": "St. Patrick’s Day Act",
+  "short_title": "St. Patrick’s Day Act",
+  "congress": 119,
+  "bill_number": "HR.2119",
+  "introduced_date": "2025-03-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "198b95282fbdc04a",
+  "last_updated": "2026-04-07T14:54:24.717338+00:00",
+  "plain_summary": "The St. Patrick's Day Act would make St. Patrick's Day a new federal holiday in the United States. This means that federal government workers would get the day off from work, just like they do for holidays such as Christmas and Thanksgiving. The new holiday would be added to the official list of federal holidays right after Washington's Birthday. If this bill becomes law, St. Patrick's Day would join the other days when federal offices and many government services are closed.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-14",
+  "last_action_date": "2025-03-14",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Arts, Culture, Religion",
+  "subjects": [],
+  "sponsor_name": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "St. Patrick's Day",
+    "federal holiday",
+    "government workers day off",
+    "Irish holiday",
+    "March 17",
+    "new national holiday",
+    "federal employees",
+    "government offices closed",
+    "paid holiday",
+    "Saint Patrick's Day",
+    "green holiday",
+    "Irish celebration"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the St. Patrick's Day Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-st-patricks-day",
+      "title": "Section 2  St. Patrick's Day",
+      "text": "The federal law that lists official government holidays is changed to add St. Patrick's Day to the list. This new holiday would be placed right after Washington's Birthday in the official list of federal holidays.",
+      "word_offset": 10,
+      "char_offset": 50
+    }
+  ]
+}

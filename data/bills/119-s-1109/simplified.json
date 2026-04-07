@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1109",
+  "title": "Social Security Check Tax Cut Act",
+  "short_title": "Social Security Check Tax Cut Act",
+  "congress": 119,
+  "bill_number": "S.1109",
+  "introduced_date": "2025-03-25",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "93114cdfc4d934ea",
+  "last_updated": "2026-04-07T14:32:18.513073+00:00",
+  "plain_summary": "This bill gives people a tax break on their Social Security retirement benefits for two years. In 2026, people will pay 10% less tax on these benefits, and in 2027, they will pay 20% less tax. The government will make sure that Social Security and Medicare programs still get all the money they need by replacing what is lost from the lower taxes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-25",
+  "last_action_date": "2025-03-25",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Ricketts, Pete [R-NE]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "social security tax reduction",
+    "retirement benefits tax cut",
+    "social security tax break",
+    "lower taxes on social security",
+    "reduce social security taxes",
+    "social security income tax relief",
+    "retirement tax savings",
+    "social security benefits taxes",
+    "cut taxes on retirement",
+    "social security tax decrease"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Social Security Check Tax Cut Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-temporary-reduction-of-inclusion-in-gross-income-for-old-age-and-survivors-insurance-benefit-payments",
+      "title": "Section 2  Temporary Reduction of Inclusion in Gross Income for Old-Age and Survivors Insurance Benefit Payments",
+      "text": "This section changes how much tax people pay on their Social Security benefits for two years. Starting in twenty twenty six and twenty twenty seven, people will pay less tax on certain Social Security payments. The tax cuts only apply to regular Social Security retirement benefits and railroad retirement benefits. They do not apply to Social Security disability benefits, which are handled separately. In twenty twenty six, people will pay ten percent less tax on their Social Security retirement benefits than they normally would. In twenty twenty seven, people will pay twenty percent less tax on these benefits than they normally would. To make sure Social Security and Medicare trust funds do not lose money because of these tax cuts, the government will transfer money from general tax revenues to replace what these funds would have lost. The government will make these transfers at the right times and in the right amounts to keep the trust funds whole. These changes start applying to tax years that begin after December thirty first, twenty twenty five.",
+      "word_offset": 12,
+      "char_offset": 62
+    }
+  ]
+}

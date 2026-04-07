@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2723",
+  "title": "VA Home Loan GRACE Act of 2025",
+  "short_title": "VA Home Loan GRACE Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2723",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "cdf996b6a387f186",
+  "last_updated": "2026-04-07T14:57:19.417791+00:00",
+  "plain_summary": "This bill changes how the VA helps veterans get home loans. It creates different amounts of help based on how big the loan is and whether the veteran has used a VA loan before. The bill also makes it illegal to lie when applying for these loans and creates punishments for people who do. Additionally, it extends certain fees that veterans have to pay until 2031.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Referred to the House Committee on Veterans' Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [],
+  "sponsor_name": "Rep. Kennedy, Timothy M. [D-NY-26]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "veterans home loans",
+    "VA mortgage help",
+    "military housing loans",
+    "veteran loan benefits",
+    "home buying for veterans",
+    "VA loan fraud penalties",
+    "veteran mortgage fees",
+    "military home loan assistance",
+    "VA housing program",
+    "veteran loan lying punishment",
+    "home loans for service members",
+    "VA mortgage changes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Veteran Affairs Home Loan Guaranty Resiliency And Concurrency Enhancement Act of two thousand twenty five or the VA Home Loan GRACE Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-basic-provisions-relating-to-loan-guaranty-and-insurance",
+      "title": "Section 2 Basic Provisions Relating to Loan Guaranty and Insurance",
+      "text": "This section changes how the Department of Veterans Affairs guarantees home loans for veterans. A loan guaranty means the government promises to pay part of the loan if the veteran cannot pay it back. The changes create different rules for regular veterans and covered veterans. A covered veteran is someone who has already used their VA loan benefit before. The new rules set up a table that shows how much the government will guarantee based on the size of the loan and whether the veteran is a covered veteran or not. For small loans under forty five thousand dollars, the government will guarantee fifty percent of the loan. For medium loans between forty five thousand and fifty six thousand two hundred fifty dollars, the government will guarantee twenty two thousand five hundred dollars. For larger loans over fifty six thousand two hundred fifty dollars, the government will guarantee the smaller amount between thirty six thousand dollars or forty percent of the loan. For very large loans over one hundred forty four thousand dollars used for buying, building, or improving a home, the government will guarantee twenty five percent of the loan. Covered veterans get higher guaranty amounts that are based on the Freddie Mac conforming loan limit, which is a number that changes each year. However, after April seventh two thousand thirty one, covered veterans will get lower guaranty amounts. When two or more veterans apply for one loan together, the government will guarantee an amount based on adding up what each veteran is entitled to. If two married veterans apply together with no other people on the loan, special rules apply. The section also creates penalties for veterans who lie on their applications. Veterans who knowingly make false statements can be fined up to twenty three thousand six hundred seven dollars. The government can also use other punishments available by law. The section extends certain loan fee rules until April seventh two thousand thirty one. All these changes will start one hundred eighty days after this law is signed.",
+      "word_offset": 33,
+      "char_offset": 192
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-1833",
+  "title": "Working Families Tax Cut Act",
+  "short_title": "Working Families Tax Cut Act",
+  "congress": 119,
+  "bill_number": "HR.1833",
+  "introduced_date": "2025-03-04",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2dc0eb9321faeae3",
+  "last_updated": "2026-04-07T14:52:19.134708+00:00",
+  "plain_summary": "This bill changes the name of the standard tax deduction to the guaranteed deduction. It also gives people extra money off their taxes in 2026 and 2027. The extra amount is between two thousand and four thousand dollars depending on how you file your taxes. However, people who make a lot of money will get less of this bonus or none at all.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-04",
+  "last_action_date": "2025-03-04",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "tax cuts for families",
+    "standard deduction",
+    "guaranteed deduction",
+    "tax refund",
+    "extra money on taxes",
+    "working families tax relief",
+    "tax deduction changes",
+    "income tax reduction",
+    "middle class tax break",
+    "2026 tax cuts",
+    "tax savings for workers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Working Families Tax Cut Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-standard-deduction-renamed-guaranteed-deduction",
+      "title": "Section 2  Standard Deduction Renamed Guaranteed Deduction",
+      "text": "This section changes the name of the standard deduction to the guaranteed deduction in all tax laws. The standard deduction is a set amount of money that taxpayers can subtract from their income before calculating taxes. Now it will be called the guaranteed deduction instead. This change affects many different parts of the tax code where the old name appeared. The new name will start being used for tax years that begin after December thirty first two thousand twenty five.",
+      "word_offset": 11,
+      "char_offset": 57
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-bonus-guaranteed-deduction-for-2026-and-2027",
+      "title": "Section 3  Bonus Guaranteed Deduction for 2026 and 2027",
+      "text": "This section creates an extra tax deduction for the years two thousand twenty six and two thousand twenty seven. The bonus amounts are four thousand dollars for married couples filing together and surviving spouses, three thousand dollars for heads of household, and two thousand dollars for everyone else. These amounts will be adjusted each year for inflation starting in two thousand twenty seven. However, people with higher incomes will get a smaller bonus or no bonus at all. The bonus gets reduced by five percent for every dollar of income above certain limits. These limits are four hundred thousand dollars for married couples and surviving spouses, three hundred thousand dollars for heads of household, and two hundred thousand dollars for all other taxpayers. This bonus deduction starts for tax years beginning after December thirty first two thousand twenty five.",
+      "word_offset": 91,
+      "char_offset": 534
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-s-747",
+  "title": "Improper Payments Transparency Act",
+  "short_title": "Improper Payments Transparency Act",
+  "congress": 119,
+  "bill_number": "S.747",
+  "introduced_date": "2025-02-26",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "921beb20e1938e13",
+  "last_updated": "2026-04-07T14:10:28.163970+00:00",
+  "plain_summary": "The Improper Payments Transparency Act requires the President to include special information about government payment mistakes in the yearly budget report to Congress. This information must explain why wrong payments were made and show how these mistakes have changed over three years. The report must also describe what government agencies plan to do to fix these payment problems. An improper payment means any government payment that should not have been made or was made for the wrong amount. This bill helps Congress better understand and track government spending mistakes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-26",
+  "last_action_date": "2025-02-26",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Economics and Public Finance",
+  "subjects": [
+    "Budget process",
+    "Congressional oversight",
+    "Congressional-executive branch relations",
+    "Presidents and presidential powers, Vice Presidents"
+  ],
+  "sponsor_name": "Sen. Ricketts, Pete [R-NE]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "government payment mistakes",
+    "wrong government payments",
+    "budget report errors",
+    "government spending mistakes",
+    "improper payments",
+    "payment errors",
+    "government waste",
+    "taxpayer money mistakes",
+    "budget transparency",
+    "government accountability",
+    "payment oversight",
+    "spending errors"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Improper Payments Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-including-improper-payment-information-in-presidents-budget-submission",
+      "title": "Section 2 Including Improper Payment Information in Presidents Budget Submission",
+      "text": "This section changes the law about what information the President must include when submitting the budget to Congress each year. The President must now include information about improper payments made by government agencies. Improper payments are money the government paid out incorrectly or to the wrong people. The President must include details about how much money was improperly paid and what percentage of payments were wrong for each government program that is required to report on improper payments. The President must explain why these improper payments happened and describe the patterns over the past three years. This includes programs where improper payments got better, got worse, or stayed the same. The President must also report on any actions the government is taking to fix these problems, including any incomplete plans to reduce improper payments. The President must explain what steps agencies will take to address these payment problems.",
+      "word_offset": 10,
+      "char_offset": 63
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2918",
+  "title": "Family Business Legacy Act of 2025",
+  "short_title": "Family Business Legacy Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2918",
+  "introduced_date": "2025-04-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "4ae2e3520f59e1fb",
+  "last_updated": "2026-04-07T14:24:49.061558+00:00",
+  "plain_summary": "This bill changes tax rules for families who own businesses and want to pass them down when someone dies. Starting in 2026, families can get tax breaks when they leave their business property to certain special groups like business organizations, worker unions, or farm groups. These groups have to be the type that do not pay taxes themselves. The new rules will help families save money on estate taxes when they give their business property to these organizations instead of keeping it in the family.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-14",
+  "last_action_date": "2025-04-14",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Steube, W. Gregory [R-FL-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "family business",
+    "estate tax",
+    "inheritance tax",
+    "passing down business",
+    "family farm inheritance",
+    "business succession",
+    "death tax relief",
+    "nonprofit organizations",
+    "worker unions",
+    "tax breaks for families"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Family Business Legacy Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exclusion-of-bequests",
+      "title": "Section 2 Exclusion of Bequests to Certain Exempt Organizations from Value of Taxable Estate",
+      "text": "This section changes the tax code to help families when someone dies and leaves property to certain tax exempt organizations. When calculating estate taxes (taxes paid when someone dies and leaves property behind), the government will not count money or property left to specific types of nonprofit organizations. These organizations include business leagues, labor unions, and agricultural groups that do not pay federal income tax. If someone uses a power of appointment (a legal right to decide who gets property) to give property to these organizations, that also counts as a gift from the dead person. If estate taxes must be paid from the money being given to these organizations, then the tax deduction is reduced by the amount of those taxes. The tax break cannot be more than the actual value of the property being given away. If property is split between a qualifying nonprofit organization and someone who does not qualify, special rules apply and the tax break may not be allowed unless the gift meets certain technical requirements about how it is structured and valued. This new rule will be added to the tax code as section twenty fifty nine. The changes take effect for people who die or make these types of gifts after December thirty first twenty twenty five.",
+      "word_offset": 14,
+      "char_offset": 77
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "bill_id": "119-hres-306",
+  "title": "Recognizing the 60th anniversary of Pacific Northwest National Laboratory.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.306",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "66de25b3623819cf",
+  "last_updated": "2026-04-07T15:09:40.598014+00:00",
+  "plain_summary": "This resolution celebrates the 60th anniversary of Pacific Northwest National Laboratory in Washington State. The laboratory started by working on cleaning up nuclear waste but has grown into a big research center. Now it works on energy problems, national security issues, and other science challenges. The laboratory works with colleges and businesses to help turn new scientific discoveries into products people can use.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Newhouse, Dan [R-WA-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "WA",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Pacific Northwest National Laboratory",
+    "PNNL anniversary",
+    "Washington state research lab",
+    "nuclear waste cleanup",
+    "energy research",
+    "national security laboratory",
+    "science research facility",
+    "60th anniversary celebration",
+    "government research center",
+    "scientific discoveries",
+    "university partnerships",
+    "technology development"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution recognizes the sixtieth anniversary of Pacific Northwest National Laboratory.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "background-and-history",
+      "title": "Background and History",
+      "text": "On January fourth, nineteen sixty-five, the Atomic Energy Commission chose Battelle Memorial Institute to take over the Hanford Laboratories in southeastern Washington State. The Atomic Energy Commission later became the Department of Energy. Battelle Memorial Institute is a nonprofit research organization. At first, the laboratory was called Pacific Northwest Laboratory and focused on making plutonium and cleaning up nuclear waste at the Hanford Site. Over the years, the laboratory grew to work on many different important problems in science, energy, and national security. In nineteen ninety-five, the Department of Energy officially added the word national to the name, making it Pacific Northwest National Laboratory. The laboratory has grown from just over two thousand two hundred employees in nineteen sixty-five to more than six thousand four hundred employees today. Pacific Northwest National Laboratory is now the biggest employer in central Washington. In fiscal year twenty twenty-four, the laboratory conducted one billion six hundred forty million dollars worth of research and development work.",
+      "word_offset": 11,
+      "char_offset": 94
+    },
+    {
+      "id": "s3",
+      "slug": "research-contributions",
+      "title": "Research Contributions",
+      "text": "Pacific Northwest National Laboratory has used its scientific abilities to make important contributions in many areas. These include cleaning up old nuclear waste, understanding how Earth systems work, improving the energy grid, advancing energy storage, making energy systems more reliable, helping salmon recover, stopping the spread of nuclear weapons, protecting against cyberattacks, and building artificial intelligence tools to speed up scientific discoveries related to national security and energy.",
+      "word_offset": 172,
+      "char_offset": 1211
+    },
+    {
+      "id": "s4",
+      "slug": "partnerships-and-innovation",
+      "title": "Partnerships and Innovation",
+      "text": "Pacific Northwest National Laboratory has more than two hundred joint appointments with over sixty colleges and universities. It is home to seven joint institutes that combine the skills and resources of universities and a national laboratory to make scientific work more effective. The laboratory also works with businesses of all sizes throughout the United States. These partnerships help move innovations developed at the laboratory into the marketplace. For example, Pacific Northwest National Laboratory developed millimeter wave technology that is now used at airport security checkpoints to scan for hidden objects and improve security. In fiscal year twenty twenty-four, the laboratory had three hundred nineteen invention disclosures, and researchers were named on fifty-nine patents that were granted.",
+      "word_offset": 240,
+      "char_offset": 1719
+    },
+    {
+      "id": "s5",
+      "slug": "education-and-training",
+      "title": "Education and Training",
+      "text": "Pacific Northwest National Laboratory is committed to training the next generation of scientists, mathematicians, and engineers. In fiscal year twenty twenty-four, the laboratory reached more than fifty-one thousand students and nine hundred educators through its science, technology, engineering, and math outreach programs.",
+      "word_offset": 356,
+      "char_offset": 2532
+    },
+    {
+      "id": "s6",
+      "slug": "house-resolution",
+      "title": "House Resolution",
+      "text": "The House of Representatives congratulates Pacific Northwest National Laboratory on six decades of scientific excellence. The House recognizes the contributions of Pacific Northwest National Laboratory in working on some of the United States most complex and urgent challenges. The House looks forward to continued innovation and scientific discovery that will make the nation and the world a better and safer place.",
+      "word_offset": 398,
+      "char_offset": 2858
+    }
+  ]
+}

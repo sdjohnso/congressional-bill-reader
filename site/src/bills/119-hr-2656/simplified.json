@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2656",
+  "title": "Removing Nitrate and Arsenic in Drinking Water Act",
+  "short_title": "Removing Nitrate and Arsenic in Drinking Water Act",
+  "congress": 119,
+  "bill_number": "HR.2656",
+  "introduced_date": "2025-04-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "091efb47134bd316",
+  "last_updated": "2026-04-07T15:02:40.553566+00:00",
+  "plain_summary": "This bill creates a new government program that gives money to help clean up drinking water that has too much nitrate and arsenic in it. The money can go to water companies, nonprofit groups, and local governments to pay for projects that make drinking water safer. The program will focus on helping poor communities and places where children get their drinking water first. The government will spend fifteen million dollars every year starting in 2026 to pay for these water cleaning projects.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-03",
+  "last_action_date": "2025-04-03",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Rep. Torres, Norma J. [D-CA-35]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 5,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "clean drinking water",
+    "water contamination",
+    "nitrate in water",
+    "arsenic in water",
+    "water safety",
+    "toxic water cleanup",
+    "government water funding",
+    "poor communities water",
+    "children drinking water",
+    "water treatment money",
+    "unsafe drinking water",
+    "water pollution help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Removing Nitrate and Arsenic in Drinking Water Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-nitrate-and-arsenic-reduction-grant-program",
+      "title": "Section 2 Nitrate and Arsenic Reduction Grant Program",
+      "text": "This section changes the Safe Drinking Water Act by adding a new grant program. An arsenic reduction project means work done mainly to lower the amount of arsenic in drinking water. An eligible entity means groups that can apply for grants. This includes community water systems, nontransient noncommunity water systems (water systems that serve the same twenty-five or more people for six months or more each year), qualified nonprofit organizations with experience reducing nitrates or arsenic, and municipalities or state agencies. A nitrate reduction project means work done mainly to lower the amount of nitrates in drinking water. Low-income means having limited money as defined by each state governor based on what people can afford to pay for water. The Administrator (the person in charge at the Environmental Protection Agency) must create a grant program to help eligible entities pay for projects that reduce nitrates or arsenic in drinking water across the United States. To get a grant, an eligible entity must figure out where the nitrates or arsenic are coming from in their water system and explain how their project will meaningfully reduce these chemicals in the drinking water. When giving out grants, the Administrator must give priority to disadvantaged communities that either have not met safe levels for nitrates or arsenic in the past three years, or want to fix nitrate or arsenic problems in water at schools, daycares, or places that mainly serve children or other vulnerable people. Eligible entities can use grant money to buy and install equipment that reduces nitrates or arsenic in drinking water. They must help disadvantaged communities, low-income homeowners, and landlords who rent to low-income people first. The Administrator can use up to four percent of the grant money to pay for running the program. Congress approves fifteen million dollars for fiscal year two thousand twenty-six and fifteen million dollars for each year after that to pay for this program. The Administrator of the Environmental Protection Agency must study how well this grant program considers fairness and helps economically disadvantaged and underserved populations with their different needs.",
+      "word_offset": 14,
+      "char_offset": 79
+    }
+  ]
+}

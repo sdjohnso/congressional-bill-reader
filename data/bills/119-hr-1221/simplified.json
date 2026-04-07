@@ -1,0 +1,83 @@
+{
+  "bill_id": "119-hr-1221",
+  "title": "Social Security and Medicare Lock-Box Act",
+  "short_title": "Social Security and Medicare Lock-Box Act",
+  "congress": 119,
+  "bill_number": "HR.1221",
+  "introduced_date": "2025-02-11",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "09aea29665b4e453",
+  "last_updated": "2026-04-07T14:32:54.543123+00:00",
+  "plain_summary": "This bill creates special savings accounts to protect extra money from Social Security and Medicare. When these programs have money left over each year, it must go into these protected accounts where it cannot be touched. The government cannot invest this money until Congress makes new rules about how to invest it in things other than government bonds. The bill also creates a group of people to study and suggest better ways to invest this money to help it grow.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-02-11",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Advisory bodies",
+    "Executive agency funding and structure",
+    "Financial services and investments",
+    "Government studies and investigations",
+    "Government trust funds",
+    "Medicare",
+    "Social security and elderly assistance"
+  ],
+  "sponsor_name": "Rep. Walberg, Tim [R-MI-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "social security protection",
+    "medicare savings",
+    "government trust fund",
+    "social security lockbox",
+    "medicare lockbox",
+    "protect social security money",
+    "investment rules",
+    "social security surplus",
+    "medicare surplus",
+    "government investment study",
+    "social security investment options"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Social Security and Medicare Lock-Box Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-interim-protections-for-social-security-trust-fund-surplus",
+      "title": "Section 2 Interim Protections for Social Security Trust Fund Surplus",
+      "text": "This section creates a special account called the Social Security Surplus Protection Account inside the Social Security Trust Fund. Starting after the year two thousand twenty five, any extra money left over each year in Social Security must be moved into this special account. Extra money means the total amount collected from Social Security taxes minus the total amount paid out in benefits and administrative costs. The person in charge of the Trust Fund cannot invest the money sitting in this special account. This protection will end when Congress passes a new law that allows Social Security money to be invested in something other than government bonds. Any new law that does this must include specific language saying it meets this requirement.",
+      "word_offset": 12,
+      "char_offset": 70
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-interim-protections-for-medicare-part-a-trust-fund-surplus",
+      "title": "Section 3 Interim Protections for Medicare Part A Trust Fund Surplus",
+      "text": "This section creates a special account called the Medicare Surplus Protection Account inside the Medicare Hospital Insurance Trust Fund. Starting after the year two thousand twenty five, any extra money left over each year in Medicare Part A must be moved into this special account. Extra money means the total amount collected from Medicare hospital insurance taxes minus the total amount paid out in benefits and administrative costs. The person in charge of the Trust Fund cannot invest the money sitting in this special account. This protection will end when Congress passes a new law that allows Medicare Trust Fund money to be invested in something other than government bonds. Any new law that does this must include specific language saying it meets this requirement.",
+      "word_offset": 134,
+      "char_offset": 825
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-social-security-and-medicare-part-a-investment-commission",
+      "title": "Section 4 Social Security and Medicare Part A Investment Commission",
+      "text": "This section creates a new group called the Social Security and Medicare Part A Investment Commission. This group must study how to best invest Social Security and Medicare hospital insurance money in things other than government bonds. The group must give a report with their recommendations to the President and Congress by October first, two thousand twenty five. The commission will have nine members total. The President picks three members and chooses one as the leader. The Speaker of the House picks two members. The minority leader of the House picks one member. The majority leader of the Senate picks two members. The minority leader of the Senate picks one member. All members must have lots of experience managing financial investments and pension plans. The commission must meet at least once every month. They need at least three members present to make decisions, and they decide things by majority vote. Members who do not already work for the government will be paid at the same daily rate as high level government executives. All members will have their travel expenses paid. The commission will shut down ninety days after they submit their report.",
+      "word_offset": 259,
+      "char_offset": 1601
+    }
+  ]
+}

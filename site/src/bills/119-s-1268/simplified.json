@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1268",
+  "title": "Safety Starts at the Top Act of 2025",
+  "short_title": "Safety Starts at the Top Act of 2025",
+  "congress": 119,
+  "bill_number": "S.1268",
+  "introduced_date": "2025-04-02",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ba1b25e8d8add4b0",
+  "last_updated": "2026-04-07T14:38:09.036683+00:00",
+  "plain_summary": "This bill makes rules for big airplane companies that help the government check if planes are safe. These companies must put worker union representatives and safety experts on their boards of directors. A board of directors is a group of people who make important decisions for a company. If the airplane companies do not follow these new rules, they will lose their special permission to help with safety inspections within ninety days. This law is meant to make sure airplane safety decisions include input from workers and safety experts.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-02",
+  "last_action_date": "2025-04-02",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Sen. Markey, Edward J. [D-MA]",
+  "sponsor_party": "D",
+  "sponsor_state": "MA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "airplane safety",
+    "airline companies",
+    "worker unions",
+    "safety experts",
+    "board of directors",
+    "plane inspections",
+    "aviation safety",
+    "airline oversight",
+    "worker representation",
+    "safety regulations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Safety Starts at the Top Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-qualifications-for-oda-holders",
+      "title": "Section 2 Qualifications for ODA Holders",
+      "text": "This section changes the rules for companies that help the government check airplane safety. An ODA holder is a company that the head of the Federal Aviation Administration allows to do certain safety inspection jobs that the government normally does. If a company makes at least fifteen billion dollars each year, it must follow special rules. The company must tell the government every year that its board of directors includes four specific types of people. Two of these people must come from worker unions. At least one union representative must come from each union that represents workers who actually design and build airplanes for that company. The other two people on the board must have real experience keeping airplanes safe and must be able to prove they have succeeded in making aviation safer. The head of the Federal Aviation Administration has ninety days after this law passes to take away the special inspection powers from any company that does not follow these new rules.",
+      "word_offset": 17,
+      "char_offset": 85
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-2163",
+  "title": "No Penalties for Victims of Fraud Act",
+  "short_title": "No Penalties for Victims of Fraud Act",
+  "congress": 119,
+  "bill_number": "HR.2163",
+  "introduced_date": "2025-03-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "3007b41aecbeb9c0",
+  "last_updated": "2026-04-07T14:41:54.771382+00:00",
+  "plain_summary": "This bill helps people who have been victims of fraud or scams. If someone needs to take money out of their retirement account early because they were cheated, they will not have to pay the usual penalty fees. To get this help, victims must show proof from police or courts that they were really victims of fraud. The Treasury Department will make rules about how this works and teach people about these new protections.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-14",
+  "last_action_date": "2025-03-14",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Stevens, Haley M. [D-MI-11]",
+  "sponsor_party": "D",
+  "sponsor_state": "MI",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "fraud victims",
+    "scam victims",
+    "retirement account penalty",
+    "early withdrawal penalty",
+    "401k early withdrawal",
+    "IRA penalty waiver",
+    "fraud victims relief",
+    "scam protection",
+    "retirement savings fraud",
+    "penalty fees waived",
+    "fraud victim help",
+    "early retirement withdrawal"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Penalties for Victims of Fraud Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-waiver-of-early-withdrawal-penalties-for-victims-of-fraud",
+      "title": "Section 2 Waiver of Early Withdrawal Penalties for Victims of Fraud",
+      "text": "This section changes the tax code to help people who are victims of fraud. Usually, if you take money out of a retirement account before you reach retirement age, you have to pay an extra penalty fee to the government. This new rule says that victims of fraud will not have to pay that penalty fee when they take money from their retirement accounts because of the fraud. To qualify as a victim of fraud, a person must apply to the Treasury Department and provide proof from police or a court that shows they were the victim of a fraudulent act that caused them to withdraw money from their retirement account. The Treasury Department will then decide if the person qualifies as a fraud victim. If someone takes money out under this rule, they may be able to put the money back into their retirement account later, following similar rules that already exist for other emergency withdrawals. This rule applies to most types of retirement plans, but not to traditional pension plans where employers promise specific monthly payments. These changes will apply to money taken out of retirement accounts after this law is passed.",
+      "word_offset": 13,
+      "char_offset": 66
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-information-and-outreach",
+      "title": "Section 3 Information and Outreach",
+      "text": "The Treasury Department must create clear instructions within one hundred eighty days after this law is passed. These instructions will explain how fraud victims can apply to have their early withdrawal penalties removed. The Treasury Department must also start a public education campaign as soon as possible after this law passes. This campaign will teach people about the new protections and help available to fraud victims under this law.",
+      "word_offset": 207,
+      "char_offset": 1191
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "bill_id": "119-s-347",
+  "title": "Brownfields Reauthorization Act of 2025",
+  "short_title": "Brownfields Reauthorization Act of 2025",
+  "congress": 119,
+  "bill_number": "S.347",
+  "introduced_date": "2025-01-30",
+  "stage": "committee_reported",
+  "stage_label": "Passed Committee",
+  "version_hash": "b5fed3bb63d4313f",
+  "last_updated": "2026-04-07T14:14:03.964199+00:00",
+  "plain_summary": "This bill extends a government program that helps clean up dirty land called brownfields through 2030. It makes it easier for small towns and disadvantaged communities to get money by lowering how much they have to pay and removing cost sharing requirements completely for these areas. The bill raises the maximum grant amount to one million dollars per site and allows more types of organizations like chambers of commerce to apply for grants. It also requires applicants to have a plan for working with different local community groups and asks the EPA to improve how they review and approve grant applications.",
+  "current_status": "committee_reported",
+  "status_date": "2025-02-05",
+  "last_action_date": "2025-02-05",
+  "last_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 6.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [
+    "Alaska Natives and Hawaiians",
+    "Congressional oversight",
+    "Hazardous wastes and toxic substances",
+    "Indian lands and resources rights",
+    "Land use and conservation",
+    "Rural conditions and development",
+    "State and local government operations"
+  ],
+  "sponsor_name": "Sen. Capito, Shelley Moore [R-WV]",
+  "sponsor_party": "R",
+  "sponsor_state": "WV",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "brownfields cleanup",
+    "contaminated land",
+    "dirty soil cleanup",
+    "polluted property",
+    "environmental cleanup grants",
+    "small town funding",
+    "community development money",
+    "toxic site cleanup",
+    "land restoration",
+    "EPA grants",
+    "environmental justice funding",
+    "contaminated site remediation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Brownfields Reauthorization Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-improving-small-and-disadvantaged-community-access-to-grant-opportunities",
+      "title": "Section 2 Improving Small and Disadvantaged Community Access to Grant Opportunities",
+      "text": "This section changes the rules for brownfield grants to help small and disadvantaged communities get more funding. First, it allows certain trade organizations to apply for grants, not just charities. Second, it removes a limit that restricted how much money could be used for certain activities. Third, it requires grant applicants to have a plan that involves many different local groups in decisions about cleaning up contaminated land. The plan must show how the community will have a real voice in what happens. Fourth, it reduces the amount of money that communities must contribute from their own funds from twenty percent to ten percent. It also removes this requirement completely for small communities and disadvantaged areas. Finally, it extends the program from two thousand twenty five through two thousand thirty instead of ending in two thousand twenty three.",
+      "word_offset": 14,
+      "char_offset": 88
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-increasing-grant-amounts",
+      "title": "Section 3 Increasing Grant Amounts",
+      "text": "This section doubles the maximum amount of money that can be given for cleaning up each contaminated site. The new limit is one million dollars per site instead of five hundred thousand dollars per site.",
+      "word_offset": 152,
+      "char_offset": 963
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-state-response-programs",
+      "title": "Section 4 State Response Programs",
+      "text": "This section makes two changes to help states clean up contaminated sites. First, it allows states to use federal money to start new cleanup programs, not just improve existing ones. Second, it sets aside more money each year for these state programs. The funding starts at fifty million dollars in two thousand twenty five and increases by five million dollars each year until it reaches seventy five million dollars in two thousand thirty.",
+      "word_offset": 187,
+      "char_offset": 1167
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-report-to-identify-opportunities-to-streamline-application-process-updating-guidance",
+      "title": "Section 5 Report to Identify Opportunities to Streamline Application Process and Updating Guidance",
+      "text": "This section requires the Environmental Protection Agency to study how to make the grant application process easier. Within one year of this law passing, the agency must write a report to Congress. The report must identify what confuses people when they apply for grants, what mistakes cause applications to lose points, and how to encourage more small and disadvantaged communities to apply. The report should also suggest changes to Congress that would make applying easier for these communities. At the same time, the agency must update its guidance documents to make the application process less complicated while still keeping it fair and competitive.",
+      "word_offset": 260,
+      "char_offset": 1609
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-brownfield-revitalization-funding-for-alaska-native-tribes",
+      "title": "Section 6 Brownfield Revitalization Funding for Alaska Native Tribes",
+      "text": "This section allows Alaska Native corporations to apply for brownfield cleanup grants. Previously, these corporations were not eligible for this funding. Now both Regional Corporations and Village Corporations that were created under the Alaska Native Claims Settlement Act can receive grants to clean up contaminated land in Alaska.",
+      "word_offset": 363,
+      "char_offset": 2266
+    }
+  ]
+}

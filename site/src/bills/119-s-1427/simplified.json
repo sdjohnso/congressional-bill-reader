@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1427",
+  "title": "Audit the IRS Act",
+  "short_title": "Audit the IRS Act",
+  "congress": 119,
+  "bill_number": "S.1427",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e5d108caeccc3413",
+  "last_updated": "2026-04-07T14:42:52.622667+00:00",
+  "plain_summary": "The Audit the IRS Act is a new law about who can work for the IRS. It says that people who owe a lot of overdue taxes cannot get jobs at the IRS or keep working there. The person in charge of the IRS must check regularly to make sure all workers and people who want jobs there have paid their taxes. This rule helps make sure that IRS employees follow the same tax rules they expect other people to follow.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Ernst, Joni [R-IA]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "IRS employees",
+    "tax agency workers",
+    "government workers taxes",
+    "IRS hiring rules",
+    "tax collectors paying taxes",
+    "IRS job requirements",
+    "government employee tax debt",
+    "IRS worker background checks",
+    "tax agency employment",
+    "IRS staff tax compliance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Audit the IRS Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-ineligibility-of-persons-having-seriously-delinquent-tax-debts-for-employment-by-internal-revenue-service",
+      "title": "Section 2. Ineligibility of Persons Having Seriously Delinquent Tax Debts for Employment by Internal Revenue Service",
+      "text": "This section explains what terms mean and sets rules for who can work at the IRS. A seriously delinquent tax debt means money someone owes in taxes where the government has filed a public notice of lien (a legal claim on their property). This does not include debts that are being paid on time through a payment plan or settlement agreement with the IRS. It also does not include debts where someone has asked for a hearing about collection or has requested relief from joint tax liability and that request is still being decided. An applicable employee means any officer, employee, or contract worker at the IRS. People who have seriously delinquent tax debts cannot be hired by the IRS and cannot keep working there if they already have a job. The Commissioner of Internal Revenue must check within six months of this law passing and then every year after that to make sure all current IRS workers do not have seriously delinquent tax debts. For people applying for jobs at the IRS, the Commissioner must check that they do not have seriously delinquent tax debts before hiring them. The Office of Personnel Management must write any rules needed to carry out this law for the Internal Revenue Service.",
+      "word_offset": 10,
+      "char_offset": 46
+    }
+  ]
+}

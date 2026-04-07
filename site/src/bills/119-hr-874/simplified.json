@@ -1,0 +1,55 @@
+{
+  "bill_id": "119-hr-874",
+  "title": "To amend title 38, United States Code, to modify the rate of pay for care or services provided under the Community Care Program of the Department of Veterans Affairs based on the location at which such care or services were provided, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.874",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "441332100adbf722",
+  "last_updated": "2026-04-07T14:08:37.307555+00:00",
+  "plain_summary": "This bill changes how the Department of Veterans Affairs pays outside doctors and hospitals when they treat veterans. Starting in 2026, the VA will pay different amounts based on where the veteran gets care, like whether it's at a hospital, surgery center, or doctor's office. When there are different payment options for the same location, the VA must choose the lowest payment rate. This means the government will spend less money on veteran healthcare provided by outside providers.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-04",
+  "last_action_date": "2025-03-04",
+  "last_action_text": "Referred to the Subcommittee on Health.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Health care costs and insurance",
+    "Veterans' medical care"
+  ],
+  "sponsor_name": "Rep. McCormick, Richard [R-GA-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "veteran healthcare payments",
+    "VA paying outside doctors",
+    "veteran medical care costs",
+    "community care program",
+    "VA hospital payments",
+    "veteran treatment locations",
+    "government healthcare spending",
+    "VA payment rates",
+    "veteran doctor visits",
+    "outside medical providers",
+    "veteran healthcare locations",
+    "VA medical expenses"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-rates-of-pay-for-providers",
+      "title": "Section 1  Rates of Pay for a Provider of Care or Services Furnished to a Veteran Under the Community Care Program of the Department of Veterans Affairs",
+      "text": "This section changes how the Department of Veterans Affairs pays healthcare providers who treat veterans through the Community Care Program. The Community Care Program lets veterans get healthcare from doctors and hospitals outside the VA system when needed. Right now, the VA Secretary must set payment rates that are similar to what Medicare pays, when possible. This bill keeps that rule but adds new requirements. The Secretary must now create different payment rates based on exactly where the healthcare was provided, not just which company provided it. The different locations include regular hospitals where patients stay overnight, hospital departments where patients get outpatient care on the main hospital property, hospital departments that are located away from the main hospital, surgery centers where patients have operations and go home the same day, and doctors' offices. When healthcare providers send bills to the VA, they must include a special code that shows exactly where they provided the care. If the VA could pay different rates for the same care or service, the VA must pay the lowest rate available. These new rules will start on January first, twenty twenty six.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hres-79",
+  "title": "Providing amounts for the expenses of the Committee on Veterans' Affairs in the One Hundred Nineteenth Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.79",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b359f9a7bac1c3bb",
+  "last_updated": "2026-04-07T15:00:11.889541+00:00",
+  "plain_summary": "This bill gives money to the House Committee on Veterans' Affairs to pay for its work during the next two years. The committee can spend up to twelve million dollars total. The money is divided between the two years and must be used following special rules about how Congress spends money. This helps the committee do its job of working on issues that affect veterans.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-31",
+  "last_action_date": "2025-01-31",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "House Committee on Veterans' Affairs"
+  ],
+  "sponsor_name": "Rep. Bost, Mike [R-IL-12]",
+  "sponsor_party": "R",
+  "sponsor_state": "IL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans committee funding",
+    "house veterans affairs money",
+    "committee budget veterans",
+    "congress veterans spending",
+    "veterans affairs expenses",
+    "house committee budget",
+    "veterans committee operations",
+    "congressional veterans funding",
+    "veterans affairs committee costs",
+    "house veterans budget"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-amounts-for-committee-expenses",
+      "title": "Section 1  Amounts for Committee Expenses",
+      "text": "The House of Representatives will pay up to twelve million one hundred thirty-six thousand three hundred seventy dollars for the Committee on Veterans' Affairs to operate during the One Hundred Nineteenth Congress. This money comes from the House accounts that are set aside for committee salaries and expenses. The money covers all costs for running the committee, including paying all staff members their salaries.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-session-limitations",
+      "title": "Section 2  Session Limitations",
+      "text": "The money from Section 1 is split between two years. No more than five million nine hundred eighty-five thousand two hundred seventy dollars can be spent during the first year, which runs from noon on January third two thousand twenty-five until noon on January third two thousand twenty-six. No more than six million one hundred fifty-one thousand one hundred dollars can be spent during the second year, which runs from noon on January third two thousand twenty-six until noon on January third two thousand twenty-seven.",
+      "word_offset": 64,
+      "char_offset": 417
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-vouchers",
+      "title": "Section 3  Vouchers",
+      "text": "Money under this resolution can only be paid out using vouchers. The Committee on Veterans' Affairs must approve each voucher. The Chairman of the Committee on Veterans' Affairs must sign each voucher. The Committee on House Administration must also approve each voucher in whatever way they require.",
+      "word_offset": 149,
+      "char_offset": 940
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-regulations",
+      "title": "Section 4  Regulations",
+      "text": "All money provided under this resolution must be spent following the rules that the Committee on House Administration has written and approved.",
+      "word_offset": 196,
+      "char_offset": 1241
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-1308",
+  "title": "FISC Act",
+  "short_title": "FISC Act",
+  "congress": 119,
+  "bill_number": "HR.1308",
+  "introduced_date": "2025-02-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "89e0982ed25c2d30",
+  "last_updated": "2026-04-07T14:44:01.317385+00:00",
+  "plain_summary": "This bill creates a new program that gives monthly cash payments to pregnant women and people taking care of children. The payments can be anywhere from two hundred fifty to eight hundred dollars each month, depending on the family's situation. The bill gets rid of the current child tax credit that families get when they file their taxes. Instead of getting money back at tax time, families would get these monthly payments throughout the year. This changes how the government helps families with children by giving them money every month instead of once a year.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-13",
+  "last_action_date": "2025-02-13",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Golden, Jared F. [D-ME-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "ME",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "monthly cash payments",
+    "child support money",
+    "pregnant women benefits",
+    "family assistance payments",
+    "monthly child allowance",
+    "government money for kids",
+    "replace child tax credit",
+    "monthly family payments",
+    "cash for families with children",
+    "government help for parents"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Family Income Supplemental Credit Act or the FISC Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-family-income-supplements",
+      "title": "Section 2 Family Income Supplements",
+      "text": "This section creates a program that gives monthly cash payments to pregnant women and people who take care of children. Pregnant women can apply to the Social Security Commissioner for monthly payments during their pregnancy. People who take care of eligible children can also apply for monthly payments for each child they care for. The application must include personal information like name, address, and Social Security number. For pregnant women, the application must include the expected due date and information about prenatal care. For caregivers, the application must include information about the child and all caregivers. An eligible child is someone under eighteen years old who does not provide more than half of their own financial support and is a United States citizen, national, or permanent resident. A qualified caregiver is someone who is at least eighteen years old, lives with the child, and provides economic support for the child. However, people who commit fraud in this program cannot be qualified caregivers. Once approved, beneficiaries get monthly payments starting in the month they apply. Pregnant women get payments when their pregnancy reaches at least twenty weeks. Caregivers get payments for each month after an eligible child is born. The monthly payment for a pregnancy is eight hundred dollars. For children under six years old, the payment is four hundred dollars per month. For children six years old and older, the payment is two hundred fifty dollars per month. Married beneficiaries get a twenty percent bonus on their total monthly payment. The payments are reduced for higher income families. For every one thousand dollars over one hundred twenty five thousand dollars in income for single people or two hundred fifty thousand dollars for married couples filing jointly, the payment is reduced by sixteen dollars and sixty seven cents. The total monthly payment cannot be more than one twelfth of the beneficiary's total yearly income. Only one qualified caregiver per child can receive payments. When a pregnancy ends with a birth, the pregnancy benefits automatically convert to child benefits if a caregiver applies within ninety days. The Social Security Administration will create a Bureau of Family Statistics to collect information needed to run this program. The Commissioner must create rules for the program and a system for people to report changes in their marital or caregiver status. The Commissioner must provide yearly reports to Congress about how the program is working. Money to pay for this program comes from the United States Treasury. This section starts on the first day of the first month that begins one year or more after this law is passed.",
+      "word_offset": 15,
+      "char_offset": 82
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-repeal-of-child-tax-credit",
+      "title": "Section 3 Repeal of Child Tax Credit",
+      "text": "This section removes the existing child tax credit from the tax code. It eliminates section twenty four of the Internal Revenue Code and makes changes to other parts of the tax code that reference the child tax credit. These changes take effect for tax years beginning after the first tax year when the new family income supplement program starts. For the first tax year that does not begin with the new program, the child tax credit will be reduced based on how many months of that tax year happen before the new program begins.",
+      "word_offset": 448,
+      "char_offset": 2798
+    }
+  ]
+}

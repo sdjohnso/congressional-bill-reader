@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-s-1457",
+  "title": "Engine Testing for Exploration Act",
+  "short_title": "Engine Testing for Exploration Act",
+  "congress": 119,
+  "bill_number": "S.1457",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e01b3161ff27d327",
+  "last_updated": "2026-04-07T14:28:50.029358+00:00",
+  "plain_summary": "This bill requires NASA to keep its rocket engine testing abilities, especially at a place called the Stennis Space Center. NASA needs these testing capabilities to help astronauts travel to the Moon and other places far in space. The bill says NASA must have its own experts who know how to test rocket engines. NASA also has to tell Congress about its testing plans within six months.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Sen. Wicker, Roger F. [R-MS]",
+  "sponsor_party": "R",
+  "sponsor_state": "MS",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "NASA rocket testing",
+    "space engine testing",
+    "Stennis Space Center",
+    "moon mission rockets",
+    "NASA testing capabilities",
+    "rocket engine experts",
+    "space exploration engines",
+    "NASA rocket facilities",
+    "moon program testing",
+    "space rocket development"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Engine Testing for Exploration Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, these words have specific meanings. Administrator means the person who runs the National Aeronautics and Space Administration. Government astronaut means an astronaut as defined in section fifty thousand nine hundred and two of title fifty-one of United States Code. NASA means the National Aeronautics and Space Administration.",
+      "word_offset": 11,
+      "char_offset": 63
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-findings",
+      "title": "Section 3  Findings",
+      "text": "Congress has found the following facts. Testing rocket engines is very important for operating the space launch system and future rockets that will go on deep space trips, including missions with crews going to the Moon. The NASA Stennis Space Center is the main and biggest place where NASA tests rocket engines and does engineering work. The NASA Stennis Engineering and Test Directorate provides special ground testing services for rocket engines that no other place can do. The buildings and equipment at Stennis Space Center have special abilities to test and check rocket engines for space launch vehicles. When NASA keeps strong skills in testing and checking rocket engines and related technology, it helps NASA be a smart buyer when it purchases rocket engines from companies through competition. The commercial space industry is currently building rocket engines and other space launch abilities. Testing rocket engines makes space launch vehicles less risky and safer to use.",
+      "word_offset": 61,
+      "char_offset": 405
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-rocket-propulsion-system-testing",
+      "title": "Section 4  Rocket Propulsion System Testing",
+      "text": "The Administrator must keep the rocket engine testing abilities that NASA needs to reach the goals of its human spaceflight exploration programs. The Administrator must also make sure NASA continues to have the knowledge and skills needed inside the agency to test and check rocket engines, including working with private companies. The Stennis Space Center will continue to manage NASA rocket engine testing programs. Within one hundred and eighty days after this law becomes effective, the Administrator must give a briefing to the right committees in Congress. The briefing must cover NASA plans for testing and checking rocket engines for missions in low Earth orbit and missions in deep space. The briefing must also cover future programs for testing rocket engines for missions that use space launch vehicles that NASA has certified as safe for government astronauts.",
+      "word_offset": 216,
+      "char_offset": 1392
+    }
+  ]
+}

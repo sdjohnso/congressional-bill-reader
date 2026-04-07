@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-981",
+  "title": "VETT Act",
+  "short_title": "VETT Act",
+  "congress": 119,
+  "bill_number": "HR.981",
+  "introduced_date": "2025-02-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "89195b1741fd85ce",
+  "last_updated": "2026-04-07T14:11:47.775979+00:00",
+  "plain_summary": "The VETT Act changes rules for schools that help veterans use their education benefits. Schools must give veterans a special form with information about costs and job rates before they sign up for classes. If schools cannot fill out the complete form, they must tell veterans which parts might be wrong or missing. The bill also requires the Department of Veterans Affairs to create a website where school workers can learn how to help veterans with their benefits.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Government information and archives",
+    "Higher education",
+    "Internet, web applications, social media",
+    "Student aid and college costs",
+    "Veterans' education, employment, rehabilitation"
+  ],
+  "sponsor_name": "Rep. Van Orden, Derrick [R-WI-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "veterans education benefits",
+    "military college programs",
+    "veteran school costs",
+    "GI bill schools",
+    "veteran student information",
+    "military education disclosure",
+    "veteran job placement rates",
+    "school transparency for veterans",
+    "veteran education website",
+    "military student protection",
+    "veteran college enrollment",
+    "education benefits training"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Veterans Education Transparency and Training Act or the VETT Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-processes-to-approve-programs-of-education",
+      "title": "Section 2 Processes to Approve Programs of Education for Purposes of the Educational Assistance Programs of the Department of Veterans Affairs",
+      "text": "This section makes two main changes to how the Department of Veterans Affairs handles education programs for veterans. First, it changes rules about when schools can be denied approval for failing to provide certain forms. The law fixes some confusing references in the current rules and adds a new requirement. If a school cannot provide a veteran with a complete form that has all the required information, the school must give the veteran a notice along with the form. This notice must explain what information might be wrong or missing. The notice must also include the school's best guess for the missing information based on what they know at the time. Second, the Department of Veterans Affairs must create a website that serves as the main place to find information about training programs. This website will have details about the training that the Department provides for school certifying officials. School certifying officials are the people at schools who help process veteran education benefits. The Department must keep this website information current by updating it regularly.",
+      "word_offset": 16,
+      "char_offset": 93
+    }
+  ]
+}

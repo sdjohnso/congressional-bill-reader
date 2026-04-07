@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2418",
+  "title": "Federal Reserve Regulatory Oversight Act",
+  "short_title": "Federal Reserve Regulatory Oversight Act",
+  "congress": 119,
+  "bill_number": "HR.2418",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "47e9e80a6fd81d19",
+  "last_updated": "2026-04-07T14:48:13.152154+00:00",
+  "plain_summary": "This bill would change how the Federal Reserve pays for its work watching over banks. Instead of using its own money, the Federal Reserve would have to ask Congress for permission and funding each year through the normal budget process. The Federal Reserve could collect fees from banks to pay the government back for this money, but only if Congress says it's okay first. This would give Congress more control over how much the Federal Reserve spends on making sure banks follow the rules.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Federal Reserve budget",
+    "Congress control banking",
+    "bank oversight funding",
+    "Federal Reserve spending",
+    "congressional approval banking",
+    "government bank regulation",
+    "Federal Reserve money",
+    "banking supervision budget",
+    "Congress banking oversight",
+    "Fed funding control"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Federal Reserve Regulatory Oversight Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-bringing-non-monetary-policy-functions-into-appropriations-process",
+      "title": "Section 2 Bringing the Non-Monetary Policy Related Functions of the Board of Governors of the Federal Reserve System into the Appropriations Process",
+      "text": "This section changes the Federal Reserve Act by adding new rules about how the Federal Reserve gets money for certain activities. The new section eleven D says the Board of Governors of the Federal Reserve System and Federal reserve banks must collect fees and assessments to pay back the government for money Congress gives them each year. They can only spend money on activities that are not related to monetary policy if Congress has approved that spending through an appropriations act (a law that gives government agencies permission to spend money). The fees they collect must be put into the same account that receives the money from Congress. They can only collect these fees if Congress has said in advance that they can do so in appropriations acts. These rules only apply to administrative costs that are not related to monetary policy. Monetary policy means the strategy for creating money that helps the economy work well by serving as a way to measure value and store wealth. Non-monetary policy related administrative costs include direct costs for supervising and regulating the banks and other financial companies the Federal Reserve oversees, such as conducting examinations and stress tests, communicating with these companies about rules and laws, training staff, research and analysis work including library services, collecting and processing reports from supervised institutions, and support and overhead costs related to these activities. These changes will start applying to expenses paid and fees collected on or after October first two thousand twenty five.",
+      "word_offset": 11,
+      "char_offset": 69
+    }
+  ]
+}

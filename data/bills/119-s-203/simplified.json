@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-s-203",
+  "title": "Defund Planned Parenthood Act",
+  "short_title": "Defund Planned Parenthood Act",
+  "congress": 119,
+  "bill_number": "S.203",
+  "introduced_date": "2025-01-23",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9471535dea063e78",
+  "last_updated": "2026-04-07T15:06:45.838313+00:00",
+  "plain_summary": "This bill would stop the federal government from giving any money to Planned Parenthood or any group connected to it. Right now, Planned Parenthood gets some federal funding for certain health services. If this bill becomes law, all federal funding to these organizations would end. The bill would override any other existing laws that currently allow this type of government funding.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Abortion",
+    "Family planning and birth control",
+    "Health facilities and institutions",
+    "Health programs administration and funding",
+    "Sex and reproductive health",
+    "Social work, volunteer service, charitable organizations",
+    "Tax-exempt organizations",
+    "Women's health"
+  ],
+  "sponsor_name": "Sen. Paul, Rand [R-KY]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 11,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "planned parenthood funding",
+    "defund planned parenthood",
+    "stop government money planned parenthood",
+    "federal funding abortion",
+    "cut planned parenthood budget",
+    "government healthcare funding",
+    "reproductive health funding",
+    "women's health funding",
+    "family planning money",
+    "birth control funding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Defund Planned Parenthood Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition",
+      "title": "Section 2 Prohibition",
+      "text": "No matter what any other law says, the federal government cannot give any money to Planned Parenthood Federation of America. The government also cannot give money to any organization that works with or is connected to Planned Parenthood.",
+      "word_offset": 10,
+      "char_offset": 58
+    }
+  ]
+}

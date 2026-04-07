@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-2684",
+  "title": "Dignity in Housing Act of 2025",
+  "short_title": "Dignity in Housing Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2684",
+  "introduced_date": "2025-04-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7beb7ad7ba7d6e30",
+  "last_updated": "2026-04-07T14:12:42.287691+00:00",
+  "plain_summary": "The Dignity in Housing Act of 2025 is a new law about public housing where people with low incomes live. The law says that big public housing buildings with 100 or more homes must be checked by inspectors who don't work for the housing authority at least every two years. These inspectors will look at the buildings to make sure they are safe and in good condition. After the inspections are done, the results must be put online so anyone can read them. This will help make sure public housing is kept in better shape for the people who live there.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-07",
+  "last_action_date": "2025-04-07",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [],
+  "sponsor_name": "Rep. Malliotakis, Nicole [R-NY-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "public housing",
+    "low income housing",
+    "housing inspections",
+    "apartment building safety",
+    "government housing",
+    "housing conditions",
+    "affordable housing",
+    "building inspectors",
+    "housing quality",
+    "tenant rights",
+    "housing transparency"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Dignity in Housing Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-inspections",
+      "title": "Section 2 Inspections",
+      "text": "This section changes the existing United States Housing Act of nineteen thirty seven. It adds new rules about checking large public housing developments. The Department of Housing and Urban Development must inspect every public housing project that has one hundred or more homes at least once every two years. These inspections will check if the buildings and individual housing units meet required quality and safety standards. The inspections must be done by workers from the Department of Housing and Urban Development or other inspectors hired by the Department. The inspectors cannot work for or be hired by the local public housing agency that runs the buildings being inspected. These new inspections are in addition to any other inspections that are already required. The Department must post the results of these inspections online where the public can see them.",
+      "word_offset": 15,
+      "char_offset": 79
+    }
+  ]
+}

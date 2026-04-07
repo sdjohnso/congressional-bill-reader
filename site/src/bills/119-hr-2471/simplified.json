@@ -1,0 +1,84 @@
+{
+  "bill_id": "119-hr-2471",
+  "title": "Right Drug Dose Now Act of 2025",
+  "short_title": "Right Drug Dose Now Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2471",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "872ca9e0fd9e0334",
+  "last_updated": "2026-04-07T15:04:22.669787+00:00",
+  "plain_summary": "This bill wants to make medicines safer by using genetic information. It requires the government to update its plan to prevent bad reactions to drugs by including research about people's genes. The bill also says healthcare workers need better guidance about genetic tests that show how different people's bodies handle medicines. Finally, it wants to improve computer health records so doctors can use genetic information to pick the right medicines for each person.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Swalwell, Eric [D-CA-14]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "genetic testing",
+    "personalized medicine",
+    "drug reactions",
+    "DNA testing",
+    "medication safety",
+    "custom prescriptions",
+    "genetic information healthcare",
+    "prevent bad drug reactions",
+    "genes and medicine",
+    "tailored medication",
+    "pharmacogenomics",
+    "individualized treatment"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Right Drug Dose Now Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-table-of-contents",
+      "title": "Section 2  Table of Contents",
+      "text": "This law has five main sections. Section one gives the law its name. Section two lists what is in the law. Section three is about the National Action Plan for Adverse Drug Event Prevention. Section four is about teaching healthcare workers about bad drug reactions and genetic testing. Section five is about making electronic health records better at using genetic information about drugs.",
+      "word_offset": 15,
+      "char_offset": 80
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-national-action-plan-for-adverse-drug-event-prevention",
+      "title": "Section 3  National Action Plan for Adverse Drug Event Prevention",
+      "text": "The Secretary of Health and Human Services must do three things. First, within one hundred eighty days after this law passes, the Secretary must work with other government agencies and send Congress a report. This report must explain how well the National Action Plan for Adverse Drug Event Prevention is working. An adverse drug event is when a medicine causes harm to a patient. The report must show progress on goals set by the Federal Interagency Steering Committee for Adverse Drug Events. Second, the Secretary must bring together this committee to update the National Action Plan. Third, when the committee updates the plan, they must consider new scientific discoveries about how genes and drugs work together. They must also look at how multiple drugs and genes can interact with each other. The committee must study how genetic testing costs less money now and how it affects patient health and healthcare use. They must review whether genetic testing combined with computer decision support tools can prevent drug problems. Finally, they must check how well federal systems track bad drug reactions and make these systems better at finding genetic connections to adverse events.",
+      "word_offset": 78,
+      "char_offset": 470
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-adverse-drug-event-and-pharmacogenomic-testing-education-for-health-care-professionals",
+      "title": "Section 4  Adverse Drug Event and Pharmacogenomic Testing Education for Health Care Professionals",
+      "text": "The Secretary must create guidance for healthcare workers and leaders. This includes hospital administrators, doctors, pharmacists, nurse practitioners, physician assistants, genetic specialists, genetic counselors, medical teachers, and teachers at medical schools and other health professional schools. Pharmacogenomic testing looks at how a person's genes affect how their body processes medicines. The guidance must cover six topics. First, it must explain pharmacogenomic testing and how well it can prevent bad reactions to drugs. Second, it must teach about genetic testing, drug warning systems, when to talk to a genetics expert, and federal care standards for patients who have genetic differences that affect how they process drugs. Third, it must provide evidence-based information to help patients and their doctors consider genetic testing as part of their healthcare plan when appropriate. Fourth, it must explain the role of medical professionals who specialize in genetics and genomics. Fifth, it must show how to include genetic information when managing all of a patient's medications. Sixth, it must stress how important it is to report genetic information when telling the FDA about bad drug reactions through the FDA Adverse Event Reporting System.",
+      "word_offset": 269,
+      "char_offset": 1660
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-improving-ehr-systems-to-improve-the-use-of-pharmacogenomic-information",
+      "title": "Section 5  Improving EHR Systems to Improve the Use of Pharmacogenomic Information",
+      "text": "The Secretary must provide guidance for healthcare providers and leaders about health information technology. EHR means electronic health record, which is a digital version of a patient's medical information. This guidance covers electronic prescribing systems and real-time pharmacy benefit checks. Before a doctor finishes ordering a medication through a computer system, the system should automatically tell the user two things. First, when genetic testing is appropriate based on the drug's official label or professional guidelines that other experts have reviewed. Second, how genes and drugs interact, and how genes, drugs, and other drugs work together, based on the drug's label or professional guidelines and the patient's medication list, allergy list, and genetic test results. The Secretary must regularly issue guidance about drug-gene interaction warning systems in electronic health records. At least twice a year, the Secretary must update this guidance to include genetic information from new or updated drug labels and newly created professional guidelines about drug-gene connections. Nothing in this section stops anyone from updating genetic test results or warning providers if genetic test results show a medication should not be used. The Secretary must encourage the creation of electronic health record systems that let healthcare providers directly report bad drug reactions to the FDA Adverse Event Reporting System. The Secretary must update the FDA Adverse Event Reporting System in two ways. First, create an optional tool that lets people report whether a bad drug reaction is connected to drug-gene or drug-drug-gene interactions, and accept information directly from healthcare providers' electronic health record systems. Second, work with federal agencies and interested groups to create patient-friendly electronic ways to report bad drug reactions, such as through a mobile phone app or text messaging. Within one year after this law passes, the Secretary must report to Congress about progress on these updates. Within one hundred eighty days after this law passes, the Comptroller General of the United States must study how the Food and Drug Administration can include and update information about drug-gene interactions on drug labels, create recommendations, and send these recommendations to the appropriate congressional committees. Within one hundred eighty days after this law passes, the Secretary must complete a report about additional improvements needed in electronic health record systems to help develop real world evidence in pharmacogenomics and send this report to Congress. Real world evidence means information about how well treatments work that comes from sources other than traditional clinical trials. As part of this report, the Secretary must consider what improvements are needed in electronic health record systems to capture information about the laboratory and the specific test used as part of genetic testing for drug responses.",
+      "word_offset": 455,
+      "char_offset": 2931
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-1390",
+  "title": "Ocean Pollution Reduction Act II",
+  "short_title": "Ocean Pollution Reduction Act II",
+  "congress": 119,
+  "bill_number": "HR.1390",
+  "introduced_date": "2025-02-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "de66e57a04302593",
+  "last_updated": "2026-04-07T14:55:01.948497+00:00",
+  "plain_summary": "This bill lets the Environmental Protection Agency give a special permit to a wastewater treatment plant in San Diego. The permit allows the plant to dump cleaned wastewater into the ocean if they follow certain rules. The plant must limit pollution, remove waste properly, and watch how it affects the ocean. They also have to work on making clean drinking water while still using their current system that dumps wastewater deep in the ocean.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the Subcommittee on Water Resources and Environment.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Rep. Peters, Scott H. [D-CA-50]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 4,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "ocean dumping",
+    "wastewater treatment",
+    "San Diego sewage",
+    "ocean pollution",
+    "water treatment plant",
+    "dumping wastewater ocean",
+    "EPA permit",
+    "ocean water pollution",
+    "sewage ocean discharge",
+    "wastewater ocean disposal",
+    "clean water San Diego"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Ocean Pollution Reduction Act II.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-san-diego-point-loma-permitting-requirements",
+      "title": "Section 2 San Diego Point Loma Permitting Requirements",
+      "text": "The head of the Environmental Protection Agency can give a permit to the Point Loma Wastewater Treatment Plant in San Diego to discharge treated wastewater into the ocean. This permit can be given even if other federal water laws would normally not allow it. The permit must include several requirements. First, the plant must keep its current deep ocean pipe that dumps wastewater at least three hundred feet deep and at least four miles from the shore. Second, the plant can only discharge certain amounts of solid particles each year. Starting when this law begins, they can discharge no more than twelve thousand metric tons per year. Starting on December thirty first two thousand twenty nine, they can discharge no more than eleven thousand five hundred metric tons per year. Starting on December thirty first two thousand thirty one, they can discharge no more than nine thousand nine hundred forty two metric tons per year. Third, the daily discharge cannot have more than sixty milligrams of solid particles per liter of water when averaged over thirty days. Fourth, the plant must remove at least eighty percent of solid particles each month on average and at least fifty eight percent of substances that use up oxygen in water each year on average. This includes removal that happens at other treatment plants upstream. Fifth, the plant must meet all other treatment standards set by the Environmental Protection Agency except for the specific rules about oxygen demanding substances and solid particles. Sixth, the plant must follow all federal permit rules including getting approval from California and meeting ocean discharge standards. Seventh, the plant must run programs to prevent industrial pollution from entering the sewer system. Eighth, the plant must provide ten years of ocean monitoring data before each permit application to prove the discharge will not harm marine life and must continue monitoring throughout the permit period. Ninth, if federal and state agencies allow it, the plant must show it can produce at least eighty three million gallons per day of water clean enough for drinking by December thirty first two thousand thirty nine. The Environmental Protection Agency must set development goals to make sure the plant meets these requirements and include these goals in any permit given before December thirty first two thousand thirty nine. Nothing in this section stops the plant from instead applying for a permit that meets full secondary treatment standards under normal federal water laws. In this section, Administrator means the head of the Environmental Protection Agency. Biochemical oxygen demand means biological oxygen demand as used in federal water pollution laws. Point Loma Plant means the Point Loma Wastewater Treatment Plant owned by the City of San Diego when this law is enacted. State means the State of California.",
+      "word_offset": 11,
+      "char_offset": 61
+    }
+  ]
+}

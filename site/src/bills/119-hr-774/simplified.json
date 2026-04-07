@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-774",
+  "title": "PASTURES Act",
+  "short_title": "PASTURES Act",
+  "congress": 119,
+  "bill_number": "HR.774",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "6b35eddb5e0dc16b",
+  "last_updated": "2026-04-07T15:05:18.352841+00:00",
+  "plain_summary": "This bill stops the government from punishing ranchers when their animals graze on certain federal lands that don't have fences. The law only applies to federal lands that used to allow grazing but later banned it, and these lands must be next to private property. If the government wants to keep livestock off these lands, they have to build and pay for fences themselves. Ranchers cannot be fined or penalized as long as there is no fence keeping their animals out.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-28",
+  "last_action_date": "2025-02-28",
+  "last_action_text": "Referred to the Subcommittee on Forestry and Horticulture.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "rancher protection",
+    "cattle grazing",
+    "livestock grazing",
+    "federal land grazing",
+    "rancher fines",
+    "grazing penalties",
+    "government fencing",
+    "ranch animals",
+    "pasture access",
+    "grazing rights",
+    "livestock trespassing",
+    "rancher liability"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting Agricultural Spaces Through Effective Ranching Strategies Act or the PASTURES Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-penalties-for-grazing-livestock-on-certain-covered-lands",
+      "title": "Section 2 Limitation on Penalties for Grazing Livestock on Certain Covered Lands",
+      "text": "The government secretary in charge cannot punish livestock owners if their animals graze on covered lands when there is no fence to keep the animals out. The government secretary must pay for building and maintaining any fences on covered lands that are meant to keep livestock from grazing there. Covered lands means federal lands managed by the National Forest System, the United States Fish and Wildlife Service, or other public lands. These lands must be places where grazing was allowed by an official permit or lease after this law passes but then later gets banned. The lands must also border private property. A grazing permit or lease is an official government document that allows livestock grazing on federal lands under specific rules. Livestock includes cattle, bison, horses, sheep, and goats. The National Forest System means the group of forests and grasslands managed by the federal government. Public lands means land owned by the United States government and managed by the Bureau of Land Management. The secretary concerned means the Secretary of Agriculture for National Forest System lands and the Secretary of the Interior for public lands and Fish and Wildlife Service lands.",
+      "word_offset": 18,
+      "char_offset": 121
+    }
+  ]
+}

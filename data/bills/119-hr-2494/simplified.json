@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2494",
+  "title": "To direct the Secretary of Housing and Urban Development to annually submit to the Congress a report that analyzes State and local strategies, activities, and plans that promote affordable housing, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.2494",
+  "introduced_date": "2025-03-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "269b07d9038b4054",
+  "last_updated": "2026-04-07T14:44:52.095777+00:00",
+  "plain_summary": "This bill tells the Secretary of Housing and Urban Development to write a report about housing every year and send it to Congress. The report must look at what states and cities are doing to make housing cheaper for people. It also has to give ideas to Congress about how to help these housing programs work better. This will help Congress understand the housing crisis and figure out ways to make homes more affordable for families.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-31",
+  "last_action_date": "2025-03-31",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [],
+  "sponsor_name": "Rep. Cherfilus-McCormick, Sheila [D-FL-20]",
+  "sponsor_party": "D",
+  "sponsor_state": "FL",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "affordable housing",
+    "housing crisis",
+    "cheap homes",
+    "housing report",
+    "state housing programs",
+    "local housing plans",
+    "housing costs",
+    "HUD report",
+    "housing assistance",
+    "affordable homes",
+    "housing policy",
+    "Congress housing report"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-findings",
+      "title": "Section 1 Findings",
+      "text": "Congress has found several important facts about housing in America. The United States is facing a serious housing crisis. The country is missing millions of homes that people need. People who rent homes are spending more than one third of their paychecks just to pay for housing. People who want to buy homes cannot find any they can afford. Every state in the country has been affected by this problem. State governments are mainly responsible for making the rules that affect affordable housing. States have tried different ways to fix this crisis, including changing zoning rules (rules about what types of buildings can be built in different areas). Congress needs to figure out which state efforts are actually working so the federal government can help support good solutions. There is already a system called the regulatory barriers clearinghouse that collects information about state and local laws and rules related to affordable housing. This clearinghouse also gathers information about efforts that help create affordable housing. Right now this clearinghouse is mainly designed to help state and local governments. Congress could use the information in this clearinghouse to help create a federal response to the affordable housing crisis.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-regulatory-barriers-clearinghouse-report-to-congress",
+      "title": "Section 2 Regulatory Barriers Clearinghouse Report to Congress",
+      "text": "This section changes an existing law called the Housing and Community Development Act of nineteen ninety two. It adds a new requirement. The Secretary of Housing and Urban Development must send a report to Congress every year. This report must include two main parts. First, it must analyze the information that is already collected in the regulatory barriers clearinghouse. Second, based on that analysis, it must give policy recommendations to Congress. These recommendations should help Congress figure out how to support successful state and local strategies, activities, and plans that help create affordable housing.",
+      "word_offset": 196,
+      "char_offset": 1254
+    }
+  ]
+}

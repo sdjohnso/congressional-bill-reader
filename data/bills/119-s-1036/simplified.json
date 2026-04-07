@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-1036",
+  "title": "Improving Access to Addiction Medicine Providers Act",
+  "short_title": "Improving Access to Addiction Medicine Providers Act",
+  "congress": 119,
+  "bill_number": "S.1036",
+  "introduced_date": "2025-03-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "df9e86882c78c086",
+  "last_updated": "2026-04-07T14:17:53.951464+00:00",
+  "plain_summary": "This bill changes a program that gives money to help minority students become doctors and other healthcare workers. The program will now also help train students to work in addiction medicine, which means helping people with drug and alcohol problems. It will also include training for mental health work where students learn to figure out what mental health problems people have. This will help create more healthcare workers who can help people with addiction and mental health issues.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-13",
+  "last_action_date": "2025-03-13",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Sen. Cornyn, John [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "addiction treatment",
+    "drug addiction doctors",
+    "alcohol treatment providers",
+    "mental health training",
+    "minority medical students",
+    "healthcare worker funding",
+    "addiction medicine training",
+    "substance abuse treatment",
+    "medical school grants",
+    "drug counselor training",
+    "addiction specialist programs",
+    "minority healthcare workers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Improving Access to Addiction Medicine Providers Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-minority-fellowship-program",
+      "title": "Section 2  Minority Fellowship Program",
+      "text": "This section changes an existing law called the Public Health Service Act. The changes update a program that gives fellowships to minority students. A fellowship is money given to students to help pay for their training to become healthcare professionals. The law currently helps train people to work in mental health and psychiatry. This bill adds two new areas. First, it adds diagnosis work to the types of mental health training covered. Second, it adds addiction medicine to the list of medical fields that can receive fellowship money. Addiction medicine focuses on treating people who have problems with drugs or alcohol.",
+      "word_offset": 13,
+      "char_offset": 81
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-395",
+  "title": "Establishing a \"Bill of Rights\" to support United States law enforcement personnel nationwide in their work to protect our communities.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.395",
+  "introduced_date": "2025-05-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "01adab555e37e0c4",
+  "last_updated": "2026-04-07T15:02:06.945647+00:00",
+  "plain_summary": "This House resolution creates a Bill of Rights for police officers to protect them during investigations when they are accused of doing something wrong. The Bill of Rights gives officers the right to have a lawyer, to be questioned fairly, and to have a fair process. The resolution also says Congress does not support efforts to take money away from police departments. It encourages states to create similar protections for their police officers and wants police and communities to talk to each other more.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-07",
+  "last_action_date": "2025-05-07",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [],
+  "sponsor_name": "Rep. Garbarino, Andrew R. [R-NY-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 11,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "police rights",
+    "cop protection",
+    "law enforcement rights",
+    "police officer rights",
+    "police investigation rules",
+    "officer legal protection",
+    "police bill of rights",
+    "defend police",
+    "police funding",
+    "defund police opposition",
+    "police community relations",
+    "officer due process"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution establishes a Bill of Rights to support United States law enforcement personnel nationwide in their work to protect our communities.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Whereas Clauses",
+      "text": "This resolution states that calls to defund, disband, dismantle, or abolish the police should be condemned and the rule of law should be strictly maintained. Law enforcement officers take an oath to never betray the public trust. When officers are being investigated for alleged misconduct, law enforcement should have certain rights to ensure fair treatment. These rights include the right to self-defense against physical threats and the right to take legal action if a civilian tries to assault them. Officers have the right to be protected from physical harassment and to receive equipment needed for personal protection. During investigations, officers have the right to have a lawyer and union representative present during any interview. They have the right to be told about the nature of the investigation before any interview begins, including who made the complaint and enough information to understand what they are accused of. During questioning, officers have the right to not be subjected to offensive language, threats of departmental civil or criminal charges, or financial or promotional bribes. Officers have the right to a hearing with advance notice of the date and access to transcripts, documents, and evidence. They have the right to respond to accusations against them. Officers have the right to remain silent under the Fifth Amendment without being disciplined, unless they are granted immunity that their statements will not be used against them in criminal court. These investigations should be conducted in a way that protects the public, respects the rights of law enforcement personnel, and maintains good order and discipline. States across the country are encouraged to adopt a Bill of Rights for law enforcement personnel for protections related to investigation and prosecution arising from conduct during official performance of duties. The law enforcement community protects our streets, acknowledges the rights of all Americans, and keeps citizens safe from harm. Law enforcement officers are recognized for their public service, knowing they face extremely dangerous situations while doing their jobs. A healthy and collaborative relationship between law enforcement officers and the communities they serve is essential to creating respectful dialogue.",
+      "word_offset": 22,
+      "char_offset": 149
+    },
+    {
+      "id": "s3",
+      "slug": "resolved-section",
+      "title": "Resolved Section",
+      "text": "The House of Representatives recognizes all law enforcement agencies and officers for their tireless work to protect us and make our communities safer. The House condemns calls to defund, disband, dismantle, or abolish the police. The House encourages dialogue between law enforcement and their communities to improve public safety and engage all stakeholders in society. The House respects the rights of police officers to carry out their duties to protect our communities with integrity and to have essential protections during investigations.",
+      "word_offset": 368,
+      "char_offset": 2441
+    }
+  ]
+}

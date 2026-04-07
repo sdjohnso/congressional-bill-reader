@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1006",
+  "title": "Higher Education Accountability Tax Act",
+  "short_title": "Higher Education Accountability Tax Act",
+  "congress": 119,
+  "bill_number": "HR.1006",
+  "introduced_date": "2025-02-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "d7aa787dc8d885e3",
+  "last_updated": "2026-04-07T15:18:35.348891+00:00",
+  "plain_summary": "This bill makes wealthy private colleges pay much higher taxes on money they earn from their investments. Right now they pay 1.4 percent tax, but this bill would make them pay 10 percent. If a college raises tuition prices faster than normal inflation, they would have to pay an even higher tax of 20 percent. The bill also makes more colleges pay this tax by lowering how much money they need to have saved up before the tax applies to them.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-05",
+  "last_action_date": "2025-02-05",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Joyce, David P. [R-OH-14]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "private college taxes",
+    "wealthy university tax increase",
+    "college endowment tax",
+    "higher education tax",
+    "private school investment tax",
+    "college tuition inflation penalty",
+    "university endowment fund tax",
+    "rich college tax hike",
+    "private university investment income tax",
+    "college savings tax increase"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Higher Education Accountability Tax Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modification-of-excise-tax-on-investment-income-of-private-colleges-and-universities",
+      "title": "Section 2  Modification of Excise Tax on Investment Income of Private Colleges and Universities",
+      "text": "This section changes how much tax certain private colleges and universities must pay on their investment earnings. The current tax rate of one point four percent will be increased to ten percent. Colleges that have raised their net price (the actual cost students pay after financial aid) faster than inflation will pay an even higher tax rate of twenty percent. A college is considered to have increased prices too much if its net price went up more than the Consumer Price Index (a measure of inflation) over any three-year period. Net price means the total cost of attending the college minus any financial aid the student receives. This tax will also apply to more colleges by lowering the requirement from colleges with endowments (saved money for investments) worth at least five hundred thousand dollars per student to those with at least two hundred fifty thousand dollars per student. These changes will take effect for tax years starting after December thirty first, two thousand twenty four.",
+      "word_offset": 11,
+      "char_offset": 68
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1112",
+  "title": "Racehorse Tax Parity Act",
+  "short_title": "Racehorse Tax Parity Act",
+  "congress": 119,
+  "bill_number": "HR.1112",
+  "introduced_date": "2025-02-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a5e1a9e886254271",
+  "last_updated": "2026-04-07T14:17:19.893089+00:00",
+  "plain_summary": "The Racehorse Tax Parity Act changes tax rules to help people who own racehorses. Right now, owners must keep their horses for twenty four months to get better tax treatment, but this bill would cut that time in half to just twelve months. This means racehorse owners could get tax benefits much sooner than before. The new rules would start working for taxes filed after December 31, 2024.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-07",
+  "last_action_date": "2025-02-07",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Barr, Andy [R-KY-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "racehorse taxes",
+    "horse racing tax breaks",
+    "racehorse owner taxes",
+    "horse tax benefits",
+    "racehorse depreciation",
+    "horse racing tax rules",
+    "racehorse business taxes",
+    "horse owner tax deductions",
+    "racing horse taxes",
+    "thoroughbred taxes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This Act may be called the Racehorse Tax Parity Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reduction-of-holding-period",
+      "title": "Section 2 Reduction of Holding Period to 12 Months for Purposes of Determining Whether Horses are Section 1231 Assets",
+      "text": "This section changes the tax rules for horses. Currently, horses must be owned for twenty four months to qualify for special tax treatment called section 1231 assets. Section 1231 assets are business property that can receive more favorable tax treatment when sold. This bill reduces the time period from twenty four months to twelve months. This means horse owners would only need to hold their horses for one year instead of two years to get the better tax treatment. These changes apply to tax years that begin after December thirty first, two thousand twenty four.",
+      "word_offset": 10,
+      "char_offset": 53
+    }
+  ]
+}

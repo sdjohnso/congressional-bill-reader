@@ -1,0 +1,78 @@
+{
+  "bill_id": "119-hr-2549",
+  "title": "Fire Island AIDS Memorial Act",
+  "short_title": "Fire Island AIDS Memorial Act",
+  "congress": 119,
+  "bill_number": "HR.2549",
+  "introduced_date": "2025-04-01",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "36cf6efbf38714f0",
+  "last_updated": "2026-04-07T14:48:41.941330+00:00",
+  "plain_summary": "This bill lets a group called the Pines Foundation build a special memorial at Fire Island National Seashore. The memorial will honor people who died from AIDS in the Fire Island area. The group has to pay for the memorial with their own money, not with government money. Before they can build it, the head of the National Park Service has to say yes to their plans for what it will look like and where it will go.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-01",
+  "last_action_date": "2025-04-01",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [
+    "HIV/AIDS",
+    "Monuments and memorials",
+    "New York State"
+  ],
+  "sponsor_name": "Rep. Garbarino, Andrew R. [R-NY-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Fire Island memorial",
+    "AIDS memorial",
+    "HIV memorial",
+    "New York memorial",
+    "National Park Service memorial",
+    "Fire Island AIDS",
+    "memorial construction",
+    "nonprofit memorial",
+    "government memorial approval",
+    "AIDS remembrance"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Fire Island AIDS Memorial Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-purposes",
+      "title": "Section 2  Purposes",
+      "text": "This law has two main goals. First, it wants to honor and remember the many people who lived in Fire Island Pines and Cherry Grove in New York who got sick and died from AIDS. Second, it wants to teach future generations about the AIDS epidemic and how it affected the Fire Island communities in New York State.",
+      "word_offset": 11,
+      "char_offset": 58
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-definitions",
+      "title": "Section 3  Definitions",
+      "text": "In this law, certain words have specific meanings. Director means the person who runs the National Park Service. Foundation means the Pines Foundation. Memorial means the Fire Island AIDS Memorial that is allowed to be built under section four.",
+      "word_offset": 69,
+      "char_offset": 370
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-fire-island-aids-memorial",
+      "title": "Section 4  Fire Island AIDS Memorial",
+      "text": "The Pines Foundation is allowed to build and take care of a memorial at Fire Island National Seashore. This memorial will honor the people from Fire Island who died of AIDS. It will be called the Fire Island AIDS Memorial. No government money can be used to design, buy materials for, prepare, install, or maintain the memorial. However, the Director of the National Park Service can accept and use donations of private money and resources for these purposes. The Director can allow the memorial to be placed in the Fire Island National Seashore area along the walkway between Fire Island Pines and Cherry Grove, next to the Carrington House. The Director must approve the final design of the memorial before it can be built.",
+      "word_offset": 108,
+      "char_offset": 615
+    }
+  ]
+}

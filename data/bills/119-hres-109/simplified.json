@@ -1,0 +1,78 @@
+{
+  "bill_id": "119-hres-109",
+  "title": "Providing amounts for the expenses of the Committee on Ways and Means in the One Hundred Nineteenth Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.109",
+  "introduced_date": "2025-02-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "4cefd719da6dbd3b",
+  "last_updated": "2026-04-07T14:54:03.868038+00:00",
+  "plain_summary": "This bill gives money to the House Committee on Ways and Means to pay for their work during the 119th Congress. The committee can spend up to thirty million two hundred ninety thousand dollars total. The money is divided into two parts for two different years. The committee must follow House rules when they spend this money and get the right approval first.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-05",
+  "last_action_date": "2025-02-05",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "House Committee on Ways and Means"
+  ],
+  "sponsor_name": "Rep. Smith, Jason [R-MO-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "house committee funding",
+    "ways and means money",
+    "congress committee budget",
+    "thirty million dollars committee",
+    "house spending approval",
+    "congressional expenses",
+    "committee operating costs",
+    "119th congress funding",
+    "ways and means budget",
+    "house committee money",
+    "congressional committee expenses"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-amounts-for-committee-expenses",
+      "title": "Section 1. Amounts for Committee Expenses",
+      "text": "The Committee on Ways and Means (called the Committee in this resolution) will receive money to pay for its expenses. This includes paying all staff salaries. The money will come from the House of Representatives accounts that are set aside for committee salaries and expenses. The total amount cannot be more than thirty million two hundred ninety thousand dollars for the One Hundred Nineteenth Congress.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-session-limitations",
+      "title": "Section 2. Session Limitations",
+      "text": "The money mentioned in Section 1 is divided between two time periods. For the first period, which starts at noon on January third two thousand twenty five and ends right before noon on January third two thousand twenty six, no more than fourteen million nine hundred sixty three thousand eight hundred eighty eight dollars can be used. For the second period, which starts at noon on January third two thousand twenty six and ends right before noon on January third two thousand twenty seven, no more than fifteen million three hundred twenty six thousand one hundred twelve dollars can be used.",
+      "word_offset": 65,
+      "char_offset": 407
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-vouchers",
+      "title": "Section 3. Vouchers",
+      "text": "Money under this resolution will be paid using vouchers (official payment requests). The Committee must authorize these vouchers. The Chairman of the Committee must sign them. The Committee on House Administration must approve them in the way they require.",
+      "word_offset": 166,
+      "char_offset": 1002
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-regulations",
+      "title": "Section 4. Regulations",
+      "text": "The money provided under this resolution must be spent according to the rules set by the Committee on House Administration.",
+      "word_offset": 205,
+      "char_offset": 1259
+    }
+  ]
+}

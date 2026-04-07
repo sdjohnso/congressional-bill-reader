@@ -8,8 +8,8 @@
   "stage": "referred_to_committee",
   "stage_label": "In Committee",
   "version_hash": "3957eb57827ebfb7",
-  "last_updated": "2026-03-20T11:46:57.177460+00:00",
-  "plain_summary": "The SEC Act of 2025 is a new law that limits what the Securities and Exchange Commission can do. The SEC is a government agency that makes rules for companies that sell stocks and bonds to the public. This bill says the SEC cannot force companies to tell investors about climate change issues unless that information would directly affect how much money investors might make or lose. The law is meant to stop companies from having to share environmental information that lawmakers think is not important for investment decisions.",
+  "last_updated": "2026-04-07T14:41:20.798963+00:00",
+  "plain_summary": "This bill stops the Securities and Exchange Commission from making companies share information about climate change and the environment. Companies would only have to report climate information if it directly affects whether people should buy or sell their stock. The bill is meant to limit what environmental details companies must tell investors. It is called the Stop Environmental Calculations Act of 2025.",
   "current_status": "referred_to_committee",
   "status_date": "2025-01-09",
   "last_action_date": "2025-01-09",
@@ -26,22 +26,22 @@
   "cosponsor_count": 0,
   "crs_summary_available": true,
   "plain_keywords": [
-    "SEC rules",
     "climate change reporting",
-    "stock market regulations",
-    "corporate disclosure requirements",
-    "environmental reporting",
-    "investment information",
-    "company transparency",
-    "business climate rules",
-    "investor protection",
-    "securities regulations"
+    "environmental disclosure",
+    "SEC rules",
+    "corporate climate information",
+    "company environmental data",
+    "stock investor information",
+    "climate risk disclosure",
+    "environmental calculations",
+    "business climate reporting",
+    "investor environmental details"
   ],
   "sections": [
     {
       "id": "s1",
       "slug": "section-1-short-title",
-      "title": "Section 1 Short Title",
+      "title": "Section 1  Short Title",
       "text": "This law can be called the Stop Environmental Calculations Act of two thousand twenty five or the SEC Act of two thousand twenty five.",
       "word_offset": 0,
       "char_offset": 0
@@ -49,8 +49,8 @@
     {
       "id": "s2",
       "slug": "section-2-prohibition-on-requiring-climate-disclosures",
-      "title": "Section 2 Prohibition on Requiring an Issuer to Make Climate-Related Disclosures That Are Not Material to Investors",
-      "text": "This section changes an existing law called the Securities Exchange Act of nineteen thirty four. It adds a new rule to Section twenty three of that law. The new rule says that the Securities and Exchange Commission (the government agency that watches over the stock market) cannot force companies to share information about climate and environmental issues unless that information is important to people who invest money in those companies. This means companies would only have to report climate information if it could affect their profits or stock prices in ways that investors need to know about.",
+      "title": "Section 2  Prohibition on Requiring an Issuer to Make Climate-Related Disclosures That Are Not Material to Investors",
+      "text": "This section changes an existing law called the Securities Exchange Act of nineteen thirty four. It adds a new rule that says the Securities and Exchange Commission (the government agency that watches over the stock market) cannot force companies to share information about climate and environmental issues unless that information would help investors make important decisions about buying or selling stock in those companies.",
       "word_offset": 24,
       "char_offset": 135
     }

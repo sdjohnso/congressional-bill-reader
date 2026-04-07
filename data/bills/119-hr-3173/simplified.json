@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-3173",
+  "title": "Federal Reserve Financial Accountability and Transparency Act",
+  "short_title": "Federal Reserve Financial Accountability and Transparency Act",
+  "congress": 119,
+  "bill_number": "HR.3173",
+  "introduced_date": "2025-05-01",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c8c8bcda224d6236",
+  "last_updated": "2026-04-07T14:37:08.756130+00:00",
+  "plain_summary": "This bill makes the Federal Reserve share more details about how it spends money each year. The Federal Reserve must explain what different employees work on and how much each activity costs. They also have to report on what they are researching and how much it costs to make new rules. This will help people better understand what the Federal Reserve does with its money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-01",
+  "last_action_date": "2025-05-01",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Williams, Roger [R-TX-25]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "federal reserve spending",
+    "fed transparency",
+    "central bank accountability",
+    "government financial disclosure",
+    "fed employee costs",
+    "banking regulation expenses",
+    "federal reserve budget",
+    "monetary policy costs",
+    "fed research spending",
+    "central bank reporting",
+    "government banking oversight",
+    "fed financial details"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Federal Reserve Financial Accountability and Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reporting-requirements-with-respect-to-the-annual-report-of-the-board-of-governors-of-the-federal-reserve-system",
+      "title": "Section 2  Reporting Requirements With Respect to the Annual Report of the Board of Governors of the Federal Reserve System",
+      "text": "This section changes the law that governs the Federal Reserve (the central bank of the United States). It adds new things that the Federal Reserve must include in the yearly report they already have to write. The Federal Reserve must now report how much money they spent and how many full-time workers they had in each Federal Reserve bank for these activities: watching over financial companies, legal work, daily operations like handling money and processing payments, keeping the financial system stable and buying or selling government bonds, office work like human resources and computer systems, economic research, and working with international banking groups like the Bank for International Settlements and the Basel Committee on Banking Supervision. They must also report the three most important research areas based on how much money and how many workers were used, both for the main Federal Reserve board and for each individual Federal Reserve bank. Finally, they must report how much money they spent in the past year on each rule, guidance document, and policy statement they proposed or finished. These new reporting requirements will start two years after this law is passed.",
+      "word_offset": 13,
+      "char_offset": 90
+    }
+  ]
+}

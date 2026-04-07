@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-hres-84",
+  "title": "Providing amounts for the expenses of the Committee on Transportation and Infrastructure in the One Hundred Nineteenth Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.84",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "3a5d3cf425dff994",
+  "last_updated": "2026-04-07T14:30:26.670321+00:00",
+  "plain_summary": "This bill gives money to the House Committee on Transportation and Infrastructure to pay for their work during the 119th Congress. The committee can spend up to twenty-three million dollars over two years. They must follow special rules about how to spend the money that are set by another committee called the Committee on House Administration. This money helps the transportation committee do their job of making laws about roads, bridges, airports, and other transportation systems.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-31",
+  "last_action_date": "2025-01-31",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "House Committee on Transportation and Infrastructure"
+  ],
+  "sponsor_name": "Rep. Graves, Sam [R-MO-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "transportation committee funding",
+    "road and bridge committee money",
+    "airport infrastructure committee budget",
+    "highway committee expenses",
+    "transportation infrastructure spending",
+    "committee budget allocation",
+    "infrastructure committee funding",
+    "transportation committee budget",
+    "road infrastructure committee money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-amounts-for-committee-expenses",
+      "title": "Section 1  Amounts for Committee Expenses",
+      "text": "The Committee on Transportation and Infrastructure will be given money to pay for its expenses during the One Hundred Nineteenth Congress. This includes paying all staff salaries and other costs. The committee can spend up to twenty-three million two hundred ninety thousand thirty-five dollars. This money will come from the House of Representatives accounts that are set aside for committee salaries and expenses.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-session-limitations",
+      "title": "Section 2  Session Limitations",
+      "text": "The money mentioned in Section 1 will be divided between two time periods. During the first period from noon on January third two thousand twenty-five until just before noon on January third two thousand twenty-six, the committee can spend up to eleven million one hundred two thousand five hundred thirteen dollars. During the second period from noon on January third two thousand twenty-six until just before noon on January third two thousand twenty-seven, the committee can spend up to twelve million one hundred eighty-seven thousand five hundred twenty-two dollars.",
+      "word_offset": 63,
+      "char_offset": 416
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-vouchers",
+      "title": "Section 3  Vouchers",
+      "text": "All payments made under this resolution must follow a specific process. The Committee on Transportation and Infrastructure must authorize each payment. The Chairman of the Committee must sign the payment request called a voucher. The Committee on House Administration must approve the payment in whatever way they require.",
+      "word_offset": 152,
+      "char_offset": 988
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-regulations",
+      "title": "Section 4  Regulations",
+      "text": "All money provided under this resolution must be spent according to the rules created by the Committee on House Administration. The committee must follow these regulations when spending their allocated funds.",
+      "word_offset": 200,
+      "char_offset": 1311
+    }
+  ]
+}

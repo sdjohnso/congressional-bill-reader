@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-1624",
+  "title": "Supporting Farm Operations Act of 2025",
+  "short_title": "Supporting Farm Operations Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1624",
+  "introduced_date": "2025-02-26",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e4b911a8a9148f18",
+  "last_updated": "2026-04-07T15:02:21.917537+00:00",
+  "plain_summary": "This bill is about setting wages for farm workers from other countries who come to work in the US with special H-2A visas. The Secretary of Labor must keep paying these workers the same minimum wage that was set at the end of 2023. These wages cannot be made lower until the end of 2026. When deciding how much to pay the workers, the Secretary should look at their main job instead of all the different things they might do on the farm.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-26",
+  "last_action_date": "2025-02-26",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Moolenaar, John R. [R-MI-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 14,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "farm workers",
+    "migrant workers",
+    "agricultural workers",
+    "H-2A visa",
+    "foreign workers",
+    "minimum wage",
+    "farm wages",
+    "seasonal workers",
+    "immigrant farm labor",
+    "agricultural labor",
+    "farm employee pay",
+    "temporary farm workers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Supporting Farm Operations Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modified-implementation-of-adverse-effect-wage-rate-for-h-2a-nonimmigrants",
+      "title": "Section 2 Modified Implementation of Adverse Effect Wage Rate for H-2A Nonimmigrants",
+      "text": "The Secretary of Labor must make sure that foreign farm workers with H-2A visas (temporary workers who come to the United States for farm jobs) get paid a special minimum wage called the adverse effect wage rate. This wage rate protects American workers by making sure foreign workers are not paid so little that it hurts wages for American farm workers. The wage rates that were being used in each state on December thirty first, twenty twenty three, must stay the same through December thirty first, twenty twenty six. No state can lower these wage rates during this time period.",
+      "word_offset": 14,
+      "char_offset": 81
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-clarification-of-job-classification",
+      "title": "Section 3 Clarification of Job Classification",
+      "text": "When figuring out how much to pay these foreign farm workers, the Secretary of Labor must look at what their main job duties are. Many farm workers do several different tasks, but the Secretary should focus on their primary or most important duties when deciding their wage rate.",
+      "word_offset": 114,
+      "char_offset": 663
+    }
+  ]
+}

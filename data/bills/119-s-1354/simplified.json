@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-s-1354",
+  "title": "Tennessee Valley Authority Salary Transparency Act",
+  "short_title": "Tennessee Valley Authority Salary Transparency Act",
+  "congress": 119,
+  "bill_number": "S.1354",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "75a112c9257d9b4c",
+  "last_updated": "2026-04-07T15:10:54.029884+00:00",
+  "plain_summary": "The Tennessee Valley Authority Salary Transparency Act requires the Tennessee Valley Authority to create reports that show how much money their managers and top workers make. These reports must include salary information for employees who earn more than a certain amount set by the federal government. Even though the Tennessee Valley Authority has to make these reports, the public will not be able to see them because they will be kept private. This means people cannot request to see these salary reports using freedom of information laws.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Read twice and referred to the Committee on Environment and Public Works.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Sen. Blackburn, Marsha [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Tennessee Valley Authority",
+    "TVA",
+    "salary transparency",
+    "employee pay",
+    "manager salaries",
+    "government worker pay",
+    "executive compensation",
+    "pay reports",
+    "salary disclosure",
+    "public records",
+    "freedom of information"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Tennessee Valley Authority Salary Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-salary-disclosure-exception-to-report-elimination",
+      "title": "Section 2  Salary Disclosure; Exception to Report Elimination",
+      "text": "This section changes the Tennessee Valley Authority Act of nineteen thirty three. It updates the rules about what the Tennessee Valley Authority must report about employee pay. The Tennessee Valley Authority Board must now create a report that lists the total number of management level employees and executives. This includes all executives and Board members who earn pay equal to or more than the highest pay level for grade GS fifteen workers in the federal government pay system. The report must include each person's name, salary, and job duties. However, any salary information in these reports will be protected from public disclosure under federal freedom of information laws. The salary information will also be exempt from the Access to Congressionally Mandated Reports Act, which is a law that makes certain government reports available to the public. The section also makes several technical updates to the language in the original law. It changes references from the old General Accounting Office to the current Government Accountability Office. It updates legal citations to match current federal law. The section removes some old reporting requirements about power sales costs that are no longer needed.",
+      "word_offset": 12,
+      "char_offset": 79
+    }
+  ]
+}

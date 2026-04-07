@@ -1,0 +1,276 @@
+{
+  "bill_id": "119-s-1402",
+  "title": "Returning Education to Our States Act",
+  "short_title": "Returning Education to Our States Act",
+  "congress": 119,
+  "bill_number": "S.1402",
+  "introduced_date": "2025-04-09",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "69ea86317db1ae9e",
+  "last_updated": "2026-04-07T14:34:42.858605+00:00",
+  "plain_summary": "This law would close down the Department of Education within one year. All the programs that the Department of Education currently runs would be moved to other government departments instead. Schools would get money through block grants that states control, while student loans would be handled by the Treasury Department. Special education programs would go to Health and Human Services, job training would move to the Labor Department, and civil rights issues would be handled by the Justice Department.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-09",
+  "last_action_date": "2025-04-09",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [],
+  "sponsor_name": "Sen. Rounds, Mike [R-SD]",
+  "sponsor_party": "R",
+  "sponsor_state": "SD",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "close Department of Education",
+    "eliminate education department",
+    "shut down federal education",
+    "move education to states",
+    "block grants schools",
+    "federal education programs",
+    "student loans treasury",
+    "special education health services",
+    "job training labor department",
+    "education civil rights justice",
+    "return education control states",
+    "federal government education spending"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Returning Education to Our States Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-abolishment-of-the-department-of-education",
+      "title": "Section 2 Abolishment of the Department of Education",
+      "text": "One year after this law is passed, the Department of Education will be completely shut down. At the same time, the law that created the Department of Education will be canceled.",
+      "word_offset": 12,
+      "char_offset": 66
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-general-education-provisions-act-ferpa",
+      "title": "Section 3 General Education Provisions Act and FERPA",
+      "text": "One year after this law is passed, most parts of the General Education Provisions Act will be canceled. However, three parts will stay in place. The most important one that stays is section four hundred forty-four, which is called the Family Educational Rights and Privacy Act of nineteen seventy-four. This law protects student privacy. The Family Educational Rights and Privacy Act will continue to apply to education programs that move to other government departments. When the law mentions the Secretary of Education or Department of Education, it will now mean the Secretary or department that runs that program.",
+      "word_offset": 43,
+      "char_offset": 244
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-transfer-of-civil-rights-enforcement",
+      "title": "Section 4 Transfer of Civil Rights Enforcement",
+      "text": "One year after this law is passed, the Office of Civil Rights at the Department of Education will be shut down. The Civil Rights Division at the Department of Justice will take over handling complaints and enforcing civil rights laws for education programs. These civil rights laws include section five hundred four of the Rehabilitation Act of nineteen seventy-three, which protects people with disabilities. They also include Title Nine of the Education Amendments of nineteen seventy-two, which prevents discrimination based on sex. Title Six of the Civil Rights Act of nineteen sixty-four prevents discrimination based on race, color, or national origin. The Age Discrimination Act of nineteen seventy-five prevents discrimination based on age.",
+      "word_offset": 141,
+      "char_offset": 862
+    },
+    {
+      "id": "s5",
+      "slug": "section-101-elementary-and-secondary-education-act-programs",
+      "title": "Section 101 Elementary and Secondary Education Act Programs",
+      "text": "One year after this law is passed, several education programs will move to different government departments. Programs that serve Native American and Alaska Native children will move from the Department of Education to the Department of Interior. This includes the Office of Indian Education and programs specifically for Native American and Alaska Native students. Programs that serve children of military families will move to the Department of Defense.",
+      "word_offset": 254,
+      "char_offset": 1611
+    },
+    {
+      "id": "s6",
+      "slug": "section-102-elementary-and-secondary-education-state-block-grant-programs",
+      "title": "Section 102 Elementary and Secondary Education State Block Grant Programs",
+      "text": "Starting one year after this law is passed, the Department of Health and Human Services will run two new programs that give money to states for education. The first program will give each state the same amount of money they would have gotten under Title One of the Elementary and Secondary Education Act. Title One helps schools with many low-income students. The second program will distribute additional money to states based on how many children ages five through seventeen live in each state. From the total money for this second program, one half of one percent goes to the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands based on their needs. Another one half of one percent goes to the Department of Interior for schools run by the Bureau of Indian Education. One percent is kept by Health and Human Services for administrative costs and technical help. No state can get less than one half of one percent of the total money. Puerto Rico cannot get more than one half of one percent. States can use this money for any early childhood, elementary, or secondary education purpose, including career and technical education. To get this money, states must submit student data each year, complete annual audits following proper accounting rules, and follow all federal civil rights laws. If a state misuses the money, Health and Human Services can require repayment and withhold future funds, or reach an agreement with the state to fix the problem.",
+      "word_offset": 322,
+      "char_offset": 2066
+    },
+    {
+      "id": "s7",
+      "slug": "section-201-student-financial-assistance",
+      "title": "Section 201 Student Financial Assistance",
+      "text": "One year after this law is passed, all federal student financial aid programs will move from the Department of Education to the Department of Treasury. This includes programs under Title Four of the Higher Education Act of nineteen sixty-five, which covers federal student loans, grants, and work-study programs.",
+      "word_offset": 569,
+      "char_offset": 3540
+    },
+    {
+      "id": "s8",
+      "slug": "section-202-health-education-assistance-loan-program",
+      "title": "Section 202 Health Education Assistance Loan Program",
+      "text": "One year after this law is passed, the Health Education Assistance Loan program will move from the Department of Education to the Department of Treasury. This program provides loans to students in health profession schools.",
+      "word_offset": 617,
+      "char_offset": 3853
+    },
+    {
+      "id": "s9",
+      "slug": "section-203-postsecondary-education-state-block-grant-program",
+      "title": "Section 203 Postsecondary Education State Block Grant Program",
+      "text": "The Department of Treasury will run a new program that gives money to states to support college and university education. Each state will get money based on how many students were enrolled in colleges and universities in that state compared to all other states. To get this money, states must submit student data each year, complete annual audits following proper accounting rules, and follow all federal civil rights laws. If a state misuses the money, Treasury can require repayment and withhold future funds, or reach an agreement with the state to fix the problem.",
+      "word_offset": 652,
+      "char_offset": 4077
+    },
+    {
+      "id": "s10",
+      "slug": "section-301-education-sciences-reform-and-related-laws",
+      "title": "Section 301 Education Sciences Reform and Related Laws",
+      "text": "One year after this law is passed, education research programs will move from the Department of Education to the Department of Treasury. This includes the Education Sciences Reform Act of two thousand two, the Educational Technical Assistance Act of two thousand two, and the National Assessment of Educational Progress Authorization Act. The National Assessment of Educational Progress is sometimes called the Nation's Report Card because it tests students across the country.",
+      "word_offset": 746,
+      "char_offset": 4646
+    },
+    {
+      "id": "s11",
+      "slug": "section-302-carl-d-perkins-career-and-technical-education-act-of-2006",
+      "title": "Section 302 Carl D Perkins Career and Technical Education Act of 2006",
+      "text": "One year after this law is passed, career and technical education programs will move from the Department of Education to the Department of Labor. These programs help students learn job skills while in high school or college.",
+      "word_offset": 817,
+      "char_offset": 5124
+    },
+    {
+      "id": "s12",
+      "slug": "section-303-adult-education-and-family-literacy",
+      "title": "Section 303 Adult Education and Family Literacy",
+      "text": "One year after this law is passed, adult education and family literacy programs will move from the Department of Education to the Department of Labor. These programs help adults learn to read, write, and do math, and help them get their high school equivalency degree.",
+      "word_offset": 854,
+      "char_offset": 5349
+    },
+    {
+      "id": "s13",
+      "slug": "section-304-idea",
+      "title": "Section 304 IDEA",
+      "text": "One year after this law is passed, special education programs will move from the Department of Education to the Department of Health and Human Services. This includes all programs under the Individuals with Disabilities Education Act, which ensures that children with disabilities get the education services they need.",
+      "word_offset": 899,
+      "char_offset": 5618
+    },
+    {
+      "id": "s14",
+      "slug": "section-305-vocational-rehabilitation-state-grants-and-other-activities-under-the-rehabilitation-act-of-1973",
+      "title": "Section 305 Vocational Rehabilitation State Grants and Other Activities Under the Rehabilitation Act of 1973",
+      "text": "One year after this law is passed, vocational rehabilitation programs will move from the Department of Education to the Department of Labor. These programs help people with disabilities get job training and find work.",
+      "word_offset": 947,
+      "char_offset": 5937
+    },
+    {
+      "id": "s15",
+      "slug": "section-306-education-of-the-deaf-act-of-1986",
+      "title": "Section 306 Education of the Deaf Act of 1986",
+      "text": "One year after this law is passed, programs for deaf education will move from the Department of Education to the Department of Labor.",
+      "word_offset": 981,
+      "char_offset": 6155
+    },
+    {
+      "id": "s16",
+      "slug": "section-307-randolph-sheppard-act",
+      "title": "Section 307 Randolph-Sheppard Act",
+      "text": "One year after this law is passed, programs under the Randolph-Sheppard Act will move from the Department of Education to the Department of Labor. This law allows blind people to operate small businesses like snack stands in federal buildings.",
+      "word_offset": 1004,
+      "char_offset": 6289
+    },
+    {
+      "id": "s17",
+      "slug": "section-308-helen-keller-national-center-act",
+      "title": "Section 308 Helen Keller National Center Act",
+      "text": "One year after this law is passed, programs under the Helen Keller National Center Act will move from the Department of Education to the Department of Labor. This center provides services for people who are both deaf and blind.",
+      "word_offset": 1043,
+      "char_offset": 6533
+    },
+    {
+      "id": "s18",
+      "slug": "section-309-special-olympics-sport-and-empowerment-act-of-2004",
+      "title": "Section 309 Special Olympics Sport and Empowerment Act of 2004",
+      "text": "One year after this law is passed, Special Olympics programs will move from the Department of Education to the Department of Health and Human Services.",
+      "word_offset": 1082,
+      "char_offset": 6761
+    },
+    {
+      "id": "s19",
+      "slug": "section-310-education-of-the-blind",
+      "title": "Section 310 Education of the Blind",
+      "text": "One year after this law is passed, programs that promote education for blind people will move from the Department of Education to the Department of Health and Human Services. This includes programs under a law from eighteen seventy-nine.",
+      "word_offset": 1107,
+      "char_offset": 6913
+    },
+    {
+      "id": "s20",
+      "slug": "section-311-soar-act",
+      "title": "Section 311 SOAR Act",
+      "text": "One year after this law is passed, the SOAR Act program will move from the Department of Education to the Department of Health and Human Services. SOAR stands for Scholarships for Opportunity and Results and provides scholarships for low-income students in Washington DC to attend private schools.",
+      "word_offset": 1145,
+      "char_offset": 7151
+    },
+    {
+      "id": "s21",
+      "slug": "section-312-mckinney-vento-homeless-assistance-act",
+      "title": "Section 312 McKinney-Vento Homeless Assistance Act",
+      "text": "One year after this law is passed, education programs for homeless children will move from the Department of Education to the Department of Health and Human Services. These programs help ensure that children who do not have stable housing can still attend school.",
+      "word_offset": 1192,
+      "char_offset": 7449
+    },
+    {
+      "id": "s22",
+      "slug": "section-313-fulbright-hays",
+      "title": "Section 313 Fulbright-Hays",
+      "text": "One year after this law is passed, the Fulbright-Hays Program will move from the Department of Education to the Department of State. This program sends American teachers and students to other countries and brings foreign teachers and students to America for educational exchanges.",
+      "word_offset": 1235,
+      "char_offset": 7713
+    },
+    {
+      "id": "s23",
+      "slug": "section-401-authorization-of-appropriations",
+      "title": "Section 401 Authorization of Appropriations",
+      "text": "Congress can provide whatever money is needed to carry out the transfers described in this law. This money can be spent for up to one hundred eighty days after this law is passed.",
+      "word_offset": 1278,
+      "char_offset": 7994
+    },
+    {
+      "id": "s24",
+      "slug": "section-402-reorganization-plan",
+      "title": "Section 402 Reorganization Plan",
+      "text": "Within one hundred twenty days after this law is passed, the President must send Congress a detailed plan for how the transfers will work. The plan must explain how functions, workers, property, and debts will be moved from the Department of Education to other departments. It must also explain any ways to combine, reorganize, or make operations more efficient. The plan must show any money saved or extra costs from these changes, including reducing unnecessary or duplicate operations, property, and workers. The President must talk with Congress at least thirty days before sending the plan. The President must also talk with Congress before making any major changes to the plan. The plan becomes effective on the date specified in the plan, but not less than ninety days after the President sends it to Congress. The transfers do not have to happen all on the same day.",
+      "word_offset": 1311,
+      "char_offset": 8174
+    },
+    {
+      "id": "s25",
+      "slug": "section-403-transitional-authorities",
+      "title": "Section 403 Transitional Authorities",
+      "text": "Until the transfers are complete, officials at the Department of Education must help the departments that will receive the functions. They must provide assistance, including workers and resources, as requested to help prepare for the transfers. During the transition period, the Secretary of Education can provide services or assign workers to help with the transition. The receiving departments may or may not have to pay for this help. When functions are transferred, the workers, property, and debts connected to those functions will also move to the receiving department. This must be approved by the Director of the Office of Management and Budget. The receiving department will have all the legal powers related to the transferred functions that any other official had before the transfer.",
+      "word_offset": 1457,
+      "char_offset": 9049
+    },
+    {
+      "id": "s26",
+      "slug": "section-404-savings-provisions",
+      "title": "Section 404 Savings Provisions",
+      "text": "Administrative actions that the Department of Education completed before this law takes effect will continue to be valid. These include orders, rules, regulations, personnel actions, permits, agreements, grants, contracts, certificates, policies, licenses, registrations, and privileges. They will stay in effect until changed or canceled according to law by a government official or court. Legal proceedings that were started but not finished will continue even after functions transfer to other departments. This includes proposed rules and applications for licenses, permits, certificates, grants, and financial assistance. Civil lawsuits will also continue in the same way. When laws, executive orders, rules, regulations, or other official documents mention the Department of Education regarding transferred functions, they will now refer to the receiving department and its officials. Reporting requirements that applied to the Department of Education will continue to apply to the receiving departments. The receiving departments can adopt the same employment rules, procedures, terms, and conditions that applied at the Department of Education for transferred functions. Workers who are transferred will keep the same terms and conditions of employment, including pay, unless this law says otherwise. Any reporting requirements that applied to the Department of Education will continue to apply to the receiving departments if the law still refers to the Department of Education.",
+      "word_offset": 1581,
+      "char_offset": 9845
+    },
+    {
+      "id": "s27",
+      "slug": "section-405-other-terminations",
+      "title": "Section 405 Other Terminations",
+      "text": "When all functions of the Department of Education have been transferred or ended according to this law, certain high-level positions will be terminated. This includes positions that were authorized to receive pay at levels two, three, four, or five of the Executive Schedule.",
+      "word_offset": 1791,
+      "char_offset": 11333
+    },
+    {
+      "id": "s28",
+      "slug": "section-406-incidental-transfers",
+      "title": "Section 406 Incidental Transfers",
+      "text": "The Director of the Office of Management and Budget, working with the receiving departments, is authorized and required to make any additional transfers of workers, property, and debts that may be necessary to accomplish the purposes of this law.",
+      "word_offset": 1834,
+      "char_offset": 11609
+    },
+    {
+      "id": "s29",
+      "slug": "section-407-references",
+      "title": "Section 407 References",
+      "text": "After functions are transferred under this law, any mention in federal law of the department, commission, agency, officer, or office whose functions were transferred will now refer to the receiving department or official or part of the receiving department that received that function.",
+      "word_offset": 1873,
+      "char_offset": 11856
+    }
+  ]
+}

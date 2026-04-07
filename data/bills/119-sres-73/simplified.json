@@ -1,0 +1,70 @@
+{
+  "bill_id": "119-sres-73",
+  "title": "An original resolution authorizing expenditures by the Select Committee on Intelligence.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.73",
+  "introduced_date": "2025-02-11",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "85653093b5d24c1d",
+  "last_updated": "2026-04-07T14:36:08.043806+00:00",
+  "plain_summary": "This bill gives the Select Committee on Intelligence permission to spend money and hire people to do their work. The committee can spend this money from March 2025 through February 2027. They are allowed to spend about eighteen million dollars total during this time period. The money will pay for staff salaries and a small amount can be used to hire outside helpers when needed.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-02-11",
+  "last_action_text": "Referred to the Committee on Rules and Administration. (text: CR S863-864)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "Senate Select Committee on Intelligence"
+  ],
+  "sponsor_name": "Sen. Cotton, Tom [R-AR]",
+  "sponsor_party": "R",
+  "sponsor_state": "AR",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "intelligence committee funding",
+    "CIA oversight spending",
+    "spy committee budget",
+    "national security committee money",
+    "intelligence agency oversight",
+    "congressional intelligence budget",
+    "secret committee funding",
+    "surveillance oversight spending",
+    "intelligence staff hiring",
+    "national security oversight budget",
+    "spy agency committee money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-general-authority",
+      "title": "Section 1 General Authority",
+      "text": "The Select Committee on Intelligence (called the committee in this resolution) has the power to do its job as described in an earlier Senate resolution from nineteen seventy-six. From March first two thousand twenty-five through February twenty-eighth two thousand twenty-seven, the committee is allowed to spend money from the Senate's emergency fund, hire staff members, and borrow workers from government departments or agencies. If the committee borrows workers, it needs permission from both the department or agency and the Committee on Rules and Administration. The committee may or may not have to pay back the cost of using these borrowed workers.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expenses",
+      "title": "Section 2 Expenses",
+      "text": "The committee has spending limits for three different time periods. For March first two thousand twenty-five through September thirtieth two thousand twenty-five, the committee cannot spend more than five million two hundred sixty-one thousand four hundred ninety-seven dollars. Of that amount, no more than ten thousand two hundred eight dollars can be spent on hiring outside consultants or consulting companies. For October first two thousand twenty-five through September thirtieth two thousand twenty-six, the committee cannot spend more than nine million nineteen thousand seven hundred nine dollars. Of that amount, no more than seventeen thousand five hundred dollars can be spent on outside consultants. For October first two thousand twenty-six through February twenty-eighth two thousand twenty-seven, the committee cannot spend more than three million seven hundred fifty-eight thousand two hundred twelve dollars. Of that amount, no more than seven thousand two hundred ninety-two dollars can be spent on outside consultants.",
+      "word_offset": 101,
+      "char_offset": 657
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-expenses-and-agency-contributions",
+      "title": "Section 3 Expenses and Agency Contributions",
+      "text": "The committee will pay for its expenses from the Senate's emergency fund. The committee chairman must approve payment requests called vouchers before money can be spent. However, some expenses do not need vouchers. These include paying yearly salaries to employees, phone and internet services from the Senate's technology office, office supplies from the Senate supply keeper, postage costs, copy machine charges, recording and photography services, and mailing costs handled by the Sergeant at Arms. The Senate also has a special account called Expenses of Inquiries and Investigations that will pay for employee benefits and other costs related to paying committee workers. This account will cover these costs for all three time periods mentioned in this resolution.",
+      "word_offset": 250,
+      "char_offset": 1696
+    }
+  ]
+}

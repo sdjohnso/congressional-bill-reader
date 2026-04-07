@@ -1,0 +1,61 @@
+{
+  "bill_id": "119-hr-1325",
+  "title": "Commercial Remote Sensing Amendment Act of 2025",
+  "short_title": "Commercial Remote Sensing Amendment Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1325",
+  "introduced_date": "2025-02-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b059e7aef847f06b",
+  "last_updated": "2026-04-07T14:07:56.336524+00:00",
+  "plain_summary": "This bill changes the rules for companies that want to get licenses to operate satellites that take pictures of Earth. The government will now have only 60 days instead of 120 days to decide whether to approve these licenses. The bill also requires the government to write detailed yearly reports about these licenses that include information about all applications, how they are grouped into different categories, and what rules companies must follow. These yearly reports had stopped being required in 2020, but this bill brings them back until 2030.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-25",
+  "last_action_date": "2025-03-25",
+  "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [
+    "Licensing and registrations",
+    "Spacecraft and satellites"
+  ],
+  "sponsor_name": "Rep. Lucas, Frank D. [R-OK-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "satellite licenses",
+    "earth imaging satellites",
+    "commercial satellites",
+    "satellite photography",
+    "space imaging companies",
+    "satellite approval process",
+    "government satellite permits",
+    "satellite licensing rules",
+    "commercial space imaging",
+    "satellite license reports"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Commercial Remote Sensing Amendment Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-annual-reports",
+      "title": "Section 2 Annual Reports",
+      "text": "This section changes the rules about reports that must be filed each year. Part A changes deadlines. It reduces the time limit from one hundred twenty days to sixty days for filing certain reports about commercial remote sensing systems. Remote sensing systems are satellites and other equipment that take pictures or collect data about Earth from space. Part B changes notification requirements. It updates which specific parts of the law must be followed when giving notifications. Part C adds new conditions. It requires reports to include all terms, conditions, or restrictions placed on people who have licenses for remote sensing systems. Part D adds new information about tiers. Tiers are different categories or levels that applications and licenses are grouped into. Reports must now list all applications submitted and licenses granted, organized by their tier level. The reports must also explain why each application was put in its specific tier. Part E extends the sunset date. A sunset date is when a law automatically stops working. This changes the sunset date from September thirtieth two thousand twenty to September thirtieth two thousand thirty. This means the reporting requirements will continue for ten more years.",
+      "word_offset": 16,
+      "char_offset": 96
+    }
+  ]
+}

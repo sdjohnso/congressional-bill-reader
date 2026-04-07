@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1390",
+  "title": "Physician Led and Rural Access to Quality Care Act",
+  "short_title": "Physician Led and Rural Access to Quality Care Act",
+  "congress": 119,
+  "bill_number": "S.1390",
+  "introduced_date": "2025-04-09",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "cc87aa81f60659bb",
+  "last_updated": "2026-04-07T14:26:33.099848+00:00",
+  "plain_summary": "This bill changes Medicare rules to help rural areas get better healthcare. It allows doctors to send their patients to hospitals that the doctors own, but only if those hospitals are in rural areas and meet certain requirements. Right now, doctors are not allowed to do this because of current rules. The bill also lets doctor-owned hospitals make their buildings bigger or add more services. This could help people in rural areas have easier access to medical care.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-09",
+  "last_action_date": "2025-04-09",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Sen. Lankford, James [R-OK]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 9,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "rural healthcare",
+    "doctor owned hospitals",
+    "Medicare rural areas",
+    "small town hospitals",
+    "country doctor referrals",
+    "rural medical access",
+    "physician hospital ownership",
+    "rural healthcare shortage",
+    "small community hospitals",
+    "Medicare physician referrals"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Physician Led and Rural Access to Quality Care Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-revising-certain-physician-self-referral-exemptions-relating-to-physician-owned-hospitals",
+      "title": "Section 2 Revising Certain Physician Self-Referral Exemptions Relating to Physician-Owned Hospitals",
+      "text": "This section changes the rules about when doctors can refer patients to hospitals they own. Currently, there are strict limits on this to prevent conflicts of interest. The changes create special rules for covered rural hospitals. A covered rural hospital is defined as a hospital that is located in a rural area and meets certain requirements when it first enrolls in Medicare. These rural hospitals do not have to meet all the other requirements that regular hospitals must meet. The section also removes the ban on expanding existing physician-owned hospitals. Before this law, physician-owned hospitals were not allowed to expand their facilities. This restriction will no longer apply once this law takes effect.",
+      "word_offset": 15,
+      "char_offset": 79
+    }
+  ]
+}

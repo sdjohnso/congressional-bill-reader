@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1426",
+  "title": "To amend the Internal Revenue Code of 1986 to increase the amount allowed as a credit under the expenses for household and dependent care services credit and the employer-provided child care credit.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HR.1426",
+  "introduced_date": "2025-02-18",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "080eca6189440385",
+  "last_updated": "2026-04-07T14:37:53.467598+00:00",
+  "plain_summary": "This bill makes it easier for families and employers to get tax credits for childcare costs. Families can now claim twice as much money on their taxes for taking care of their children and other family members who need help. Employers who provide childcare services for their workers can also get a bigger tax credit, going from $150,000 to $400,000. The goal is to help make childcare more affordable for families and encourage more employers to offer childcare benefits.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-18",
+  "last_action_date": "2025-02-18",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Mackenzie, Ryan [R-PA-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "PA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "childcare tax credit",
+    "daycare tax deduction",
+    "child care expenses",
+    "dependent care credit",
+    "employer childcare benefits",
+    "family tax relief",
+    "childcare costs",
+    "working parents tax help",
+    "daycare assistance",
+    "childcare tax break"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-increase-in-credit-for-expenses-for-household-and-dependent-care-services",
+      "title": "Section 1  Increase in Credit for Expenses for Household and Dependent Care Services",
+      "text": "This section changes the tax law to increase the amount of money families can claim as a tax credit for childcare and dependent care expenses. Currently, families can claim up to three thousand dollars for one child or dependent, and up to six thousand dollars for two or more children or dependents. This bill doubles those amounts. Families will now be able to claim up to six thousand dollars for one child or dependent, and up to twelve thousand dollars for two or more children or dependents. These changes will apply to tax years that begin after this law is passed.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increase-in-employer-provided-child-care-credit",
+      "title": "Section 2  Increase in Employer-Provided Child Care Credit",
+      "text": "This section changes the tax law to increase the amount of money employers can claim as a tax credit for providing childcare services to their employees. Currently, employers can claim up to one hundred fifty thousand dollars as a tax credit. This bill increases that amount to four hundred thousand dollars. This change will apply to tax years that begin after this law is passed.",
+      "word_offset": 101,
+      "char_offset": 573
+    }
+  ]
+}

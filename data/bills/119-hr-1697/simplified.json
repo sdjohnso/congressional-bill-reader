@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-1697",
+  "title": "Child Tax Credit Relief for Puerto Rican Families Act",
+  "short_title": "Child Tax Credit Relief for Puerto Rican Families Act",
+  "congress": 119,
+  "bill_number": "HR.1697",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e0234c4b8bcf9101",
+  "last_updated": "2026-04-07T14:39:29.854584+00:00",
+  "plain_summary": "This bill changes tax rules to help families in Puerto Rico get the same child tax credit as families in other parts of America. Right now, Puerto Rico families cannot get the full amount of money back from this tax credit that helps parents pay for their children's needs. Starting in 2025, Puerto Rico families will be able to get the same full credit as everyone else in the United States. This means these families will get more money back to help take care of their kids.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-27",
+  "last_action_date": "2025-02-27",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rescom. Hernández, Pablo [D-PR-At Large]",
+  "sponsor_party": "D",
+  "sponsor_state": "PR",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "puerto rico tax credit",
+    "child tax credit puerto rico",
+    "puerto rico families money back",
+    "tax help puerto rico children",
+    "puerto rico same benefits",
+    "child credit equal treatment",
+    "puerto rico tax fairness",
+    "money for kids puerto rico",
+    "puerto rico family tax relief",
+    "child benefits puerto rico"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Child Tax Credit Relief for Puerto Rican Families Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-equitable-treatment-for-residents-of-puerto-rico",
+      "title": "Section 2. Equitable Treatment for Residents of Puerto Rico with Respect to the Refundable Portion of the Child Tax Credit",
+      "text": "This section changes the tax law to treat Puerto Rico residents fairly when they get money back from the child tax credit. The change adds a reference to section nine hundred thirty three in the tax code alongside section one hundred twelve. This means Puerto Rico residents will be able to get the refundable part of the child tax credit in the same way as other Americans. The refundable part means the government can send you money even if you do not owe any taxes. This change applies to tax years that start after December thirty first two thousand twenty four.",
+      "word_offset": 15,
+      "char_offset": 82
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-definition-of-social-security-taxes",
+      "title": "Section 3. Definition of Social Security Taxes for Purposes of Calculating Portion of Credit Refundable",
+      "text": "This section changes how Social Security taxes are counted when figuring out how much child tax credit money a person can get back. The law adds new rules that double certain amounts and removes the fifty percent limit in some calculations. These changes make it easier for Puerto Rico residents to qualify for the full refundable child tax credit amount. This change also applies to tax years that start after December thirty first two thousand twenty four.",
+      "word_offset": 116,
+      "char_offset": 649
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-sres-71",
+  "title": "An original resolution authorizing expenditures by the Committee on Small Business and Entrepreneurship.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.71",
+  "introduced_date": "2025-02-11",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "d048826dd054e413",
+  "last_updated": "2026-04-07T14:38:28.749185+00:00",
+  "plain_summary": "This bill gives permission for a Senate committee that works on small business issues to spend money and hire workers. The committee gets almost ten million dollars to use over about two years, from March 2025 to February 2027. They will use this money to do their job, which includes holding meetings and looking into important issues about small businesses. The money is split up across three different time periods during those two years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-02-11",
+  "last_action_text": "Referred to the Committee on Rules and Administration. (text: CR S863)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "Senate Committee on Small Business and Entrepreneurship"
+  ],
+  "sponsor_name": "Sen. Ernst, Joni [R-IA]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "small business committee funding",
+    "senate small business money",
+    "committee budget approval",
+    "small business entrepreneurship spending",
+    "congressional committee expenses",
+    "senate committee workers",
+    "small business government support",
+    "committee hiring budget",
+    "entrepreneurship committee funding",
+    "small business senate money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-general-authority",
+      "title": "Section 1 General Authority",
+      "text": "The Committee on Small Business and Entrepreneurship has the power to do its job under Senate rules from March first two thousand twenty five through February twenty eighth two thousand twenty seven. The committee can spend money from the Senate's backup fund, hire people to work for them, and borrow workers from government agencies if those agencies and the Rules Committee agree first. The committee can do this while it holds hearings, writes reports about those hearings, and investigates issues as allowed by Senate rules.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expenses",
+      "title": "Section 2 Expenses",
+      "text": "The committee cannot spend more than certain amounts of money during three different time periods. From March first two thousand twenty five through September thirtieth two thousand twenty five, they can spend up to two million seven hundred sixty nine thousand nine hundred eight dollars. From October first two thousand twenty five through September thirtieth two thousand twenty six, they can spend up to four million seven hundred forty eight thousand four hundred thirteen dollars. From October first two thousand twenty six through February twenty eighth two thousand twenty seven, they can spend up to one million nine hundred seventy eight thousand five hundred five dollars. During each time period, the committee can spend up to fifty thousand dollars to hire outside experts or consulting companies. They can also spend up to ten thousand dollars to train their professional staff members.",
+      "word_offset": 85,
+      "char_offset": 530
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-expenses-and-agency-contributions",
+      "title": "Section 3 Expenses and Agency Contributions",
+      "text": "The committee will pay for its expenses using money from the Senate's backup fund. The committee chairman must approve payment slips called vouchers before money can be spent. However, the committee does not need vouchers for some regular payments like employee salaries paid yearly, phone services from the Senate security office, office supplies from the Senate supply keeper, mail services, copying machine charges, recording and photography services, or mailing costs handled by the Senate security office. The Senate also has a special account called Expenses of Inquiries and Investigations that will pay for employee benefits and similar costs for committee workers during all three time periods mentioned earlier.",
+      "word_offset": 226,
+      "char_offset": 1431
+    }
+  ]
+}

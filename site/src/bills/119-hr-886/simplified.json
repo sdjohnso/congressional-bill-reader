@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-886",
+  "title": "Beat Bad Bureaucrats Act",
+  "short_title": "Beat Bad Bureaucrats Act",
+  "congress": 119,
+  "bill_number": "HR.886",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b09ba83f5ba4cf58",
+  "last_updated": "2026-04-07T15:11:50.741474+00:00",
+  "plain_summary": "This bill protects people whose identities were stolen to get COVID-19 business loans. If someone used your name without permission to get these emergency loans during the pandemic, the Small Business Administration cannot take money from your Social Security payments to pay back those loans. You must report the identity theft to the agency to get this protection. The Small Business Administration also has to post clear instructions on their website about how people can report when their identity was stolen for these loans.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-31",
+  "last_action_date": "2025-01-31",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Rep. Rulli, Michael A. [R-OH-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "identity theft",
+    "COVID loans",
+    "stolen identity",
+    "business loans",
+    "Social Security payments",
+    "pandemic loans",
+    "emergency loans",
+    "Small Business Administration",
+    "SBA loans",
+    "loan forgiveness",
+    "protect Social Security",
+    "fraud protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Beat Bad Bureaucrats Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-protection-of-social-security-benefits-from-garnishment-in-certain-cases-of-identity-theft",
+      "title": "Section 2  Protection of Social Security Benefits from Garnishment in Certain Cases of Identity Theft",
+      "text": "The head of the Small Business Administration cannot take money directly from someone's Social Security payments to repay certain business loans if that person was a victim of identity theft. This rule applies even though other federal laws normally allow the government to take money from Social Security benefits to pay back debts. However, this protection only applies if the Small Business Administration agrees that the person really was a victim of identity theft. Within thirty days of this law being passed, the Small Business Administration must change its rules to tell people how they can report identity theft to the agency. In this section, Administrator means the person who runs the Small Business Administration. A covered loan means either a special emergency loan made during the COVID-19 pandemic under specific programs or certain disaster loans made during that same time period. A named individual means a person whose name was used without permission to get one of these loans and who has told the Small Business Administration through their official website that they were a victim of identity theft related to that loan.",
+      "word_offset": 10,
+      "char_offset": 53
+    }
+  ]
+}

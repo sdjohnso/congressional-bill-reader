@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1935",
+  "title": "Protecting Military Assets Act of 2025",
+  "short_title": "Protecting Military Assets Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1935",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9e2de28d74b13b6c",
+  "last_updated": "2026-04-07T14:20:03.715115+00:00",
+  "plain_summary": "This bill is about keeping people who are not American citizens out of the country if they have broken into military bases or similar places without permission. If someone who is not a citizen illegally enters a military base, they will not be allowed to come into the United States. The bill also says that if non-citizens are already in America and get caught and found guilty of sneaking into military bases, the government can make them leave the country. The law is trying to protect important military places by making sure people who break into them face serious consequences.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Rep. Luttrell, Morgan [R-TX-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "military base security",
+    "trespassing on military property",
+    "immigration consequences",
+    "non-citizens military bases",
+    "protecting military facilities",
+    "deportation for base intrusion",
+    "foreign nationals military access",
+    "military installation safety",
+    "immigration enforcement military",
+    "base security violations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting Military Assets Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-inadmissibility-and-deportability-related-to-entering-military-naval-or-coast-guard-property",
+      "title": "Section 2 Inadmissibility and Deportability Related to Entering Military Naval or Coast Guard Property",
+      "text": "This section changes the Immigration and Nationality Act (the main law that controls who can come to and stay in the United States). The changes make it so that people who are not United States citizens cannot enter the country or must leave the country if they have been found guilty of illegally entering military bases, naval facilities, or coast guard property. This applies to people who have been convicted in court of this crime, people who admit they committed this crime, or people who admit to doing things that are the main parts of this crime under section thirteen eighty two of title eighteen of the United States Code (the federal law that makes it illegal to enter military property without permission). People who have been convicted of this crime in court can be removed from the United States.",
+      "word_offset": 15,
+      "char_offset": 87
+    }
+  ]
+}

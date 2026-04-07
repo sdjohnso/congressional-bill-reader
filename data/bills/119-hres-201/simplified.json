@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-201",
+  "title": "Removing certain Members from standing committees of the House of Representatives.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.201",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7f2fd2c4ad0acdbb",
+  "last_updated": "2026-04-07T14:33:30.893489+00:00",
+  "plain_summary": "This bill is about punishing House members who did not follow rules on March 6, 2025. On that day, the Speaker told some members to leave an area called the Well of the House, but some members refused to go. The Sergeant at Arms will make a list of which members did not listen to the Speaker. Those members will lose all their spots on committees for the rest of this Congress as punishment.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Referred to the House Committee on Ethics.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [],
+  "sponsor_name": "Rep. Ogles, Andrew [R-TN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "house members punishment",
+    "committee removal",
+    "march 6 2025",
+    "speaker orders",
+    "well of house",
+    "disobedient representatives",
+    "congress discipline",
+    "committee seats taken away",
+    "house floor rules",
+    "sergeant at arms list",
+    "congressional punishment",
+    "representatives losing committees"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution is about removing certain House members from standing committees of the House of Representatives.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Information",
+      "text": "The House rules say that all House members, delegates, resident commissioners, officers, and employees must behave in ways that make the House look good. Several Representatives should be removed from their committee assignments because of how they acted on the House floor on March sixth, two thousand twenty five.",
+      "word_offset": 16,
+      "char_offset": 114
+    },
+    {
+      "id": "s3",
+      "slug": "resolution-action",
+      "title": "What This Resolution Does",
+      "text": "Within one week after this resolution passes, the Sergeant at Arms of the House of Representatives must figure out which members ignored the Speaker's order to leave the Well of the House on March sixth, two thousand twenty five. The Well of the House is the area in front of the Speaker's chair where members speak during debates. Once the Sergeant at Arms gives this list to the Speaker, those people will be kicked off any standing committee they currently serve on for the rest of the one hundred nineteenth Congress. Standing committees are the regular working groups that handle specific types of laws and issues.",
+      "word_offset": 65,
+      "char_offset": 430
+    }
+  ]
+}

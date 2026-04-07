@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hres-140",
+  "title": "Providing amounts for the expenses of the Committee on Education and Workforce in the One Hundred Nineteenth Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.140",
+  "introduced_date": "2025-02-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b13c0fa097e5882b",
+  "last_updated": "2026-04-07T14:55:17.429457+00:00",
+  "plain_summary": "This bill gives money to a group of lawmakers called the Committee on Education and Workforce. The committee will get about twenty-two million dollars to pay for their work over the next two years. The money is split into two parts for each year of work. The committee has to follow special rules about how they can spend this money. This helps the committee do their job of making laws about schools and jobs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "House Committee on Education and Workforce"
+  ],
+  "sponsor_name": "Rep. Walberg, Tim [R-MI-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "committee funding",
+    "education committee money",
+    "workforce committee budget",
+    "congressional committee expenses",
+    "school committee funding",
+    "job committee budget",
+    "education and workforce money",
+    "committee operating costs",
+    "congressional budget allocation",
+    "education workforce spending"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-amounts-for-committee-expenses",
+      "title": "Section 1 Amounts for Committee Expenses",
+      "text": "The Committee on Education and Workforce will receive money to pay for its expenses during the One Hundred Nineteenth Congress. This includes paying for all staff salaries and other costs. The total amount cannot be more than twenty-two million thirty-three thousand three hundred twenty-two dollars. This money will come from House of Representatives accounts that are set aside for committee salaries and expenses.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-session-limitations",
+      "title": "Section 2 Session Limitations",
+      "text": "The total money from Section 1 is split into two parts based on time periods. During the first session, which runs from noon on January third two thousand twenty-five until right before noon on January third two thousand twenty-six, the committee can spend no more than ten million nine hundred seventy-nine thousand eight hundred eighty-three dollars. During the second session, which runs from noon on January third two thousand twenty-six until right before noon on January third two thousand twenty-seven, the committee can spend no more than eleven million fifty-three thousand four hundred thirty-nine dollars.",
+      "word_offset": 63,
+      "char_offset": 417
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-vouchers",
+      "title": "Section 3 Vouchers",
+      "text": "To get paid with this money, the committee must follow a specific process. The committee must authorize each payment using vouchers (official payment requests). The Chairman of the Committee must sign these vouchers. The Committee on House Administration must approve the vouchers in whatever way they decide.",
+      "word_offset": 158,
+      "char_offset": 1034
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-regulations",
+      "title": "Section 4 Regulations",
+      "text": "The committee must spend this money following the rules set by the Committee on House Administration. They cannot spend the money in ways that go against these regulations.",
+      "word_offset": 205,
+      "char_offset": 1344
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-hr-1362",
+  "title": "Downwinders Parity Act of 2025",
+  "short_title": "Downwinders Parity Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1362",
+  "introduced_date": "2025-02-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c783eb36271e9865",
+  "last_updated": "2026-04-07T14:20:20.605987+00:00",
+  "plain_summary": "This bill helps more people get money if they got sick from radiation exposure. It adds new areas in Colorado and other states where people can now apply for compensation. The bill also keeps the trust fund that pays for this compensation running until December 2030. Finally, it requires the Attorney General to report on how well they are telling newly eligible people about this program so they know they can apply for help.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Labor and Employment",
+  "subjects": [],
+  "sponsor_name": "Rep. Gosar, Paul A. [R-AZ-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 9,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "radiation sickness compensation",
+    "nuclear testing victims",
+    "downwinders money",
+    "radiation exposure help",
+    "Colorado radiation victims",
+    "government compensation sick people",
+    "nuclear fallout health problems",
+    "radiation illness payments",
+    "atomic testing compensation",
+    "trust fund radiation victims",
+    "nuclear exposure benefits",
+    "sick from radiation government help"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Downwinders Parity Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-inclusion-under-radiation-exposure-compensation-act",
+      "title": "Section 2 Inclusion Under the Radiation Exposure Compensation Act",
+      "text": "This section changes an existing law called the Radiation Exposure Compensation Act. The changes expand who can get help under this law. First, it removes language that limited help to only specific township areas in Colorado. Now all of Colorado will be covered. Second, it expands coverage in other states so that if any part of a county is in the affected area, then people in the entire county can get help.",
+      "word_offset": 14,
+      "char_offset": 79
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-trust-fund-extension",
+      "title": "Section 3 Trust Fund Extension",
+      "text": "This section extends how long the trust fund will keep operating. The fund helps pay for compensation to people who were harmed by radiation exposure. Instead of ending two years after a previous law was passed, the fund will now continue until December thirty first, two thousand thirty.",
+      "word_offset": 86,
+      "char_offset": 491
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-report",
+      "title": "Section 4 Report",
+      "text": "Within one hundred eighty days after this law is passed, the Attorney General must write a report for Congress. The report must explain what the government is doing to teach and reach out to people who can now get benefits because of the changes made in Section two of this law.",
+      "word_offset": 134,
+      "char_offset": 780
+    }
+  ]
+}

@@ -28,10 +28,9 @@
   "became_law_date": "",
   "vetoed": false,
   "vetoed_date": "",
-  "simplified_complete": false,
-  "queued_at": "2026-04-07T01:53:47.690848+00:00",
-  "process_failed": true,
-  "process_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CZofxUpzvFkrUs3oVfFFQ'}",
-  "failed_chunk": 1,
-  "last_process_attempt": "2026-04-07T03:06:51.298284+00:00"
+  "simplified_complete": true,
+  "queued_at": "2026-04-07T13:54:22.168403+00:00",
+  "version_hash": "cf57a7e1742461c6",
+  "last_processed": "2026-04-07T14:59:57.001887+00:00",
+  "section_count": 2
 }

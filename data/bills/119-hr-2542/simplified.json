@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2542",
+  "title": "Old Drugs, New Cures Act",
+  "short_title": "Old Drugs, New Cures Act",
+  "congress": 119,
+  "bill_number": "HR.2542",
+  "introduced_date": "2025-04-01",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b305de8b9389621e",
+  "last_updated": "2026-04-07T14:18:13.409381+00:00",
+  "plain_summary": "This bill creates a special group called priority research drugs for old medicines that drug companies want to use to treat different diseases than they were first made for. When companies test these old drugs for new uses, the government will give them special benefits in healthcare programs like Medicare and Medicaid. These drugs will not have to follow the same strict rules about paying money back to the government that other changed drugs have to follow. This is meant to encourage companies to find new ways to use medicines that already exist instead of always making completely new ones.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-01",
+  "last_action_date": "2025-04-01",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Davis, Donald G. [D-NC-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "NC",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "old drugs new uses",
+    "repurpose existing medicines",
+    "drug repurposing",
+    "Medicare Medicaid benefits",
+    "reuse old medications",
+    "existing drugs different diseases",
+    "medicine recycling",
+    "drug companies incentives",
+    "healthcare cost savings",
+    "prescription drug reuse"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Old Drugs, New Cures Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-priority-research-drugs",
+      "title": "Section 2  Priority Research Drugs",
+      "text": "This section creates a new category called priority research drugs. Drug companies can ask the government to label their old drugs as priority research drugs if they meet certain rules. First, the drug must be at least ten years old since it was first approved by the government. Second, the company must be testing the old drug for a completely new medical use that would help treat a disease with no other approved treatments available. Third, the new use must be for a disease that affects many people who get their healthcare paid for by government programs like Medicaid, Medicare, or Veterans Affairs healthcare. At least thirty three out of every one hundred patients with this disease must have their treatment paid for by these government programs. The Secretary of Health and Human Services must set up a process within ninety days for companies to apply for this special label. The Secretary then has sixty days to decide whether to approve each request. Once a drug gets this priority research drug label, it gets special treatment when calculating rebates (money the drug company pays back to the government) under Medicare and Medicaid programs. These priority research drugs will not be treated as line extensions, which are typically newer versions of existing drugs that face stricter rebate requirements.",
+      "word_offset": 11,
+      "char_offset": 53
+    }
+  ]
+}

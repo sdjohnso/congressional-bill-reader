@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-3216",
+  "title": "Housing Market Transparency Act",
+  "short_title": "Housing Market Transparency Act",
+  "congress": 119,
+  "bill_number": "HR.3216",
+  "introduced_date": "2025-05-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "bbbe43b1a8b5decf",
+  "last_updated": "2026-04-07T15:01:36.053661+00:00",
+  "plain_summary": "This bill makes the government collect and share information about affordable housing that gets special tax breaks. The Housing Secretary will gather details about these buildings like how much they cost, who owns them, and what condition they are in. States have to report this information regularly. Most of this information will be made public so people can see it. The Secretary will also write reports about affordable housing and apartment buildings.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-06",
+  "last_action_date": "2025-05-06",
+  "last_action_text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such p",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [],
+  "sponsor_name": "Rep. Horsford, Steven [D-NV-4]",
+  "sponsor_party": "D",
+  "sponsor_state": "NV",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "affordable housing",
+    "low income housing",
+    "housing tax breaks",
+    "apartment buildings",
+    "housing information",
+    "government housing data",
+    "rental properties",
+    "housing transparency",
+    "public housing records",
+    "housing market data"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Housing Market Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-hud-reporting-and-transparency-on-low-income-housing-tax-credit-projects",
+      "title": "Section 2 HUD Reporting and Transparency on Low-Income Housing Tax Credit Projects",
+      "text": "This section explains what certain words mean in this law. A covered property means a building that gets special tax credits under section forty-two of the tax code to help provide affordable housing. The Secretary means the Secretary of Housing and Urban Development, which is the person who runs the government agency that deals with housing.\n\nThe Secretary must regularly collect and keep information about these affordable housing buildings. This information includes how much it cost to build them including what the main construction company charged, who owns the buildings, whether the owner is a business that passes profits through to its owners instead of paying corporate taxes, the most recent safety and living condition standards, if the building was sold or lost to foreclosure or destroyed then why that happened, when the rules requiring the building to stay affordable will end, whether the owner gave up their right to sell the building to the government at a special price, the most recent inspection results and information about whether the building is safe and livable, and any other information the Secretary thinks is important.\n\nEach state agency that gives out these tax credits for affordable housing must send this information to the Secretary. They must do this no later than eighteen months after each building starts being used as housing and then every year after that. The Secretary must create rules and definitions for what information to collect. The Secretary must help states set up systems to gather and send this information. The Secretary must work with other government agencies that help with housing to make sure property owners do not have to report the same information multiple times to different agencies.\n\nThe Secretary must put together all this information and make it available to the public at least once every year, except for the development cost information. The Secretary must also regularly study these affordable housing properties and the overall apartment building market and write public reports about what they find. For buildings that will no longer get these tax credits before the end of a given year, the Secretary must collect information about who the final owner or buyer is, including whether the buyer is a nonprofit organization that does not make profits.",
+      "word_offset": 10,
+      "char_offset": 60
+    }
+  ]
+}

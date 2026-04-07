@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1850",
+  "title": "CRUDE Act",
+  "short_title": "CRUDE Act",
+  "congress": 119,
+  "bill_number": "HR.1850",
+  "introduced_date": "2025-03-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "019cfd2f429154e1",
+  "last_updated": "2026-04-07T15:12:06.409724+00:00",
+  "plain_summary": "The CRUDE Act is a law that makes it very hard for the President to stop companies from selling American oil to other countries. Before the President can declare an emergency and ban oil exports, three important government officials must first prove that selling oil overseas is causing big problems like oil shortages, very high gas prices, and people losing their jobs. This means oil companies will usually be free to sell American oil anywhere in the world they want. The law protects oil exports by making the rules very strict for when the government can step in and stop them.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-05",
+  "last_action_date": "2025-03-05",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Arrington, Jodey C. [R-TX-19]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 4,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "oil exports",
+    "selling oil overseas",
+    "gas prices",
+    "oil shortages",
+    "American oil companies",
+    "president emergency powers",
+    "oil export ban",
+    "crude oil sales",
+    "energy exports",
+    "oil trade restrictions",
+    "gasoline costs",
+    "domestic oil production"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Continuing Robust and Uninhibited Drilling and Exporting Act or the CRUDE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-crude-oil-export-licensing-requirements-and-other-restrictions",
+      "title": "Section 2 Crude Oil Export Licensing Requirements and Other Restrictions",
+      "text": "This section changes an existing law about when the President can stop or limit crude oil exports from the United States. The new rules say the President can only impose these limits under very specific conditions. First, three government officials must work together and agree that exporting crude oil has caused serious problems. These officials are the Secretary of Defense, the Secretary of Energy, and the Secretary of Commerce. They must find that crude oil exports have caused long-lasting shortages of oil in the United States or have made oil prices much higher than prices in other countries around the world. They must also find that these shortages or high prices have hurt American jobs or are likely to hurt American jobs in a serious way. After these three officials make this report to the President and Congress, the President must then declare a national emergency based on their findings. The President must also officially announce this emergency declaration in the Federal Register, which is the government's official record of new rules and announcements.",
+      "word_offset": 18,
+      "char_offset": 106
+    }
+  ]
+}

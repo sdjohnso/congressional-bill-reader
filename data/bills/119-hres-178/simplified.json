@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hres-178",
+  "title": "Put Your Money Where Your Mouth Is Resolution",
+  "short_title": "Put Your Money Where Your Mouth Is Resolution",
+  "congress": 119,
+  "bill_number": "HRES.178",
+  "introduced_date": "2025-03-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b83dd06cfcbf0633",
+  "last_updated": "2026-04-07T14:59:42.192996+00:00",
+  "plain_summary": "This bill would reduce the money that members of the House of Representatives get to run their offices. Each House member would lose one hundred thousand dollars from their office budget for two years, 2026 and 2027. This money is normally used to pay for things like staff salaries, office rent, and other costs needed to do their job as a representative. The bill is called the \"Put Your Money Where Your Mouth Is Resolution.\"",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-03",
+  "last_action_date": "2025-03-03",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [],
+  "sponsor_name": "Rep. Bean, Aaron [R-FL-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "congress budget cuts",
+    "house representatives office money",
+    "congressional spending reduction",
+    "politician office budgets",
+    "house member salary cuts",
+    "government office expenses",
+    "congressional budget decrease",
+    "representative office funding",
+    "politician spending limits",
+    "house office staff budget"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This resolution can be called the Put Your Money Where Your Mouth Is Resolution.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-establishment-of-members-representational-allowance-for-fiscal-years-2026-and-2027",
+      "title": "Section 2 Establishment of Members' Representational Allowance for Fiscal Years 2026 and 2027",
+      "text": "Starting in fiscal year twenty twenty six and continuing through fiscal year twenty twenty seven, each member of the House of Representatives will receive less money for their office expenses. The Members' Representational Allowance is money that House members get to pay for things like staff salaries, office rent, and other costs of running their congressional offices. Each member's allowance will be whatever amount they got in fiscal year twenty twenty five, but with one hundred thousand dollars taken away from it. This reduction will stay in place for both fiscal year twenty twenty six and fiscal year twenty twenty seven.",
+      "word_offset": 14,
+      "char_offset": 81
+    }
+  ]
+}

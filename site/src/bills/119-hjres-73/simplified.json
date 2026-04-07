@@ -1,0 +1,50 @@
+{
+  "bill_id": "119-hjres-73",
+  "title": "Relating to a national emergency by the President on February 1, 2025.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.73",
+  "introduced_date": "2025-03-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "20718e4d27f0dbc3",
+  "last_updated": "2026-04-07T15:06:54.814026+00:00",
+  "plain_summary": "This bill ends a national emergency that the President declared on February 1, 2025. Congress has the power to stop national emergencies that the President announces. They are using this power through a law called the National Emergencies Act. The bill simply cancels the emergency declaration from that date.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-06",
+  "last_action_date": "2025-03-06",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [],
+  "sponsor_name": "Rep. Meeks, Gregory W. [D-NY-5]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 8,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "national emergency",
+    "president emergency powers",
+    "congress stop emergency",
+    "cancel emergency declaration",
+    "end national emergency",
+    "presidential emergency",
+    "emergency powers",
+    "congress override president",
+    "national emergencies act",
+    "terminate emergency"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution",
+      "title": "Joint Resolution",
+      "text": "This joint resolution uses the National Emergencies Act to end a national emergency. The President declared this national emergency on February first, twenty twenty-five, in Executive Order fourteen thousand one hundred ninety-four. Congress is voting to terminate this emergency declaration immediately.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

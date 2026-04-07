@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hres-188",
+  "title": "Affirming the obligation of the President of the United States to comply with court orders.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.188",
+  "introduced_date": "2025-03-04",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "430b977ca562419e",
+  "last_updated": "2026-04-07T15:13:20.978084+00:00",
+  "plain_summary": "This bill is about making sure the President follows court orders like everyone else has to. It says that President Trump and his team must obey when judges tell them to stop doing certain things or change their actions. The bill lists some times when courts have already told the Trump administration to stop doing things they disagreed with. It reminds everyone that courts have the power to make these decisions and that the President cannot ignore them.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-04",
+  "last_action_date": "2025-03-04",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Mullin, Kevin [D-CA-15]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 25,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "president follow court orders",
+    "trump obey judges",
+    "president comply with courts",
+    "executive branch court decisions",
+    "presidential power limits",
+    "judges tell president what to do",
+    "court orders binding on president",
+    "trump administration lawsuits",
+    "presidential accountability",
+    "separation of powers"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution affirms that the President of the United States must follow court orders.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Facts",
+      "text": "Several federal courts have issued orders stopping President Trump from carrying out certain actions. On January twenty-third, February fifth, and February tenth of twenty twenty-five, three different federal courts issued temporary restraining orders. These orders stopped President Trump from enforcing his executive order that would deny citizenship to people born in the United States. On February twentieth, twenty twenty-five, the United States Court of Appeals for the Ninth Circuit refused an emergency request to lift an order blocking President Trump's citizenship executive order. On January twenty-eighth and January thirty-first of twenty twenty-five, and again on February tenth, federal courts issued orders stopping the Trump administration from pausing, freezing, or ending federal money that Congress had approved. On February eighth, twenty twenty-five, a federal court in New York issued an order preventing President Trump from giving access to Treasury Department payment records and systems to anyone except government employees who need access to do their jobs. On February twenty-fifth, twenty twenty-five, a federal court entered an order preventing the Office of Management and Budget from putting into effect a memo that would freeze all federal financial assistance. On February twenty-first, twenty twenty-five, a federal court granted an order barring the Treasury Department from giving any member of the DOGE team access to payment records, payment systems, or any other data systems kept by the Treasury Department. On February twenty-seventh, twenty twenty-five, a federal court issued an order requiring the Office of Personnel and Management to cancel a directive to fire employees at several government agencies. On February ninth, twenty twenty-five, Vice President J.D. Vance said on social media that judges are not allowed to control the executive branch's legitimate power. On February fifteenth, twenty twenty-five, President Trump said on social media that someone who saves his country does not violate any law. Since eighteen oh three, the Supreme Court case Marbury versus Madison established that it is the job of the judicial branch to say what the law is. Since nineteen fifty-two, the Supreme Court case Youngstown Sheet and Tube Company versus Sawyer established that the President's power must come either from an Act of Congress or from the Constitution. The United States Constitution and hundreds of years of legal tradition require all people to follow orders issued by properly established courts. The legal process allows people to appeal a decision they disagree with. The duty to follow a court order applies equally to all people in the United States, including government lawyers, who must practice law according to federal and state law. Those who refuse to follow a court order must be held accountable by our legal system. Failing to follow court orders puts the rule of law and the separation of powers established by the Constitution in serious danger.",
+      "word_offset": 14,
+      "char_offset": 90
+    },
+    {
+      "id": "s3",
+      "slug": "resolution-text",
+      "title": "Resolution",
+      "text": "Therefore, the House of Representatives affirms the essential role of the judiciary in upholding checks and balances among the three equal branches of the United States Government. The House calls on President Donald J. Trump and his administration to immediately follow all existing court orders and decisions going forward. The House affirms the judiciary's authority to use all of the tools given to it by the Constitution and Congress to enforce its orders.",
+      "word_offset": 474,
+      "char_offset": 3112
+    }
+  ]
+}

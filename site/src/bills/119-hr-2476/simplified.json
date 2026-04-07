@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2476",
+  "title": "Stop Illegal Campaign Coordination Act",
+  "short_title": "Stop Illegal Campaign Coordination Act",
+  "congress": 119,
+  "bill_number": "HR.2476",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ba82a2e0c54cb6e9",
+  "last_updated": "2026-04-07T14:51:36.978400+00:00",
+  "plain_summary": "This bill makes new rules about how outside groups can work with political candidates during elections. Right now, these groups are supposed to work independently from candidates, but sometimes they secretly work together, which breaks the law. The bill creates clearer rules to catch when outside groups are illegally coordinating with candidates by following their private instructions about ads, messaging, or who to target with their spending. This will make it easier to identify and stop illegal coordination between candidates and outside groups that spend money to help them win elections.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Tokuda, Jill N. [D-HI-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "HI",
+  "cosponsor_count": 4,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "campaign finance",
+    "outside groups",
+    "political donations",
+    "election spending",
+    "super PACs",
+    "candidate coordination",
+    "illegal campaign help",
+    "political advertising rules",
+    "election money",
+    "campaign violations",
+    "political fundraising",
+    "election corruption"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Stop Illegal Campaign Coordination Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-treatment-of-certain-expenditures-as-coordinated-expenditures",
+      "title": "Section 2 Treatment of Certain Expenditures as Coordinated Expenditures",
+      "text": "This section changes the Federal Election Campaign Act of nineteen seventy-one. The changes make it clear that certain spending must be considered coordinated spending. Coordinated spending means money spent by outside groups that work together with candidates or political parties. The law now says that spending counts as coordinated if it follows instructions, directions, guidance, or suggestions from a candidate, their official campaign committee, or a political party committee. This applies even if those instructions are given to the public or shared indirectly. The Federal Election Commission must look at specific factors to decide if spending follows these instructions. If any of these factors apply, the spending is assumed to be coordinated. The factors include whether the instructions tell people to share information about a candidate or party with voters, whether they include details about who should receive the message, whether they suggest how to communicate like through mail or social media, whether they provide phrases or images that get used later, and whether the instructions are marked with special signals. The Commission can also consider other factors it thinks are important. These new rules apply to all spending that happens on or after the day this law is signed.",
+      "word_offset": 11,
+      "char_offset": 67
+    }
+  ]
+}

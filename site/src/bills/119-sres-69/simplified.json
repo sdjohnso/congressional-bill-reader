@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-sres-69",
+  "title": "An original resolution authorizing expenditures by the Committee on Armed Services.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.69",
+  "introduced_date": "2025-02-11",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "22f85b7a947c64f6",
+  "last_updated": "2026-04-07T14:16:37.608733+00:00",
+  "plain_summary": "This bill gives the Senate Committee on Armed Services permission to spend money and hire people to do their work. The committee can spend over twenty million dollars total from March 2025 through February 2027. The money will pay for staff salaries and some will be used to hire outside experts and train workers. This lets the committee continue doing its job of overseeing military and defense issues for the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-11",
+  "last_action_date": "2025-02-11",
+  "last_action_text": "Referred to the Committee on Rules and Administration. (text: CR S862)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "Senate Committee on Armed Services"
+  ],
+  "sponsor_name": "Sen. Wicker, Roger F. [R-MS]",
+  "sponsor_party": "R",
+  "sponsor_state": "MS",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "senate military committee budget",
+    "armed services committee funding",
+    "defense committee spending",
+    "military oversight money",
+    "senate defense budget",
+    "armed services staff hiring",
+    "military committee expenses",
+    "defense oversight funding",
+    "senate military spending authority",
+    "armed services committee salaries"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-general-authority",
+      "title": "Section 1 General Authority",
+      "text": "The Committee on Armed Services is given permission to do its work from March first two thousand twenty five through February twenty eighth two thousand twenty seven. During this time, the committee can spend money from the Senate's emergency fund, hire staff members, and borrow workers from government departments or agencies. The committee can only borrow workers if both the department and the Committee on Rules and Administration agree first. The committee may or may not have to pay back the cost of using borrowed workers.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expenses",
+      "title": "Section 2 Expenses",
+      "text": "The committee has spending limits for three different time periods. From March first two thousand twenty five through September thirtieth two thousand twenty five, the committee can spend up to six million ninety two thousand eight hundred thirty two dollars. Of this amount, up to thirty seven thousand dollars can be used to hire outside consultants or consulting companies. Up to twelve thousand dollars can be used to train the committee's professional staff. From October first two thousand twenty five through September thirtieth two thousand twenty six, the committee can spend up to ten million four hundred forty four thousand eight hundred fifty six dollars. Of this amount, up to sixty five thousand dollars can be used for consultants and up to twenty thousand dollars can be used for staff training. From October first two thousand twenty six through February twenty eighth two thousand twenty seven, the committee can spend up to four million three hundred fifty two thousand twenty three dollars. Of this amount, up to twenty seven thousand dollars can be used for consultants and up to eight thousand five hundred dollars can be used for staff training.",
+      "word_offset": 86,
+      "char_offset": 531
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-expenses-and-agency-contributions",
+      "title": "Section 3 Expenses and Agency Contributions",
+      "text": "The committee's expenses will be paid from the Senate's emergency fund when the committee chairman approves the payment requests. However, the committee does not need special approval forms for certain regular expenses. These include paying yearly salaries to employees, phone and internet services from the Senate office that handles security, office supplies from the Senate supply office, postal services, copy machine costs, recording and photography services, and mail costs handled by the Senate security office. The Senate also has a separate account called Expenses of Inquiries and Investigations that will pay for employee benefits like health insurance and retirement contributions. This account will cover these costs for all three time periods mentioned in this resolution.",
+      "word_offset": 276,
+      "char_offset": 1701
+    }
+  ]
+}

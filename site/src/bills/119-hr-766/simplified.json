@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-766",
+  "title": "SEWER Act",
+  "short_title": "SEWER Act",
+  "congress": 119,
+  "bill_number": "HR.766",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "692820874f5855b4",
+  "last_updated": "2026-04-07T14:29:20.950106+00:00",
+  "plain_summary": "The SEWER Act gives the Centers for Disease Control and Prevention official permission to run a program that tests sewage water for germs that make people sick. This program looks for viruses like COVID-19, flu, mpox, dengue, West Nile virus, and RSV in wastewater to help track diseases in communities. The CDC works with local health departments to collect water samples and share information about what germs they find. The program gets $150 million each year from 2026 to 2030 to do this work, but water companies do not have to join if they do not want to.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-28",
+  "last_action_date": "2025-01-28",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Hazardous wastes and toxic substances",
+    "Health programs administration and funding",
+    "Infectious and parasitic diseases",
+    "Water quality"
+  ],
+  "sponsor_name": "Rep. Garcia, Robert [D-CA-42]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "sewage testing",
+    "wastewater monitoring",
+    "CDC disease tracking",
+    "testing toilet water for viruses",
+    "sewer water disease detection",
+    "COVID in wastewater",
+    "flu tracking in sewage",
+    "community health monitoring",
+    "virus surveillance program",
+    "public health sewage testing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Surveilling Effluent Water for Epidemic Response Act or the SEWER Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-national-wastewater-surveillance-system",
+      "title": "Section 2 National Wastewater Surveillance System",
+      "text": "This section changes the Public Health Service Act by adding a new part about watching wastewater for diseases. The Secretary of Health and Human Services will work with the Centers for Disease Control and Prevention to expand a national system that checks wastewater for germs that cause illness. This system will look for diseases like COVID-19, flu, mpox, dengue, West Nile virus, and RSV (a breathing illness). The Secretary will work with other federal agencies and state and local health departments to do this work. Congress approves spending one hundred fifty million dollars each year from 2026 through 2030 for this program. The money can be saved and used in later years if not spent right away. However, this law does not force water treatment companies or wastewater service providers to help with disease monitoring if they do not want to.",
+      "word_offset": 17,
+      "char_offset": 98
+    }
+  ]
+}

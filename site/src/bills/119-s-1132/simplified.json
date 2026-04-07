@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-1132",
+  "title": "Families Care Act",
+  "short_title": "Families Care Act",
+  "congress": 119,
+  "bill_number": "S.1132",
+  "introduced_date": "2025-03-26",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "23874b58e96f09be",
+  "last_updated": "2026-04-07T14:23:31.748061+00:00",
+  "plain_summary": "The Families Care Act helps people who take care of older family members. The bill adds peer support services to a government program that already exists to help these caregivers. This means caregivers can get help and advice from other people who are also taking care of older family members. The bill also requires states to pay special attention to families that have been hurt by drug problems like opioid addiction. This will make sure these families get the extra help they need.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-26",
+  "last_action_date": "2025-03-26",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [],
+  "sponsor_name": "Sen. Budd, Ted [R-NC]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "family caregivers",
+    "caring for elderly parents",
+    "help for caregivers",
+    "support for families",
+    "taking care of older relatives",
+    "caregiver assistance",
+    "peer support",
+    "opioid families help",
+    "drug addiction family support",
+    "elderly care resources",
+    "caregiver burnout help",
+    "family care programs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Families Care Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-national-family-caregiver-support-program",
+      "title": "Section 2  National Family Caregiver Support Program",
+      "text": "This section changes the Older Americans Act of nineteen sixty five. The changes add peer supports to the list of services that help family caregivers. Peer supports means help from other people who have been through similar experiences. The changes also require states to think about the special needs of different types of caregivers. This includes children and older relatives who take care of family members when the family has been hurt by drug problems, including problems with opioids like prescription pain pills and heroin. The changes also say that the Assistant Secretary must regularly prepare, publish, and share information about caregiver support instead of just making it available.",
+      "word_offset": 9,
+      "char_offset": 46
+    }
+  ]
+}

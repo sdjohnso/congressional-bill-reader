@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-1606",
+  "title": "Making the CFPB Accountable to Small Businesses Act of 2025",
+  "short_title": "Making the CFPB Accountable to Small Businesses Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1606",
+  "introduced_date": "2025-02-26",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9f694faba0ae5e0b",
+  "last_updated": "2026-04-07T14:21:23.143969+00:00",
+  "plain_summary": "This bill makes new rules for the Consumer Financial Protection Bureau, which is a government agency that watches over banks and other financial companies. The agency will now have to think carefully about how their new rules might hurt small businesses before they make them. If they decide to make rules that are hard for small businesses to follow, they have to write down good reasons explaining why they chose to do that. This is the same thing that other government agencies already have to do when they make new rules.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-26",
+  "last_action_date": "2025-02-26",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Small Business, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for con",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Fitzgerald, Scott [R-WI-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "small business protection",
+    "banking rules",
+    "financial regulations",
+    "government oversight",
+    "CFPB rules",
+    "consumer protection bureau",
+    "bank regulations",
+    "small business impact",
+    "financial agency accountability",
+    "business regulatory burden"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Making the CFPB Accountable to Small Businesses Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-rulemaking-under-dodd-frank",
+      "title": "Section 2  Rulemaking Under Dodd-Frank Wall Street Reform and Consumer Protection Act",
+      "text": "This section changes the Dodd-Frank Wall Street Reform and Consumer Protection Act. When the Consumer Financial Protection Bureau (CFPB) makes new rules, they must now also consider how those rules will affect small businesses. They must follow the same process that other government agencies use when they study how their rules impact small companies.",
+      "word_offset": 19,
+      "char_offset": 108
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-initial-regulatory-flexibility-analysis",
+      "title": "Section 3  Initial Regulatory Flexibility Analysis",
+      "text": "This section changes the rules about how government agencies must study the impact of new regulations on small businesses before they finalize them. When a covered agency (which includes the CFPB) does not choose any of the alternative approaches that would be easier on small businesses, they must now write a detailed explanation. This explanation must include facts, policy reasons, and legal reasons for why they decided that the size and limited resources of small businesses should not matter when making the rule.",
+      "word_offset": 73,
+      "char_offset": 461
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-final-regulatory-flexibility-analysis",
+      "title": "Section 4  Final Regulatory Flexibility Analysis",
+      "text": "This section changes what covered agencies like the CFPB must include in their final reports about how new rules affect small businesses. The agency must describe what steps they took to reduce any extra costs that small businesses might face when trying to get credit or loans. If they did not adopt any significant alternatives that would have been easier on small businesses, they must provide a detailed explanation with facts, policy reasons, and legal reasons for why they decided that the size and limited resources of small businesses should not influence the rule.",
+      "word_offset": 156,
+      "char_offset": 982
+    }
+  ]
+}

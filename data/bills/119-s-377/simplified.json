@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-s-377",
+  "title": "Students Helping Young Students Act of 2025",
+  "short_title": "Students Helping Young Students Act of 2025",
+  "congress": 119,
+  "bill_number": "S.377",
+  "introduced_date": "2025-02-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "206a57ee9b186b15",
+  "last_updated": "2026-04-07T14:23:49.864029+00:00",
+  "plain_summary": "This bill changes the Federal Work-Study Program to let college students work at after school and before school programs at public elementary and high schools. The federal government will help pay college students for doing this work as part of their work-study jobs. Colleges should try to place students at schools that serve low-income families. This gives college students a way to earn money while helping younger students with educational activities outside of regular school hours.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-03",
+  "last_action_date": "2025-02-03",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Education of the disadvantaged",
+    "Education programs funding",
+    "Elementary and secondary education",
+    "Employment and training programs",
+    "Higher education",
+    "National and community service",
+    "Teaching, teachers, curricula",
+    "Temporary and part-time employment",
+    "Wages and earnings"
+  ],
+  "sponsor_name": "Sen. Booker, Cory A. [D-NJ]",
+  "sponsor_party": "D",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "college students working with kids",
+    "work study jobs at schools",
+    "federal funding college student jobs",
+    "college students tutoring elementary kids",
+    "after school programs college workers",
+    "work study before school programs",
+    "college students helping low income schools",
+    "federal work study program changes",
+    "college student jobs at public schools",
+    "students helping younger students",
+    "work study elementary school jobs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Students Helping Young Students Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-community-services-defined",
+      "title": "Section 2  Community Services Defined",
+      "text": "This section changes an existing law about college work study programs. It adds after school activities to the list of community service jobs that college students can do as part of their work study jobs. After school activities will be defined in another part of this law.",
+      "word_offset": 16,
+      "char_offset": 92
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-grants-for-federal-work-study-program",
+      "title": "Section 3  Grants for Federal Work-Study Program",
+      "text": "This section makes several changes to how college work study programs work. First, it allows colleges to use work study money to pay students who work in after school activities at public schools. Second, it requires the Secretary of Education to tell public elementary and high schools about this new program within one hundred eighty days after this law is passed. The Secretary must also create a way for schools to sign up for the program and set rules for how it works. Third, colleges should try to work with schools that serve low income communities first. They must also make sure student workers get proper training. Fourth, the federal government can pay more than seventy five percent of student wages for these after school jobs. Finally, this section explains what after school activities means. These are educational programs that happen when school is not in session, like after school, before school, or during summer break. They can be run by the school itself or by community groups that work with the school. An eligible school means a public elementary or high school.",
+      "word_offset": 63,
+      "char_offset": 366
+    }
+  ]
+}

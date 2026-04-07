@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2340",
+  "title": "Advancing Enrollment and Reducing Drug Costs Act",
+  "short_title": "Advancing Enrollment and Reducing Drug Costs Act",
+  "congress": 119,
+  "bill_number": "HR.2340",
+  "introduced_date": "2025-03-25",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "295577f17592982c",
+  "last_updated": "2026-04-07T14:26:20.118791+00:00",
+  "plain_summary": "This bill helps people who lose their Medicaid coverage when they turn 65 and switch to Medicare. If someone had Medicaid through the expansion program and makes less than twice the poverty level, they will automatically get extra help paying for prescription drugs under Medicare. This means they won't have to apply separately for help with their medicine costs. The goal is to make sure low-income seniors can still afford their medications after switching from Medicaid to Medicare.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-25",
+  "last_action_date": "2025-03-25",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Pappas, Chris [D-NH-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "NH",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "medicare prescription drug help",
+    "medicaid to medicare transition",
+    "senior medication costs",
+    "automatic drug coverage",
+    "low income medicare help",
+    "prescription drug assistance",
+    "medicare enrollment age 65",
+    "medicaid expansion seniors",
+    "affordable medicine seniors",
+    "medicare drug cost relief"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Advancing Enrollment and Reducing Drug Costs Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-automatic-qualification-of-certain-medicaid-beneficiaries-for-premium-and-cost-sharing-subsidies-under-part-d-of-the-medicare-program",
+      "title": "Section 2  Automatic Qualification of Certain Medicaid Beneficiaries for Premium and Cost-Sharing Subsidies Under Part D of the Medicare Program",
+      "text": "This section changes the Medicare law to help certain people get help paying for prescription drugs. When someone who had Medicaid (government health insurance for low-income people) turns sixty-five and becomes eligible for Medicare, they will automatically get extra help paying for their prescription drugs under Medicare Part D (the Medicare prescription drug program). This automatic help will only apply to people who had specific types of Medicaid coverage the day before they turned sixty-five and who make less than two hundred percent of the poverty level (which means their income is less than twice the federal poverty guidelines for their family size). The Secretary of Health and Human Services will decide how long this extra help lasts. These changes will start on January first, two thousand twenty-seven.",
+      "word_offset": 13,
+      "char_offset": 77
+    }
+  ]
+}

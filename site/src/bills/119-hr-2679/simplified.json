@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2679",
+  "title": "Cool Roof Rebate Act of 2025",
+  "short_title": "Cool Roof Rebate Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2679",
+  "introduced_date": "2025-04-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "3c985a51d6f23c17",
+  "last_updated": "2026-04-07T15:06:10.719873+00:00",
+  "plain_summary": "This bill creates a new government program that gives money back to families who buy special roofs that reflect sunlight and help keep their homes cooler. The program will run for five years from 2026 to 2030. The government has set aside 25 million dollars each year to pay for these rebates. Families can get money back after they install these cool roofs on their homes.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-07",
+  "last_action_date": "2025-04-07",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Foushee, Valerie P. [D-NC-4]",
+  "sponsor_party": "D",
+  "sponsor_state": "NC",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "cool roof rebates",
+    "energy efficient roofs",
+    "roof tax credits",
+    "home cooling savings",
+    "reflective roofing materials",
+    "government roof rebates",
+    "reduce cooling costs",
+    "energy saving roof upgrades",
+    "home improvement rebates",
+    "cool roof program"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Cool Roof Rebate Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-cool-roof-product-rebate-program",
+      "title": "Section 2  Cool Roof Product Rebate Program",
+      "text": "The Secretary of Energy must create and run a program that gives money back to qualifying families when they buy and install special roof products that keep buildings cooler.\n\nThe amount of money back depends on what type of roof and roof product you get. For low sloped roofs that are almost flat, you can get twenty five cents back for each square foot if your roof product reflects at least eighty percent of sunlight after three years and releases at least seventy five percent of heat, or if it has a Solar Reflectance Index score of at least ninety nine. You can get seventy five cents back for each square foot if your roof product reflects at least ninety percent of sunlight after three years and releases at least seventy five percent of heat, or if it has a Solar Reflectance Index score of at least one hundred fourteen.\n\nFor steep sloped roofs, the amounts are different. If you use asphalt shingles, you can get twenty five cents back for each square foot if your roof reflects at least twenty five percent of sunlight after three years and releases at least seventy five percent of heat, or if it has a Solar Reflectance Index score of at least twenty three. You can get seventy five cents back for each square foot if your asphalt shingles reflect at least forty percent of sunlight after three years and release at least seventy five percent of heat, or if they have a Solar Reflectance Index score of at least forty three.\n\nIf you use roof products that are not asphalt shingles on steep roofs, you can get twenty five cents back for each square foot if your roof reflects at least forty percent of sunlight after three years and releases at least seventy five percent of heat, or if it has a Solar Reflectance Index score of at least forty three. You can get seventy five cents back for each square foot if your roof reflects at least sixty percent of sunlight after three years and releases at least seventy five percent of heat, or if it has a Solar Reflectance Index score of at least seventy one.\n\nFamilies can still get other money or help for the same roof project even if they get money back from this program.\n\nThis program will end on September thirtieth, two thousand thirty.\n\nWithin six months after the program ends, the Secretary of Energy must send a report to Congress. The report must describe for each person who used the program whether they fixed an old roof or put on a completely new roof, what old roof material they replaced if they fixed an old roof, and what cool roof product they bought with the rebate money.\n\nCongress approves spending twenty five million dollars each year from two thousand twenty six through two thousand thirty to run this program. Congress also approves spending six hundred thousand dollars to update a computer tool called the Cool Roof Calculator that was made by Oak Ridge National Laboratory and Lawrence Berkeley National Laboratory.\n\nThis section also defines important terms. Three year aged means the roof material has been tested after being exposed to weather for three years or after lab testing that copies three years of weather exposure. This testing follows the most recent standards from the American National Standards Institute and the Cool Roof Rating Council. An asphalt shingle is a type of roofing made from glass felt soaked and coated with asphalt and covered with mineral pieces on the weather side. A blackbody radiator is something that perfectly absorbs and gives off heat. An eligible cool roof product is any roof product that has been rated by the Cool Roof Rating Council.\n\nAn eligible household is a person or family living in a single family home or apartment building whose total yearly income is less than two hundred percent of the median income in their ZIP code according to the Department of Housing and Urban Development, and who lives in a ZIP code area that ranks in the seventy fifth percentile or higher on the Heat and Health Index from the Centers for Disease Control and Prevention. For people living in Washington DC, Alaska, Hawaii, or US territories, they only need to meet the income requirement until their area is added to the Heat and Health Index.\n\nOther technical terms include incident solar flux which means the amount of sun power that hits a surface per unit area, low sloped roof which means a roof with a slope of two to twelve or less, radiant heat flux which means the amount of heat power given off per unit area, reflected solar flux which means the amount of sun power bounced back from a surface per unit area, Secretary which means the Secretary of Energy, solar reflectance which means the ratio of reflected sunlight to incoming sunlight, Solar Reflectance Index which means a calculated number that combines how well a roof reflects sunlight with how well it releases heat, steep sloped roof which means a roof with a slope greater than two to twelve, and thermal emittance which means how well a material gives off heat compared to a perfect heat radiator at the same temperature.",
+      "word_offset": 15,
+      "char_offset": 77
+    }
+  ]
+}

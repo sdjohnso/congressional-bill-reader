@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-272",
+  "title": "Expressing the sense of the House of Representatives that the United States seeks to restore peace in Ukraine.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.272",
+  "introduced_date": "2025-03-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "13e1db9c92b960c0",
+  "last_updated": "2026-04-07T14:56:58.977126+00:00",
+  "plain_summary": "This bill is about the House of Representatives wanting peace in Ukraine. They support trying to end the war there but don't want to make the fighting worse. The bill says America should stop spending money on the Ukraine war. Instead, the United States should use that money to protect its own borders.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-31",
+  "last_action_date": "2025-03-31",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Ukraine war",
+    "peace in Ukraine",
+    "stop funding Ukraine",
+    "end Ukraine conflict",
+    "America first",
+    "border security",
+    "stop sending money overseas",
+    "Ukraine military aid",
+    "bring peace to Ukraine",
+    "focus on American borders",
+    "Ukraine spending",
+    "end foreign wars"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution expresses what the House of Representatives thinks about the United States trying to bring peace back to Ukraine.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "background-statements",
+      "title": "Background Statements",
+      "text": "The House of Representatives notes that the United States has said its goal in Ukraine is to bring peace between Ukraine and Russia. The United States wants to keep the war from getting bigger or worse. However, the countries fighting in this war have said no to American efforts to make peace many times.",
+      "word_offset": 20,
+      "char_offset": 130
+    },
+    {
+      "id": "s3",
+      "slug": "house-position",
+      "title": "House Position",
+      "text": "The House of Representatives says it supports the Trump administration's work to bring peace between Ukraine and Russia without making the war bigger or worse. The House also says that the United States should not spend any more money, resources, or people helping in the war between Russia and Ukraine. All military advisors, intelligence workers, and government staff should stop participating in the war. The United States Government should focus on America first and protect our own borders instead of protecting the borders of countries far away. The United States should stop sharing intelligence information with the Ukrainian Government and with European intelligence agencies that leak shared United States intelligence information against what this resolution says.",
+      "word_offset": 74,
+      "char_offset": 436
+    }
+  ]
+}

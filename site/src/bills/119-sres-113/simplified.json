@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-sres-113",
+  "title": "A resolution reaffirming the fundamental principle prohibiting any state from forcibly acquiring the territory of another state.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.113",
+  "introduced_date": "2025-03-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e52ea83ffcd406b8",
+  "last_updated": "2026-04-07T14:46:56.606851+00:00",
+  "plain_summary": "This Senate resolution states that no country should use force or violence to take land away from another country. The resolution was written because Russia invaded Ukraine and took some of its territory. The Senate wants to make it clear that using military force to steal land from other nations is wrong and against international rules. This resolution reaffirms an important principle that helps keep peace between countries around the world.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-05",
+  "last_action_date": "2025-03-05",
+  "last_action_text": "Referred to the Committee on Foreign Relations. (text: CR S1584)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Welch, Peter [D-VT]",
+  "sponsor_party": "D",
+  "sponsor_state": "VT",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "territorial integrity",
+    "foreign invasion",
+    "land grabbing",
+    "military occupation",
+    "Ukraine Russia conflict",
+    "international law",
+    "peaceful borders",
+    "sovereign territory",
+    "forced annexation",
+    "country boundaries",
+    "war resolution",
+    "territorial disputes"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution reaffirms the basic rule that no country should forcibly take territory from another country.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Facts",
+      "text": "The Russian military invaded Ukraine and continues to control parts of Ukrainian territory that belong to Ukraine. President Reagan once said that America must support all democratic allies and must not abandon those who are risking their lives to fight against Soviet-backed attacks and to protect the rights we have always had.",
+      "word_offset": 16,
+      "char_offset": 110
+    },
+    {
+      "id": "s3",
+      "slug": "resolution-statement",
+      "title": "Senate Resolution",
+      "text": "Therefore, the Senate confirms again the basic principle that no country should threaten to use force or actually use force against the territorial boundaries or political independence of any other country.",
+      "word_offset": 68,
+      "char_offset": 440
+    }
+  ]
+}

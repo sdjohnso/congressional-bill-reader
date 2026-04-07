@@ -1,0 +1,69 @@
+{
+  "bill_id": "119-sres-82",
+  "title": "An original resolution authorizing expenditures by the Committee on Commerce, Science, and Transportation.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "SRES.82",
+  "introduced_date": "2025-02-19",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "0ab4893578eb6c2f",
+  "last_updated": "2026-04-07T15:03:49.840375+00:00",
+  "plain_summary": "This bill gives permission to a Senate committee called Commerce, Science, and Transportation to spend money and hire people to do their work. The committee can spend more than 21 million dollars over about two years, from March 2025 to February 2027. The money will be used to pay for staff, consultants, and training so the committee can do its job of making laws about business, science, and transportation issues.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-19",
+  "last_action_date": "2025-02-19",
+  "last_action_text": "Referred to the Committee on Rules and Administration. (consideration: CR S1041-1042)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "Senate Committee on Commerce, Science, and Transportation"
+  ],
+  "sponsor_name": "Sen. Cruz, Ted [R-TX]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "senate committee funding",
+    "commerce science transportation money",
+    "congressional spending authorization",
+    "committee budget approval",
+    "senate committee expenses",
+    "government committee funding",
+    "congressional committee money",
+    "senate spending permission",
+    "committee staff hiring",
+    "government committee budget"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-general-authority",
+      "title": "Section 1. General Authority",
+      "text": "The Committee on Commerce, Science, and Transportation has the power to do its work under Senate rules. This includes holding hearings, reporting on those hearings, and conducting investigations. From March first, two thousand twenty-five through February twenty-eighth, two thousand twenty-seven, the committee can spend money from the Senate's emergency fund, hire staff, and use workers from government departments or agencies. If the committee uses workers from other government parts, it needs permission from both that department and the Committee on Rules and Administration. The committee may or may not have to pay those departments back for using their workers.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-expenses",
+      "title": "Section 2. Expenses",
+      "text": "The committee can spend different amounts of money during three time periods. From March first, two thousand twenty-five through September thirtieth, two thousand twenty-five, the committee can spend up to six million two hundred fifty-nine thousand six hundred ninety-three dollars. From October first, two thousand twenty-five through September thirtieth, two thousand twenty-six, the committee can spend up to ten million seven hundred thirty thousand nine hundred three dollars. From October first, two thousand twenty-six through February twenty-eighth, two thousand twenty-seven, the committee can spend up to four million four hundred seventy-one thousand two hundred ten dollars. During each time period, the committee can spend up to one hundred thousand dollars to hire outside consultants or consultant companies. The committee can also spend up to one hundred thousand dollars during each period to train its professional staff members.",
+      "word_offset": 99,
+      "char_offset": 672
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-expenses-and-agency-contributions",
+      "title": "Section 3. Expenses and Agency Contributions",
+      "text": "The committee's expenses will be paid from the Senate's emergency fund when the committee chairman approves payment vouchers (official requests for payment). However, the committee does not need vouchers for certain regular payments. These include salaries for yearly employees, phone and internet services from the Senate security office, office supplies from the Senate supply keeper, payments to the Senate post office, copy machine charges from the Senate security office, Senate recording and photography services, and mail costs paid by the Senate security officer. The Senate also has a special account called Expenses of Inquiries and Investigations that will pay the government's share of employee benefits and retirement costs for committee workers during all three time periods.",
+      "word_offset": 236,
+      "char_offset": 1621
+    }
+  ]
+}

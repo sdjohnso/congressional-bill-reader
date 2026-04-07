@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hres-273",
+  "title": "Expressing support for the diplomatic relations required to encourage the Government of Mexico to fulfill its water deliveries on an annual basis to the United States under the treaty between the United States and Mexico regarding the utilization of the Colorado and Tijuana Rivers and of the Rio Grande.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.273",
+  "introduced_date": "2025-03-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "8be2066dfdd4e64d",
+  "last_updated": "2026-04-07T15:17:33.266355+00:00",
+  "plain_summary": "This bill is about a water agreement between the United States and Mexico from 1944. Mexico is supposed to give water to the US every year, but they have been waiting and giving it all at once every five years instead. This is causing problems for farmers in south Texas because they don't have enough water when they need it. The bill asks the US government to work with Mexico through talks to make sure Mexico sends the water every year like they promised.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-31",
+  "last_action_date": "2025-03-31",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. De La Cruz, Monica [R-TX-15]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Mexico water treaty",
+    "Texas farmers water shortage",
+    "Rio Grande water agreement",
+    "Colorado River Mexico",
+    "water deliveries from Mexico",
+    "1944 water treaty",
+    "south Texas irrigation",
+    "Mexico water debt",
+    "cross border water rights",
+    "farming water crisis Texas"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution expresses support for the diplomatic relations required to encourage the Government of Mexico to fulfill its water deliveries on an annual basis to the United States under the treaty between the United States and Mexico regarding the utilization of the Colorado and Tijuana Rivers and of the Rio Grande.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Background Information",
+      "text": "A treaty between the United States and Mexico was signed in Washington in February nineteen forty-four. This treaty requires Mexico to send at least three hundred fifty thousand acre-feet of water to the United States every year on average over a five-year period. An acre-foot is the amount of water needed to cover one acre of land with one foot of water. Mexico often waits until the end of the five-year period to send all the water they owe instead of sending it every year. This causes water shortages for farmers in south Texas each year.",
+      "word_offset": 51,
+      "char_offset": 320
+    },
+    {
+      "id": "s3",
+      "slug": "house-resolution",
+      "title": "House Resolution",
+      "text": "The House of Representatives supports diplomatic relations that encourage Mexico to fulfill its water delivery commitments to the United States every year under the nineteen forty-four treaty. The House encourages Mexico to meet these water commitments on an annual basis rather than waiting until the end of the five-year cycle. The House acknowledges that farmers in south Texas are experiencing water shortages because of this problem. The House encourages new agreements to make sure the United States receives annual deliveries of at least three hundred fifty thousand acre-feet of water under this treaty.",
+      "word_offset": 147,
+      "char_offset": 866
+    }
+  ]
+}

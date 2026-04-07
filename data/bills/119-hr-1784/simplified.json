@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1784",
+  "title": "Medicare Fraud Detection and Deterrence Act of 2025",
+  "short_title": "Medicare Fraud Detection and Deterrence Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1784",
+  "introduced_date": "2025-03-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2a742a73e1c95416",
+  "last_updated": "2026-04-07T14:51:02.544867+00:00",
+  "plain_summary": "This bill makes new rules to catch Medicare fraud and stop bad actors from cheating the system. When doctors or other healthcare providers get banned from Medicare for fraud or abuse, the government must shut down their special ID numbers so they cannot keep billing Medicare. The bill also requires Medicare Advantage plans to include provider ID numbers when they report certain services like medical equipment, lab tests, and home health care. Finally, doctors who work for telehealth companies must use special billing codes when they provide care over the phone or computer so the government can better track these services.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-03",
+  "last_action_date": "2025-03-03",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Doggett, Lloyd [D-TX-37]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "Medicare fraud",
+    "healthcare fraud",
+    "doctor billing scams",
+    "Medicare cheating",
+    "fake medical bills",
+    "healthcare scams",
+    "Medicare abuse",
+    "telehealth fraud",
+    "medical ID numbers",
+    "Medicare Advantage fraud",
+    "healthcare provider fraud",
+    "medical billing fraud"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Medicare Fraud Detection and Deterrence Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-strengthening-health-care-waste-fraud-and-abuse-provisions",
+      "title": "Section 2  Strengthening Health Care Waste, Fraud, and Abuse Provisions",
+      "text": "This section makes changes to strengthen rules that fight health care waste, fraud, and abuse. First, it requires the government to shut down the identification numbers (called National Provider Identifiers) of health care providers who are banned from government health programs. These identification numbers must be shut down within one hundred eighty days after this law passes. For some types of providers, the Inspector General must ask for the shutdown and the Secretary must agree it is right to do. The numbers get turned back on when the ban ends. However, if the Secretary has given a special waiver allowing the banned provider to work in some programs, their number will not be shut down. Every year, the Secretary must check the list of banned providers against the list of active identification numbers to make sure the rules are being followed. Second, Medicare Advantage plans must now include the identification number of the doctor or provider who ordered certain items or services when they report information to the government. This applies to medical equipment like wheelchairs, artificial limbs and braces, lab tests, imaging tests like X-rays, and home health services. If the plan does not include this information or uses a number that is not active, the government will reject their report. Third, doctors and other health care providers who work for telehealth companies must use a special code on their bills when providing remote health services. A telehealth company is one that hires doctors mainly to provide remote services rather than in-person care. The Secretary must create this special code within one hundred eighty days. No payment will be made for remote health services from these providers unless they use the required code.",
+      "word_offset": 17,
+      "char_offset": 100
+    }
+  ]
+}

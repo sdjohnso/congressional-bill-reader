@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1537",
+  "title": "District of Columbia Superior Court Jury Duty for Seniors Opt Out Act of 2025",
+  "short_title": "District of Columbia Superior Court Jury Duty for Seniors Opt Out Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1537",
+  "introduced_date": "2025-02-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "91f4264440da4de6",
+  "last_updated": "2026-04-07T14:12:27.531177+00:00",
+  "plain_summary": "This bill changes the rules for jury duty in Washington DC. People who are 70 years old or older can now choose not to serve on a jury if they don't want to. They just have to ask the court to excuse them from jury duty. The court will let them skip jury service because of their age.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-24",
+  "last_action_date": "2025-02-24",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Law",
+  "subjects": [],
+  "sponsor_name": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+  "sponsor_party": "D",
+  "sponsor_state": "DC",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "jury duty",
+    "seniors",
+    "elderly",
+    "70 years old",
+    "Washington DC",
+    "skip jury service",
+    "court duty",
+    "older adults",
+    "jury exemption",
+    "DC courts",
+    "retirement age",
+    "jury opt out"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the District of Columbia Superior Court Jury Duty for Seniors Opt Out Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-permitting-individuals-70-years-of-age-or-older-to-opt-out-of-jury-service",
+      "title": "Section 2 Permitting Individuals 70 Years of Age or Older to Opt Out of Jury Service in Superior Court of the District of Columbia",
+      "text": "This section changes the law about jury duty in Washington DC. It adds a new rule that lets people who are seventy years old or older choose not to serve on a jury if they ask the court to excuse them. The court must excuse them from jury duty if they make this request.",
+      "word_offset": 23,
+      "char_offset": 126
+    }
+  ]
+}

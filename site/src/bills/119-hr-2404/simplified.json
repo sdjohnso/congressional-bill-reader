@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2404",
+  "title": "Remote Opioid Monitoring Act of 2025",
+  "short_title": "Remote Opioid Monitoring Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2404",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b30843bde2266b01",
+  "last_updated": "2026-04-07T14:18:31.031889+00:00",
+  "plain_summary": "This bill tells a government office called the Government Accountability Office to study technology that can watch people from far away when they take strong pain medicines called opioids. The study needs to find out how well this watching technology works and how many people use it. The office also needs to give ideas about how to make this technology easier for people to get through government health programs. The goal is to help keep people safe when they take these powerful pain medicines.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Balderson, Troy [R-OH-12]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "opioid monitoring",
+    "pain medication tracking",
+    "remote patient monitoring",
+    "prescription drug surveillance",
+    "opioid safety technology",
+    "medication compliance tracking",
+    "pain medicine oversight",
+    "digital health monitoring",
+    "opioid abuse prevention",
+    "prescription monitoring programs",
+    "patient safety technology",
+    "drug monitoring devices"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Remote Opioid Monitoring Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-providing-for-a-study-on-the-effects-of-remote-monitoring-on-individuals-who-are-prescribed-opioids",
+      "title": "Section 2  Providing for a Study on the Effects of Remote Monitoring on Individuals Who Are Prescribed Opioids",
+      "text": "Within eighteen months after this law takes effect, the Comptroller General of the United States (the head of the Government Accountability Office who reviews how the government spends money) must do a study and send a report to three committees in Congress. The report must be about using remote monitoring for people who are prescribed opioids. Opioids are strong pain medicines that can be addictive. Remote monitoring means using technology to track patients from a distance instead of requiring them to visit a doctor's office in person. The report must include three main parts. First, it must look at scientific research about how well remote monitoring works for people taking opioids. This includes whether it helps patients get better results and whether it saves money compared to people who are not monitored this way. Second, it must examine how common remote monitoring is right now for people taking opioids, including how other countries use this type of monitoring. Third, it must provide suggestions for making remote monitoring more available and accessible for people prescribed opioids. This includes recommending changes to federal health care programs like Medicare and Medicaid. If the Comptroller General thinks it is appropriate, the report should also identify which groups of people would benefit the most from remote monitoring when they are prescribed opioids.",
+      "word_offset": 15,
+      "char_offset": 85
+    }
+  ]
+}

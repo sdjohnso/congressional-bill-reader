@@ -1,0 +1,50 @@
+{
+  "bill_id": "119-hres-204",
+  "title": "Removing a certain Member from a certain standing committee of the House.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.204",
+  "introduced_date": "2025-03-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "530f5d4ac7fa0187",
+  "last_updated": "2026-04-07T14:15:47.186154+00:00",
+  "plain_summary": "This bill removes Representative Green from Texas from the House Financial Services Committee. He got in trouble because he interrupted the President during the State of the Union speech. Even after he was told to stop being disruptive, he kept acting out. The House says his behavior broke the rules that require members to act properly at all times. As punishment, he is being kicked off this important committee.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-10",
+  "last_action_date": "2025-03-10",
+  "last_action_text": "Referred to the House Committee on Ethics.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [],
+  "sponsor_name": "Rep. Crane, Elijah [R-AZ-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 10,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Representative Green",
+    "Texas congressman",
+    "House committee removal",
+    "Financial Services Committee",
+    "State of the Union interruption",
+    "disruptive behavior",
+    "congressman punishment",
+    "House rules violation",
+    "committee discipline",
+    "political misconduct"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-removing-member-from-committee",
+      "title": "Resolution: Removing a certain Member from a certain standing committee of the House",
+      "text": "This resolution removes Representative Green of Texas from the House Committee on Financial Services. The resolution explains that during the President's State of the Union speech on March fourth, two thousand twenty five, Representative Green interrupted the President's remarks. Even after House staff and the Speaker told him to stop, Representative Green kept interrupting. The Sergeant at Arms had to remove him from the joint session. The resolution states that Representative Green's behavior broke the rules of proper conduct and hurt the reputation of the House. When the House voted to censure him on March sixth, two thousand twenty five, Representative Green said he would do it again and that he spoke out on purpose. He also led other members in protesting his censure, which the resolution says further violated House rules. The House rules require all members to behave in ways that reflect well on the House at all times. Because of this conduct, the resolution removes Representative Green from the Committee on Financial Services.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

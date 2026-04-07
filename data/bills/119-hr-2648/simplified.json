@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-2648",
+  "title": "Secure Background Checks Act of 2025",
+  "short_title": "Secure Background Checks Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2648",
+  "introduced_date": "2025-04-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "1f0382bc769635bd",
+  "last_updated": "2026-04-07T15:07:07.749752+00:00",
+  "plain_summary": "This bill creates new rules about who can buy guns and where they can buy them. It says people must meet their state's age requirements to get a gun. It also says people generally have to buy guns in the state where they live. If someone breaks these new rules, they could get in trouble with the law and face criminal penalties.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-03",
+  "last_action_date": "2025-04-03",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [],
+  "sponsor_name": "Rep. Neguse, Joe [D-CO-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "CO",
+  "cosponsor_count": 4,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "gun background checks",
+    "buying guns",
+    "gun purchase rules",
+    "where to buy firearms",
+    "gun age requirements",
+    "gun buying restrictions",
+    "firearm purchase laws",
+    "gun store regulations",
+    "buying guns out of state",
+    "gun purchase penalties"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Secure Background Checks Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-age-and-residential-requirement",
+      "title": "Section 2 Age and Residential Requirement",
+      "text": "This section changes the federal law about who cannot have guns. The law already lists certain people who are not allowed to ship, transport, own, or receive guns and bullets. This section adds two new groups to that list. First, it adds people who do not meet the age requirements that gun dealers must follow in their own state. Second, it adds people who do not live in the same state as the gun dealer they want to buy from, unless they qualify for special exceptions that already exist in the law.",
+      "word_offset": 15,
+      "char_offset": 85
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-penalties",
+      "title": "Section 3 Penalties",
+      "text": "This section changes the punishment rules in federal law. It makes sure that people who break the new age and location rules from Section two will face the same criminal penalties that already exist for other gun law violations.",
+      "word_offset": 107,
+      "char_offset": 588
+    }
+  ]
+}

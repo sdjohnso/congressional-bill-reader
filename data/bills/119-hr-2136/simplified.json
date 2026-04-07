@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2136",
+  "title": "SHRED Act of 2025",
+  "short_title": "SHRED Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2136",
+  "introduced_date": "2025-03-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9260c7aff18a36da",
+  "last_updated": "2026-04-07T14:14:59.734097+00:00",
+  "plain_summary": "The SHRED Act of 2025 makes new rules for people who work at the Department of Justice and intelligence agencies. If these workers hide, take away, or destroy important government papers, they will get in very serious trouble. They could go to prison for at least twenty years or even for the rest of their lives. This law is meant to make sure government workers do not get rid of records they are supposed to keep.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-14",
+  "last_action_date": "2025-03-14",
+  "last_action_text": "Referred to the House Committee on the Judiciary.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [],
+  "sponsor_name": "Rep. Luna, Anna Paulina [R-FL-13]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government documents",
+    "destroying records",
+    "DOJ employees",
+    "intelligence agencies",
+    "hiding paperwork",
+    "government workers prison",
+    "destroying evidence",
+    "federal records",
+    "justice department punishment",
+    "government accountability",
+    "keeping government papers",
+    "records destruction penalties"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Stopping High-level Record Elimination and Destruction Act of two thousand twenty-five or the SHRED Act of two thousand twenty-five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-increased-penalties-for-concealment-removal-or-mutilation-of-government-records",
+      "title": "Section 2  Increased Penalties for Concealment, Removal, or Mutilation of Government Records for Officers and Employees of the Department of Justice and the Intelligence Community",
+      "text": "This section changes the federal criminal law about destroying government records. It adds new punishments for people who work for the Department of Justice or intelligence agencies like the CIA or FBI. If these workers hide, remove, or destroy government records, they will face much harsher punishments than other government workers. They must be sent to prison for at least twenty years or for life. They can also be fined money. The intelligence community means all the government agencies that gather information to protect national security, as defined by another federal law.",
+      "word_offset": 25,
+      "char_offset": 160
+    }
+  ]
+}

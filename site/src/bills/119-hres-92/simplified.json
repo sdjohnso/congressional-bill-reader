@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hres-92",
+  "title": "Providing amounts for the expenses of the Permanent Select Committee on Intelligence in the One Hundred Nineteenth Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.92",
+  "introduced_date": "2025-02-04",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7becb3a963873e20",
+  "last_updated": "2026-04-07T14:30:41.771590+00:00",
+  "plain_summary": "This bill gives money to the House Intelligence Committee to pay for their work during the next two years. The committee will get almost twenty million dollars total. The money is divided between two one-year periods and must be spent following special rules. The House Administration Committee will oversee how the money gets used.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-04",
+  "last_action_date": "2025-02-04",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "House Permanent Select Committee on Intelligence"
+  ],
+  "sponsor_name": "Rep. Crawford, Eric A. \"Rick\" [R-AR-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "AR",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "house intelligence committee",
+    "intelligence committee funding",
+    "congress intelligence budget",
+    "house intelligence money",
+    "congressional committee expenses",
+    "intelligence committee spending",
+    "house committee budget",
+    "congressional intelligence funding",
+    "committee operating costs",
+    "house intelligence operations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-amounts-for-committee-expenses",
+      "title": "Section 1 Amounts for Committee Expenses",
+      "text": "The House of Representatives will pay for the expenses of the Permanent Select Committee on Intelligence during the One Hundred Nineteenth Congress. This includes paying for all staff salaries and other committee costs. The total amount that can be spent is no more than nineteen million two hundred forty thousand nine hundred twenty eight dollars. This money will come from the House accounts that are set aside for committee salaries and expenses.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-session-limitations",
+      "title": "Section 2 Session Limitations",
+      "text": "The money from Section 1 will be divided between two time periods. During the first session from noon on January third two thousand twenty five until noon on January third two thousand twenty six, no more than nine million five hundred thirty eight thousand nine hundred eighty three dollars can be spent. During the second session from noon on January third two thousand twenty six until noon on January third two thousand twenty seven, no more than nine million seven hundred one thousand nine hundred forty five dollars can be spent.",
+      "word_offset": 72,
+      "char_offset": 451
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-vouchers",
+      "title": "Section 3 Vouchers",
+      "text": "All payments made under this resolution must follow a specific process. The Committee must approve each expense through a voucher (a written request for payment). The Chairman of the Committee must sign each voucher. The Committee on House Administration must also approve the payment in the way they direct.",
+      "word_offset": 163,
+      "char_offset": 988
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-regulations",
+      "title": "Section 4 Regulations",
+      "text": "All money provided by this resolution must be spent according to the rules set by the Committee on House Administration. The committee must follow these regulations when spending any of the approved funds.",
+      "word_offset": 212,
+      "char_offset": 1297
+    }
+  ]
+}

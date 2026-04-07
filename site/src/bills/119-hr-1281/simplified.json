@@ -1,0 +1,74 @@
+{
+  "bill_id": "119-hr-1281",
+  "title": "Natural GAS Act of 2025",
+  "short_title": "Natural GAS Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1281",
+  "introduced_date": "2025-02-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a504cde866abacd8",
+  "last_updated": "2026-04-07T14:57:59.554302+00:00",
+  "plain_summary": "The Natural GAS Act of 2025 changes how the government makes rules about how much energy gas appliances can use. The bill requires the government to study all the energy used by appliances and promises that new rules will not force people to stop using gas appliances like water heaters and stoves. It also protects small companies that make appliances from having to follow rules that are too hard for them. The bill makes sure that energy labels on appliances are clear so people can understand how much energy their appliances use.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-13",
+  "last_action_date": "2025-02-13",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Bice, Stephanie I. [R-OK-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "gas appliances",
+    "energy efficiency rules",
+    "gas stoves",
+    "gas water heaters",
+    "appliance regulations",
+    "energy labels",
+    "government energy rules",
+    "natural gas appliances",
+    "energy usage standards",
+    "small appliance companies"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Natural Gas Appliances Standards Act of two thousand twenty five or the Natural GAS Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-rule-requirements-for-water-heaters",
+      "title": "Section 2. Rule Requirements for Water Heaters",
+      "text": "This section changes the Energy Policy and Conservation Act by adding new rules for water heaters. When the government makes any new rules about water heaters after this law passes, they must do two things. First, they must study how much energy is used through the entire process of getting fuel to the water heater and using it. This is called a full fuel cycle analysis and must follow guidelines from a National Academies report from two thousand nine. Second, they must promise in writing that the new rule will not cause many people to switch from gas water heaters to electric water heaters when building homes, businesses, or replacing old water heaters. Any new water heater rules must also follow these requirements. The rules cannot apply to small companies that make major household appliances. These small companies are defined by federal regulations. The rules must also require that energy information be shown clearly on labels that the Federal Trade Commission requires on water heaters. These labels must be easy for customers to see when they are buying the water heater.",
+      "word_offset": 26,
+      "char_offset": 144
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-rule-requirements-for-furnaces-and-boilers",
+      "title": "Section 3. Rule Requirements for Furnaces and Boilers",
+      "text": "This section changes the Energy Policy and Conservation Act by removing some existing text and adding new rules for furnaces and boilers. When the government makes any new rules about furnaces or boilers after this law passes, they must do two things. First, they must study how much energy is used through the entire process of getting fuel to the furnace or boiler and using it. This is called a full fuel cycle analysis and must follow guidelines from a National Academies report from two thousand nine. Second, they must promise in writing that the new rule will not cause many people to switch from gas furnaces or boilers to electric furnaces or boilers when building homes, businesses, or replacing old equipment. Any new furnace and boiler rules must also follow these requirements. The rules cannot apply to small companies that make major household appliances. These small companies are defined by federal regulations. The rules must also require that energy information be shown clearly on labels that the Federal Trade Commission requires on water heaters. These labels must be easy for customers to see when they are buying the equipment.",
+      "word_offset": 207,
+      "char_offset": 1235
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-rule-requirements-for-cooktops-ranges-and-ovens",
+      "title": "Section 4. Rule Requirements for Cooktops, Ranges, and Ovens",
+      "text": "This section changes the Energy Policy and Conservation Act by adding new rules for kitchen cooktops, ranges, and ovens. When the government makes any new rules about these kitchen appliances after this law passes, they must do two things. First, they must study how much energy is used through the entire process of getting fuel to the appliance and using it. This is called a full fuel cycle analysis and must follow guidelines from a National Academies report from two thousand nine. Second, they must promise in writing that the new rule will not cause many people to switch from gas kitchen appliances to electric kitchen appliances when building homes, businesses, or replacing old appliances. Any new rules for these kitchen appliances must also follow these requirements. The rules cannot limit the features available on gas kitchen appliances. This means gas appliances must still be able to boil water quickly, have different numbers and sizes of burners including ones for gentle cooking and high heat cooking, and have continuous grates. The rules cannot apply to small companies that make major household appliances. These small companies are defined by federal regulations. The rules must also require that energy information be shown clearly on labels that the Federal Trade Commission requires on kitchen appliances. These labels must be easy for customers to see when they are buying the appliance.",
+      "word_offset": 397,
+      "char_offset": 2387
+    }
+  ]
+}

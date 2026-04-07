@@ -1,0 +1,50 @@
+{
+  "bill_id": "119-hjres-52",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Housing Finance Agency relating to \"Quality Control Standards for Automated Valuation Models\".",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.52",
+  "introduced_date": "2025-02-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "dd89959abc3403ce",
+  "last_updated": "2026-04-07T14:40:17.372429+00:00",
+  "plain_summary": "Congress wants to stop a new rule made by a government agency called the Federal Housing Finance Agency. This rule is about computer programs that guess how much houses and other properties are worth. If Congress passes this resolution, the rule will be thrown out and will not become law. This means the computer programs that estimate property values would not have to follow the new standards the agency wanted to create.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-12",
+  "last_action_date": "2025-02-12",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Housing and Community Development",
+  "subjects": [],
+  "sponsor_name": "Rep. Clyde, Andrew S. [R-GA-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "house values",
+    "property appraisal",
+    "home price estimates",
+    "computer valuation",
+    "real estate pricing",
+    "automated property values",
+    "housing appraisal software",
+    "home worth calculator",
+    "property value computers",
+    "real estate estimate programs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution",
+      "title": "Joint Resolution",
+      "text": "Congress officially rejects a rule created by the Federal Housing Finance Agency. This rule was about quality control standards for automated valuation models (computer programs that estimate property values). The rule was published in the Federal Register on August seventh, two thousand twenty-four. Because Congress is rejecting this rule, it will have no legal power and cannot be enforced.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

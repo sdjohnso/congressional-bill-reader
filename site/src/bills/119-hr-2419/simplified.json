@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-2419",
+  "title": "Patient Fairness Act of 2025",
+  "short_title": "Patient Fairness Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2419",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2da6588f3a8a97e9",
+  "last_updated": "2026-04-07T14:39:14.314234+00:00",
+  "plain_summary": "The Patient Fairness Act of 2025 makes it easier for people to save money for medical expenses. The bill lets anyone put money into health savings accounts no matter what kind of health insurance they have. It also lets people put more money into these accounts than before. When someone dies, their family members can inherit the health savings account without paying extra taxes. The bill also makes hospitals follow rules about showing how much their services cost.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "health savings account",
+    "medical expenses",
+    "save money for healthcare",
+    "hospital costs",
+    "healthcare prices",
+    "medical bills",
+    "health insurance",
+    "inherit medical savings",
+    "hospital price transparency",
+    "healthcare savings",
+    "medical expense account",
+    "healthcare affordability"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Patient Fairness Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modifications-to-health-savings-accounts",
+      "title": "Section 2 Modifications to Health Savings Accounts",
+      "text": "This section changes the rules for health savings accounts. A health savings account is a special bank account where people can save money to pay for medical expenses without paying taxes on it. First, anyone can now put money into these accounts and get tax deductions, not just people with certain types of health insurance plans. Second, people with these accounts can now buy any kind of health insurance they want without losing their account benefits. Third, the amount people can put into these accounts each year is increased. Single people can put in eight thousand dollars per year, and married couples filing taxes together can put in sixteen thousand dollars per year. For each child or dependent they have, they can add another three thousand dollars for single people or six thousand dollars for married couples. People who are fifty five years old or older can put in an extra three thousand dollars if they are single, or an extra six thousand dollars if they are married and both spouses are fifty five or older. Fourth, when someone with a health savings account dies, their relatives can move the money from the dead person's account into their own health savings account within sixty days without paying taxes on it. These changes will start on January first, two thousand twenty six.",
+      "word_offset": 14,
+      "char_offset": 77
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-hospital-price-transparency",
+      "title": "Section 3 Hospital Price Transparency",
+      "text": "This section makes existing federal rules about hospital price transparency into official law. These rules require hospitals to publicly share information about how much they charge for medical services.",
+      "word_offset": 235,
+      "char_offset": 1382
+    }
+  ]
+}

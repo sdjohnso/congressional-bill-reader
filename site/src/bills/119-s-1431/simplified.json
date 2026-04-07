@@ -1,0 +1,124 @@
+{
+  "bill_id": "119-s-1431",
+  "title": "School Meal Modernization and Hunger Elimination Act",
+  "short_title": "School Meal Modernization and Hunger Elimination Act",
+  "congress": 119,
+  "bill_number": "S.1431",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e4ecbe4f71b497ff",
+  "last_updated": "2026-04-07T14:31:33.759370+00:00",
+  "plain_summary": "This bill makes it easier for kids to get free meals at school without having to fill out lots of paperwork. It lets more children automatically qualify for free school meals and requires states to use information they already have from programs like Medicaid to sign kids up. The bill also gives money to states to make their systems work better and lets five states test giving free meals to all students in their schools. The goal is to make sure more hungry children can get the food they need at school.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Sen. Fetterman, John [D-PA]",
+  "sponsor_party": "D",
+  "sponsor_state": "PA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "free school meals",
+    "school lunch program",
+    "hungry kids",
+    "school breakfast",
+    "free food at school",
+    "school nutrition",
+    "child hunger",
+    "school meal paperwork",
+    "automatic enrollment school meals",
+    "medicaid school lunch",
+    "universal school meals",
+    "feeding children at school"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the School Meal Modernization and Hunger Elimination Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-direct-certification",
+      "title": "Section 2 Direct Certification",
+      "text": "This section changes the rules about direct certification. Direct certification means that certain children automatically qualify for free or reduced price school meals without their families having to fill out paperwork. The changes require schools to automatically qualify more children for free meals. Schools must now automatically qualify children in these situations: when a child lives with a caregiver who was placed there by a state child welfare agency or tribal child welfare agency, when a child receives adoption assistance payments from the government, when a child receives kinship guardianship assistance payments from the government even if they were not in foster care before, when a child lives in low income housing with a grandparent or other older caregiver, when a child lives in housing provided under the Native American Housing Assistance law, or when a child receives supplemental security income payments. Schools that operate under the Bureau of Indian Education must also follow these rules. These changes must happen within three school years.",
+      "word_offset": 13,
+      "char_offset": 81
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-eligibility-of-transferred-children-retroactive-reimbursement",
+      "title": "Section 3 Eligibility of Transferred Children and Retroactive Reimbursement",
+      "text": "This section creates new rules for children who move from one school district to another and for paying families back when meal eligibility changes. When a child who already qualifies for free or reduced price meals moves to a new school district, the new district must honor that qualification for the same time period it was originally approved. If the child moved to live with a grandparent or other relative who has legal authority to care for them during the past year, the new school district must extend the qualification for one extra year. Schools must also pay the government back for meals when a child's eligibility changes during the school year. For example, if a child becomes eligible for free meals in the middle of the year, the school must ask for payment for all those free meals back to the beginning of the school year. When schools receive this extra money from the government, they must pay back families for any meal fees the families paid before the eligibility change happened.",
+      "word_offset": 177,
+      "char_offset": 1156
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-expanding-automatic-eligibility",
+      "title": "Section 4 Expanding Automatic Eligibility",
+      "text": "This section expands the list of children who automatically qualify for free school meals. The same groups of children mentioned in Section 2 are now also automatically eligible under a different part of the school meal law. This includes children placed with caregivers by child welfare agencies, children receiving adoption assistance, children receiving kinship guardianship assistance, children living in low income housing with grandparents or older caregivers, and children in families receiving Native American housing assistance. The section also makes technical corrections to ensure the law references the right paragraphs.",
+      "word_offset": 350,
+      "char_offset": 2161
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-universal-medicaid-direct-certification",
+      "title": "Section 5 Universal Medicaid Direct Certification",
+      "text": "This section requires all states to automatically qualify children for free or reduced price school meals if they receive Medicaid health insurance. Starting in the school year that begins July first two thousand twenty five, every state must make agreements with their Medicaid agencies to share information about which children receive Medicaid. Children who get Medicaid and whose families earn less than one hundred thirty three percent of the poverty level automatically get free school meals. Children whose families earn more but still qualify for reduced price meals get reduced price meals. Children who get Medicaid because they are in foster care or adopted also automatically qualify. If a child qualifies for both reduced price meals through Medicaid and free meals through another program, they get the free meals. Schools must approve these children for meal programs without requiring families to fill out additional forms.",
+      "word_offset": 440,
+      "char_offset": 2795
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-direct-certification-for-children-receiving-social-security-income",
+      "title": "Section 6 Direct Certification for Children Receiving Social Security Income",
+      "text": "This section requires the Social Security Administration to share information with schools about children who receive supplemental security income payments. The Social Security Commissioner must provide schools with the data they need to automatically qualify these children for free school meals. This information sharing must happen according to agreements between the Social Security Administration and each state.",
+      "word_offset": 585,
+      "char_offset": 3735
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-direct-certification-improvement-grants-and-technical-assistance",
+      "title": "Section 7 Direct Certification Improvement Grants and Technical Assistance",
+      "text": "This section creates a grant program to help states and tribal organizations improve their direct certification rates. Direct certification rate means the percentage of eligible children who are actually automatically qualified for school meals. The Secretary of Agriculture will give grants to states and tribal organizations that run school meal programs to help them automatically qualify more children. Priority goes to states and tribes with the lowest direct certification rates. Grant money can be used for improving technology, providing help to local school districts, setting up new direct certification systems, buying equipment, and working with other benefit programs. Special grants are available for tribal organizations that run food distribution programs on reservations. The Secretary must also provide technical assistance to grant recipients and other eligible groups. The program receives twenty eight million dollars starting October first two thousand twenty five. At least two million dollars must go to tribal food distribution programs and no more than three million dollars can be used for technical assistance.",
+      "word_offset": 642,
+      "char_offset": 4153
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-enhancing-the-community-eligibility-option",
+      "title": "Section 8 Enhancing the Community Eligibility Option",
+      "text": "This section improves the Community Eligibility Provision program. This program lets schools with many low income students provide free meals to all students without collecting meal applications. The changes allow schools to count eligible students from any time between April first and the end of the school year, rather than just on April first. This gives schools more flexibility in when they count students. The multiplier used to calculate how much money schools receive is increased to two point five starting in the school year beginning July first two thousand twenty five. This means schools will receive more federal funding. Schools can also reapply for the program more easily and count students at any time after April first of the school year when determining if they still qualify.",
+      "word_offset": 807,
+      "char_offset": 5292
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-statewide-free-universal-school-meals-demonstration-projects",
+      "title": "Section 9 Statewide Free Universal School Meals Demonstration Projects",
+      "text": "This section creates a pilot program where up to five states can provide free school meals to every student in the state. The Secretary of Agriculture will select states to participate starting by July first two thousand twenty six. Priority goes to states with high childhood poverty, good direct certification rates, and commitment to providing technical assistance and non federal funding. Selected states receive federal payments at the free meal rate for a percentage of all meals served. The percentage is calculated by multiplying one point nine times the percentage of identified low income students in the state, up to one hundred percent. States must provide additional non federal funding to ensure local school districts get the free meal rate for at least ninety percent of meals served. During the demonstration project, schools cannot collect meal applications and must provide free meals to all students. The Secretary must report to Congress by September thirtieth two thousand thirty on how the projects affected academic achievement, school attendance, food security, meal participation rates, school operations, costs, and program integrity. Three million dollars is provided for this evaluation.",
+      "word_offset": 935,
+      "char_offset": 6090
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-state-performance-on-enrolling-children-receiving-program-benefits-for-free-school-meals",
+      "title": "Section 10 State Performance on Enrolling Children Receiving Program Benefits for Free School Meals",
+      "text": "This section requires additional reporting about states that are not meeting their direct certification requirements. The Secretary must include information about what technical assistance was provided to states that are not automatically qualifying enough children for school meals and what progress those states have made in improving their direct certification rates.",
+      "word_offset": 1120,
+      "char_offset": 7307
+    }
+  ]
+}

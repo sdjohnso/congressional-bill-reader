@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-hr-1814",
+  "title": "Restoring the VA Home Loan Program in Perpetuity Act of 2025",
+  "short_title": "Restoring the VA Home Loan Program in Perpetuity Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1814",
+  "introduced_date": "2025-03-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "bb4018b82bf6966e",
+  "last_updated": "2026-04-07T14:49:51.926817+00:00",
+  "plain_summary": "This bill changes rules for the VA home loan program that helps veterans buy houses. It says the Department of Veterans Affairs can only buy up to 250 home loans each year to stop people from not paying back their loans. The VA also has to make a plan to sell the loans they own to private companies instead of keeping them.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-10",
+  "last_action_date": "2025-03-10",
+  "last_action_text": "Subcommittee Hearings Held",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [
+    "Congressional oversight",
+    "Government lending and loan guarantees",
+    "Government studies and investigations",
+    "Veterans' loans, housing, homeless programs"
+  ],
+  "sponsor_name": "Rep. Van Orden, Derrick [R-WI-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "veterans home loans",
+    "VA mortgage program",
+    "veteran house buying help",
+    "military home loans",
+    "VA loan changes",
+    "veteran housing assistance",
+    "government home loans for veterans",
+    "VA mortgage rules",
+    "veteran home buying program",
+    "military mortgage benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Restoring the VA Home Loan Program in Perpetuity Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitations-on-authority-under-department-of-veterans-affairs-servicer-purchaser-program",
+      "title": "Section 2 Limitations on Authority Under Department of Veterans Affairs Servicer Purchaser Program",
+      "text": "Part A creates a new limit. The law adds new rules to an existing section of the United States Code that deals with VA home loans. Under the new rule, the Secretary of Veterans Affairs can only buy a maximum of two hundred fifty loans each fiscal year (a fiscal year is the government's twelve month budget period) to help prevent those loans from going into default (when borrowers cannot make their payments). Part B makes a matching change to another section of the law to make sure the new limit applies consistently. Part C requires a study and report. Within one hundred eighty days after this law takes effect, the Secretary of Veterans Affairs must submit a report to the Veterans Affairs Committees in both the Senate and House of Representatives. The report must contain a plan explaining how the Secretary will sell each loan that the VA bought from May thirty first two thousand twenty four onward to a private company that is not part of the government.",
+      "word_offset": 20,
+      "char_offset": 109
+    }
+  ]
+}

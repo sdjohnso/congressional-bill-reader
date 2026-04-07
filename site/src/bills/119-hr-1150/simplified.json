@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1150",
+  "title": "SPEAR Act of 2025",
+  "short_title": "SPEAR Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1150",
+  "introduced_date": "2025-02-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "421e551ed07a3509",
+  "last_updated": "2026-04-07T14:45:42.023878+00:00",
+  "plain_summary": "The SPEAR Act of 2025 stops the federal government from putting Wisconsin lake sturgeon fish on the endangered species list. Wisconsin already has good programs to protect these fish, especially around Lake Winnebago. The state's programs include special fishing traditions like spearing seasons that are important to local people. The bill wants to keep these state programs running instead of having federal rules take over.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-07",
+  "last_action_date": "2025-02-07",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Animals",
+  "subjects": [],
+  "sponsor_name": "Rep. Wied, Tony [R-WI-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 5,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Wisconsin fish protection",
+    "lake sturgeon fishing",
+    "endangered species list",
+    "Lake Winnebago fishing",
+    "fish spearing season",
+    "state vs federal rules",
+    "Wisconsin fishing traditions",
+    "sturgeon conservation",
+    "local fishing rights",
+    "federal government overreach"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Sturgeon Protected and Exempt from Absurd Regulations Act of two thousand twenty five or the SPEAR Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exclusion-of-certain-populations-of-lake-sturgeon",
+      "title": "Section 2 Exclusion of Certain Populations of Lake Sturgeon Under Endangered Species Act of 1973",
+      "text": "Congress has found several important facts about lake sturgeon in Wisconsin. The lake sturgeon is a special fish that is very important to the culture of Wisconsin, especially for communities around Lake Winnebago and the Winnebago System of lakes. Wisconsin has become the world leader in managing lake sturgeon because of hard work by the Wisconsin Department of Natural Resources, a group called Sturgeon for Tomorrow, the Sturgeon Advisory Committee, the Sturgeon Guard, and local fishing and conservation groups working together. Because of their efforts and a detailed management plan, the Lake Winnebago system now has one of the largest healthy lake sturgeon populations in North America and the most successful sustainable sturgeon fishing in the world. An important part of this management plan is the yearly sturgeon spearing season. This season is carefully managed and provides the information needed, along with detailed studies of where sturgeon spawn, to keep accurate records of population numbers and safe harvest limits to keep the species healthy. Required registration stations collect detailed information about the length, weight, sex, and tag status of each fish caught and make sure strict seasonal catch limits are followed. The spearing season has become a unique cultural event with strong traditions and community connections. It draws people from all over Wisconsin and many other states and is very important to the livelihoods of local communities and small businesses near the Winnebago System who depend on the yearly season. It is very important that this long standing and beloved tradition be protected and that Wisconsin be allowed to continue its successful management of lake sturgeon in the Winnebago System and throughout the state. This law changes the Endangered Species Act of nineteen seventy three. The change adds an exception that says the Secretary may not decide that any population of lake sturgeon in Wisconsin is threatened or endangered.",
+      "word_offset": 28,
+      "char_offset": 159
+    }
+  ]
+}

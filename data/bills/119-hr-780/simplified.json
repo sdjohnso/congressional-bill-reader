@@ -1,0 +1,64 @@
+{
+  "bill_id": "119-hr-780",
+  "title": "Alexandra’s Law Act of 2025",
+  "short_title": "Alexandra’s Law Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.780",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "280e79604420c1d4",
+  "last_updated": "2026-04-07T15:14:09.584659+00:00",
+  "plain_summary": "This new law is about people who sell drugs with fentanyl that cause someone to die. When these drug sellers are found guilty in court, the judge must give them a special warning. The warning tells them that if they sell deadly drugs again and someone dies, they could be charged with murder. The warning also explains that their past crimes can be used against them in future court cases. This law is meant to stop people from selling dangerous fentanyl drugs that kill people.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-28",
+  "last_action_date": "2025-01-28",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such p",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [
+    "Criminal procedure and sentencing",
+    "Drug trafficking and controlled substances",
+    "Evidence and witnesses",
+    "Judicial procedure and administration",
+    "State and local courts"
+  ],
+  "sponsor_name": "Rep. Issa, Darrell [R-CA-48]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "fentanyl deaths",
+    "drug dealers murder charges",
+    "deadly drug sales",
+    "fentanyl trafficking penalties",
+    "drug dealer warnings",
+    "repeat drug offenders",
+    "fentanyl overdose deaths",
+    "drug sales causing death",
+    "deadly drugs sentencing",
+    "fentanyl dealer punishment"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called Alexandra's Law Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-controlled-substances-advisory-statement",
+      "title": "Section 2 Controlled Substances Advisory Statement",
+      "text": "This section adds new rules to existing drug laws. When someone is found guilty of drug crimes that led to someone's death, the court must tell them important information. If the person was convicted of selling fentanyl (a very dangerous drug) and someone died from it, the judge must read them a special warning. The warning says that all illegal drugs and fake pills are dangerous and can kill people. It explains that fentanyl mixed into drugs makes them extremely deadly, even in tiny amounts. The warning tells the person that selling drugs without permission is very dangerous. If they sell drugs again in the future and someone dies, and they knew or should have known the drugs had fentanyl in them, they can be charged with murder. If someone is later charged with murder related to a fentanyl death, their previous drug conviction can be used as proof that they knew the drugs contained fentanyl. Similar warnings given in state courts can be used in federal court cases, and federal warnings can be used in state cases. However, these rules do not apply to people who were under eighteen years old when they committed the original drug crime.",
+      "word_offset": 13,
+      "char_offset": 72
+    }
+  ]
+}

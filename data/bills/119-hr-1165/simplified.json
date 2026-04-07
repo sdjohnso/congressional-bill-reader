@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-1165",
+  "title": "Port Crane Security and Inspection Act of 2025",
+  "short_title": "Port Crane Security and Inspection Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1165",
+  "introduced_date": "2025-02-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "d2073c0c42fa44b6",
+  "last_updated": "2026-04-07T14:21:42.511735+00:00",
+  "plain_summary": "This law is about keeping US ports safe from foreign cranes that could be security risks. The government will inspect cranes made by companies from enemy countries to check if they are dangerous. New cranes from these countries cannot be used at US ports starting now. Old cranes from enemy countries have five years to remove foreign software or they will be shut down. If any crane is found to be unsafe, it must be taken offline until it can be fixed.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-10",
+  "last_action_date": "2025-02-10",
+  "last_action_text": "Referred to the Subcommittee on Transportation and Maritime Security.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Transportation and Public Works",
+  "subjects": [],
+  "sponsor_name": "Rep. Gimenez, Carlos A. [R-FL-28]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 8,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "port security",
+    "foreign cranes",
+    "Chinese cranes",
+    "port equipment safety",
+    "cargo cranes",
+    "shipping port inspection",
+    "enemy country equipment",
+    "port crane ban",
+    "foreign software removal",
+    "maritime security",
+    "dock crane safety"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Port Crane Security and Inspection Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-foreign-crane-inspection-transportation-and-port-security-and-maritime-security-enhancement",
+      "title": "Section 2 Foreign Crane Inspection Transportation and Port Security and Maritime Security Enhancement",
+      "text": "The Secretary of Homeland Security must inspect foreign cranes before they can be used at United States ports. This applies to newly built foreign cranes that the Secretary decides are high risk to port security or ship transportation security and that connect to the internet. The Cybersecurity and Infrastructure Security Agency (a government office that protects computer systems and important infrastructure) will do these inspections to look for potential security risks or threats.\n\nWithin one hundred eighty days after this law is passed, the Secretary must do two things. First, the Secretary must evaluate the threat from security risks of any existing or newly built foreign cranes being used at United States ports. Second, the Secretary must take any crane that poses a security risk or threat offline until that crane can be certified as no longer being a risk or threat.\n\nWithin one year after this law is passed, the Secretary must brief the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate. This briefing must explain the foreign crane security risks or threats from existing or newly built foreign cranes within United States ports.\n\nIn this section, a covered foreign country means a country that the intelligence community has identified as a foreign adversary in its most recent Annual Threat Assessment. It also means a country that the Secretary of Homeland Security, working with the Director of National Intelligence, has identified as a foreign adversary that is not included in that Annual Threat Assessment.\n\nA foreign crane means a crane where any information technology and operational technology components in that crane connected to computer infrastructure at a port in the United States was manufactured, in whole or in part, by a company that operates under ownership, control, or influence of a covered foreign country.",
+      "word_offset": 17,
+      "char_offset": 95
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-foreign-crane-prohibition",
+      "title": "Section 3 Foreign Crane Prohibition",
+      "text": "Despite any other law, foreign cranes have restrictions. First, a foreign crane for which a contract was signed on or after the date this law is passed may not be operated at a port in the United States. Second, a foreign crane already operating at a port in the United States may not operate foreign software on any date after five years from when this law is passed.\n\nIn this section, a covered foreign country means a country that the intelligence community has identified as a foreign adversary in its most recent Annual Threat Assessment. It also means a country that the Secretary of Homeland Security, working with the Director of National Intelligence, has identified as a foreign adversary that is not included in that Annual Threat Assessment.\n\nA foreign crane means a crane where any software or other technology in that crane connected to computer infrastructure at a port in the United States was manufactured, in whole or in part, by a company that is owned or controlled by, is a subsidiary of, or is otherwise related legally or financially to a corporation based in a covered foreign country.\n\nForeign software means software or other technology manufactured, in whole or in part, by a company wholly owned by a covered foreign country.",
+      "word_offset": 325,
+      "char_offset": 2041
+    }
+  ]
+}

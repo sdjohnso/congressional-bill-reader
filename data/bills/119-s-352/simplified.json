@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-s-352",
+  "title": "Disaster Assistance Fairness Act",
+  "short_title": "Disaster Assistance Fairness Act",
+  "congress": 119,
+  "bill_number": "S.352",
+  "introduced_date": "2025-01-30",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2eee32186f5900de",
+  "last_updated": "2026-04-07T14:53:49.482116+00:00",
+  "plain_summary": "This bill helps people who live in condos, townhomes, and other shared housing get government help after big disasters. When storms or other disasters damage these buildings, the government can now help pay to remove debris and fix shared parts like roofs, elevators, and heating systems. Before this bill, it was harder for people in these types of homes to get the same disaster help that people in regular houses could get. Now the rules are more fair for everyone.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-30",
+  "last_action_date": "2025-01-30",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [],
+  "sponsor_name": "Sen. Budd, Ted [R-NC]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "disaster relief condo",
+    "hurricane help townhouse",
+    "storm damage shared housing",
+    "government aid apartment building",
+    "disaster assistance condominiums",
+    "FEMA help condos",
+    "natural disaster townhome repair",
+    "emergency relief shared property",
+    "disaster funding apartment complex",
+    "storm recovery condo building"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Disaster Assistance Fairness Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "This section adds three new definitions to an existing disaster relief law. A residential common interest community is a nonprofit group made up of property owners who must be members. These owners have to pay their share of property taxes, insurance costs, and maintenance or improvements for shared areas like pools, parking lots, or clubhouses. A condominium is a building with multiple housing units where each unit is owned separately by different people. The common areas like hallways and lobbies are owned together by all the unit owners. A condominium association made up of all the unit owners manages and operates the building. A housing cooperative is a multi-unit building where each person who lives there is a member of the cooperative association that owns the entire property. Each member has the right to live in their specific unit and shares ownership of the common areas. Their membership is shown through ownership shares and a lease or other document.",
+      "word_offset": 10,
+      "char_offset": 61
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-removal-of-debris-resulting-from-a-major-disaster",
+      "title": "Section 3  Removal of Debris Resulting From a Major Disaster in Residential Common Interest Communities",
+      "text": "This section changes the existing disaster relief law to include residential common interest communities in debris removal programs. The President must create rules that allow the government to remove debris and wreckage from property owned by residential common interest communities after a major disaster. This debris removal will be considered in the public interest when state or local government officials write a determination that the debris threatens people's lives, public health, safety, or the economic recovery of the residential common interest community.",
+      "word_offset": 169,
+      "char_offset": 1036
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-condominiums-and-housing-cooperatives-damaged-by-a-major-disaster",
+      "title": "Section 4  Condominiums and Housing Cooperatives Damaged by a Major Disaster",
+      "text": "This section expands disaster assistance to help people who live in condominiums and housing cooperatives. The government can now help pay for repairs to essential shared parts of condominiums and housing cooperatives. Essential shared parts include things like roofs, outside walls, heating and cooling systems, elevators, stairwells, areas where utilities are accessed, plumbing, and electrical systems. To get this help, people must show proper documentation of their share of the repair costs for these essential shared parts.",
+      "word_offset": 251,
+      "char_offset": 1605
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-applicability",
+      "title": "Section 5  Applicability",
+      "text": "The changes made by this law will only apply to major disasters that the President declares on or after the day this law becomes effective. It will not apply to disasters that were declared before this law was signed.",
+      "word_offset": 328,
+      "char_offset": 2136
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-1420",
+  "title": "Pacific Flyway Habitat Enhancement Act",
+  "short_title": "Pacific Flyway Habitat Enhancement Act",
+  "congress": 119,
+  "bill_number": "HR.1420",
+  "introduced_date": "2025-02-18",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b3acb64418bda6d7",
+  "last_updated": "2026-04-07T15:08:15.500764+00:00",
+  "plain_summary": "The Pacific Flyway Habitat Enhancement Act changes farm conservation programs to better protect wetland areas where birds and other wildlife live. The law allows the government to include more types of farmland in these conservation programs. Farmers can still do some seasonal farming work while protecting wildlife habitats. In return, the government will pay farmers amounts that match what it costs to do this work in their local area.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-28",
+  "last_action_date": "2025-03-28",
+  "last_action_text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Rep. LaMalfa, Doug [R-CA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 5,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "bird migration",
+    "wetland protection",
+    "farm conservation",
+    "wildlife habitat",
+    "farmer payments",
+    "seasonal farming",
+    "bird sanctuary",
+    "waterfowl protection",
+    "agricultural conservation",
+    "Pacific coast birds",
+    "migratory birds",
+    "wetland farming"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Pacific Flyway Habitat Enhancement Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-conservation-reserve-enhancement-program",
+      "title": "Section 2  Conservation Reserve Enhancement Program",
+      "text": "This section changes the Food Security Act of nineteen eighty five. It adds new rules for the Conservation Reserve Enhancement Program. This program helps farmers protect land and wildlife by paying them to change how they use their farmland. The new rules create special agreements for seasonally flooded working lands habitat conservation. Under these agreements, the Secretary of Agriculture can work with state technical committees to do three things. First, the Secretary can include other farm land in the program even if it does not normally qualify, as long as including this land is important for meeting the agreement goals. Second, if the agreement helps maintain habitat for wetland birds or other wetland animals on working crop land, the Secretary can allow seasonal flooding for farming on that land as long as farmers use at least one best management practice. Third, the Secretary must calculate yearly rental payments in a way that matches the yearly costs of maintaining other seasonally flooded wetland wildlife habitats in the same area and keeps payment rates consistent across the region. For these special agreements, the Secretary can also waive the requirement that states or other parties provide matching money.",
+      "word_offset": 11,
+      "char_offset": 67
+    }
+  ]
+}

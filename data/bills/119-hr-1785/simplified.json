@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-1785",
+  "title": "Preventing Medicare Telefraud Act",
+  "short_title": "Preventing Medicare Telefraud Act",
+  "congress": 119,
+  "bill_number": "HR.1785",
+  "introduced_date": "2025-03-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7d2e6301e7d12bfd",
+  "last_updated": "2026-04-07T14:25:47.206574+00:00",
+  "plain_summary": "This bill creates new rules for doctors who use telehealth to help prevent fraud in Medicare. Before a doctor can order expensive medical equipment or lab tests during a video visit, they must have seen the patient in person within the past six months. Doctors must also use their own special ID numbers when billing Medicare for telehealth services. Medicare will check up on doctors who use telehealth a lot to make sure they are following the rules.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-03",
+  "last_action_date": "2025-03-03",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Doggett, Lloyd [D-TX-37]",
+  "sponsor_party": "D",
+  "sponsor_state": "TX",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "telehealth fraud",
+    "video doctor visits",
+    "medicare scams",
+    "online medical appointments",
+    "telemedicine rules",
+    "doctor video calls",
+    "medicare telehealth",
+    "medical equipment fraud",
+    "remote doctor visits",
+    "healthcare fraud prevention"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Preventing Medicare Telefraud Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirement-for-provision-of-high-cost-durable-medical-equipment-and-laboratory-tests",
+      "title": "Section 2  Requirement for Provision of High-Cost Durable Medical Equipment and Laboratory Tests",
+      "text": "This section creates new rules for expensive medical equipment and lab tests ordered through telehealth visits. For expensive durable medical equipment, Medicare will not pay for equipment ordered by a doctor through telehealth unless that doctor saw the patient in person at least once in the six months before ordering the equipment. This rule starts one hundred eighty days after this law is passed. The head of the Centers for Medicare and Medicaid Services will decide which equipment counts as high-cost durable medical equipment. Medicare contractors must also check the records of doctors who prescribe at least ninety percent of their medical equipment through telehealth visits. They will review claims from the past twelve months starting six months after this law passes. If they find doctors who meet this pattern, they must audit all equipment claims from those doctors to make sure the claims follow Medicare rules. The same rules apply to expensive laboratory tests. Medicare will not pay for high-cost lab tests ordered through telehealth unless the doctor saw the patient in person at least once in the six months before ordering the test. This rule also starts one hundred eighty days after the law passes. The head of the Centers for Medicare and Medicaid Services will decide which tests count as high-cost laboratory tests. Medicare contractors must check doctors who order at least ninety percent of their lab tests through telehealth visits and audit their claims if needed.",
+      "word_offset": 10,
+      "char_offset": 62
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-requirement-to-submit-npi-number-for-separately-billable-telehealth-services",
+      "title": "Section 3  Requirement to Submit NPI Number for Separately Billable Telehealth Services",
+      "text": "Starting one hundred eighty days after this law passes, Medicare will not pay doctors for telehealth services unless they use their own national provider identification number when they submit their bill. The national provider identification number is a unique number assigned to each doctor or healthcare provider.",
+      "word_offset": 250,
+      "char_offset": 1561
+    }
+  ]
+}

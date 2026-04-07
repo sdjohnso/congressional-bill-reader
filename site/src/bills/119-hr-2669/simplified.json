@@ -1,0 +1,98 @@
+{
+  "bill_id": "119-hr-2669",
+  "title": "Community First Act",
+  "short_title": "Community First Act",
+  "congress": 119,
+  "bill_number": "HR.2669",
+  "introduced_date": "2025-04-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a690ec5e7732966d",
+  "last_updated": "2026-04-07T14:46:44.277389+00:00",
+  "plain_summary": "The Community First Act creates a new program where the Attorney General gives money to local groups to help reduce the number of people in jail. The program gives two kinds of grants: smaller planning grants up to $100,000 to study jail numbers and make plans, and bigger grants from $500,000 to $3 million over six years to actually carry out those plans. Local groups can use the money for things like reducing bail money requirements and creating programs that keep people out of jail. To keep getting the grant money, groups must reduce their jail population by at least 5% in the first year, 10% each year after that, and 50% total by the end.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-07",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Sponsor introductory remarks on measure. (CR H1568)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [],
+  "sponsor_name": "Rep. Bell, Wesley [D-MO-1]",
+  "sponsor_party": "D",
+  "sponsor_state": "MO",
+  "cosponsor_count": 14,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "jail population reduction",
+    "reduce prison numbers",
+    "community grants for justice",
+    "bail reform funding",
+    "local crime prevention money",
+    "alternatives to jail",
+    "criminal justice reform grants",
+    "keeping people out of prison",
+    "community-based justice programs",
+    "federal money for jail reduction"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Community First Pretrial Reform Act or the Community First Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-grants-authorized",
+      "title": "Section 2 Grants Authorized",
+      "text": "The top lawyer for the United States, called the Attorney General, working through the Bureau of Justice Assistance, will give money grants to groups that work together. The goal is to reduce how many people are locked up in local jails and how long they stay there. There are two types of grants. The first type is for studying and planning. These grants help groups collect and study information about their local criminal justice system and jail population, including looking at unfair differences between different groups of people. They also help create a public plan to reduce the number of people in local jails. The second type is for putting the plan into action. These grants can be used for many activities to reduce jail population. This includes reducing the use of cash bail, which is money people pay to get out of jail before trial. It includes reducing how often people on supervised release get sent back to jail for breaking rules. It includes creating or expanding services that help people before trial, especially working with community groups and nonprofit organizations. It includes investing in faster court processes to reduce waiting time between court dates and speed up case decisions. It includes making sure people get lawyers early and have lawyers present at their first court hearing or bail hearing. It includes training people who work in the criminal justice system about helping poor people get legal help, using the best methods available. It includes creating or expanding programs that send people away from the normal court process without requiring them to plead guilty and without using jail time as punishment if they do not follow the program rules. These programs can happen before arrest, before booking into jail, or after booking into jail. It also includes any other new, promising, or proven methods that a group suggests and the Attorney General thinks will likely reduce local jail population. An eligible partnership must include at least two of the following: a local government unit, a territory, an Indian tribe, or a nonprofit organization. Applications for grants must include several things. They must describe what pretrial services are available in the area where the jail is located. They must include a plan to make sure people waiting for trial face the least restrictive conditions needed to reasonably address the immediate risk that they will run away or the risk that they will immediately cause serious physical harm to a specific person. They must include a plan for ongoing evaluation of both the process and the results. They must also include either detailed data broken down by key demographic information like community background and identity about jail population and arrests for the past five years, or if that data is not available, a complete plan to gather as much missing data as possible within the first year of receiving the grant.",
+      "word_offset": 16,
+      "char_offset": 91
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-requirements",
+      "title": "Section 3 Requirements",
+      "text": "Groups that receive grants must follow several rules. They must talk with many different groups during all parts of planning, putting the plan into action, and evaluation. This includes local, county, and state police, local courts, public defender offices and criminal defense lawyers in the area, local drug and mental health agencies, local community members including those who have been involved with the justice system, and community organizations and service providers. They must study local jail and arrest data to figure out what causes people to be jailed and identify unfair differences, then base their jail reduction strategies on that information. They must reduce jail rates by at least five percent in the first year of an implementation grant, ten percent in each following year, and fifty percent by the end of the grant period. Working with the Bureau of Justice Assistance, they must adopt and use a method for measuring unfair differences in jail population, set goals for reducing these unfair differences, and decrease jail levels for all races and ethnicities. They must hire an outside evaluator to collect data and report regularly, and to evaluate both the process and the results, with help from the Bureau of Justice Assistance. They must use money saved by having fewer people in jail to continue programs and community efforts to reduce jail population. If a group fails to meet the jail reduction and fairness requirements in any year, the Bureau of Justice Assistance will audit how they used their grant money and the group must try new strategies based on that audit. If a group fails to meet these requirements for two years in a row, the Attorney General will end their grant. The Bureau of Justice Assistance may change the jail reduction requirement if they determine after an audit that the failure was caused by population growth in the area. If a group fails to meet the changed requirements for two more years, the Attorney General will end their grant.",
+      "word_offset": 496,
+      "char_offset": 3010
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-grant-amounts",
+      "title": "Section 4 Grant Amounts",
+      "text": "Planning grants can be up to one hundred thousand dollars for a single group and last for one year. Implementation grants last for six years and work as follows. In the first year, groups receive between five hundred thousand and three million dollars, depending on their proposed budget for grant activities, which may be changed during the award process. Grant amounts decrease each year by ten percent in the second year, fifteen percent in the third year, twenty percent in the fourth year, and twenty-five percent in the fifth year. Money in the sixth year cannot be used for program activities and can only support program evaluation and writing a final report. These sixth-year funds remain available to grantees until they are spent.",
+      "word_offset": 826,
+      "char_offset": 5007
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-selection-priority",
+      "title": "Section 5 Selection Priority",
+      "text": "When choosing which groups get grants, the Attorney General must give priority to applicants from areas with the highest jail rates that are not already going down and whose applications have the most ambitious but achievable plans for reducing those rates. Additional priority goes to applicants from areas that want to use the money to prevent local government from adding more jail beds. For any year with only one new or ongoing grant, a small metropolitan, micropolitan, or noncore area must receive the grant. For any year with more than one new or ongoing grant, small metropolitan, micropolitan, or noncore areas must receive at least two grants. For any year with three or more new or ongoing grants, no more than one large central metropolitan area can receive a grant.",
+      "word_offset": 949,
+      "char_offset": 5749
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-definitions",
+      "title": "Section 6 Definitions",
+      "text": "This section explains important terms used in this law. Conditional release means probation, parole, supervised release, home confinement, community supervision, and other practices where someone is watched in the community by the criminal justice system and can be jailed if they break the rules of their release. Diversion means a program that puts people who come into contact with the criminal justice system into different processes outside normal criminal justice handling and reduces their involvement with the criminal justice system both right away and long term. Emerging practice means a program that has shown initial success in decreasing local jail population in one or more communities and will be studied through a well-designed and careful study. Evidence-based practice means a program that works when done correctly, is based on a clear and research-supported theory, has measurable results related to reducing jail population including detailed description of results in a particular population whether urban or rural, and has been scientifically tested and proven to work through randomized control studies or comparison group studies with the ability to be copied and expanded. Micropolitan area, small metropolitan area, and noncore areas have meanings established by the Centers for Disease Control and Prevention National Center for Health Statistics Urban-Rural Classification Scheme for Counties. Post-booking diversion means a program that moves people away from normal criminal justice system processing after they have been formally processed into jail. Pre-booking diversion means a program that moves people away from normal criminal justice system processing before arrest or before being formally processed into jail. Promising practice means a program that works based on positive results related to reducing jail population from one or more objective, independent, and scientifically valid evaluations documented in writing to the Attorney General, and will be studied through a well-designed and careful study. Equity disparities means measurable differences in outcomes, treatment, or access to services within the criminal justice system that are connected to demographic factors like community background and identity.",
+      "word_offset": 1079,
+      "char_offset": 6529
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-authorization-of-appropriations",
+      "title": "Section 7 Authorization of Appropriations",
+      "text": "Congress is authorized to provide twenty million dollars for each year from two thousand twenty-six through two thousand thirty for planning grants. Congress is also authorized to provide one hundred million dollars for each year from two thousand twenty-six through two thousand thirty for implementation grants. Ten percent of any money provided for implementation grants is set aside specifically for evaluation activities.",
+      "word_offset": 1406,
+      "char_offset": 8788
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hres-85",
+  "title": "Providing amounts for the expenses of the Committee on Energy and Commerce in the One Hundred Nineteenth Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.85",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "f01fc9833567fed0",
+  "last_updated": "2026-04-07T15:08:48.550111+00:00",
+  "plain_summary": "This bill gives money to the House Committee on Energy and Commerce to pay for its work during the 119th Congress. The committee will get about thirty-two million dollars total. The money is divided between two years and can only be spent if certain rules are followed. The Committee on House Administration will make sure the money is used properly.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-31",
+  "last_action_date": "2025-01-31",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "House Committee on Energy and Commerce"
+  ],
+  "sponsor_name": "Rep. Guthrie, Brett [R-KY-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "house committee funding",
+    "energy and commerce committee budget",
+    "congressional committee expenses",
+    "committee spending money",
+    "house committee budget",
+    "energy committee funding",
+    "commerce committee money",
+    "congressional expenses",
+    "committee operations funding",
+    "house energy commerce budget"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-amounts-for-committee-expenses",
+      "title": "Section 1 Amounts for Committee Expenses",
+      "text": "The Committee on Energy and Commerce will be given money to pay for its work. This includes paying the salaries of all committee staff members. The House of Representatives will pay no more than thirty-two million two hundred ninety-three thousand six hundred ninety-six dollars for the committee's expenses during the One Hundred Nineteenth Congress.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-session-limitations",
+      "title": "Section 2 Session Limitations",
+      "text": "The money mentioned in section one will be split between two time periods. No more than fifteen million seven hundred seventy-four thousand nine hundred seventy-four dollars can be spent during the first period. This first period starts at noon on January third two thousand twenty-five and ends right before noon on January third two thousand twenty-six. No more than sixteen million five hundred eighteen thousand seven hundred twenty-two dollars can be spent during the second period. This second period starts at noon on January third two thousand twenty-six and ends right before noon on January third two thousand twenty-seven.",
+      "word_offset": 54,
+      "char_offset": 352
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-vouchers",
+      "title": "Section 3 Vouchers",
+      "text": "Before the committee can spend any of this money, they must use special forms called vouchers. The committee must approve these vouchers first. Then the Chairman of the Committee must sign them. Finally, the Committee on House Administration must approve them in the way they require. Only after all these steps can payments be made.",
+      "word_offset": 153,
+      "char_offset": 986
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-regulations",
+      "title": "Section 4 Regulations",
+      "text": "The committee must spend this money following the rules set by the Committee on House Administration. They cannot spend the money in any way they want but must follow these specific rules.",
+      "word_offset": 208,
+      "char_offset": 1320
+    }
+  ]
+}

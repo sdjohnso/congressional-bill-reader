@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2144",
+  "title": "No Fuel Credits for Batteries Act of 2025",
+  "short_title": "No Fuel Credits for Batteries Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2144",
+  "introduced_date": "2025-03-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "834fdd9fffa58032",
+  "last_updated": "2026-04-07T14:22:41.670367+00:00",
+  "plain_summary": "This bill stops the Environmental Protection Agency from giving out special electricity credits called eRINs. These credits were supposed to help companies meet rules about using cleaner fuels for cars and trucks. The bill says these electricity credits cannot be used anymore to meet those fuel rules. It also says that any of these credits that already exist cannot be used either. This means companies will have to find other ways to meet the requirements for using renewable fuels.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-14",
+  "last_action_date": "2025-03-14",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "electricity credits",
+    "fuel standards",
+    "renewable fuel requirements",
+    "car emission rules",
+    "truck fuel regulations",
+    "clean energy credits",
+    "EPA fuel rules",
+    "battery credits",
+    "electric vehicle incentives",
+    "fuel company requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Fuel Credits for Batteries Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-clarification-that-erins-not-authorized",
+      "title": "Section 2  Clarification That eRINs Not Authorized",
+      "text": "The head of the Environmental Protection Agency cannot allow the creation of credits for electricity made from renewable fuel. These credits would be used to meet the requirements for how much renewable fuel must be mixed into transportation fuel under the Clean Air Act. The agency must also stop the use or transfer of any credits like this that were created before this law takes effect. In this law, renewable fuel means the same thing it means in the Clean Air Act section two hundred eleven. Transportation fuel also means the same thing it means in the Clean Air Act section two hundred eleven.",
+      "word_offset": 17,
+      "char_offset": 90
+    }
+  ]
+}

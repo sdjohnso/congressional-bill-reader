@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hconres-13",
+  "title": "Providing that George Washington's \"Farewell Address\" shall be read at the beginning of each Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HCONRES.13",
+  "introduced_date": "2025-02-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e6d4fae6979cf4bc",
+  "last_updated": "2026-04-07T14:51:20.065427+00:00",
+  "plain_summary": "This bill says that George Washington's Farewell Address must be read out loud at the start of every new Congress. The leaders of the Senate and House of Representatives will pick one person from each chamber to do the reading. This will happen on the first day when the new Congress begins their work. The reading becomes an official rule that both the Senate and House must follow.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-14",
+  "last_action_date": "2025-02-14",
+  "last_action_text": "Referred to the House Committee on Rules.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [],
+  "sponsor_name": "Rep. Bacon, Don [R-NE-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "NE",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "George Washington farewell address",
+    "reading Washington speech Congress",
+    "founding fathers address",
+    "presidential farewell speech",
+    "Washington goodbye speech",
+    "Congress tradition reading",
+    "first president farewell",
+    "historical speech requirement",
+    "Washington warning address",
+    "congressional ceremony reading"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-rule",
+      "title": "Section 1 Rule",
+      "text": "On the first day when each new Congress starts its first regular meeting, George Washington's Farewell Address must be read out loud. In the Senate, a Senator chosen by the majority leader will read it. In the House of Representatives, a Representative chosen by the Speaker of the House will read it.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exercise-of-rulemaking-power",
+      "title": "Section 2 Exercise of Rulemaking Power",
+      "text": "Congress is passing this resolution using its power to make rules for how the House of Representatives and Senate operate. This resolution will become part of the official rules for each chamber. If this new rule conflicts with any existing rules, this new rule will take priority. Both the House and Senate keep their constitutional right to change these rules later using the same process they use to change any other rule.",
+      "word_offset": 52,
+      "char_offset": 302
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-2832",
+  "title": "Defend American Manufacturing Act",
+  "short_title": "Defend American Manufacturing Act",
+  "congress": 119,
+  "bill_number": "HR.2832",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7db34476c1c57327",
+  "last_updated": "2026-04-07T15:16:01.633232+00:00",
+  "plain_summary": "This bill requires the government to run a special program that helps American manufacturing companies. The program must operate in all fifty states and Puerto Rico every year as long as Congress gives it money. The bill changes some rules to make certain actions required instead of just allowing them. This program is designed to support and strengthen manufacturing businesses across the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Rep. Davids, Sharice [D-KS-3]",
+  "sponsor_party": "D",
+  "sponsor_state": "KS",
+  "cosponsor_count": 4,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "american manufacturing",
+    "manufacturing jobs",
+    "factory support",
+    "made in america",
+    "manufacturing program",
+    "industrial jobs",
+    "factory jobs",
+    "american factories",
+    "manufacturing assistance",
+    "domestic production",
+    "us manufacturing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Defend American Manufacturing Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-continuation-of-hollings-manufacturing-extension-partnership",
+      "title": "Section 2. Continuation of Hollings Manufacturing Extension Partnership",
+      "text": "Starting in the year two thousand twenty five and every year after that, the Secretary of Commerce must keep running the Hollings Manufacturing Extension Partnership program. This will happen as long as Congress provides money for it under the Department of Commerce budget for the National Institute of Standards and Technology. The Secretary will work through the Director of the National Institute of Standards and Technology to run competitions, renew existing partnerships, and give awards to centers in all fifty states and Puerto Rico. This must follow the rules already written in section twenty five of the National Institute of Standards and Technology Act.",
+      "word_offset": 10,
+      "char_offset": 62
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-amendment-to-the-national-institute-of-standards-and-technology-act",
+      "title": "Section 3. Amendment to the National Institute of Standards and Technology Act",
+      "text": "This section changes one word in an existing law. In paragraph one of section twenty five of the National Institute of Standards and Technology Act, the word may is crossed out and replaced with the word shall. This change makes something that was optional into something that is required.",
+      "word_offset": 114,
+      "char_offset": 730
+    }
+  ]
+}

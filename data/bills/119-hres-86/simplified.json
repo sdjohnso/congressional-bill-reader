@@ -1,0 +1,77 @@
+{
+  "bill_id": "119-hres-86",
+  "title": "Providing amounts for the expenses of the Committee on the Judiciary in the One Hundred Nineteenth Congress.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.86",
+  "introduced_date": "2025-01-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "1a027c5e3987f1e3",
+  "last_updated": "2026-04-07T15:09:02.684433+00:00",
+  "plain_summary": "This bill gives money to the House Judiciary Committee to pay for their work during the 119th Congress. The committee can spend up to about 31.7 million dollars total. The money is divided equally between the two sessions of Congress. The committee must follow special rules about how they spend the money, and these rules are set by the Committee on House Administration.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-31",
+  "last_action_date": "2025-01-31",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "Congressional committees",
+    "House Committee on the Judiciary"
+  ],
+  "sponsor_name": "Rep. Jordan, Jim [R-OH-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "House Judiciary Committee funding",
+    "Congress committee budget",
+    "judiciary committee money",
+    "House committee expenses",
+    "congressional spending",
+    "committee operating costs",
+    "119th Congress budget",
+    "House Judiciary budget",
+    "congressional committee funding",
+    "judiciary committee appropriation"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-amounts-for-committee-expenses",
+      "title": "Section 1 Amounts for Committee Expenses",
+      "text": "The House of Representatives will pay up to thirty-one million seven hundred fourteen thousand dollars for all expenses of the Committee on the Judiciary during the One Hundred Nineteenth Congress. This money will come from the House accounts that are set aside for committee salaries and expenses. The money can be used for all staff salaries and other committee expenses.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-session-limitations",
+      "title": "Section 2 Session Limitations",
+      "text": "The money from Section 1 is split into two equal parts. No more than fifteen million eight hundred fifty-seven thousand dollars can be spent during the first session, which runs from noon on January third two thousand twenty-five until right before noon on January third two thousand twenty-six. No more than fifteen million eight hundred fifty-seven thousand dollars can be spent during the second session, which runs from noon on January third two thousand twenty-six until right before noon on January third two thousand twenty-seven.",
+      "word_offset": 60,
+      "char_offset": 374
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-vouchers",
+      "title": "Section 3 Vouchers",
+      "text": "All payments using this money must be made using vouchers. These vouchers must be authorized by the Committee, signed by the Chairman of the Committee, and approved in the way that the Committee on House Administration requires.",
+      "word_offset": 145,
+      "char_offset": 912
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-regulations",
+      "title": "Section 4 Regulations",
+      "text": "All money provided under this resolution must be spent following the rules set by the Committee on House Administration.",
+      "word_offset": 182,
+      "char_offset": 1141
+    }
+  ]
+}
