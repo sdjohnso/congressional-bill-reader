@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-2508",
+  "title": "ENCRYPT Act of 2025",
+  "short_title": "ENCRYPT Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.2508",
+  "introduced_date": "2025-03-31",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "11e80f733517039f",
+  "last_updated": "2026-04-08T13:58:36.776502+00:00",
+  "plain_summary": "The ENCRYPT Act of 2025 protects people's digital privacy and security. It stops state and local governments from forcing technology companies to make their security weaker or to create backdoors in their products. The bill also prevents these governments from banning phones, computers, or apps just because they use strong encryption to keep user information safe. This means companies can continue to use the best security methods to protect people's personal data from hackers and other threats.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-31",
+  "last_action_date": "2025-03-31",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such p",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [],
+  "sponsor_name": "Rep. Lieu, Ted [D-CA-36]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "digital privacy",
+    "encryption",
+    "phone security",
+    "app security",
+    "backdoors",
+    "technology companies",
+    "data protection",
+    "personal information safety",
+    "government regulation",
+    "cyber security",
+    "hacker protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Ensuring National Constitutional Rights for Your Private Telecommunications Act of two thousand twenty five or the ENCRYPT Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-preemption-of-state-data-security-vulnerability-mandates-and-decryption-requirements",
+      "title": "Section 2 Preemption of State Data Security Vulnerability Mandates and Decryption Requirements",
+      "text": "States and local governments cannot force companies that make or sell technology products and services to do certain things. First, they cannot require these companies to change how their security features work so that government agencies can spy on users or search their devices. Second, they cannot require companies to be able to unlock or decode information that has been encrypted or scrambled for security. Third, they cannot ban the sale of products or services just because those products use encryption or similar security features. A covered product or service means any computer equipment, computer programs, electronic devices, or internet services that have been sold across state lines and are available to regular people to buy or use. An online service means internet services that let people send messages like emails and texts, share files with others, or use remote computer processing and storage. State means any of the fifty states, Washington DC, territories like Puerto Rico, and federally recognized Indian tribes.",
+      "word_offset": 29,
+      "char_offset": 183
+    }
+  ]
+}

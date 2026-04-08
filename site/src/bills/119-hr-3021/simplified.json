@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-3021",
+  "title": "Empowering Patient Choice of Medical Care Act",
+  "short_title": "Empowering Patient Choice of Medical Care Act",
+  "congress": 119,
+  "bill_number": "HR.3021",
+  "introduced_date": "2025-04-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7a4f77f867277200",
+  "last_updated": "2026-04-08T13:55:25.884326+00:00",
+  "plain_summary": "This bill changes the rules for Medicare patients starting in January 2026. Right now, the government can say that certain medical services must be done only when patients stay overnight in the hospital. Under this new law, the government cannot make that decision just because they think a service is only safe for patients who stay in the hospital overnight. Instead, patients and their doctors will have more choice about whether to do medical services on an outpatient basis, where patients can go home the same day.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-24",
+  "last_action_date": "2025-04-24",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Spartz, Victoria [R-IN-5]",
+  "sponsor_party": "R",
+  "sponsor_state": "IN",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "medicare outpatient services",
+    "hospital overnight stay requirements",
+    "medicare patient choice",
+    "outpatient vs inpatient medicare",
+    "medicare same day surgery",
+    "hospital admission rules",
+    "medicare coverage decisions",
+    "outpatient medical procedures",
+    "medicare hospital stays",
+    "patient doctor decisions medicare"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Empowering Patient Choice of Medical Care Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-elimination-of-inpatient-only-service-list",
+      "title": "Section 2 Elimination of Inpatient-Only Service List",
+      "text": "Starting on January first, two thousand twenty six, the Secretary of Health and Human Services cannot refuse to approve a hospital service as an outpatient service just because the Secretary thinks that service can only be done safely when a patient stays overnight in the hospital. The Secretary must consider other factors beyond safety when deciding if a service can be done on an outpatient basis, where patients go home the same day.",
+      "word_offset": 13,
+      "char_offset": 74
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-3092",
+  "title": "Electrodiagnostic Medicine Patient Protection and Fraud Elimination Act of 2025",
+  "short_title": "Electrodiagnostic Medicine Patient Protection and Fraud Elimination Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.3092",
+  "introduced_date": "2025-04-30",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "1041d57eb762fd1d",
+  "last_updated": "2026-04-08T13:53:47.017626+00:00",
+  "plain_summary": "This bill creates new rules for two types of medical tests that check how well nerves and muscles work. Starting in 2025, Medicare will only pay for these tests if they are done at medical facilities that have been approved by special organizations. These approving organizations must make sure the facilities have good quality control and that the people giving the tests have at least three months of special training. The government will set up a committee to help create the rules that facilities must follow to get approved.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-30",
+  "last_action_date": "2025-04-30",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such ",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Rep. Sessions, Pete [R-TX-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "nerve tests",
+    "muscle tests",
+    "Medicare coverage",
+    "medical facility approval",
+    "nerve muscle testing",
+    "electrodiagnostic tests",
+    "Medicare fraud prevention",
+    "medical test quality",
+    "nerve function tests",
+    "muscle function tests",
+    "Medicare requirements",
+    "medical training standards"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Electrodiagnostic Medicine Patient Protection and Fraud Elimination Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-additional-requirements-for-electrodiagnostic-services",
+      "title": "Section 2  Additional Requirements for Electrodiagnostic Services",
+      "text": "This section changes how Medicare pays for certain medical tests that check nerve and muscle function. Starting three to four years after this law passes, Medicare will only pay for nerve conduction studies and needle electromyography tests if they are done at approved facilities. This rule does not apply to tests done during surgery to monitor the nervous system.\n\nNerve conduction studies test how well electrical signals move through nerves. Needle electromyography tests use small needles to check muscle electrical activity.\n\nAn approved facility is one that has been certified by an organization chosen by the Secretary of Health and Human Services. Within two years of this law passing, the Secretary must choose these certifying organizations. The Secretary will work with an advisory committee to make this choice. The Secretary must make sure there are enough certifying organizations to handle all the facilities that need approval. The Secretary should choose organizations that are well known and experienced in approving medical facilities.\n\nTo get approved, a facility must meet several requirements. The facility must have a quality control program to make sure tests are reliable, safe, and accurate. The facility must use proper equipment that can do both types of tests and show results in real time. For needle tests, the person doing the test must have at least three months of special training during medical residency or fellowship programs. The results must be read on site right when the test is done. For needle tests, the same person who did the test must read the results. For nerve tests, either the person who did the test or their supervisor must read the results. The Secretary can add other requirements as needed.\n\nWithin one year of this law passing, the Secretary must create detailed rules. These rules will explain how organizations can become approved to certify facilities. The rules will say how long approvals last and how often facilities must be checked again. The rules will explain how the Secretary can remove approval from certifying organizations that stop following the requirements. The rules will also explain what happens to facilities that were approved by an organization that loses its approval.\n\nWithin two years of this law passing, the Secretary must create an advisory committee called the National Electrodiagnostic Services Advisory Committee. This committee will help the Secretary make decisions about requirements for facilities. The committee will focus on reducing unnecessary treatments and surgeries, decreasing the need for repeat testing, making diagnoses more reliable, stopping fraud and abuse, and improving patient care. The committee will also give advice about the detailed rules and help decide which organizations should be approved to certify facilities.\n\nThe committee will have nine to eleven members chosen by the Secretary. These members cannot work for the federal government. The committee must include at least one doctor experienced in doing these tests at an approved lab, at least one physical therapist certified in clinical electrophysiology, other healthcare workers, at least one patient from an affected community, and other people the Secretary thinks are appropriate. The committee must meet at least twice each year.",
+      "word_offset": 19,
+      "char_offset": 128
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2645",
+  "title": "Congressional Oversight of the Antiquities Act",
+  "short_title": "Congressional Oversight of the Antiquities Act",
+  "congress": 119,
+  "bill_number": "HR.2645",
+  "introduced_date": "2025-04-03",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "539e49f30026b0e9",
+  "last_updated": "2026-04-08T13:54:02.127988+00:00",
+  "plain_summary": "This bill changes the rules for when the President creates new national monuments. Currently, when a President designates land as a national monument, it stays that way permanently. Under this new bill, any national monument created by the President would only last for six months or until the current Congress ends, whichever comes first. If Congress wants to keep the monument, they must pass a law to make it permanent. If Congress does not act and the monument expires, that same land cannot be made into a national monument again for twenty five years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-03",
+  "last_action_date": "2025-04-03",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [],
+  "sponsor_name": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "national monuments",
+    "president power",
+    "congress approval",
+    "land designation",
+    "monument creation",
+    "temporary monuments",
+    "congressional oversight",
+    "public lands",
+    "monument expiration",
+    "land protection rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Congressional Oversight of the Antiquities Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amendment-to-antiquities-act",
+      "title": "Section 2  Amendment to Antiquities Act",
+      "text": "This section changes the Antiquities Act, which is a law that lets the President create national monuments to protect important historic sites and natural areas. The changes add new rules about how long these monuments can last. When the President creates a new national monument or sets aside land for protection, it will only last temporarily unless Congress passes a law to make it permanent. The monument will end after whichever comes first: six months from when it was created, or when the current session of Congress ends. If Congress does not pass a law to keep the monument during this time period, or if Congress specifically rejects it, then the same land cannot be made into a national monument again for twenty five years.",
+      "word_offset": 12,
+      "char_offset": 75
+    }
+  ]
+}

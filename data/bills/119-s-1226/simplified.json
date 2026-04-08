@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-1226",
+  "title": "Restoring Fort Leonard Wood Act of 2025",
+  "short_title": "Restoring Fort Leonard Wood Act of 2025",
+  "congress": 119,
+  "bill_number": "S.1226",
+  "introduced_date": "2025-04-01",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "1b8091a51e39dedd",
+  "last_updated": "2026-04-08T13:55:53.505309+00:00",
+  "plain_summary": "This bill tells the Army Secretary that they must build new houses for military families at Fort Leonard Wood in Missouri. The Army has to replace more than one thousand old housing units with new ones. Congress is giving the Army seven hundred million dollars to pay for building all these new homes. This will help military families have better places to live on the Army base.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-01",
+  "last_action_date": "2025-04-01",
+  "last_action_text": "Read twice and referred to the Committee on Armed Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [],
+  "sponsor_name": "Sen. Hawley, Josh [R-MO]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "military housing",
+    "army base housing",
+    "Fort Leonard Wood",
+    "military families",
+    "new army homes",
+    "base housing construction",
+    "military family homes",
+    "army housing replacement",
+    "Missouri military base",
+    "soldier housing",
+    "military base construction",
+    "army family housing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Restoring Fort Leonard Wood Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-military-construction-projects",
+      "title": "Section 2 Military Construction Projects to Replace Military Family Housing Units at Fort Leonard Wood, Missouri",
+      "text": "The Secretary of the Army must build new housing to replace one thousand one hundred forty two housing units for military families at Fort Leonard Wood in Missouri. The Secretary can do this through one construction project or multiple construction projects. Congress gives permission for seven hundred million dollars to be set aside from government funds to pay for this housing replacement project.",
+      "word_offset": 16,
+      "char_offset": 88
+    }
+  ]
+}

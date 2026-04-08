@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-408",
+  "title": "Censuring Representative LaMonica McIver of New Jersey.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.408",
+  "introduced_date": "2025-05-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ba1ef452056ec0f4",
+  "last_updated": "2026-04-08T13:54:21.004117+00:00",
+  "plain_summary": "This bill is about punishing Representative LaMonica McIver from New Jersey for something she allegedly did wrong. The House of Representatives wants to officially censure her, which means they are formally criticizing her actions. They say she went into a government building where immigrants are held without getting permission first and that she hurt federal officers on May 9, 2025. If this passes, she would have to stand in front of the whole House while they read the censure out loud. The bill also asks for an ethics investigation to look into what happened.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-13",
+  "last_action_date": "2025-05-13",
+  "last_action_text": "Referred to the House Committee on Ethics.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [],
+  "sponsor_name": "Rep. Timmons, William R. [R-SC-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "SC",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "censure",
+    "LaMonica McIver",
+    "New Jersey representative",
+    "congressman punishment",
+    "immigration detention center",
+    "unauthorized building entry",
+    "attacking federal officers",
+    "House ethics investigation",
+    "formal criticism",
+    "congressional discipline",
+    "immigrant facility",
+    "government building trespassing"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This is a resolution to censure Representative LaMonica McIver of New Jersey. A censure is a formal statement of disapproval by the House of Representatives.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Reasons for Censure",
+      "text": "On May ninth, two thousand twenty five, Representative LaMonica McIver was involved in an incident at the Delaney Hall Detention Center in Newark, New Jersey. This is a federal immigration detention facility run by the United States Immigration and Customs Enforcement. The Department of Homeland Security and other sources say that a group including Representative McIver entered a secure federal facility without permission. This happened when a bus carrying detainees was arriving. Their actions disrupted operations and put law enforcement agents and detainees in danger. Body camera footage and other evidence show Representative McIver assaulting and intimidating federal law enforcement officers. It is illegal to assault, resist, oppose, intimidate, or interfere with a police officer who is doing their official duties. This is against section one hundred eleven of title eighteen of the United States Code. Members of the House of Representatives are trusted to follow the law and maintain public confidence in the honesty and dignity of the legislative branch.",
+      "word_offset": 25,
+      "char_offset": 158
+    },
+    {
+      "id": "s3",
+      "slug": "resolution-actions",
+      "title": "What This Resolution Does",
+      "text": "The House of Representatives censures Representative LaMonica McIver. Representative McIver must immediately come to the well of the House of Representatives to receive the censure. The well is the area in front of the Speaker's desk where members stand to address the House. Representative McIver will be censured when the Speaker reads this resolution out loud in public. The Committee on Ethics must investigate Representative McIver and consider additional disciplinary action as appropriate under House rules and past practices.",
+      "word_offset": 186,
+      "char_offset": 1230
+    }
+  ]
+}

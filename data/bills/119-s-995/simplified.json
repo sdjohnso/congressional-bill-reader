@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-s-995",
+  "title": "Choice in Automobile Retail Sales Act of 2025",
+  "short_title": "Choice in Automobile Retail Sales Act of 2025",
+  "congress": 119,
+  "bill_number": "S.995",
+  "introduced_date": "2025-03-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9ad5d78eb9196607",
+  "last_updated": "2026-04-08T13:53:22.496410+00:00",
+  "plain_summary": "This bill cancels a rule from the Environmental Protection Agency about car pollution. It also changes a law called the Clean Air Act. The changes make sure that future rules about car pollution cannot force car companies to use certain technology. The new rules also cannot limit what kinds of new cars people are allowed to buy.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-12",
+  "last_action_date": "2025-03-12",
+  "last_action_text": "Read twice and referred to the Committee on Environment and Public Works.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Sen. Crapo, Mike [R-ID]",
+  "sponsor_party": "R",
+  "sponsor_state": "ID",
+  "cosponsor_count": 24,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "car pollution rules",
+    "EPA car regulations",
+    "electric car mandate",
+    "gas car ban",
+    "automobile emissions",
+    "car buying choices",
+    "vehicle technology requirements",
+    "new car restrictions",
+    "clean air act changes",
+    "car dealership sales"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Choice in Automobile Retail Sales Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-repeal-of-multi-pollutant-emissions-standards",
+      "title": "Section 2  Repeal of Multi-Pollutant Emissions Standards for Light-Duty and Medium-Duty Vehicles",
+      "text": "A rule made by the Environmental Protection Agency is canceled and has no power. This rule was called Multi-Pollutant Emissions Standards for Model Years two thousand twenty seven and Later Light-Duty and Medium-Duty Vehicles. The Environmental Protection Agency published this rule in the Federal Register on April eighteenth, two thousand twenty four. Light-duty vehicles are things like cars and small trucks. Medium-duty vehicles are bigger trucks and vans.",
+      "word_offset": 17,
+      "char_offset": 94
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-ensuring-tailpipe-regulations-do-not-limit-availability",
+      "title": "Section 3  Ensuring Tailpipe Regulations Do Not Limit the Availability of New Motor Vehicles",
+      "text": "The Clean Air Act is changed to add new rules about car pollution standards. Any pollution rule that the Environmental Protection Agency makes for car exhaust pipes must follow these limits. The rules cannot force car makers to use one specific type of technology. The rules also cannot make it so that certain types of new cars or trucks become hard to find or buy because of what kind of engine they have. This applies to any rule made after January first, two thousand twenty one, and any rule suggested after this law is passed. The head of the Environmental Protection Agency has twenty four months after this law passes to change existing rules so they follow these new requirements.",
+      "word_offset": 85,
+      "char_offset": 556
+    }
+  ]
+}

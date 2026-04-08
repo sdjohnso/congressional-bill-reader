@@ -1,0 +1,92 @@
+{
+  "bill_id": "119-s-1447",
+  "title": "Early Childhood Nutrition Improvement Act",
+  "short_title": "Early Childhood Nutrition Improvement Act",
+  "congress": 119,
+  "bill_number": "S.1447",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "11e8ae55f9250ee2",
+  "last_updated": "2026-04-08T13:58:21.170321+00:00",
+  "plain_summary": "This bill makes changes to a government program that helps pay for meals at child care centers. The new rules will make the program easier to understand and reduce the amount of paperwork that child care centers have to fill out. The bill also makes sure child care centers are checked once a year and creates a fairer process when centers break the rules. Child care centers that take care of kids for longer hours will be able to get money back for more meals.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Sen. Blumenthal, Richard [D-CT]",
+  "sponsor_party": "D",
+  "sponsor_state": "CT",
+  "cosponsor_count": 7,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "child care meals",
+    "daycare food program",
+    "government meal assistance",
+    "childcare nutrition",
+    "daycare paperwork reduction",
+    "meal reimbursement childcare",
+    "child care center funding",
+    "daycare meal payments",
+    "early childhood food help",
+    "childcare program rules",
+    "daycare inspection requirements",
+    "meal money for daycares"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law will be called the Early Childhood Nutrition Improvement Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-eligibility-certification-criteria",
+      "title": "Section 2 Eligibility Certification Criteria for Proprietary Child Care Centers",
+      "text": "This section makes changes to the rules about which child care centers can join a federal food program. The changes reorganize how the rules are written and make them clearer. One important change is that certain types of child care institutions must now reapply every year to stay in the program. The section also adds a specific date of June twentieth two thousand to replace a general reference that was unclear.",
+      "word_offset": 11,
+      "char_offset": 71
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-review-of-serious-deficiency-process",
+      "title": "Section 3 Review of Serious Deficiency Process",
+      "text": "This section requires the Secretary of Agriculture to review and improve the process for handling serious problems in the child and adult care food program. Within one year, the Secretary must look at how officials decide when a child care provider has serious problems, how appeals work, and how to fix those problems. The review must examine how to tell the difference between honest mistakes and intentional rule breaking. The Secretary must also look at how states add their own extra rules on top of federal rules and find ways to reduce unnecessary requirements. After the review, the Secretary must create new guidance and rules that make the process fairer and reduce paperwork for parents. The new rules must include clear standards for what counts as rule breaking, a fair appeals process run by independent officials, and reasonable timeframes for fixing problems. States cannot use their own extra requirements when deciding if someone has seriously violated federal rules.",
+      "word_offset": 82,
+      "char_offset": 487
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-reimbursements-for-additional-meals",
+      "title": "Section 4 Reimbursements for Additional Meals or Snacks",
+      "text": "This section changes how many meals and snacks child care programs can get paid for each day. Most programs can get reimbursed for up to two meals and one snack, or one meal and two snacks, per child each day. But if children are in care for eight hours or more between the first and fourth meal times, programs can get paid for up to three meals and one snack, or two meals and two snacks, per child each day. The Secretary must study how often programs use this third meal option and how it helps working families and local economies. Within two years, the Secretary must report to Congress about these findings. Based on the study results, the Secretary must give guidance to program operators on how to best use the additional meal option while keeping costs reasonable for both operators and parents.",
+      "word_offset": 240,
+      "char_offset": 1473
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-adjustments",
+      "title": "Section 5 Adjustments",
+      "text": "This section changes how reimbursement rates are adjusted for inflation. Instead of using the Consumer Price Index for food at home, the rates will now be adjusted using the Consumer Price Index for food away from home. This means the payment rates will better reflect the actual costs that child care programs face when buying food for meals and snacks.",
+      "word_offset": 384,
+      "char_offset": 2279
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-advisory-committee-on-paperwork-reduction",
+      "title": "Section 6 Advisory Committee on Paperwork Reduction",
+      "text": "This section first makes some technical corrections to fix references and organize existing parts of the law better. It then creates a new advisory committee to reduce unnecessary paperwork in the child and adult care food program. Within one hundred eighty days, the Secretary must establish this committee with at least fourteen members representing different types of child care providers, state agencies, and advocacy groups. The committee will examine ways to reduce duplicate or unnecessary paperwork requirements while maintaining proper program accountability. The committee must consider using electronic systems and reducing overlapping requirements from different federal programs. Within two years, the Secretary must issue new guidance and rules based on the committee recommendations to streamline paperwork and recordkeeping. This includes allowing digital forms and electronic signatures in all states, eliminating certain enrollment forms, and requiring states to adopt modern technology. The Secretary must then report to Congress within one hundred eighty days explaining any committee recommendations that were not implemented and suggesting additional changes that would require new laws.",
+      "word_offset": 444,
+      "char_offset": 2634
+    }
+  ]
+}

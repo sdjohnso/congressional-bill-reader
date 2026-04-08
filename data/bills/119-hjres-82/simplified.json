@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hjres-82",
+  "title": "Disapproving the action of the District of Columbia Council in approving the Insurance Regulation Amendment Act of 2024.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HJRES.82",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "172c3f397b0b90c8",
+  "last_updated": "2026-04-08T13:55:13.223912+00:00",
+  "plain_summary": "Congress does not approve of a new insurance law that the District of Columbia passed. The DC Council made changes to how insurance works in Washington DC by passing the Insurance Regulation Amendment Act of 2024. DC had to send this new law to Congress for review, which they did in February 2025. Now Congress is officially saying they disapprove of this law and do not want it to go into effect.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Smith, Christopher H. [R-NJ-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "NJ",
+  "cosponsor_count": 13,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "DC insurance law",
+    "Washington DC insurance",
+    "Congress blocks DC law",
+    "District of Columbia insurance",
+    "insurance regulation DC",
+    "Congress disapproves DC",
+    "Washington insurance changes",
+    "DC council insurance",
+    "federal review DC law",
+    "insurance rules Washington DC"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "joint-resolution-title",
+      "title": "Joint Resolution Title",
+      "text": "This joint resolution disapproves an action taken by the District of Columbia Council when they approved the Insurance Regulation Amendment Act of 2024.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "resolution-text",
+      "title": "Resolution Text",
+      "text": "The Senate and House of Representatives of the United States working together decide that Congress disapproves of an action taken by the District of Columbia Council. The action Congress disapproves of is the Insurance Regulation Amendment Act of 2024, which was given the number D.C. Act 25-699. The District of Columbia Council passed this act on January 15, 2025. The Council then sent this act to Congress on February 6, 2025, following the rules in section 602(c)(1) of the District of Columbia Home Rule Act, which is a law that explains how Washington D.C. governs itself.",
+      "word_offset": 23,
+      "char_offset": 153
+    }
+  ]
+}

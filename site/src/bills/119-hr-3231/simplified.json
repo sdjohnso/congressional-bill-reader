@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-3231",
+  "title": "American Energy Act",
+  "short_title": "American Energy Act",
+  "congress": 119,
+  "bill_number": "HR.3231",
+  "introduced_date": "2025-05-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e2d8908598be8dce",
+  "last_updated": "2026-04-08T13:57:50.044798+00:00",
+  "plain_summary": "The American Energy Act makes it easier for oil and gas companies to drill for energy. The bill requires the government to keep approving drilling permits even when there are court cases happening about the land leases. It also sets a four-year time limit for how long drilling permits last. The law limits when judges can stop companies from selling leases or drilling for oil and gas.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-07",
+  "last_action_date": "2025-05-07",
+  "last_action_text": "Referred to the House Committee on Natural Resources.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Boebert, Lauren [R-CO-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "CO",
+  "cosponsor_count": 16,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "oil drilling permits",
+    "gas drilling permits",
+    "energy drilling laws",
+    "oil company permits",
+    "gas company permits",
+    "drilling on government land",
+    "oil and gas leases",
+    "energy permit approval",
+    "court cases drilling",
+    "judges stopping drilling",
+    "oil drilling time limits",
+    "gas drilling restrictions"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the American Energy Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-processing-applications-for-permits-to-drill",
+      "title": "Section 2 Processing Applications for Permits to Drill",
+      "text": "This section changes the rules about drilling permits on federal land. First, it says that if someone sues about an oil or gas lease, the government must still process applications for drilling permits on that lease. The only exception is if a federal court has already canceled the lease completely. Even if there are lawsuits going on, companies can still apply for permits to drill as long as their lease is still valid. Second, this section sets a time limit for drilling permits. Any new drilling permit will be good for four years from the day it gets approved. However, if the original lease runs out before the four years are up, then the permit ends when the lease ends.",
+      "word_offset": 9,
+      "char_offset": 48
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-lease-sale-litigation",
+      "title": "Section 3 Lease Sale Litigation",
+      "text": "This section limits what courts can do when people sue about oil and gas lease sales. Courts cannot cancel lease sales or stop drilling activities unless they decide that allowing the drilling would cause immediate and serious harm to the environment and there is no other way to fix the problem. Courts also cannot stop the government from giving leases to winning bidders if the Department of the Interior has already opened the bids or announced who the highest bidder was for any piece of land in that lease sale. These rules apply to lease sales on both regular federal land and offshore areas in federal waters.",
+      "word_offset": 129,
+      "char_offset": 728
+    }
+  ]
+}
