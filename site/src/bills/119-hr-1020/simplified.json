@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1020",
+  "title": "BOOST Act",
+  "short_title": "BOOST Act",
+  "congress": 119,
+  "bill_number": "HR.1020",
+  "introduced_date": "2025-02-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "f353cdba08575572",
+  "last_updated": "2026-04-10T01:50:44.982892+00:00",
+  "plain_summary": "The BOOST Act creates a tax credit to help people in rural areas get better internet service at home. If you live in an area with slow internet speeds below 25 megabits per second, you can get money back on your taxes for buying equipment that boosts internet signals. The government will pay back 75 percent of what you spend on things like Wi-Fi boosters or satellite equipment, up to 400 dollars total. This tax credit will be available through 2029 and is designed to help people in areas where internet service is poor or unavailable.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-05",
+  "last_action_date": "2025-02-05",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Moolenaar, John R. [R-MI-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "rural internet",
+    "slow internet help",
+    "internet tax credit",
+    "wifi booster tax break",
+    "satellite internet rebate",
+    "internet equipment discount",
+    "rural broadband assistance",
+    "home internet improvement",
+    "internet signal booster credit",
+    "country internet subsidy"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Broadening Online Opportunities through Simple Technologies Act or the BOOST Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-broadband-internet-communications-signal-booster-credit",
+      "title": "Section 2 Broadband Internet Communications Signal Booster Credit",
+      "text": "This section creates a new tax credit. If you choose to use this credit, you can get money back on your taxes when you buy equipment to boost your internet signal. The credit equals seventy five percent of what you spend, up to four hundred dollars maximum. This means the most you can get back is three hundred dollars.\n\nTo qualify for this credit, you must buy certain types of equipment. You can buy communications signal boosters, which are devices that make wireless signals stronger. You can also buy customer equipment that works with satellites, or ground station equipment that sends and receives signals from satellites. The equipment must be new to you and used at your main home. Your home must be in an area that does not have good internet service.\n\nA communications signal booster is a device that takes a weak wireless signal and makes it stronger so it can carry broadband internet service better. An area without good internet service means a place that can get money from a government program called the Rural Digital Opportunity Fund. This program was created by the Federal Communications Commission in January twenty twenty.\n\nYou can only use this credit once. If you claim it in one year, you cannot claim it again in future years.\n\nThe Treasury Department will work with the Federal Communications Commission to write rules about how this credit works. They will also create a program where businesses that sell this equipment can voluntarily report their sales in areas with poor internet service.\n\nThis credit will end after December thirty first twenty twenty nine. The credit starts for tax years beginning after December thirty first twenty twenty five.",
+      "word_offset": 17,
+      "char_offset": 109
+    }
+  ]
+}
