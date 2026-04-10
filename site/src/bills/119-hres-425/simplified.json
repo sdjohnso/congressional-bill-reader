@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hres-425",
+  "title": "Expressing support for designation of May 16, 2025, as the \"National Day of Light\".",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.425",
+  "introduced_date": "2025-05-17",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "3bd075974ff12994",
+  "last_updated": "2026-04-10T13:28:12.379055+00:00",
+  "plain_summary": "This bill asks Congress to support making May 16, 2025, a special day called the National Day of Light. The purpose is to teach people about how important light is in our everyday lives, including in technology, medicine, and communication. The bill explains that light-based inventions have helped solve problems around the world and have kept America a leader in science. It encourages schools and colleges to celebrate this day by doing educational activities about light.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-17",
+  "last_action_date": "2025-05-17",
+  "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Morelle, Joseph D. [D-NY-25]",
+  "sponsor_party": "D",
+  "sponsor_state": "NY",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "National Day of Light",
+    "May 16 2025",
+    "light technology",
+    "science education",
+    "optical technology",
+    "laser technology",
+    "fiber optics",
+    "medical light",
+    "light communication",
+    "photonics",
+    "light awareness day",
+    "STEM education"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution shows support for making May 16, 2025, the National Day of Light.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "whereas-clauses",
+      "title": "Reasons for Supporting the National Day of Light",
+      "text": "The National Day of Light would help people learn about how important light is in our daily lives and in modern technology and new inventions. For hundreds of years, technologies that use light have helped solve problems around the world in areas like energy, farming, manufacturing, communications, national security, and health care. Optics and photonics is the science of studying how light works and using it for useful purposes. Light has changed medicine by giving us tools like x-ray pictures, laser surgery, and cancer treatments. Light has changed how we communicate through the internet, which we cannot imagine living without today. Light has made transportation safer with sensors in cars and systems that watch over roads and bridges. Light has greatly helped the United States gather information, defend the country, and protect soldiers in the field. Most of what we know about the universe comes from technologies that use light, starting with what Galileo could see with his eyes and now including x-rays, infrared light, radio waves, and even gravitational waves detected by lasers. Advanced manufacturing is possible because of light-based technologies that can make custom and precise products with high value through methods like three-dimensional printing. Quantum computing, sensing, and communication systems mostly work because of light-based technologies. Through the National Quantum Initiative Act, the United States is speeding up our investment in quantum information science and the development of quantum-based technologies that people can buy, which helps grow the United States economy and protects our national security. The year 2025 marks forty years since the invention of chirped pulse amplification, a method used to make very short laser pulses stronger. This technique won the 2018 Nobel Prize in Physics and has become the foundation of all modern high-power lasers. It has made possible amazing uses of very intense light including LASIK laser eye surgery, cancer treatment, commercial laser materials processing, basic physics research, and super-fast imaging including attosecond science. May 16 is already recognized around the world as the Day of Light.",
+      "word_offset": 14,
+      "char_offset": 82
+    },
+    {
+      "id": "s3",
+      "slug": "resolved-clauses",
+      "title": "What the House of Representatives Supports",
+      "text": "The House of Representatives supports making a National Day of Light. The House recognizes that the United States continues to be important as the world leader in science and technologies that use light. The House recognizes how important it is to inspire the next generation of scientists, researchers, inventors, technicians, and entrepreneurs. The House encourages schools, community colleges, and universities to observe the day with appropriate activities.",
+      "word_offset": 348,
+      "char_offset": 2284
+    }
+  ]
+}

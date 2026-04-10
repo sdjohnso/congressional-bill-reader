@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1505",
+  "title": "A bill to ensure that Social Security beneficiaries receive regular statements from the Social Security Administration, and for other purposes.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "S.1505",
+  "introduced_date": "2025-04-29",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "f4371e009b453f5a",
+  "last_updated": "2026-04-10T13:28:28.299192+00:00",
+  "plain_summary": "This bill says the Social Security Administration must mail paper statements to everyone who has a Social Security account by January 2027. The statements will be sent based on how old people are and whether they are working. Right now, people can only get these statements online, but this law would make sure everyone gets a paper copy in the mail. The bill also gives the Social Security Administration money to pay for printing and mailing all these statements.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-29",
+  "last_action_date": "2025-04-29",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Social Welfare",
+  "subjects": [],
+  "sponsor_name": "Sen. Cassidy, Bill [R-LA]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "social security statements",
+    "paper statements mail",
+    "social security paperwork",
+    "mailed social security",
+    "social security letters",
+    "print social security statements",
+    "social security administration mail",
+    "social security account statements",
+    "retirement statements mail",
+    "social security benefits mail"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-ensuring-beneficiaries-receive-regular-social-security-statements",
+      "title": "Section 1  Ensuring Beneficiaries Receive Regular Social Security Statements",
+      "text": "By January first, two thousand twenty-seven, the person in charge of Social Security must make sure that people get paper statements about their Social Security accounts in the mail. People must get these statements when they start working or get a new job. People must also get these statements mailed to them regularly based on their age. If you are twenty-five years old or older, you get one statement every five years. If you are fifty-five years old or older, you get one statement every two years. If you are sixty years old or older, you get one statement every year. People will get these paper statements even if they already have an online account called my Social Security with the Social Security Administration. People can choose to stop getting these paper statements if they want to.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-administrative-expenses",
+      "title": "Section 2  Limitation on Administrative Expenses",
+      "text": "Congress gives permission to spend whatever money is needed each year starting in two thousand twenty-six to pay for the costs of running this law. This money goes to the person in charge of Social Security to cover the expenses of the Social Security Administration.",
+      "word_offset": 137,
+      "char_offset": 800
+    }
+  ]
+}
