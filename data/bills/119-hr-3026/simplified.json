@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-3026",
+  "title": "Protecting America’s Cybersecurity Act",
+  "short_title": "Protecting America’s Cybersecurity Act",
+  "congress": 119,
+  "bill_number": "HR.3026",
+  "introduced_date": "2025-04-24",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "3782a8cf97b07033",
+  "last_updated": "2026-04-14T01:53:09.998732+00:00",
+  "plain_summary": "The Protecting America's Cybersecurity Act would help people who got fired from CISA, a government agency that protects computers and the internet from hackers. If someone was fired from CISA between late January and early March 2025, this bill would let them get their job back and receive the pay they missed. The bill also says that in the future, no one can be fired or moved from CISA unless Congress agrees to it first. Additionally, people who work for the Department of Government Efficiency would not be allowed to work at CISA.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-24",
+  "last_action_date": "2025-04-24",
+  "last_action_text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Torres, Norma J. [D-CA-35]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "cybersecurity jobs",
+    "government workers fired",
+    "CISA employees",
+    "computer security agency",
+    "getting job back",
+    "wrongful termination",
+    "internet protection workers",
+    "cyber defense jobs",
+    "federal employee rights",
+    "Department of Government Efficiency"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protecting America's Cybersecurity Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reinstatement-and-limitation-on-removal-of-cisa-employees",
+      "title": "Section 2 Reinstatement and Limitation on Removal of CISA Employees",
+      "text": "Any person who was fired from their job at the Cybersecurity and Infrastructure Security Agency (CISA) between January twenty-fifth, two thousand twenty-five and March first, two thousand twenty-five can choose to get their job back. If they choose to return, they will get back pay according to existing federal law. After this law passes, no employee can be fired from CISA or moved to a job outside of CISA unless Congress passes a new law allowing it. Also, no money meant for CISA can be held back, moved to other agencies, or used for different purposes unless Congress passes a law allowing it or unless existing budget laws already give this authority. However, there are exceptions to getting jobs back. People who were fired from political positions, people fired for bad behavior or poor work performance, or people whose most recent job review was unacceptable or less than fully successful cannot get their jobs back under this law. Also, the rules about not firing or transferring employees do not apply to people in political positions. A political position means a high-level executive job listed in federal salary schedules, a Senior Executive Service position that is not a career position, or a confidential or policy-making position under federal regulations.",
+      "word_offset": 10,
+      "char_offset": 67
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-limitation-on-doge-employees-working-at-cisa",
+      "title": "Section 3 Limitation on DOGE Employees Working at CISA",
+      "text": "No federal money can be used to pay the salary or expenses of any employee from the Department of the United States DOGE Service (also called the Department of Government Efficiency or DOGE) or any employee from a DOGE agency team who is transferred, detailed, or otherwise working at the Cybersecurity and Infrastructure Security Agency.",
+      "word_offset": 218,
+      "char_offset": 1347
+    }
+  ]
+}
