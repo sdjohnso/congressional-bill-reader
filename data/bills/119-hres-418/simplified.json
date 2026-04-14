@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hres-418",
+  "title": "Ride-Along Resolution",
+  "short_title": "Ride-Along Resolution",
+  "congress": 119,
+  "bill_number": "HRES.418",
+  "introduced_date": "2025-05-15",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a1442c1e560e634b",
+  "last_updated": "2026-04-14T14:04:34.533575+00:00",
+  "plain_summary": "This bill would make every member of the House of Representatives spend one work day riding in a police car with a police officer in their home area. They would have to do this once every two years while they are in office. If a House member does not complete this police ride-along, their name would be put on a public list that everyone can see. The list would also be published in the official Congressional Record.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-15",
+  "last_action_date": "2025-05-15",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [],
+  "sponsor_name": "Rep. Craig, Angie [D-MN-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "MN",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "police ride along",
+    "congress police training",
+    "representatives ride with cops",
+    "house members police car",
+    "politicians police experience",
+    "lawmakers police patrol",
+    "congress police requirement",
+    "representatives police training",
+    "politicians ride along police",
+    "house members police work"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This resolution can be called the Ride-Along Resolution.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirement-for-members-of-the-house-of-representatives-to-participate-in-one-ride-along-during-each-term-of-congress",
+      "title": "Section 2  Requirement for Members of the House of Representatives to Participate in One Ride-Along During Each Term of Congress",
+      "text": "Every person who serves in the House of Representatives must do one ride-along in their home district during each two-year term they serve. A ride-along means spending one work shift sitting in the passenger seat of a police car to watch what a local police officer does during their workday. The Committee on House Administration will write the detailed rules for how this requirement works. If the Committee on Ethics decides that a House member did not complete their required ride-along by the deadline, the Committee must do two things. First, they must put that member's name on a public list on their website that shows which members have not done their ride-along. Second, they must publish information in the Congressional Record about that member's failure to complete the requirement. In this section, a Member of the House of Representatives includes Delegates and the Resident Commissioner to Congress. This requirement starts with the One Hundred Eighteenth Congress and continues for all future sessions of Congress.",
+      "word_offset": 8,
+      "char_offset": 57
+    }
+  ]
+}

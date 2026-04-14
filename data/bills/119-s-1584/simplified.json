@@ -1,0 +1,84 @@
+{
+  "bill_id": "119-s-1584",
+  "title": "Transparency and Honesty in Energy Regulations Act of 2025",
+  "short_title": "Transparency and Honesty in Energy Regulations Act of 2025",
+  "congress": 119,
+  "bill_number": "S.1584",
+  "introduced_date": "2025-05-01",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "620a490c827677d3",
+  "last_updated": "2026-04-14T14:08:48.263586+00:00",
+  "plain_summary": "This bill would stop government agencies from using estimates about how much greenhouse gases like carbon dioxide cost society when they make new rules or decisions. It requires agencies to tell Congress how many times they have used these cost estimates since 2009. The bill also tells agencies they must follow certain government guidelines when they study how their actions might affect the environment. The goal is to change how the government considers the costs of pollution when making rules that affect businesses and the public.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-01",
+  "last_action_date": "2025-05-01",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Sen. Lankford, James [R-OK]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "greenhouse gas regulations",
+    "carbon dioxide cost estimates",
+    "government environmental rules",
+    "pollution cost calculations",
+    "business regulation changes",
+    "environmental impact studies",
+    "climate change policy",
+    "government agency oversight",
+    "energy regulation transparency",
+    "carbon pricing ban",
+    "environmental rule making",
+    "pollution regulation reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Transparency and Honesty in Energy Regulations Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, these terms mean the following things. A Federal agency means any government department or office that has the same meaning as the word agency in section five hundred fifty one of title five of the United States Code. The social cost of carbon means dollar estimates of how much damage carbon dioxide causes to society when it is released into the air. This includes estimates from specific government reports written between two thousand ten and two thousand twenty four, as well as any similar reports written later. It also means any other dollar estimate of harm caused by adding more carbon dioxide to the atmosphere in any given year. The social cost of greenhouse gases means dollar estimates of how much damage any greenhouse gas causes to society when it is released into the air. This includes estimates from specific government reports written between two thousand ten and two thousand twenty one, as well as any similar reports written later. It also means any other dollar estimate of harm caused by adding more greenhouse gases to the atmosphere in any given year. The social cost of methane means dollar estimates of how much damage methane gas causes to society when it is released into the air. This includes estimates from specific government reports written between two thousand sixteen and two thousand twenty four, as well as any similar reports written later. It also means any other dollar estimate of harm caused by adding more methane to the atmosphere in any given year. The social cost of nitrous oxide means dollar estimates of how much damage nitrous oxide gas causes to society when it is released into the air. This includes estimates from specific government reports written between two thousand sixteen and two thousand twenty one, as well as any similar reports written later. It also means any other dollar estimate of harm caused by adding more nitrous oxide to the atmosphere in any given year.",
+      "word_offset": 18,
+      "char_offset": 107
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-on-considering-social-cost",
+      "title": "Section 3  Prohibition on Considering the Social Cost of Greenhouse Gases, Including the Social Cost of Carbon, the Social Cost of Methane, and the Social Cost of Nitrous Oxide",
+      "text": "The head of any Federal agency cannot consider the social cost of carbon, the social cost of methane, the social cost of nitrous oxide, or the social cost of greenhouse gases in the following situations. They cannot use these costs as part of any analysis that weighs benefits against costs or measures how cost effective something is when such analysis is required by any law or by Executive Orders twelve thousand eight hundred sixty six or thirteen thousand five hundred sixty three. They cannot use these costs when making any new rules. They cannot use these costs when issuing any guidance to help people understand regulations. They cannot use these costs when taking any other agency action. They cannot use these costs to justify any new rules, guidance documents, or agency actions.",
+      "word_offset": 346,
+      "char_offset": 2052
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-report-to-congress",
+      "title": "Section 4  Report to Congress",
+      "text": "No later than one hundred twenty days after this law is passed, the head of each Federal agency must send a report to specific committees in the Senate and House of Representatives. The report must describe how many proposed and final new rules, guidance documents, and agency actions have used the social cost of carbon, the social cost of greenhouse gases, the social cost of methane, or the social cost of nitrous oxide since January two thousand nine. This includes using these costs as part of any benefit and cost analysis required by Executive Order twelve thousand eight hundred sixty six or other relevant authority. The Senate committees are Environment and Public Works and Energy and Natural Resources. The House committees are Energy and Commerce and Natural Resources.",
+      "word_offset": 478,
+      "char_offset": 2845
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-prioritizing-accuracy-in-environmental-analyses",
+      "title": "Section 5  Prioritizing Accuracy in Environmental Analyses",
+      "text": "When carrying out any process to give permits or create regulations, Federal agency heads must follow these rules. They can only consider environmental factors that Congress has specifically required them to consider in a law. Using any environmental consideration that Congress has not specifically required is not allowed. When following these rules, agency heads must use the strongest and most reliable methods of assessment available, as determined by that agency head. They cannot use any method that is random or based on ideology rather than facts. Federal agency heads must also make sure that any estimates they use to assess the value of changes in greenhouse gas emissions from their agency's actions follow the guidance in Office of Management and Budget Circular A-four from September seventeen two thousand three. This includes how they consider effects within the United States versus effects around the world, and how they evaluate appropriate discount rates, to the extent the law allows. When appropriate and consistent with applicable law, agencies should start a process to change any rule, regulation, policy, or action as needed to make sure it follows Office of Management and Budget Circular A-four from September seventeen two thousand three.",
+      "word_offset": 606,
+      "char_offset": 3628
+    }
+  ]
+}
