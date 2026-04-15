@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-3318",
+  "title": "SEC Modernization Act",
+  "short_title": "SEC Modernization Act",
+  "congress": 119,
+  "bill_number": "HR.3318",
+  "introduced_date": "2025-05-09",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "6d56ead361dac6ee",
+  "last_updated": "2026-04-15T01:50:11.381511+00:00",
+  "plain_summary": "The SEC Modernization Act requires the Securities and Exchange Commission to reorganize how its offices are set up. The bill makes the Commission move some offices to work under different departments and combine some offices together. The Commission can make more changes to its organization later if it wants to. The bill also lets the Commission combine its regional offices that are located in different parts of the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-09",
+  "last_action_date": "2025-05-09",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Downing, Troy [R-MT-2]",
+  "sponsor_party": "R",
+  "sponsor_state": "MT",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "SEC reorganization",
+    "securities commission restructure",
+    "government agency reform",
+    "financial regulator changes",
+    "SEC office merger",
+    "securities oversight modernization",
+    "financial agency reorganization",
+    "SEC department restructuring",
+    "government office consolidation",
+    "securities regulation reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the SEC Modernization Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-commission-organization",
+      "title": "Section 2  Commission Organization",
+      "text": "The Securities and Exchange Commission (the government agency that watches over stock markets and investments) must reorganize some of its offices. The Commission must move the Office of the Secretary, the Office of the Ethics Counsel, and the Office of International Affairs into the Office of the General Counsel. The people who run these moved offices will report to the General Counsel. The Commission must also move the Office of the Chief Accountant, the Office of Credit Ratings, and the Office of Municipal Securities into the Division of Corporate Finance. The people who run these moved offices will report to the head of the Division of Corporate Finance. The Commission must combine the Office of Legislative and Intergovernmental Affairs with the Office of Public Affairs. The office that has more employees will choose who leads the combined office. This leader will report to the Chief of Staff. The Commission must move the Office of Investor Education and Advocacy into the Office of the Investor Advocate. The person who runs the Office of Investor Education and Advocacy will report to the Investor Advocate. Even with these changes, the Commission can still reorganize these offices again later if they think it would help protect investors or serve the public good. The Commission may also combine its regional offices if it thinks this would be helpful.",
+      "word_offset": 9,
+      "char_offset": 50
+    }
+  ]
+}

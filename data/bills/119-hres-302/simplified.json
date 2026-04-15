@@ -1,0 +1,52 @@
+{
+  "bill_id": "119-hres-302",
+  "title": "Of inquiry requesting the President and directing the Secretaries of the Treasury and Labor to transmit, respectively, certain documents to the House of Representatives relating to the effect on local economies and communities of the Department of Government Efficiency and newly-imposed tariffs.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.302",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b70f72a32d39ff08",
+  "last_updated": "2026-04-15T01:50:25.772469+00:00",
+  "plain_summary": "Congress wants the President and two government departments to hand over papers that show how recent changes are hurting local towns and cities. They want to know about people losing their jobs because the government is firing workers and cutting programs. They also want to learn about how new taxes on goods from other countries are making things more expensive for families. The House of Representatives is demanding this information so they can understand what these new policies are doing to communities across America.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Beyer, Donald S. [D-VA-8]",
+  "sponsor_party": "D",
+  "sponsor_state": "VA",
+  "cosponsor_count": 15,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government efficiency",
+    "job cuts",
+    "government layoffs",
+    "tariffs",
+    "import taxes",
+    "local economy",
+    "community impact",
+    "cost of living",
+    "expensive goods",
+    "government documents",
+    "congressional inquiry",
+    "policy effects"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-text",
+      "title": "Resolution Text",
+      "text": "This resolution asks the President and orders the Treasury Secretary and Labor Secretary to send documents to the House of Representatives within fourteen days. The House wants copies of any documents, records, audio recordings, memos, call logs, letters, emails, agreements, reports, studies, or other communications about three specific topics. First, they want information about how local economies lost money when the Department of Government Efficiency recommended firing many federal workers and ending office leases. This includes workers from the Internal Revenue Service and local Social Security offices. Second, they want data about unemployment since January twentieth, two thousand twenty five, including how many people lost jobs, how unemployment rates went up, how long people stayed unemployed, how many filed for unemployment benefits, and how federal unemployment programs were affected in communities where the Department of Government Efficiency caused job cuts or ended big federal contracts. They want this information broken down by state, region, and local community. Third, they want predictions about how much more expensive imported goods will cost due to tariffs placed on Canada, Mexico, and other countries since January twentieth, two thousand twenty five, with information at national, state, regional, and local levels.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}

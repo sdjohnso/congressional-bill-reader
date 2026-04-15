@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-3278",
+  "title": "Protecting Critical Infrastructure Act",
+  "short_title": "Protecting Critical Infrastructure Act",
+  "congress": 119,
+  "bill_number": "HR.3278",
+  "introduced_date": "2025-05-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b16a1392073c2e6c",
+  "last_updated": "2026-04-15T01:49:40.578576+00:00",
+  "plain_summary": "This bill makes the punishments for hacking into important American systems much more severe. If someone uses a computer to attack things like power grids or water systems, they could go to prison for at least thirty years or even for life. The bill also says the President must punish people from other countries who hack into these important systems by freezing their money and not letting them come to America. The goal is to better protect the critical infrastructure that Americans depend on every day.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-08",
+  "last_action_date": "2025-05-08",
+  "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provi",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Crime and Law Enforcement",
+  "subjects": [],
+  "sponsor_name": "Rep. Fallon, Pat [R-TX-4]",
+  "sponsor_party": "R",
+  "sponsor_state": "TX",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "cyber attack",
+    "hacking punishment",
+    "power grid protection",
+    "water system security",
+    "infrastructure hacking",
+    "computer crimes",
+    "critical systems",
+    "foreign hackers",
+    "cyber security",
+    "prison sentences hacking",
+    "sanctions cyber criminals",
+    "protect utilities"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Protecting Critical Infrastructure Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-fraud-and-related-activity-in-connection-with-critical-infrastructure",
+      "title": "Section 2  Fraud and Related Activity in Connection with Critical Infrastructure",
+      "text": "This section changes the punishment for computer crimes that target critical infrastructure. Critical infrastructure means the important systems our country needs to function, like power grids, water systems, and transportation networks. If someone commits a computer crime that involves critical infrastructure, they can now be fined and sentenced to prison for at least thirty years or for life.",
+      "word_offset": 10,
+      "char_offset": 67
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-imposition-of-sanctions-with-respect-to-foreign-persons-that-knowingly-access-critical-infrastructure",
+      "title": "Section 3  Imposition of Sanctions with Respect to Foreign Persons that Knowingly Access Critical Infrastructure",
+      "text": "The President must punish foreign people who try to hack into or damage America's critical infrastructure to hurt our national security or harm American citizens or permanent residents. The punishments include blocking their money and property in the United States and banning them from entering the country. If they already have visas, those visas will be canceled immediately. People who help someone avoid these punishments can face the same penalties as breaking economic emergency laws. The President can make an exception if someone needs to enter the United States because of our agreement with the United Nations. The President can temporarily remove these punishments for up to one hundred eighty days if it is vital for national security, but must tell Congress fifteen days before doing so. The President has the same powers as during economic emergencies to carry out these punishments. Within ninety days of this law passing, the President must create rules to enforce it and tell Congress about these rules at least ten days before making them official. This section defines important terms like foreign person meaning someone who is not an American citizen or permanent resident, and knowingly meaning someone actually knew or should have known what they were doing.",
+      "word_offset": 68,
+      "char_offset": 465
+    }
+  ]
+}

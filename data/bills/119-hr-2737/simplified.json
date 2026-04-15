@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2737",
+  "title": "ELON MUSK Act",
+  "short_title": "ELON MUSK Act",
+  "congress": 119,
+  "bill_number": "HR.2737",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ace02c97e7570634",
+  "last_updated": "2026-04-15T01:50:37.874442+00:00",
+  "plain_summary": "This bill is about special government employees who work for the government part time or for short periods. These workers can only work for the government less than 130 days per year. The bill says these special employees cannot have contracts to do business with the federal government. If they already have contracts with the government, those contracts must end. This stops part-time government workers from also being paid contractors for the same government.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Pocan, Mark [D-WI-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "WI",
+  "cosponsor_count": 18,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "part time government workers",
+    "government contractors",
+    "conflict of interest",
+    "dual employment",
+    "government employees with contracts",
+    "special government employees",
+    "federal contracting rules",
+    "government worker restrictions",
+    "public service ethics",
+    "government employment limits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Eliminating Looting of Our Nation by Mitigating Unethical State Kleptocracy Act of two thousand twenty five or the ELON MUSK Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-special-government-employees-holding-contracts-or-agreements-with-the-federal-government",
+      "title": "Section 2 Prohibition on Special Government Employees Holding Contracts or Agreements with the Federal Government",
+      "text": "A special government employee cannot sign or get money from any contract or agreement with the federal government. A special government employee is someone who works for the government part time or temporarily for less than one hundred thirty days in a year. Any contract or agreement that a special government employee already has with the federal government when this law starts must be ended right away. The meaning of special government employee comes from section two hundred two of title eighteen of the United States Code.",
+      "word_offset": 27,
+      "char_offset": 157
+    }
+  ]
+}
