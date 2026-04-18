@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hres-314",
+  "title": "Of inquiry requesting the President and directing the Secretary of Health and Human Services to transmit, respectively, certain documents to the House of Representatives relating to the effect on taxpayer and child privacy of the seizure by the so-called \"Department of Government Efficiency\" of legally-protected identity and financial data stored in the National Directory of New Hires and the Federal Parent Locator Service.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.314",
+  "introduced_date": "2025-04-09",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a06c6f171f5e7fa2",
+  "last_updated": "2026-04-18T13:18:12.660768+00:00",
+  "plain_summary": "Congress wants to know how a group called the Department of Government Efficiency got access to private information about American workers and families. This information was supposed to be protected and kept secret in government databases. The House of Representatives is demanding that the President and the Secretary of Health and Human Services turn over documents within two weeks to explain what happened. They want to find out how this group was able to see confidential data about millions of Americans and why the privacy protections failed.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-09",
+  "last_action_date": "2025-04-09",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Davis, Danny K. [D-IL-7]",
+  "sponsor_party": "D",
+  "sponsor_state": "IL",
+  "cosponsor_count": 18,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government efficiency department",
+    "private data breach",
+    "worker information stolen",
+    "family privacy violation",
+    "government database hack",
+    "taxpayer data seized",
+    "child information exposed",
+    "federal employee records",
+    "privacy protection failure",
+    "confidential data access"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "resolution-title",
+      "title": "Resolution Title",
+      "text": "This resolution asks the President and tells the Secretary of Health and Human Services to send documents to the House of Representatives. These documents should show how the so-called Department of Government Efficiency has affected the privacy of taxpayers and children. The concern is about this group taking legally protected identity and financial information from two government databases called the National Directory of New Hires and the Federal Parent Locator Service.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "document-request",
+      "title": "Document Request",
+      "text": "The President is asked and the Secretary of Health and Human Services is ordered to send copies of documents to the House of Representatives within fourteen days after this resolution passes. These documents include any papers, records, audio recordings, notes, call logs, letters, electronic messages, activity logs, audit trails, audit logs, written agreements, or other communications that relate to specific topics about the Department of Government Efficiency.",
+      "word_offset": 71,
+      "char_offset": 478
+    },
+    {
+      "id": "s3",
+      "slug": "specific-information-requests",
+      "title": "Specific Information Requests",
+      "text": "The documents must cover six specific areas. First, any request from the Department of Government Efficiency to access information about American workers that is protected under federal law and stored in the National Database of New Hires. Second, where copies of this data are kept by Department of Government Efficiency employees and what security protections are used. Third, previous legal opinions or internal communications about requests to access this worker database for purposes not allowed by law or without proper agreements that set conditions, limit who can access the data, and require training and background checks. Fourth, any request from the Department of Government Efficiency for confidential financial information or personal identifying information of more than forty million Americans, including over nineteen million records stored in the Federal Parent Locator Service, which helps with child support payments from non-custodial parents. Fifth, any staff who were fired, retired, or quit from the Department of Health and Human Services who worked with these databases after the Department of Government Efficiency first asked for information from the Federal Case Registry. Sixth, any attempt by Department of Government Efficiency employees to access information that is protected under federal Social Security law.",
+      "word_offset": 138,
+      "char_offset": 944
+    }
+  ]
+}

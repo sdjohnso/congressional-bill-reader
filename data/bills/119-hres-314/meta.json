@@ -28,10 +28,9 @@
   "became_law_date": "",
   "vetoed": false,
   "vetoed_date": "",
-  "simplified_complete": false,
-  "queued_at": "2026-04-18T01:30:14.301429+00:00",
-  "process_failed": true,
-  "process_error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-05-01 at 00:00 UTC.'}, 'request_id': 'req_011CaANWwXj6zsP3A98snPYx'}",
-  "failed_chunk": 1,
-  "last_process_attempt": "2026-04-18T01:30:37.582291+00:00"
+  "simplified_complete": true,
+  "queued_at": "2026-04-18T13:17:51.610327+00:00",
+  "version_hash": "a06c6f171f5e7fa2",
+  "last_processed": "2026-04-18T13:18:12.661110+00:00",
+  "section_count": 3
 }
