@@ -1,0 +1,59 @@
+{
+  "bill_id": "119-hr-2857",
+  "title": "Drain the Swamp Act",
+  "short_title": "Drain the Swamp Act",
+  "congress": 119,
+  "bill_number": "HR.2857",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "61a9ae35cba3321b",
+  "last_updated": "2026-04-21T01:54:39.246940+00:00",
+  "plain_summary": "The Drain the Swamp Act makes a government ethics rule into a permanent law. Right now, this rule exists as an executive order that tells people who work for the president to follow certain ethics rules. By making it a law, Congress wants to make sure these ethics rules will stay in place no matter who is president. This means government workers will have to keep following these rules about doing the right thing in their jobs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Khanna, Ro [D-CA-17]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government ethics",
+    "drain the swamp",
+    "government workers",
+    "ethics rules",
+    "presidential staff",
+    "government corruption",
+    "ethics laws",
+    "executive order",
+    "government employees",
+    "doing the right thing",
+    "government accountability"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Drain the Swamp Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-codification-of-executive-order-13989",
+      "title": "Section 2 Codification of Executive Order 13989",
+      "text": "Executive Order thirteen thousand nine hundred eighty nine will now have the same power as a law passed by Congress. This executive order deals with ethics rules that people who work in the executive branch of government must follow. The executive order was published in volume eighty six of the Federal Register at page seven thousand twenty nine.",
+      "word_offset": 10,
+      "char_offset": 48
+    }
+  ]
+}

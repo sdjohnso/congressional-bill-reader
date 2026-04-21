@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2807",
+  "title": "Postal Service Transparency and Review Act",
+  "short_title": "Postal Service Transparency and Review Act",
+  "congress": 119,
+  "bill_number": "HR.2807",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "5e1562f34bdad202",
+  "last_updated": "2026-04-21T01:54:28.883853+00:00",
+  "plain_summary": "This bill makes the Postal Service ask for permission before making big changes to how mail is delivered. The Postal Service must tell the Postal Regulatory Commission about changes 180 days early, and the Commission gets 180 days to decide if the changes are okay. If the Commission says yes to the changes, Congress can still say no within 60 working days. This gives more people a chance to review postal changes before they happen.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of su",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Clyde, Andrew S. [R-GA-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "postal service changes",
+    "mail delivery approval",
+    "post office permission",
+    "mail service review",
+    "postal regulatory commission",
+    "congress postal oversight",
+    "mail delivery changes",
+    "post office transparency",
+    "postal service reform",
+    "mail system approval process"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Postal Service Transparency and Review Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-oversight-of-proposed-significant-changes-to-postal-services",
+      "title": "Section 2 Oversight of Proposed Significant Changes to Postal Services",
+      "text": "This section changes the rules about how the Postal Service must handle big changes to mail service. Before the Postal Service can make any change that affects mail service across the whole country or a large part of the country, or any change that significantly affects service in a postal district (a local mail service area), they must ask for permission first. The Postal Service must send their plan to the Postal Regulatory Commission (the government agency that watches over postal services) at least one hundred eighty days before they want to start the change. The Commission has one hundred eighty days to review the plan and give their opinion about whether it is a good idea. The Postal Service cannot spend any money or take any steps to make the change happen until the Commission gives their opinion. If the Postal Service tries to make a change without asking for permission first, the Commission can order them to stop. When this happens, the Postal Service cannot spend any money on the change and must go back to providing mail service the way they did before the change. The Postal Service must then properly ask for permission before trying to make the change again. This section also says that Congress can review these postal service changes using the same process they use for other government rules. If the Commission approves a postal service change, Congress has sixty legislative days (days when Congress is actually meeting) to introduce a joint resolution (a type of law) to reject the change. If Congress passes this joint resolution, the postal service change cannot happen.",
+      "word_offset": 12,
+      "char_offset": 71
+    }
+  ]
+}
