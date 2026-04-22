@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2824",
+  "title": "Employee Limits ON Profiteering Act",
+  "short_title": "Employee Limits ON Profiteering Act",
+  "congress": 119,
+  "bill_number": "HR.2824",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9213612c0a6c168c",
+  "last_updated": "2026-04-22T01:52:11.158182+00:00",
+  "plain_summary": "This bill creates new rules about part-time government workers and their families getting money from the government. It says the government cannot give contracts, grants, or other money deals to part-time government employees or their family members and businesses. The only time this rule does not apply is when the part-time worker only serves on a committee that gives advice to government agencies. This law is meant to prevent conflicts of interest where government workers might benefit financially from their government jobs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Castor, Kathy [D-FL-14]",
+  "sponsor_party": "D",
+  "sponsor_state": "FL",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government contracts",
+    "part-time workers",
+    "conflict of interest",
+    "government employees",
+    "family members",
+    "government money",
+    "grants",
+    "preventing corruption",
+    "government jobs",
+    "financial benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Employee Limits ON Profiteering Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-federal-awards-for-special-government-employees",
+      "title": "Section 2. Prohibition on Federal Awards for Special Government Employees",
+      "text": "The federal government cannot give contracts, grants, or other money agreements to special government employees or their close connections. Special government employees are people who work for the government part-time or temporarily for less than one hundred thirty days per year. However, this rule does not apply to special government employees who only serve on advisory committees. Advisory committees are groups that give advice to government agencies but do not make final decisions. Within sixty days of this law being passed, the Federal Acquisition Regulation must be updated to follow these new rules. The Federal Acquisition Regulation is the set of rules that govern how the government buys goods and services. Close connections include the spouse, children, and business partners of special government employees. It also includes any organization where the special government employee works as an officer, director, trustee, general partner, or regular employee. Federal awards include contracts, grants, cooperative agreements, and other similar arrangements where the government gives money or work to outside parties.",
+      "word_offset": 11,
+      "char_offset": 64
+    }
+  ]
+}
