@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-hr-2863",
+  "title": "CRUSADE Act",
+  "short_title": "CRUSADE Act",
+  "congress": 119,
+  "bill_number": "HR.2863",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7a7aeb8db3da1d19",
+  "last_updated": "2026-04-22T14:01:09.306980+00:00",
+  "plain_summary": "The CRUSADE Act is a new law that protects Christians around the world. It says that when America gives weapons or military equipment to other countries, those countries cannot use them to hurt Christian people or damage Christian churches and property. The President has to make sure this rule is followed. If a country uses American weapons against Christians, they could lose their military aid from the United States.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Luna, Anna Paulina [R-FL-13]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "protect Christians worldwide",
+    "religious freedom protection",
+    "military aid restrictions",
+    "weapons to countries",
+    "Christian persecution",
+    "church protection",
+    "religious minority rights",
+    "foreign military assistance",
+    "Christian safety abroad",
+    "religious liberty",
+    "persecution prevention",
+    "faith-based protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Civilians Resisting Unlawful Strikes Against Divine Establishments Act or the CRUSADE Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-use-of-united-states-weapons-against-christian-properties-and-civilians",
+      "title": "Section 2 Prohibition on Use of Any United States Weapon, Weapons System, Munition, Aircraft, Vessel, Boat, or Other Implement of War Against Any Christian Properties and Christian Civilians in Foreign Countries",
+      "text": "No matter what other laws say, the President must take all necessary steps to make sure that weapons and military equipment given by the United States to other countries cannot be used against Christian people or property. This includes any weapon, weapons system, ammunition, aircraft, ship, boat, or other military equipment that the United States provides to foreign countries. These weapons cannot be used against Christian properties in any foreign country, including churches or other religious buildings, sites, or monuments, and any property owned by Christian people. These weapons also cannot be used against Christian civilians in any foreign country.",
+      "word_offset": 18,
+      "char_offset": 118
+    }
+  ]
+}
