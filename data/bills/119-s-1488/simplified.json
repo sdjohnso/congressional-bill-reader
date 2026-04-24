@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-s-1488",
+  "title": "Sovereign Wealth Fund Transparency Act",
+  "short_title": "Sovereign Wealth Fund Transparency Act",
+  "congress": 119,
+  "bill_number": "S.1488",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e8530bfbe635f7b5",
+  "last_updated": "2026-04-24T13:55:51.243917+00:00",
+  "plain_summary": "This law makes stricter rules for people who work for foreign governments when they are doing business in the United States. It closes gaps in the current rules that let some foreign government workers avoid following the law. The Attorney General gets new powers to investigate these people and can ask for papers and question them. If someone breaks these rules, they can be fined up to two hundred thousand dollars.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Read twice and referred to the Committee on Foreign Relations.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Blumenthal, Richard [D-CT]",
+  "sponsor_party": "D",
+  "sponsor_state": "CT",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "foreign government workers",
+    "foreign business rules",
+    "government employees doing business",
+    "foreign officials transparency",
+    "overseas government workers",
+    "foreign agents registration",
+    "international business regulations",
+    "foreign government investments",
+    "transparency for foreign workers",
+    "foreign official disclosure rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Sovereign Wealth Fund Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-clarification-of-commercial-exemption",
+      "title": "Section 2 Clarification of Commercial Exemption",
+      "text": "This section changes the Foreign Agents Registration Act of nineteen thirty-eight. The law currently allows some people to avoid registering if they do business activities. This change says that exemption does not apply to anyone working for a foreign government or political party who promotes that government's public or political interests. This includes all activities done for a sovereign wealth fund, which is a large investment fund owned by a country's government.",
+      "word_offset": 11,
+      "char_offset": 67
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-authorizing-attorney-general-civil-investigative-demands",
+      "title": "Section 3 Authorizing the Attorney General to Issue Civil Investigative Demands to Promote Enforcement of Disclosure Requirements for Agents of Foreign Principals",
+      "text": "This section gives the Attorney General new powers to investigate people who may be breaking the Foreign Agents Registration Act. The Attorney General can now demand documents, written answers to questions, or spoken testimony from anyone who might have information about a violation. Only the Assistant Attorney General for National Security or a Deputy Attorney General can use this power. The demands must clearly explain what violation is being investigated and what information is needed. People have at least seven days to respond to requests for spoken testimony. The demands cannot ask for information that would normally be protected in court cases. People can be served these demands anywhere in the United States or abroad following court rules. Legal entities like corporations can be served through their officers or at their main office. People must provide sworn statements when they turn over documents or answer questions. Spoken testimony must be recorded by an authorized officer and typed up. People giving testimony can have a lawyer present and can object to questions. The Attorney General will assign someone to keep custody of all materials collected. These materials can only be examined by authorized Justice Department employees unless the person who provided them gives permission. If someone refuses to comply with a demand, the Attorney General can ask a federal court to force compliance. People who receive demands can also ask courts to change or cancel them within twenty days. This authority expires five years after this law takes effect.",
+      "word_offset": 83,
+      "char_offset": 540
+    },
+    {
+      "id": "s4",
+      "slug": "section-3b-annual-reports-attorney-general",
+      "title": "Section 3 Part B Annual Reports by the Attorney General",
+      "text": "Starting one year after this law passes and every year after that, the Attorney General must give Congress a detailed report about how these new investigation powers were used. The report must include how many demands were issued, what violations were being investigated, what type of information was requested, and what happened as a result. It must also include information about court cases where the Attorney General asked judges to force people to comply with demands. The report must list all new registrations under the Foreign Agents Registration Act and provide any other relevant information. When preparing reports, the Attorney General must protect the interests of people who have not been charged with crimes.",
+      "word_offset": 331,
+      "char_offset": 2116
+    },
+    {
+      "id": "s5",
+      "slug": "section-4-foreign-agents-registration-civil-enforcement",
+      "title": "Section 4 Foreign Agents Registration Civil Enforcement",
+      "text": "This section creates money penalties for people who break the Foreign Agents Registration Act. Anyone required to register who fails to file a complete registration on time must pay up to ten thousand dollars for each violation. Foreign governments cannot pay these fines for the person. People who fail to file required updates must pay up to one thousand dollars for each violation. If someone gets notice that their registration is incomplete and knowingly fails to fix it within sixty days, they must pay up to two hundred thousand dollars depending on how serious the violation is. Anyone who knowingly breaks any other part of the law must pay up to two hundred thousand dollars depending on how serious the violation is. All money collected from these fines will be used to pay for enforcing this law.",
+      "word_offset": 445,
+      "char_offset": 2840
+    }
+  ]
+}
