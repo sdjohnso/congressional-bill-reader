@@ -1,0 +1,50 @@
+{
+  "bill_id": "119-hconres-29",
+  "title": "Expressing support for the withdrawal of the United States from the Paris Agreement.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HCONRES.29",
+  "introduced_date": "2025-04-21",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "f340f989e0cdbe6b",
+  "last_updated": "2026-04-28T02:09:29.047960+00:00",
+  "plain_summary": "This congressional resolution supports the President's decision to pull the United States out of the Paris Agreement. The Paris Agreement is a deal that many countries around the world made in 2015 to work together on climate issues. Congress is saying they agree with leaving this international climate agreement.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-21",
+  "last_action_date": "2025-04-21",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Barr, Andy [R-KY-6]",
+  "sponsor_party": "R",
+  "sponsor_state": "KY",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Paris Agreement",
+    "climate deal",
+    "international climate agreement",
+    "withdraw from Paris",
+    "leave climate treaty",
+    "pull out of Paris",
+    "US climate policy",
+    "global warming agreement",
+    "climate change treaty",
+    "environmental agreement"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "concurrent-resolution",
+      "title": "Concurrent Resolution",
+      "text": "Congress supports the President's decision to pull the United States out of the Paris Agreement. The Paris Agreement means the climate deal that world leaders agreed to at the twenty-first meeting of countries in Paris, France on December twelfth, two thousand fifteen. This meeting was part of the United Nations Framework Convention on Climate Change.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}
