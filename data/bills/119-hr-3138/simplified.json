@@ -1,0 +1,84 @@
+{
+  "bill_id": "119-hr-3138",
+  "title": "Foreign Military Sales Reform Act of 2025",
+  "short_title": "Foreign Military Sales Reform Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.3138",
+  "introduced_date": "2025-05-01",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e67651f30377485d",
+  "last_updated": "2026-04-29T02:11:07.063680+00:00",
+  "plain_summary": "This bill changes the rules for when Congress must review sales of weapons to other countries. It raises the dollar amounts that trigger these reviews, meaning Congress will only need to look at bigger weapon sales than before. The bill also creates punishments for government workers who try to get around these rules by breaking up large sales into smaller pieces. Additionally, it requires the government to write a report about any attempts to avoid telling Congress about weapon sales to foreign countries.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-01",
+  "last_action_date": "2025-05-01",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Davidson, Warren [R-OH-8]",
+  "sponsor_party": "R",
+  "sponsor_state": "OH",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "weapons sales to other countries",
+    "congress review military sales",
+    "foreign weapon deals",
+    "military equipment exports",
+    "arms sales overseas",
+    "government weapons transactions",
+    "defense contractor sales abroad",
+    "international military equipment",
+    "weapon export approval",
+    "foreign military aid",
+    "defense sales reporting",
+    "military hardware exports"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Foreign Military Sales Reform Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-modification-of-dollar-amount-thresholds",
+      "title": "Section 2 Modification of Dollar Amount Thresholds Relating to Transfers of Defense Articles and Defense Services Under the Arms Export Control Act",
+      "text": "This section changes the dollar amounts in the Arms Export Control Act (a law that controls selling weapons and military equipment to other countries). The changes increase the money amounts that trigger special rules. In section three part d of that law, fourteen million dollars becomes twenty three million dollars, and fifty million dollars becomes eighty three million dollars. In section thirty six part b of that law, several amounts change. Fifty million dollars becomes eighty three million dollars. Two hundred million dollars becomes three hundred thirty two million dollars. Fourteen million dollars becomes twenty three million dollars. Twenty five million dollars becomes forty two million dollars. One hundred million dollars becomes one hundred sixty six million dollars. Three hundred million dollars becomes five hundred million dollars. In section thirty six part c of that law, fourteen million dollars becomes twenty three million dollars, fifty million dollars becomes eighty three million dollars, twenty five million dollars becomes forty two million dollars, and one hundred million dollars becomes one hundred sixty six million dollars.",
+      "word_offset": 16,
+      "char_offset": 90
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-report",
+      "title": "Section 3 Report",
+      "text": "The Office of the Inspector General of the Department of State (a government watchdog office) must write a report for Congress. The report must cover any activities where people split up payments into smaller amounts to avoid the dollar limits that require Congress to be notified about weapons sales to other countries under the Arms Export Control Act.",
+      "word_offset": 189,
+      "char_offset": 1253
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-prohibition-on-certain-activities",
+      "title": "Section 4 Prohibition on Certain Activities of Federal Employees",
+      "text": "No federal government employee can purposely break up or help break up weapon sales into smaller amounts to avoid having to report them to Congress. This applies to all transfers of military equipment and services under the Arms Export Control Act. Federal employees cannot try to do this or help others do this either.",
+      "word_offset": 247,
+      "char_offset": 1608
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-imposition-of-penalties",
+      "title": "Section 5 Imposition of Penalties on Department of State Employees",
+      "text": "Any Department of State employee who is caught knowingly splitting up payments for weapon sales to avoid congressional reporting requirements will face two punishments. First, they will be banned from working for the federal government ever again. Second, they will have to pay a fine of one hundred thousand dollars.",
+      "word_offset": 301,
+      "char_offset": 1928
+    }
+  ]
+}

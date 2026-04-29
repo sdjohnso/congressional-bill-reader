@@ -1,0 +1,92 @@
+{
+  "bill_id": "119-s-1012",
+  "title": "SOIL Act of 2025",
+  "short_title": "SOIL Act of 2025",
+  "congress": 119,
+  "bill_number": "S.1012",
+  "introduced_date": "2025-03-12",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "866d7520b3e2f918",
+  "last_updated": "2026-04-29T02:10:47.943749+00:00",
+  "plain_summary": "This bill makes new rules about foreign people and companies buying or renting American farmland. The government will now check purchases by people from countries that might be dangerous to America, like those with different economic systems or countries that pose security risks. Foreign buyers cannot get federal money or help for farmland they own. Anyone from another country who wants to lease farmland for more than five years must tell the government about it. The government will also create yearly public reports showing which foreign people and countries own American farmland, with special attention to China and Russia.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-12",
+  "last_action_date": "2025-03-12",
+  "last_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Agriculture and Food",
+  "subjects": [],
+  "sponsor_name": "Sen. Lankford, James [R-OK]",
+  "sponsor_party": "R",
+  "sponsor_state": "OK",
+  "cosponsor_count": 4,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "foreign farmland ownership",
+    "foreign buyers American farms",
+    "China buying US farmland",
+    "Russia farmland purchases",
+    "foreign investment agriculture",
+    "farmland security risks",
+    "international farm ownership rules",
+    "foreign countries owning farms",
+    "agricultural land foreign control",
+    "overseas investors American agriculture",
+    "foreign lease farmland restrictions",
+    "national security farmland"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Security and Oversight for International Landholdings Act of two thousand twenty five or the SOIL Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-cfius-review-agricultural-transactions",
+      "title": "Section 2 Review by Committee on Foreign Investment in the United States of Certain Agricultural Real Estate Transactions",
+      "text": "This section changes an existing law about foreign investment review. It adds a new requirement that the Committee on Foreign Investment in the United States (a government group that reviews foreign purchases) must review certain farm land purchases. The committee must review when someone from certain foreign countries buys or gets any rights to farm land. These countries are either ones that the US government says do not have market economies, or countries that US intelligence agencies say pose a risk to American national security in their yearly threat reports.",
+      "word_offset": 27,
+      "char_offset": 158
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-cfius-review-military-installations",
+      "title": "Section 3 Review by Committee on Foreign Investment in the United States of Real Estate Transactions Near Military Installations",
+      "text": "This section requires the Committee on Foreign Investment in the United States to review real estate purchases near military bases. If someone from certain risky foreign countries wants to buy any property within fifty miles of a military base, the committee must review it first. This does not include regular homes where people live. The risky countries are the same ones mentioned in the previous section - those without market economies or those identified as national security threats in intelligence reports.",
+      "word_offset": 117,
+      "char_offset": 728
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-prohibition-federal-funds",
+      "title": "Section 4 Prohibition on Use of Funds for Certain Agricultural Real Estate Holdings",
+      "text": "This section says the federal government cannot give money or subsidies to help people who own farm land if that land is owned completely or partly by people from risky foreign countries. The risky countries are those without market economies or those that US intelligence agencies say threaten American national security.",
+      "word_offset": 198,
+      "char_offset": 1243
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-disclosure-requirements",
+      "title": "Section 5 Disclosure Requirements for Foreign Agricultural Real Estate Holdings",
+      "text": "This section changes the reporting rules for foreign ownership of farm land. It now requires foreign people to report when they lease farm land for more than five years, not just when they buy it. It also removes the minimum size requirement, so foreign owners must report even small pieces of farm land. Previously, the government could ignore very small parcels, but now all foreign-owned farm land must be reported no matter how small.",
+      "word_offset": 249,
+      "char_offset": 1566
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-reports-agricultural-holdings",
+      "title": "Section 6 Reports of Holdings of Agricultural Land in the United States by Foreign Persons",
+      "text": "This section requires the Secretary of Agriculture to create a public report every year about foreign ownership of American farm land. The report must show which countries own the most farm land in each state and county. It must include specific information about farm land owned by people from China, Russia, and other countries the Secretary thinks are important. The report must also explain what types of farming or business activities happen on this foreign-owned land. The Secretary must send copies of this report to each state's agriculture department.",
+      "word_offset": 323,
+      "char_offset": 2005
+    }
+  ]
+}
