@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1223",
+  "title": "Prohibiting Foreign Adversary Interference in Cryptocurrency Markets Act",
+  "short_title": "Prohibiting Foreign Adversary Interference in Cryptocurrency Markets Act",
+  "congress": 119,
+  "bill_number": "S.1223",
+  "introduced_date": "2025-04-01",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "d28231cc8a823ccc",
+  "last_updated": "2026-04-29T14:21:11.603063+00:00",
+  "plain_summary": "This bill makes a new law that stops companies from enemy countries from running cryptocurrency trading websites in America. The enemy countries include China, Russia, Iran, North Korea, Cuba, and Venezuela. Companies from these countries cannot own or control places where Americans buy and sell digital money like Bitcoin. This law is meant to keep America's cryptocurrency markets safe from foreign enemies who might try to interfere with them.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-01",
+  "last_action_date": "2025-04-01",
+  "last_action_text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Sen. Tuberville, Tommy [R-AL]",
+  "sponsor_party": "R",
+  "sponsor_state": "AL",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "cryptocurrency ban",
+    "foreign countries bitcoin",
+    "china russia crypto",
+    "digital money trading",
+    "enemy countries blockchain",
+    "cryptocurrency exchanges",
+    "bitcoin trading websites",
+    "foreign interference crypto",
+    "digital currency safety",
+    "crypto market protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Prohibiting Foreign Adversary Interference in Cryptocurrency Markets Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-registration",
+      "title": "Section 2 Prohibition on Registration of Foreign Adversary-Affiliated Digital Commodity Platforms",
+      "text": "This section changes the Commodity Exchange Act to add new rules about digital money platforms. Here are the key terms and rules. A covered entity means a business that is set up under the laws of an enemy country, or whose main office is in an enemy country. It also includes any company owned fully or partly by such a business. Digital commodity means digital property that can be owned and transferred from person to person without needing a middleman. This includes what people commonly call cryptocurrency or virtual currency. It does not include physical goods, securities, digital money backed by the US government, or anything else the Commission decides is not a digital commodity. A digital commodity broker is a person whose business involves taking orders from others to trade digital money, holding digital money for others to trade, arranging digital money trades for others, or similar activities as decided by the Commission. This does not include people who only validate digital money transactions. A digital commodity custodian is a person whose business is holding or controlling digital money for other people. A digital commodity dealer is a person whose business involves buying and selling digital money for their own account, making markets in digital money, presenting themselves as a dealer in digital money, converting digital money into other forms of money or value, taking digital money from others with a promise to return it or its value, or similar activities as decided by the Commission. This does not include people who only validate digital money transactions. A digital commodity platform means a person who is one or more of the following: a digital commodity broker, custodian, dealer, or trading facility. A digital commodity trade means buying or selling digital money in exchange for other digital money or anything else of value. This includes offers to buy or sell, loans of digital money, offers to loan digital money, or similar activities as decided by the Commission. A digital commodity trading facility means a place that helps people buy and sell digital money with each other. This does not include people who only validate digital money transactions. Foreign adversary means China including Hong Kong and Macao, Cuba, Iran, North Korea, Russia, and Venezuela under Nicolas Maduro. The Commission cannot register any digital commodity platform that is owned fully or partly by a covered entity. The Commission must cancel the registration of any digital commodity platform if a covered entity buys all or part of it.",
+      "word_offset": 14,
+      "char_offset": 101
+    }
+  ]
+}
