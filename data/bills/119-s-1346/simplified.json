@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-1346",
+  "title": "Defense Quantum Acceleration Act of 2025",
+  "short_title": "Defense Quantum Acceleration Act of 2025",
+  "congress": 119,
+  "bill_number": "S.1346",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e1f734fd1f52b785",
+  "last_updated": "2026-05-01T02:15:16.815149+00:00",
+  "plain_summary": "This bill tells the Defense Secretary to help the military use quantum technology faster. The Defense Secretary must choose a special advisor for quantum technology and create programs to turn research into real military tools. The bill also sets up a testing center where different military groups can work together. It requires the military to work better with friendly countries and private companies to build quantum technology for protecting the country.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Read twice and referred to the Committee on Armed Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Armed Forces and National Security",
+  "subjects": [],
+  "sponsor_name": "Sen. Blackburn, Marsha [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "quantum technology",
+    "military technology",
+    "defense innovation",
+    "quantum computing",
+    "military research",
+    "national security technology",
+    "quantum weapons",
+    "defense contractors",
+    "military quantum",
+    "quantum defense",
+    "advanced military tech",
+    "quantum development"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Defense Quantum Acceleration Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-joint-quantum-information-science-defense-transition-activities",
+      "title": "Section 2 Joint Quantum Information Science Defense Transition Activities",
+      "text": "This section adds a new part to the military laws that requires the Defense Secretary to speed up the use of quantum information science technology in the military. Quantum information science means using the special rules of tiny particles called quantum physics to store, send, change, compute, or measure information.\n\nThe Defense Secretary must create activities to help the military adopt quantum technology faster. These activities will be run by a Principal Quantum Advisor who must be chosen within one hundred eighty days after this law starts. This advisor will look for quantum technologies that can help solve military problems and make plans to move these technologies from the research stage to actual use in the military.\n\nThe Principal Quantum Advisor has several main jobs. They must find military challenges that quantum technology could solve better than regular technology. They must check how ready these quantum solutions are by looking at their technology and manufacturing readiness level. If a solution is at readiness level five or higher, they must start testing it in real military situations by the end of fiscal year two thousand twenty five. If a solution is at readiness level four or lower, they must give Congress a five year funding plan.\n\nThe advisor must work with different military branches and commands to understand what they need and make sure quantum technology fits with their future plans. They must look at specific types of quantum technology including quantum sensing for navigation and detection, quantum computing for machine learning and simulation, quantum communications, and hybrid systems that combine quantum and regular computing.\n\nThe advisor must also speed up development by using flexible rules and policies. They must work with military commands, private companies, and universities. At least once every three months, they must reach out to industry and academic leaders to teach them about military quantum needs and help them develop solutions.\n\nFor working with allies, the advisor must coordinate with the United Kingdom and Australia through the AUKUS partnership and organize regular meetings with quantum experts from these countries and NATO members to share information and plan together.\n\nThe Defense Secretary must create a five year strategic plan for developing and using quantum technology in the military. This plan must include continuous evaluation of quantum solutions, plans for developing a large scale quantum computer, resource allocation focused on solving real military problems, and identification of quantum technologies that are critical for defense but unlikely to be developed by private companies.\n\nThe Secretary must also adopt security strategies for commercially developed quantum capabilities and establish a National Security Quantum Information Science Adoption Acceleration Testbed. This testbed will be a joint center that includes military research labs, national laboratories, research centers, and quantum companies. It will be located somewhere accessible to all participants and will focus on testing quantum technologies, especially for navigation and sensing.\n\nFor workforce development, the Secretary must increase quantum science study opportunities at military academies and ROTC programs within one year. Each military branch must create standard procedures for quantum workforce development and involve leadership and employees in planning.\n\nFor budget oversight, military departments must send their proposed quantum budgets to the Principal Quantum Advisor for review before final submission. The advisor must report to the Secretary by January thirty first each year about whether budgets are adequate, and the Secretary must report to Congress by March thirty first about any inadequate budgets.\n\nThe section defines Five Eyes countries as Australia, Canada, New Zealand, the United Kingdom, and the United States. Twenty million dollars is authorized for the testbed for each fiscal year from two thousand twenty five through two thousand twenty nine.",
+      "word_offset": 15,
+      "char_offset": 89
+    }
+  ]
+}

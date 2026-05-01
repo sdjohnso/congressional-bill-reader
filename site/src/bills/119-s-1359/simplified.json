@@ -1,0 +1,84 @@
+{
+  "bill_id": "119-s-1359",
+  "title": "STOP CCP Act of 2025",
+  "short_title": "STOP CCP Act of 2025",
+  "congress": 119,
+  "bill_number": "S.1359",
+  "introduced_date": "2025-04-08",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ad60741608ab10ee",
+  "last_updated": "2026-05-01T02:14:48.916275+00:00",
+  "plain_summary": "The STOP CCP Act of 2025 stops Americans and American companies from investing money in Chinese businesses that make military equipment or surveillance technology. The bill also requires the government to make a bigger list of Chinese military companies that are banned. When the government punishes a Chinese company, it must use all possible punishment rules unless the President decides some punishments would hurt America's safety. This law is meant to keep American money from helping Chinese companies that could threaten the United States.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-08",
+  "last_action_date": "2025-04-08",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "China investment ban",
+    "Chinese military companies",
+    "American money China",
+    "surveillance technology ban",
+    "Chinese business investment",
+    "military equipment China",
+    "stop investing China",
+    "Chinese company sanctions",
+    "America China security",
+    "block China investments",
+    "Chinese surveillance ban",
+    "investment restrictions China"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Sanction Transactions Originating from Pernicious Chinese Companies and Policies Act of twenty twenty five or the STOP CCP Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "In this law, these terms have the following meanings. A Chinese entity means any company or organization that is set up under Chinese laws or that must follow rules from the Chinese government. Publicly traded securities means any type of investment like stocks or bonds that can be bought and sold on stock markets or through private deals in any country. This includes investments that are based on or track the value of other investments. A United States person means a US citizen, someone with permanent legal permission to live in the US, any company or organization created under US laws including their offices in other countries, or any person currently in the United States.",
+      "word_offset": 29,
+      "char_offset": 177
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-prohibition-on-securities-investments",
+      "title": "Section 3 Prohibition on Securities Investments That Finance Certain Companies of the People's Republic of China",
+      "text": "US persons are not allowed to do these things. First, they cannot buy or sell stocks, bonds, or other investments from companies that the Treasury Secretary decides work in China's defense industry or surveillance technology business, or from companies that own or are owned by such businesses. The Treasury Secretary will make this decision after talking with the Secretary of State and may also talk with the Secretary of Defense. Second, they cannot help carry out, support, or provide services for these banned purchases or sales. Third, they cannot do any deals that try to get around these rules or cause someone to break these rules. Fourth, they cannot work together with others to break these rules.",
+      "word_offset": 144,
+      "char_offset": 861
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-expansion-of-list",
+      "title": "Section 4 Expansion of Non-Specially Designated Nationals Chinese Military-Industrial Complex Companies List",
+      "text": "Within one hundred eighty days after this law starts, the Treasury Secretary must write new rules to add more companies to a government list called the Non-Specially Designated Nationals Chinese Military-Industrial Complex Companies List. This list is kept by the Office of Foreign Assets Control and is sometimes called the NS-CMIC List. The new rules must add any company that helps China's military-industrial complex, any company owned or controlled by such a company, any company formed when such a company spins off, merges, gets bought, or sells part of its business, and any company that provides financial services to any of these types of companies.",
+      "word_offset": 261,
+      "char_offset": 1570
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-closing-sanctions-loopholes",
+      "title": "Section 5 Closing Sanctions Loopholes",
+      "text": "If the US government punishes a Chinese company with sanctions under one law or presidential order, it must also punish that company under all other laws and presidential orders that allow sanctions, unless the President decides to skip some sanctions or unless another waiver rule applies. The President can choose not to apply sanctions if the President decides and tells Congress that skipping the sanctions is important for US national security. If the President wants to use this power, the President must send Congress a report at least twenty days before the waiver starts. The report must tell Congress about the decision and fully explain the reasons and circumstances that led to it. When any sanctions under this section end, the President must send Congress a report within twenty days explaining why the sanctions ended.",
+      "word_offset": 366,
+      "char_offset": 2230
+    }
+  ]
+}
