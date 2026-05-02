@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2562",
+  "title": "District of Columbia One Vote One Choice Act",
+  "short_title": "District of Columbia One Vote One Choice Act",
+  "congress": 119,
+  "bill_number": "HR.2562",
+  "introduced_date": "2025-04-01",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "7c4b978744b85346",
+  "last_updated": "2026-05-02T02:02:02.781924+00:00",
+  "plain_summary": "This bill would stop Washington DC from using ranked choice voting in their elections. Ranked choice voting lets people rank candidates from their first choice to their last choice. Instead, this bill says DC voters can only pick one candidate for each job they are voting for. This means DC would have to go back to the regular way of voting where you just choose one person per office.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-01",
+  "last_action_date": "2025-04-01",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Lawler, Michael [R-NY-17]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Washington DC voting",
+    "ranked choice voting ban",
+    "DC elections",
+    "one vote per candidate",
+    "district of columbia voting rules",
+    "eliminate ranked voting",
+    "single choice voting",
+    "DC ballot changes",
+    "voting method restrictions",
+    "washington dc election reform"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the District of Columbia One Vote One Choice Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-ranked-choice-voting",
+      "title": "Section 2 Prohibition on Ranked Choice Voting with Respect to District of Columbia Elections",
+      "text": "This section makes changes to an existing law called the Help America Vote Act of two thousand and two. It adds a new rule that says Washington DC cannot use ranked choice voting in any of its elections. Ranked choice voting is a system where voters rank candidates in order of who they like best instead of just picking one person. The new rule says DC cannot use this type of voting for any election including elections for Congress or the President and any votes on ballot measures or referendums. A ballot measure is when voters decide on a specific issue or law rather than choosing a person for office. The section also makes technical changes to renumber other parts of the existing law and updates the table of contents to include this new prohibition. It also adds this new rule to the list of things that can be enforced under the Help America Vote Act.",
+      "word_offset": 14,
+      "char_offset": 73
+    }
+  ]
+}
