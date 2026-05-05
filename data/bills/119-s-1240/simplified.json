@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-s-1240",
+  "title": "Defending America’s Future Elections Act",
+  "short_title": "Defending America’s Future Elections Act",
+  "congress": 119,
+  "bill_number": "S.1240",
+  "introduced_date": "2025-04-01",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c2534688c36811b5",
+  "last_updated": "2026-05-05T02:05:41.678701+00:00",
+  "plain_summary": "This bill stops the government from following a recent executive order about elections that Congress thinks breaks the law. The bill says no federal money can be used to do what the executive order asks for. It also stops a government group called the Department of Government Efficiency from looking at state voting records and databases. Congress is trying to protect how elections are run by blocking this executive order they disagree with.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-01",
+  "last_action_date": "2025-04-01",
+  "last_action_text": "Read twice and referred to the Committee on Rules and Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Sen. Padilla, Alex [D-CA]",
+  "sponsor_party": "D",
+  "sponsor_state": "CA",
+  "cosponsor_count": 12,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "election protection",
+    "voting rights",
+    "federal election oversight",
+    "executive order block",
+    "government efficiency department",
+    "state voting records",
+    "election funding ban",
+    "congressional pushback",
+    "voting database access",
+    "federal election interference",
+    "election security"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Defending America's Future Elections Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings",
+      "title": "Section 2 Findings",
+      "text": "Congress states these facts. First, Article One Section Four of the Constitution shows that Congress and the states control when, where, and how elections happen, not the President. Second, on May twentieth nineteen ninety three, President Bill Clinton signed the National Voter Registration Act with support from both political parties. Third, this nineteen ninety three law set up rules for voter registration but does not require people to show documents proving their citizenship when they register by mail. Fourth, on October twenty ninth two thousand two, President George W. Bush signed the Help America Vote Act with overwhelming support from both parties. Fifth, this two thousand two law created the Election Assistance Commission, which is an independent agency with equal numbers of people from both parties that helps states improve how they run elections. Sixth, Executive Order fourteen thousand two hundred forty eight, which President Trump issued on March twenty fifth two thousand twenty five and called Preserving and Protecting the Integrity of American Elections, goes beyond what the President is allowed to do under the law, is illegal and violates the Constitution, and would take away the voting rights of millions of Americans.",
+      "word_offset": 11,
+      "char_offset": 69
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-repeal-of-executive-order",
+      "title": "Section 3 Repeal of Executive Order",
+      "text": "Executive Order fourteen thousand two hundred forty eight will have no power and no federal money can be used to put it into action, manage it, enforce it, or carry it out.",
+      "word_offset": 205,
+      "char_offset": 1324
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-prohibition-on-use-of-funds",
+      "title": "Section 4 Prohibition on Use of Funds",
+      "text": "Even if other laws say something different, no federal money can be given to or used by the Department of Government Efficiency to look at voter registration lists from any state, records about how states maintain their voter lists, federal immigration databases, or any other public or private state records related to federal elections.",
+      "word_offset": 237,
+      "char_offset": 1497
+    }
+  ]
+}

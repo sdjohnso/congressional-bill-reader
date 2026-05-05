@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2694",
+  "title": "Election Results Accountability Act",
+  "short_title": "Election Results Accountability Act",
+  "congress": 119,
+  "bill_number": "HR.2694",
+  "introduced_date": "2025-04-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a6610c7863468cb6",
+  "last_updated": "2026-05-05T02:06:00.562217+00:00",
+  "plain_summary": "This bill sets time limits for states to count votes and announce winners in federal elections. States must count at least ninety percent of ballots within three days after voting ends and must certify all final results within two weeks. If states miss these deadlines without a good reason like an emergency or equipment breakdown, they will lose their federal election money. To get their funding back, states must create and follow a plan to fix their problems and meet the deadlines in future elections.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-07",
+  "last_action_date": "2025-04-07",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Obernolte, Jay [R-CA-23]",
+  "sponsor_party": "R",
+  "sponsor_state": "CA",
+  "cosponsor_count": 7,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "election results",
+    "vote counting deadlines",
+    "ballot counting time limits",
+    "election certification",
+    "federal election funding",
+    "state election money",
+    "voting deadlines",
+    "election accountability",
+    "vote counting rules",
+    "election result delays"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Election Results Accountability Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-establishment-of-deadlines",
+      "title": "Section 2 Establishment of Deadlines for Counting Ballots and Certifying Results of Federal Elections",
+      "text": "This section changes the Help America Vote Act of two thousand two to add new rules about when states must finish counting votes and certifying results for federal elections. The new section three hundred five requires states to count at least ninety percent of all ballots within seventy two hours after the polls close. States must also finish counting all ballots and officially certify the election results within two weeks after the polls close. The results must be made available to the public.\n\nStates will not be penalized for missing these deadlines if certain problems occur. These include real emergencies like major disasters, serious public health crises such as pandemics, or cyberattacks on election systems. States also get exceptions for technical problems like broken voting machines or computer errors that could not have been predicted. States implementing new election procedures get one exception for their first election using those new procedures. States conducting recounts also get an exception.\n\nIf a state fails to meet these deadlines without a valid reason, they cannot receive federal money for future election administration. To get funding back, the state must submit a plan showing how they will meet the deadlines in future elections. Both the Election Assistance Commission (the federal agency that helps states run elections) and the Attorney General must approve this plan and confirm the state is following it.\n\nThe law also updates other sections to include references to these new deadline requirements. These changes will take effect for elections held more than ninety days after this law is passed.",
+      "word_offset": 10,
+      "char_offset": 64
+    }
+  ]
+}
