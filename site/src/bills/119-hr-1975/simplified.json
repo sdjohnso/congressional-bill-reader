@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-1975",
+  "title": "BEAD FEE Act of 2025",
+  "short_title": "BEAD FEE Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1975",
+  "introduced_date": "2025-03-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "ca3d66c1c15c894a",
+  "last_updated": "2026-05-07T14:34:50.478208+00:00",
+  "plain_summary": "The BEAD FEE Act of 2025 sets new rules for states and local governments that want to receive federal money to expand broadband internet access. These governments cannot charge unfair fees to companies that want to build broadband infrastructure like internet cables and towers. Any fees they do charge must be fair to all companies, based only on real costs, and clearly explained to the public. The fees must also be described differently depending on whether they happen once or repeatedly, and whether the area already has broadband infrastructure or not. If states and local governments do not follow these rules, they will not get the federal grant money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-10",
+  "last_action_date": "2025-03-10",
+  "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Rep. Allen, Rick W. [R-GA-12]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "broadband internet funding",
+    "internet expansion grants",
+    "federal money for internet",
+    "broadband infrastructure fees",
+    "internet cable installation costs",
+    "local government internet fees",
+    "broadband access grants",
+    "internet tower construction",
+    "unfair broadband fees",
+    "internet infrastructure rules"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Broadband Expansion And Deployment Fee Equity and Efficiency Act of two thousand twenty five. It can also be called the BEAD FEE Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-streamlining-fees-broadband-infrastructure",
+      "title": "Section 2 Streamlining of Certain Fees Relating to Broadband Infrastructure Required to Receive Grant Funds Under BEAD Program",
+      "text": "This section changes the Infrastructure Investment and Jobs Act by adding new rules about fees for broadband infrastructure. After this law passes, the Assistant Secretary cannot give grant money to states or other eligible groups if those groups or their local governments charge certain fees that do not follow the new rules. The fees that must follow these rules are fees to consider requests for building broadband infrastructure and fees to use public right of ways (public land along roads and streets) for broadband infrastructure. However, these rules do not apply to planning grant funds. The fees can only be charged if they meet all of these requirements. First, the fees must be competitively neutral, technology neutral, and nondiscriminatory. This means the fees must be the same for all companies and all types of technology. Second, the fees must be publicly disclosed so everyone can see what they are. Third, the fees must be calculated based only on actual and direct costs that are objectively reasonable. These costs can include costs for reviewing and processing requests and costs for repairs and replacement of components, materials, and equipment that are affected by building the broadband infrastructure. Fourth, when someone asks about the fees, they must be told clearly about the difference between one time fees and ongoing fees. They must also be told about the difference between using infrastructure that already has broadband equipment on it and using infrastructure that does not have any broadband equipment yet.",
+      "word_offset": 34,
+      "char_offset": 189
+    }
+  ]
+}
