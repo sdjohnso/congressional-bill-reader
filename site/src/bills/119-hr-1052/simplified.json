@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hr-1052",
+  "title": "UNPLUG EVs Act",
+  "short_title": "UNPLUG EVs Act",
+  "congress": 119,
+  "bill_number": "HR.1052",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "78684de6d8a1b764",
+  "last_updated": "2026-05-07T02:07:01.555101+00:00",
+  "plain_summary": "The UNPLUG EVs Act takes back money that the government planned to spend on electric vehicle programs but has not used yet. This money was supposed to pay for building electric car charging stations across the country. Instead of using the money for charging stations, the bill says the government must use all of it to pay down the national debt. The goal is to reduce how much money the government owes by using funds that were already set aside for electric vehicle programs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the Subcommittee on Highways and Transit.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Energy",
+  "subjects": [],
+  "sponsor_name": "Rep. Burlison, Eric [R-MO-7]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 18,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "electric vehicle funding",
+    "electric car charging stations",
+    "government spending on EVs",
+    "national debt reduction",
+    "unused government money",
+    "electric vehicle programs",
+    "charging station funding",
+    "government debt paydown",
+    "EV infrastructure spending",
+    "redirecting government funds"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Undoing Nationwide Programs and Limiting Unnecessary Grants for Electric Vehicles Act or the UNPLUG EVs Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-rescission-of-unobligated-charging-and-fueling-grant-funds",
+      "title": "Section 2 Rescission of Unobligated Charging and Fueling Grant Funds",
+      "text": "Any money that was set aside for charging and fueling grants under section one hundred fifty-one part f of title twenty-three of the United States Code but has not yet been spent or promised to anyone will be taken back. This money will be put into the general fund of the Treasury only to reduce the national debt.",
+      "word_offset": 22,
+      "char_offset": 136
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-rescission-of-unobligated-national-electric-vehicle-formula-program-funds",
+      "title": "Section 3 Rescission of Unobligated National Electric Vehicle Formula Program Funds",
+      "text": "Any money that was set aside for the National Electric Vehicle Infrastructure Formula Program under the Infrastructure Investment and Jobs Act but has not yet been spent or promised to anyone will be taken back. This money will be put into the general fund of the Treasury only to reduce the national debt.",
+      "word_offset": 80,
+      "char_offset": 452
+    }
+  ]
+}
