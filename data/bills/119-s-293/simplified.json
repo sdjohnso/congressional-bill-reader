@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-s-293",
+  "title": "WALL Act of 2025",
+  "short_title": "WALL Act of 2025",
+  "congress": 119,
+  "bill_number": "S.293",
+  "introduced_date": "2025-01-29",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b8574532005e4b60",
+  "last_updated": "2026-05-08T14:07:28.382779+00:00",
+  "plain_summary": "The WALL Act of 2025 sets aside 25 billion dollars to build a wall along the border between the United States and Mexico. To help pay for this wall, the bill makes changes to who can get tax credits and government benefits like food assistance and unemployment help. Only people who have Social Security numbers and are legally allowed to work in the US can get these benefits, and people who file taxes with special ID numbers instead of Social Security numbers must pay a 300 dollar fee. The bill also creates fines for people who cross the border illegally or stay in the country longer than their visas allow.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-29",
+  "last_action_date": "2025-01-29",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Immigration",
+  "subjects": [],
+  "sponsor_name": "Sen. Britt, Katie Boyd [R-AL]",
+  "sponsor_party": "R",
+  "sponsor_state": "AL",
+  "cosponsor_count": 5,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "border wall",
+    "Mexico border",
+    "wall funding",
+    "immigration enforcement",
+    "border security",
+    "illegal immigration fines",
+    "work permit requirements",
+    "Social Security number benefits",
+    "tax credit restrictions",
+    "food stamps eligibility",
+    "unemployment benefits",
+    "visa overstay penalties"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the WALL Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-mandatory-spending-for-border-wall",
+      "title": "Section 2  Mandatory Spending for Border Wall",
+      "text": "The government will set aside twenty five billion dollars to build a physical barrier along the southern border between the United States and Mexico. This money will stay available until it is all spent on building the border wall.",
+      "word_offset": 13,
+      "char_offset": 65
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-offsets",
+      "title": "Section 3  Offsets",
+      "text": "To help pay for the border wall, this law makes changes to tax credits and benefits. First, it changes who can get the Child Tax Credit. Only people with valid Social Security numbers can claim this credit for their children. The law does not allow people who cannot legally work in the United States to use their Social Security numbers for this credit. Second, it changes the Earned Income Tax Credit in the same way. Only people with valid Social Security numbers who can legally work in the United States can get this credit. Third, it changes education tax credits for college expenses. Only people with valid Social Security numbers can get these credits, and people who cannot legally work cannot use their Social Security numbers. Fourth, the law creates a new fee for people who file tax returns using Individual Taxpayer Identification Numbers instead of Social Security numbers. These people must pay three hundred dollars for each person on their tax return who uses one of these identification numbers. People whose Social Security numbers were stolen do not have to pay this fee. Fifth, the Internal Revenue Service must now check with the Social Security Administration to make sure all Social Security numbers on tax returns are real and belong to the right people. Sixth, government agencies that give out benefits must now use a system called E-Verify to check if people who are not citizens are allowed to work in the United States. If they cannot legally work, they cannot get these benefits. This includes food assistance, temporary cash help, Medicaid, housing assistance, and other programs. Housing agencies must also use E-Verify to check if non-citizen tenants can legally work before giving them housing help.",
+      "word_offset": 52,
+      "char_offset": 297
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-minimum-fines-for-illegal-entry-and-overstay",
+      "title": "Section 4  Minimum Fines for Illegal Entry and Overstay",
+      "text": "This law creates new fines for people who enter the United States illegally. Anyone who enters the country without permission must pay at least three thousand dollars and no more than ten thousand dollars in fines. They can also go to jail for up to six months for the first time, or up to two years if they do it again. People who come back after being removed from the country must also pay the same fine of at least three thousand dollars and no more than ten thousand dollars, unless the Department of Homeland Security gave them permission to come back. The law also creates fines for people who stay in the United States longer than they are supposed to. These people must pay fifty dollars for each month they stayed beyond their allowed time.",
+      "word_offset": 339,
+      "char_offset": 2034
+    }
+  ]
+}
