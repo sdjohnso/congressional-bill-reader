@@ -1,0 +1,67 @@
+{
+  "bill_id": "119-hr-2841",
+  "title": "Putting Trust in Transparency Act",
+  "short_title": "Putting Trust in Transparency Act",
+  "congress": 119,
+  "bill_number": "HR.2841",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "922ab07c833d3c00",
+  "last_updated": "2026-05-09T02:08:22.615765+00:00",
+  "plain_summary": "The Putting Trust in Transparency Act makes new rules for nonprofit organizations that get money from the government. These nonprofits would have to tell the public who gives them money by sharing the names, zip codes, and amounts of all donations. If a nonprofit does not follow these rules and file the required forms, they would lose their special tax status that helps them save money. This means the public would be able to see who is funding these organizations that also receive taxpayer money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Gosar, Paul A. [R-AZ-9]",
+  "sponsor_party": "R",
+  "sponsor_state": "AZ",
+  "cosponsor_count": 10,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "nonprofit transparency",
+    "government funded nonprofits",
+    "donor disclosure rules",
+    "charity funding disclosure",
+    "nonprofit tax status",
+    "taxpayer funded organizations",
+    "nonprofit donor names",
+    "charity donation transparency",
+    "government money nonprofits",
+    "nonprofit accountability",
+    "charity tax exemption"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Putting Trust in Transparency Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-findings-and-sense-of-congress",
+      "title": "Section 2  Findings and Sense of Congress",
+      "text": "Congress has found several important facts. First, nonprofit organizations often help the federal government give out resources to Americans and people in other countries. Second, a memo from February sixth, two thousand twenty five requires government departments to review all federal money given to nonprofit organizations, but this review does not look at where these organizations get their other money. Third, nonprofit organizations already report their non federal money sources to the Internal Revenue Service using Form nine ninety Schedule B, but these forms are not shared with other parts of the government. Fourth, Article One Section Eight of the Constitution gives Congress the power to make rules for the government and control how taxpayer money is used. Fifth, nonprofit organizations that work independently from the federal government and do not receive any federal grants face limited oversight from Congress and have few restrictions on what they can say or who they can associate with. Sixth, to help lawmakers make good decisions with Americans tax money and provide transparency to the American people, all Americans should be able to see who the big donors are to nonprofit organizations that use federal money for their own purposes. Congress believes that any nonprofit organization that receives federal funding of any kind is acting for the United States government and should follow the same financial oversight rules as government agencies.",
+      "word_offset": 11,
+      "char_offset": 62
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-annual-disclosure-of-contributors-to-exempt-organizations",
+      "title": "Section 3  Annual Disclosure of Contributors to Exempt Organizations",
+      "text": "This section changes the tax code in several ways. First, it requires public disclosure of donor names and partial addresses. Section sixty one oh four of the Internal Revenue Code is changed so that tax exempt organizations that receive federal funding must make their donor information public. The Treasury Secretary must make public any Schedule B of Form nine ninety filed by these organizations within sixty days of processing the form. The public information must include the donor's name, zip code, and total contribution amount with no information blacked out. Second, organizations can lose their tax exempt status if they fail to file Schedule B of Form nine ninety. If an organization does not file this form by the due date, the Internal Revenue Service will notify them that they have no record of the form and warn them that their tax exempt status will be revoked if they do not file within sixty days. If they still do not file, their tax exempt status will be revoked on the date set by the Secretary, and the Secretary will publish and maintain a list of organizations whose status has been revoked. Organizations that lose their status under either the old rules or these new rules must apply to get their status back, but they may get it back retroactively if they can show good cause. These changes apply to tax returns filed for tax years that begin after this law is passed.",
+      "word_offset": 238,
+      "char_offset": 1536
+    }
+  ]
+}
