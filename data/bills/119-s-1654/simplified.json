@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1654",
+  "title": "Safe and Private Rides Act",
+  "short_title": "Safe and Private Rides Act",
+  "congress": 119,
+  "bill_number": "S.1654",
+  "introduced_date": "2025-05-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b68499c09078a704",
+  "last_updated": "2026-05-12T14:42:22.752135+00:00",
+  "plain_summary": "This new law is about ride sharing apps like Uber and Lyft. If a driver has a camera in their car that records passengers, the company must tell customers before they get in the car. Customers can then choose to ride with a different driver who does not have a camera if they want. The Federal Trade Commission will make sure companies follow this rule starting six months after the law begins.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-07",
+  "last_action_date": "2025-05-07",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Commerce",
+  "subjects": [],
+  "sponsor_name": "Sen. Blackburn, Marsha [R-TN]",
+  "sponsor_party": "R",
+  "sponsor_state": "TN",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "ride sharing privacy",
+    "uber lyft cameras",
+    "rideshare driver recording",
+    "passenger privacy protection",
+    "camera disclosure rideshare",
+    "uber camera notification",
+    "lyft video recording",
+    "rideshare surveillance rules",
+    "driver dash cam passengers",
+    "ride sharing transparency law"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Safe and Private Rides Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-requirements-for-transportation-network-companies-pertaining-to-cameras-in-motor-vehicles",
+      "title": "Section 2  Requirements for Transportation Network Companies Pertaining to Cameras in Motor Vehicles",
+      "text": "All ride sharing companies must follow these rules about cameras in cars. First, every driver must tell the company if they have a camera in their car that records video of passengers. The company must tell every passenger about any cameras that are registered with them. The company must create a way to handle drivers who break the camera registration rule. The company must give customers clear notice in their phone app when a driver has a camera that records passengers. Customers must also be able to choose not to ride in cars with cameras through the app. The company can only keep or share passenger recordings if needed to report crimes, for insurance reasons, or to check if someone followed the company rules. The company must set up a way for passengers to report if they were recorded without being told or if they were matched with a camera car after choosing not to ride in one. When giving customers the choice to avoid camera cars, companies must make it easy for customers to change their mind through a simple process. The option to avoid cameras must be clearly shown in the app settings or another easy to find place. Customers must be able to choose about cameras separately from agreeing to the company terms of service. The company can only assume a customer wants to avoid cameras if the customer takes a clear action that obviously shows they do not want cameras. Companies that follow all these rules will not be responsible if their drivers break the camera rules anyway. The Federal Trade Commission will treat breaking this law the same as unfair or deceptive business practices. The Commission can enforce this law using all the same powers they have under the Federal Trade Commission Act. Companies that break this law face the same penalties as under that Act. This law does not limit any other enforcement powers the Commission already has. These requirements start one hundred eighty days after this law is passed. In this law, Commission means the Federal Trade Commission. Motor vehicle means any vehicle made mainly for driving on public streets, roads, and highways that is not a train and has at least four wheels. Transportation network company means any business that uses a digital network to connect customers with drivers who provide rides in motor vehicles. This does not include carpools or vanpools where drivers do not make a profit, or special transportation services provided only for government agencies, nonprofit organizations, or other businesses.",
+      "word_offset": 11,
+      "char_offset": 55
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1646",
+  "title": "Rein in the Federal Reserve Act",
+  "short_title": "Rein in the Federal Reserve Act",
+  "congress": 119,
+  "bill_number": "S.1646",
+  "introduced_date": "2025-05-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "b3ac9a92d499b2ee",
+  "last_updated": "2026-05-12T14:41:57.414477+00:00",
+  "plain_summary": "This bill makes the Federal Reserve tell Congress every three months about special money programs where they buy and sell lots of bonds or make emergency loans. The Federal Reserve can only run these programs for one year before they have to ask Congress for permission to keep going. Congress can also vote to stop these programs if they want to. The bill gives Congress more control over what the Federal Reserve does with these special money programs.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-07",
+  "last_action_date": "2025-05-07",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "federal reserve",
+    "congress control",
+    "emergency loans",
+    "money programs",
+    "bond buying",
+    "quarterly reports",
+    "government oversight",
+    "banking regulation",
+    "financial programs",
+    "congressional approval"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Rein in the Federal Reserve Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-federal-reserve-programs",
+      "title": "Section 2 Federal Reserve Programs",
+      "text": "This section creates new rules for how the Federal Reserve (the main bank that controls money in America) must report to Congress about certain programs. When the Federal Reserve starts any program to buy or sell large amounts of government bonds to change how much money is in the economy (called quantitative easing or tightening) or creates emergency lending programs under specific laws, they must send detailed reports to Congress and make them available to the public. The Federal Reserve must send a new report at least once every ninety days until the program ends and all the assets they bought are removed from their books. Each report must explain why they started the program, estimate how much money might be lost, predict how it will affect the money supply and government debt, assess how it might impact the economy and markets both in America and around the world, describe what financial products they are buying and plan to buy, include a specific timeline for ending the program within three years with an explanation if it needs to last longer than one year, and evaluate any risks to keeping prices stable. The Federal Reserve cannot run any of these programs for longer than one year without getting permission from Congress first. These programs are also subject to a special Congressional review process where Congress can vote to disapprove and stop the programs.",
+      "word_offset": 12,
+      "char_offset": 60
+    }
+  ]
+}
