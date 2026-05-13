@@ -1,0 +1,91 @@
+{
+  "bill_id": "119-hr-1080",
+  "title": "No Solar Panels on Fertile Farmland Act of 2025",
+  "short_title": "No Solar Panels on Fertile Farmland Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.1080",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "0ce5d59e679f827b",
+  "last_updated": "2026-05-13T02:29:22.577049+00:00",
+  "plain_summary": "This law stops people from getting tax breaks for clean energy projects built on the best farmland in America. If someone puts solar panels, wind turbines, or other clean energy equipment on prime farmland that is perfect for growing food, they cannot get tax credits from the government. Prime farmland means land that has the best soil and conditions for growing crops and food. The law covers many different types of tax credits that help make clean energy projects cheaper to build.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. Miller, Mary E. [R-IL-15]",
+  "sponsor_party": "R",
+  "sponsor_state": "IL",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "solar panels on farmland",
+    "wind turbines on farms",
+    "tax credits for clean energy",
+    "building solar on farm soil",
+    "renewable energy on agricultural land",
+    "government subsidies for green energy",
+    "solar farms vs food production",
+    "clean energy tax breaks",
+    "protecting farmland from development",
+    "renewable energy incentives",
+    "solar panels vs crops"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the No Solar Panels on Fertile Farmland Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exclusion-of-property-placed-in-service-on-prime-farmland-from-residential-clean-energy-credit",
+      "title": "Section 2  Exclusion of Property Placed in Service on Prime Farmland from Residential Clean Energy Credit",
+      "text": "This section changes the tax law to remove a tax benefit for homeowners. The tax benefit is called the residential clean energy credit. This credit helps people save money on taxes when they buy clean energy equipment like solar panels. The change says that if someone puts clean energy equipment on prime farmland, they cannot get this tax credit. Prime farmland is the best quality land for growing food. The Secretary of Agriculture decides what counts as prime farmland using rules in part six hundred fifty seven point five of title seven, Code of Federal Regulations. This rule applies to any equipment put in place after this law is passed.",
+      "word_offset": 18,
+      "char_offset": 96
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-exclusion-of-facilities-located-on-prime-farmland-from-renewable-electricity-production-credit",
+      "title": "Section 3  Exclusion of Facilities Located on Prime Farmland from Renewable Electricity Production Credit",
+      "text": "This section changes another tax benefit called the renewable electricity production credit. This credit gives money to people who produce clean electricity from sources like wind or solar power. The change says that facilities built on prime farmland cannot be counted as qualified facilities for this tax credit. A qualified facility is one that can receive the tax benefit. Prime farmland has the same meaning as defined in Section two of this law. This rule applies to any facilities put in place after this law is passed.",
+      "word_offset": 128,
+      "char_offset": 744
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-exclusion-of-property-placed-in-service-on-prime-farmland-from-energy-credit",
+      "title": "Section 4  Exclusion of Property Placed in Service on Prime Farmland from Energy Credit",
+      "text": "This section changes the energy credit tax benefit. The energy credit gives money to people who invest in clean energy equipment. The change says that any property located on prime farmland cannot receive this tax credit. Prime farmland has the same meaning as defined in Section two of this law. This rule applies to any property put in place after this law is passed.",
+      "word_offset": 215,
+      "char_offset": 1271
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-exclusion-of-property-placed-in-service-on-prime-farmland-from-clean-electricity-investment-credit",
+      "title": "Section 5  Exclusion of Property Placed in Service on Prime Farmland from Clean Electricity Investment Credit",
+      "text": "This section changes the clean electricity investment credit. This credit gives tax benefits to people who invest money in clean electricity facilities and energy storage technology. The change says that spending money on property placed on prime farmland cannot be counted for this tax credit. Prime farmland has the same meaning as defined in Section two of this law. This rule applies to any qualified investments for facilities or energy storage technology where construction starts after this law is passed.",
+      "word_offset": 279,
+      "char_offset": 1641
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-exclusion-of-facilities-located-on-prime-farmland-from-clean-electricity-production-credit",
+      "title": "Section 6  Exclusion of Facilities Located on Prime Farmland from Clean Electricity Production Credit",
+      "text": "This section changes the clean electricity production credit. This credit gives money to people who produce clean electricity. The change says that facilities built on prime farmland cannot be counted as qualified facilities for this tax credit. A qualified facility is one that can receive the tax benefit. Prime farmland has the same meaning as defined in Section two of this law. This rule applies to any facilities put in place after this law is passed.",
+      "word_offset": 359,
+      "char_offset": 2154
+    }
+  ]
+}

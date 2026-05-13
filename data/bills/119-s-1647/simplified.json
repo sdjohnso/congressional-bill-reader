@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-1647",
+  "title": "ROI of the Federal Reserve Act",
+  "short_title": "ROI of the Federal Reserve Act",
+  "congress": 119,
+  "bill_number": "S.1647",
+  "introduced_date": "2025-05-07",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "9a87888928d60af4",
+  "last_updated": "2026-05-13T02:28:36.504903+00:00",
+  "plain_summary": "This bill makes new rules for the Federal Reserve, which is the country's central bank. The Federal Reserve must write reports every year to tell Congress how their actions affect middle class families and small businesses. The bill also stops Federal Reserve banks from buying certain types of investments like long-term government bonds, mortgage securities, and company stocks. Finally, the Federal Reserve banks must follow the same accounting rules that other organizations use.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-07",
+  "last_action_date": "2025-05-07",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "federal reserve",
+    "central bank",
+    "middle class families",
+    "small businesses",
+    "government bonds",
+    "mortgage securities",
+    "company stocks",
+    "bank investments",
+    "financial reporting",
+    "accounting rules",
+    "congressional oversight",
+    "banking regulations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Regular Order for Investments of the Federal Reserve Act or the ROI of the Federal Reserve Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-amendments-to-the-federal-reserve-act",
+      "title": "Section 2 Amendments to the Federal Reserve Act",
+      "text": "This section changes the Federal Reserve Act in three ways. First, it requires the Federal Reserve Board and each Federal Reserve bank to send Congress two new reports every year. One report must explain how the middle class is doing in the United States and whether Federal Reserve policies helped or hurt middle class growth. The other report must explain how Federal Reserve actions since the year two thousand have affected small business lending and credit lines. Second, it puts new limits on what Federal Reserve banks can buy starting when this law takes effect. They cannot buy Treasury bills that last longer than three years. They cannot buy mortgage-backed securities (packages of home loans sold as investments). They cannot directly or indirectly own shares of common stock that they acquire after this law starts. Third, it adds a new section requiring the Federal Reserve to follow generally accepted accounting principles (standard rules for keeping financial records) in all their official filings. It also requires them to use mark-to-market valuations (pricing investments at their current market value) in their reports and audits.",
+      "word_offset": 23,
+      "char_offset": 123
+    }
+  ]
+}
