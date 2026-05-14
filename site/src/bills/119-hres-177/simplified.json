@@ -1,0 +1,71 @@
+{
+  "bill_id": "119-hres-177",
+  "title": "Providing for consideration of the joint resolution (H.J. Res. 42) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment\"; providing for consideration of the joint resolution (H.J. Res. 61) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"National Emission Standards for Hazardous Air Pollutants: Rubber Tire Manufacturing\"; and providing for consideration of the joint resolution (S.J. Res. 11) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Ocean Energy Management relating to \"Protection of Marine Archaeological Resources\".",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HRES.177",
+  "introduced_date": "2025-03-03",
+  "stage": "introduced",
+  "stage_label": "Introduced",
+  "version_hash": "5a97a73d69c66791",
+  "last_updated": "2026-05-14T14:32:36.740717+00:00",
+  "plain_summary": "This resolution sets up the rules for the House of Representatives to vote on three separate measures that would overturn government regulations. The three regulations they want to reject are about energy efficiency rules for appliances, air pollution limits for tire factories, and protecting underwater historical sites. The resolution makes it easier to pass these measures by removing most procedural hurdles and limiting debate to one hour for each one. If passed, Congress would be using its power to disapprove and cancel these government agency rules.",
+  "current_status": "introduced",
+  "status_date": "",
+  "last_action_date": "2025-03-04",
+  "last_action_text": "Motion to reconsider laid on the table Agreed to without objection.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Congress",
+  "subjects": [
+    "House of Representatives",
+    "Legislative rules and procedure"
+  ],
+  "sponsor_name": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+  "sponsor_party": "R",
+  "sponsor_state": "NY",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "overturn government regulations",
+    "energy efficiency appliances",
+    "tire factory pollution",
+    "underwater historical sites",
+    "congressional disapproval",
+    "cancel agency rules",
+    "appliance standards",
+    "air pollution limits",
+    "marine archaeology protection",
+    "House voting rules",
+    "reject EPA rules",
+    "energy department regulations"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-energy-department-rule",
+      "title": "Section 1 Energy Department Rule",
+      "text": "When this resolution is approved, the House can consider a joint resolution called H.J. Res. 42. This joint resolution would use a law that lets Congress reject rules made by government agencies. In this case, Congress would reject a rule made by the Department of Energy about energy saving standards for appliances. The rule covers how companies must certify, label, and follow rules for certain consumer products and commercial equipment. No procedural objections can stop the House from considering this joint resolution. The joint resolution will be treated as if it has already been read out loud. No procedural objections can be made against any part of the joint resolution. The House will move straight to a final vote after one hour of debate and one chance for the minority party to send it back to committee. The debate time will be split equally between the chair and top minority member of the Energy and Commerce Committee or people they choose to speak for them.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-epa-tire-rule",
+      "title": "Section 2 EPA Tire Rule",
+      "text": "When this resolution is approved, the House can consider a joint resolution called H.J. Res. 61. This joint resolution would use a law that lets Congress reject rules made by government agencies. In this case, Congress would reject a rule made by the Environmental Protection Agency about air pollution standards for rubber tire manufacturing. No procedural objections can stop the House from considering this joint resolution. The joint resolution will be treated as if it has already been read out loud. No procedural objections can be made against any part of the joint resolution. The House will move straight to a final vote after one hour of debate and one chance for the minority party to send it back to committee. The debate time will be split equally between the chair and top minority member of the Energy and Commerce Committee or people they choose to speak for them.",
+      "word_offset": 165,
+      "char_offset": 979
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-ocean-archaeology-rule",
+      "title": "Section 3 Ocean Archaeology Rule",
+      "text": "When this resolution is approved, the House can consider a joint resolution called S.J. Res. 11. This joint resolution would use a law that lets Congress reject rules made by government agencies. In this case, Congress would reject a rule made by the Bureau of Ocean Energy Management about protecting underwater archaeological resources. No procedural objections can stop the House from considering this joint resolution. The joint resolution will be treated as if it has already been read out loud. No procedural objections can be made against any part of the joint resolution. The House will move straight to a final vote after one hour of debate and one chance for the minority party to send it to committee. The debate time will be split equally between the chair and top minority member of the Natural Resources Committee or people they choose to speak for them.",
+      "word_offset": 314,
+      "char_offset": 1860
+    }
+  ]
+}

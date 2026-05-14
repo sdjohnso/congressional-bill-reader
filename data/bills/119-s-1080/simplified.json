@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-s-1080",
+  "title": "Dental Loan Repayment Assistance Act of 2025",
+  "short_title": "Dental Loan Repayment Assistance Act of 2025",
+  "congress": 119,
+  "bill_number": "S.1080",
+  "introduced_date": "2025-03-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "d55b32cd1641e6a3",
+  "last_updated": "2026-05-14T14:31:39.180693+00:00",
+  "plain_summary": "This bill helps dental school teachers who get help paying back their student loans from the government. Right now, teachers have to pay income tax on that loan help money, but this bill would change the law so they don't have to pay taxes on it anymore. The bill also tells the government to study whether the loan help program is working well to keep dental teachers at their jobs. This could make it easier for people to become dental school teachers by reducing their tax burden.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-14",
+  "last_action_date": "2025-03-14",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Wicker, Roger F. [R-MS]",
+  "sponsor_party": "R",
+  "sponsor_state": "MS",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "dental school teachers",
+    "student loan forgiveness",
+    "loan repayment help",
+    "tax free loan assistance",
+    "dental education",
+    "teacher loan relief",
+    "student debt forgiveness",
+    "dental faculty",
+    "loan forgiveness taxes",
+    "dental instructor benefits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Dental Loan Repayment Assistance Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-exclusion-of-certain-federally-subsidized-loan-repayments-for-dental-school-faculty",
+      "title": "Section 2 Exclusion of Certain Federally Subsidized Loan Repayments for Dental School Faculty",
+      "text": "The government will change the tax rules so that dental school teachers do not have to pay income taxes on money they receive from a federal program that helps pay back their student loans. This applies to loan payments made through a special dental faculty program that gets government grants or contracts. The tax law will be updated to include this new dental program alongside existing programs that already have this tax benefit. These changes will start for tax years that begin after this law is signed. The Government Accountability Office (a watchdog agency) must study and report to Congress about how many dental providers and teachers participate in this loan repayment program. The report must look at whether these people stay as full time teachers working in dental clinics at dental schools, hospitals, or community health sites after they get help paying back their loans.",
+      "word_offset": 16,
+      "char_offset": 93
+    }
+  ]
+}

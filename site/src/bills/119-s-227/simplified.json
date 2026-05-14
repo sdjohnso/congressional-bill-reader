@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-s-227",
+  "title": "PEACE Act of 2025",
+  "short_title": "PEACE Act of 2025",
+  "congress": 119,
+  "bill_number": "S.227",
+  "introduced_date": "2025-01-23",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "d0ef9cd13f43f475",
+  "last_updated": "2026-05-14T14:32:16.172083+00:00",
+  "plain_summary": "The PEACE Act of 2025 is a new law that controls how federal education money can be used. It says that federal funding for American History and Civics Education programs cannot pay for lessons or counseling that teach divisive ideas about race. These divisive ideas include things like saying one race is better than another or making people feel bad about their race. The law is meant to stop certain types of racial teaching that lawmakers think are harmful or unfair.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-23",
+  "last_action_date": "2025-01-23",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Education",
+  "subjects": [
+    "Civics education",
+    "Education programs funding",
+    "Racial and ethnic relations",
+    "Teaching, teachers, curricula"
+  ],
+  "sponsor_name": "Sen. Risch, James E. [R-ID]",
+  "sponsor_party": "R",
+  "sponsor_state": "ID",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "federal education funding",
+    "race teaching ban",
+    "school curriculum restrictions",
+    "civics education money",
+    "divisive concepts",
+    "racial teaching rules",
+    "history class funding",
+    "education grant restrictions",
+    "school race discussions",
+    "classroom teaching limits"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Protect Equality And Civics Education Act of two thousand twenty five or the PEACE Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-use-of-funds",
+      "title": "Section 2 Prohibition on Use of Funds",
+      "text": "This section changes the Elementary and Secondary Education Act of nineteen sixty five by adding new rules about how certain education money can be used. The new rules say that none of the money given out for American History and Civics Education programs can be used to pay for classes, teaching, or counseling that promotes or forces students to accept certain divisive concepts. These are the same concepts that were mentioned in a proposed rule that the Department of Education published on April nineteenth, two thousand twenty one. The law defines what it means to promote or compel a divisive concept. This includes making unfair judgments about people based on their race or blaming a whole race for problems. It also means teaching any of these specific ideas: that one race is naturally better than another race, that the United States is basically a racist country, that a person is automatically racist or mean to others just because of their race, that someone should be treated badly only because of their race, that people of one race cannot treat people of other races fairly, that a person's character is decided by their race, that someone is responsible for bad things done by other people of their same race in the past, that anyone should feel bad or guilty because of their race, or that working hard and being successful based on effort are racist ideas created by one race to hurt another race. The law also defines race scapegoating as blaming an entire race or its members for problems just because of their race. Race stereotyping means saying that people of a certain race all have the same personality traits, values, beliefs, advantages, or status just because of their race.",
+      "word_offset": 26,
+      "char_offset": 143
+    }
+  ]
+}
