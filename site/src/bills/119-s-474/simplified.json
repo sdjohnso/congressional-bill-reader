@@ -1,0 +1,63 @@
+{
+  "bill_id": "119-s-474",
+  "title": "Fair Funding for Rural Hospitals Act",
+  "short_title": "Fair Funding for Rural Hospitals Act",
+  "congress": 119,
+  "bill_number": "S.474",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "5f1996cc3e985883",
+  "last_updated": "2026-05-15T14:25:17.392238+00:00",
+  "plain_summary": "This bill makes sure that every state gets at least twenty million dollars each year to help hospitals that treat many poor patients. The money comes from a program called Medicaid that helps pay for healthcare for low-income people. Each state will get this minimum amount from 2025 through 2029, and after that the amount will go up with inflation. This guarantee means states will get the money even if other funding rules would normally give them less.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Read twice and referred to the Committee on Finance. (text: CR S796)",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Health care coverage and access",
+    "Health facilities and institutions",
+    "Medicaid",
+    "Rural conditions and development"
+  ],
+  "sponsor_name": "Sen. Barrasso, John [R-WY]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 3,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "rural hospitals",
+    "hospital funding",
+    "poor patients",
+    "medicaid money",
+    "state hospital funding",
+    "small town hospitals",
+    "healthcare funding",
+    "hospital financial help",
+    "low income healthcare",
+    "rural healthcare"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Fair Funding for Rural Hospitals Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-minimum-medicaid-dsh-allotment",
+      "title": "Section 2  Minimum Medicaid DSH Allotment",
+      "text": "This section changes the Social Security Act to set a minimum amount of money that states must receive for hospitals that serve many low-income patients. DSH stands for disproportionate share hospital, which means hospitals that treat more poor patients than other hospitals. Starting in fiscal year two thousand twenty five and every year after that, each state must get at least a minimum amount of DSH money, even if other rules would give them less. From fiscal year two thousand twenty five through two thousand twenty nine, this minimum amount is twenty million dollars per year for each state. Starting in fiscal year two thousand thirty and every year after, the minimum amount will be the same as the year before but increased to account for inflation using the same method already described elsewhere in the law.",
+      "word_offset": 12,
+      "char_offset": 65
+    }
+  ]
+}
