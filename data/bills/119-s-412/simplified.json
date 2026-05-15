@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-s-412",
+  "title": "Plum Island Preservation Act",
+  "short_title": "Plum Island Preservation Act",
+  "congress": 119,
+  "bill_number": "S.412",
+  "introduced_date": "2025-02-05",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "2e21d0197b5df412",
+  "last_updated": "2026-05-15T02:28:38.691758+00:00",
+  "plain_summary": "The Plum Island Preservation Act is a law that protects Plum Island in New York forever. The island will be saved for nature, history, and so people can visit it. The government has to start making plans for the island within six months. Every year, they must tell Congress how the planning is going and what they are doing to take care of the island.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-05",
+  "last_action_date": "2025-02-05",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Congressional oversight",
+    "Government buildings, facilities, and property",
+    "Historic sites and heritage areas",
+    "New York State"
+  ],
+  "sponsor_name": "Sen. Blumenthal, Richard [D-CT]",
+  "sponsor_party": "D",
+  "sponsor_state": "CT",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Plum Island",
+    "New York island protection",
+    "island preservation",
+    "nature conservation",
+    "historic island",
+    "government property",
+    "island planning",
+    "environmental protection",
+    "public access island",
+    "Long Island area",
+    "federal land management",
+    "island tourism"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Plum Island Preservation Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-permanent-preservation-of-plum-island-new-york",
+      "title": "Section 2  Permanent Preservation of Plum Island, New York",
+      "text": "The federal government owns an area called Plum Island in New York, along with all the buildings and property there, including the Orient Point terminal and its facilities. This entire area must be protected forever for three main purposes. First, it must be preserved to protect the natural environment and wildlife. Second, it must be used to discover and celebrate the history and culture of Plum Island. Third, people must be able to visit Plum Island. Within one hundred eighty days after this law is passed, the Administrator of General Services must work with other government officials to start planning meetings. These meetings will help create a plan for managing the island's environment in the future. The Administrator must work with the Secretary of Homeland Security, the Secretary of the Interior, other federal and state agencies, tribal governments, and other interested groups. Starting two years after these planning meetings begin, the Administrator must send a report to several congressional committees every year until one year after the meetings are finished. Each report must explain which agencies and groups participated in the meetings, what topics were discussed, what was accomplished or is expected to be accomplished, when the process is expected to finish if it is not done yet, and what recommendations came from the meetings that could help create a future plan for managing the island's environment.",
+      "word_offset": 10,
+      "char_offset": 57
+    }
+  ]
+}
