@@ -1,0 +1,65 @@
+{
+  "bill_id": "119-s-656",
+  "title": "Fair Credit for American Hostages Act of 2025",
+  "short_title": "Fair Credit for American Hostages Act of 2025",
+  "congress": 119,
+  "bill_number": "S.656",
+  "introduced_date": "2025-02-20",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "67de743b00f554d0",
+  "last_updated": "2026-05-16T02:11:25.897588+00:00",
+  "plain_summary": "This bill helps protect Americans who were kidnapped or wrongly held prisoner in other countries. When these people come home, credit companies cannot put bad marks on their credit reports for things that happened while they were trapped overseas. The person just needs to show government papers that prove they were being held against their will. This way, their credit scores won't be hurt because of something that wasn't their fault.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-20",
+  "last_action_date": "2025-02-20",
+  "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [
+    "Consumer affairs",
+    "Consumer credit",
+    "Detention of persons",
+    "Right of privacy"
+  ],
+  "sponsor_name": "Sen. Coons, Christopher A. [D-DE]",
+  "sponsor_party": "D",
+  "sponsor_state": "DE",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "american hostages",
+    "kidnapped americans",
+    "wrongfully detained",
+    "prisoners overseas",
+    "credit report protection",
+    "credit score fixes",
+    "hostage credit help",
+    "detained abroad credit",
+    "overseas prisoner rights",
+    "kidnapped credit repair",
+    "hostage financial help",
+    "wrongful detention credit"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Fair Credit for American Hostages Act of twenty twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-adverse-information-about-consumers-unlawfully-or-wrongfully-detained-abroad-or-held-hostage-abroad",
+      "title": "Section 2 Adverse Information About Consumers Unlawfully or Wrongfully Detained Abroad or Held Hostage Abroad",
+      "text": "This section changes the Fair Credit Reporting Act by adding new rules about credit reports for people who were detained or held hostage in other countries. The new section defines a covered consumer as a United States citizen who was either unlawfully or wrongfully detained abroad or taken hostage abroad. These determinations must be made by specific government offices that handle hostage recovery. Detention or hostage documentation means official papers that prove someone is a covered consumer, show exactly when they were detained or held hostage, and are verified by either the Special Presidential Envoy for Hostage Affairs or the Hostage Recovery Fusion Cell. If a consumer reporting agency (a company that creates credit reports) can verify these official documents from a covered consumer, then the company cannot include any negative information on that person's credit report from the time period when they were detained or held hostage abroad. This section also adds this new rule to the table of contents of the Fair Credit Reporting Act.",
+      "word_offset": 16,
+      "char_offset": 88
+    }
+  ]
+}
