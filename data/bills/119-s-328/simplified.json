@@ -1,0 +1,60 @@
+{
+  "bill_id": "119-s-328",
+  "title": "Stop Sports Blackouts Act",
+  "short_title": "Stop Sports Blackouts Act",
+  "congress": 119,
+  "bill_number": "S.328",
+  "introduced_date": "2025-01-30",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "41dcd9906d160322",
+  "last_updated": "2026-05-23T02:14:33.861846+00:00",
+  "plain_summary": "This bill makes cable and satellite TV companies give customers money back when they lose channels during fights over contracts. When TV companies cannot agree on prices and customers lose access to channels they pay for, the companies must give rebates for that time period. The Federal Communications Commission has ninety days to make rules about how much money customers should get back. This mainly helps when people miss sports games or other shows because their TV provider is fighting with the channel owner about money.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-30",
+  "last_action_date": "2025-01-30",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Sen. Murphy, Christopher [D-CT]",
+  "sponsor_party": "D",
+  "sponsor_state": "CT",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "cable tv refund",
+    "satellite tv money back",
+    "tv channel blackout",
+    "missing sports channels",
+    "tv contract dispute",
+    "cable company rebate",
+    "lost tv channels",
+    "sports game blocked",
+    "tv provider fight",
+    "channel removal refund",
+    "cable bill credit",
+    "satellite tv blackout"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Stop Sports Blackouts Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-rebates-for-video-programming-blackouts",
+      "title": "Section 2 Rebates for Video Programming Blackouts",
+      "text": "This section adds new rules to the Communications Act of nineteen thirty-four. The new section is called Rebates for Video Programming Blackouts. First, it defines important terms. A covered negotiation means talks between companies about whether TV stations can be retransmitted or whether other video programming can be carried. A provider means either a cable company or a satellite TV company that beams signals directly to homes. A television broadcast station means a regular TV station. Video programming means TV shows, movies, and other content you watch on television. Next, this section requires the Federal Communications Commission (the government agency that regulates TV and radio) to create new rules within ninety days. These rules must require TV providers to give customers money back when the provider blocks access to channels during contract disputes. The rebate applies when customers cannot watch programming that the provider promised to provide when they signed up or renewed their service. The rules must also set the right amount of money that providers should give back to customers when this happens.",
+      "word_offset": 10,
+      "char_offset": 54
+    }
+  ]
+}
