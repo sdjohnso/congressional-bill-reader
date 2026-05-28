@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-s-1391",
+  "title": "Coastal Communities Ocean Acidification Act of 2025",
+  "short_title": "Coastal Communities Ocean Acidification Act of 2025",
+  "congress": 119,
+  "bill_number": "S.1391",
+  "introduced_date": "2025-04-09",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "81c6a1c10627cde9",
+  "last_updated": "2026-05-28T16:17:11.620317+00:00",
+  "plain_summary": "This bill changes a 2009 law about ocean acidification, which happens when seawater becomes more acidic and harms sea life. The updated law requires federal agencies to work more closely with state governments, local governments, and Indian Tribes to study and address this problem. It adds Indigenous people to advisory groups that help make decisions about ocean acidification research. The bill also requires these groups to regularly ask coastal communities for their input and to work together on studies that show which areas are most at risk from acidic ocean water.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-09",
+  "last_action_date": "2025-04-09",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Public Lands and Natural Resources",
+  "subjects": [],
+  "sponsor_name": "Sen. Murkowski, Lisa [R-AK]",
+  "sponsor_party": "R",
+  "sponsor_state": "AK",
+  "cosponsor_count": 6,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "ocean acidification",
+    "coastal communities",
+    "seawater acidity",
+    "marine life protection",
+    "sea life harm",
+    "ocean water quality",
+    "coastal pollution",
+    "federal state cooperation",
+    "tribal ocean rights",
+    "ocean health research",
+    "acidic ocean water",
+    "coastal environmental protection"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Coastal Communities Ocean Acidification Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2 Definitions",
+      "text": "This section changes the meanings of words used in an existing law about ocean acidification from two thousand nine. It removes one definition and moves others around. It adds two new definitions. Indian Tribe means what that term means in another law about Indian self determination. Native Hawaiian organization means what that term means in a law called the NATIVE Act. It changes the definition of ocean acidification to say it means an increase of carbon dioxide in seawater. It adds two more definitions. Subcommittee means the National Science and Technology Council Subcommittee on Ocean Science and Technology. United States means all the states together.",
+      "word_offset": 16,
+      "char_offset": 100
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-improvement-of-collaboration-on-ocean-acidification",
+      "title": "Section 3 Improvement of Collaboration on Ocean Acidification",
+      "text": "This section makes several changes to improve how different groups work together on ocean acidification issues. First, it requires the National Oceanic and Atmospheric Administration to create an ongoing way to get input from people affected by ocean acidification. This could be through a contact person, regular meetings, or an online platform. The goal is to get advice from industry members, coastal communities, fishing councils, Indigenous knowledge groups, non federal resource managers, and scientific experts who do not work for the federal government. Second, it changes the makeup of an advisory board by adding two representatives from Indian Tribes, Native Hawaiian organizations, Tribal organizations, and Tribal consortia that are affected by ocean acidification. It reduces the number of other state representatives from six to four. Third, it changes how advisory board members are chosen to include Indigenous groups along with state and local governments. Fourth, it requires the advisory board to create a policy for working with Indian Tribes affected by ocean acidification within one year. The board must consult with these tribes when making this policy. Fifth, it requires reports to include information about how the Secretary of Commerce works with state and local governments, Indian Tribes, and Native Hawaiian organizations on community vulnerability assessments and research planning. Sixth, it updates references in the strategic research plan section. Finally, it makes many detailed changes to improve how NOAA works with different groups including affected industry members, coastal stakeholders, community acidification networks, fishing councils, Indigenous knowledge groups, non federal resource managers, and scientific experts. It adds a new requirement for the Secretary to work with state and local governments and Indian Tribes on vulnerability assessments, research planning, and similar activities. The Secretary must prioritize underserved populations when using NOAA resources.",
+      "word_offset": 121,
+      "char_offset": 765
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-technical-corrections",
+      "title": "Section 4 Technical Corrections",
+      "text": "This section fixes small errors and unclear language in the existing ocean acidification law. It adds missing commas, fixes word order, corrects section references that were wrong, and fixes other minor technical problems in the text.",
+      "word_offset": 411,
+      "char_offset": 2790
+    }
+  ]
+}
