@@ -1,0 +1,58 @@
+{
+  "bill_id": "119-hr-2468",
+  "title": "No Sanctions Relief for Terrorists Act",
+  "short_title": "No Sanctions Relief for Terrorists Act",
+  "congress": 119,
+  "bill_number": "HR.2468",
+  "introduced_date": "2025-03-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e864c9c9fe343ea3",
+  "last_updated": "2026-06-03T17:05:07.229550+00:00",
+  "plain_summary": "This bill stops the US government from allowing businesses to work with Iranian people and groups that were called terrorists on January 20, 2021. The only way these Iranians can do business again is if the President tells Congress they are no longer involved in terrorism. The bill makes sure that people who were listed as terrorists cannot get permission to do business deals unless they have clearly stopped their terrorist activities.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-03-27",
+  "last_action_date": "2025-03-27",
+  "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "International Affairs",
+  "subjects": [],
+  "sponsor_name": "Rep. Steil, Bryan [R-WI-1]",
+  "sponsor_party": "R",
+  "sponsor_state": "WI",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "Iran sanctions",
+    "terrorist business deals",
+    "Iranian companies",
+    "terrorism money",
+    "business with terrorists",
+    "Iran trade restrictions",
+    "terrorist funding",
+    "Iranian sanctions relief",
+    "doing business with Iran",
+    "terrorist organizations money"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the No Sanctions Relief for Terrorists Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-prohibition-on-licenses-and-waivers",
+      "title": "Section 2 Prohibition on Licenses and Waivers",
+      "text": "The government cannot give permission or exceptions for business deals with certain Iranian people and groups. These are Iranian individuals and organizations that were on a special list as of January twentieth two thousand twenty one. This list is kept by the Office of Foreign Assets Control, which is part of the Treasury Department. The list includes people who commit terrorism, threaten to commit terrorism, or support terrorism. The only way the government can give permission for business with these people is if the President tells certain committees in Congress that these Iranian people have stopped being involved in terrorism. The President must tell this to the Committee on Foreign Affairs and the Committee on Financial Services in the House of Representatives. The President must also tell this to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs in the Senate. However, this new rule does not change any general permissions that the Office of Foreign Assets Control had already given as of January twentieth two thousand twenty one for business with these Iranian people.",
+      "word_offset": 12,
+      "char_offset": 67
+    }
+  ]
+}
