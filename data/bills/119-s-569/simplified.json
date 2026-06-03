@@ -1,0 +1,62 @@
+{
+  "bill_id": "119-s-569",
+  "title": "POSTAL Act",
+  "short_title": "POSTAL Act",
+  "congress": 119,
+  "bill_number": "S.569",
+  "introduced_date": "2025-02-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "c953fdaa1ff18466",
+  "last_updated": "2026-06-03T02:57:37.274775+00:00",
+  "plain_summary": "The POSTAL Act is a law that protects mail processing centers in every state. It says the US Postal Service cannot close or combine these centers if it would leave a state with no mail processing facilities at all. The law makes sure that every state keeps at least one place where mail gets sorted and sent out to people. This means every state will always have a mail processing center to handle their mail.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-13",
+  "last_action_date": "2025-02-13",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [
+    "Government buildings, facilities, and property",
+    "Postal service",
+    "U.S. Postal Service"
+  ],
+  "sponsor_name": "Sen. Lummis, Cynthia M. [R-WY]",
+  "sponsor_party": "R",
+  "sponsor_state": "WY",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "mail processing centers",
+    "post office facilities",
+    "mail sorting centers",
+    "postal service closures",
+    "state mail facilities",
+    "mail delivery centers",
+    "post office consolidation",
+    "mail processing jobs",
+    "postal facility shutdowns",
+    "mail sorting facilities"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Postal Operations Stay Timely and Local Act or the POSTAL Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitation-on-closing-or-consolidating-postal-service-processing-and-distribution-centers-in-states",
+      "title": "Section 2 Limitation on Closing or Consolidating Postal Service Processing and Distribution Centers in States",
+      "text": "This section explains what certain terms mean and sets rules for postal facilities. A processing and distribution center is a main postal facility that sorts and sends both incoming and outgoing mail for a specific area. These centers also give instructions to people who send mail about how to prepare their mail and when it will be picked up. These centers include sectional center facilities, general mail facilities, and dedicated mail processing facilities that do not have local post office stations or branches attached to them. The word State means any of the fifty states or the District of Columbia. The United States Postal Service cannot close, combine, downgrade, or take any similar action against a processing and distribution center in a state if doing so would leave that state with no processing and distribution centers at all.",
+      "word_offset": 17,
+      "char_offset": 90
+    }
+  ]
+}
