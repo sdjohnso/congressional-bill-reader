@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-s-1443",
+  "title": "Mobile Workforce State Income Tax Simplification Act of 2025",
+  "short_title": "Mobile Workforce State Income Tax Simplification Act of 2025",
+  "congress": 119,
+  "bill_number": "S.1443",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "a87ea2f6a9a5f467",
+  "last_updated": "2026-06-05T15:21:07.048271+00:00",
+  "plain_summary": "This bill makes tax rules simpler for people who work in different states. It says states can only tax workers if that state is their home state or if they work there for more than 30 days each year. The bill also tells employers how to take out the right taxes from workers' paychecks. The new rules will start on January 1st, two years after the bill becomes law.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Read twice and referred to the Committee on Finance.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Sen. Thune, John [R-SD]",
+  "sponsor_party": "R",
+  "sponsor_state": "SD",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "mobile workers",
+    "working in different states",
+    "state income tax",
+    "traveling for work",
+    "remote work taxes",
+    "multi-state employment",
+    "paycheck taxes",
+    "30 day work rule",
+    "cross-border workers",
+    "state tax simplification",
+    "work travel tax rules",
+    "employer tax withholding"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Mobile Workforce State Income Tax Simplification Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-limitations-on-state-withholding-and-taxation-of-employee-income",
+      "title": "Section 2 Limitations on State Withholding and Taxation of Employee Income",
+      "text": "States can only tax the wages and pay of workers who work in more than one state under these rules. A state can tax a worker's income only if the worker lives in that state or if the worker is present and working in that state for more than thirty days during the calendar year when the money was earned. States cannot require employers to withhold income taxes or file reports about wages unless the worker owes income tax in that state under these rules. If a worker owes tax because they worked more than thirty days in a state, the withholding and reporting must start from the first day the worker began working in that state during that calendar year. Employers can follow certain rules when determining penalties for state income tax withholding and reporting. An employer can rely on what an employee says about how much time they expect to spend working in different states, unless the employer knows the employee is lying or the employer and employee are working together to avoid paying taxes. If an employer keeps records during normal business operations that show where an employee works, those records do not prevent the employer from relying on the employee's estimate. However, if an employer chooses to use a time and attendance system that tracks where the employee works each day, the employer must use that system's data instead of the employee's estimate.",
+      "word_offset": 18,
+      "char_offset": 109
+    },
+    {
+      "id": "s3",
+      "slug": "section-2-definitions-and-special-rules",
+      "title": "Section 2 Definitions and Special Rules",
+      "text": "For this law, a day means an employee is present and working in a state if they do more of their work in that state than in any other state during that day. If an employee works in their home state and only one other state during one day, they are considered to have done more work in the other state than in their home state for that day. Time spent traveling does not count when figuring out where an employee worked. Employee means the same thing that each state defines as an employee, except it does not include professional athletes, professional entertainers, qualified production employees, or certain public figures. Professional athlete means a person who works at professional sports events and gets paid for working as a professional athlete. Professional entertainer means a famous person who works in professional performing arts and gets paid for each event as a professional entertainer. Qualified production employee means a person who does production work directly connected to a state approved film, television, or commercial video production and gets paid wages that count as qualified costs under the state's film incentive program, and those wages must have taxes withheld as required by the film program. Certain public figures means famous people who work for pay at individual events like speeches, public appearances, or similar events. Employer means the same thing defined in section three thousand four hundred one d of the Internal Revenue Code of nineteen eighty six, unless the state where the employee works defines it differently, in which case the state's definition applies. State means any of the fifty states. Time and attendance system means a system where the employee must record their work location every day they work outside the state where they mainly work, and the system lets the employer divide the employee's wages for income tax purposes among all states where the employee works. Wages or other remuneration may be limited by the state where the work is done.",
+      "word_offset": 255,
+      "char_offset": 1487
+    },
+    {
+      "id": "s4",
+      "slug": "section-3-effective-date-applicability",
+      "title": "Section 3 Effective Date and Applicability",
+      "text": "This law will start on January first of the second calendar year that begins after this law is passed. This law will not apply to any tax debt that exists before this law takes effect.",
+      "word_offset": 586,
+      "char_offset": 3498
+    }
+  ]
+}
