@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-s-1444",
+  "title": "Tax DODGER Act",
+  "short_title": "Tax DODGER Act",
+  "congress": 119,
+  "bill_number": "S.1444",
+  "introduced_date": "2025-04-10",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "fa073a4f19a1e1da",
+  "last_updated": "2026-06-06T02:28:32.736706+00:00",
+  "plain_summary": "The Tax DODGER Act creates new rules about federal workers who owe money in back taxes to the government. The Treasury Department must write yearly reports that show how many federal employees and retired workers have unpaid taxes. People who owe serious amounts of tax money cannot get hired for federal jobs or keep their current federal jobs. However, people can still work for the government if they have set up a payment plan to pay back their taxes or if they have special hardship situations.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-10",
+  "last_action_date": "2025-04-10",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Sen. Ernst, Joni [R-IA]",
+  "sponsor_party": "R",
+  "sponsor_state": "IA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "federal employees back taxes",
+    "government workers unpaid taxes",
+    "tax debt federal jobs",
+    "hiring restrictions tax problems",
+    "treasury department tax reporting",
+    "federal worker tax compliance",
+    "government employee tax delinquency",
+    "tax payment plans federal employment",
+    "fired for owing taxes",
+    "federal job tax requirements"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Tax Delinquencies and Overdue Debts are Government Employees Responsibility Act or the Tax DODGER Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-annual-report-on-federal-employees-and-retirees-with-delinquent-tax-debt",
+      "title": "Section 2 Annual Report on Federal Employees and Retirees with Delinquent Tax Debt",
+      "text": "The Secretary of the Treasury must create and publish a yearly report about current and retired federal workers who owe back taxes or have not filed their tax returns. This report must be sent to certain committees in Congress and posted on the internet for everyone to see. The report must include how many civilian employees, retired civilian employees, active military members, reserve and national guard members, and retired military members work for the government. It must show how many people in each group owe back taxes or have not filed tax returns, but it does not count people who have payment plans with the IRS. The report must also show the total amount of money owed and what percentage of people in each group are behind on taxes. All this information must be broken down by each federal agency. The committees that get this report are the Senate Finance Committee, the House Ways and Means Committee, the Senate Homeland Security and Governmental Affairs Committee, and the House Oversight and Government Reform Committee.",
+      "word_offset": 21,
+      "char_offset": 130
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-ineligibility-of-noncompliant-taxpayers-for-federal-employment",
+      "title": "Section 3 Ineligibility of Noncompliant Taxpayers for Federal Employment",
+      "text": "This section adds new rules to federal employment law about people who do not pay their taxes. An agency means any part of the executive branch, the Postal Service, the Postal Regulatory Commission, or any office that hires people in the legislative branch. An employee means anyone who works for these agencies. Seriously delinquent tax debt means federal taxes that the Treasury Department has officially said someone owes and can legally collect through seizure or court action. This does not include debts being paid through official payment plans, debts where someone has asked for a hearing about collection, debts where the IRS is already taking money directly from paychecks, or debts where such seizure has been released for hardship reasons. People cannot be hired or continue working for the federal government if they have seriously delinquent tax debt, do not provide required paperwork saying they do not owe taxes, or refuse to sign forms allowing the IRS to share tax information. Anyone applying for a federal job must sign a paper saying they do not owe seriously delinquent tax debt. The Office of Personnel Management will write detailed rules about how this works, working with the IRS. These rules must give people all the legal protections they normally get in employment cases. Before someone loses their job or cannot get hired, they get one hundred eighty days to prove their debt fits one of the exceptions. An employee can keep working despite tax debt if losing them would cause financial hardship and keeping them is in the best interest of the United States, as decided case by case by the agency head. Every year, the Office of Personnel Management must tell Congress how many people asked for and received these hardship exceptions. Each agency must check public records to see if any employees or job applicants have tax liens filed against them. If they find a tax lien, the agency can ask the person to sign a form letting the Treasury Department tell the agency whether the person has seriously delinquent tax debt or has been found to have willfully failed to file taxes or understated their tax liability. The Treasury Department will create a standard form for this purpose. Agency heads and employees cannot use this tax information for anything other than enforcing these employment rules, cannot publish information that would identify specific people, and cannot let anyone outside the agency see this information. Agency heads can take personnel actions against employees, including firing them, if there is a final official determination that the employee willfully failed to file required tax returns or willfully understated their federal tax liability, unless the failure was for reasonable cause and not willful neglect. Employees facing such actions get the same procedural protections as other federal employees facing discipline. The table of contents for this part of federal law is updated to include these new sections about tax compliance and federal employment. These changes take effect two hundred seventy days after this law is passed.",
+      "word_offset": 194,
+      "char_offset": 1171
+    }
+  ]
+}
