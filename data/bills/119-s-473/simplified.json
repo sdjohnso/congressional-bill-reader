@@ -1,0 +1,75 @@
+{
+  "bill_id": "119-s-473",
+  "title": "SENIOR Act",
+  "short_title": "SENIOR Act",
+  "congress": 119,
+  "bill_number": "S.473",
+  "introduced_date": "2025-02-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "fe18ff62aab7096e",
+  "last_updated": "2026-06-08T16:08:46.149520+00:00",
+  "plain_summary": "The SENIOR Act helps fight loneliness among older Americans by expanding government programs that already help seniors stay healthy and connected. The bill allows federal grant money to be used for services that specifically help lonely older adults, not just those who are socially isolated. It also requires the government to write a detailed report about whether current programs are doing enough to help lonely seniors and what new steps could be taken. The report must include ideas for helping older adults stay connected with their families across different generations and ways to reduce health problems caused by loneliness.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-06",
+  "last_action_date": "2025-02-06",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [
+    "Aging",
+    "Community life and organization",
+    "Congressional oversight",
+    "Government studies and investigations",
+    "Health promotion and preventive care",
+    "Mental health"
+  ],
+  "sponsor_name": "Sen. Scott, Rick [R-FL]",
+  "sponsor_party": "R",
+  "sponsor_state": "FL",
+  "cosponsor_count": 2,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "seniors loneliness",
+    "older adults isolation",
+    "elderly social programs",
+    "senior citizen mental health",
+    "aging and loneliness",
+    "government help for lonely seniors",
+    "elderly community connections",
+    "senior social services",
+    "older people depression",
+    "aging in place support",
+    "senior citizen wellbeing",
+    "elderly family connections"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Social Engagement and Network Initiatives for Older Relief Act or the SENIOR Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-screening-older-individuals-for-loneliness",
+      "title": "Section 2  Screening Older Individuals for Loneliness and Coordination of Supportive Services and Health Care to Address Loneliness",
+      "text": "This section changes an existing law called the Older Americans Act of nineteen sixty five. Wherever that law talks about social isolation (being cut off from other people), it will now also include loneliness. This means programs will check for both social isolation and loneliness in older adults.",
+      "word_offset": 19,
+      "char_offset": 109
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-report-on-loneliness",
+      "title": "Section 3  Report on Loneliness",
+      "text": "The Secretary (the head of the Department of Health and Human Services) must create a report about loneliness in older adults. The report must look at programs that help older people who have the greatest social need. It must also study how strong family connections across different generations affect loneliness in older adults. The report must figure out if loneliness is being properly addressed in these programs. It needs to identify how common loneliness is in different areas of the country and what negative health effects loneliness causes. The report must look at whether programs help communities work together to reduce loneliness among older adults and their caregivers. It should check if programs reach out to screen older adults for loneliness related health problems. The report must include recommendations for reducing the harmful health effects of loneliness and for creating policies that build strong family connections across generations. The Secretary must submit a progress report within two years of this law being passed. The final complete report must be submitted within five years. Both reports go to Congressional committees that oversee programs for older Americans and to the Senate Special Committee on Aging. For this section, greatest social need, older individual, and Secretary have the same meanings as defined in the original Older Americans Act of nineteen sixty five.",
+      "word_offset": 67,
+      "char_offset": 409
+    }
+  ]
+}

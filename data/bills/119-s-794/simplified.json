@@ -1,0 +1,51 @@
+{
+  "bill_id": "119-s-794",
+  "title": "A bill to require the Assistant Secretary of Commerce for Communications and Information to audit Federal spectrum.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "S.794",
+  "introduced_date": "2025-02-27",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "253f6856411f414d",
+  "last_updated": "2026-06-08T16:09:02.988498+00:00",
+  "plain_summary": "This bill requires a government official to check how federal agencies use radio waves for communication. The official must study which radio frequencies each agency uses and where they use them. They also need to find out if any radio frequencies are not being used. The official has eighteen months to finish this study and must write a report to Congress about what they find.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-02-27",
+  "last_action_date": "2025-02-27",
+  "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Science, Technology, Communications",
+  "subjects": [],
+  "sponsor_name": "Sen. Lee, Mike [R-UT]",
+  "sponsor_party": "R",
+  "sponsor_state": "UT",
+  "cosponsor_count": 0,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "radio waves",
+    "government communication",
+    "federal agencies radio use",
+    "spectrum audit",
+    "radio frequency study",
+    "unused radio frequencies",
+    "government radio check",
+    "federal spectrum review",
+    "radio wave allocation",
+    "communication frequencies",
+    "government radio report"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-federal-spectrum-audit",
+      "title": "Section 1 Federal Spectrum Audit",
+      "text": "This section defines important terms and requires a study of how the government uses radio waves. The Assistant Secretary means the Assistant Secretary of Commerce for Communications and Information. A Federal entity means any government agency or department that uses radio waves for communication. Within eighteen months after this law is passed, the Assistant Secretary must work with the head of each government agency to do two things. First, they must conduct an audit which means a careful study of the electromagnetic spectrum that is assigned or given to each government agency as of the date they do the study. Electromagnetic spectrum refers to all the different types of radio waves that can be used for communication like radio, television, cell phones, and other wireless devices. Second, they must give Congress a report with the results of this study and make it available to any member of Congress who asks for it. The report must include several specific pieces of information about the radio waves each government agency uses. It must list each particular band of spectrum being used by the agency. A band of spectrum means a specific range of radio waves. The report must describe what each band is used for and how much of that band is being used for that purpose. It must say what state or geographic area each band is assigned to be used in. The report must say whether each band is used only by that government agency or shared with other government agencies or non-government groups. The report must identify any portion of the spectrum that the government agency is not actually using. The report must be submitted in unclassified form meaning it can be shared with the public, but it may include a classified section with secret information. The Assistant Secretary must work with the Secretary of Transportation to make sure this study does not repeat the same work as another spectrum audit required under section twenty seven thousand and three of the Infrastructure Investment and Jobs Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    }
+  ]
+}
