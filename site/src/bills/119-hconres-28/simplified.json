@@ -1,0 +1,66 @@
+{
+  "bill_id": "119-hconres-28",
+  "title": "Expressing the sense of Congress that the votes of overseas servicemembers must be counted and honored as required under the Uniformed and Overseas Citizens Absentee Voting Act.",
+  "short_title": "",
+  "congress": 119,
+  "bill_number": "HCONRES.28",
+  "introduced_date": "2025-04-14",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "470b7d3db95dc96f",
+  "last_updated": "2026-06-10T02:41:23.531937+00:00",
+  "plain_summary": "This congressional resolution says that votes from military members serving overseas and other American citizens living in other countries must be counted in elections. Congress believes states should follow federal law that requires these votes to be counted properly. The resolution asks states to do their job of counting these votes and wants the Attorney General to make sure the voting rules are followed. This is important because military servicemembers and overseas Americans have the right to vote even when they are not living in the United States.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-14",
+  "last_action_date": "2025-04-14",
+  "last_action_text": "Referred to the House Committee on House Administration.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Government Operations and Politics",
+  "subjects": [],
+  "sponsor_name": "Rep. Ross, Deborah K. [D-NC-2]",
+  "sponsor_party": "D",
+  "sponsor_state": "NC",
+  "cosponsor_count": 2,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "overseas military votes",
+    "servicemember voting",
+    "military ballot counting",
+    "overseas citizen voting",
+    "absentee military votes",
+    "troops voting abroad",
+    "overseas American votes",
+    "military voting rights",
+    "deployed soldier voting",
+    "overseas ballot counting"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-sense-of-congress",
+      "title": "Section 1 Sense of Congress",
+      "text": "Congress believes that votes from military members and citizens living overseas must be counted and respected when they follow the rules in the Uniformed and Overseas Citizens Absentee Voting Act. This law is also called UOCAVA. Congress thinks that all states, territories, and election officials must follow their duties under UOCAVA. They must make sure that no legal absentee ballot is rejected without fair process or against federal law. Congress also believes it is wrong and against American values when military personnel and overseas citizens lose their right to vote because of office mistakes, delays in procedures, or unfair restrictions.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-reaffirming-federal-protections",
+      "title": "Section 2 Reaffirming Federal Protections",
+      "text": "Congress promises again to enforce UOCAVA and make sure every qualified servicemember and overseas citizen can vote without unfair difficulties. Congress asks states and territories to make processing, accepting, and counting absentee ballots their top priority according to federal law.",
+      "word_offset": 100,
+      "char_offset": 652
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-enforcement",
+      "title": "Section 3 Enforcement",
+      "text": "Congress asks the Attorney General of the United States to watch whether people are following UOCAVA. The Attorney General should act quickly to fix violations and protect the voting rights of military members and overseas citizens.",
+      "word_offset": 140,
+      "char_offset": 940
+    }
+  ]
+}

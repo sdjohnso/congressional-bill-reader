@@ -1,0 +1,76 @@
+{
+  "bill_id": "119-hr-3346",
+  "title": "Sovereign State Environmental Quality Assurance Act",
+  "short_title": "Sovereign State Environmental Quality Assurance Act",
+  "congress": 119,
+  "bill_number": "HR.3346",
+  "introduced_date": "2025-05-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "e66534bb75a1bcda",
+  "last_updated": "2026-06-10T02:41:08.661531+00:00",
+  "plain_summary": "This bill would close down the Environmental Protection Agency within nine months. Instead of having one big federal agency, the government would give money directly to each state so they can handle their own environmental problems like air pollution, dirty water, trash, and cleanup projects. A government watchdog group would check each year to see how well the states are doing this job and tell Congress about it.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-13",
+  "last_action_date": "2025-05-13",
+  "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Agriculture, Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequent",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Environmental Protection",
+  "subjects": [],
+  "sponsor_name": "Rep. Higgins, Clay [R-LA-3]",
+  "sponsor_party": "R",
+  "sponsor_state": "LA",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "shut down EPA",
+    "close Environmental Protection Agency",
+    "give states control environment",
+    "end federal EPA",
+    "state environmental control",
+    "eliminate EPA agency",
+    "states handle pollution",
+    "federal to state environment",
+    "dismantle EPA",
+    "state environmental money",
+    "end federal environmental agency",
+    "states control air water pollution"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Sovereign State Environmental Quality Assurance Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-abolishment-of-the-environmental-protection-agency",
+      "title": "Section 2 Abolishment of the Environmental Protection Agency",
+      "text": "The Environmental Protection Agency will be shut down completely two hundred seventy days after this law is passed. All of the work, duties, powers, and programs that the Environmental Protection Agency does will also end on that same date. The head of the Environmental Protection Agency must finish up any remaining business and close down the agency before that date. Within ninety days after this law is passed, the head of the agency must send a report to Congress explaining how they plan to shut down by the deadline. When the agency is shut down, all laws that gave the Environmental Protection Agency the authority to do its work will no longer apply to that agency.",
+      "word_offset": 12,
+      "char_offset": 80
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-block-grants-to-designated-state-environmental-quality-departments",
+      "title": "Section 3 Block Grants to Designated State Environmental Quality Departments",
+      "text": "The Secretary of the Treasury will give money to each state and territory based on how many people live there compared to the total population of all states and territories. This is calculated using the most recent ten year population count done by the government. To get this money, each state governor must choose which state environmental department or departments will use the funds. The governor must also agree to have these departments checked regularly to make sure the money is being used properly and send the results of these checks to the Secretary of the Treasury. If the Secretary of the Treasury finds that any state has used the money incorrectly, they can demand the money be paid back and stop sending more money until it is returned. The state environmental departments must use this money for programs that deal with air quality, water quality including making sure drinking water is safe, managing solid and dangerous waste, chemical safety and emergency response, radiation protection, and cleaning up polluted areas. Four billion four hundred million dollars is authorized to be given out each year from two thousand twenty six through two thousand twenty nine. In this section, covered state means all fifty states plus the District of Columbia, Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa. The Secretary of the Treasury is also authorized to receive money to manage this program and check on how states use the funds and report back to Congress about their findings.",
+      "word_offset": 128,
+      "char_offset": 756
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-annual-gao-study-and-report",
+      "title": "Section 4 Annual GAO Study and Report",
+      "text": "The Comptroller General of the United States (the head of the Government Accountability Office) must do a study each year from two thousand twenty six through two thousand twenty nine to see how well this law is working. Within one hundred eighty days after each year ends, they must send a report to Congress with the results of their study. The Comptroller General is authorized to receive whatever money is needed to do these studies and reports each year.",
+      "word_offset": 380,
+      "char_offset": 2292
+    }
+  ]
+}

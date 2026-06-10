@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-s-1607",
+  "title": "INSPECT Act",
+  "short_title": "INSPECT Act",
+  "congress": 119,
+  "bill_number": "S.1607",
+  "introduced_date": "2025-05-06",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "406aedc03899a38c",
+  "last_updated": "2026-06-10T02:40:45.931118+00:00",
+  "plain_summary": "The INSPECT Act creates three new watchdog jobs to keep an eye on important health agencies. These watchdogs, called inspector generals, will watch over the National Institutes of Health, the Centers for Disease Control and Prevention, and the Food and Drug Administration. The President has one year to hire these three people for the jobs. The money to pay them will come from the Department of Health and Human Services budget that already exists.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-06",
+  "last_action_date": "2025-05-06",
+  "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Health",
+  "subjects": [],
+  "sponsor_name": "Sen. Schmitt, Eric [R-MO]",
+  "sponsor_party": "R",
+  "sponsor_state": "MO",
+  "cosponsor_count": 0,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "government watchdog",
+    "health agency oversight",
+    "NIH inspector",
+    "CDC monitoring",
+    "FDA oversight",
+    "health department accountability",
+    "medical agency supervision",
+    "public health watchdog",
+    "government health oversight",
+    "federal health agencies",
+    "health inspector general",
+    "medical oversight jobs"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1. Short Title",
+      "text": "This law can be called the Improving National Safety, Public health, Ethics, and Clinical Trials Act or the INSPECT Act.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-establishment-of-inspectors-general",
+      "title": "Section 2. Establishment of Inspectors General of the National Institutes of Health, the Centers for Disease Control and Prevention, and the Food and Drug Administration",
+      "text": "This section changes federal law to create three new inspector general positions. An inspector general is a special investigator who watches over government agencies to make sure they follow rules and spend money properly. The law adds the National Institutes of Health, the Centers for Disease Control and Prevention, and the Food and Drug Administration to the list of agencies that must have their own inspector general. It also adds the directors of these agencies to the list of officials who work with inspectors general. Within one year after this law passes, the President must choose and appoint three people to serve as inspector generals for these three health agencies. The President must follow the existing rules in federal law when making these appointments.",
+      "word_offset": 20,
+      "char_offset": 121
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-compliance-with-cutgo",
+      "title": "Section 3. Compliance with CUTGO",
+      "text": "This law must be carried out using money that has already been given to the Office of the Inspector General of the Department of Health and Human Services. No new money is approved to pay for this law or the changes it makes.",
+      "word_offset": 144,
+      "char_offset": 895
+    }
+  ]
+}
