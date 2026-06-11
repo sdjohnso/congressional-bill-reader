@@ -1,0 +1,82 @@
+{
+  "bill_id": "119-hr-3354",
+  "title": "Primary Regulators of Insurance Vote Act of 2025",
+  "short_title": "Primary Regulators of Insurance Vote Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.3354",
+  "introduced_date": "2025-05-13",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "99a750ce17bb7b29",
+  "last_updated": "2026-06-11T02:49:55.534830+00:00",
+  "plain_summary": "This bill changes who gets to vote on the Financial Stability Oversight Council, which is a group that watches over the country's financial system. Right now, a state insurance commissioner can only attend meetings but cannot vote on important decisions. The bill would let this person vote on decisions just like other members. The President would pick which state insurance commissioner gets this job, and the Senate would have to approve the choice. The person chosen would serve in this role for four years.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-05-13",
+  "last_action_date": "2025-05-13",
+  "last_action_text": "Referred to the House Committee on Financial Services.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Finance and Financial Sector",
+  "subjects": [],
+  "sponsor_name": "Rep. Loudermilk, Barry [R-GA-11]",
+  "sponsor_party": "R",
+  "sponsor_state": "GA",
+  "cosponsor_count": 1,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "insurance commissioner voting rights",
+    "financial oversight council",
+    "state insurance representative",
+    "financial stability board",
+    "insurance regulator voting",
+    "state vs federal insurance",
+    "financial system oversight",
+    "insurance commissioner senate approval",
+    "financial council membership",
+    "insurance voting power"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1  Short Title",
+      "text": "This law can be called the Primary Regulators of Insurance Vote Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-establishment-of-state-insurance-commissioner-as-voting-member",
+      "title": "Section 2  Establishment of State Insurance Commissioner as a Voting Member of the Financial Stability Oversight Council",
+      "text": "This section changes the Financial Stability Act of two thousand ten. The Financial Stability Oversight Council is a group that watches over financial risks in the United States. Right now, a state insurance commissioner sits on this council but cannot vote. This section makes the state insurance commissioner a voting member of the council. The President will choose this person with approval from the Senate. Before choosing someone, the President must ask the National Association of Insurance Commissioners for a list of good candidates. The President can pick someone not on that list if they want. If the insurance commissioners group does not send a list within fifteen business days, the President can choose someone without their input. The state insurance commissioner will serve for four years. When there is an empty spot for the state insurance commissioner position, other state insurance commissioners will pick someone to fill in temporarily until a new person is officially chosen and approved. This temporary person cannot vote during their time filling in.",
+      "word_offset": 17,
+      "char_offset": 97
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-repeal-of-state-insurance-commissioner-as-nonvoting-member",
+      "title": "Section 3  Repeal of State Insurance Commissioner as Nonvoting Member of FSOC",
+      "text": "This section removes the old rule that made a state insurance commissioner a nonvoting member of the Financial Stability Oversight Council. Since the state insurance commissioner is now a voting member, they no longer need to be a nonvoting member. The section also fixes other parts of the law to match this change.",
+      "word_offset": 186,
+      "char_offset": 1174
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-temporary-service-transition",
+      "title": "Section 4  Temporary Service; Transition",
+      "text": "During the time between when this law takes effect and when a new voting state insurance commissioner is chosen and approved, the old rules will still apply. This means a state insurance commissioner will continue to serve as a nonvoting member until the new voting member is ready to start.",
+      "word_offset": 239,
+      "char_offset": 1491
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-technical-and-clarifying-amendments",
+      "title": "Section 5  Technical and Clarifying Amendments",
+      "text": "This section makes small fixes to the Financial Stability Act of two thousand ten. It adds a clear definition that Council means the Financial Stability Oversight Council. It fixes some grammar and formatting problems in different parts of the law. These changes help make the law clearer and easier to understand without changing what it means.",
+      "word_offset": 289,
+      "char_offset": 1783
+    }
+  ]
+}
