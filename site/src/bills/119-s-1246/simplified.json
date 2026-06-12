@@ -1,0 +1,148 @@
+{
+  "bill_id": "119-s-1246",
+  "title": "FEMA Independence Act of 2025",
+  "short_title": "FEMA Independence Act of 2025",
+  "congress": 119,
+  "bill_number": "S.1246",
+  "introduced_date": "2025-04-02",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "82364b3bcbff4a11",
+  "last_updated": "2026-06-12T02:47:00.268298+00:00",
+  "plain_summary": "This bill would take FEMA out of the Department of Homeland Security and make it its own separate government agency. FEMA helps people when disasters like hurricanes or floods happen, and it would keep doing the same job but as an independent department. The President would pick a Director to run FEMA, and the Senate would have to approve that choice. All of FEMA's workers, money, and responsibilities would move to the new independent agency within one year.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-04-02",
+  "last_action_date": "2025-04-02",
+  "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Emergency Management",
+  "subjects": [],
+  "sponsor_name": "Sen. Tillis, Thomas [R-NC]",
+  "sponsor_party": "R",
+  "sponsor_state": "NC",
+  "cosponsor_count": 3,
+  "crs_summary_available": false,
+  "plain_keywords": [
+    "FEMA independence",
+    "disaster relief agency",
+    "emergency management",
+    "hurricane response",
+    "flood help",
+    "disaster assistance",
+    "FEMA separate agency",
+    "emergency response",
+    "disaster recovery",
+    "natural disaster help",
+    "FEMA reform",
+    "emergency preparedness"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title-table-of-contents",
+      "title": "Section 1  Short Title; Table of Contents",
+      "text": "This law can be called the FEMA Independence Act of twenty twenty five. The law contains thirteen main sections that cover how to make FEMA its own separate government department, who will run it, what powers it will have, and how to move it out of the Department of Homeland Security.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-definitions",
+      "title": "Section 2  Definitions",
+      "text": "In this law, the word Agency means the Federal Emergency Management Agency that this law creates. The word Director means the person who will be in charge of the Agency. The word hazard means any dangerous situation as defined in existing disaster relief laws. This includes major disasters and emergencies that the President officially declares under federal disaster laws.",
+      "word_offset": 51,
+      "char_offset": 286
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-establishment-of-fema-as-cabinet-level-independent-agency",
+      "title": "Section 3  Establishment of FEMA as Cabinet-Level Independent Agency",
+      "text": "This law creates the Federal Emergency Management Agency as its own separate department of the United States government. The main job of the Agency will be to reduce deaths and property damage and protect the United States from all dangers. This includes natural disasters, terrorist attacks, and other man-made disasters. The Agency will lead and support the country in a complete emergency management system that focuses on being prepared, protecting people, responding to disasters, helping people recover, and preventing future problems.",
+      "word_offset": 110,
+      "char_offset": 661
+    },
+    {
+      "id": "s4",
+      "slug": "section-4-director-deputy-directors-regional-offices",
+      "title": "Section 4  Director; Deputy Directors; Regional Offices",
+      "text": "The Agency will be led by a Director who must be chosen by the President and approved by the Senate. The Director will report directly to the President. The President must choose someone who knows about emergency management and homeland security and has at least five years of leadership experience in both government and private business. The President can also appoint up to four Deputy Directors to help the Director, and these appointments must also be approved by the Senate. The Agency will have ten Regional Offices around the country. Each Regional Office will be led by a Regional Director chosen by the main Director.",
+      "word_offset": 191,
+      "char_offset": 1203
+    },
+    {
+      "id": "s5",
+      "slug": "section-5-authority-and-responsibilities",
+      "title": "Section 5  Authority and Responsibilities",
+      "text": "The Director will provide federal leadership to prepare for, respond to, recover from, and reduce dangers from disasters. The Director will help the President carry out disaster relief laws and will take over all the duties that the FEMA Administrator currently has. The Director will lead a complete emergency management system with four parts. First is mitigation, which means taking long-term actions to reduce risks to people and property. Second is preparedness, which means planning, training, and practicing to get ready for disasters. Third is response, which means conducting emergency operations to save lives and property by moving emergency equipment and people, evacuating victims, providing food and water and shelter and medical care, and restoring important public services. Fourth is recovery, which means rebuilding communities so people, businesses, and governments can work independently, return to normal life, and protect against future dangers. The Director must help make sure emergency responders work effectively, coordinate the federal government's response to disasters, build a national incident management system with federal, state, and local officials, combine existing federal emergency response plans into one National Response Plan, make sure this plan is implemented, and help ensure that governments and emergency responders can communicate with each other. The Director will also prepare and implement federal government plans to keep operations, government, and other plans running during emergencies.",
+      "word_offset": 296,
+      "char_offset": 1831
+    },
+    {
+      "id": "s6",
+      "slug": "section-6-transfer-of-functions",
+      "title": "Section 6  Transfer of Functions",
+      "text": "All of FEMA's current duties will be moved to the new Director. The Inspector General duties that were moved from FEMA to the Department of Homeland Security after January first, two thousand three, will be moved back to FEMA's Inspector General. These transfers must happen within one year after this law is passed. During this transition time, the Secretary of Homeland Security must help the Director prepare for the transfer by providing staff and resources as requested.",
+      "word_offset": 517,
+      "char_offset": 3372
+    },
+    {
+      "id": "s7",
+      "slug": "section-7-personnel-and-other-transfers",
+      "title": "Section 7  Personnel and Other Transfers",
+      "text": "The Director can hire and set pay for officers and employees needed to carry out the transferred duties. All staff, property, contracts, records, and unused money connected to the transferred duties will be moved to the Agency. Unused funds can only be used for their original purposes. The Director of the Office of Management and Budget, working with the FEMA Director, can make decisions about transferring people, property, grants, contracts, and other items as needed to make this law work. Employees who are transferred cannot be fired or have their pay or job level reduced for one year after the transfer. People in high-level positions will keep getting paid at least as much as they did in their previous job for as long as they stay in their new position.",
+      "word_offset": 594,
+      "char_offset": 3848
+    },
+    {
+      "id": "s8",
+      "slug": "section-8-savings-provisions",
+      "title": "Section 8  Savings Provisions",
+      "text": "All existing legal documents and actions will continue to work the same way until they are changed or ended by the President, the Director, other authorized officials, a court, or by law. This includes all orders, rules, permits, agreements, grants, contracts, and other official actions that were in effect or final before the transfer. Any proceedings or applications that were pending before the transfer will continue as if this law had never been passed. Legal cases that started before the transfer will continue in the same way. No legal case started by or against the Agency will end just because this law was passed. The Agency can continue any work on making regulations as if this law had never been passed.",
+      "word_offset": 724,
+      "char_offset": 4615
+    },
+    {
+      "id": "s9",
+      "slug": "section-9-references",
+      "title": "Section 9  References",
+      "text": "Any mention of the Federal Emergency Management Agency in any law, executive order, rule, regulation, or other official document will now refer to the new Agency created by this law. Any mention of the Director or Administrator of FEMA will now refer to the new Director. Any mention of the Inspector General of FEMA or related duties that were moved to the Department of Homeland Security after January first, two thousand three, will now refer to the Inspector General of the new Agency.",
+      "word_offset": 845,
+      "char_offset": 5334
+    },
+    {
+      "id": "s10",
+      "slug": "section-10-offices-and-functions-of-department-of-homeland-security",
+      "title": "Section 10  Offices and Functions of Department of Homeland Security",
+      "text": "This section removes eleven specific sections from the Homeland Security Act that dealt with FEMA. It also renumbers seventeen other sections and changes the title of Title Five of the Homeland Security Act from National Emergency Management to Other Offices and Functions. The table of contents is updated to show these changes. These changes will take effect when the function transfers happen.",
+      "word_offset": 928,
+      "char_offset": 5824
+    },
+    {
+      "id": "s11",
+      "slug": "section-11-homeland-security-grants",
+      "title": "Section 11  Homeland Security Grants",
+      "text": "This section changes the homeland security grant laws so that most references to the Administrator are changed to Secretary, meaning the Secretary of Homeland Security will handle most grant duties. However, some specific grant duties will stay with the Director of the new FEMA. These changes will take effect when the function transfers happen.",
+      "word_offset": 990,
+      "char_offset": 6221
+    },
+    {
+      "id": "s12",
+      "slug": "section-12-conforming-amendments-to-other-laws",
+      "title": "Section 12  Conforming Amendments to Other Laws",
+      "text": "This section makes small changes to other laws to reflect that FEMA is now independent. It removes a requirement for FEMA to coordinate with the Department of Homeland Security's Chief Information Officer on technology improvements. It adds FEMA to the list of agencies that must have a Chief Financial Officer. It removes an outdated section about references to FEMA. These changes will take effect when the function transfers happen.",
+      "word_offset": 1044,
+      "char_offset": 6568
+    },
+    {
+      "id": "s13",
+      "slug": "section-13-report-on-recommended-legislation",
+      "title": "Section 13  Report on Recommended Legislation",
+      "text": "Within ninety days after the transition period ends, the Director must work with Congress to write a report. The report will recommend additional changes to laws that may be needed to reflect the changes made by this Act.",
+      "word_offset": 1113,
+      "char_offset": 7004
+    }
+  ]
+}
