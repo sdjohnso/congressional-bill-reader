@@ -1,0 +1,68 @@
+{
+  "bill_id": "119-hr-782",
+  "title": "Reignite Hope Act of 2025",
+  "short_title": "Reignite Hope Act of 2025",
+  "congress": 119,
+  "bill_number": "HR.782",
+  "introduced_date": "2025-01-28",
+  "stage": "referred_to_committee",
+  "stage_label": "In Committee",
+  "version_hash": "0eb7e0b43d74b9af",
+  "last_updated": "2026-06-15T17:24:58.889416+00:00",
+  "plain_summary": "The Reignite Hope Act of 2025 creates a new tax credit that gives essential workers like nurses, police officers, firefighters, and childcare providers $3,500 back on their taxes if they work full-time in poor communities called opportunity zones. The bill also makes the child tax credit bigger and permanent, giving families $3,500 for each child under 18 and $4,500 for children under 6 years old. These changes are meant to help essential workers who serve struggling communities and make it easier for all families to get money back when they file their taxes. The essential worker tax credit lasts for three years while the child tax credit changes are permanent.",
+  "current_status": "referred_to_committee",
+  "status_date": "2025-01-28",
+  "last_action_date": "2025-01-28",
+  "last_action_text": "Referred to the House Committee on Ways and Means.",
+  "passed_house": false,
+  "passed_senate": false,
+  "became_law": false,
+  "vetoed": false,
+  "policy_area": "Taxation",
+  "subjects": [],
+  "sponsor_name": "Rep. James, John [R-MI-10]",
+  "sponsor_party": "R",
+  "sponsor_state": "MI",
+  "cosponsor_count": 1,
+  "crs_summary_available": true,
+  "plain_keywords": [
+    "tax credit for essential workers",
+    "nurses tax break",
+    "police officers tax credit",
+    "firefighters tax benefits",
+    "childcare workers tax help",
+    "child tax credit increase",
+    "money back on taxes",
+    "poor communities workers benefits",
+    "opportunity zones tax credit",
+    "families tax relief",
+    "essential workers poor areas",
+    "bigger child tax credit"
+  ],
+  "sections": [
+    {
+      "id": "s1",
+      "slug": "section-1-short-title",
+      "title": "Section 1 Short Title",
+      "text": "This law can be called the Reignite Hope Act of two thousand twenty five.",
+      "word_offset": 0,
+      "char_offset": 0
+    },
+    {
+      "id": "s2",
+      "slug": "section-2-credit-for-hired-critical-employees",
+      "title": "Section 2 Credit for Hired Critical Employees",
+      "text": "This section creates a new tax credit of three thousand five hundred dollars for certain important workers. To qualify, a worker must be employed full time for at least seventy five percent of the tax year in one of these jobs: healthcare workers like nursing assistants and licensed nurses, police officers, ambulance and rescue workers, firefighters, childcare providers, or home care assistants. The worker must also work mainly in an opportunity zone, which is a special area designated by the government to encourage economic development. The worker's employer must certify that the person worked full time and that their main workplace was in an opportunity zone. This tax credit will only be available for three years after this law is passed.",
+      "word_offset": 14,
+      "char_offset": 74
+    },
+    {
+      "id": "s3",
+      "slug": "section-3-permanent-extension-and-modification-of-special-rules-for-child-tax-credit",
+      "title": "Section 3 Permanent Extension and Modification of Special Rules for Child Tax Credit",
+      "text": "This section makes permanent changes to the child tax credit. Families will receive three thousand five hundred dollars for each qualifying child, or four thousand five hundred dollars if the child is under age six. For tax years before January first two thousand twenty six, families also get five hundred dollars for each other dependent who is not a qualifying child. The credit starts to decrease for families making more than four hundred thousand dollars per year if married filing jointly, or two hundred thousand dollars for other filing statuses. The credit decreases by fifty dollars for every one thousand dollars of income above these limits. To qualify for the credit, children must be under age eighteen, and both the child and any other dependents must have valid identification numbers included on the tax return. The law also makes it easier for families to get money back even if they owe no taxes by allowing them to claim fifteen and three tenths percent of their earned income as a refundable credit, with no minimum income requirement.",
+      "word_offset": 135,
+      "char_offset": 825
+    }
+  ]
+}
