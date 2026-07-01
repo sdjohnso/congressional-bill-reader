@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T03:26:07.637480+00:00",
+  "generated_at": "2026-07-01T15:27:38.897385+00:00",
   "bill_count": 1720,
   "bills": [
     {
@@ -19502,15 +19502,15 @@
       "congress": 119,
       "bill_number": "HR.1483",
       "introduced_date": "2025-02-21",
-      "stage": "referred_to_committee",
-      "stage_label": "In Committee",
+      "stage": "committee_reported",
+      "stage_label": "Passed Committee",
       "last_updated": "2026-04-05T04:41:45.419888+00:00",
       "plain_summary": "This bill stops the Securities and Exchange Commission from making stock exchanges and trading groups collect personal information about people when they track stock trades. Personal information includes things like names, addresses, and Social Security numbers that could identify who someone is. The bill protects people's private details from being collected during stock trading activities. It makes sure that when trades are tracked, personal information stays private and does not have to be gathered.",
       "section_count": 2,
-      "current_status": "referred_to_committee",
-      "status_date": "2025-02-21",
-      "last_action_date": "2025-02-21",
-      "last_action_text": "Referred to the House Committee on Financial Services.",
+      "current_status": "committee_reported",
+      "status_date": "2026-06-30",
+      "last_action_date": "2026-06-30",
+      "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 21.",
       "passed_house": false,
       "passed_senate": false,
       "became_law": false,
