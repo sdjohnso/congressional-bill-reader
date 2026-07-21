@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T03:18:52.114014+00:00",
+  "generated_at": "2026-07-21T15:31:37.826051+00:00",
   "bill_count": 1720,
   "bills": [
     {
@@ -4155,15 +4155,15 @@
       "congress": 119,
       "bill_number": "HR.2406",
       "introduced_date": "2025-03-27",
-      "stage": "referred_to_committee",
-      "stage_label": "In Committee",
+      "stage": "committee_reported",
+      "stage_label": "Passed Committee",
       "last_updated": "2026-04-08T13:56:36.283176+00:00",
       "plain_summary": "This bill makes new rules to protect workers at the National Oceanic and Atmospheric Administration from sexual harassment and assault. It makes it easier and safer for victims to report when bad things happen to them. The bill also requires people who run fishing boats to tell the Coast Guard about any problems. These changes are meant to keep NOAA workers safer while they do their jobs.",
       "section_count": 9,
-      "current_status": "referred_to_committee",
-      "status_date": "2026-05-29",
-      "last_action_date": "2026-06-03",
-      "last_action_text": "Subcommittee Hearings Held",
+      "current_status": "committee_reported",
+      "status_date": "2026-07-15",
+      "last_action_date": "2026-07-15",
+      "last_action_text": "Ordered to be Reported by Unanimous Consent.",
       "passed_house": false,
       "passed_senate": false,
       "became_law": false,
