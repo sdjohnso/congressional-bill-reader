@@ -3,8 +3,8 @@
   "congress": 119,
   "bill_type": "hr",
   "bill_number": "1252",
-  "title": "Uncovering UNRWA’s Terrorist Crimes Act",
-  "short_title": "Uncovering UNRWA’s Terrorist Crimes Act",
+  "title": "Uncovering UNRWA\u2019s Terrorist Crimes Act",
+  "short_title": "Uncovering UNRWA\u2019s Terrorist Crimes Act",
   "introduced_date": "2025-02-12",
   "update_date": "2025-05-28",
   "stage_label": "Referred to the House Committee on Foreign Affairs.",
@@ -14,7 +14,7 @@
   "sponsor_state": "TX",
   "policy_area": "International Affairs",
   "subjects": [],
-  "crs_summary": "Uncovering UNRWA’s Terrorist Crimes Act This bill prohibits federal funds from being used to provide funding, directly or indirectly, to the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA). The bill also requires the Department of State to report to Congress on (1) the total U.S. funding to&nbsp;UNRWA from FY2020 through FY2024, and (2) how such funds were spent.",
+  "crs_summary": "Uncovering UNRWA\u2019s Terrorist Crimes Act This bill prohibits federal funds from being used to provide funding, directly or indirectly, to the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA). The bill also requires the Department of State to report to Congress on (1) the total U.S. funding to&nbsp;UNRWA from FY2020 through FY2024, and (2) how such funds were spent.",
   "cosponsor_count": 10,
   "current_status": "referred_to_committee",
   "status_date": "2025-02-12",
@@ -29,9 +29,9 @@
   "vetoed": false,
   "vetoed_date": "",
   "simplified_complete": false,
-  "queued_at": "2026-07-26T02:01:14.027079+00:00",
+  "queued_at": "2026-07-26T13:44:15.096620+00:00",
   "process_failed": true,
-  "process_error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CdPsf38PWV8mQP2YoJSA5'}",
+  "process_error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CdQoBdLSgaSSDjNhK2fCV'}",
   "failed_chunk": 1,
-  "last_process_attempt": "2026-07-26T02:23:51.552787+00:00"
+  "last_process_attempt": "2026-07-26T14:05:48.044808+00:00"
 }

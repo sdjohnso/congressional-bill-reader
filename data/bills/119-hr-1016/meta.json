@@ -3,8 +3,8 @@
   "congress": 119,
   "bill_type": "hr",
   "bill_number": "1016",
-  "title": "Protecting Women’s Private Spaces Act",
-  "short_title": "Protecting Women’s Private Spaces Act",
+  "title": "Protecting Women\u2019s Private Spaces Act",
+  "short_title": "Protecting Women\u2019s Private Spaces Act",
   "introduced_date": "2025-02-05",
   "update_date": "2025-06-06",
   "stage_label": "Referred to the House Committee on Oversight and Government Reform.",
@@ -17,7 +17,7 @@
     "Government buildings, facilities, and property",
     "Sex, gender, sexual orientation discrimination"
   ],
-  "crs_summary": "Protecting Women’s Private Spaces Act This bill prohibits a person from accessing or using single-sex restrooms, locker rooms, or changing rooms on federal property other than those corresponding to such person's biological sex.&nbsp; This prohibition does not apply to (1) emergency medical personnel responding to a medical emergency, or (2) law enforcement officers in active pursuit of a suspect or as part of an active investigation.",
+  "crs_summary": "Protecting Women\u2019s Private Spaces Act This bill prohibits a person from accessing or using single-sex restrooms, locker rooms, or changing rooms on federal property other than those corresponding to such person's biological sex.&nbsp; This prohibition does not apply to (1) emergency medical personnel responding to a medical emergency, or (2) law enforcement officers in active pursuit of a suspect or as part of an active investigation.",
   "cosponsor_count": 9,
   "current_status": "referred_to_committee",
   "status_date": "2025-02-05",
@@ -32,9 +32,9 @@
   "vetoed": false,
   "vetoed_date": "",
   "simplified_complete": false,
-  "queued_at": "2026-07-26T02:11:26.629416+00:00",
+  "queued_at": "2026-07-26T13:53:29.629911+00:00",
   "process_failed": true,
-  "process_error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CdPsaUA9Qj5Gn5B5jG11f'}",
+  "process_error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CdQo76FoMgE9AwAgbXJ6T'}",
   "failed_chunk": 1,
-  "last_process_attempt": "2026-07-26T02:22:49.688772+00:00"
+  "last_process_attempt": "2026-07-26T14:04:46.533848+00:00"
 }

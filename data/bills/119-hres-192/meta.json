@@ -9,7 +9,7 @@
   "update_date": "2025-06-05",
   "stage_label": "Referred to the House Committee on Foreign Affairs.",
   "text_url": "https://www.congress.gov/119/bills/hres192/BILLS-119hres192ih.htm",
-  "sponsor_name": "Rep. Carson, André [D-IN-7]",
+  "sponsor_name": "Rep. Carson, Andr\u00e9 [D-IN-7]",
   "sponsor_party": "D",
   "sponsor_state": "IN",
   "policy_area": "International Affairs",
@@ -29,9 +29,9 @@
   "vetoed": false,
   "vetoed_date": "",
   "simplified_complete": false,
-  "queued_at": "2026-07-26T02:09:47.600446+00:00",
+  "queued_at": "2026-07-26T13:51:28.634785+00:00",
   "process_failed": true,
-  "process_error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CdPtEWAFiWWDJyXJPmXBU'}",
+  "process_error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CdQoktd7pxqX751rfQj3S'}",
   "failed_chunk": 1,
-  "last_process_attempt": "2026-07-26T02:31:25.538679+00:00"
+  "last_process_attempt": "2026-07-26T14:13:19.290234+00:00"
 }

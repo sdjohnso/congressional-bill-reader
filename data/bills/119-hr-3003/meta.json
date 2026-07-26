@@ -3,8 +3,8 @@
   "congress": 119,
   "bill_type": "hr",
   "bill_number": "3003",
-  "title": "Restore M–44 Act",
-  "short_title": "Restore M–44 Act",
+  "title": "Restore M\u201344 Act",
+  "short_title": "Restore M\u201344 Act",
   "introduced_date": "2025-04-24",
   "update_date": "2025-05-29",
   "stage_label": "Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subs",
@@ -29,9 +29,9 @@
   "vetoed": false,
   "vetoed_date": "",
   "simplified_complete": false,
-  "queued_at": "2026-07-26T02:04:43.053559+00:00",
+  "queued_at": "2026-07-26T13:47:00.495405+00:00",
   "process_failed": true,
-  "process_error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CdPuX6BTGq7yyLj63sFh7'}",
+  "process_error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CdQq2zKUzKNApFZjBJ4jH'}",
   "failed_chunk": 1,
-  "last_process_attempt": "2026-07-26T02:48:17.365305+00:00"
+  "last_process_attempt": "2026-07-26T14:30:04.480422+00:00"
 }
