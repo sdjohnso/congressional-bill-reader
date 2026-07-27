@@ -9,7 +9,7 @@
   "update_date": "2025-05-31",
   "stage_label": "Referred to the House Committee on Natural Resources.",
   "text_url": "https://www.congress.gov/119/bills/hr2714/BILLS-119hr2714ih.htm",
-  "sponsor_name": "Rescom. Hern\u00e1ndez, Pablo [D-PR-At Large]",
+  "sponsor_name": "Rescom. Hernández, Pablo [D-PR-At Large]",
   "sponsor_party": "D",
   "sponsor_state": "PR",
   "policy_area": "Energy",
@@ -29,9 +29,9 @@
   "vetoed": false,
   "vetoed_date": "",
   "simplified_complete": false,
-  "queued_at": "2026-07-26T13:48:29.857028+00:00",
+  "queued_at": "2026-07-27T02:10:45.198418+00:00",
   "process_failed": true,
-  "process_error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CdQqXirsJfEhyd17knMKq'}",
+  "process_error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CdRp3Tx33yMTc2gvhfdCZ'}",
   "failed_chunk": 1,
-  "last_process_attempt": "2026-07-26T14:36:34.285164+00:00"
+  "last_process_attempt": "2026-07-27T02:57:39.800661+00:00"
 }
