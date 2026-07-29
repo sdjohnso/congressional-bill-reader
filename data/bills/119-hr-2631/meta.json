@@ -29,9 +29,9 @@
   "vetoed": false,
   "vetoed_date": "",
   "simplified_complete": false,
-  "queued_at": "2026-07-29T01:52:31.531330+00:00",
+  "queued_at": "2026-07-29T14:25:47.648160+00:00",
   "process_failed": true,
-  "process_error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CdVZ1FAYxf3aRjAdfZfgb'}",
+  "process_error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CdWYQd5xDcfQriw6CGsJK'}",
   "failed_chunk": 1,
-  "last_process_attempt": "2026-07-29T02:22:49.973586+00:00"
+  "last_process_attempt": "2026-07-29T14:55:35.920630+00:00"
 }
